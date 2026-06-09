@@ -1,0 +1,1328 @@
+[
+  {
+    "source_sentence": "Living tissue ground in trichloroacetic acid yields acid-soluble and acid-insoluble fractions.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Grinding living tissue in trichloroacetic acid (Cl3CCOOH) and straining through cheesecloth separates:",
+    "options": {
+      "A": "Acid-soluble pool (filtrate) and acid-insoluble fraction (retentate)",
+      "B": "Only inorganic ash and water",
+      "C": "DNA exclusively in filtrate and proteins in retentate only",
+      "D": "Lipids in filtrate and nucleic acids in retentate only"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT describes filtrate as acid-soluble pool and retentate as acid-insoluble fraction."
+  },
+  {
+    "source_sentence": "Carbon 18.5% in human body vs 0.03% in earth's crust per Table 9.1.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "According to Table 9.1, which element shows the greatest relative enrichment in the human body compared to earth's crust?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon",
+      "C": "Silicon",
+      "D": "Sodium"
+    },
+    "correct_answer": "B",
+    "explanation": "Carbon rises from 0.03% in crust to 18.5% in body—a far larger fold-change than other listed elements."
+  },
+  {
+    "source_sentence": "Table 9.1: Hydrogen 0.14% crust, 9.5% human body.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Table 9.1 lists hydrogen in the human body at approximately:",
+    "options": {
+      "A": "0.14%",
+      "B": "3.3%",
+      "C": "9.5%",
+      "D": "18.5%"
+    },
+    "correct_answer": "C",
+    "explanation": "Hydrogen is 9.5% by weight in the human body per Table 9.1."
+  },
+  {
+    "source_sentence": "Table 9.1: Silicon 27.7% crust, negligible in human body.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which element is abundant in earth's crust (27.7%) but negligible in the human body?",
+    "options": {
+      "A": "Calcium",
+      "B": "Magnesium",
+      "C": "Silicon",
+      "D": "Sulphur"
+    },
+    "correct_answer": "C",
+    "explanation": "Silicon dominates crust composition but is negligible in living tissue."
+  },
+  {
+    "source_sentence": "Table 9.2 lists Na+, K+, Ca++, Mg++, H2O and ionic compounds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Table 9.2 includes all of the following EXCEPT:",
+    "options": {
+      "A": "K+",
+      "B": "PO4^3-",
+      "C": "Fe2+ as a listed inorganic constituent",
+      "D": "H2O"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 9.2 lists Na+, K+, Ca++, Mg++, water and compounds like NaCl, CaCO3, PO4^3-, SO4^2-; Fe2+ is not listed."
+  },
+  {
+    "source_sentence": "Wet weight dried gives dry weight; burning leaves ash with inorganic elements.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Ash obtained after complete burning of living tissue contains:",
+    "options": {
+      "A": "Only organic carbon compounds",
+      "B": "Inorganic elements like Ca and Mg",
+      "C": "Only water-soluble amino acids",
+      "D": "Only nucleic acids"
+    },
+    "correct_answer": "B",
+    "explanation": "Burning oxidises carbon compounds; remaining ash has inorganic elements."
+  },
+  {
+    "source_sentence": "Primary metabolites have identifiable physiological roles; secondary metabolites include alkaloids and rubber.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Morphine and rubber are classified as:",
+    "options": {
+      "A": "Primary metabolites",
+      "B": "Secondary metabolites",
+      "C": "Micromolecules only",
+      "D": "Inorganic ash constituents"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 9.3 lists morphine under alkaloids and rubber under polymeric secondary metabolites."
+  },
+  {
+    "source_sentence": "Amino acids, sugars in acid-soluble pool are primary metabolites.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Primary metabolites in living tissues include:",
+    "options": {
+      "A": "Vinblastin and essential oils",
+      "B": "Amino acids and sugars",
+      "C": "Abrin and ricin",
+      "D": "Carotenoids only"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary metabolites include amino acids, sugars etc. found in all animal tissues."
+  },
+  {
+    "source_sentence": "Table 9.3: Concanavalin A is a lectin secondary metabolite.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Concanavalin A listed in Table 9.3 is a:",
+    "options": {
+      "A": "Alkaloid",
+      "B": "Lectin",
+      "C": "Terpenoid",
+      "D": "Essential oil"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 9.3 places Concanavalin A under lectins."
+  },
+  {
+    "source_sentence": "Acid insoluble fraction has proteins, nucleic acids, polysaccharides and lipids.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The acid-insoluble (macromolecular) fraction of living tissue contains:",
+    "options": {
+      "A": "Only proteins",
+      "B": "Proteins, nucleic acids, polysaccharides and lipids",
+      "C": "Only micromolecules below 1000 Da",
+      "D": "Only secondary metabolites"
+    },
+    "correct_answer": "B",
+    "explanation": "Four organic compound classes appear in the acid-insoluble fraction."
+  },
+  {
+    "source_sentence": "Lipids separate in macromolecular fraction because membrane vesicles form on grinding.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lipids (MW < 800 Da) appear in the macromolecular fraction because:",
+    "options": {
+      "A": "They are true polymers of 10,000+ Da",
+      "B": "Membrane fragments form water-insoluble vesicles on grinding",
+      "C": "They are insoluble in TCA only",
+      "D": "They bind irreversibly to proteins above 10 kDa"
+    },
+    "correct_answer": "B",
+    "explanation": "Disrupted membranes form vesicles that pellet with macromolecules; lipids are not strict macromolecules."
+  },
+  {
+    "source_sentence": "Micromolecules have MW roughly 18–800 Da.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Biomolecules with molecular weight typically below 1000 Da are called:",
+    "options": {
+      "A": "Biomacromolecules",
+      "B": "Micromolecules",
+      "C": "Secondary metabolites only",
+      "D": "Ash constituents"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT defines micromolecules as those below about 1000 Da in the acid-soluble pool."
+  },
+  {
+    "source_sentence": "Proteins are heteropolymers of 20 amino acids linked by peptide bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A protein differs from a homopolymer because it:",
+    "options": {
+      "A": "Has only glycine repeating",
+      "B": "Contains up to 20 different amino acid monomers",
+      "C": "Lacks peptide bonds",
+      "D": "Is built only of nucleotides"
+    },
+    "correct_answer": "B",
+    "explanation": "Proteins are heteropolymers with 20 types of amino acids."
+  },
+  {
+    "source_sentence": "Essential amino acids must come from diet.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Amino acids that cannot be synthesised in the human body and must be obtained from food are termed:",
+    "options": {
+      "A": "Non-essential amino acids",
+      "B": "Essential amino acids",
+      "C": "Aromatic amino acids only",
+      "D": "Micromolecules"
+    },
+    "correct_answer": "B",
+    "explanation": "Essential amino acids must be supplied through diet."
+  },
+  {
+    "source_sentence": "Collagen most abundant in animals; RuBisCO most abundant in biosphere.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which protein has the highest abundance globally across all photosynthetic organisms?",
+    "options": {
+      "A": "Collagen",
+      "B": "Haemoglobin",
+      "C": "RuBisCO",
+      "D": "Trypsin"
+    },
+    "correct_answer": "C",
+    "explanation": "RuBisCO is most abundant in the biosphere; collagen leads in animals."
+  },
+  {
+    "source_sentence": "Table 9.5: GLUT-4 enables glucose transport into cells.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "GLUT-4 listed in Table 9.5 functions to:",
+    "options": {
+      "A": "Fight infectious agents",
+      "B": "Enable glucose transport into cells",
+      "C": "Form intercellular ground substance",
+      "D": "Act as a hormone"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 9.5 assigns GLUT-4 to glucose transport."
+  },
+  {
+    "source_sentence": "Table 9.4: Water 70-90% of cellular mass.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "According to Table 9.4, the most abundant component of cells by mass is:",
+    "options": {
+      "A": "Proteins",
+      "B": "Nucleic acids",
+      "C": "Water",
+      "D": "Lipids"
+    },
+    "correct_answer": "C",
+    "explanation": "Water constitutes 70–90% of total cellular mass."
+  },
+  {
+    "source_sentence": "Primary structure is amino acid sequence; N-terminal is first, C-terminal is last.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Positional information of amino acids from N-terminal to C-terminal defines:",
+    "options": {
+      "A": "Quaternary structure",
+      "B": "Primary structure",
+      "C": "Only lipid bilayer",
+      "D": "DNA replication fork"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary structure is the amino acid sequence."
+  },
+  {
+    "source_sentence": "Only right-handed alpha helices in proteins.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In proteins, alpha-helical secondary structure is:",
+    "options": {
+      "A": "Always left-handed",
+      "B": "Only right-handed",
+      "C": "Only in DNA",
+      "D": "Absent in enzymes"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states only right-handed helices are observed in proteins."
+  },
+  {
+    "source_sentence": "Haemoglobin has 2 alpha and 2 beta subunits—quaternary structure.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Adult human haemoglobin exemplifies:",
+    "options": {
+      "A": "Primary structure only",
+      "B": "Quaternary structure with 4 subunits",
+      "C": "Only secondary structure",
+      "D": "A homopolymer of one amino acid"
+    },
+    "correct_answer": "B",
+    "explanation": "Hb has two α and two β subunits—classic quaternary structure."
+  },
+  {
+    "source_sentence": "Cellulose homopolymer of glucose; starch helical and holds I2.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Starch gives a blue colour with iodine because:",
+    "options": {
+      "A": "It is a protein",
+      "B": "Helical regions trap I2 molecules",
+      "C": "It contains only fructose",
+      "D": "It lacks glucose units"
+    },
+    "correct_answer": "B",
+    "explanation": "Starch helices hold I2; cellulose lacks such helices and cannot hold I2."
+  },
+  {
+    "source_sentence": "Glycogen has reducing and non-reducing ends.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In a polysaccharide chain like glycogen, the right end is called:",
+    "options": {
+      "A": "Non-reducing end",
+      "B": "Reducing end",
+      "C": "C-terminal",
+      "D": "N-terminal"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT names the right end the reducing end and left end the non-reducing end."
+  },
+  {
+    "source_sentence": "Chitin in arthropod exoskeleton is complex homopolymer.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Chitin found in arthropod exoskeletons is a:",
+    "options": {
+      "A": "Fatty acid",
+      "B": "Complex polysaccharide homopolymer",
+      "C": "Nucleotide",
+      "D": "Secondary metabolite alkaloid"
+    },
+    "correct_answer": "B",
+    "explanation": "Chitin is a complex polysaccharide, mostly a homopolymer with amino-sugars."
+  },
+  {
+    "source_sentence": "Inulin is polymer of fructose.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Inulin, a storage polysaccharide, is a polymer of:",
+    "options": {
+      "A": "Glucose only",
+      "B": "Fructose",
+      "C": "Amino acids",
+      "D": "Nucleotides"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT lists inulin as a fructose polymer."
+  },
+  {
+    "source_sentence": "DNA has deoxyribose; RNA has ribose.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Deoxyribonucleic acid differs from ribonucleic acid in having:",
+    "options": {
+      "A": "Uracil instead of thymine",
+      "B": "2'-deoxyribose instead of ribose",
+      "C": "Ribose instead of deoxyribose",
+      "D": "Only protein components"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA contains 2'-deoxyribose; RNA contains ribose."
+  },
+  {
+    "source_sentence": "Adenine and guanine are purines; cytosine, uracil, thymine are pyrimidines.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which pair are substituted purines in nucleic acids?",
+    "options": {
+      "A": "Cytosine and uracil",
+      "B": "Adenine and guanine",
+      "C": "Thymine and uracil only",
+      "D": "Ribose and deoxyribose"
+    },
+    "correct_answer": "B",
+    "explanation": "Adenine and guanine are purines; others listed are pyrimidines."
+  },
+  {
+    "source_sentence": "Nucleotide = base + sugar + phosphate.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A nucleotide contains all of the following EXCEPT:",
+    "options": {
+      "A": "Nitrogenous base",
+      "B": "Pentose sugar",
+      "C": "Phosphoric acid/phosphate",
+      "D": "Amino acid side chain"
+    },
+    "correct_answer": "D",
+    "explanation": "Nucleotides have heterocyclic base, monosaccharide and phosphate."
+  },
+  {
+    "source_sentence": "Carbonic anhydrase accelerates CO2 + H2O reaction about 10 million times.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Carbonic anhydrase increases CO2 hydration from ~200 molecules/hour to about:",
+    "options": {
+      "A": "600 molecules/second",
+      "B": "600,000 molecules/second",
+      "C": "200 molecules/second",
+      "D": "10,000 molecules/hour"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT gives ~600,000 molecules formed every second with the enzyme."
+  },
+  {
+    "source_sentence": "Activation energy is difference between substrate and transition state energy.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Activation energy in an enzyme-catalysed reaction is:",
+    "options": {
+      "A": "Energy difference between product and substrate",
+      "B": "Energy difference between substrate average and transition state",
+      "C": "Total heat released in exothermic reaction",
+      "D": "Energy of ES complex at equilibrium only"
+    },
+    "correct_answer": "B",
+    "explanation": "Activation energy is the barrier between S and the transition state."
+  },
+  {
+    "source_sentence": "Enzymes lower activation energy; do not change overall delta G of reaction.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Catalytic proteins accelerate biochemical reactions chiefly by:",
+    "options": {
+      "A": "Increasing product free energy",
+      "B": "Reducing activation energy barrier",
+      "C": "Preventing ES complex formation",
+      "D": "Converting endothermic to physical changes"
+    },
+    "correct_answer": "B",
+    "explanation": "Enzymes lower activation energy without changing overall ΔG."
+  },
+  {
+    "source_sentence": "ES complex formation is obligatory and transient.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In the mechanism E + S ⇌ ES → EP → E + P, formation of ES is:",
+    "options": {
+      "A": "Not required for catalysis",
+      "B": "Essential and transient",
+      "C": "Permanent",
+      "D": "Only for ribozymes"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states ES complex formation is essential for catalysis."
+  },
+  {
+    "source_sentence": "Optimum temperature and pH; denaturation above optimum.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "When temperature is raised far above the optimum for a mesophilic enzyme:",
+    "options": {
+      "A": "Activity keeps increasing indefinitely",
+      "B": "Protein denatures and activity is lost",
+      "C": "Only Km changes but Vmax is unchanged",
+      "D": "Competitive inhibition disappears"
+    },
+    "correct_answer": "B",
+    "explanation": "High temperature destroys tertiary structure—denaturation."
+  },
+  {
+    "source_sentence": "Substrate concentration rises to Vmax then plateaus when enzyme saturated.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "At very high substrate concentration, reaction velocity plateaus because:",
+    "options": {
+      "A": "All enzyme active sites are occupied",
+      "B": "Enzyme is denatured immediately",
+      "C": "Cofactors are absent",
+      "D": "Activation energy becomes infinite"
+    },
+    "correct_answer": "A",
+    "explanation": "Beyond saturation, no free enzyme remains to bind additional substrate."
+  },
+  {
+    "source_sentence": "Competitive inhibitor resembles substrate; malonate inhibits succinic dehydrogenase.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Malonate inhibition of succinic dehydrogenase is:",
+    "options": {
+      "A": "Non-competitive",
+      "B": "Competitive",
+      "C": "Irreversible covalent",
+      "D": "Allosteric only"
+    },
+    "correct_answer": "B",
+    "explanation": "Malonate structurally resembles succinate and competes for the active site."
+  },
+  {
+    "source_sentence": "Competitive inhibition can be overcome by raising substrate concentration.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In competitive inhibition, increasing substrate concentration will:",
+    "options": {
+      "A": "Have no effect on reaction rate",
+      "B": "Decrease Vmax permanently",
+      "C": "Reduce inhibitor binding and restore velocity toward Vmax",
+      "D": "Denature the enzyme"
+    },
+    "correct_answer": "C",
+    "explanation": "Higher [S] outcompetes inhibitor for active site—classic NEET trap vs non-competitive."
+  },
+  {
+    "source_sentence": "Non-competitive inhibitor: Vmax decreases, Km unchanged (NEET extension of NCERT competitive case).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A competitive inhibitor affects enzyme kinetics such that:",
+    "options": {
+      "A": "Km appears increased but Vmax is unchanged",
+      "B": "Vmax is halved but Km unchanged",
+      "C": "Both Km and Vmax decrease equally",
+      "D": "Only activation energy increases without binding"
+    },
+    "correct_answer": "A",
+    "explanation": "Competitive inhibitors raise apparent Km without changing Vmax—standard NEET kinetics trap."
+  },
+  {
+    "source_sentence": "Rate doubles or halves per 10°C change—rule of thumb.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A general rule of thumb for many chemical processes is that rate:",
+    "options": {
+      "A": "Is independent of temperature",
+      "B": "Doubles or halves for every 10°C change",
+      "C": "Triples for every 1°C rise",
+      "D": "Depends only on pH"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states rate doubles or decreases by half per 10°C change."
+  },
+  {
+    "source_sentence": "Thermophile enzymes stable at 80-90°C.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes from thermophilic organisms differ from typical mesophilic enzymes by:",
+    "options": {
+      "A": "Being inactive at high temperature",
+      "B": "Retaining catalytic activity at 80–90°C",
+      "C": "Lacking tertiary structure",
+      "D": "Being only ribozymes"
+    },
+    "correct_answer": "B",
+    "explanation": "Thermophile enzymes remain stable at high temperatures."
+  },
+  {
+    "source_sentence": "Ribozymes are catalytic nucleic acids.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Catalytic nucleic acids are called:",
+    "options": {
+      "A": "Apoenzymes",
+      "B": "Ribozymes",
+      "C": "Coenzymes",
+      "D": "Prosthetic groups"
+    },
+    "correct_answer": "B",
+    "explanation": "Some nucleic acids behave like enzymes—ribozymes."
+  },
+  {
+    "source_sentence": "Six enzyme classes: oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes that catalyse interconversion of optical or geometric isomers belong to:",
+    "options": {
+      "A": "Lyases",
+      "B": "Isomerases",
+      "C": "Ligases",
+      "D": "Transferases"
+    },
+    "correct_answer": "B",
+    "explanation": "Isomerases catalyse isomer interconversions."
+  },
+  {
+    "source_sentence": "Hydrolases break ester, peptide, glycosidic bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Trypsin digesting proteins is an example of:",
+    "options": {
+      "A": "Oxidoreductase",
+      "B": "Hydrolase",
+      "C": "Lyase",
+      "D": "Ligase"
+    },
+    "correct_answer": "B",
+    "explanation": "Proteolytic enzymes hydrolyse peptide bonds—hydrolases."
+  },
+  {
+    "source_sentence": "Ligases join two molecules with C-O, C-N bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "DNA ligase joining DNA fragments is classified as a:",
+    "options": {
+      "A": "Lyase",
+      "B": "Ligase",
+      "C": "Isomerase",
+      "D": "Transferase"
+    },
+    "correct_answer": "B",
+    "explanation": "Ligases catalyse joining of two compounds."
+  },
+  {
+    "source_sentence": "Apoenzyme is protein part; holoenzyme includes cofactor.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "When a cofactor is removed from a conjugated enzyme, the remaining protein part is the:",
+    "options": {
+      "A": "Holoenzyme",
+      "B": "Apoenzyme",
+      "C": "Substrate",
+      "D": "Transition state"
+    },
+    "correct_answer": "B",
+    "explanation": "Apoenzyme lacks cofactor; holoenzyme is complete and active."
+  },
+  {
+    "source_sentence": "Prosthetic groups tightly bound; haem in peroxidase.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Haem in peroxidase is a:",
+    "options": {
+      "A": "Loosely bound coenzyme",
+      "B": "Tightly bound prosthetic group",
+      "C": "Metal ion only",
+      "D": "Substrate molecule"
+    },
+    "correct_answer": "B",
+    "explanation": "Prosthetic groups are organic and tightly bound to apoenzyme."
+  },
+  {
+    "source_sentence": "NAD and NADP contain vitamin niacin.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Coenzymes NAD and NADP contain the vitamin:",
+    "options": {
+      "A": "Niacin",
+      "B": "Ascorbic acid",
+      "C": "Thiamine only",
+      "D": "Biotin only"
+    },
+    "correct_answer": "A",
+    "explanation": "Niacin is an essential component of NAD/NADP."
+  },
+  {
+    "source_sentence": "Zinc is cofactor for carboxypeptidase.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Carboxypeptidase requires which metal ion cofactor?",
+    "options": {
+      "A": "Iron",
+      "B": "Zinc",
+      "C": "Copper only",
+      "D": "Magnesium only"
+    },
+    "correct_answer": "B",
+    "explanation": "Zinc forms coordination bonds at the active site of carboxypeptidase."
+  },
+  {
+    "source_sentence": "Lipids appear in acid-insoluble fraction.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Assertion (A): Lipids appear in the macromolecular fraction because they are large polymers.\nReason (R): Lipids have molecular weights exceeding 10,000 Da.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "D",
+    "explanation": "Lipids are <800 Da; they pellet due to membrane vesicles, not high MW."
+  },
+  {
+    "source_sentence": "Enzymes are denatured above about 40°C in most organisms.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Assertion (A): Mesophilic enzymes lose activity at high temperature.\nReason (R): High temperature destroys tertiary structure by denaturation.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; denaturation explains loss of activity above optimum."
+  },
+  {
+    "source_sentence": "At substrate saturation, further increase in [S] does not increase velocity.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Assertion (A): Reaction velocity reaches Vmax.\nReason (R): All enzyme molecules are already bound to substrate.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Saturation occurs when no free enzyme remains—R correctly explains A."
+  },
+  {
+    "source_sentence": "Competitive inhibitors resemble substrate structure.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Assertion (A): Competitive inhibitors compete for the active site.\nReason (R): Malonate inhibits succinic dehydrogenase.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but the specific example does not explain the general principle as R of A."
+  },
+  {
+    "source_sentence": "Micromolecules are found in acid-soluble pool.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Assertion (A): The acid-soluble pool contains micromolecules.\nReason (R): Their molecular weights range from about 18 to 800 Da.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Acid-soluble pool contains small biomolecules in that MW range."
+  },
+  {
+    "source_sentence": "RuBisCO is the most abundant protein on Earth.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Assertion (A): RuBisCO is the most abundant protein in the biosphere.\nReason (R): It catalyses the first step of carbon fixation in all plants.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true; RuBisCO abundance reflects vast photosynthetic biomass but R is not the strict explanation of A."
+  },
+  {
+    "source_sentence": "Table 9.4: Proteins 10-15%, carbohydrates 3%, lipids 2%.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Match Table 9.4 values:\nProteins | Carbohydrates | Lipids\n---|---|---\n?",
+    "options": {
+      "A": "10–15% | 3% | 2%",
+      "B": "3% | 10–15% | 2%",
+      "C": "2% | 3% | 10–15%",
+      "D": "5–7% | 3% | 70%"
+    },
+    "correct_answer": "A",
+    "explanation": "Proteins 10–15%, carbohydrates 3%, lipids 2% per Table 9.4."
+  },
+  {
+    "source_sentence": "Table 9.1 comparison earth crust vs human body.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Based on Table 9.1, nitrogen in human body is about 3.3% while in crust it is:",
+    "options": {
+      "A": "27.7%",
+      "B": "Very little",
+      "C": "46.6%",
+      "D": "18.5%"
+    },
+    "correct_answer": "B",
+    "explanation": "Nitrogen is very little in crust but 3.3% in human body."
+  },
+  {
+    "source_sentence": "Amino acids have amino and carboxyl on same alpha carbon.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Alpha-amino acids are defined by having:",
+    "options": {
+      "A": "Amino and carboxyl groups on different carbons",
+      "B": "Amino and acidic groups as substituents on the same α-carbon",
+      "C": "Only an R group on beta carbon",
+      "D": "No ionisable groups"
+    },
+    "correct_answer": "B",
+    "explanation": "Alpha-amino acids have both groups on the same α-carbon."
+  },
+  {
+    "source_sentence": "Acidic, basic and neutral amino acids based on side chains.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Glutamic acid and lysine are examples of:",
+    "options": {
+      "A": "Neutral and aromatic amino acids respectively",
+      "B": "Acidic and basic amino acids",
+      "C": "Only essential amino acids",
+      "D": "Nucleotide bases"
+    },
+    "correct_answer": "B",
+    "explanation": "Glutamic acid is acidic; lysine is basic."
+  },
+  {
+    "source_sentence": "Phospholipids have phosphorus and phosphorylated compound; in cell membrane.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lecithin, containing phosphorus and a phosphorylated nitrogenous compound, is classified as a:",
+    "options": {
+      "A": "Neutral fat",
+      "B": "Phospholipid of cell membranes",
+      "C": "Nucleoside",
+      "D": "Alkaloid"
+    },
+    "correct_answer": "B",
+    "explanation": "Lecithin is a membrane phospholipid."
+  },
+  {
+    "source_sentence": "Oils have lower melting point than fats.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Oils remain liquid in winter because they:",
+    "options": {
+      "A": "Have higher melting point than fats",
+      "B": "Have lower melting point than fats",
+      "C": "Are proteins",
+      "D": "Lack fatty acids"
+    },
+    "correct_answer": "B",
+    "explanation": "Oils have lower melting points; fats are solid at room temperature."
+  },
+  {
+    "source_sentence": "Palmitic acid 16 carbons; arachidonic 20 carbons.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Arachidonic acid compared to palmitic acid has:",
+    "options": {
+      "A": "Fewer carbon atoms",
+      "B": "More carbon atoms including carboxyl carbon",
+      "C": "No carboxyl group",
+      "D": "Only saturated bonds"
+    },
+    "correct_answer": "B",
+    "explanation": "Palmitic 16C; arachidonic 20C including carboxyl carbon."
+  },
+  {
+    "source_sentence": "Metabolic pathway: multistep enzyme catalysed reactions.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Glucose to pyruvate via ten enzyme-catalysed steps is a:",
+    "options": {
+      "A": "Single-step reaction",
+      "B": "Metabolic pathway",
+      "C": "Physical change only",
+      "D": "Photochemical reaction"
+    },
+    "correct_answer": "B",
+    "explanation": "Multistep reactions catalysed by enzymes constitute a metabolic pathway."
+  },
+  {
+    "source_sentence": "Anaerobic muscle makes lactic acid; yeast makes ethanol from same glycolysis start.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The same glycolytic pathway from glucose can yield:",
+    "options": {
+      "A": "Only pyruvate under all conditions",
+      "B": "Pyruvate, lactic acid or ethanol depending on conditions",
+      "C": "Only CO2 directly in cytoplasm",
+      "D": "Only starch"
+    },
+    "correct_answer": "B",
+    "explanation": "Different cells produce different end products from pyruvate."
+  },
+  {
+    "source_sentence": "Active site is pocket where substrate fits.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The active site of an enzyme is best described as:",
+    "options": {
+      "A": "The N-terminal amino acid only",
+      "B": "A crevice or pocket where substrate binds",
+      "C": "The secondary structure helix only",
+      "D": "The cofactor alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Active site is a pocket in tertiary structure where substrate fits."
+  },
+  {
+    "source_sentence": "Figure 9.5: activity vs pH shows optimum pH.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "An enzyme showing maximum activity at a particular pH and decline on either side is demonstrating:",
+    "options": {
+      "A": "Competitive inhibition",
+      "B": "Effect of pH on tertiary structure and activity",
+      "C": "Substrate saturation",
+      "D": "Quaternary assembly only"
+    },
+    "correct_answer": "B",
+    "explanation": "pH affects ionisation of active site residues—optimum pH curve."
+  },
+  {
+    "source_sentence": "Low temperature preserves enzyme in temporarily inactive state.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Below optimum temperature, enzyme activity is lower mainly because:",
+    "options": {
+      "A": "Enzyme is permanently denatured",
+      "B": "Molecular collisions and flexibility are reduced",
+      "C": "Substrate is denatured only",
+      "D": "Cofactors are destroyed irreversibly"
+    },
+    "correct_answer": "B",
+    "explanation": "Low T reduces activity; high T denatures—NEET distinction."
+  },
+  {
+    "source_sentence": "Inorganic catalysts work at high T and pressure; enzymes do not.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A major difference between inorganic catalysts and enzymes is:",
+    "options": {
+      "A": "Enzymes work only at 500°C",
+      "B": "Enzymes are damaged at high temperatures unlike many inorganic catalysts",
+      "C": "Inorganic catalysts are proteins",
+      "D": "Enzymes lack specificity"
+    },
+    "correct_answer": "B",
+    "explanation": "Enzymes denature at high T; inorganic catalysts often need high T/pressure."
+  },
+  {
+    "source_sentence": "Invertase converts sucrose to glucose and fructose.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Invertase hydrolyses sucrose into:",
+    "options": {
+      "A": "Glucose and fructose",
+      "B": "Only glucose",
+      "C": "Starch and cellulose",
+      "D": "Amino acids"
+    },
+    "correct_answer": "A",
+    "explanation": "Invertase splits sucrose into glucose and fructose."
+  },
+  {
+    "source_sentence": "Glycerol is trihydroxy propane.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Glycerol is chemically:",
+    "options": {
+      "A": "Trihydroxy propane",
+      "B": "A nucleotide",
+      "C": "A purine base",
+      "D": "A saturated hydrocarbon only"
+    },
+    "correct_answer": "A",
+    "explanation": "Glycerol is trihydroxy propane."
+  },
+  {
+    "source_sentence": "Saturated fatty acids lack C=C bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Palmitic acid as a saturated fatty acid has:",
+    "options": {
+      "A": "One or more C=C double bonds",
+      "B": "No C=C double bonds",
+      "C": "A phosphate group",
+      "D": "A nitrogenous base"
+    },
+    "correct_answer": "B",
+    "explanation": "Saturated fatty acids lack double bonds."
+  },
+  {
+    "source_sentence": "Nucleoside = base + sugar; nucleotide adds phosphate.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Adenylic acid is a:",
+    "options": {
+      "A": "Nucleoside",
+      "B": "Nucleotide",
+      "C": "Fatty acid",
+      "D": "Monosaccharide only"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleotides include phosphate; adenylic acid is a nucleotide."
+  },
+  {
+    "source_sentence": "DNA and RNA are genetic material.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Nucleic acids function primarily as:",
+    "options": {
+      "A": "Energy storage only",
+      "B": "Genetic material",
+      "C": "Membrane lipids",
+      "D": "Secondary metabolite toxins"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA and RNA carry genetic information."
+  },
+  {
+    "source_sentence": "Secondary structure includes alpha helix.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Local folding of a polypeptide into helix is:",
+    "options": {
+      "A": "Primary structure",
+      "B": "Secondary structure",
+      "C": "Quaternary structure only",
+      "D": "DNA replication"
+    },
+    "correct_answer": "B",
+    "explanation": "Helices are secondary structure."
+  },
+  {
+    "source_sentence": "Tertiary structure required for biological activity.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Loss of tertiary structure of an enzyme will:",
+    "options": {
+      "A": "Always increase activity",
+      "B": "Destroy catalytic activity",
+      "C": "Increase Km only without affecting activity",
+      "D": "Create a new active site automatically"
+    },
+    "correct_answer": "B",
+    "explanation": "Tertiary structure is necessary for function."
+  },
+  {
+    "source_sentence": "Coenzymes bind transiently during catalysis.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Coenzymes differ from prosthetic groups because they:",
+    "options": {
+      "A": "Are tightly bound permanently",
+      "B": "Associate transiently during catalysis",
+      "C": "Are always metal ions",
+      "D": "Are not organic"
+    },
+    "correct_answer": "B",
+    "explanation": "Coenzymes bind transiently; prosthetic groups are tight."
+  },
+  {
+    "source_sentence": "Removing cofactor abolishes catalytic activity.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Catalytic activity is lost when cofactor is removed because:",
+    "options": {
+      "A": "Substrate disappears",
+      "B": "Cofactor is crucial for catalytic function",
+      "C": "Primary structure changes",
+      "D": "DNA is degraded"
+    },
+    "correct_answer": "B",
+    "explanation": "Cofactors play a crucial role in catalysis."
+  },
+  {
+    "source_sentence": "Acid soluble pool approximates cytoplasmic composition.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The acid-soluble pool of living tissue roughly represents:",
+    "options": {
+      "A": "Only nuclear content",
+      "B": "Cytoplasmic composition",
+      "C": "Only cell wall",
+      "D": "Only secondary metabolites"
+    },
+    "correct_answer": "B",
+    "explanation": "Acid-soluble pool represents cytoplasmic micromolecules."
+  },
+  {
+    "source_sentence": "Twenty amino acids occur in proteins.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "How many types of amino acids typically occur in proteins?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "20",
+      "D": "64"
+    },
+    "correct_answer": "C",
+    "explanation": "Twenty amino acid types are incorporated into proteins."
+  },
+  {
+    "source_sentence": "Glycine has H as R group.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The amino acid with hydrogen as the R group is:",
+    "options": {
+      "A": "Alanine",
+      "B": "Glycine",
+      "C": "Valine",
+      "D": "Serine"
+    },
+    "correct_answer": "B",
+    "explanation": "Glycine has R = H."
+  },
+  {
+    "source_sentence": "Tyrosine, phenylalanine, tryptophan are aromatic.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which amino acid is aromatic?",
+    "options": {
+      "A": "Valine",
+      "B": "Tryptophan",
+      "C": "Glycine",
+      "D": "Alanine"
+    },
+    "correct_answer": "B",
+    "explanation": "Tryptophan is aromatic along with tyrosine and phenylalanine."
+  },
+  {
+    "source_sentence": "Starch in plants; glycogen in animals as storage.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The storage polysaccharide in animal tissues is:",
+    "options": {
+      "A": "Cellulose",
+      "B": "Glycogen",
+      "C": "Inulin only in animals",
+      "D": "Chitin"
+    },
+    "correct_answer": "B",
+    "explanation": "Animals store glycogen; plants store starch."
+  },
+  {
+    "source_sentence": "Cellulose homopolymer; plant cell walls.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Plant cell walls are primarily made of:",
+    "options": {
+      "A": "Starch",
+      "B": "Cellulose",
+      "C": "Glycogen",
+      "D": "Lecithin"
+    },
+    "correct_answer": "B",
+    "explanation": "Cellulose forms plant cell walls."
+  },
+  {
+    "source_sentence": "Oxidoreductases catalyse redox between two substrates.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Dehydrogenases belong to class:",
+    "options": {
+      "A": "Hydrolases",
+      "B": "Oxidoreductases",
+      "C": "Lyases",
+      "D": "Isomerases"
+    },
+    "correct_answer": "B",
+    "explanation": "Dehydrogenases are oxidoreductases."
+  },
+  {
+    "source_sentence": "Transferases transfer groups other than hydrogen.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzyme moving a phosphate group between substrates is a:",
+    "options": {
+      "A": "Transferase",
+      "B": "Lyase",
+      "C": "Ligase",
+      "D": "Isomerase"
+    },
+    "correct_answer": "A",
+    "explanation": "Transferases catalyse group transfer."
+  },
+  {
+    "source_sentence": "Lyases remove groups leaving double bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes that remove groups from substrates by means other than hydrolysis, leaving double bonds, are:",
+    "options": {
+      "A": "Hydrolases",
+      "B": "Lyases",
+      "C": "Ligases",
+      "D": "Transferases"
+    },
+    "correct_answer": "B",
+    "explanation": "Lyases cleave without hydrolysis to create double bonds."
+  },
+  {
+    "source_sentence": "Rate = delta P / delta t.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Rate of a reaction in enzyme kinetics is expressed as:",
+    "options": {
+      "A": "Amount of substrate only",
+      "B": "Amount of product formed per unit time",
+      "C": "Temperature per unit pH",
+      "D": "Molecular weight change"
+    },
+    "correct_answer": "B",
+    "explanation": "Rate is product formed per unit time."
+  },
+  {
+    "source_sentence": "Physical change does not break bonds; chemical does.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Hydrolysis of starch to glucose is:",
+    "options": {
+      "A": "A physical change",
+      "B": "A chemical reaction",
+      "C": "Only a change of state",
+      "D": "Not enzyme related"
+    },
+    "correct_answer": "B",
+    "explanation": "Bond breaking/forming defines chemical reaction."
+  },
+  {
+    "source_sentence": "Enzyme nomenclature uses four-digit classification.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes are classified into:",
+    "options": {
+      "A": "2 classes",
+      "B": "6 classes with subclasses",
+      "C": "20 classes",
+      "D": "Only by molecular weight"
+    },
+    "correct_answer": "B",
+    "explanation": "Six main classes with 4–13 subclasses each."
+  },
+  {
+    "source_sentence": "Receptor proteins for sensory reception per Table 9.5.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A receptor protein functions in:",
+    "options": {
+      "A": "Intercellular ground substance",
+      "B": "Sensory reception (smell, taste, hormone)",
+      "C": "Only glucose storage",
+      "D": "DNA replication only"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 9.5 lists receptors for sensory reception."
+  },
+  {
+    "source_sentence": "Antibody fights infectious agents.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Immunoglobulins function primarily as:",
+    "options": {
+      "A": "Hormones",
+      "B": "Antibodies fighting infectious agents",
+      "C": "Structural collagen",
+      "D": "RuBisCO analogues"
+    },
+    "correct_answer": "B",
+    "explanation": "Antibodies fight infectious agents per Table 9.5."
+  },
+  {
+    "source_sentence": "Insulin is hormone protein.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Insulin is categorised as a:",
+    "options": {
+      "A": "Enzyme only",
+      "B": "Hormone",
+      "C": "Nucleic acid",
+      "D": "Phospholipid"
+    },
+    "correct_answer": "B",
+    "explanation": "Insulin is a hormonal protein."
+  },
+  {
+    "source_sentence": "Polynucleotides built from nucleotides.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "DNA is a:",
+    "options": {
+      "A": "Polynucleotide",
+      "B": "Triglyceride",
+      "C": "Monosaccharide",
+      "D": "Secondary metabolite"
+    },
+    "correct_answer": "A",
+    "explanation": "DNA consists of nucleotide building blocks."
+  },
+  {
+    "source_sentence": "Uracil in RNA; thymine in DNA.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Thymine is found in DNA but is replaced by ___ in RNA.",
+    "options": {
+      "A": "Adenine",
+      "B": "Uracil",
+      "C": "Guanine only",
+      "D": "Ribose"
+    },
+    "correct_answer": "B",
+    "explanation": "RNA has uracil instead of thymine."
+  },
+  {
+    "source_sentence": "Ionisable NH2 and COOH groups in amino acids.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Amino acid structure changes with pH because:",
+    "options": {
+      "A": "R group is always charged",
+      "B": "–NH2 and –COOH groups are ionisable",
+      "C": "Peptide bonds break at all pH",
+      "D": "DNA is copied"
+    },
+    "correct_answer": "B",
+    "explanation": "Ionisable amino and carboxyl groups change structure with pH."
+  },
+  {
+    "source_sentence": "Diglycerides and monoglycerides exist.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Fatty acids esterified to glycerol may form:",
+    "options": {
+      "A": "Only monoglycerides",
+      "B": "Mono-, di- or triglycerides",
+      "C": "Only nucleotides",
+      "D": "Only cellulose"
+    },
+    "correct_answer": "B",
+    "explanation": "Mono-, di- and triglycerides are described."
+  },
+  {
+    "source_sentence": "Acid insoluble represents macromolecules from cytoplasm and organelles.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Together acid-soluble and acid-insoluble fractions represent:",
+    "options": {
+      "A": "Only soil minerals",
+      "B": "Entire chemical composition of living tissue",
+      "C": "Only water",
+      "D": "Only lipids"
+    },
+    "correct_answer": "B",
+    "explanation": "Both fractions together represent whole tissue composition."
+  },
+  {
+    "source_sentence": "Catalysed reactions proceed vastly faster.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Compared to uncatalysed reactions, enzyme-catalysed reactions have:",
+    "options": {
+      "A": "Lower rate",
+      "B": "Vastly higher rate",
+      "C": "Same activation energy",
+      "D": "No ES complex"
+    },
+    "correct_answer": "B",
+    "explanation": "Enzymes greatly accelerate reaction rates."
+  },
+  {
+    "source_sentence": "Substrate converted to product at active site.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In E + S → E + P, the substrate is:",
+    "options": {
+      "A": "The enzyme",
+      "B": "The compound converted into product",
+      "C": "The cofactor only",
+      "D": "The inhibitor always"
+    },
+    "correct_answer": "B",
+    "explanation": "Substrate S is transformed into product P."
+  },
+  {
+    "source_sentence": "Transition state is unstable high-energy state.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Between stable substrate and product, the transition state is:",
+    "options": {
+      "A": "More stable than product",
+      "B": "Unstable and high-energy",
+      "C": "Not involved in catalysis",
+      "D": "The same as ES complex always"
+    },
+    "correct_answer": "B",
+    "explanation": "Transition state is unstable with high potential energy."
+  },
+  {
+    "source_sentence": "Exothermic if product lower energy than substrate.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "If product P is at lower energy than substrate S on a diagram, the reaction is:",
+    "options": {
+      "A": "Endothermic",
+      "B": "Exothermic/spontaneous without added energy",
+      "C": "Impossible",
+      "D": "Only physical"
+    },
+    "correct_answer": "B",
+    "explanation": "Lower product energy means exothermic reaction."
+  },
+  {
+    "source_sentence": "Induced fit: enzyme shape tightens around substrate.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Binding of substrate induces enzyme to alter shape fitting more tightly. This supports:",
+    "options": {
+      "A": "Lock-and-key only without change",
+      "B": "Induced-fit model",
+      "C": "Denaturation always",
+      "D": "Competitive inhibition"
+    },
+    "correct_answer": "B",
+    "explanation": "Step 2 of catalytic cycle describes induced fit."
+  },
+  {
+    "source_sentence": "EP complex is intermediate before product release.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The enzyme-product complex (EP) is:",
+    "options": {
+      "A": "Permanent",
+      "B": "A short-lived intermediate before product release",
+      "C": "Absent in all enzymes",
+      "D": "The same as cofactor"
+    },
+    "correct_answer": "B",
+    "explanation": "EP forms transiently before E + P release."
+  },
+  {
+    "source_sentence": "Chemicals binding and shutting off activity are inhibitors.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A chemical that binds and shuts off enzyme activity is:",
+    "options": {
+      "A": "A cofactor",
+      "B": "An inhibitor",
+      "C": "A prosthetic group",
+      "D": "A coenzyme"
+    },
+    "correct_answer": "B",
+    "explanation": "Inhibition shuts off activity."
+  },
+  {
+    "source_sentence": "Table 9.3 curcumin listed under drugs.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Curcumin in Table 9.3 is listed under:",
+    "options": {
+      "A": "Pigments only",
+      "B": "Drugs",
+      "C": "Toxins only",
+      "D": "Inorganic ions"
+    },
+    "correct_answer": "B",
+    "explanation": "Curcumin appears under drugs in secondary metabolites."
+  }
+]

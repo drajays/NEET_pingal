@@ -1,0 +1,1471 @@
+[
+  {
+    "source_sentence": "Viruses are obligate parasites.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Viruses are excluded from Whittaker's five kingdom classification.\nReason (R): Viruses are acellular and show an inert crystalline form outside the host.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT states viruses/viroids/prions/lichens are outside five kingdoms because they are not truly cellular living organisms in the conventional sense."
+  },
+  {
+    "source_sentence": "In some fungi the fusion of two haploid cells immediately results in diploid cells (2n).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Ascomycetes and basidiomycetes show a dikaryophase (n+n).\nReason (R): In these fungi, karyogamy is delayed after plasmogamy.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Dikaryon (two nuclei per cell) arises because nuclear fusion follows cytoplasmic fusion only after an intervening dikaryotic stage."
+  },
+  {
+    "source_sentence": "Mycoplasma are organisms that completely lack a cell wall.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Mycoplasma are the smallest living cells known.\nReason (R): Absence of a rigid cell wall allows extreme reduction in cell size.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT gives both facts independently; the text does not explicitly link small size to wall absence as cause-effect."
+  },
+  {
+    "source_sentence": "Cyanobacteria can fix atmospheric nitrogen in specialised cells called heterocysts.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Nostoc and Anabaena are photosynthetic autotrophs.\nReason (R): They possess chlorophyll a like green plants.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Chlorophyll a enables photosynthetic autotrophy in cyanobacteria; nitrogen fixation is a separate feature in heterocysts."
+  },
+  {
+    "source_sentence": "The deuteromycetes reproduce only by asexual spores known as conidia.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Trichoderma is grouped under Deuteromycetes.\nReason (R): Its perfect (sexual) stage was never observed when the group was defined.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Deuteromycetes (imperfect fungi) are defined by known asexual stages only; Trichoderma is a textbook example."
+  },
+  {
+    "source_sentence": "Prions consist of abnormally folded protein.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Prions are smaller than typical bacteria.\nReason (R): Prions lack nucleic acid.",
+    "options": {
+      "A": "Both A and R are true and R is NOT the correct explanation of A",
+      "B": "Both A and R are true and R is the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Prions are virus-sized protein agents without genetic material; NCERT does not state size is because of no nucleic acid."
+  },
+  {
+    "source_sentence": "Kingdom Animalia cells lack cell walls.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Paramoecium was earlier placed in Animalia.\nReason (R): Animalia includes only multicellular organisms.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "Paramoecium was earlier in Animalia, but Animalia in Whittaker's system includes heterotrophic eukaryotes that are multicellular—not exclusively so in older schemes; the stated reason is false."
+  },
+  {
+    "source_sentence": "Slime moulds form fruiting bodies bearing spores at their tips during unfavourable conditions.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Slime mould spores possess true walls and are air-dispersed.\nReason (R): Slime moulds are saprophytic protists.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Spore wall formation and dispersal are independent of their saprophytic nutrition."
+  },
+  {
+    "source_sentence": "Chemosynthetic autotrophic bacteria oxidise various inorganic substances.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Such bacteria recycle nutrients like nitrogen and sulphur.\nReason (R): Energy released from oxidation of inorganics is used for ATP production.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "ATP from chemosynthesis enables metabolism including nutrient cycling, but recycling is a broader ecological role not solely explained by ATP production."
+  },
+  {
+    "source_sentence": "Viroids are free RNA without a protein coat.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Viroids were discovered by T.O. Diener in 1971.\nReason (R): Viroids cause potato spindle tuber disease.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Diener discovered viroids while studying that disease, but discovery date is not explained by the disease itself."
+  },
+  {
+    "source_sentence": "Basidiomycetes grow as mushrooms, bracket fungi or puffballs.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Basidiospores are exogenously produced on basidia.\nReason (R): Meiosis occurs in the basidium.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis in basidium produces haploid basidiospores that are borne externally, but exogenous production is a morphological fact not defined solely by meiosis location."
+  },
+  {
+    "source_sentence": "Kingdom Protista forms a link with plants, animals and fungi.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): Chlamydomonas and Amoeba are both placed in Protista.\nReason (R): Earlier classification placed them in different kingdoms.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT explicitly states Protista united organisms previously split between plant and animal kingdoms."
+  },
+  {
+    "source_sentence": "No virus contains both RNA and DNA.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Assertion (A): A virus is always a nucleoprotein.\nReason (R): Capsid proteins protect the single type of nucleic acid.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleoprotein nature comes from nucleic acid plus protein coat; protection by capsid does not define nucleoprotein status."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell wall of Monera is Noncellulosic (Polysaccharide + amino acid).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "In Table 2.1, which kingdom alone has a cell wall described as noncellulosic polysaccharide with amino acids?",
+    "options": {
+      "A": "Monera",
+      "B": "Protista",
+      "C": "Fungi",
+      "D": "Plantae"
+    },
+    "correct_answer": "A",
+    "explanation": "Monera alone has peptidoglycan-type noncellulosic walls; fungi have chitin, plants cellulose, protists variable."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell wall of Protista is Present in some.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "A student claims 'Protista never possess cell walls.' According to Table 2.1, the correct rebuttal is:",
+    "options": {
+      "A": "Protista are prokaryotic and hence wall-less",
+      "B": "Cell wall is present in some protists",
+      "C": "All protists have chitinous walls",
+      "D": "Protista always lack walls like Animalia"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 2.1 explicitly states cell wall is 'Present in some' for Protista (e.g., diatoms, dinoflagellates) but absent in others (e.g., Amoeba)."
+  },
+  {
+    "source_sentence": "Table 2.1: Body organisation of Fungi is Multicellular / loose tissue.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which kingdom in Table 2.1 is the only one with 'Multicellular / loose tissue' as body organisation?",
+    "options": {
+      "A": "Fungi",
+      "B": "Protista",
+      "C": "Monera",
+      "D": "Plantae"
+    },
+    "correct_answer": "A",
+    "explanation": "Fungi alone show loose tissue-like multicellular mycelium; Protista and Monera are cellular, Plantae tissue/organ level."
+  },
+  {
+    "source_sentence": "Table 2.1: Mode of nutrition of Monera includes chemosynthetic and photosynthetic autotrophs and heterotrophs.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Table 2.1 indicates that chemosynthetic autotrophy is a mode of nutrition in:",
+    "options": {
+      "A": "Monera only among the five kingdoms listed",
+      "B": "Fungi",
+      "C": "Plantae only",
+      "D": "Animalia"
+    },
+    "correct_answer": "A",
+    "explanation": "Only Monera lists chemosynthetic autotrophy explicitly; Plantae is photosynthetic autotrophic only."
+  },
+  {
+    "source_sentence": "Table 2.1: Mode of nutrition of Animalia is Heterotrophic (Holozoic / Saprophytic etc.).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Holozoic nutrition is characteristic of which kingdom per Table 2.1?",
+    "options": {
+      "A": "Animalia",
+      "B": "Fungi",
+      "C": "Monera",
+      "D": "Plantae"
+    },
+    "correct_answer": "A",
+    "explanation": "Table 2.1 lists holozoic nutrition under Animalia; fungi are saprophytic/parasitic heterotrophs."
+  },
+  {
+    "source_sentence": "Table 2.1: Nuclear membrane absent in Monera.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "If an organism has a nuclear membrane and is unicellular, Table 2.1 would place it in:",
+    "options": {
+      "A": "Monera",
+      "B": "Protista",
+      "C": "Fungi only",
+      "D": "Cannot be any kingdom"
+    },
+    "correct_answer": "B",
+    "explanation": "Unicellular + nuclear membrane = eukaryotic = Protista (among options); Monera lacks nuclear membrane."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell type comparison across five kingdoms.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "How many of the five Whittaker kingdoms in Table 2.1 are exclusively eukaryotic?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "D",
+    "explanation": "Protista, Fungi, Plantae and Animalia are eukaryotic; only Monera is prokaryotic."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell wall absent in Animalia.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "An organism with tissue/organ organisation, holozoic nutrition and no cell wall fits Table 2.1 under:",
+    "options": {
+      "A": "Plantae",
+      "B": "Fungi",
+      "C": "Animalia",
+      "D": "Protista"
+    },
+    "correct_answer": "C",
+    "explanation": "Animalia: tissue/organ/organ-system, heterotrophic holozoic, no cell wall."
+  },
+  {
+    "source_sentence": "Table 2.1: Mode of nutrition of Fungi is Heterotrophic (Saprophytic/Parasitic).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Autotrophic nutrition is NOT listed for which two kingdoms in Table 2.1?",
+    "options": {
+      "A": "Monera and Protista",
+      "B": "Fungi and Animalia",
+      "C": "Plantae and Monera",
+      "D": "Fungi and Plantae"
+    },
+    "correct_answer": "B",
+    "explanation": "Fungi and Animalia are exclusively heterotrophic per Table 2.1; Monera and Protista include autotrophic forms."
+  },
+  {
+    "source_sentence": "Table 2.1: Body organisation of Plantae is Tissue/organ.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which pair correctly matches body organisation from Table 2.1?",
+    "options": {
+      "A": "Monera – organ system; Animalia – cellular",
+      "B": "Protista – tissue/organ; Fungi – cellular",
+      "C": "Plantae – tissue/organ; Fungi – multicellular/loose tissue",
+      "D": "Animalia – cellular; Plantae – loose tissue"
+    },
+    "correct_answer": "C",
+    "explanation": "Plantae = tissue/organ; Fungi = multicellular loose tissue; Monera/Protista = cellular; Animalia = tissue/organ/organ system."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell wall of Fungi is Present with chitin.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Chitin in the cell wall is a diagnostic Table 2.1 feature of:",
+    "options": {
+      "A": "Plantae",
+      "B": "Fungi",
+      "C": "Monera",
+      "D": "Protista (all members)"
+    },
+    "correct_answer": "B",
+    "explanation": "Only Fungi are specified as having chitinous walls in Table 2.1."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell wall of Plantae is Present (cellulose).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Cellulose cell wall AND photosynthetic autotrophy together identify which kingdom in Table 2.1?",
+    "options": {
+      "A": "Protista",
+      "B": "Plantae",
+      "C": "Monera",
+      "D": "Fungi"
+    },
+    "correct_answer": "B",
+    "explanation": "Plantae uniquely combines cellulose wall with exclusively photosynthetic autotrophy in the table."
+  },
+  {
+    "source_sentence": "Table 2.1: Mode of nutrition of Protista includes autotrophic and heterotrophic.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "A mixotrophic unicellular eukaryote aligns best with which kingdom in Table 2.1?",
+    "options": {
+      "A": "Monera",
+      "B": "Protista",
+      "C": "Fungi",
+      "D": "Plantae"
+    },
+    "correct_answer": "B",
+    "explanation": "Protista alone among unicellular eukaryotes shows both autotrophic and heterotrophic nutrition."
+  },
+  {
+    "source_sentence": "Table 2.1: Body organisation of Animalia is Tissue/organ/organ system.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "The highest body organisation in Table 2.1 is seen in:",
+    "options": {
+      "A": "Plantae",
+      "B": "Fungi",
+      "C": "Animalia",
+      "D": "Protista"
+    },
+    "correct_answer": "C",
+    "explanation": "Animalia alone reaches tissue/organ/organ-system level per Table 2.1."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell type of all kingdoms except Monera is Eukaryotic.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "A filamentous photosynthetic organism with prokaryotic cells belongs in:",
+    "options": {
+      "A": "Protista",
+      "B": "Plantae",
+      "C": "Monera",
+      "D": "Fungi"
+    },
+    "correct_answer": "C",
+    "explanation": "Filamentous photosynthetic prokaryotes (cyanobacteria) are Monera."
+  },
+  {
+    "source_sentence": "Table 2.1: Nuclear membrane present in Protista, Fungi, Plantae, Animalia.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Absence of nuclear membrane is a feature shared by Monera with:",
+    "options": {
+      "A": "No other kingdom in Table 2.1",
+      "B": "some Protista",
+      "C": "all Fungi",
+      "D": "yeast only"
+    },
+    "correct_answer": "A",
+    "explanation": "Only Monera lacks a nuclear membrane among the five kingdoms."
+  },
+  {
+    "source_sentence": "Table 2.1 comparative account.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which kingdom shares 'Present' nuclear membrane with Fungi but differs in cell wall composition?",
+    "options": {
+      "A": "Monera",
+      "B": "Plantae",
+      "C": "Both Plantae and Animalia",
+      "D": "None"
+    },
+    "correct_answer": "C",
+    "explanation": "Plantae (cellulose) and Animalia (no wall) both have nuclear membranes like Fungi but differ in wall nature."
+  },
+  {
+    "source_sentence": "Table 2.1: Mode of nutrition of Monera.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Saprobic/parasitic heterotrophy alongside autotrophy is possible in:",
+    "options": {
+      "A": "Monera",
+      "B": "Plantae only",
+      "C": "Animalia only",
+      "D": "Fungi only"
+    },
+    "correct_answer": "A",
+    "explanation": "Monera lists both autotrophic (photo/chemo) and heterotrophic (saprophytic/parasitic) modes."
+  },
+  {
+    "source_sentence": "Table 2.1: Body organisation of Protista is Cellular.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Organ-system level organisation is NOT reached by:",
+    "options": {
+      "A": "Animalia",
+      "B": "Monera, Protista and Fungi",
+      "C": "Plantae only",
+      "D": "Fungi only"
+    },
+    "correct_answer": "B",
+    "explanation": "Only Animalia reaches organ-system level; Monera, Protista are cellular; Fungi loose tissue; Plantae tissue/organ."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell wall comparison.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which kingdoms have cell walls according to Table 2.1? (Select the most complete correct set)",
+    "options": {
+      "A": "Monera, some Protista, Fungi, Plantae",
+      "B": "All five kingdoms",
+      "C": "Monera and Plantae only",
+      "D": "Fungi and Animalia"
+    },
+    "correct_answer": "A",
+    "explanation": "Animalia lacks walls; Protista has walls in some; others always listed with walls."
+  },
+  {
+    "source_sentence": "Table 2.1: Mode of nutrition of Plantae is Autotrophic (Photosynthetic).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Partial heterotrophy in insectivorous plants does NOT change their Whittaker kingdom because Table 2.1 still classifies Plantae as:",
+    "options": {
+      "A": "Acellular",
+      "B": "Autotrophic photosynthetic eukaryotes with cellulose walls",
+      "C": "Holozoic heterotrophs",
+      "D": "Chemosynthetic monerans"
+    },
+    "correct_answer": "B",
+    "explanation": "Venus fly trap and bladderwort remain in Plantae as predominantly photosynthetic with cellulose walls."
+  },
+  {
+    "source_sentence": "Table 2.1: Cell type and nuclear membrane.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Prokaryotic cell type automatically implies which other Table 2.1 character?",
+    "options": {
+      "A": "Absent nuclear membrane",
+      "B": "Chitinous cell wall",
+      "C": "Holozoic nutrition",
+      "D": "Organ-system organisation"
+    },
+    "correct_answer": "A",
+    "explanation": "In Table 2.1, Monera alone is prokaryotic and alone lacks nuclear membrane."
+  },
+  {
+    "source_sentence": "Table 2.1: Five kingdom comparison.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which column in Table 2.1 is the odd one out for BOTH cell wall absence AND holozoic nutrition?",
+    "options": {
+      "A": "Animalia",
+      "B": "Monera",
+      "C": "Protista",
+      "D": "Fungi"
+    },
+    "correct_answer": "A",
+    "explanation": "Animalia alone lacks cell walls and shows holozoic heterotrophy."
+  },
+  {
+    "source_sentence": "Table 2.1: Body organisation and nutrition integration.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Tissue/organ level body organisation with obligatory photosynthetic autotrophy identifies:",
+    "options": {
+      "A": "Fungi",
+      "B": "Plantae",
+      "C": "Protista",
+      "D": "Monera"
+    },
+    "correct_answer": "B",
+    "explanation": "Plantae = tissue/organ + photosynthetic autotrophy per Table 2.1."
+  },
+  {
+    "source_sentence": "Table 2.1: Kingdom Fungi characteristics.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Eukaryotic, chitinous wall, saprophytic/parasitic heterotrophy and loose tissue organisation collectively indicate:",
+    "options": {
+      "A": "Protista",
+      "B": "Fungi",
+      "C": "Plantae",
+      "D": "Monera"
+    },
+    "correct_answer": "B",
+    "explanation": "This combination is the Fungi column in Table 2.1."
+  },
+  {
+    "source_sentence": "It also grouped together the unicellular organisms and the multicellular ones.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Chlamydomonas (unicellular alga) and Spirogyra (filamentous alga) were problematic in two-kingdom classification because both were placed in:",
+    "options": {
+      "A": "Animalia",
+      "B": "Plantae",
+      "C": "Fungi",
+      "D": "Monera"
+    },
+    "correct_answer": "B",
+    "explanation": "Two-kingdom Plantae lumped unicellular and multicellular photosynthetic organisms together."
+  },
+  {
+    "source_sentence": "When such characteristics were considered, the fungi were placed in a separate kingdom.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Fungi were separated from plants chiefly because fungal walls contain:",
+    "options": {
+      "A": "Cellulose",
+      "B": "Chitin",
+      "C": "Peptidoglycan",
+      "D": "Silica"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT contrasts chitinous fungal walls with cellulosic plant walls as basis for separate kingdom."
+  },
+  {
+    "source_sentence": "All prokaryotic organisms were grouped together under Kingdom Monera.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which pair would NEVER belong to the same kingdom in Whittaker's system?",
+    "options": {
+      "A": "Escherichia coli and Nostoc",
+      "B": "Saccharomyces and Agaricus",
+      "C": "Amoeba and Euglena",
+      "D": "Mucor and Rhizopus"
+    },
+    "correct_answer": "B",
+    "explanation": "Saccharomyces (yeast) is Fungi; E. coli and Nostoc are Monera; Amoeba/Euglena are Protista; Mucor/Rhizopus are Fungi."
+  },
+  {
+    "source_sentence": "Kingdom Animalia cells lack cell walls.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which feature distinguishes Kingdom Fungi from Kingdom Animalia despite both being heterotrophic eukaryotes?",
+    "options": {
+      "A": "Presence of cell wall",
+      "B": "Multicellularity",
+      "C": "Nuclear membrane",
+      "D": "Absence of chlorophyll"
+    },
+    "correct_answer": "A",
+    "explanation": "Both lack chlorophyll and have nuclear membranes; fungi have chitinous walls, animals do not."
+  },
+  {
+    "source_sentence": "Members of Kingdom Protista are primarily aquatic.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which kingdom is described as forming a 'link' between plants, animals and fungi?",
+    "options": {
+      "A": "Protista",
+      "B": "Monera",
+      "C": "Fungi",
+      "D": "Plantae"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT states Protista links other eukaryotic kingdoms."
+  },
+  {
+    "source_sentence": "The three-domain system has also been proposed.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Compared to Whittaker's scheme, the three-domain system splits:",
+    "options": {
+      "A": "Kingdom Fungi into two domains",
+      "B": "Kingdom Monera into two domains",
+      "C": "Plantae into Archaea and Bacteria",
+      "D": "Animalia into Eukarya and Bacteria"
+    },
+    "correct_answer": "B",
+    "explanation": "Three-domain system divides Monera (prokaryotes) into two domains; eukaryotes form the third."
+  },
+  {
+    "source_sentence": "Yeast are unicellular fungi.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Unicellularity in Whittaker's system does NOT automatically place an organism in Protista because:",
+    "options": {
+      "A": "Yeast are fungi and bacteria are monerans",
+      "B": "All unicellular forms are plants",
+      "C": "Protista excludes eukaryotes",
+      "D": "Fungi are always prokaryotic"
+    },
+    "correct_answer": "A",
+    "explanation": "Unicellular eukaryotes are mostly Protista, but yeast (Fungi) and bacteria (Monera) are exceptions."
+  },
+  {
+    "source_sentence": "Bladderwort and Venus fly trap are examples of insectivorous plants.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Cuscuta and Venus fly trap both belong to Plantae but differ in mode of partial heterotrophy as:",
+    "options": {
+      "A": "Parasite vs insectivore",
+      "B": "Saprobe vs parasite",
+      "C": "Holozoic vs saprophytic",
+      "D": "Chemosynthetic vs photosynthetic"
+    },
+    "correct_answer": "A",
+    "explanation": "Cuscuta is a plant parasite; Venus fly trap is insectivorous—both partially heterotrophic plants."
+  },
+  {
+    "source_sentence": "Most fungi are heterotrophic and absorb soluble organic matter from dead substrates.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Fungi and many Moneran heterotrophs both exhibit saprophytic nutrition, but differ in:",
+    "options": {
+      "A": "Cell type (eukaryotic vs prokaryotic)",
+      "B": "Mode of locomotion only",
+      "C": "Absence of nutrition",
+      "D": "Presence of DNA"
+    },
+    "correct_answer": "A",
+    "explanation": "Both can be saprophytic heterotrophs; fungi are eukaryotic with chitin walls, monerans prokaryotic."
+  },
+  {
+    "source_sentence": "Protozoans are believed to be primitive relatives of animals.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which protistan group is most closely allied to Kingdom Animalia by NCERT description?",
+    "options": {
+      "A": "Protozoans",
+      "B": "Chrysophytes",
+      "C": "Dinoflagellates",
+      "D": "Slime moulds"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT calls protozoans primitive relatives of animals; they were historically placed in Animalia."
+  },
+  {
+    "source_sentence": "Slime moulds are saprophytic protists.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Slime moulds resemble fungi in spore formation but differ from true fungi because slime moulds:",
+    "options": {
+      "A": "Are prokaryotic",
+      "B": "Are saprophytic protists with plasmodium stage, not chitinous hyphal fungi",
+      "C": "Have cellulose walls throughout",
+      "D": "Are photosynthetic"
+    },
+    "correct_answer": "B",
+    "explanation": "Slime moulds are protists with plasmodium/fruiting body spores; fungi have chitinous hyphae."
+  },
+  {
+    "source_sentence": "Kingdom Plantae includes algae, bryophytes, pteridophytes, gymnosperms and angiosperms.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Algae appear in both Plantae (Chapter 3) and Protista (Chapter 2) discussions because:",
+    "options": {
+      "A": "Classification boundaries of some algae remain debated; unicellular forms may be treated as protists",
+      "B": "Algae are prokaryotic",
+      "C": "All algae are animals",
+      "D": "Algae lack chlorophyll"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT notes Protista boundaries are not well defined; what is a protistan alga to one biologist may be a plant to another."
+  },
+  {
+    "source_sentence": "Higher forms show elaborate sensory and neuromotor mechanism.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which Whittaker kingdom alone shows organ-system level organisation and neuromotor elaboration per NCERT?",
+    "options": {
+      "A": "Animalia",
+      "B": "Plantae",
+      "C": "Fungi",
+      "D": "Protista"
+    },
+    "correct_answer": "A",
+    "explanation": "Animalia: tissue/organ/organ-system, locomotion, sensory and neuromotor mechanisms."
+  },
+  {
+    "source_sentence": "Life cycle of plants has two distinct phases – sporophytic and gametophytic.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Alternation of generations is a feature of Kingdom Plantae but NOT of:",
+    "options": {
+      "A": "Fungi",
+      "B": "Animalia",
+      "C": "Both Fungi and Animalia as described in this chapter",
+      "D": "Monera only"
+    },
+    "correct_answer": "C",
+    "explanation": "Chapter 2 introduces alternation of generations for Plantae; Animalia has diploid soma with separate gametes; fungal life cycles differ."
+  },
+  {
+    "source_sentence": "Mycorrhiza is symbiotic association with roots of higher plants.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Mycorrhiza and lichens both involve fungi, but mycorrhiza partners:",
+    "options": {
+      "A": "Higher plant roots",
+      "B": "Cyanobacteria",
+      "C": "Viruses",
+      "D": "Protozoans"
+    },
+    "correct_answer": "A",
+    "explanation": "Mycorrhiza = fungus + plant roots; lichen = fungus + alga."
+  },
+  {
+    "source_sentence": "Have you ever wondered why we keep food in the refrigerator?",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Refrigeration retards fungal and bacterial growth primarily because these organisms prefer:",
+    "options": {
+      "A": "Cold dry deserts",
+      "B": "Warm and humid conditions",
+      "C": "Highly acidic hot springs",
+      "D": "Only anaerobic habitats"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT notes fungi prefer warm humid places; refrigeration reduces growth of microbes on food."
+  },
+  {
+    "source_sentence": "Bacteria are grouped under four categories based on their shape.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are bacterial shapes mentioned in NCERT EXCEPT:",
+    "options": {
+      "A": "Coccus",
+      "B": "Spirillum",
+      "C": "Trichome",
+      "D": "Vibrio"
+    },
+    "correct_answer": "C",
+    "explanation": "Four shapes: coccus, bacillus, vibrio, spirillum. Trichome is a filament arrangement, not a shape category here."
+  },
+  {
+    "source_sentence": "Archaebacteria live in extreme salty areas, hot springs and marshy areas.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are archaebacterial groups EXCEPT:",
+    "options": {
+      "A": "Halophiles",
+      "B": "Thermoacidophiles",
+      "C": "Methanogens",
+      "D": "Cyanobacteria"
+    },
+    "correct_answer": "D",
+    "explanation": "Cyanobacteria are eubacteria (photosynthetic), not archaebacteria."
+  },
+  {
+    "source_sentence": "There are four major groups of protozoans.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are protozoan groups in NCERT EXCEPT:",
+    "options": {
+      "A": "Sporozoans",
+      "B": "Ciliated protozoans",
+      "C": "Flagellated protozoans",
+      "D": "Euglenoids"
+    },
+    "correct_answer": "D",
+    "explanation": "Euglenoids are a separate protistan group, not one of the four protozoan subgroups."
+  },
+  {
+    "source_sentence": "Phycomycetes, Ascomycetes, Basidiomycetes and Deuteromycetes are the four classes.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are fungal classes in Chapter 2 EXCEPT:",
+    "options": {
+      "A": "Zygomycota",
+      "B": "Ascomycetes",
+      "C": "Basidiomycetes",
+      "D": "Phycomycetes"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT lists Phycomycetes, Ascomycetes, Basidiomycetes, Deuteromycetes—not Zygomycota by that name."
+  },
+  {
+    "source_sentence": "Viruses cause diseases like mumps, small pox, herpes and influenza.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are viral diseases per NCERT EXCEPT:",
+    "options": {
+      "A": "Influenza",
+      "B": "AIDS",
+      "C": "Sleeping sickness",
+      "D": "Herpes"
+    },
+    "correct_answer": "C",
+    "explanation": "Sleeping sickness is caused by Trypanosoma (protozoan), not a virus."
+  },
+  {
+    "source_sentence": "Some common examples are Mucor, Rhizopus and Albugo.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are phycomycetes examples EXCEPT:",
+    "options": {
+      "A": "Rhizopus",
+      "B": "Mucor",
+      "C": "Penicillium",
+      "D": "Albugo"
+    },
+    "correct_answer": "C",
+    "explanation": "Penicillium is an ascomycete (sac-fungus), not phycomycete."
+  },
+  {
+    "source_sentence": "Some common members are Agaricus, Ustilago and Puccinia.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are basidiomycetes EXCEPT:",
+    "options": {
+      "A": "Agaricus",
+      "B": "Ustilago",
+      "C": "Puccinia",
+      "D": "Aspergillus"
+    },
+    "correct_answer": "D",
+    "explanation": "Aspergillus is an ascomycete; Agaricus, Ustilago (smut) and Puccinia (rust) are basidiomycetes."
+  },
+  {
+    "source_sentence": "Prions cause BSE and CJD.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are acellular or non-five-kingdom entities in NCERT EXCEPT:",
+    "options": {
+      "A": "Viroids",
+      "B": "Viruses",
+      "C": "Euglena",
+      "D": "Prions"
+    },
+    "correct_answer": "C",
+    "explanation": "Euglena is a protist; viruses, viroids and prions are outside five kingdom classification."
+  },
+  {
+    "source_sentence": "Heterotrophic bacteria are helpful in making curd, antibiotics and fixing nitrogen in legume roots.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All are economically important roles of heterotrophic bacteria EXCEPT:",
+    "options": {
+      "A": "Curd formation",
+      "B": "Antibiotic production",
+      "C": "Nitrogen fixation in legume roots",
+      "D": "Production of biogas methane in cattle rumen"
+    },
+    "correct_answer": "D",
+    "explanation": "Methane in cattle rumen is produced by methanogenic archaebacteria, not heterotrophic eubacteria roles listed."
+  },
+  {
+    "source_sentence": "Reproduction in fungi can take place by vegetative means – fragmentation, fission and budding.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are fungal vegetative reproductive modes EXCEPT:",
+    "options": {
+      "A": "Fragmentation",
+      "B": "Budding",
+      "C": "Binary fission as in bacteria",
+      "D": "Fission (fungal context)"
+    },
+    "correct_answer": "C",
+    "explanation": "NCERT lists fragmentation, fission and budding for fungi vegetatively; bacterial binary fission is prokaryotic."
+  },
+  {
+    "source_sentence": "Sexual cycle in fungi: plasmogamy, karyogamy, meiosis in zygote.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "All of the following are steps in fungal sexual cycle EXCEPT:",
+    "options": {
+      "A": "Plasmogamy",
+      "B": "Karyogamy",
+      "C": "Meiosis in zygote",
+      "D": "Binary fission of zygote"
+    },
+    "correct_answer": "D",
+    "explanation": "Fungal sexual cycle involves plasmogamy, karyogamy and meiosis producing haploid spores—not binary fission of zygote."
+  },
+  {
+    "source_sentence": "Example: Gonyaulax.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Rapid multiplication of Gonyaulax in seawater leads to:",
+    "options": {
+      "A": "Diatomaceous earth formation",
+      "B": "Red tides toxic to marine life",
+      "C": "Biogas production",
+      "D": "Legume root nodulation"
+    },
+    "correct_answer": "B",
+    "explanation": "Red dinoflagellates like Gonyaulax cause red tides releasing toxins killing fish."
+  },
+  {
+    "source_sentence": "Example: Trypanosoma.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Trypanosoma belongs to which protistan category and causes:",
+    "options": {
+      "A": "Flagellated protozoan – sleeping sickness",
+      "B": "Ciliated protozoan – malaria",
+      "C": "Sporozoan – dysentery",
+      "D": "Amoeboid – typhoid"
+    },
+    "correct_answer": "A",
+    "explanation": "Trypanosoma is a flagellated protozoan causing sleeping sickness."
+  },
+  {
+    "source_sentence": "The most notorious is Plasmodium (malarial parasite).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Plasmodium is classified as a:",
+    "options": {
+      "A": "Sporozoan protozoan",
+      "B": "Ciliated protozoan",
+      "C": "Dinoflagellate",
+      "D": "Euglenoid"
+    },
+    "correct_answer": "A",
+    "explanation": "Plasmodium is placed among sporozoans with an infectious spore-like stage."
+  },
+  {
+    "source_sentence": "Claviceps and Neurospora.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Neurospora is favoured in laboratories because it is:",
+    "options": {
+      "A": "A basidiomycete mushroom",
+      "B": "An ascomycete used in biochemical and genetic studies",
+      "C": "A bacterium",
+      "D": "A cyanobacterium"
+    },
+    "correct_answer": "B",
+    "explanation": "Neurospora is an ascomycete model organism for genetics."
+  },
+  {
+    "source_sentence": "Saccharomyces.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Saccharomyces cerevisiae is taxonomically an:",
+    "options": {
+      "A": "Ascomycete yeast",
+      "B": "Basidiomycete mushroom",
+      "C": "Phycomycete mould",
+      "D": "Bacterium"
+    },
+    "correct_answer": "A",
+    "explanation": "Yeast (Saccharomyces) is placed under Ascomycetes (rarely unicellular)."
+  },
+  {
+    "source_sentence": "Example: Euglena.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Euglena differs from true plants because it possesses:",
+    "options": {
+      "A": "Pellicle instead of cellulosic wall and shows mixotrophy",
+      "B": "Peptidoglycan wall and chemosynthesis",
+      "C": "Chitin wall and dikaryon",
+      "D": "No nucleus and no pigments"
+    },
+    "correct_answer": "A",
+    "explanation": "Euglenoids have protein-rich pellicle, not cellulose wall, and can become heterotrophic."
+  },
+  {
+    "source_sentence": "Example: Paramoecium.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Paramoecium moves and feeds using:",
+    "options": {
+      "A": "Pseudopodia",
+      "B": "Thousands of cilia and a gullet",
+      "C": "Silica shells only",
+      "D": "Two longitudinal flagella in furrow"
+    },
+    "correct_answer": "B",
+    "explanation": "Paramoecium is ciliated with coordinated ciliary movement steering food into gullet."
+  },
+  {
+    "source_sentence": "Entamoeba are parasites.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Entamoeba histolytica is an example of:",
+    "options": {
+      "A": "Amoeboid parasitic protozoan",
+      "B": "Photosynthetic diatom",
+      "C": "Flagellated autotroph",
+      "D": "Slime mould plasmodium"
+    },
+    "correct_answer": "A",
+    "explanation": "Entamoeba is listed among amoeboid protozoans including parasitic forms."
+  },
+  {
+    "source_sentence": "Wheat rust-causing Puccinia.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Puccinia is a basidiomycete causing:",
+    "options": {
+      "A": "Rust disease in wheat",
+      "B": "Smut in corn",
+      "C": "Bread mould",
+      "D": "Potato spindle tuber"
+    },
+    "correct_answer": "A",
+    "explanation": "Puccinia is the rust fungus; Ustilago causes smut."
+  },
+  {
+    "source_sentence": "Ustilago (smut).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Ustilago is grouped with Puccinia under:",
+    "options": {
+      "A": "Basidiomycetes",
+      "B": "Ascomycetes",
+      "C": "Deuteromycetes",
+      "D": "Phycomycetes"
+    },
+    "correct_answer": "A",
+    "explanation": "Both Ustilago (smut) and Puccinia (rust) are basidiomycetes."
+  },
+  {
+    "source_sentence": "Aspergillus (Figure 2.5b).",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Aspergillus produces conidia exogenously on:",
+    "options": {
+      "A": "Conidiophores",
+      "B": "Basidia",
+      "C": "Heterocysts",
+      "D": "Gullet"
+    },
+    "correct_answer": "A",
+    "explanation": "Ascomycetes bear exogenous conidia on specialised conidiophores."
+  },
+  {
+    "source_sentence": "Nostoc and Anabaena.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Nostoc is a filamentous member of:",
+    "options": {
+      "A": "Cyanobacteria (Monera)",
+      "B": "Dinoflagellates",
+      "C": "Ascomycetes",
+      "D": "Bryophytes"
+    },
+    "correct_answer": "A",
+    "explanation": "Nostoc is a nitrogen-fixing cyanobacterium (blue-green alga) in Monera."
+  },
+  {
+    "source_sentence": "M.W. Beijerinck named the pathogen virus.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "The scientist associated with 'Contagium vivum fluidum' is:",
+    "options": {
+      "A": "Ivanowsky",
+      "B": "Beijerinck",
+      "C": "Stanley",
+      "D": "Diener"
+    },
+    "correct_answer": "B",
+    "explanation": "Beijerinck (1898) coined virus and called the infectious fluid Contagium vivum fluidum."
+  },
+  {
+    "source_sentence": "T.O. Diener discovered viroids in 1971.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Potato spindle tuber disease is linked to discovery of:",
+    "options": {
+      "A": "Viroids by Diener",
+      "B": "Prions by Stanley",
+      "C": "TMV by Beijerinck",
+      "D": "Bacteriophage by Ivanowsky"
+    },
+    "correct_answer": "A",
+    "explanation": "Diener (1971) discovered viroids as causal agents of potato spindle tuber disease."
+  },
+  {
+    "source_sentence": "Bacteria reproduce mainly by fission.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Under unfavourable conditions bacteria may reproduce by:",
+    "options": {
+      "A": "Spore formation and primitive DNA transfer between cells",
+      "B": "Meiosis and gamete fusion only",
+      "C": "Conidia formation",
+      "D": "Zygospore in ascus"
+    },
+    "correct_answer": "A",
+    "explanation": "Besides fission, bacteria form spores under stress and show primitive sexual DNA transfer."
+  },
+  {
+    "source_sentence": "Chemosynthetic autotrophic bacteria oxidise nitrates, nitrites and ammonia.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Nitrifying bacteria in soil contribute primarily to:",
+    "options": {
+      "A": "Nitrogen cycling via oxidation of nitrogenous compounds",
+      "B": "Oxygenic photosynthesis only",
+      "C": "Methane production in rumen",
+      "D": "Silica deposition"
+    },
+    "correct_answer": "A",
+    "explanation": "Chemosynthetic autotrophs oxidise inorganic nitrogen compounds and recycle soil nitrogen."
+  },
+  {
+    "source_sentence": "Many mycoplasma are pathogenic in animals and plants.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Mycoplasma can survive without oxygen and lack:",
+    "options": {
+      "A": "Cell wall entirely",
+      "B": "DNA",
+      "C": "Ribosomes",
+      "D": "Plasma membrane"
+    },
+    "correct_answer": "A",
+    "explanation": "Mycoplasma completely lack cell walls and many are anaerobic pathogens."
+  },
+  {
+    "source_sentence": "Cyanobacteria often form blooms in polluted water bodies.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "An 'algal bloom' in polluted freshwater is most likely due to excessive growth of:",
+    "options": {
+      "A": "Cyanobacteria",
+      "B": "Dinoflagellates only in oceans",
+      "C": "Mushrooms",
+      "D": "Lichens"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT links cyanobacterial blooms to polluted water bodies (exercise concept: algal bloom)."
+  },
+  {
+    "source_sentence": "Halophiles live in extreme salty areas.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which archaebacterial group would dominate in the Great Salt Lake-type environment?",
+    "options": {
+      "A": "Halophiles",
+      "B": "Methanogens",
+      "C": "Thermoacidophiles",
+      "D": "Cyanobacteria"
+    },
+    "correct_answer": "A",
+    "explanation": "Halophiles inhabit extreme salinity; methanogens marshy/rumen; thermoacidophiles hot acidic springs."
+  },
+  {
+    "source_sentence": "Thermoacidophiles live in hot springs.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Archaebacteria in Yellowstone-type hot acidic springs are:",
+    "options": {
+      "A": "Thermoacidophiles",
+      "B": "Halophiles",
+      "C": "Methanogens",
+      "D": "Diatoms"
+    },
+    "correct_answer": "A",
+    "explanation": "Thermoacidophiles colonise hot spring habitats per NCERT."
+  },
+  {
+    "source_sentence": "Eubacteria if motile, have a flagellum.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Motility in eubacteria is commonly associated with:",
+    "options": {
+      "A": "Flagellum",
+      "B": "Cilia",
+      "C": "Pseudopodia",
+      "D": "Contractile vacuole"
+    },
+    "correct_answer": "A",
+    "explanation": "Eubacteria character includes flagellum when motile; cilia/pseudopodia are eukaryotic."
+  },
+  {
+    "source_sentence": "Heterotrophic bacteria fix nitrogen in legume roots.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Rhizobium-type nitrogen fixation in legume roots is an example of beneficial:",
+    "options": {
+      "A": "Heterotrophic bacteria",
+      "B": "Archaeal methanogens",
+      "C": "Viral infection",
+      "D": "Prion transmission"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT cites heterotrophic bacteria fixing nitrogen in legume roots among useful roles."
+  },
+  {
+    "source_sentence": "Compared to many other organisms, bacteria as a group show the most extensive metabolic diversity.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Photosynthetic autotrophy in bacteria is represented by:",
+    "options": {
+      "A": "Cyanobacteria (oxygenic) and some without oxygen release",
+      "B": "Only chemosynthetic forms",
+      "C": "Only heterotrophs",
+      "D": "Only mycoplasma"
+    },
+    "correct_answer": "A",
+    "explanation": "Cyanobacteria are photosynthetic autotrophs with chlorophyll a; bacteria also include chemosynthetic and heterotrophic forms."
+  },
+  {
+    "source_sentence": "Bacteria occur in hot springs, deserts, snow and deep oceans.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Psychrophilic survival in snow is a trait of:",
+    "options": {
+      "A": "Bacteria in extreme habitats broadly",
+      "B": "Only viruses",
+      "C": "Only angiosperms",
+      "D": "Only basidiomycetes"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT notes bacteria inhabit extreme cold including snow."
+  },
+  {
+    "source_sentence": "Dinoflagellates have two flagella; one longitudinal and one transverse.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "The transverse flagellum in dinoflagellates lies in:",
+    "options": {
+      "A": "A furrow between cellulose wall plates",
+      "B": "The gullet of Paramoecium",
+      "C": "Pellicle of Euglena",
+      "D": "Silica shell of diatoms"
+    },
+    "correct_answer": "A",
+    "explanation": "Dinoflagellates have stiff cellulose plates; one flagellum lies transversely in the inter-plate furrow."
+  },
+  {
+    "source_sentence": "Diatom cell walls form two thin overlapping shells like a soap box.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Indestructibility of diatom walls is due to:",
+    "options": {
+      "A": "Silica embedding in the frustule",
+      "B": "Chitin reinforcement",
+      "C": "Peptidoglycan layer",
+      "D": "Lignin deposition"
+    },
+    "correct_answer": "A",
+    "explanation": "Diatom walls (frustules) are silica-embedded, resisting decay."
+  },
+  {
+    "source_sentence": "Golden algae (desmids) are chrysophytes.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Desmids are grouped with diatoms under:",
+    "options": {
+      "A": "Chrysophytes",
+      "B": "Dinoflagellates",
+      "C": "Protozoans",
+      "D": "Slime moulds"
+    },
+    "correct_answer": "A",
+    "explanation": "Chrysophytes include diatoms and golden algae (desmids)."
+  },
+  {
+    "source_sentence": "Euglenoids pigments are identical to those in higher plants.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "When sunlight is available Euglenoids are:",
+    "options": {
+      "A": "Photosynthetic autotrophs",
+      "B": "Obligate parasites",
+      "C": "Chemosynthetic bacteria",
+      "D": "Holozoic animals"
+    },
+    "correct_answer": "A",
+    "explanation": "Euglenoids photosynthesise in light using plant-like pigments."
+  },
+  {
+    "source_sentence": "Slime mould plasmodium may spread over several feet.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "The plasmodium stage in slime moulds is:",
+    "options": {
+      "A": "A multinucleate aggregation moving saprophytically",
+      "B": "A bacterial biofilm",
+      "C": "A viral capsid",
+      "D": "A plant sporophyte"
+    },
+    "correct_answer": "A",
+    "explanation": "Plasmodium is a spreading saprophytic mass formed under suitable conditions."
+  },
+  {
+    "source_sentence": "Marine amoeboid protozoans have silica shells.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Silica shells on marine amoeboid protozoans distinguish them from:",
+    "options": {
+      "A": "Freshwater Amoeba without such shells",
+      "B": "Ciliated Paramoecium",
+      "C": "Trypanosoma",
+      "D": "Yeast cells"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT notes marine amoeboids may bear silica shells; freshwater Amoeba uses pseudopodia without such shells."
+  },
+  {
+    "source_sentence": "Flagellated protozoans may be free-living or parasitic.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "A free-living vs parasitic distinction applies to which protozoan group?",
+    "options": {
+      "A": "Flagellated protozoans",
+      "B": "Sporozoans only free-living",
+      "C": "All ciliates parasitic",
+      "D": "None"
+    },
+    "correct_answer": "A",
+    "explanation": "Flagellated protozoans include free-living forms and parasites like Trypanosoma."
+  },
+  {
+    "source_sentence": "Sporozoans have an infectious spore-like stage.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "The spore-like infectious stage is characteristic of:",
+    "options": {
+      "A": "Sporozoans such as Plasmodium",
+      "B": "Ciliated Paramoecium",
+      "C": "Photosynthetic diatoms",
+      "D": "Slime mould plasmodium only"
+    },
+    "correct_answer": "A",
+    "explanation": "Sporozoans are defined by an infectious spore-like life-cycle stage."
+  },
+  {
+    "source_sentence": "Protists reproduce asexually and sexually by cell fusion and zygote formation.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Sexual reproduction in protists involves:",
+    "options": {
+      "A": "Cell fusion followed by zygote formation",
+      "B": "Plasmogamy in basidium only",
+      "C": "Conidia germination only",
+      "D": "Prion conversion"
+    },
+    "correct_answer": "A",
+    "explanation": "Protists reproduce sexually via cell fusion and zygote formation per NCERT."
+  },
+  {
+    "source_sentence": "Chrysophytes are microscopic plankton.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Passive floating of chrysophytes in water currents defines them as part of:",
+    "options": {
+      "A": "Phytoplankton",
+      "B": "Zooplankton only",
+      "C": "Nekton",
+      "D": "Benthos only"
+    },
+    "correct_answer": "A",
+    "explanation": "Microscopic passively floating photosynthetic chrysophytes are plankton (chief ocean producers include diatoms)."
+  },
+  {
+    "source_sentence": "Asexual reproduction in fungi is by conidia, sporangiospores or zoospores.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Motile asexual spores in phycomycetes are:",
+    "options": {
+      "A": "Zoospores",
+      "B": "Basidiospores",
+      "C": "Ascospores",
+      "D": "Conidia of Penicillium"
+    },
+    "correct_answer": "A",
+    "explanation": "Phycomycetes produce motile zoospores or non-motile aplanospores in sporangia."
+  },
+  {
+    "source_sentence": "Zygospore is formed by fusion of two gametes in phycomycetes.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Isogamous, anisogamous or oogamous fusion in phycomycetes produces:",
+    "options": {
+      "A": "Zygospore",
+      "B": "Basidiospore",
+      "C": "Heterocyst",
+      "D": "Endospore of bacteria"
+    },
+    "correct_answer": "A",
+    "explanation": "Phycomycete sexual reproduction culminates in a zygospore from gamete fusion."
+  },
+  {
+    "source_sentence": "Mycelium of phycomycetes is aseptate and coenocytic.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Coenocytic hyphae in phycomycetes means:",
+    "options": {
+      "A": "Multinucleate cytoplasm without septa",
+      "B": "Single-celled yeast",
+      "C": "Dikaryotic n+n cells",
+      "D": "Prokaryotic trichome"
+    },
+    "correct_answer": "A",
+    "explanation": "Aseptate coenocytic hyphae are continuous tubes with many nuclei."
+  },
+  {
+    "source_sentence": "Ascospores are produced endogenously in sac-like asci.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Ascocarps are:",
+    "options": {
+      "A": "Fruiting bodies bearing asci with ascospores",
+      "B": "Bacterial colonies",
+      "C": "Diatom frustules",
+      "D": "Lichens only"
+    },
+    "correct_answer": "A",
+    "explanation": "Asci are arranged in ascocarps—fruiting bodies of ascomycetes."
+  },
+  {
+    "source_sentence": "Basidiomycetes: sex organs absent; plasmogamy by somatic cell fusion.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "In basidiomycetes plasmogamy occurs between:",
+    "options": {
+      "A": "Two vegetative/somatic cells of different mating types",
+      "B": "Two bacterial cells",
+      "C": "Algal and fungal partners",
+      "D": "Viral capsids"
+    },
+    "correct_answer": "A",
+    "explanation": "Basidiomycetes lack sex organs; compatible hyphal cells fuse (plasmogamy)."
+  },
+  {
+    "source_sentence": "Basidiomycetes asexual spores are generally not found.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Vegetative reproduction common in basidiomycetes is:",
+    "options": {
+      "A": "Fragmentation of mycelium",
+      "B": "Binary fission",
+      "C": "Budding of conidia",
+      "D": "Zoospores in sporangium"
+    },
+    "correct_answer": "A",
+    "explanation": "Basidiomycetes typically lack asexual spores; fragmentation is common vegetatively."
+  },
+  {
+    "source_sentence": "Deuteromycetes mycelium is septate and branched.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "When sexual stage of a deuteromycete is discovered it is often reclassified into:",
+    "options": {
+      "A": "Ascomycetes or basidiomycetes",
+      "B": "Monera",
+      "C": "Protista",
+      "D": "Plantae"
+    },
+    "correct_answer": "A",
+    "explanation": "Perfect stages of imperfect fungi are moved to ascomycetes or basidiomycetes upon discovery."
+  },
+  {
+    "source_sentence": "Morels and truffles are edible ascomycetes.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Edible delicacies morels and truffles belong to:",
+    "options": {
+      "A": "Ascomycetes",
+      "B": "Basidiomycetes",
+      "C": "Phycomycetes",
+      "D": "Deuteromycetes only"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT lists morels and truffles as edible ascomycete members."
+  },
+  {
+    "source_sentence": "Coprophilous fungi grow on dung.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Coprophilous habit is mentioned for:",
+    "options": {
+      "A": "Ascomycetes",
+      "B": "Cyanobacteria",
+      "C": "Dinoflagellates",
+      "D": "Methanogens only"
+    },
+    "correct_answer": "A",
+    "explanation": "Ascomycetes include coprophilous (dung-growing) forms among saprobes and parasites."
+  },
+  {
+    "source_sentence": "Fungal sexual cycle meiosis produces haploid spores in fruiting bodies.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Reduction division in basidiomycete fruiting bodies produces:",
+    "options": {
+      "A": "Haploid basidiospores",
+      "B": "Diploid zygotes only",
+      "C": "Heterocysts",
+      "D": "Viroid RNA"
+    },
+    "correct_answer": "A",
+    "explanation": "Karyogamy and meiosis in basidium yield four haploid basidiospores externally."
+  },
+  {
+    "source_sentence": "Dmitri Ivanowsky recognised microbes causing tobacco mosaic disease passed through bacteria-proof filters.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Ivanowsky (1892) demonstrated that TMV causative agents are:",
+    "options": {
+      "A": "Smaller than bacteria",
+      "B": "Larger than eukaryotes",
+      "C": "Cell-walled plants",
+      "D": "Lichens"
+    },
+    "correct_answer": "A",
+    "explanation": "Filter-passage showed TMV pathogen smaller than bacteria."
+  },
+  {
+    "source_sentence": "W.M. Stanley showed viruses could be crystallised.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Stanley's 1935 crystallisation of viruses proved they contain largely:",
+    "options": {
+      "A": "Protein (nucleoprotein crystals)",
+      "B": "Cellulose only",
+      "C": "Chitin cell walls",
+      "D": "Peptidoglycan"
+    },
+    "correct_answer": "A",
+    "explanation": "Stanley showed viruses crystallise as largely protein; they are nucleoproteins with RNA or DNA."
+  },
+  {
+    "source_sentence": "Plant viruses generally have single stranded RNA.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "Which statement about viral nucleic acid is INCORRECT?",
+    "options": {
+      "A": "A single virus particle may contain both DNA and RNA",
+      "B": "Animal viruses may have ss/ds RNA or ds DNA",
+      "C": "Bacteriophages are usually ds DNA",
+      "D": "Plant viruses often have ssRNA"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT clearly states no virus contains both RNA and DNA in the same particle."
+  },
+  {
+    "source_sentence": "Lichens do not grow in polluted areas.",
+    "chapter": "Chapter 2: Biological Classification",
+    "question": "A lichen-free tree trunk in an industrial city suggests:",
+    "options": {
+      "A": "High air pollution (lichens as bioindicators)",
+      "B": "Abundance of prions",
+      "C": "Presence of methanogens",
+      "D": "Red tide conditions"
+    },
+    "correct_answer": "A",
+    "explanation": "Lichens are sensitive pollution indicators and fail to grow in polluted air—applied NEET concept."
+  }
+]

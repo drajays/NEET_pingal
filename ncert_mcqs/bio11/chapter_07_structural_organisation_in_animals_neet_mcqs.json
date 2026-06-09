@@ -1,0 +1,1042 @@
+[
+  {
+    "source_sentence": "a group of similar cells alongwith intercellular substances perform a specific function. Such an organisation is called tissue",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Tissue is best defined as:",
+    "options": {
+      "A": "Group of similar cells plus intercellular substances performing a specific function",
+      "B": "Single specialised cell only",
+      "C": "Random mixture of organs",
+      "D": "Only extracellular matrix without cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Tissue = similar cells + matrix, specific function."
+  },
+  {
+    "source_sentence": "all complex animals consist of only four basic types of tissues",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Four basic animal tissue types are:",
+    "options": {
+      "A": "Epithelial, connective, muscular and neural",
+      "B": "Xylem, phloem, parenchyma, collenchyma",
+      "C": "Epidermis, cortex, stele, pith",
+      "D": "Meristem, cork, phloem, xylem"
+    },
+    "correct_answer": "A",
+    "explanation": "Animal tissues: epithelial, connective, muscle, neural."
+  },
+  {
+    "source_sentence": "our heart consists of all the four types of tissues",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Heart as an organ contains:",
+    "options": {
+      "A": "All four basic tissue types",
+      "B": "Only epithelial tissue",
+      "C": "Only plant vascular tissue",
+      "D": "No nervous tissue"
+    },
+    "correct_answer": "A",
+    "explanation": "Heart has epithelial, connective, muscular, neural tissues."
+  },
+  {
+    "source_sentence": "anatomy conventionally is used for the study of morphology of internal organs in the animals",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Animal anatomy studies:",
+    "options": {
+      "A": "Internal structure of organs",
+      "B": "Only flower parts",
+      "C": "Leaf venation",
+      "D": "Bacterial cell wall only"
+    },
+    "correct_answer": "A",
+    "explanation": "Anatomy = internal organ structure."
+  },
+  {
+    "source_sentence": "Frogs belong to class Amphibia of phylum Chordata",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Rana tigrina is classified under:",
+    "options": {
+      "A": "Amphibia, Chordata",
+      "B": "Reptilia, Arthropoda",
+      "C": "Mammalia, Mollusca",
+      "D": "Pisces, Porifera"
+    },
+    "correct_answer": "A",
+    "explanation": "Indian bullfrog: Amphibia, Chordata."
+  },
+  {
+    "source_sentence": "They do not have constant body temperature i.e., their body temperature varies with the temperature of the environment. Such animals are called cold blooded or poikilotherms",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog is poikilothermic meaning:",
+    "options": {
+      "A": "Body temperature varies with environment",
+      "B": "Constant high body temperature",
+      "C": "Only aquatic habitat",
+      "D": "No blood circulation"
+    },
+    "correct_answer": "A",
+    "explanation": "Poikilotherms: variable body temperature."
+  },
+  {
+    "source_sentence": "protective coloration is called mimicry",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog colour change for camouflage is:",
+    "options": {
+      "A": "Mimicry",
+      "B": "Aposematism only",
+      "C": "Parthenogenesis",
+      "D": "Metamorphosis"
+    },
+    "correct_answer": "A",
+    "explanation": "Protective colouration = mimicry."
+  },
+  {
+    "source_sentence": "summer sleep (aestivation) and winter sleep (hibernation) respectively",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog burrows during extreme summer and winter for:",
+    "options": {
+      "A": "Aestivation and hibernation respectively",
+      "B": "Metamorphosis only",
+      "C": "External fertilisation",
+      "D": "Moulting exoskeleton"
+    },
+    "correct_answer": "A",
+    "explanation": "Summer sleep = aestivation; winter = hibernation."
+  },
+  {
+    "source_sentence": "The skin is smooth and slippery due to the presence of mucus",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog skin is slippery because of:",
+    "options": {
+      "A": "Mucus secretion",
+      "B": "Keratin scales",
+      "C": "Chitinous exoskeleton",
+      "D": "Waxy cuticle only"
+    },
+    "correct_answer": "A",
+    "explanation": "Mucus makes frog skin slippery."
+  },
+  {
+    "source_sentence": "nictitating membrane that protects them while in water",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Nictitating membrane in frog eye:",
+    "options": {
+      "A": "Protects eye while in water",
+      "B": "Produces sound",
+      "C": "Absorbs oxygen only",
+      "D": "Forms vocal sac"
+    },
+    "correct_answer": "A",
+    "explanation": "Nictitating membrane protects underwater."
+  },
+  {
+    "source_sentence": "tympanum (ear) receives sound signals",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "External ear opening is absent in frog; sound received by:",
+    "options": {
+      "A": "Tympanum (membranous ear)",
+      "B": "Nostrils",
+      "C": "Vocal sac only",
+      "D": "Cloaca"
+    },
+    "correct_answer": "A",
+    "explanation": "Tympanum receives sound."
+  },
+  {
+    "source_sentence": "hind limbs end in five digits and they are larger and muscular than fore limbs that end in four digits",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog hind limb has:",
+    "options": {
+      "A": "Five webbed digits; more muscular than forelimb (4 digits)",
+      "B": "Four digits only without web",
+      "C": "Same size as forelimb with six digits",
+      "D": "No digits"
+    },
+    "correct_answer": "A",
+    "explanation": "Hind limb 5 webbed digits; forelimb 4."
+  },
+  {
+    "source_sentence": "alimentary canal is short because frogs are carnivores and hence the length of intestine is reduced",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Short intestine in frog correlates with:",
+    "options": {
+      "A": "Carnivorous diet",
+      "B": "Herbivorous diet requiring long fermentation",
+      "C": "Absence of digestive glands",
+      "D": "No stomach"
+    },
+    "correct_answer": "A",
+    "explanation": "Carnivores have relatively shorter gut."
+  },
+  {
+    "source_sentence": "Food is captured by the bilobed tongue",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog prey capture uses:",
+    "options": {
+      "A": "Bilobed muscular tongue",
+      "B": "Teeth for chewing only",
+      "C": "Radula",
+      "D": "Proboscis"
+    },
+    "correct_answer": "A",
+    "explanation": "Bilobed tongue captures food."
+  },
+  {
+    "source_sentence": "Digested food is absorbed by the numerous finger-like folds in the inner wall of intestine called villi and microvilli",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Intestinal absorption surface is increased by:",
+    "options": {
+      "A": "Villi and microvilli",
+      "B": "Chyme only",
+      "C": "Cloacal glands",
+      "D": "Typhlosole in earthworm"
+    },
+    "correct_answer": "A",
+    "explanation": "Villi/microvilli increase absorption area."
+  },
+  {
+    "source_sentence": "sinus venosus joins the right atrium. It receives blood through the major veins called vena cava",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Sinus venosus in frog receives blood from:",
+    "options": {
+      "A": "Vena cava",
+      "B": "Pulmonary vein only in mammals",
+      "C": "Aorta",
+      "D": "Hepatic portal only directly to ventricle"
+    },
+    "correct_answer": "A",
+    "explanation": "Sinus venosus ← vena cava."
+  },
+  {
+    "source_sentence": "hepatic portal system and the latter is called renal portal system",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog has special portal systems connecting:",
+    "options": {
+      "A": "Liver-intestine and kidney-lower body",
+      "B": "Heart-lungs only",
+      "C": "Skin-brain only",
+      "D": "Ovary-testis only"
+    },
+    "correct_answer": "A",
+    "explanation": "Hepatic and renal portal systems."
+  },
+  {
+    "source_sentence": "The lymph is different from blood. It lacks few proteins and RBCs",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog lymph differs from blood by lacking:",
+    "options": {
+      "A": "Some proteins and RBCs",
+      "B": "All water",
+      "C": "WBCs always",
+      "D": "Plasma"
+    },
+    "correct_answer": "A",
+    "explanation": "Lymph lacks some proteins and RBCs."
+  },
+  {
+    "source_sentence": "frog excretes urea and thus is a ureotelic animal",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog nitrogen excretion is:",
+    "options": {
+      "A": "Ureotelic (urea)",
+      "B": "Ammonotelic only always",
+      "C": "Uricotelic like birds",
+      "D": "No nitrogenous waste"
+    },
+    "correct_answer": "A",
+    "explanation": "Frog excretes urea."
+  },
+  {
+    "source_sentence": "Each kidney is composed of several structural and functional units called uriniferous tubules or nephrons",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Functional unit of frog kidney is:",
+    "options": {
+      "A": "Nephron (uriniferous tubule)",
+      "B": "Malpighian tubule",
+      "C": "Nephridia of earthworm",
+      "D": "Henle loop only in fish"
+    },
+    "correct_answer": "A",
+    "explanation": "Kidney nephrons filter excretory wastes."
+  },
+  {
+    "source_sentence": "In males the ureters act as urinogenital duct which opens into the cloaca. In females the ureters and oviduct open seperately in the cloaca",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Male frog ureter functions as:",
+    "options": {
+      "A": "Urinogenital duct",
+      "B": "Only oviduct",
+      "C": "Pulmonary artery",
+      "D": "Bile duct"
+    },
+    "correct_answer": "A",
+    "explanation": "Male ureter carries urine and gametes."
+  },
+  {
+    "source_sentence": "Brain is divided into fore-brain, mid-brain and hind-brain",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog brain divisions include:",
+    "options": {
+      "A": "Fore-, mid- and hind-brain",
+      "B": "Only cerebrum",
+      "C": "No medulla",
+      "D": "Only spinal cord without brain"
+    },
+    "correct_answer": "A",
+    "explanation": "Three primary brain regions."
+  },
+  {
+    "source_sentence": "midbrain is characterised by a pair of optic lobes",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Optic lobes are part of:",
+    "options": {
+      "A": "Midbrain",
+      "B": "Medulla only",
+      "C": "Cerebellum",
+      "D": "Spinal cord dorsal horn only"
+    },
+    "correct_answer": "A",
+    "explanation": "Midbrain has optic lobes."
+  },
+  {
+    "source_sentence": "External ear is absent in frogs and only tympanum can be seen externally. The ear is an organ of hearing as well as balancing",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog ear functions in:",
+    "options": {
+      "A": "Hearing and equilibrium",
+      "B": "Only vision",
+      "C": "Only smell",
+      "D": "Only taste"
+    },
+    "correct_answer": "A",
+    "explanation": "Internal ear: hearing + balance."
+  },
+  {
+    "source_sentence": "Eyes in a frog are a pair of spherical structures situated in the orbit in skull. These are simple eyes (possessing only one unit)",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog eyes are:",
+    "options": {
+      "A": "Simple eyes with one unit each",
+      "B": "Compound eyes like insects",
+      "C": "Absent in aquatic forms",
+      "D": "Only ocelli"
+    },
+    "correct_answer": "A",
+    "explanation": "Simple (single-unit) eyes."
+  },
+  {
+    "source_sentence": "testes are found adhered to the upper part of kidneys by a double fold of peritoneum called mesorchium",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog testes are attached to kidneys by:",
+    "options": {
+      "A": "Mesorchium",
+      "B": "Mesometrium",
+      "C": "Cloaca directly",
+      "D": "Bidder's canal in female"
+    },
+    "correct_answer": "A",
+    "explanation": "Mesorchium attaches testes to kidney."
+  },
+  {
+    "source_sentence": "ovaries are situated near kidneys and there is no functional connection with kidneys",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Female frog ovaries:",
+    "options": {
+      "A": "Lie near kidneys without functional renal connection",
+      "B": "Are same as kidneys",
+      "C": "Open into bladder",
+      "D": "Produce sperms"
+    },
+    "correct_answer": "A",
+    "explanation": "Ovaries near but not connected to kidneys."
+  },
+  {
+    "source_sentence": "Fertilisation is external and takes place in water. Development involves a larval stage called tadpole",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog reproduction involves:",
+    "options": {
+      "A": "External fertilisation in water; tadpole larva",
+      "B": "Internal fertilisation on land only",
+      "C": "Viviparity",
+      "D": "No metamorphosis"
+    },
+    "correct_answer": "A",
+    "explanation": "External fertilisation; tadpole metamorphosis."
+  },
+  {
+    "source_sentence": "A mature female can lay 2500 to 3000 ova at a time",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Female frog egg output per breeding:",
+    "options": {
+      "A": "2500–3000 ova",
+      "B": "One egg only",
+      "C": "Millions like fish always",
+      "D": "No eggs; live birth"
+    },
+    "correct_answer": "A",
+    "explanation": "2500–3000 ova at a time."
+  },
+  {
+    "source_sentence": "circulatory system of frog is well-developed closed type",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Which statement about frog is INCORRECT?",
+    "options": {
+      "A": "Circulation is closed type",
+      "B": "Heart has four completely separated chambers like birds",
+      "C": "Hepatic portal system present",
+      "D": "RBCs nucleated"
+    },
+    "correct_answer": "B",
+    "explanation": "Frog heart is three-chambered, not four."
+  },
+  {
+    "source_sentence": "cloaca is a small, median chamber that is used to pass faecal matter, urine and sperms to the exterior",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Which is INCORRECT about frog cloaca?",
+    "options": {
+      "A": "Common exit for faeces, urine, gametes",
+      "B": "Present in both sexes",
+      "C": "Serves only respiratory gas exchange",
+      "D": "Receives urinary bladder opening"
+    },
+    "correct_answer": "C",
+    "explanation": "Cloaca is excretory/reproductive outlet, not respiratory."
+  },
+  {
+    "source_sentence": "pancreas, a digestive gland produces pancreatic juice containing digestive enzymes",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Which is INCORRECT regarding frog digestion?",
+    "options": {
+      "A": "Stomach secretes HCl and gastric juices",
+      "B": "Pancreas produces digestive enzymes",
+      "C": "Frog is herbivorous with very long caecum for cellulose",
+      "D": "Bile stored in gall bladder"
+    },
+    "correct_answer": "C",
+    "explanation": "Frog is carnivorous with short intestine."
+  },
+  {
+    "source_sentence": "autonomic nervous system (sympathetic and parasympathetic)",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Which is INCORRECT about frog nervous system?",
+    "options": {
+      "A": "CNS includes brain and spinal cord",
+      "B": "PNS has cranial and spinal nerves",
+      "C": "Autonomic system has sympathetic and parasympathetic divisions",
+      "D": "Frog lacks endocrine coordination entirely"
+    },
+    "correct_answer": "D",
+    "explanation": "Frog has endocrine glands for chemical coordination."
+  },
+  {
+    "source_sentence": "alimentary canal is short because frogs are carnivores",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Assertion (A): Frog intestine is relatively short. Reason (R): Carnivorous diet requires less extensive fermentation than herbivorous diet. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "R explains shorter gut in carnivorous frog."
+  },
+  {
+    "source_sentence": "ventricle opens into a sac-like conus arteriosus on the ventral side of the heart",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Assertion (A): Frog ventricle pumps blood into conus arteriosus. Reason (R): Conus arteriosus distributes blood to arteries. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but R is not explaining A directly as cause-effect of opening."
+  },
+  {
+    "source_sentence": "Frogs are beneficial for mankind because they eat insects and protect the crop",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Assertion (A): Frogs control insect pests in agriculture. Reason (R): Frogs are important link in food chain maintaining ecological balance. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true; R is additional ecological role, not direct explanation of crop protection."
+  },
+  {
+    "source_sentence": "prominent endocrine glands found in frog are pituitary, thyroid, parathyroid",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Endocrine coordination in frog involves:",
+    "options": {
+      "A": "Pituitary, thyroid, adrenals, pancreatic islets among others",
+      "B": "Only nervous system without hormones",
+      "C": "Only plant auxins",
+      "D": "No gonadal hormones"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple endocrine glands listed."
+  },
+  {
+    "source_sentence": "liver secretes bile that is stored in the gall bladder",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog bile storage:",
+    "options": {
+      "A": "Gall bladder",
+      "B": "Urinary bladder",
+      "C": "Vocal sac",
+      "D": "Cloaca only"
+    },
+    "correct_answer": "A",
+    "explanation": "Bile stored in gall bladder."
+  },
+  {
+    "source_sentence": "rectum and finally opens outside by the cloaca",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog alimentary canal opens to exterior via:",
+    "options": {
+      "A": "Cloaca",
+      "B": "Nephrostome",
+      "C": "Nephridiopore alone",
+      "D": "Mouth only"
+    },
+    "correct_answer": "A",
+    "explanation": "Cloaca common opening."
+  },
+  {
+    "source_sentence": "partially digested food called chyme is passed from stomach to the first part of the small intestine, the duodenum",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Chyme enters:",
+    "options": {
+      "A": "Duodenum from stomach",
+      "B": "Rectum directly",
+      "C": "Buccal cavity",
+      "D": "Lungs"
+    },
+    "correct_answer": "A",
+    "explanation": "Stomach → duodenum."
+  },
+  {
+    "source_sentence": "common bile duct. Bile emulsifies fat",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Pancreatic juice and bile enter duodenum through:",
+    "options": {
+      "A": "Common bile duct (pancreatic duct joins)",
+      "B": "Trachea",
+      "C": "Aorta",
+      "D": "Mesorchium"
+    },
+    "correct_answer": "A",
+    "explanation": "Common duct to duodenum."
+  },
+  {
+    "source_sentence": "lungs are a pair of elongated, pink coloured sac-like structures present in the upper part of the trunk region",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog lungs location:",
+    "options": {
+      "A": "Upper trunk (thorax)",
+      "B": "Abdominal cavity only",
+      "C": "Within skin layers",
+      "D": "Tail region"
+    },
+    "correct_answer": "A",
+    "explanation": "Lungs in upper trunk."
+  },
+  {
+    "source_sentence": "covered by a membrane called pericardium",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog heart is enclosed by:",
+    "options": {
+      "A": "Pericardium",
+      "B": "Dura mater only",
+      "C": "Cuticle",
+      "D": "Peritoneum of gut only"
+    },
+    "correct_answer": "A",
+    "explanation": "Pericardial membrane covers heart."
+  },
+  {
+    "source_sentence": "conus arteriosus on the ventral side of the heart",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Conus arteriosus is on:",
+    "options": {
+      "A": "Ventral side of heart",
+      "B": "Dorsal side of kidney",
+      "C": "Inside ovary",
+      "D": "Skin layer"
+    },
+    "correct_answer": "A",
+    "explanation": "Ventral conus arteriosus."
+  },
+  {
+    "source_sentence": "blood from the heart is carried to all parts of the body by the arteries",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Arterial system carries blood:",
+    "options": {
+      "A": "Away from heart to body parts",
+      "B": "Only from skin to lungs in one direction in closed circuit incorrectly stated as open",
+      "C": "Only lymph",
+      "D": "Only urine"
+    },
+    "correct_answer": "A",
+    "explanation": "Arteries carry blood from heart."
+  },
+  {
+    "source_sentence": "platelets. RBCs are nucleated",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog blood cellular components include:",
+    "options": {
+      "A": "Nucleated RBCs, WBCs and platelets",
+      "B": "Only plasma without cells",
+      "C": "Only enucleated RBCs",
+      "D": "Tracheae"
+    },
+    "correct_answer": "A",
+    "explanation": "Frog blood cell types."
+  },
+  {
+    "source_sentence": "urinary bladder is present ventral to the rectum which also opens in the cloaca",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Urinary bladder opens into:",
+    "options": {
+      "A": "Cloaca",
+      "B": "Mouth",
+      "C": "Stomach",
+      "D": "Lungs"
+    },
+    "correct_answer": "A",
+    "explanation": "Bladder → cloaca."
+  },
+  {
+    "source_sentence": "kidneys are compact, dark red and bean like structures",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog kidneys appearance:",
+    "options": {
+      "A": "Compact, dark red, bean-shaped",
+      "B": "Transparent tubular only",
+      "C": "Absent in male",
+      "D": "Located in skull"
+    },
+    "correct_answer": "A",
+    "explanation": "Kidney description."
+  },
+  {
+    "source_sentence": "Bidder's canal. Finally it communicates with the urinogenital duct",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Bidder's canal is associated with:",
+    "options": {
+      "A": "Male urinogenital system",
+      "B": "Female oviduct only",
+      "C": "Digestive villi",
+      "D": "Lung alveoli"
+    },
+    "correct_answer": "A",
+    "explanation": "Part of male reproductive tract."
+  },
+  {
+    "source_sentence": "oviduct arising from the ovaries opens into the cloaca separately",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Female oviduct opens:",
+    "options": {
+      "A": "Separately into cloaca",
+      "B": "Into kidney lumen functionally",
+      "C": "Into stomach",
+      "D": "Into mouth"
+    },
+    "correct_answer": "A",
+    "explanation": "Separate oviduct opening."
+  },
+  {
+    "source_sentence": "tadpole undergoes metamorphosis to form the adult",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Metamorphosis in frog transforms:",
+    "options": {
+      "A": "Tadpole larva into adult",
+      "B": "Egg directly to adult without larva",
+      "C": "Adult to tadpole",
+      "D": "Skin to bone"
+    },
+    "correct_answer": "A",
+    "explanation": "Tadpole → adult metamorphosis."
+  },
+  {
+    "source_sentence": "epithelia are sheet like tissues lining the body's surface and its cavities",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Epithelial tissue characteristic:",
+    "options": {
+      "A": "Sheet-like lining with one free surface",
+      "B": "Always multinucleate fibre",
+      "C": "Only found in plants",
+      "D": "Stores fat exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Epithelia line surfaces/cavities."
+  },
+  {
+    "source_sentence": "division of labour and contribute to the survival of the body as a whole",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Multicellular animal organisation achieves:",
+    "options": {
+      "A": "Division of labour among cells/tissues/organs",
+      "B": "All cells performing all functions identically",
+      "C": "No coordination",
+      "D": "Only unicellular existence"
+    },
+    "correct_answer": "A",
+    "explanation": "Specialisation and division of labour."
+  },
+  {
+    "source_sentence": "Hydra is made of different types of cells",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Compared to Hydra, human body has:",
+    "options": {
+      "A": "Billions of cells with complex organ systems",
+      "B": "Only one cell type",
+      "C": "No tissues",
+      "D": "No organs"
+    },
+    "correct_answer": "A",
+    "explanation": "Complexity increases in higher animals."
+  },
+  {
+    "source_sentence": "evolutionary trend in organ and organ systems",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Increasing complexity of organs shows:",
+    "options": {
+      "A": "Evolutionary trend (detailed in Class XII)",
+      "B": "Random assembly",
+      "C": "Only plant adaptation",
+      "D": "No relation to function"
+    },
+    "correct_answer": "A",
+    "explanation": "Organ complexity evolutionary trend."
+  },
+  {
+    "source_sentence": "organs of touch sensory papillae taste taste buds smell nasal epithelium",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog sense organs include:",
+    "options": {
+      "A": "Touch, taste, smell, vision and hearing structures",
+      "B": "Only compound eyes",
+      "C": "Only lateral line in adult frog as primary",
+      "D": "No chemical senses"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple sense organs listed."
+  },
+  {
+    "source_sentence": "brain is enclosed in a bony structure called brain box (cranium)",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog brain protection:",
+    "options": {
+      "A": "Cranium (brain box)",
+      "B": "Exoskeleton of chitin",
+      "C": "Cuticle",
+      "D": "No skeleton"
+    },
+    "correct_answer": "A",
+    "explanation": "Cranium encloses brain."
+  },
+  {
+    "source_sentence": "colour of dorsal side of body is generally olive green with dark irregular spots",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog dorsal coloration:",
+    "options": {
+      "A": "Olive green with dark spots",
+      "B": "Uniform pale yellow",
+      "C": "Bright red always",
+      "D": "Transparent"
+    },
+    "correct_answer": "A",
+    "explanation": "Dorsal olive green spotted."
+  },
+  {
+    "source_sentence": "ventral side the skin is uniformly pale yellow",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog ventral skin colour:",
+    "options": {
+      "A": "Uniformly pale yellow",
+      "B": "Olive green with spots",
+      "C": "Blue iridescent only",
+      "D": "Black always"
+    },
+    "correct_answer": "A",
+    "explanation": "Ventral pale yellow."
+  },
+  {
+    "source_sentence": "forelimbs and hind limbs help in swimming, walking, leaping and burrowing",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog limbs function in:",
+    "options": {
+      "A": "Swimming, walking, leaping, burrowing",
+      "B": "Only flight",
+      "C": "Photosynthesis",
+      "D": "Spore dispersal"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple locomotor modes."
+  },
+  {
+    "source_sentence": "webbed digits that help in swimming",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Webbed hind feet aid:",
+    "options": {
+      "A": "Swimming",
+      "B": "Digging only",
+      "C": "Climbing trees only",
+      "D": "Flying"
+    },
+    "correct_answer": "A",
+    "explanation": "Webbing for swimming."
+  },
+  {
+    "source_sentence": "muscular legs of frog are used as food by man in some countries",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Economic use of frog:",
+    "options": {
+      "A": "Food (muscular legs) in some countries; pest control",
+      "B": "Silk production",
+      "C": "Honey",
+      "D": "Timber"
+    },
+    "correct_answer": "A",
+    "explanation": "Legs as food; pest control."
+  },
+  {
+    "source_sentence": "serve as an important link of food chain and food web",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Ecological role of frog:",
+    "options": {
+      "A": "Food chain/web link; insect control",
+      "B": "Only decomposer",
+      "C": "Only producer",
+      "D": "No ecological role"
+    },
+    "correct_answer": "A",
+    "explanation": "Ecological balance via food webs."
+  },
+  {
+    "source_sentence": "most common species of frog found in India is Rana tigrina",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Common Indian frog species:",
+    "options": {
+      "A": "Rana tigrina",
+      "B": "Bufo marinus only in India exclusively",
+      "C": "Rana catesbeiana native",
+      "D": "Xenopus native common"
+    },
+    "correct_answer": "A",
+    "explanation": "Rana tigrina common in India."
+  },
+  {
+    "source_sentence": "live both on land and in freshwater",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog habitat includes:",
+    "options": {
+      "A": "Land and freshwater",
+      "B": "Only marine ocean",
+      "C": "Only desert without water",
+      "D": "Only arboreal never entering water"
+    },
+    "correct_answer": "A",
+    "explanation": "Dual terrestrial/aquatic life."
+  },
+  {
+    "source_sentence": "Earthworm is a reddish brown terrestrial invertebrate that inhabits the upper layer of moist soil.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Assertion (A): Earthworm skin is moist and vascular. Reason (R): Cutaneous respiration in earthworm occurs through moist skin. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Moist vascular skin enables gas exchange."
+  },
+  {
+    "source_sentence": "Earthworm body is metamerically segmented; segments are called metameres.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Clitellum in earthworm is involved in:",
+    "options": {
+      "A": "Cocoon formation during reproduction",
+      "B": "Digestion of soil",
+      "C": "Locomotion only via setae",
+      "D": "Excretion via nephridia only"
+    },
+    "correct_answer": "A",
+    "explanation": "Clitellum secretes cocoon in reproduction."
+  },
+  {
+    "source_sentence": "Cockroach is nocturnal omnivorous pest; exoskeleton of chitin.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Which structure in cockroach is used for respiration?",
+    "options": {
+      "A": "Spiracles and tracheae",
+      "B": "Gills",
+      "C": "Moist skin like earthworm",
+      "D": "Book lungs of spider type"
+    },
+    "correct_answer": "A",
+    "explanation": "Insects respire via tracheal system opening at spiracles."
+  },
+  {
+    "source_sentence": "Frog is amphibian showing aquatic and terrestrial adaptation.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Compared to cockroach, frog possesses:",
+    "options": {
+      "A": "Closed double circulatory system with heart",
+      "B": "Open circulatory system without heart chambers",
+      "C": "Tracheal respiration only",
+      "D": "Exoskeleton of chitin"
+    },
+    "correct_answer": "A",
+    "explanation": "Frog has closed circulation; cockroach has open circulation."
+  },
+  {
+    "source_sentence": "Earthworm alimentary canal: mouth, buccal cavity, pharynx, gizzard, stomach, intestine.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Gizzard in earthworm functions to:",
+    "options": {
+      "A": "Grind soil and organic matter",
+      "B": "Absorb digested food only",
+      "C": "Produce bile",
+      "D": "Filter blood"
+    },
+    "correct_answer": "A",
+    "explanation": "Gizzard has muscular walls for grinding."
+  },
+  {
+    "source_sentence": "Cockroach heart is elongated with 13 chambers.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach blood (haemolymph) does NOT contain:",
+    "options": {
+      "A": "Haemoglobin for O2 transport",
+      "B": "Plasma",
+      "C": "Haemocytes",
+      "D": "Dissolved nutrients"
+    },
+    "correct_answer": "A",
+    "explanation": "Haemolymph lacks respiratory pigment; tracheae carry O2."
+  },
+  {
+    "source_sentence": "Frog RBCs are nucleated and biconvex.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "A diagnostic difference between human and frog erythrocytes is:",
+    "options": {
+      "A": "Frog RBCs are nucleated",
+      "B": "Frog RBCs lack haemoglobin",
+      "C": "Human RBCs are always nucleated",
+      "D": "Frog RBCs are square shaped always"
+    },
+    "correct_answer": "A",
+    "explanation": "Amphibian RBCs retain nucleus."
+  },
+  {
+    "source_sentence": "Nephridia in earthworm are excretory and osmoregulatory.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Which is NOT correct about earthworm excretion?",
+    "options": {
+      "A": "Malpighian tubules are primary excretory organs",
+      "B": "Nephridia remove nitrogenous wastes",
+      "C": "Excretory matter includes urea",
+      "D": "Nephridia are segmentally arranged"
+    },
+    "correct_answer": "A",
+    "explanation": "Malpighian tubules belong to insects, not earthworm."
+  },
+  {
+    "source_sentence": "Frog skeleton is bony with skull, vertebral column, girdles and limbs.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Pectoral girdle in frog attaches:",
+    "options": {
+      "A": "Forelimbs to axial skeleton",
+      "B": "Hind limbs only",
+      "C": "Ribs to sternum in mammals",
+      "D": "Skull to vertebral column directly"
+    },
+    "correct_answer": "A",
+    "explanation": "Pectoral girdle supports forelimbs."
+  },
+  {
+    "source_sentence": "Earthworm setae help in locomotion by providing grip.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Consider the following statements:\n1. Setae are S-shaped chitinous structures\n2. Setae are absent in all segments\n3. Setae aid locomotion\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "C",
+    "explanation": "Setae present in most segments except first and last; aid locomotion."
+  },
+  {
+    "source_sentence": "Cockroach antennae are long and filiform for sensing.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Which cockroach mouthpart pair is used for chewing?",
+    "options": {
+      "A": "Mandibles",
+      "B": "Maxillary palps only without mandibles",
+      "C": "Labrum alone",
+      "D": "Antennae"
+    },
+    "correct_answer": "A",
+    "explanation": "Mandibles are biting/chewing mouthparts."
+  },
+  {
+    "source_sentence": "Frog tympanum receives sound vibrations.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog tympanum represents:",
+    "options": {
+      "A": "External ear membrane",
+      "B": "Inner cochlea",
+      "C": "Olfactory epithelium",
+      "D": "Lateral line organ of fish"
+    },
+    "correct_answer": "A",
+    "explanation": "Tympanum is external hearing membrane in frog."
+  },
+  {
+    "source_sentence": "Earthworm is hermaphrodite but cross-fertilisation occurs.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Earthworm reproduction involves:",
+    "options": {
+      "A": "Cross-fertilisation with copulation",
+      "B": "Self-fertilisation always without mate",
+      "C": "Parthenogenesis only",
+      "D": "Binary fission in all seasons"
+    },
+    "correct_answer": "A",
+    "explanation": "Earthworms exchange sperm during copulation."
+  },
+  {
+    "source_sentence": "Cockroach develops by paurometabolous metamorphosis (nymph resembles adult).",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach life cycle lacks:",
+    "options": {
+      "A": "Pupal stage",
+      "B": "Egg stage",
+      "C": "Nymphal stages",
+      "D": "Adult stage"
+    },
+    "correct_answer": "A",
+    "explanation": "Incomplete metamorphosis: egg → nymph → adult."
+  },
+  {
+    "source_sentence": "Malpighian tubules in cockroach open into ileum and remove nitrogenous wastes.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Assertion (A): Cockroach excretion involves Malpighian tubules. Reason (R): These tubules absorb wastes from haemolymph and discharge into gut. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Malpighian tubules are insect excretory organs opening into alimentary canal."
+  }
+]

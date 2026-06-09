@@ -1,0 +1,1120 @@
+[
+  {
+    "source_sentence": "Auxins help to prevent fruit and leaf drop at early stages but promote the abscission of older mature leaves and fruits.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A NEET trap: Auxin effect on abscission differs with organ age. On young fruits auxin:",
+    "options": {
+      "A": "Promotes immediate abscission",
+      "B": "Prevents early drop",
+      "C": "Has no effect",
+      "D": "Inhibits cell division only"
+    },
+    "correct_answer": "B",
+    "explanation": "Auxins prevent early fruit/leaf drop but promote abscission of older mature organs."
+  },
+  {
+    "source_sentence": "ABA stimulates the closure of stomata and increases the tolerance of plants to various kinds of stresses.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "For immediate stomatal closure under water stress, which PGR is most appropriate?",
+    "options": {
+      "A": "Gibberellin",
+      "B": "Abscisic acid",
+      "C": "Cytokinin",
+      "D": "Auxin at high dose"
+    },
+    "correct_answer": "B",
+    "explanation": "ABA is the stress hormone causing stomatal closure."
+  },
+  {
+    "source_sentence": "Ethylene enhances the respiration rate during ripening of the fruits. This rise in rate of respiration is called respiratory climactic.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Climacteric rise in respiration during fruit ripening is caused by:",
+    "options": {
+      "A": "Abscisic acid",
+      "B": "Ethylene",
+      "C": "Auxin",
+      "D": "Cytokinin"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethylene triggers respiratory climacteric during ripening."
+  },
+  {
+    "source_sentence": "Ethephon hastens fruit ripening in tomatoes and apples and accelerates abscission in flowers and fruits.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethephon is preferred in agriculture because it:",
+    "options": {
+      "A": "Is a gaseous cytokinin",
+      "B": "Releases ethylene slowly after spray absorption",
+      "C": "Blocks auxin permanently",
+      "D": "Is a synthetic gibberellin"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethephon is an aqueous ethylene-releasing compound."
+  },
+  {
+    "source_sentence": "Gibberellins, cause fruits like apple to elongate and improve its shape.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Gibberellin spray on apple improves market quality by:",
+    "options": {
+      "A": "Delaying senescence and elongating fruit",
+      "B": "Inducing parthenocarpy only",
+      "C": "Promoting leaf abscission",
+      "D": "Inhibiting stem growth"
+    },
+    "correct_answer": "A",
+    "explanation": "GAs elongate apple fruits, improve shape and delay senescence."
+  },
+  {
+    "source_sentence": "Spraying sugarcane crop with gibberellins increases the length of the stem.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "GA application in sugarcane increases yield by:",
+    "options": {
+      "A": "Elongating stem and increasing storage tissue",
+      "B": "Preventing photosynthesis",
+      "C": "Inducing dormancy",
+      "D": "Reducing internode number"
+    },
+    "correct_answer": "A",
+    "explanation": "Gibberellins increase sugarcane stem length, raising yield."
+  },
+  {
+    "source_sentence": "Gibberellins also promotes bolting (internode elongation just prior to flowering) in beet, cabbages.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Bolting in a rosette cabbage plant before flowering is induced by:",
+    "options": {
+      "A": "Abscisic acid",
+      "B": "Gibberellins",
+      "C": "Ethylene only",
+      "D": "Cytokinin withdrawal"
+    },
+    "correct_answer": "B",
+    "explanation": "Gibberellins promote bolting—internode elongation before flowering."
+  },
+  {
+    "source_sentence": "Auxins promote flowering e.g. in pineapples.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Flowering in pineapple can be induced by:",
+    "options": {
+      "A": "Auxins",
+      "B": "Abscisic acid only",
+      "C": "Cytokinin alone",
+      "D": "No PGR is effective"
+    },
+    "correct_answer": "A",
+    "explanation": "Auxins promote flowering in pineapple."
+  },
+  {
+    "source_sentence": "Ethylene is used to initiate flowering and for synchronising fruit-set in pineapples. It also induces flowering in mango.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which PGR synchronises fruit-set in pineapple and induces flowering in mango?",
+    "options": {
+      "A": "Gibberellin",
+      "B": "Ethylene",
+      "C": "Abscisic acid",
+      "D": "Cytokinin"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethylene initiates/synchronises flowering in pineapple and mango."
+  },
+  {
+    "source_sentence": "Ethylene promotes female flowers in cucumbers thereby increasing the yield.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Higher cucumber yield via more female flowers is achieved using:",
+    "options": {
+      "A": "Ethephon/ethylene",
+      "B": "Abscisic acid",
+      "C": "Anti-auxin 2,4-D",
+      "D": "Cytokinin only"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethylene/ethephon promotes female flowers in cucumbers."
+  },
+  {
+    "source_sentence": "Cytokinins promote nutrient mobilisation which helps in the delay of leaf senescence.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "To delay leaf senescence in a crop, apply:",
+    "options": {
+      "A": "Cytokinins",
+      "B": "Ethylene",
+      "C": "Abscisic acid",
+      "D": "High auxin on mature leaves"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytokinins delay senescence via nutrient mobilisation."
+  },
+  {
+    "source_sentence": "The growing apical bud inhibits the growth of the lateral (axillary) buds, a phenomenon called apical dominance.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Apical dominance is most directly overcome by:",
+    "options": {
+      "A": "More auxin from apex",
+      "B": "Cytokinins on lateral buds",
+      "C": "ABA spray on apex",
+      "D": "Ethylene on roots only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cytokinins overcome apical dominance; auxin from apex maintains it."
+  },
+  {
+    "source_sentence": "Auxin controls xylem differentiation and helps in cell division.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Assertion (A): Auxins are growth promoters synthesised mainly at shoot/root apices. Reason (R): Auxins control xylem differentiation and cell division. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both statements are true but R does not explain A's specific functional claim."
+  },
+  {
+    "source_sentence": "Plant growth regulators are variously described as plant growth substances, plant hormones or phytohormones.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "PGRs include all EXCEPT:",
+    "options": {
+      "A": "Indole-3-acetic acid",
+      "B": "Gibberellic acid",
+      "C": "Abscisic acid",
+      "D": "Adenosine triphosphate as hormone"
+    },
+    "correct_answer": "D",
+    "explanation": "PGRs are IAA, kinetin, ABA, GA3, ethylene—not ATP."
+  },
+  {
+    "source_sentence": "The PGRs can be broadly divided into two groups based on their functions.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Abscisic acid is classified mainly as a:",
+    "options": {
+      "A": "Growth promoter like auxin",
+      "B": "Growth inhibitor and stress hormone",
+      "C": "Cytokinin analogue",
+      "D": "Synthetic auxin"
+    },
+    "correct_answer": "B",
+    "explanation": "ABA is a growth inhibitor involved in dormancy, abscission and stress."
+  },
+  {
+    "source_sentence": "Ethylene, could fit either of the groups, but it is largely an inhibitor of growth activities.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethylene is unique among PGRs because it:",
+    "options": {
+      "A": "Is a solid stored in seeds",
+      "B": "Is gaseous and largely growth-inhibitory though ripening-promoting",
+      "C": "Only works in roots",
+      "D": "Replaces auxin in tropisms"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethylene is a gaseous PGR, largely inhibitory but widely used in ripening."
+  },
+  {
+    "source_sentence": "During mid-1960s, three independent researches reported the purification of three different kinds of inhibitors.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Abscisic acid was earlier known as inhibitor-B, abscission II and:",
+    "options": {
+      "A": "Dormin",
+      "B": "Zeatin",
+      "C": "Ethephon",
+      "D": "IAA"
+    },
+    "correct_answer": "A",
+    "explanation": "ABA was independently identified as dormin/abscission II/inhibitor-B."
+  },
+  {
+    "source_sentence": "H.H. Cousins (1910) confirmed the release of a volatile substance from ripened oranges.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The volatile PGR from ripened oranges identified later was:",
+    "options": {
+      "A": "Ethylene",
+      "B": "Abscisic acid",
+      "C": "Gibberellin",
+      "D": "Brassinosteroid"
+    },
+    "correct_answer": "A",
+    "explanation": "Ripening oranges release ethylene."
+  },
+  {
+    "source_sentence": "Growth is measured by a variety of parameters some of which are: increase in fresh weight, dry weight, length, area, volume and cell number.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Pollen tube growth is best measured by:",
+    "options": {
+      "A": "Cell number only",
+      "B": "Increase in length",
+      "C": "Dry weight of leaf",
+      "D": "Volume of seed"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollen tube growth expressed as length increase."
+  },
+  {
+    "source_sentence": "Lt = L0 + rt",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In arithmetic growth equation Lt = L0 + rt, 'r' represents:",
+    "options": {
+      "A": "Relative growth rate",
+      "B": "Elongation per unit time",
+      "C": "Initial cell number",
+      "D": "Exponential base"
+    },
+    "correct_answer": "B",
+    "explanation": "r = growth rate/elongation per unit time in arithmetic growth."
+  },
+  {
+    "source_sentence": "In most systems, the initial growth is slow (lag phase), and it increases rapidly thereafter at an exponential rate.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A sigmoid growth curve includes:",
+    "options": {
+      "A": "Lag, log (exponential) and senescent phases",
+      "B": "Only arithmetic phase",
+      "C": "No stationary phase",
+      "D": "Only maturation"
+    },
+    "correct_answer": "A",
+    "explanation": "Sigmoid/S-curve shows lag, log and senescent phases."
+  },
+  {
+    "source_sentence": "Plant cells grow in size by cell enlargement which in turn requires water.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Water is essential for plant growth primarily because it:",
+    "options": {
+      "A": "Provides medium for enzymatic activities and turgidity for extension",
+      "B": "Replaces need for oxygen",
+      "C": "Stores gibberellins",
+      "D": "Prevents differentiation"
+    },
+    "correct_answer": "A",
+    "explanation": "Water enables turgidity and enzymatic activities for growth."
+  },
+  {
+    "source_sentence": "The cells derived from root apical and shoot-apical meristems and cambium differentiate and mature to perform specific functions.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Differentiation in plants is best defined as:",
+    "options": {
+      "A": "Reversible swelling in water",
+      "B": "Maturation of cells to perform specific functions",
+      "C": "Only increase in cell number",
+      "D": "Random cell death"
+    },
+    "correct_answer": "B",
+    "explanation": "Differentiation leads to specialised structure and function."
+  },
+  {
+    "source_sentence": "The living differentiated cells, that by now have lost the capacity to divide can regain the capacity of division under certain conditions.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Dedifferentiation is exemplified by:",
+    "options": {
+      "A": "Formation of interfascicular cambium from parenchyma",
+      "B": "Tracheary element losing protoplasm",
+      "C": "Seed dormancy",
+      "D": "Leaf abscission"
+    },
+    "correct_answer": "A",
+    "explanation": "Dedifferentiated parenchyma forms interfascicular/cork cambium."
+  },
+  {
+    "source_sentence": "This phenomenon of heterophyly is an example of plasticity.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Heterophylly in cotton, coriander and larkspur involves:",
+    "options": {
+      "A": "Different leaf shapes in juvenile vs adult",
+      "B": "Only root modification",
+      "C": "Flower colour change only",
+      "D": "Seed dormancy"
+    },
+    "correct_answer": "A",
+    "explanation": "Juvenile and adult leaves differ in shape (heterophyly)."
+  },
+  {
+    "source_sentence": "Auxin also controls xylem differentiation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Assertion (A): 2,4-D is used as herbicide against dicot weeds. Reason (R): Auxin regulates xylem differentiation in plants. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but herbicide application does not explain xylem differentiation control."
+  },
+  {
+    "source_sentence": "Spraying juvenile conifers with GAs hastens the maturity period, thus leading to early seed production.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "GA spray on juvenile conifers accelerates:",
+    "options": {
+      "A": "Root hair loss",
+      "B": "Maturity and early seed production",
+      "C": "Leaf abscission only",
+      "D": "Stomatal opening permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "GAs hasten conifer maturity for early seed production."
+  },
+  {
+    "source_sentence": "Natural cytokinins are synthesised in regions where rapid cell division occurs, for example, root apices, developing shoot buds, young fruits etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Natural cytokinins are synthesised maximally in:",
+    "options": {
+      "A": "Mature bark only",
+      "B": "Root apices and young fruits",
+      "C": "Dead xylem",
+      "D": "Fully senescent leaves"
+    },
+    "correct_answer": "B",
+    "explanation": "Cytokinins form where rapid division occurs."
+  },
+  {
+    "source_sentence": "Zeatin was isolated from corn-kernels and coconut milk.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Zeatin, a natural cytokinin, was isolated from:",
+    "options": {
+      "A": "Corn kernels and coconut milk",
+      "B": "Rice bakanae fungus",
+      "C": "Coleoptile tips only",
+      "D": "Orange peel"
+    },
+    "correct_answer": "A",
+    "explanation": "Zeatin discovered from corn kernels and coconut milk."
+  },
+  {
+    "source_sentence": "Ethylene promotes rapid internode/petiole elongation in deep water rice plants.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Deep-water rice survives flooding because ethylene promotes:",
+    "options": {
+      "A": "Petiole/internode elongation keeping leaves above water",
+      "B": "Immediate leaf abscission",
+      "C": "Root death",
+      "D": "Seed dormancy"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethylene elongates shoots in deep-water rice."
+  },
+  {
+    "source_sentence": "For any and every phase of growth, differentiation and development of plants, one or the other PGR has some role to play.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "PGR interactions during dormancy may be:",
+    "options": {
+      "A": "Synergistic or antagonistic among multiple PGRs",
+      "B": "Only auxin acting alone always",
+      "C": "Independent of environment",
+      "D": "Absent in seeds"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple PGRs interact synergistically or antagonistically."
+  },
+  {
+    "source_sentence": "Cells positioned away from root apical meristems differentiate as root-cap cells, while those pushed to the periphery mature as epidermis.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Root cap cells arise from cells:",
+    "options": {
+      "A": "At the periphery of apex",
+      "B": "Away from the apical meristem",
+      "C": "Only from vascular cambium",
+      "D": "From endodermis exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Position relative to meristem determines root cap vs epidermis."
+  },
+  {
+    "source_sentence": "To form a tracheary element, the cells would lose their protoplasm.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Tracheary element differentiation involves:",
+    "options": {
+      "A": "Protoplasm loss and lignified secondary wall",
+      "B": "Formation of chloroplasts",
+      "C": "Root hair development",
+      "D": "Spore formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Tracheary elements lose protoplasm and form lignified walls."
+  },
+  {
+    "source_sentence": "One single maize root apical meristem can give rise to more than 17,500 new cells per hour.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Maize root apical meristem growth is expressed mainly as:",
+    "options": {
+      "A": "Increase in cell number",
+      "B": "Only cell enlargement like watermelon",
+      "C": "Decrease in cell number",
+      "D": "Wall thickening only"
+    },
+    "correct_answer": "A",
+    "explanation": "Maize root: growth as cell division; watermelon: cell enlargement."
+  },
+  {
+    "source_sentence": "An increase in surface area denotes the growth in a dorsiventral leaf.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Dorsiventral leaf growth is measured by:",
+    "options": {
+      "A": "Surface area increase",
+      "B": "Pollen tube length",
+      "C": "Root cell number only",
+      "D": "Seed volume only"
+    },
+    "correct_answer": "A",
+    "explanation": "Leaf growth measured as increase in surface area."
+  },
+  {
+    "source_sentence": "Quantitative comparisons between the growth of living system can also be made in two ways.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Absolute growth rate is:",
+    "options": {
+      "A": "Total growth per unit time",
+      "B": "Growth per unit initial size only",
+      "C": "Always identical to relative rate",
+      "D": "Measured only in seeds"
+    },
+    "correct_answer": "A",
+    "explanation": "Absolute growth rate = total growth per unit time."
+  },
+  {
+    "source_sentence": "Any deviation from optimum temperature range could be detrimental to its survival.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Each plant species has:",
+    "options": {
+      "A": "An optimum temperature range for growth",
+      "B": "No temperature sensitivity",
+      "C": "Growth only at 0°C",
+      "D": "Identical range for all species"
+    },
+    "correct_answer": "A",
+    "explanation": "Plants have species-specific optimum temperature ranges."
+  },
+  {
+    "source_sentence": "IAA and indole butyric acid (IBA) have been isolated from plants.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Natural auxins isolated from plants include:",
+    "options": {
+      "A": "IAA and IBA",
+      "B": "2,4-D and NAA",
+      "C": "Zeatin and kinetin only",
+      "D": "Ethephon"
+    },
+    "correct_answer": "A",
+    "explanation": "IAA and IBA are natural auxins."
+  },
+  {
+    "source_sentence": "All GAs are acidic.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Gibberellins are chemically:",
+    "options": {
+      "A": "Basic terpenes",
+      "B": "Acidic diterpenoids",
+      "C": "Gaseous hydrocarbons",
+      "D": "Purine derivatives"
+    },
+    "correct_answer": "B",
+    "explanation": "Gibberellins (GAs) are acidic terpenoid hormones."
+  },
+  {
+    "source_sentence": "Kinetin does not occur naturally in plants.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Kinetin is:",
+    "options": {
+      "A": "Synthetic cytokinin not occurring naturally",
+      "B": "Natural auxin from urine",
+      "C": "Gaseous ripening hormone",
+      "D": "Stress hormone from leaves"
+    },
+    "correct_answer": "A",
+    "explanation": "Kinetin is synthetic; zeatin is natural cytokinin."
+  },
+  {
+    "source_sentence": "Broadly, development is considered as the sum of growth and differentiation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A callus proliferating in culture without differentiation shows mainly:",
+    "options": {
+      "A": "Growth without full developmental differentiation pattern",
+      "B": "Only senescence",
+      "C": "No cell division",
+      "D": "Completed organogenesis always"
+    },
+    "correct_answer": "A",
+    "explanation": "Growth can occur; development includes organised differentiation."
+  },
+  {
+    "source_sentence": "Cytokinins were discovered from coconut milk supplement in tobacco culture.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Assertion (A): Coconut milk contains substances with cytokinin-like activity. Reason (R): Skoog observed callus proliferation only when nutrients were supplemented with coconut milk or similar extracts. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Coconut milk's cytokinin-like activity was key to discovering cytokinins."
+  },
+  {
+    "source_sentence": "Would a defoliated plant respond to photoperiodic cycle? Why?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A defoliated plant fails to respond to photoperiod because:",
+    "options": {
+      "A": "Leaves perceive photoperiodic stimulus",
+      "B": "Roots perceive light only",
+      "C": "Flowers detect photoperiod",
+      "D": "Stems store phytochrome exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Leaves are sites of photoperiod perception (NCERT exercise concept)."
+  },
+  {
+    "source_sentence": "If GA3 is applied to rice seedlings (bakanae-like symptoms).",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "GA3 application to rice seedlings causes:",
+    "options": {
+      "A": "Elongated slender stems like bakanae",
+      "B": "Immediate dormancy",
+      "C": "Leaf abscission only",
+      "D": "Root suppression only"
+    },
+    "correct_answer": "A",
+    "explanation": "Excess GA causes foolish seedling (elongated weak stems)."
+  },
+  {
+    "source_sentence": "If a rotten fruit gets mixed with unripe fruits.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ripening spreads to unripe fruits because rotten fruit releases:",
+    "options": {
+      "A": "Abscisic acid",
+      "B": "Ethylene",
+      "C": "Cytokinin",
+      "D": "Auxin only"
+    },
+    "correct_answer": "B",
+    "explanation": "Rotten fruits release ethylene, ripening nearby fruits."
+  },
+  {
+    "source_sentence": "If you forget to add cytokinin to the culture medium.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Tobacco callus culture without cytokinin supplement will:",
+    "options": {
+      "A": "Fail to proliferate normally without auxin+cytokinin balance",
+      "B": "Root immediately",
+      "C": "Flower instantly",
+      "D": "Produce only tracheids"
+    },
+    "correct_answer": "A",
+    "explanation": "Callus proliferation needs auxin plus cytokinin source."
+  },
+  {
+    "source_sentence": "Induce rooting in a twig — which PGR?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Rooting in a twig is induced by:",
+    "options": {
+      "A": "Auxin",
+      "B": "Ethylene for ripening",
+      "C": "ABA",
+      "D": "Gibberellin for bolting"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT exercise: auxin induces rooting."
+  },
+  {
+    "source_sentence": "Quickly ripen a fruit — which PGR?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Quickest ripening is achieved by:",
+    "options": {
+      "A": "Ethylene/ethephon",
+      "B": "Abscisic acid",
+      "C": "Anti-auxin only",
+      "D": "Cytokinin"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethylene hastens fruit ripening."
+  },
+  {
+    "source_sentence": "Delay leaf senescence — which PGR?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Senescence delay is best by:",
+    "options": {
+      "A": "Cytokinin",
+      "B": "Ethylene",
+      "C": "ABA",
+      "D": "2,4-D herbicide dose"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytokinins delay leaf senescence."
+  },
+  {
+    "source_sentence": "Induce growth in axillary buds — which PGR?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Axillary bud growth is promoted by:",
+    "options": {
+      "A": "Cytokinin (and decapitation)",
+      "B": "ABA spray on buds",
+      "C": "Ethylene alone",
+      "D": "Herbicidal 2,4-D"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytokinins induce axillary bud growth."
+  },
+  {
+    "source_sentence": "Bolt a rosette plant — which PGR?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Bolting rosette plant uses:",
+    "options": {
+      "A": "Gibberellin",
+      "B": "Abscisic acid",
+      "C": "Ethylene only at roots",
+      "D": "Anti-gibberellin"
+    },
+    "correct_answer": "A",
+    "explanation": "Gibberellins bolt rosette plants."
+  },
+  {
+    "source_sentence": "Induce immediate stomatal closure — which PGR?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Immediate stomatal closure uses:",
+    "options": {
+      "A": "Abscisic acid",
+      "B": "Gibberellin",
+      "C": "Cytokinin",
+      "D": "Auxin for opening"
+    },
+    "correct_answer": "A",
+    "explanation": "ABA closes stomata under stress."
+  },
+  {
+    "source_sentence": "Plant growth generally is indeterminate.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Determinate vs indeterminate: most higher plants show:",
+    "options": {
+      "A": "Indeterminate growth due to meristems",
+      "B": "Determinate growth like most animals",
+      "C": "No growth after germination",
+      "D": "Growth only in fruits"
+    },
+    "correct_answer": "A",
+    "explanation": "Plants retain meristems for indeterminate growth."
+  },
+  {
+    "source_sentence": "The efficiency index in exponential growth refers to:",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In W1 = W0 e^rt, relative growth rate 'r' measures:",
+    "options": {
+      "A": "Efficiency index of producing new plant material",
+      "B": "Only water absorption",
+      "C": "Chlorophyll content",
+      "D": "Seed dormancy period"
+    },
+    "correct_answer": "A",
+    "explanation": "r is relative growth rate/efficiency index."
+  },
+  {
+    "source_sentence": "Lag phase in sigmoid curve represents:",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Initial slow growth phase in sigmoid curve is:",
+    "options": {
+      "A": "Lag phase",
+      "B": "Log phase",
+      "C": "Senescent phase only",
+      "D": "Arithmetic phase only"
+    },
+    "correct_answer": "A",
+    "explanation": "Sigmoid curve begins with lag phase."
+  },
+  {
+    "source_sentence": "Growth is regarded as one of the most fundamental and conspicuous characteristics of living beings.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Assertion (A): Growth in plants is generally indeterminate. Reason (R): Meristematic tissues retain capacity for division throughout plant life. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Plant growth continues due to persistent meristem activity."
+  },
+  {
+    "source_sentence": "Plant growth is unique due to indeterminate growth and open form.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which is NOT correct about plant growth?",
+    "options": {
+      "A": "Plants show determinate growth like most animals in all parts always",
+      "B": "Growth involves cell division and enlargement",
+      "C": "Growth may be measurable as increase in area/volume",
+      "D": "Growth phases include lag, log and senescence"
+    },
+    "correct_answer": "A",
+    "explanation": "Most plant parts show indeterminate growth via meristems."
+  },
+  {
+    "source_sentence": "Auxin was first isolated from human urine; IAA is common natural auxin.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Auxin promotes:",
+    "options": {
+      "A": "Cell elongation and apical dominance",
+      "B": "Leaf abscission at high concentration always only",
+      "C": "Seed dormancy exclusively without growth",
+      "D": "Stomatal closure only without elongation"
+    },
+    "correct_answer": "A",
+    "explanation": "Auxin stimulates elongation; high levels can promote abscission."
+  },
+  {
+    "source_sentence": "Gibberellins cause bolting in rosette plants and increase internode length.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Application of GA3 to dwarf pea plants will:",
+    "options": {
+      "A": "Restore normal stem elongation",
+      "B": "Prevent any cell division",
+      "C": "Block flowering permanently",
+      "D": "Convert roots to leaves"
+    },
+    "correct_answer": "A",
+    "explanation": "Gibberellins overcome dwarfism by promoting stem growth."
+  },
+  {
+    "source_sentence": "Cytokinins promote cell division; first isolated from autoclaved herring sperm DNA.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Cytokinin-auxin ratio determines:",
+    "options": {
+      "A": "Organogenesis vs callus proliferation in tissue culture",
+      "B": "Blood group only",
+      "C": "RQ value of seeds",
+      "D": "Ploidy of human RBCs"
+    },
+    "correct_answer": "A",
+    "explanation": "High cytokinin/auxin favours shoots; high auxin favours roots."
+  },
+  {
+    "source_sentence": "Ethylene is gaseous hormone; promotes fruit ripening and abscission.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Commercial ripening of bananas uses:",
+    "options": {
+      "A": "Ethylene treatment",
+      "B": "Abscisic acid only without ethylene",
+      "C": "Auxin spray exclusively",
+      "D": "Gibberellin to delay ripening only"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethylene triggers climacteric ripening."
+  },
+  {
+    "source_sentence": "Abscisic acid (ABA) is stress hormone; promotes stomatal closure.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "During water stress, ABA acts on guard cells to:",
+    "options": {
+      "A": "Promote stomatal closure reducing transpiration",
+      "B": "Force stomatal opening",
+      "C": "Increase cell division in root cap only",
+      "D": "Convert starch to protein in chloroplast exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "ABA closes stomata under drought."
+  },
+  {
+    "source_sentence": "Photoperiodism: response to day/night duration affecting flowering.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Short-day plants flower when:",
+    "options": {
+      "A": "Night length exceeds critical dark period",
+      "B": "Day length exceeds 14 h always only",
+      "C": "Continuous light is provided",
+      "D": "Temperature is irrelevant always"
+    },
+    "correct_answer": "A",
+    "explanation": "Short-day plants need long uninterrupted nights."
+  },
+  {
+    "source_sentence": "Vernalisation: low temperature requirement for flowering.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Winter varieties of wheat require cold treatment because:",
+    "options": {
+      "A": "Vernalisation promotes subsequent flowering",
+      "B": "Cold kills meristem permanently",
+      "C": "Cold prevents any germination",
+      "D": "Cold converts C3 to C4 pathway"
+    },
+    "correct_answer": "A",
+    "explanation": "Cold period is prerequisite for flowering in winter varieties."
+  },
+  {
+    "source_sentence": "Seed dormancy prevents germination under unfavourable conditions.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which treatment can break seed dormancy?",
+    "options": {
+      "A": "Gibberellin application or stratification",
+      "B": "Permanent darkness without water ever",
+      "C": "Freezing at -80°C without thaw",
+      "D": "Removal of all embryo tissue"
+    },
+    "correct_answer": "A",
+    "explanation": "GA and cold stratification overcome dormancy."
+  },
+  {
+    "source_sentence": "Senescence is deteriorative phase toward death of plant part.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Leaf senescence involves:",
+    "options": {
+      "A": "Chlorophyll breakdown and nutrient mobilisation",
+      "B": "Permanent increase in chlorophyll only",
+      "C": "Formation of new apical meristem in every cell",
+      "D": "Conversion of xylem to phloem"
+    },
+    "correct_answer": "A",
+    "explanation": "Senescence degrades chlorophyll and exports nutrients."
+  },
+  {
+    "source_sentence": "Absolute growth rate vs relative growth rate in sigmoid curve.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In logistic growth equation W1 = W0 e^rt, 'r' represents:",
+    "options": {
+      "A": "Relative growth rate",
+      "B": "Absolute dry weight only",
+      "C": "Final biomass exclusively without time",
+      "D": "Seed dormancy index"
+    },
+    "correct_answer": "A",
+    "explanation": "r is relative growth rate in exponential phase."
+  },
+  {
+    "source_sentence": "Differentiation leads cells to become structurally and functionally specialised.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Consider the following statements:\n1. Differentiation is reversible in all plant cells always\n2. Dedifferentiation precedes redifferentiation in callus culture\n3. Hormones influence differentiation pathways\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 false; dedifferentiation and redifferentiation occur in culture."
+  },
+  {
+    "source_sentence": "Apical dominance: auxin from apex suppresses lateral buds.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Decapitation of shoot tip usually results in:",
+    "options": {
+      "A": "Lateral bud growth due to reduced auxin",
+      "B": "Complete cessation of all growth",
+      "C": "Root formation at tip only",
+      "D": "Immediate flowering without leaves"
+    },
+    "correct_answer": "A",
+    "explanation": "Removing apex reduces auxin, releasing lateral buds."
+  },
+  {
+    "source_sentence": "Growth regulators are chemicals that control plant growth and development.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Assertion (A): Ethylene is a gaseous plant hormone. Reason (R): Being gaseous, ethylene diffuses easily to affect nearby tissues. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethylene's gaseous nature allows rapid diffusion for ripening/abscission."
+  },
+  {
+    "source_sentence": "Day-neutral plants flower irrespective of photoperiod.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Tomato is typically:",
+    "options": {
+      "A": "Day-neutral plant",
+      "B": "Strict short-day plant only",
+      "C": "Long-day plant requiring >16 h light only",
+      "D": "Plant requiring double vernalisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Tomato flowers under varied day lengths."
+  },
+  {
+    "source_sentence": "Initial growth phase in sigmoid curve shows slow increase.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Lag phase in growth curve corresponds to:",
+    "options": {
+      "A": "Adaptation and enzyme synthesis before rapid division",
+      "B": "Maximum growth rate already achieved",
+      "C": "Senescence only",
+      "D": "Zero cell activity"
+    },
+    "correct_answer": "A",
+    "explanation": "Lag phase: cells preparing for exponential growth."
+  },
+  {
+    "source_sentence": "Plasticity: ability to produce different structures in response to environment.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Heterophylly in cotton/larkspur demonstrates:",
+    "options": {
+      "A": "Environmental plasticity in leaf form",
+      "B": "Permanent mutation only",
+      "C": "Animal locomotion",
+      "D": "Blood clotting mechanism"
+    },
+    "correct_answer": "A",
+    "explanation": "Same genotype produces different leaf shapes under different conditions."
+  },
+  {
+    "source_sentence": "Promoters increase growth; inhibitors retard growth.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which is a growth inhibitor?",
+    "options": {
+      "A": "Abscisic acid",
+      "B": "Gibberellin",
+      "C": "Cytokinin at low stress",
+      "D": "Auxin in elongation role"
+    },
+    "correct_answer": "A",
+    "explanation": "ABA generally inhibits growth processes."
+  },
+  {
+    "source_sentence": "Parthenocarpic fruit development can be induced by auxin and gibberellin.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Seedless grapes may be produced using:",
+    "options": {
+      "A": "Gibberellin spray on flowers",
+      "B": "Ethylene during seed maturation only",
+      "C": "ABA to promote fertilisation",
+      "D": "Cytokinin to block fruit set only"
+    },
+    "correct_answer": "A",
+    "explanation": "GA induces parthenocarpic fruit development."
+  },
+  {
+    "source_sentence": "Quantitative measurement: dry weight, fresh weight, area, volume, cell number.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Most reliable measure of long-term growth in storage tissue is:",
+    "options": {
+      "A": "Dry weight increase",
+      "B": "Temporary turgor pressure spike only",
+      "C": "Single cell length at one instant only",
+      "D": "Flower colour intensity alone"
+    },
+    "correct_answer": "A",
+    "explanation": "Dry weight reflects accumulated biomass."
+  },
+  {
+    "source_sentence": "Red light promotes flowering in long-day plants via phytochrome.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Phytochrome exists in:",
+    "options": {
+      "A": "Pr and Pfr interconvertible forms",
+      "B": "Only inactive permanent form",
+      "C": "Animal rhodopsin exclusively",
+      "D": "Mitochondrial cristae only"
+    },
+    "correct_answer": "A",
+    "explanation": "Phytochrome photoconverts between Pr and Pfr."
+  },
+  {
+    "source_sentence": "Development includes growth, differentiation and morphogenesis.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which sequence is correct in plant development?",
+    "options": {
+      "A": "Growth → differentiation → maturation",
+      "B": "Maturation before cell division always",
+      "C": "Differentiation without growth always",
+      "D": "Senescence before germination"
+    },
+    "correct_answer": "A",
+    "explanation": "Development integrates growth with specialisation."
+  },
+  {
+    "source_sentence": "Auxin transport is polar (basipetal) in stems.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Polar auxin transport occurs mainly through:",
+    "options": {
+      "A": "Vascular parenchyma / specific cell files",
+      "B": "Xylem vessels only upward",
+      "C": "Phloem sieve tubes exclusively for auxin only upward",
+      "D": "Stomatal pores"
+    },
+    "correct_answer": "A",
+    "explanation": "Auxin moves basipetally from apex."
+  },
+  {
+    "source_sentence": "Cytokinins delay senescence (Richmond-Lang effect).",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Application of cytokinin to detached leaf:",
+    "options": {
+      "A": "Delays yellowing/senescence",
+      "B": "Accelerates immediate abscission only",
+      "C": "Converts leaf to root directly",
+      "D": "Blocks all photosynthesis permanently first hour"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytokinins retain chlorophyll and delay senescence."
+  },
+  {
+    "source_sentence": "Ethylene triple response in seedlings: reduced elongation, swelling, horizontal growth.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethylene treatment of dark-grown pea seedlings causes:",
+    "options": {
+      "A": "Thicker, shorter, horizontal stem",
+      "B": "Extremely tall thin stem only",
+      "C": "Immediate flowering",
+      "D": "Root hair loss exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Classic ethylene triple response."
+  },
+  {
+    "source_sentence": "Gibberellins stimulate amylase production in barley aleurone layer.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "GA mobilises stored food in germinating cereal grains by:",
+    "options": {
+      "A": "Inducing α-amylase synthesis",
+      "B": "Blocking water imbibition",
+      "C": "Preventing embryo growth",
+      "D": "Converting proteins to lignin"
+    },
+    "correct_answer": "A",
+    "explanation": "GA triggers amylase for starch hydrolysis."
+  },
+  {
+    "source_sentence": "Growth curve is sigmoid for whole organism/tissue over time.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Stationary phase in sigmoid growth indicates:",
+    "options": {
+      "A": "Nutrient limitation or space limitation balancing birth/death of cells",
+      "B": "Zero metabolic activity",
+      "C": "Only root cap formation",
+      "D": "Immediate seed dormancy in all cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Carrying capacity reached in stationary phase."
+  },
+  {
+    "source_sentence": "Hormone interactions are synergistic or antagonistic.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Auxin and cytokinin show:",
+    "options": {
+      "A": "Antagonistic control of apical vs lateral growth",
+      "B": "No interaction ever in plants",
+      "C": "Identical roles in ripening only",
+      "D": "Same effect on stomatal movement always"
+    },
+    "correct_answer": "A",
+    "explanation": "Auxin promotes apical dominance; cytokinin promotes lateral buds."
+  },
+  {
+    "source_sentence": "Developmental phases: embryogenesis, vegetative, reproductive, senescence.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Transition from vegetative to reproductive phase requires:",
+    "options": {
+      "A": "Appropriate internal and environmental signals",
+      "B": "Only removal of all leaves without hormones",
+      "C": "Permanent suppression of meristem",
+      "D": "Elimination of phytochrome"
+    },
+    "correct_answer": "A",
+    "explanation": "Flowering needs photoperiod, hormones and maturity."
+  },
+  {
+    "source_sentence": "Skotomorphogenesis: etiolation in dark with long hypocotyl and apical hook.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Etiolated seedlings grown in complete darkness typically show:",
+    "options": {
+      "A": "Long, pale, weak stem with unexpanded leaves",
+      "B": "Short green stem with expanded chloroplast-rich leaves",
+      "C": "Immediate flowering without vegetative phase",
+      "D": "Permanent seed dormancy without any elongation"
+    },
+    "correct_answer": "A",
+    "explanation": "Dark-grown seedlings etiolate: pale, elongated, weak."
+  }
+]

@@ -1,0 +1,1133 @@
+[
+  {
+    "source_sentence": "It controls the voluntary movements, balance of the body, functioning of vital involuntary organs",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Voluntary movements and body balance are controlled by:",
+    "options": {
+      "A": "Brain",
+      "B": "Spleen only",
+      "C": "Appendix",
+      "D": "Patella"
+    },
+    "correct_answer": "A",
+    "explanation": "Brain regulates voluntary movement and balance."
+  },
+  {
+    "source_sentence": "thermoregulation, hunger and thirst, circadian (24-hour) rhythms of our body",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Hypothalamus-related functions listed with brain control include:",
+    "options": {
+      "A": "Thermoregulation, hunger, thirst and circadian rhythms",
+      "B": "Only skeletal muscle sliding",
+      "C": "Bone matrix deposition only",
+      "D": "Gas exchange in alveoli"
+    },
+    "correct_answer": "A",
+    "explanation": "Brain/hypothalamus regulate temperature, appetite, thirst, circadian rhythms."
+  },
+  {
+    "source_sentence": "thalamus, which is a major coordinating centre for sensory and motor signaling.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Thalamus acts as a major centre for:",
+    "options": {
+      "A": "Sensory and motor signalling coordination",
+      "B": "RBC production only",
+      "C": "Bile secretion",
+      "D": "Urine concentration exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Thalamus coordinates sensory and motor signals."
+  },
+  {
+    "source_sentence": "hypothalamus contains a number of centres which control body temperature, urge for eating and drinking.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Centres controlling body temperature and urge for eating/drinking lie in:",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Cerebellum only",
+      "C": "Medulla only",
+      "D": "Pons exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypothalamus regulates temperature and feeding/drinking drives."
+  },
+  {
+    "source_sentence": "limbic lobe or limbic system. Along with the hypothalamus, it is involved in the regulation of sexual behaviour, expression of emotional reactions",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Limbic system with hypothalamus regulates:",
+    "options": {
+      "A": "Sexual behaviour and emotional expression",
+      "B": "Only cerebrospinal fluid pH",
+      "C": "Bone growth plates only",
+      "D": "Synovial fluid viscosity"
+    },
+    "correct_answer": "A",
+    "explanation": "Limbic system modulates emotion, motivation, sexual behaviour."
+  },
+  {
+    "source_sentence": "Cerebellum integrates information received from the semicircular canals of the ear and the auditory system.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Cerebellum integrates input from:",
+    "options": {
+      "A": "Semicircular canals and auditory system",
+      "B": "Only liver glycogen stores",
+      "C": "Pancreatic islets exclusively",
+      "D": "Alveolar gas alone"
+    },
+    "correct_answer": "A",
+    "explanation": "Cerebellum coordinates balance using vestibular and auditory information."
+  },
+  {
+    "source_sentence": "The cerebral cortex is referred to as the grey matter due to its greyish appearance.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Grey matter of cerebrum owes its colour to:",
+    "options": {
+      "A": "Concentration of neuron cell bodies in cortex",
+      "B": "Myelin sheath abundance",
+      "C": "Hemoglobin content",
+      "D": "Melanin in bone"
+    },
+    "correct_answer": "A",
+    "explanation": "Cell bodies in cortex create grey matter."
+  },
+  {
+    "source_sentence": "Which part of the human brain is the most developed?",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Most developed part of human brain is:",
+    "options": {
+      "A": "Cerebrum",
+      "B": "Medulla only",
+      "C": "Spinal cord alone",
+      "D": "Pons exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Cerebrum is largest and most developed region."
+  },
+  {
+    "source_sentence": "Which part of our central neural system acts as a master clock?",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Master clock regulating circadian rhythms is associated with:",
+    "options": {
+      "A": "Hypothalamus (with brain)",
+      "B": "Patella",
+      "C": "Femur marrow only",
+      "D": "Hyoid bone"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypothalamus/brain regulate circadian (24-h) rhythms."
+  },
+  {
+    "source_sentence": "Brain stem forms the connections between the brain and spinal cord.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Brain stem (midbrain, pons, medulla) connects:",
+    "options": {
+      "A": "Brain and spinal cord",
+      "B": "Femur and tibia",
+      "C": "Atrium and ventricle only",
+      "D": "Scapula and clavicle"
+    },
+    "correct_answer": "A",
+    "explanation": "Brain stem links brain to spinal cord."
+  },
+  {
+    "source_sentence": "Inside the skull, the brain is covered by cranial meninges consisting of an outer layer called dura mater, a very thin middle layer called arachnoid and an inner layer called pia mater.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Innermost cranial meninx in contact with brain tissue is:",
+    "options": {
+      "A": "Pia mater",
+      "B": "Dura mater",
+      "C": "Periosteum of femur",
+      "D": "Synovial membrane"
+    },
+    "correct_answer": "A",
+    "explanation": "Pia mater lies closest to brain tissue."
+  },
+  {
+    "source_sentence": "The efferent fibres transmit regulatory impulses from the CNS to the concerned peripheral tissues/organs.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Motor command from CNS to effector organ travels via:",
+    "options": {
+      "A": "Efferent nerve fibres",
+      "B": "Afferent fibres only",
+      "C": "Dendrites of sensory neuron exclusively",
+      "D": "Bone matrix canals"
+    },
+    "correct_answer": "A",
+    "explanation": "Efferent fibres carry CNS instructions to periphery."
+  },
+  {
+    "source_sentence": "The somatic neural system relays impulses from the CNS to skeletal muscles",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Voluntary contraction of skeletal muscle is mediated by:",
+    "options": {
+      "A": "Somatic neural system",
+      "B": "Parasympathetic system only",
+      "C": "Endocrine pancreas",
+      "D": "Lymphatic system"
+    },
+    "correct_answer": "A",
+    "explanation": "Somatic division innervates skeletal muscles."
+  },
+  {
+    "source_sentence": "The autonomic neural system transmits impulses from the CNS to the involuntary organs and smooth muscles of the body.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Smooth muscle of visceral organs receives impulses via:",
+    "options": {
+      "A": "Autonomic neural system",
+      "B": "Somatic system only",
+      "C": "Cranial sutures",
+      "D": "Synovial cavity"
+    },
+    "correct_answer": "A",
+    "explanation": "Autonomic system controls involuntary organs/smooth muscle."
+  },
+  {
+    "source_sentence": "Visceral nervous system is the part of the peripheral nervous system that comprises the whole complex of nerves, fibres, ganglia, and plexuses",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Visceral nervous system is a component of:",
+    "options": {
+      "A": "Peripheral nervous system",
+      "B": "Axial skeleton",
+      "C": "Sarcoplasmic reticulum",
+      "D": "Thyroid follicle"
+    },
+    "correct_answer": "A",
+    "explanation": "Visceral NS belongs to PNS."
+  },
+  {
+    "source_sentence": "sodium-potassium pump which transports 3 Na+ outwards for 2 K+ into the cell.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Sodium-potassium pump in resting neuron moves:",
+    "options": {
+      "A": "3 Na⁺ out and 2 K⁺ in",
+      "B": "2 Na⁺ out and 3 K⁺ in",
+      "C": "Only Ca²⁺ out",
+      "D": "Only Cl⁻ in without exchange"
+    },
+    "correct_answer": "A",
+    "explanation": "Na⁺-K⁺ pump exchanges 3 Na⁺ out for 2 K⁺ in."
+  },
+  {
+    "source_sentence": "the membrane at the site A becomes freely permeable to Na+. This leads to a rapid influx of Na+ followed by the reversal of the polarity",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Depolarisation during action potential is due to:",
+    "options": {
+      "A": "Rapid Na⁺ influx",
+      "B": "Only K⁺ influx at rest",
+      "C": "Closure of all ion channels permanently",
+      "D": "Calcium deposition in myelin"
+    },
+    "correct_answer": "A",
+    "explanation": "Na⁺ influx reverses membrane polarity at stimulation site."
+  },
+  {
+    "source_sentence": "It is quickly followed by a rise in permeability to K+. Within a fraction of a second, K+ diffuses outside the membrane and restores the resting potential",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Repolarisation of axon membrane involves:",
+    "options": {
+      "A": "K⁺ efflux restoring resting potential",
+      "B": "Permanent Na⁺ influx",
+      "C": "Only Ca²⁺ release from SR",
+      "D": "Troponin masking"
+    },
+    "correct_answer": "A",
+    "explanation": "Increased K⁺ permeability restores resting state."
+  },
+  {
+    "source_sentence": "Explain the role of Na+ in the generation of action potential.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Na⁺ ions are critical for action potential because they:",
+    "options": {
+      "A": "Enter axon during depolarisation phase",
+      "B": "Are impermeable always even during stimulus",
+      "C": "Store in sarcoplasmic reticulum only",
+      "D": "Form myelin exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Stimulus-triggered Na⁺ entry generates action potential."
+  },
+  {
+    "source_sentence": "At electrical synapses, the membranes of pre- and post-synaptic neurons are in very close proximity.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Electrical synapses differ from chemical synapses by:",
+    "options": {
+      "A": "Direct electrical flow between closely apposed membranes",
+      "B": "Requirement of synaptic cleft neurotransmitters always",
+      "C": "Absence of any membrane contact",
+      "D": "Use of hormones only"
+    },
+    "correct_answer": "A",
+    "explanation": "Electrical synapses allow direct current flow."
+  },
+  {
+    "source_sentence": "This binding opens ion channels allowing the entry of ions which can generate a new potential in the post-synaptic neuron.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Neurotransmitter binding at chemical synapse can lead to:",
+    "options": {
+      "A": "Opening of ion channels and new post-synaptic potential",
+      "B": "Immediate bone calcification",
+      "C": "Permanent myelin destruction",
+      "D": "Only hormone secretion from thyroid"
+    },
+    "correct_answer": "A",
+    "explanation": "Receptor binding opens channels, generating EPSP/IPSP."
+  },
+  {
+    "source_sentence": "Short fibres which branch repeatedly and project out of the cell body... are called dendrites. These fibres transmit impulses towards the cell body.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Dendrites conduct impulses:",
+    "options": {
+      "A": "Toward the cell body",
+      "B": "Away from cell body only",
+      "C": "Only across synaptic cleft without reception",
+      "D": "Into bone matrix"
+    },
+    "correct_answer": "A",
+    "explanation": "Dendrites are afferent to cell body."
+  },
+  {
+    "source_sentence": "Unmyelinated nerve fibre is enclosed by a Schwann cell that does not form a myelin sheath",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Schwann cells without myelin sheath enclose:",
+    "options": {
+      "A": "Non-myelinated nerve fibres",
+      "B": "All cranial nerves only",
+      "C": "Osteocytes",
+      "D": "Sarcomeres"
+    },
+    "correct_answer": "A",
+    "explanation": "Non-myelinated fibres have Schwann cell envelope without myelin."
+  },
+  {
+    "source_sentence": "The neural organisation is very simple in lower invertebrates. For example, in Hydra it is composed of a network of neurons.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Hydra nervous organisation is:",
+    "options": {
+      "A": "A network of neurons",
+      "B": "Highly developed brain with meninges",
+      "C": "Absent completely",
+      "D": "Only endocrine glands"
+    },
+    "correct_answer": "A",
+    "explanation": "Hydra has a simple nerve net."
+  },
+  {
+    "source_sentence": "The new potential developed may be either excitatory or inhibitory.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Post-synaptic potentials may be:",
+    "options": {
+      "A": "Excitatory or inhibitory",
+      "B": "Always excitatory only",
+      "C": "Always inhibitory only",
+      "D": "Unrelated to ions"
+    },
+    "correct_answer": "A",
+    "explanation": "Synaptic signals can excite or inhibit post-synaptic neuron."
+  },
+  {
+    "source_sentence": "The neural system of all animals is composed of highly specialised cells called neurons",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Functional unit of neural system is:",
+    "options": {
+      "A": "Neuron",
+      "B": "Osteon",
+      "C": "Nephron",
+      "D": "Sarcomere only"
+    },
+    "correct_answer": "A",
+    "explanation": "Neurons are specialised neural cells."
+  },
+  {
+    "source_sentence": "impulse conduction in a myelinated nerve fibre and unmyelinated nerve fibre",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Saltatory conduction is characteristic of:",
+    "options": {
+      "A": "Myelinated nerve fibres",
+      "B": "Non-myelinated fibres only",
+      "C": "Cartilage matrix",
+      "D": "Hyoid bone"
+    },
+    "correct_answer": "A",
+    "explanation": "Myelin enables impulse jumping between nodes."
+  },
+  {
+    "source_sentence": "cranial nerves and spinal nerves.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Cranial nerves are associated with:",
+    "options": {
+      "A": "Brain",
+      "B": "Only femur",
+      "C": "Only liver lobules",
+      "D": "Patella tendon exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Cranial nerves connect to brain."
+  },
+  {
+    "source_sentence": "Thalamus and Hypothalamus",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Hypothalamus differs from thalamus in having:",
+    "options": {
+      "A": "Neurosecretory cells and centres for temperature/thirst",
+      "B": "Only relay without any neuroendocrine role",
+      "C": "No connection to pituitary",
+      "D": "Exclusive cerebellar motor integration"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypothalamus has neurosecretory nuclei and homeostatic centres."
+  },
+  {
+    "source_sentence": "Cerebrum and Cerebellum",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Cerebellum differs from cerebrum in primarily integrating:",
+    "options": {
+      "A": "Balance and motor coordination from vestibular input",
+      "B": "Only language production in cortex",
+      "C": "Thyroid hormone synthesis",
+      "D": "Gastric HCl secretion directly"
+    },
+    "correct_answer": "A",
+    "explanation": "Cerebellum coordinates balance/movement; cerebrum handles higher functions."
+  },
+  {
+    "source_sentence": "Resting potential and action potential",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Action potential differs from resting potential as it involves:",
+    "options": {
+      "A": "Transient depolarisation and repolarisation",
+      "B": "Permanent loss of all ions",
+      "C": "Only bone matrix change",
+      "D": "Continuous troponin binding"
+    },
+    "correct_answer": "A",
+    "explanation": "Action potential is active depolarisation/repolarisation wave."
+  },
+  {
+    "source_sentence": "Central neural system (CNS) and Peripheral neural system (PNS)",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "CNS differs from PNS because CNS consists of:",
+    "options": {
+      "A": "Brain and spinal cord only",
+      "B": "All limb bones",
+      "C": "Only autonomic ganglia",
+      "D": "Thyroid and adrenal only"
+    },
+    "correct_answer": "A",
+    "explanation": "CNS = brain + spinal cord."
+  },
+  {
+    "source_sentence": "Mechanism of synaptic transmission.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "At chemical synapse, impulse transmission requires:",
+    "options": {
+      "A": "Neurotransmitter release and receptor binding",
+      "B": "Only direct cytoplasmic bridges always",
+      "C": "Bone remodelling",
+      "D": "Actin-myosin sliding"
+    },
+    "correct_answer": "A",
+    "explanation": "Chemical synapses use neurotransmitters."
+  },
+  {
+    "source_sentence": "When an impulse (action potential) arrives at the axon terminal, it stimulates the movement of the synaptic vesicles towards the membrane",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Arrival of action potential at axon terminal triggers:",
+    "options": {
+      "A": "Synaptic vesicle movement and neurotransmitter release",
+      "B": "Immediate muscle relaxation without Ca²⁺",
+      "C": "Thyroid colloid release",
+      "D": "Rib fracture"
+    },
+    "correct_answer": "A",
+    "explanation": "AP at terminal mobilises vesicles to release neurotransmitter."
+  },
+  {
+    "source_sentence": "A synapse is formed by the membranes of a pre-synaptic neuron and a post-synaptic neuron",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Synapse involves junction between:",
+    "options": {
+      "A": "Pre-synaptic and post-synaptic neurons",
+      "B": "Two osteocytes only",
+      "C": "Actin and myosin only",
+      "D": "Femur and patella only"
+    },
+    "correct_answer": "A",
+    "explanation": "Synapse connects two neurons functionally."
+  },
+  {
+    "source_sentence": "The axon is a long fibre, the distal end of which is branched. Each branch terminates as a bulb-like structure called synaptic knob",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Synaptic knobs contain:",
+    "options": {
+      "A": "Synaptic vesicles with neurotransmitters",
+      "B": "Thyroid colloid",
+      "C": "Bone marrow cells only",
+      "D": "Myoglobin crystals"
+    },
+    "correct_answer": "A",
+    "explanation": "Knobs harbour vesicles filled with neurotransmitters."
+  },
+  {
+    "source_sentence": "The brain can be divided into three major parts: (i) forebrain, (ii) midbrain, and (iii) hindbrain",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Three major brain divisions are:",
+    "options": {
+      "A": "Forebrain, midbrain and hindbrain",
+      "B": "Axial, appendicular and visceral",
+      "C": "Red, white and cardiac",
+      "D": "Cranial, facial and hyoid only"
+    },
+    "correct_answer": "A",
+    "explanation": "Brain splits into fore-, mid- and hindbrain."
+  },
+  {
+    "source_sentence": "The hindbrain comprises pons, cerebellum and medulla",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Hindbrain components include:",
+    "options": {
+      "A": "Pons, cerebellum and medulla",
+      "B": "Cerebrum and thalamus only",
+      "C": "Femur and tibia",
+      "D": "Islets of Langerhans"
+    },
+    "correct_answer": "A",
+    "explanation": "Hindbrain = pons + cerebellum + medulla."
+  },
+  {
+    "source_sentence": "The forebrain consists of cerebrum, thalamus and hypothalamus",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Forebrain structures include:",
+    "options": {
+      "A": "Cerebrum, thalamus and hypothalamus",
+      "B": "Medulla and pons only",
+      "C": "Only spinal cord",
+      "D": "Only adrenal medulla"
+    },
+    "correct_answer": "A",
+    "explanation": "Forebrain contains cerebrum, thalamus, hypothalamus."
+  },
+  {
+    "source_sentence": "Match the following:\n(a) Cerebellum — balance and motor coordination\n(b) Medulla — respiration and cardiovascular reflexes\n(c) Hypothalamus — thermoregulation and thirst\n(d) Thalamus — sensory relay",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Match brain part with function:\n(a) Cerebellum (b) Medulla (c) Hypothalamus (d) Thalamus\n(i) Sensory relay (ii) Thermoregulation/thirst (iii) Balance/coordination (iv) Respiration/cardiovascular reflexes",
+    "options": {
+      "A": "a-iii, b-iv, c-ii, d-i",
+      "B": "a-i, b-ii, c-iii, d-iv",
+      "C": "a-iv, b-iii, c-i, d-ii",
+      "D": "a-ii, b-i, c-iv, d-iii"
+    },
+    "correct_answer": "A",
+    "explanation": "Standard NEET brain region-function mapping per NCERT."
+  },
+  {
+    "source_sentence": "afferent neurons and efferent neurons",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Afferent neurons differ from efferent neurons in carrying impulses:",
+    "options": {
+      "A": "Toward CNS vs away from CNS to effectors",
+      "B": "Only within bone matrix both ways",
+      "C": "Only in endocrine glands",
+      "D": "Only across synovial joints"
+    },
+    "correct_answer": "A",
+    "explanation": "Afferent = sensory to CNS; efferent = motor from CNS."
+  },
+  {
+    "source_sentence": "Polarisation of the membrane of a nerve fibre",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Resting neural membrane is polarised because:",
+    "options": {
+      "A": "Outer surface is positive and inner negative due to ion gradients",
+      "B": "Both surfaces are equally positive",
+      "C": "No ion channels exist",
+      "D": "Only K⁺ is absent inside"
+    },
+    "correct_answer": "A",
+    "explanation": "Na⁺-K⁺ pump and selective permeability create resting polarity."
+  },
+  {
+    "source_sentence": "Depolarisation of the membrane of a nerve fibre",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Depolarisation at stimulated site means:",
+    "options": {
+      "A": "Inner surface becomes positive relative to outer",
+      "B": "Permanent loss of all Na⁺",
+      "C": "Only bone matrix deposition",
+      "D": "Troponin masks actin permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "Na⁺ influx reverses polarity during depolarisation."
+  },
+  {
+    "source_sentence": "Transmission of a nerve impulse across a chemical synapse",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Correct order at chemical synapse:",
+    "options": {
+      "A": "AP arrives → vesicle fusion → neurotransmitter release → receptor binding → ion channel opening",
+      "B": "Receptor binding → AP → bone growth → vesicle formation",
+      "C": "Only electrical flow without chemicals",
+      "D": "Troponin activation → sliding → relaxation"
+    },
+    "correct_answer": "A",
+    "explanation": "Chemical synaptic transmission follows vesicle release and receptor action."
+  },
+  {
+    "source_sentence": "Neural coordination (b) Forebrain (c) Midbrain (d) Hindbrain (e) Synapse",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Synapse is best defined as:",
+    "options": {
+      "A": "Junction for neuron-to-neuron impulse transmission",
+      "B": "Joint between bones only",
+      "C": "Thyroid follicle cavity",
+      "D": "Muscle fascicle bundle"
+    },
+    "correct_answer": "A",
+    "explanation": "Synapse mediates inter-neuronal transmission."
+  },
+  {
+    "source_sentence": "hypothalamic hormones. The inner parts of cerebral hemispheres and a group of associated deep structures like amygdala, hippocampus",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Amygdala and hippocampus are part of:",
+    "options": {
+      "A": "Limbic system",
+      "B": "Patella tendon",
+      "C": "Osteon unit",
+      "D": "Glomerulus only"
+    },
+    "correct_answer": "A",
+    "explanation": "Amygdala and hippocampus belong to limbic system."
+  },
+  {
+    "source_sentence": "negatively charged proteins present in the axoplasm. Consequently, the axoplasm inside the axon contains high concentration of K+",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Resting axoplasm has relatively high concentration of:",
+    "options": {
+      "A": "K⁺ and negatively charged proteins",
+      "B": "Na⁺ only",
+      "C": "Ca²⁺ stored for contraction only",
+      "D": "Uric acid crystals"
+    },
+    "correct_answer": "A",
+    "explanation": "Axoplasm is rich in K⁺ and immobile negative proteins."
+  },
+  {
+    "source_sentence": "In contrast, the fluid outside the axon contains a low concentration of K+, a high concentration of Na+",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Extracellular fluid relative to resting axon has:",
+    "options": {
+      "A": "High Na⁺ and low K⁺",
+      "B": "High K⁺ and low Na⁺",
+      "C": "No ions",
+      "D": "Only Ca²⁺"
+    },
+    "correct_answer": "A",
+    "explanation": "Outside axon: high Na⁺, low K⁺ at rest."
+  },
+  {
+    "source_sentence": "On the outer surface current flows from site B to site A (Figure 18.2) to complete the circuit of current flow.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Local circuit current during impulse conduction flows:",
+    "options": {
+      "A": "Inside axon forward and outside backward",
+      "B": "Only inside without outside return",
+      "C": "Only in bone matrix",
+      "D": "Only in synovial fluid"
+    },
+    "correct_answer": "A",
+    "explanation": "Depolarisation spreads via axial and external current loops."
+  },
+  {
+    "source_sentence": "Neural system coordinates and integrates body activities.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Assertion (A): Neurons are structural and functional units of neural system. Reason (R): Neurons transmit information via electrical and chemical signals. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Neuron is basic unit conducting nerve impulses."
+  },
+  {
+    "source_sentence": "Neuron: cell body, dendrites, axon; myelinated fibres conduct faster.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Saltatory conduction occurs in:",
+    "options": {
+      "A": "Myelinated axons at nodes of Ranvier",
+      "B": "Unmyelinated axons only without nodes",
+      "C": "Dendrites exclusively",
+      "D": "Synaptic cleft only"
+    },
+    "correct_answer": "A",
+    "explanation": "Impulse jumps between nodes in myelinated fibres."
+  },
+  {
+    "source_sentence": "Resting potential ~ -70 mV; Na+ high outside, K+ high inside.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Resting membrane potential is maintained primarily by:",
+    "options": {
+      "A": "Na+-K+ ATPase pump and selective permeability",
+      "B": "Only passive diffusion of Na+ inward without pump",
+      "C": "Absence of any ion gradients",
+      "D": "Calcium only without potassium"
+    },
+    "correct_answer": "A",
+    "explanation": "Pump and K+ leak maintain negative interior."
+  },
+  {
+    "source_sentence": "Action potential: depolarisation, repolarisation, hyperpolarisation.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "During rising phase of action potential:",
+    "options": {
+      "A": "Na+ influx causes depolarisation",
+      "B": "K+ efflux causes depolarisation",
+      "C": "Cl- influx hyperpolarises first",
+      "D": "Membrane becomes impermeable to all ions permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "Voltage-gated Na+ channels open first."
+  },
+  {
+    "source_sentence": "Synapse: presynaptic knob, synaptic cleft, postsynaptic membrane.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "At chemical synapse, neurotransmitter release requires:",
+    "options": {
+      "A": "Ca2+ influx triggering vesicle fusion",
+      "B": "Only Mg2+ without calcium ever",
+      "C": "Absence of action potential",
+      "D": "Direct electrical continuity through gap alone always"
+    },
+    "correct_answer": "A",
+    "explanation": "Ca2+ entry causes exocytosis of neurotransmitter."
+  },
+  {
+    "source_sentence": "CNS: brain and spinal cord; PNS: nerves.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Which is part of CNS?",
+    "options": {
+      "A": "Spinal cord",
+      "B": "Spinal nerve",
+      "C": "Cranial nerve outside skull",
+      "D": "Autonomic ganglion in periphery"
+    },
+    "correct_answer": "A",
+    "explanation": "CNS comprises brain and spinal cord only."
+  },
+  {
+    "source_sentence": "Brain divisions: forebrain, midbrain, hindbrain.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Cerebellum is part of:",
+    "options": {
+      "A": "Hindbrain",
+      "B": "Forebrain cerebrum only",
+      "C": "Spinal cord exclusively",
+      "D": "Peripheral nerve trunk"
+    },
+    "correct_answer": "A",
+    "explanation": "Cerebellum lies in hindbrain."
+  },
+  {
+    "source_sentence": "Hypothalamus controls thermoregulation, hunger, thirst, osmoregulation.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Damage to hypothalamus may disrupt:",
+    "options": {
+      "A": "Body temperature and water balance regulation",
+      "B": "Only reflex arc at knee without autonomic control",
+      "C": "Only skeletal muscle gene expression",
+      "D": "Only red blood cell production exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypothalamus integrates homeostatic controls."
+  },
+  {
+    "source_sentence": "Reflex arc: receptor → afferent → CNS → efferent → effector.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Knee-jerk reflex is:",
+    "options": {
+      "A": "Monosynaptic stretch reflex",
+      "B": "Polysynaptic voluntary movement only",
+      "C": "Mediated by cranial nerve X exclusively",
+      "D": "Always requires conscious cortex decision"
+    },
+    "correct_answer": "A",
+    "explanation": "Patellar reflex involves single synapse in spinal cord."
+  },
+  {
+    "source_sentence": "Eye: cornea, lens, retina with rods and cones.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Photoreceptor cells for colour vision are:",
+    "options": {
+      "A": "Cones",
+      "B": "Rods only without cones ever",
+      "C": "Bipolar cells exclusively",
+      "D": "Sclera collagen fibres"
+    },
+    "correct_answer": "A",
+    "explanation": "Cones mediate bright light and colour vision."
+  },
+  {
+    "source_sentence": "Ear: external, middle, inner; cochlea for hearing, semicircular canals for balance.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Organ of Corti is located in:",
+    "options": {
+      "A": "Cochlea",
+      "B": "Semicircular canal exclusively for rotation only without hearing",
+      "C": "Tympanic membrane",
+      "D": "External pinna cartilage only"
+    },
+    "correct_answer": "A",
+    "explanation": "Organ of Corti contains auditory hair cells in cochlea."
+  },
+  {
+    "source_sentence": "Myelin from Schwann cells (PNS) and oligodendrocytes (CNS).",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Consider the following statements:\n1. Multiple Schwann cells myelinate one PNS axon segment\n2. Oligodendrocyte may myelinate several CNS axon segments\n3. Myelin increases capacitance slowing conduction always\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Myelin decreases capacitance, speeds conduction; statement 3 false."
+  },
+  {
+    "source_sentence": "Autonomic NS: sympathetic (fight/flight) and parasympathetic (rest/digest).",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Sympathetic stimulation typically causes:",
+    "options": {
+      "A": "Increased heart rate and dilated pupil",
+      "B": "Decreased heart rate and constricted pupil always",
+      "C": "Increased GI motility exclusively",
+      "D": "Only parasympathetic effects without exception"
+    },
+    "correct_answer": "A",
+    "explanation": "Sympathetic prepares body for activity/stress."
+  },
+  {
+    "source_sentence": "CSF in ventricles and subarachnoid space cushions brain.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Cerebrospinal fluid is produced mainly by:",
+    "options": {
+      "A": "Choroid plexus",
+      "B": "Alveolar epithelium",
+      "C": "Golgi apparatus of muscle",
+      "D": "Osteoclasts in bone"
+    },
+    "correct_answer": "A",
+    "explanation": "Choroid plexus secretes CSF."
+  },
+  {
+    "source_sentence": "Rhodopsin in rods; bleaching and regeneration in vision.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Rhodopsin is pigment of:",
+    "options": {
+      "A": "Rods",
+      "B": "Cones exclusively for all colours without rods",
+      "C": "Cornea only",
+      "D": "Iris muscles exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Rods contain rhodopsin for dim light vision."
+  },
+  {
+    "source_sentence": "Blind spot: optic disc lacks photoreceptors.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Blind spot in retina corresponds to:",
+    "options": {
+      "A": "Exit point of optic nerve",
+      "B": "Fovea centralis with highest acuity",
+      "C": "Ciliary body exclusively",
+      "D": "Lens anterior pole only"
+    },
+    "correct_answer": "A",
+    "explanation": "No rods/cones at optic disc."
+  },
+  {
+    "source_sentence": "Threshold stimulus required to generate action potential.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "All-or-none law applies to:",
+    "options": {
+      "A": "Single action potential in neuron",
+      "B": "Graded potential summation without any threshold ever",
+      "C": "Muscle bone growth only",
+      "D": "Hormone receptor binding exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Once threshold reached, full AP generated."
+  },
+  {
+    "source_sentence": "Refractory period prevents immediate re-firing.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Absolute refractory period corresponds to:",
+    "options": {
+      "A": "Period when no new AP can be initiated",
+      "B": "Only hyperpolarised state allowing stronger stimuli always",
+      "C": "Synaptic delay exclusively",
+      "D": "Resting potential of -90 mV only in glia"
+    },
+    "correct_answer": "A",
+    "explanation": "Na+ channels inactivated during absolute refractory period."
+  },
+  {
+    "source_sentence": "Association areas integrate sensory input for complex functions.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Broca's area is involved in:",
+    "options": {
+      "A": "Speech production",
+      "B": "Visual image formation only",
+      "C": "Balance and posture exclusively",
+      "D": "Hormone synthesis in adenohypophysis"
+    },
+    "correct_answer": "A",
+    "explanation": "Broca's area controls motor speech."
+  },
+  {
+    "source_sentence": "Medulla contains vital centres for respiration and cardiovascular reflexes.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Vomiting centre and respiratory rhythm are controlled by:",
+    "options": {
+      "A": "Medulla oblongata",
+      "B": "Cerebellum exclusively without medulla",
+      "C": "Retina only",
+      "D": "Patellar tendon exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Medulla houses autonomic vital centres."
+  },
+  {
+    "source_sentence": "Nerve impulse transmission is unidirectional at chemical synapse.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Unidirectionality at synapse is due to:",
+    "options": {
+      "A": "Neurotransmitter release only from presynaptic terminal",
+      "B": "Bidirectional vesicle fusion always",
+      "C": "Continuous cytoplasmic bridges like electrical synapse in all synapses",
+      "D": "Absence of receptors on postsynaptic membrane"
+    },
+    "correct_answer": "A",
+    "explanation": "Presynaptic cell releases transmitter; postsynaptic bears receptors."
+  },
+  {
+    "source_sentence": "Parkinson's disease linked to dopamine deficiency in substantia nigra.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Parkinsonism features include:",
+    "options": {
+      "A": "Tremor, rigidity and bradykinesia",
+      "B": "Excessive dopamine causing hyperkinesia only without rigidity",
+      "C": "Complete loss of vision exclusively",
+      "D": "Myelin overproduction in PNS only"
+    },
+    "correct_answer": "A",
+    "explanation": "Dopamine loss in basal ganglia causes motor symptoms."
+  },
+  {
+    "source_sentence": "Alzheimer's: neurodegeneration, memory loss; amyloid plaques.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Alzheimer's disease primarily affects:",
+    "options": {
+      "A": "Memory and cognitive function",
+      "B": "Only motor coordination of cerebellum without cognition",
+      "C": "Only peripheral nerve myelin without brain involvement",
+      "D": "Only hormone levels without neural change"
+    },
+    "correct_answer": "A",
+    "explanation": "Cortical degeneration impairs memory/cognition."
+  },
+  {
+    "source_sentence": "Epilepsy: abnormal synchronous neural activity causing seizures.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Epileptic seizure involves:",
+    "options": {
+      "A": "Abnormal excessive neuronal discharge",
+      "B": "Complete absence of all brain activity permanently",
+      "C": "Only muscular dystrophy without CNS",
+      "D": "Only autonomic increase in digestion exclusively always"
+    },
+    "correct_answer": "A",
+    "explanation": "Seizures result from uncontrolled neural firing."
+  },
+  {
+    "source_sentence": "Generation of nerve impulse: stimulation causes reversal of polarity.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Peak of action potential reaches approximately:",
+    "options": {
+      "A": "+30 to +45 mV",
+      "B": "-200 mV",
+      "C": "0 mV always without overshoot",
+      "D": "-90 mV identical to resting without change"
+    },
+    "correct_answer": "A",
+    "explanation": "Depolarisation overshoots zero to positive values."
+  },
+  {
+    "source_sentence": "Conduction of impulse along myelinated axon is faster than unmyelinated.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Compared to unmyelinated fibre of same diameter, myelinated axon conducts:",
+    "options": {
+      "A": "Faster due to saltatory conduction",
+      "B": "Slower due to insulation preventing any current",
+      "C": "At identical speed always",
+      "D": "Only retrograde without orthodromic flow"
+    },
+    "correct_answer": "A",
+    "explanation": "Myelin reduces leakage; impulse regenerates at nodes."
+  },
+  {
+    "source_sentence": "Forebrain includes cerebrum, thalamus, hypothalamus.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Thalamus relays sensory information to:",
+    "options": {
+      "A": "Cerebral cortex",
+      "B": "Kidney nephron exclusively",
+      "C": "Gastric mucosa only",
+      "D": "Bone marrow exclusively without cortex"
+    },
+    "correct_answer": "A",
+    "explanation": "Thalamus is major sensory relay to cerebrum."
+  },
+  {
+    "source_sentence": "Midbrain corpora quadrigemina involved in visual and auditory reflexes.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Superior colliculi of midbrain are associated with:",
+    "options": {
+      "A": "Visual reflexes",
+      "B": "Only olfaction exclusively",
+      "C": "Only taste from tongue exclusively without integration",
+      "D": "Only hormone release from pituitary"
+    },
+    "correct_answer": "A",
+    "explanation": "Superior colliculi process visual reflex pathways."
+  },
+  {
+    "source_sentence": "Pons connects cerebellum with rest of brain; pneumotaxic centre modifies breathing.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Pneumotaxic centre located in:",
+    "options": {
+      "A": "Pons region of brain stem",
+      "B": "Cerebellar cortex exclusively",
+      "C": "Retina exclusively",
+      "D": "Adrenal medulla only"
+    },
+    "correct_answer": "A",
+    "explanation": "Pons modifies respiratory rhythm."
+  },
+  {
+    "source_sentence": "Spinal cord: reflex centre; ascending and descending tracts.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Decussation of pyramidal tracts occurs in:",
+    "options": {
+      "A": "Medulla oblongata",
+      "B": "Cervical spinal cord exclusively without medulla",
+      "C": "Cerebellum only",
+      "D": "Optic chiasma only for all motor tracts"
+    },
+    "correct_answer": "A",
+    "explanation": "Motor fibres cross in medullary pyramids."
+  },
+  {
+    "source_sentence": "Membrane potential restored by Na+-K+ pump after impulse.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Number of Na+ and K+ ions pumped per ATP hydrolysed by Na+-K+ ATPase is approximately:",
+    "options": {
+      "A": "3 Na+ out and 2 K+ in",
+      "B": "2 Na+ out and 3 K+ in",
+      "C": "1 Na+ out and 1 K+ in only",
+      "D": "10 Na+ out without K+ influx"
+    },
+    "correct_answer": "A",
+    "explanation": "Classic 3:2 exchange per ATP."
+  },
+  {
+    "source_sentence": "Electrical synapses via gap junctions allow faster bidirectional transmission.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Electrical synapse differs from chemical in:",
+    "options": {
+      "A": "Direct ion flow through gap junctions",
+      "B": "Requirement of neurotransmitter vesicles always",
+      "C": "Unidirectional transmission only always",
+      "D": "Slower transmission always without exception compared to chemical"
+    },
+    "correct_answer": "A",
+    "explanation": "Gap junctions permit rapid ionic coupling."
+  },
+  {
+    "source_sentence": "Hyperpolarisation after AP due to prolonged K+ efflux.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "After repolarisation, hyperpolarisation occurs because:",
+    "options": {
+      "A": "K+ channels remain open briefly",
+      "B": "Na+ channels reopen immediately always",
+      "C": "Ca2+ floods cytoplasm exclusively",
+      "D": "Membrane becomes equally permeable to all ions without gradient"
+    },
+    "correct_answer": "A",
+    "explanation": "Delayed K+ efflux overshoots resting potential."
+  },
+  {
+    "source_sentence": "Olfactory receptors in nasal epithelium; taste buds on tongue.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Which cranial nerve carries taste from anterior two-thirds of tongue (via chorda tympani)?",
+    "options": {
+      "A": "Facial nerve (VII)",
+      "B": "Trigeminal only without taste fibres ever",
+      "C": "Olfactory nerve (I) exclusively",
+      "D": "Hypoglossal only for all taste"
+    },
+    "correct_answer": "A",
+    "explanation": "Facial nerve (chorda tympani) carries taste from anterior tongue."
+  },
+  {
+    "source_sentence": "Human eye: aqueous humour, vitreous humour, accommodation by ciliary muscles.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Accommodation for near vision involves:",
+    "options": {
+      "A": "Ciliary muscle contraction increasing lens curvature",
+      "B": "Lens becoming completely flat always",
+      "C": "Pupil constriction alone without lens change sufficient always",
+      "D": "Cornea changing shape exclusively without lens involvement always"
+    },
+    "correct_answer": "A",
+    "explanation": "Ciliary contraction makes lens more convex for near objects."
+  },
+  {
+    "source_sentence": "Eustachian tube connects middle ear to pharynx equalising pressure.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Blocked Eustachian tube may cause:",
+    "options": {
+      "A": "Ear pain due to pressure difference across tympanic membrane",
+      "B": "Permanent blindness",
+      "C": "Loss of all taste permanently without ear symptoms",
+      "D": "Increased CSF production in ventricles exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Pressure equalisation failure distorts tympanic membrane."
+  },
+  {
+    "source_sentence": "Neurotransmitters: ACh, NE, dopamine, GABA, glutamate.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "GABA is primarily:",
+    "options": {
+      "A": "Inhibitory neurotransmitter in CNS",
+      "B": "Excitatory only at all synapses without exception",
+      "C": "Hormone from thyroid exclusively",
+      "D": "Enzyme digesting myelin"
+    },
+    "correct_answer": "A",
+    "explanation": "GABA opens Cl- channels hyperpolarising postsynaptic cell."
+  },
+  {
+    "source_sentence": "Multiple sclerosis: demyelination in CNS causing impaired conduction.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Demyelination in MS leads to:",
+    "options": {
+      "A": "Slowed or blocked nerve conduction",
+      "B": "Faster saltatory conduction always",
+      "C": "Increased myelin thickness only without symptoms",
+      "D": "Conversion of neurons to muscle fibres"
+    },
+    "correct_answer": "A",
+    "explanation": "Loss of myelin disrupts efficient impulse propagation."
+  }
+]

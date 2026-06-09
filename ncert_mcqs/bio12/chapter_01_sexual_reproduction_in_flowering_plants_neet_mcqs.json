@@ -1,0 +1,1237 @@
+[
+  {
+    "source_sentence": "Double fertilisation involves syngamy and triple fusion in embryo sac.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "During double fertilisation in an angiosperm, syngamy specifically refers to fusion of:",
+    "options": {
+      "A": "Two polar nuclei with each other",
+      "B": "One male gamete with the egg cell nucleus",
+      "C": "Synergid with antipodal cell",
+      "D": "Vegetative cell with central cell"
+    },
+    "correct_answer": "B",
+    "explanation": "Syngamy is fusion of one male gamete with the egg, producing the diploid zygote."
+  },
+  {
+    "source_sentence": "Triple fusion produces triploid PEN in central cell.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Triple fusion in flowering plants results in formation of:",
+    "options": {
+      "A": "Diploid zygote",
+      "B": "Haploid antipodal nucleus",
+      "C": "Triploid primary endosperm nucleus",
+      "D": "Tetraploid nucellus"
+    },
+    "correct_answer": "C",
+    "explanation": "Male gamete fuses with two polar nuclei → triploid PEN (3n)."
+  },
+  {
+    "source_sentence": "Double fertilisation is unique to angiosperms.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "The phenomenon of double fertilisation is found exclusively in:",
+    "options": {
+      "A": "Gymnosperms",
+      "B": "Pteridophytes",
+      "C": "Angiosperms",
+      "D": "Bryophytes"
+    },
+    "correct_answer": "C",
+    "explanation": "Syngamy plus triple fusion together constitute double fertilisation—unique to angiosperms."
+  },
+  {
+    "source_sentence": "PEN is triploid; zygote is diploid.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "After double fertilisation, the ploidy of zygote and PEN respectively are:",
+    "options": {
+      "A": "2n and 3n",
+      "B": "3n and 2n",
+      "C": "n and 2n",
+      "D": "2n and 4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Zygote is 2n (syngamy); PEN is 3n (triple fusion)."
+  },
+  {
+    "source_sentence": "Embryo sac is 7-celled 8-nucleate at maturity.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "A mature angiosperm embryo sac is described as:",
+    "options": {
+      "A": "8-celled and 7-nucleate",
+      "B": "7-celled and 8-nucleate",
+      "C": "7-celled and 7-nucleate",
+      "D": "8-celled and 8-nucleate"
+    },
+    "correct_answer": "B",
+    "explanation": "Six cells from eight nuclei; two polar nuclei remain unfused in central cell → 7 cells, 8 nuclei."
+  },
+  {
+    "source_sentence": "Egg apparatus has two synergids and one egg cell at micropylar end.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "The egg apparatus at the micropylar end of embryo sac consists of:",
+    "options": {
+      "A": "One egg and three synergids",
+      "B": "Two synergids and one egg cell",
+      "C": "Three antipodals",
+      "D": "Two polar nuclei only"
+    },
+    "correct_answer": "B",
+    "explanation": "Egg apparatus = 1 egg + 2 synergids with filiform apparatus."
+  },
+  {
+    "source_sentence": "Filiform apparatus guides pollen tube into synergid.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Filiform apparatus present in synergids helps in:",
+    "options": {
+      "A": "Pollen tube entry into synergid",
+      "B": "Degeneration of antipodals",
+      "C": "Formation of integuments",
+      "D": "Dehiscence of anther"
+    },
+    "correct_answer": "A",
+    "explanation": "Special thickenings at micropylar tip of synergids guide pollen tube entry."
+  },
+  {
+    "source_sentence": "Polar nuclei are in central cell below egg apparatus.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a mature embryo sac, polar nuclei are located in:",
+    "options": {
+      "A": "Antipodal cells",
+      "B": "Synergids",
+      "C": "Central cell",
+      "D": "Nucellus"
+    },
+    "correct_answer": "C",
+    "explanation": "Two polar nuclei lie in the large central cell."
+  },
+  {
+    "source_sentence": "Monosporic development from single functional megaspore.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In majority of angiosperms, embryo sac develops from:",
+    "options": {
+      "A": "All four megaspores",
+      "B": "One functional megaspore (monosporic)",
+      "C": "PMC directly",
+      "D": "Nucellar cells without meiosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Three megaspores degenerate; one functional megaspore undergoes mitoses → monosporic development."
+  },
+  {
+    "source_sentence": "Free-nuclear divisions precede cell wall formation in embryo sac.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Mitotic divisions in embryo sac development before cellularisation are:",
+    "options": {
+      "A": "Cellular from the start",
+      "B": "Free-nuclear (no immediate cytokinesis)",
+      "C": "Only meiotic",
+      "D": "Absent in angiosperms"
+    },
+    "correct_answer": "B",
+    "explanation": "Nuclear divisions occur without immediate cell wall formation until 8-nucleate stage."
+  },
+  {
+    "source_sentence": "Exine made of sporopollenin; intine of cellulose and pectin.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "The hard, resistant outer layer of pollen grain wall is:",
+    "options": {
+      "A": "Intine composed of cellulose",
+      "B": "Exine composed of sporopollenin",
+      "C": "Tapetum",
+      "D": "Germ pore filled with sporopollenin"
+    },
+    "correct_answer": "B",
+    "explanation": "Exine = sporopollenin (highly resistant); intine = cellulose + pectin."
+  },
+  {
+    "source_sentence": "Germ pores are apertures where sporopollenin is absent.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Germ pores on pollen exine are sites where:",
+    "options": {
+      "A": "Sporopollenin is thickest",
+      "B": "Sporopollenin is absent",
+      "C": "Intine is absent",
+      "D": "Generative cell divides"
+    },
+    "correct_answer": "B",
+    "explanation": "Apertures (germ pores) lack sporopollenin and allow pollen tube emergence."
+  },
+  {
+    "source_sentence": "Vegetative cell is larger with food reserves.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a mature pollen grain, the vegetative cell is characterised by:",
+    "options": {
+      "A": "Spindle shape and dense cytoplasm only",
+      "B": "Large size, abundant food reserve, irregular nucleus",
+      "C": "Absence of nucleus",
+      "D": "Immediate division into two male gametes before shedding"
+    },
+    "correct_answer": "B",
+    "explanation": "Vegetative cell is bigger with food reserves; generative cell is small and spindle-shaped."
+  },
+  {
+    "source_sentence": "Microsporogenesis: PMC → meiosis → microspore tetrad.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Microsporogenesis in an angiosperm anther involves:",
+    "options": {
+      "A": "Mitosis of tapetum only",
+      "B": "Meiosis of PMC to form microspore tetrad",
+      "C": "Fusion of microspores",
+      "D": "Direct formation of embryo sac"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollen mother cell undergoes meiosis producing four microspores per tetrad."
+  },
+  {
+    "source_sentence": "Dithecous anther has four microsporangia.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "A typical angiosperm anther is dithecous meaning:",
+    "options": {
+      "A": "One theca per anther",
+      "B": "Two lobes each with two thecae (four microsporangia)",
+      "C": "No sporogenous tissue",
+      "D": "Single microsporangium"
+    },
+    "correct_answer": "B",
+    "explanation": "Bilobed dithecous anther: two thecae per lobe → four microsporangia."
+  },
+  {
+    "source_sentence": "Tapetum nourishes developing pollen; often binucleate.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "The innermost wall layer of microsporangium that nourishes pollen grains is:",
+    "options": {
+      "A": "Epidermis",
+      "B": "Endothecium",
+      "C": "Tapetum",
+      "D": "Middle layer only"
+    },
+    "correct_answer": "C",
+    "explanation": "Tapetum is innermost; cells often multinucleate and nutrient-rich."
+  },
+  {
+    "source_sentence": "Parthenium causes pollen allergy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Parthenium hysterophorus introduced with imported wheat is notorious for causing:",
+    "options": {
+      "A": "Soil alkalinity",
+      "B": "Pollen allergy and respiratory disorders",
+      "C": "Fruit parthenocarpy",
+      "D": "Apomixis in cereals"
+    },
+    "correct_answer": "B",
+    "explanation": "Carrot grass (Parthenium) pollen triggers allergies including asthma."
+  },
+  {
+    "source_sentence": "Pollen viability variable; stored in liquid nitrogen for banks.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Pollen grains of many species can be stored for years in:",
+    "options": {
+      "A": "Boiling water",
+      "B": "Liquid nitrogen at −196°C",
+      "C": "Strong acid only",
+      "D": "Dry sand at 60°C"
+    },
+    "correct_answer": "B",
+    "explanation": "Cryopreservation in liquid nitrogen enables pollen banks for breeding."
+  },
+  {
+    "source_sentence": "Autogamy, geitonogamy, xenogamy are pollination types.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Transfer of pollen from anther to stigma of a different plant of another species would be:",
+    "options": {
+      "A": "Autogamy",
+      "B": "Geitonogamy",
+      "C": "Xenogamy",
+      "D": "Cleistogamy"
+    },
+    "correct_answer": "C",
+    "explanation": "Xenogamy alone brings genetically different pollen from another plant (cross-pollination)."
+  },
+  {
+    "source_sentence": "Geitonogamy is genetically like autogamy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Geitonogamy differs from xenogamy because geitonogamy:",
+    "options": {
+      "A": "Uses wind only",
+      "B": "Involves pollen from same plant (genetically like selfing)",
+      "C": "Requires water",
+      "D": "Produces apomictic seeds"
+    },
+    "correct_answer": "B",
+    "explanation": "Geitonogamy is pollen transfer between flowers of same plant—functionally cross, genetically self."
+  },
+  {
+    "source_sentence": "Cleistogamous flowers never open; assured autogamy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Cleistogamous flowers in Viola and Oxalis ensure pollination by:",
+    "options": {
+      "A": "Large colourful petals attracting bees",
+      "B": "Never opening; anthers contact stigma in bud",
+      "C": "Water pollination",
+      "D": "Producing unisexual flowers only"
+    },
+    "correct_answer": "B",
+    "explanation": "Closed flowers with anthers and stigma close together → assured autogamy."
+  },
+  {
+    "source_sentence": "Wind-pollinated flowers: light pollen, exposed stamens, feathery stigma.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "An adaptation NOT typical of wind-pollinated flowers is:",
+    "options": {
+      "A": "Light non-sticky pollen",
+      "B": "Well-exposed stamens",
+      "C": "Large colourful nectar-rich petals",
+      "D": "Feathery stigma to trap airborne pollen"
+    },
+    "correct_answer": "C",
+    "explanation": "Wind flowers lack nectar/bright colours; they produce abundant light pollen."
+  },
+  {
+    "source_sentence": "Vallisneria shows surface water pollination.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In Vallisneria, pollination is achieved when:",
+    "options": {
+      "A": "Pollen germinates on stigma above water only",
+      "B": "Male flowers/pollen float on water to female flowers",
+      "C": "Insects carry pollen underwater",
+      "D": "Pollen tubes grow through air only"
+    },
+    "correct_answer": "B",
+    "explanation": "Female flowers on long stalk reach surface; pollen released on water surface."
+  },
+  {
+    "source_sentence": "Yucca-moth mutualism for pollination.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Yucca plants and their moth pollinators exhibit:",
+    "options": {
+      "A": "No relationship",
+      "B": "Obligate mutualism—neither completes life cycle without the other",
+      "C": "Only wind pollination",
+      "D": "Apomixis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Moth lays eggs in ovary and pollinates flower; larvae and seeds develop together."
+  },
+  {
+    "source_sentence": "Monoecious castor prevents autogamy not geitonogamy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In monoecious plants like castor, unisexual male and female flowers on same plant prevent:",
+    "options": {
+      "A": "Both autogamy and geitonogamy",
+      "B": "Autogamy but not geitonogamy",
+      "C": "Only xenogamy",
+      "D": "All pollination"
+    },
+    "correct_answer": "B",
+    "explanation": "Separate sexes on one plant block autogamy; geitonogamy still possible."
+  },
+  {
+    "source_sentence": "Dioecious papaya prevents autogamy and geitonogamy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Dioecious species like papaya prevent:",
+    "options": {
+      "A": "Only wind pollination",
+      "B": "Both autogamy and geitonogamy",
+      "C": "Only xenogamy",
+      "D": "Seed dormancy"
+    },
+    "correct_answer": "B",
+    "explanation": "Male and female on separate plants → no self or geitonogamous pollination."
+  },
+  {
+    "source_sentence": "Emasculation and bagging in artificial hybridisation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Emasculation in plant breeding refers to:",
+    "options": {
+      "A": "Bagging the stigma",
+      "B": "Removal of anthers before dehiscence from bisexual flower bud",
+      "C": "Cutting the style",
+      "D": "Inducing apomixis"
+    },
+    "correct_answer": "B",
+    "explanation": "Anthers removed to prevent self-pollination; flower then bagged."
+  },
+  {
+    "source_sentence": "Pistil recognises compatible vs incompatible pollen chemically.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Pollen-pistil interaction involves:",
+    "options": {
+      "A": "Only mechanical fitting of pollen size",
+      "B": "Chemical dialogue leading to acceptance or rejection",
+      "C": "No role of stigma",
+      "D": "Immediate triple fusion on stigma"
+    },
+    "correct_answer": "B",
+    "explanation": "Chemical components mediate recognition; incompatible pollen is rejected."
+  },
+  {
+    "source_sentence": "Pollen tube enters ovule through micropyle, then synergid via filiform apparatus.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "After traversing style, pollen tube enters embryo sac through:",
+    "options": {
+      "A": "Chalaza",
+      "B": "One synergid via filiform apparatus",
+      "C": "Antipodal cell directly",
+      "D": "Integument only"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollen tube enters ovule via micropyle and penetrates a synergid."
+  },
+  {
+    "source_sentence": "Generative cell divides in pollen tube if pollen shed at 2-celled stage.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "If pollen is shed at 2-celled stage, male gametes are formed:",
+    "options": {
+      "A": "In anther before shedding",
+      "B": "During pollen tube growth in stigma/style",
+      "C": "In endosperm",
+      "D": "After seed germination"
+    },
+    "correct_answer": "B",
+    "explanation": "Generative cell divides mitotically within growing pollen tube."
+  },
+  {
+    "source_sentence": "Albuminous vs non-albuminous seeds.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Maize seed is albuminous because:",
+    "options": {
+      "A": "Endosperm is fully consumed before maturation",
+      "B": "Residual endosperm persists in mature seed",
+      "C": "No embryo present",
+      "D": "Perisperm replaces endosperm"
+    },
+    "correct_answer": "B",
+    "explanation": "Albuminous seeds retain part of endosperm (wheat, maize, castor)."
+  },
+  {
+    "source_sentence": "Apomixis mimics sexual reproduction without fertilisation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Apomixis in flowering plants is:",
+    "options": {
+      "A": "Normal double fertilisation",
+      "B": "Asexual seed formation without fertilisation",
+      "C": "Only vegetative propagation",
+      "D": "Pollination by water only"
+    },
+    "correct_answer": "B",
+    "explanation": "Seeds form without fertilisation—mimics sexual reproduction."
+  },
+  {
+    "source_sentence": "Polyembryony in Citrus from nucellar cells.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Polyembryony in Citrus may arise when:",
+    "options": {
+      "A": "Multiple pollen tubes fertilise one egg",
+      "B": "Nucellar cells proliferate into multiple embryos",
+      "C": "Only syngamy occurs",
+      "D": "Endosperm fails to form"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucellar embryos develop alongside sexual embryo—multiple embryos per seed."
+  },
+  {
+    "source_sentence": "Double fertilisation unique to angiosperms.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Double fertilisation occurs only in angiosperms. Reason (R): It involves both syngamy and triple fusion in the same embryo sac. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R correctly explains uniqueness via two fusion events."
+  },
+  {
+    "source_sentence": "PEN ploidy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Primary endosperm nucleus is triploid. Reason (R): Triple fusion involves fusion of one male gamete with two haploid polar nuclei. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R is correct explanation for 3n PEN."
+  },
+  {
+    "source_sentence": "7-celled 8-nucleate embryo sac.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Mature embryo sac has seven cells. Reason (R): Two polar nuclei in central cell are not separated by a wall. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; central cell has 2 nuclei in 1 cell → 7 cells, 8 nuclei."
+  },
+  {
+    "source_sentence": "Wind pollination features.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Wind-pollinated flowers produce enormous pollen. Reason (R): Wind pollination is a chance process with high pollen loss. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; excess pollen compensates for inefficient wind transfer."
+  },
+  {
+    "source_sentence": "Cleistogamy advantage.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Cleistogamous flowers give assured seed-set. Reason (R): These flowers never open and effect self-pollination in bud. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains assured seed-set without pollinators."
+  },
+  {
+    "source_sentence": "Trap: syngamy vs triple fusion targets.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Which statement about double fertilisation is INCORRECT?",
+    "options": {
+      "A": "Syngamy forms diploid zygote",
+      "B": "Triple fusion forms triploid PEN",
+      "C": "Both fusions occur in gymnosperms routinely",
+      "D": "Two male gametes are involved"
+    },
+    "correct_answer": "C",
+    "explanation": "Double fertilisation is NOT routine in gymnosperms—it is angiosperm-specific."
+  },
+  {
+    "source_sentence": "Trap: pollen wall layers.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Which pairing of pollen grain wall layer and composition is WRONG?",
+    "options": {
+      "A": "Exine—sporopollenin",
+      "B": "Intine—cellulose and pectin",
+      "C": "Exine—digested by common enzymes",
+      "D": "Germ pore—lacks sporopollenin"
+    },
+    "correct_answer": "C",
+    "explanation": "No enzyme degrading sporopollenin is known—exine is highly resistant."
+  },
+  {
+    "source_sentence": "Trap: embryo sac cell count.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Select the INCORRECT statement about a mature embryo sac:",
+    "options": {
+      "A": "Three antipodals at chalazal end",
+      "B": "Central cell is diploid",
+      "C": "Egg apparatus at micropylar end",
+      "D": "Synergids have filiform apparatus"
+    },
+    "correct_answer": "B",
+    "explanation": "Central cell is not diploid—it contains two polar nuclei (each n) before fusion."
+  },
+  {
+    "source_sentence": "Trap: pollination types.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Which pollination type alone introduces genetically different pollen to stigma?",
+    "options": {
+      "A": "Autogamy",
+      "B": "Geitonogamy",
+      "C": "Cleistogamy",
+      "D": "Xenogamy"
+    },
+    "correct_answer": "D",
+    "explanation": "Only xenogamy brings pollen from a different plant."
+  },
+  {
+    "source_sentence": "Trap: pollen tube pathway.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Which sequence during pollen-pistil interaction is INCORRECT?",
+    "options": {
+      "A": "Germination on stigma",
+      "B": "Growth through style",
+      "C": "Entry via chalaza into nucellus only",
+      "D": "Entry into synergid"
+    },
+    "correct_answer": "C",
+    "explanation": "Pollen tube enters ovule through micropyle, not via chalaza alone."
+  },
+  {
+    "source_sentence": "Ploidy of Functional megaspore in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Functional megaspore is:",
+    "options": {
+      "A": "n",
+      "B": "2n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Functional megaspore has ploidy n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of Polar nuclei (each) in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Polar nuclei (each) is:",
+    "options": {
+      "A": "n",
+      "B": "2n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Polar nuclei (each) has ploidy n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of Zygote after syngamy in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Zygote after syngamy is:",
+    "options": {
+      "A": "2n",
+      "B": "n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Zygote after syngamy has ploidy 2n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of PEN after triple fusion in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of PEN after triple fusion is:",
+    "options": {
+      "A": "3n",
+      "B": "n",
+      "C": "2n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "PEN after triple fusion has ploidy 3n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of PMC before meiosis in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of PMC before meiosis is:",
+    "options": {
+      "A": "2n",
+      "B": "n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "PMC before meiosis has ploidy 2n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of Microspore after meiosis in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Microspore after meiosis is:",
+    "options": {
+      "A": "n",
+      "B": "2n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Microspore after meiosis has ploidy n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of Nucellus cells in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Nucellus cells is:",
+    "options": {
+      "A": "2n",
+      "B": "n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Nucellus cells has ploidy 2n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of Synergid cells in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Synergid cells is:",
+    "options": {
+      "A": "n",
+      "B": "2n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Synergid cells has ploidy n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of Antipodal cells in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Antipodal cells is:",
+    "options": {
+      "A": "n",
+      "B": "2n",
+      "C": "3n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Antipodal cells has ploidy n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Ploidy of Primary endosperm cell in angiosperm reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In a typical angiosperm, the ploidy level of Primary endosperm cell is:",
+    "options": {
+      "A": "3n",
+      "B": "n",
+      "C": "2n",
+      "D": "4n"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary endosperm cell has ploidy 3n per NCERT embryology."
+  },
+  {
+    "source_sentence": "Anther dehiscence releases pollen from pollen sacs.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "When an anther matures and dehydrates, microspores dissociate to form:",
+    "options": {
+      "A": "Embryo sacs",
+      "B": "Pollen grains released on dehiscence",
+      "C": "Endosperm nuclei",
+      "D": "Megaspore tetrads in ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Dehydration separates microspores which develop into pollen grains."
+  },
+  {
+    "source_sentence": "Hilum is junction of ovule and funicle.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "The junction between funicle and body of ovule is called:",
+    "options": {
+      "A": "Micropyle",
+      "B": "Chalaza",
+      "C": "Hilum",
+      "D": "Nucellus"
+    },
+    "correct_answer": "C",
+    "explanation": "Hilum marks ovule-funicle fusion point."
+  },
+  {
+    "source_sentence": "Anatropous ovule: micropyle near placenta.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In an anatropous ovule, micropyle and chalaza are:",
+    "options": {
+      "A": "At same point",
+      "B": "Micropyle near placenta, chalaza at opposite end",
+      "C": "Both absent",
+      "D": "Only in gymnosperms"
+    },
+    "correct_answer": "B",
+    "explanation": "Anatropous ovule inverts so micropyle lies near funicle/placenta."
+  },
+  {
+    "source_sentence": "Parthenocarpic banana can be hormone-induced.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Seedless banana fruits illustrate:",
+    "options": {
+      "A": "Normal double fertilisation",
+      "B": "Parthenocarpy",
+      "C": "Polyembryony",
+      "D": "Apomixis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Parthenocarpic fruits develop without fertilisation; banana is an example."
+  },
+  {
+    "source_sentence": "Scutellum is cotyledon of grass embryo.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In grass family embryo, cotyledon is called:",
+    "options": {
+      "A": "Plumule",
+      "B": "Scutellum",
+      "C": "Coleoptile",
+      "D": "Perisperm"
+    },
+    "correct_answer": "B",
+    "explanation": "Monocot grasses have scutellum as single cotyledon on embryonal axis."
+  },
+  {
+    "source_sentence": "Coleorhiza encloses radicle in grass embryo.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In monocot grass embryo, undifferentiated sheath covering radicle is:",
+    "options": {
+      "A": "Coleoptile",
+      "B": "Coleorhiza",
+      "C": "Scutellum",
+      "D": "Pericarp"
+    },
+    "correct_answer": "B",
+    "explanation": "Coleorhiza covers radicle; coleoptile covers shoot apex."
+  },
+  {
+    "source_sentence": "Perisperm is persistent nucellus in pepper/beet.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Residual persistent nucellus in seeds of black pepper is termed:",
+    "options": {
+      "A": "Endosperm",
+      "B": "Perisperm",
+      "C": "Pericarp",
+      "D": "Integument"
+    },
+    "correct_answer": "B",
+    "explanation": "Perisperm is persistent nucellus outside embryo/endosperm."
+  },
+  {
+    "source_sentence": "Lupinus arcticus seed viability 10000 years.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Record of extreme seed viability includes lupine seeds germinating after:",
+    "options": {
+      "A": "10 days",
+      "B": "10 months",
+      "C": "About 10,000 years",
+      "D": "Only hours"
+    },
+    "correct_answer": "C",
+    "explanation": "Lupinus arcticus seeds from Arctic tundra germinated after ~10,000 years."
+  },
+  {
+    "source_sentence": "Insect-pollinated flowers: colour, nectar, fragrance.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "A floral feature typical of insect-pollinated plants but NOT wind-pollinated is:",
+    "options": {
+      "A": "Exposed stamens",
+      "B": "Nectar as reward",
+      "C": "Light dry pollen",
+      "D": "Feathery stigma"
+    },
+    "correct_answer": "B",
+    "explanation": "Insect flowers offer nectar/colour/fragrance; wind flowers lack these."
+  },
+  {
+    "source_sentence": "Pollen robbers do not contact stigma.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Floral visitors that consume nectar without touching anthers/stigma are:",
+    "options": {
+      "A": "Pollinators",
+      "B": "Pollen/nectar robbers",
+      "C": "Synergids",
+      "D": "Tapetal cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Robbers take rewards without effecting pollination."
+  },
+  {
+    "source_sentence": "Periodic abstinence is NOT ch1 but included for contrast—skip",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Bagging after emasculation prevents:",
+    "options": {
+      "A": "Ovule formation",
+      "B": "Contamination of stigma with unwanted pollen",
+      "C": "Double fertilisation",
+      "D": "Endosperm formation"
+    },
+    "correct_answer": "B",
+    "explanation": "Butter-paper bagging protects emasculated flower from stray pollen."
+  },
+  {
+    "source_sentence": "Water hyacinth flowers above water, insect/wind pollinated.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Water hyacinth flowers emerge above water and are pollinated by:",
+    "options": {
+      "A": "Submerged pollen tubes only",
+      "B": "Insects or wind like terrestrial plants",
+      "C": "Fish",
+      "D": "Apomixis"
+    },
+    "correct_answer": "B",
+    "explanation": "Many aquatic plants have emergent flowers using insect/wind pollination."
+  },
+  {
+    "source_sentence": "Seagrass underwater ribbon pollen.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "In seagrasses, pollen grains are often:",
+    "options": {
+      "A": "Heavy and sticky for insects",
+      "B": "Long ribbon-like carried in water",
+      "C": "Absent",
+      "D": "Only in anther wall"
+    },
+    "correct_answer": "B",
+    "explanation": "Submerged pollination uses elongated pollen in water currents."
+  },
+  {
+    "source_sentence": "Syncarpous vs apocarpous pistil.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Papaver has multicarpellary syncarpous pistil meaning:",
+    "options": {
+      "A": "Free carpels",
+      "B": "Fused carpels in one pistil",
+      "C": "No ovary",
+      "D": "Only one stamen"
+    },
+    "correct_answer": "B",
+    "explanation": "Syncarpous = carpels fused; apocarpous = free carpels (Michelia)."
+  },
+  {
+    "source_sentence": "Chasmogamous vs cleistogamous in Viola.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Chasmogamous flowers differ from cleistogamous in:",
+    "options": {
+      "A": "Never opening",
+      "B": "Opening and exposing anthers and stigma",
+      "C": "Being unisexual only",
+      "D": "Lacking pollen"
+    },
+    "correct_answer": "B",
+    "explanation": "Chasmogamous open normally; cleistogamous remain closed."
+  },
+  {
+    "source_sentence": "Pollen kit/sticky pollen in animal pollination.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Pollen grains of animal-pollinated species are generally:",
+    "options": {
+      "A": "Light and dry",
+      "B": "Sticky with pollen kit",
+      "C": "Without exine",
+      "D": "Always 1-celled at shedding"
+    },
+    "correct_answer": "B",
+    "explanation": "Sticky pollen adheres to animal bodies for transfer."
+  },
+  {
+    "source_sentence": "Amorphophallus attracts flies with foul odour.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Carrion flowers like Amorphophallus attract pollinators by:",
+    "options": {
+      "A": "Sweet perfume only",
+      "B": "Foul odour mimicking decay",
+      "C": "Nectar tubes underwater",
+      "D": "No reward"
+    },
+    "correct_answer": "B",
+    "explanation": "Fly/beetle pollinated flowers may secrete foul odours."
+  },
+  {
+    "source_sentence": "Double fertilisation uses two male gametes.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "How many male gametes participate in double fertilisation?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correct_answer": "B",
+    "explanation": "One fuses with egg (syngamy); other with polar nuclei (triple fusion)."
+  },
+  {
+    "source_sentence": "Primary endosperm cell develops into endosperm.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "After triple fusion, central cell becomes:",
+    "options": {
+      "A": "Zygote",
+      "B": "Primary endosperm cell developing into endosperm",
+      "C": "Antipodal",
+      "D": "Perisperm"
+    },
+    "correct_answer": "B",
+    "explanation": "PEC undergoes divisions to form triploid endosperm."
+  },
+  {
+    "source_sentence": "A botanist stains embryo sac and counts nuclei before polar fusion.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "She observes 8 nuclei with 7 cells. Polar nuclei are unfused. This confirms:",
+    "options": {
+      "A": "Mature embryo sac before fertilisation",
+      "B": "Post-triple fusion endosperm",
+      "C": "PMC stage",
+      "D": "Pollen tetrad"
+    },
+    "correct_answer": "A",
+    "explanation": "7-celled 8-nucleate stage is mature embryo sac."
+  },
+  {
+    "source_sentence": "Pollen from wrong species lands on stigma but tube growth is blocked.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "This rejection illustrates:",
+    "options": {
+      "A": "Wind pollination",
+      "B": "Self-incompatibility or interspecific rejection",
+      "C": "Apomixis",
+      "D": "Triple fusion"
+    },
+    "correct_answer": "B",
+    "explanation": "Pistil rejects incompatible pollen—genetic/chemical self-incompatibility."
+  },
+  {
+    "source_sentence": "Hybridiser removes anthers, bags flower, dusts desired pollen later.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Combined technique ensures:",
+    "options": {
+      "A": "Apomictic seed",
+      "B": "Controlled cross with chosen male parent",
+      "C": "Wind pollination only",
+      "D": "Polyembryony"
+    },
+    "correct_answer": "B",
+    "explanation": "Emasculation + bagging + controlled pollination = artificial hybridisation."
+  },
+  {
+    "source_sentence": "Student finds 2-celled pollen at shedding in Hibiscus.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Generative cell will most likely divide:",
+    "options": {
+      "A": "In tapetum",
+      "B": "During pollen tube growth",
+      "C": "In endosperm",
+      "D": "Never"
+    },
+    "correct_answer": "B",
+    "explanation": "2-celled pollen forms male gametes during tube growth."
+  },
+  {
+    "source_sentence": "Coconut: liquid endosperm with free nuclei, solid cellular kernel.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Liquid phase corresponds to:",
+    "options": {
+      "A": "Cellular endosperm",
+      "B": "Free-nuclear endosperm stage",
+      "C": "Perisperm",
+      "D": "Embryo sac"
+    },
+    "correct_answer": "B",
+    "explanation": "Free-nuclear endosperm precedes cellularisation in coconut."
+  },
+  {
+    "source_sentence": "Pea seeds: endosperm consumed during development.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Mature pea seeds are classified as:",
+    "options": {
+      "A": "Albuminous",
+      "B": "Non-albuminous (ex-albuminous)",
+      "C": "Perispermous only",
+      "D": "Parthenocarpic"
+    },
+    "correct_answer": "B",
+    "explanation": "Pea and groundnut consume endosperm—non-albuminous seeds."
+  },
+  {
+    "source_sentence": "Orange seeds squeezed show multiple embryos of varied size.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "This is evidence of:",
+    "options": {
+      "A": "Only syngamy",
+      "B": "Polyembryony",
+      "C": "Wind pollination",
+      "D": "Dioecy"
+    },
+    "correct_answer": "B",
+    "explanation": "Citrus commonly shows polyembryony from nucellar cells."
+  },
+  {
+    "source_sentence": "Rice pollen loses viability within 30 minutes of release.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "This implies rice is primarily adapted for:",
+    "options": {
+      "A": "Long-distance wind pollination with storage",
+      "B": "Rapid pollination near release site",
+      "C": "Water pollination only",
+      "D": "Apomixis"
+    },
+    "correct_answer": "B",
+    "explanation": "Short viability requires prompt pollination after shedding."
+  },
+  {
+    "source_sentence": "Rosaceae pollen viable for months.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Extended pollen viability in some Rosaceae species aids:",
+    "options": {
+      "A": "Immediate autogamy only",
+      "B": "Delayed cross-pollination window",
+      "C": "Apomixis",
+      "D": "Triple fusion without pollination"
+    },
+    "correct_answer": "B",
+    "explanation": "Long viability allows pollination over extended periods."
+  },
+  {
+    "source_sentence": "Maize tassel and silk represent male and female inflorescence.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Silk is stigma/style for:",
+    "options": {
+      "A": "Wind-borne pollen capture in monoecious maize",
+      "B": "Submerged pollination",
+      "C": "Only cleistogamy",
+      "D": "Apomixis"
+    },
+    "correct_answer": "A",
+    "explanation": "Maize is wind-pollinated; silks trap airborne pollen grains."
+  },
+  {
+    "source_sentence": "Sporopollenin resistance.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Pollen exine withstands high temperature and strong acids. Reason (R): Exine is composed of sporopollenin. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains exine resistance."
+  },
+  {
+    "source_sentence": "Tapetum function.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Tapetal cells nourish developing microspores. Reason (R): Tapetum is the innermost wall layer of microsporangium. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R identifies nourishing layer."
+  },
+  {
+    "source_sentence": "Herkogamy prevents autogamy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Anther and stigma at different positions discourage self-pollination. Reason (R): This device is called herkogamy. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; spatial separation = herkogamy."
+  },
+  {
+    "source_sentence": "Dichogamy timing.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Pollen release and stigma receptivity may be non-synchronous. Reason (R): This prevents autogamy in some species. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; temporal separation discourages selfing."
+  },
+  {
+    "source_sentence": "Filiform apparatus role.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Synergids guide pollen tube entry. Reason (R): Filiform apparatus is at micropylar tip of synergids. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R gives structural basis for guidance."
+  },
+  {
+    "source_sentence": "NCERT angiosperm microsporangium wall: epidermis, endothecium, middle layers, tapetum.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Regarding microsporangium wall in flowering plants (set 1), which statement is correct?",
+    "options": {
+      "A": "It involves four layers as per NCERT",
+      "B": "It occurs only in gymnosperms",
+      "C": "It excludes any role in reproduction",
+      "D": "It replaces double fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT: microsporangium wall — epidermis, endothecium, middle layers, tapetum."
+  },
+  {
+    "source_sentence": "NCERT angiosperm sporogenous tissue: gives rise to PMCs.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Regarding sporogenous tissue in flowering plants (set 2), which statement is correct?",
+    "options": {
+      "A": "It involves occupies centre as per NCERT",
+      "B": "It occurs only in gymnosperms",
+      "C": "It excludes any role in reproduction",
+      "D": "It replaces double fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT: sporogenous tissue — gives rise to PMCs."
+  },
+  {
+    "source_sentence": "NCERT angiosperm inflorescence: formed before flower opens.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Regarding inflorescence in flowering plants (set 3), which statement is correct?",
+    "options": {
+      "A": "It involves bears floral buds as per NCERT",
+      "B": "It occurs only in gymnosperms",
+      "C": "It excludes any role in reproduction",
+      "D": "It replaces double fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT: inflorescence — formed before flower opens."
+  },
+  {
+    "source_sentence": "NCERT angiosperm gynoecium monocarpellary: vs multicarpellary.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Regarding gynoecium monocarpellary in flowering plants (set 4), which statement is correct?",
+    "options": {
+      "A": "It involves single pistil as per NCERT",
+      "B": "It occurs only in gymnosperms",
+      "C": "It excludes any role in reproduction",
+      "D": "It replaces double fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT: gynoecium monocarpellary — vs multicarpellary."
+  },
+  {
+    "source_sentence": "NCERT angiosperm stigma function: for pollen grains.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Regarding stigma function in flowering plants (set 5), which statement is correct?",
+    "options": {
+      "A": "It involves landing platform as per NCERT",
+      "B": "It occurs only in gymnosperms",
+      "C": "It excludes any role in reproduction",
+      "D": "It replaces double fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT: stigma function — for pollen grains."
+  },
+  {
+    "source_sentence": "NCERT angiosperm style function: connects stigma to ovary.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Regarding style function in flowering plants (set 6), which statement is correct?",
+    "options": {
+      "A": "It involves elongated slender part as per NCERT",
+      "B": "It occurs only in gymnosperms",
+      "C": "It excludes any role in reproduction",
+      "D": "It replaces double fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT: style function — connects stigma to ovary."
+  },
+  {
+    "source_sentence": "NCERT angiosperm ovarian cavity: contains placenta and ovules.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Regarding ovarian cavity in flowering plants (set 7), which statement is correct?",
+    "options": {
+      "A": "It involves locule as per NCERT",
+      "B": "It occurs only in gymnosperms",
+      "C": "It excludes any role in reproduction",
+      "D": "It replaces double fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT: ovarian cavity — contains placenta and ovules."
+  },
+  {
+    "source_sentence": "Double fertilisation is unique to angiosperms.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "question": "Assertion (A): Double fertilisation produces zygote and primary endosperm nucleus. Reason (R): One sperm fuses with egg; other fuses with polar nuclei. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Two fusion events: syngamy and triple fusion."
+  }
+]

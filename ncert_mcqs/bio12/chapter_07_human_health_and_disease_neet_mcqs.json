@@ -1,0 +1,1250 @@
+[
+  {
+    "source_sentence": "Innate immunity is a non-specific defence that is present at the time of birth",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Innate immunity is best described as:",
+    "options": {
+      "A": "Non-specific, present since birth",
+      "B": "Pathogen-specific memory only",
+      "C": "Only after vaccination",
+      "D": "Active immunity acquired later"
+    },
+    "correct_answer": "A",
+    "explanation": "Innate immunity is inborn and non-specific."
+  },
+  {
+    "source_sentence": "Physical barriers like skin prevent entry of microorganisms",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which is a physical barrier of innate immunity?",
+    "options": {
+      "A": "Skin",
+      "B": "Lysozyme in tears",
+      "C": "Macrophages",
+      "D": "Interferons"
+    },
+    "correct_answer": "A",
+    "explanation": "Skin acts as a physical barrier."
+  },
+  {
+    "source_sentence": "Mucus in the respiratory tract traps microorganisms",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Mucus lining of respiratory tract is a:",
+    "options": {
+      "A": "Physical barrier",
+      "B": "Cytokine barrier",
+      "C": "Cellular barrier",
+      "D": "Adaptive response"
+    },
+    "correct_answer": "A",
+    "explanation": "Mucus traps microbes; physical barrier."
+  },
+  {
+    "source_sentence": "Physiological barriers include acid in stomach, saliva, tears",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which is a physiological barrier?",
+    "options": {
+      "A": "Acidic pH of stomach",
+      "B": "Macrophages",
+      "C": "Skin",
+      "D": "B-cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Stomach acid is a physiological barrier."
+  },
+  {
+    "source_sentence": "Lysozyme present in tears and saliva destroys bacteria",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Lysozyme in tears acts as:",
+    "options": {
+      "A": "Physiological barrier enzyme",
+      "B": "Physical barrier",
+      "C": "Adaptive response antibody",
+      "D": "Chemical carcinogen"
+    },
+    "correct_answer": "A",
+    "explanation": "Lysozyme is a physiological barrier."
+  },
+  {
+    "source_sentence": "Cellular barriers include leukocytes like neutrophils and monocytes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Neutrophils and monocytes provide:",
+    "options": {
+      "A": "Cellular barriers of innate immunity",
+      "B": "Humoral adaptive immunity",
+      "C": "Allergy only",
+      "D": "Passive immunity"
+    },
+    "correct_answer": "A",
+    "explanation": "These leukocytes are innate cellular barriers."
+  },
+  {
+    "source_sentence": "Interferons are proteins made by virus-infected cells",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Interferons help by:",
+    "options": {
+      "A": "Protecting non-infected cells from viral infection",
+      "B": "Digesting bacteria in stomach",
+      "C": "Producing antibodies",
+      "D": "Forming skin barrier"
+    },
+    "correct_answer": "A",
+    "explanation": "Interferons inhibit viral replication in nearby cells."
+  },
+  {
+    "source_sentence": "Inflammatory response is a major feature of innate immunity",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Inflammation at infection site is due to:",
+    "options": {
+      "A": "Release of cytokines by macrophages",
+      "B": "Only antibodies binding antigen",
+      "C": "Memory B cells",
+      "D": "IgA in milk"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytokines from macrophages trigger inflammation."
+  },
+  {
+    "source_sentence": "Acquired immunity is pathogen specific and mediated by B and T lymphocytes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Acquired immunity differs from innate because it is:",
+    "options": {
+      "A": "Specific and has memory",
+      "B": "Present at birth",
+      "C": "Only physical barrier",
+      "D": "Not mediated by lymphocytes"
+    },
+    "correct_answer": "A",
+    "explanation": "Adaptive immunity is specific and has memory."
+  },
+  {
+    "source_sentence": "Acquired immunity has primary and secondary response",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which is correct about primary immune response?",
+    "options": {
+      "A": "Slow, low antibody titre, first exposure",
+      "B": "Rapid and massive on first exposure",
+      "C": "No antibodies produced",
+      "D": "Only IgG produced immediately"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary response is slow and weak."
+  },
+  {
+    "source_sentence": "Secondary response is more intense on subsequent exposure",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Reason for stronger secondary response is:",
+    "options": {
+      "A": "Memory B and T cells",
+      "B": "Absence of lymphocytes",
+      "C": "Only neutrophils present",
+      "D": "Only innate barriers"
+    },
+    "correct_answer": "A",
+    "explanation": "Memory cells drive strong secondary response."
+  },
+  {
+    "source_sentence": "Humoral immunity is mediated by antibodies produced by B lymphocytes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Humoral immune response mainly involves:",
+    "options": {
+      "A": "B lymphocytes and antibodies",
+      "B": "Only cytotoxic T cells",
+      "C": "Only NK cells",
+      "D": "Skin and mucous membranes"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibody-mediated response is humoral."
+  },
+  {
+    "source_sentence": "Cell mediated immunity is mediated by T-lymphocytes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which immunity is responsible for rejection of transplants?",
+    "options": {
+      "A": "Cell mediated immunity by T cells",
+      "B": "Humoral immunity by B cells",
+      "C": "Only innate immunity",
+      "D": "Passive immunity"
+    },
+    "correct_answer": "A",
+    "explanation": "T-cell mediated responses reject grafts."
+  },
+  {
+    "source_sentence": "Helper T-cells activate B-cells to produce antibodies",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Helper T cells primarily:",
+    "options": {
+      "A": "Activate B cells and other immune cells",
+      "B": "Secrete antibodies directly",
+      "C": "Form physical barriers",
+      "D": "Destroy RBCs in malaria"
+    },
+    "correct_answer": "A",
+    "explanation": "Helper T cells coordinate immune responses."
+  },
+  {
+    "source_sentence": "Cytotoxic T lymphocytes can kill virus-infected cells",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Cytotoxic T cells are important in:",
+    "options": {
+      "A": "Killing virus-infected cells and tumor cells",
+      "B": "Producing IgA in milk",
+      "C": "Forming mucus barriers",
+      "D": "Digesting bacteria in stomach"
+    },
+    "correct_answer": "A",
+    "explanation": "CTLs destroy infected or abnormal cells."
+  },
+  {
+    "source_sentence": "Each antibody molecule has two light chains and two heavy chains",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Structure of immunoglobulin includes:",
+    "options": {
+      "A": "Two light and two heavy chains",
+      "B": "Only light chains",
+      "C": "Only heavy chains",
+      "D": "Lipids and carbohydrates only"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibody = two heavy + two light chains."
+  },
+  {
+    "source_sentence": "IgA is present in secretions like colostrum, tears and saliva",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Antibody predominant in mucosal secretions is:",
+    "options": {
+      "A": "IgA",
+      "B": "IgM",
+      "C": "IgG",
+      "D": "IgD"
+    },
+    "correct_answer": "A",
+    "explanation": "IgA protects mucosal surfaces and is in colostrum."
+  },
+  {
+    "source_sentence": "IgM is the first antibody produced during primary response",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "First antibody produced in primary response is:",
+    "options": {
+      "A": "IgM",
+      "B": "IgG",
+      "C": "IgA",
+      "D": "IgE"
+    },
+    "correct_answer": "A",
+    "explanation": "IgM appears first in primary response."
+  },
+  {
+    "source_sentence": "IgG is the most abundant antibody in the serum",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Most abundant immunoglobulin in blood is:",
+    "options": {
+      "A": "IgG",
+      "B": "IgM",
+      "C": "IgA",
+      "D": "IgE"
+    },
+    "correct_answer": "A",
+    "explanation": "IgG predominates in serum."
+  },
+  {
+    "source_sentence": "IgE is associated with allergy",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Immediate hypersensitivity/allergy is mediated by:",
+    "options": {
+      "A": "IgE",
+      "B": "IgD",
+      "C": "IgM",
+      "D": "IgG only"
+    },
+    "correct_answer": "A",
+    "explanation": "IgE binds mast cells and causes allergy."
+  },
+  {
+    "source_sentence": "Memory cells are produced during primary response",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Vaccination provides protection mainly by:",
+    "options": {
+      "A": "Inducing memory cells without causing disease",
+      "B": "Providing ready-made antibodies only",
+      "C": "Destroying all T cells",
+      "D": "Blocking innate barriers"
+    },
+    "correct_answer": "A",
+    "explanation": "Vaccines create memory cells."
+  },
+  {
+    "source_sentence": "Active immunity is developed when antibodies are produced in the body",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Active immunity is acquired by:",
+    "options": {
+      "A": "Infection or vaccination",
+      "B": "Injecting ready-made antibodies",
+      "C": "Receiving colostrum only",
+      "D": "Blood transfusion"
+    },
+    "correct_answer": "A",
+    "explanation": "Active immunity is self-produced."
+  },
+  {
+    "source_sentence": "Passive immunity is given by ready-made antibodies",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which is an example of passive immunity?",
+    "options": {
+      "A": "Antibodies in mother's milk",
+      "B": "Vaccination with DPT",
+      "C": "A second exposure to antigen",
+      "D": "Memory cell formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Colostrum provides passive antibodies."
+  },
+  {
+    "source_sentence": "The memory cells are responsible for faster and stronger secondary response",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Secondary response is faster because:",
+    "options": {
+      "A": "Memory cells are already present",
+      "B": "No antigen is required",
+      "C": "Only innate immunity works",
+      "D": "Physical barriers increase"
+    },
+    "correct_answer": "A",
+    "explanation": "Memory cells trigger rapid response."
+  },
+  {
+    "source_sentence": "Allergic reactions are induced by allergens",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Histamine release in allergy occurs from:",
+    "options": {
+      "A": "Mast cells",
+      "B": "RBCs",
+      "C": "Platelets",
+      "D": "Fibroblasts"
+    },
+    "correct_answer": "A",
+    "explanation": "Mast cells release histamine."
+  },
+  {
+    "source_sentence": "Drugs like adrenaline and antihistamines provide relief from allergy",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Immediate relief in severe allergy is by:",
+    "options": {
+      "A": "Adrenaline and antihistamines",
+      "B": "Vaccines",
+      "C": "Antibiotics only",
+      "D": "Insulin injections"
+    },
+    "correct_answer": "A",
+    "explanation": "Adrenaline counters allergic reactions."
+  },
+  {
+    "source_sentence": "Autoimmune diseases arise due to failure of immune system to recognize self",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Autoimmune disease is caused by:",
+    "options": {
+      "A": "Immune system attacking self cells",
+      "B": "Only lack of antibodies",
+      "C": "Only bacterial infection",
+      "D": "Failure of skin barrier"
+    },
+    "correct_answer": "A",
+    "explanation": "Autoimmunity targets self antigens."
+  },
+  {
+    "source_sentence": "Rheumatoid arthritis is an autoimmune disease",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which is an autoimmune disease listed in NCERT?",
+    "options": {
+      "A": "Rheumatoid arthritis",
+      "B": "Malaria",
+      "C": "Typhoid",
+      "D": "Filariasis"
+    },
+    "correct_answer": "A",
+    "explanation": "RA is autoimmune."
+  },
+  {
+    "source_sentence": "Immunodeficiency results in susceptibility to infections",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "AIDS is caused due to deficiency of:",
+    "options": {
+      "A": "Helper T cells (CD4)",
+      "B": "B cells only",
+      "C": "Neutrophils only",
+      "D": "RBCs"
+    },
+    "correct_answer": "A",
+    "explanation": "HIV destroys CD4 T cells."
+  },
+  {
+    "source_sentence": "AIDS is caused by HIV, a retrovirus",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "HIV is classified as:",
+    "options": {
+      "A": "Retrovirus with RNA genome",
+      "B": "DNA bacterium",
+      "C": "Fungus",
+      "D": "Protozoan"
+    },
+    "correct_answer": "A",
+    "explanation": "HIV is an RNA retrovirus."
+  },
+  {
+    "source_sentence": "Retroviruses have an enzyme reverse transcriptase",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Enzyme required to synthesize DNA from viral RNA is:",
+    "options": {
+      "A": "Reverse transcriptase",
+      "B": "DNA polymerase I",
+      "C": "RNA polymerase II",
+      "D": "Ligase"
+    },
+    "correct_answer": "A",
+    "explanation": "Reverse transcriptase synthesizes DNA from RNA."
+  },
+  {
+    "source_sentence": "HIV enters macrophages and helper T lymphocytes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Primary host cells for HIV are:",
+    "options": {
+      "A": "Macrophages and CD4+ T cells",
+      "B": "RBCs only",
+      "C": "Neutrophils only",
+      "D": "Platelets"
+    },
+    "correct_answer": "A",
+    "explanation": "HIV targets CD4+ cells and macrophages."
+  },
+  {
+    "source_sentence": "Viral DNA is integrated into host genome",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "A key feature of HIV infection is:",
+    "options": {
+      "A": "Integration of viral DNA into host genome",
+      "B": "Replication only in RBCs",
+      "C": "No latency possible",
+      "D": "Direct lysis of bacteria"
+    },
+    "correct_answer": "A",
+    "explanation": "Provirus integrates into host genome."
+  },
+  {
+    "source_sentence": "AIDS patients suffer from opportunistic infections",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Loss of immunity in AIDS leads to:",
+    "options": {
+      "A": "Opportunistic infections like TB, pneumonia",
+      "B": "Immediate immunity to all pathogens",
+      "C": "Only allergy symptoms",
+      "D": "Overproduction of antibodies"
+    },
+    "correct_answer": "A",
+    "explanation": "Opportunistic infections occur due to immune suppression."
+  },
+  {
+    "source_sentence": "HIV spreads by unprotected sexual contact, blood transfusion, shared needles, mother to child",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "HIV is NOT transmitted by:",
+    "options": {
+      "A": "Sharing toilets or handshake",
+      "B": "Unprotected sex",
+      "C": "Contaminated needles",
+      "D": "Transfusion of infected blood"
+    },
+    "correct_answer": "A",
+    "explanation": "Casual contact does not transmit HIV."
+  },
+  {
+    "source_sentence": "ELISA is used for detecting HIV infection",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Common screening test for HIV is:",
+    "options": {
+      "A": "ELISA",
+      "B": "Widal test",
+      "C": "Mantoux test",
+      "D": "Gram staining"
+    },
+    "correct_answer": "A",
+    "explanation": "ELISA detects anti-HIV antibodies."
+  },
+  {
+    "source_sentence": "No cure for AIDS; preventive measures and ART",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Best strategy to control AIDS is:",
+    "options": {
+      "A": "Prevention and awareness",
+      "B": "Only antibiotics",
+      "C": "Vaccination is fully available",
+      "D": "Isolation of patients only"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT emphasizes prevention and awareness."
+  },
+  {
+    "source_sentence": "HIV multiplies in macrophages and releases virus to infect helper T cells",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Initial multiplication of HIV occurs in:",
+    "options": {
+      "A": "Macrophages",
+      "B": "RBCs",
+      "C": "Platelets",
+      "D": "Neurons"
+    },
+    "correct_answer": "A",
+    "explanation": "Macrophages act as reservoirs."
+  },
+  {
+    "source_sentence": "AIDS can be prevented by using disposable needles and screened blood",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "A correct preventive measure is:",
+    "options": {
+      "A": "Screening blood donors and using sterile needles",
+      "B": "Sharing syringes after boiling",
+      "C": "Only antibiotics",
+      "D": "Avoiding vaccination"
+    },
+    "correct_answer": "A",
+    "explanation": "Screening and sterile needles prevent HIV spread."
+  },
+  {
+    "source_sentence": "Malaria is caused by Plasmodium and transmitted by female Anopheles",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Vector of malaria is:",
+    "options": {
+      "A": "Female Anopheles mosquito",
+      "B": "Male Culex mosquito",
+      "C": "Housefly",
+      "D": "Sandfly"
+    },
+    "correct_answer": "A",
+    "explanation": "Female Anopheles transmits Plasmodium."
+  },
+  {
+    "source_sentence": "Plasmodium sporozoites enter the human body through bite",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Infective stage of Plasmodium injected by mosquito is:",
+    "options": {
+      "A": "Sporozoite",
+      "B": "Merozoite",
+      "C": "Gametocyte",
+      "D": "Zygote"
+    },
+    "correct_answer": "A",
+    "explanation": "Sporozoites are injected into humans."
+  },
+  {
+    "source_sentence": "Sporozoites initially infect liver cells",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "First site of multiplication of Plasmodium in humans is:",
+    "options": {
+      "A": "Liver cells (hepatocytes)",
+      "B": "RBCs",
+      "C": "Lungs",
+      "D": "Kidney cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Sporozoites invade liver first."
+  },
+  {
+    "source_sentence": "Merozoites infect RBCs",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which stage infects RBCs?",
+    "options": {
+      "A": "Merozoite",
+      "B": "Sporozoite",
+      "C": "Ookinete",
+      "D": "Oocyst"
+    },
+    "correct_answer": "A",
+    "explanation": "Merozoites enter RBCs."
+  },
+  {
+    "source_sentence": "RBCs rupture releasing haemozoin causing fever and chills",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "The periodic fever in malaria is due to:",
+    "options": {
+      "A": "Release of haemozoin",
+      "B": "Bacterial endotoxin",
+      "C": "Allergic IgE",
+      "D": "Interferons"
+    },
+    "correct_answer": "A",
+    "explanation": "Haemozoin toxin causes fever and chills."
+  },
+  {
+    "source_sentence": "Plasmodium falciparum is most virulent",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Most dangerous species causing malignant malaria is:",
+    "options": {
+      "A": "Plasmodium falciparum",
+      "B": "Plasmodium vivax",
+      "C": "Plasmodium malariae",
+      "D": "Plasmodium ovale"
+    },
+    "correct_answer": "A",
+    "explanation": "P. falciparum causes malignant malaria."
+  },
+  {
+    "source_sentence": "Female Anopheles ingests gametocytes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Stage taken up by mosquito from human blood is:",
+    "options": {
+      "A": "Gametocyte",
+      "B": "Sporozoite",
+      "C": "Merozoite",
+      "D": "Trophozoite"
+    },
+    "correct_answer": "A",
+    "explanation": "Gametocytes are ingested by mosquito."
+  },
+  {
+    "source_sentence": "Malaria commonly spreads in rainy season",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Best control measure for malaria is:",
+    "options": {
+      "A": "Destroy mosquito breeding sites",
+      "B": "Using antibiotics",
+      "C": "Only vaccination",
+      "D": "Screening blood"
+    },
+    "correct_answer": "A",
+    "explanation": "Vector control is key."
+  },
+  {
+    "source_sentence": "Typhoid is caused by Salmonella typhi",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Causative agent of typhoid is:",
+    "options": {
+      "A": "Salmonella typhi",
+      "B": "Streptococcus pneumoniae",
+      "C": "Rhinovirus",
+      "D": "Plasmodium vivax"
+    },
+    "correct_answer": "A",
+    "explanation": "Typhoid is caused by Salmonella typhi."
+  },
+  {
+    "source_sentence": "Typhoid symptoms include sustained high fever and intestinal ulcers",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Typhoid commonly affects the:",
+    "options": {
+      "A": "Intestine",
+      "B": "Brain only",
+      "C": "Skin only",
+      "D": "Bones only"
+    },
+    "correct_answer": "A",
+    "explanation": "Salmonella infects intestinal mucosa."
+  },
+  {
+    "source_sentence": "Widal test is for typhoid diagnosis",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Diagnostic test for typhoid is:",
+    "options": {
+      "A": "Widal test",
+      "B": "ELISA",
+      "C": "Mantoux",
+      "D": "Gram stain for spores"
+    },
+    "correct_answer": "A",
+    "explanation": "Widal test detects anti-Salmonella antibodies."
+  },
+  {
+    "source_sentence": "Mary Mallon was a healthy carrier of typhoid",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Healthy carrier associated with typhoid is:",
+    "options": {
+      "A": "Mary Mallon (Typhoid Mary)",
+      "B": "Robert Koch",
+      "C": "Paul Ehrlich",
+      "D": "Alexander Fleming"
+    },
+    "correct_answer": "A",
+    "explanation": "Mary Mallon was an asymptomatic carrier."
+  },
+  {
+    "source_sentence": "Pneumonia is caused by Streptococcus pneumoniae",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Causative organism of pneumonia commonly is:",
+    "options": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Salmonella typhi",
+      "C": "Plasmodium",
+      "D": "HIV"
+    },
+    "correct_answer": "A",
+    "explanation": "S. pneumoniae causes pneumonia."
+  },
+  {
+    "source_sentence": "Pneumonia affects alveoli leading to fluid accumulation",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "In pneumonia, the affected part is:",
+    "options": {
+      "A": "Alveoli filled with fluid",
+      "B": "Kidney tubules",
+      "C": "Liver sinusoids",
+      "D": "Brain meninges only"
+    },
+    "correct_answer": "A",
+    "explanation": "Alveoli get filled with fluid/pus."
+  },
+  {
+    "source_sentence": "Common cold is caused by rhinoviruses",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Causative agent of common cold is:",
+    "options": {
+      "A": "Rhinovirus",
+      "B": "HIV",
+      "C": "Plasmodium",
+      "D": "Salmonella"
+    },
+    "correct_answer": "A",
+    "explanation": "Rhinoviruses cause common cold."
+  },
+  {
+    "source_sentence": "Common cold is not treated by antibiotics",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Antibiotics are ineffective in common cold because:",
+    "options": {
+      "A": "It is caused by virus",
+      "B": "It is caused by fungus",
+      "C": "It is autoimmune",
+      "D": "It is due to protozoa"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibiotics do not act on viruses."
+  },
+  {
+    "source_sentence": "Amoebiasis is caused by Entamoeba histolytica",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Causative agent of amoebiasis is:",
+    "options": {
+      "A": "Entamoeba histolytica",
+      "B": "Giardia lamblia",
+      "C": "Plasmodium falciparum",
+      "D": "Taenia solium"
+    },
+    "correct_answer": "A",
+    "explanation": "Amoebiasis is due to E. histolytica."
+  },
+  {
+    "source_sentence": "Amoebiasis spreads through contaminated food and water",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Mode of transmission of amoebiasis is:",
+    "options": {
+      "A": "Contaminated food and water",
+      "B": "Mosquito bite",
+      "C": "Airborne droplets",
+      "D": "Sexual contact only"
+    },
+    "correct_answer": "A",
+    "explanation": "Feco-oral transmission in amoebiasis."
+  },
+  {
+    "source_sentence": "Ascariasis is caused by Ascaris lumbricoides",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Causative organism of ascariasis is:",
+    "options": {
+      "A": "Ascaris lumbricoides",
+      "B": "Wuchereria bancrofti",
+      "C": "Microsporum",
+      "D": "Plasmodium"
+    },
+    "correct_answer": "A",
+    "explanation": "Ascaris causes ascariasis."
+  },
+  {
+    "source_sentence": "Ascariasis symptoms include abdominal pain and diarrhoea",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Ascariasis mainly affects the:",
+    "options": {
+      "A": "Intestine",
+      "B": "Lungs only",
+      "C": "Brain",
+      "D": "Skin"
+    },
+    "correct_answer": "A",
+    "explanation": "Ascaris lives in intestine."
+  },
+  {
+    "source_sentence": "Filariasis is caused by Wuchereria and transmitted by Culex",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Vector of filariasis is:",
+    "options": {
+      "A": "Culex mosquito",
+      "B": "Anopheles mosquito",
+      "C": "Sandfly",
+      "D": "Housefly"
+    },
+    "correct_answer": "A",
+    "explanation": "Culex transmits filariasis."
+  },
+  {
+    "source_sentence": "Elephantiasis is a symptom of filariasis",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Elephantiasis results from infection by:",
+    "options": {
+      "A": "Wuchereria bancrofti",
+      "B": "Ascaris",
+      "C": "Plasmodium vivax",
+      "D": "Rhinovirus"
+    },
+    "correct_answer": "A",
+    "explanation": "Filariasis causes elephantiasis."
+  },
+  {
+    "source_sentence": "Ringworm is caused by fungi like Microsporum, Trichophyton",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Ringworm disease is caused by:",
+    "options": {
+      "A": "Fungal pathogens",
+      "B": "Protozoa",
+      "C": "Bacteria",
+      "D": "Viruses only"
+    },
+    "correct_answer": "A",
+    "explanation": "Ringworm is a fungal infection."
+  },
+  {
+    "source_sentence": "Ringworm affects skin, scalp, nails and thrives in moist areas",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Ringworm is characterized by:",
+    "options": {
+      "A": "Circular red lesions with itching",
+      "B": "High fever only",
+      "C": "Liver failure",
+      "D": "Anemia only"
+    },
+    "correct_answer": "A",
+    "explanation": "Fungal ringworm gives circular lesions."
+  },
+  {
+    "source_sentence": "Cancer is characterized by uncontrolled cell division",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Cancer results from:",
+    "options": {
+      "A": "Uncontrolled cell division",
+      "B": "Normal apoptosis only",
+      "C": "Decrease in mitosis",
+      "D": "Failure of respiration only"
+    },
+    "correct_answer": "A",
+    "explanation": "Cancer is uncontrolled proliferation."
+  },
+  {
+    "source_sentence": "Tumor cells show loss of contact inhibition",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Malignant cells are characterized by:",
+    "options": {
+      "A": "Loss of contact inhibition",
+      "B": "Presence of cell wall",
+      "C": "No mitosis",
+      "D": "Only slow division"
+    },
+    "correct_answer": "A",
+    "explanation": "Contact inhibition is lost in cancer cells."
+  },
+  {
+    "source_sentence": "Benign tumors remain localized",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Benign tumor is:",
+    "options": {
+      "A": "Localized and does not metastasize",
+      "B": "Rapidly spreading to other tissues",
+      "C": "Always fatal",
+      "D": "Same as malignant"
+    },
+    "correct_answer": "A",
+    "explanation": "Benign tumors remain confined."
+  },
+  {
+    "source_sentence": "Chemical carcinogens like tobacco smoke are important causes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Carcinogens can be:",
+    "options": {
+      "A": "Chemical, physical or biological agents",
+      "B": "Only bacteria",
+      "C": "Only viruses",
+      "D": "Only nutritional deficiencies"
+    },
+    "correct_answer": "A",
+    "explanation": "Carcinogens include chemical/physical/biological."
+  },
+  {
+    "source_sentence": "Oncogenic viruses like HPV can cause cancer",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which virus is oncogenic as per NCERT?",
+    "options": {
+      "A": "Human papilloma virus",
+      "B": "Rhinovirus",
+      "C": "HIV",
+      "D": "Influenza virus"
+    },
+    "correct_answer": "A",
+    "explanation": "HPV is oncogenic."
+  },
+  {
+    "source_sentence": "Radiation and UV rays are physical carcinogens",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Physical carcinogen example is:",
+    "options": {
+      "A": "UV radiation",
+      "B": "Staphylococcus toxin",
+      "C": "Antibiotic",
+      "D": "Vaccine antigen"
+    },
+    "correct_answer": "A",
+    "explanation": "UV radiation is a physical carcinogen."
+  },
+  {
+    "source_sentence": "Cancer detection can involve biopsy and histopathology",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Biopsy is used in cancer to:",
+    "options": {
+      "A": "Examine tissue for malignancy",
+      "B": "Measure blood pressure",
+      "C": "Detect HIV antibodies",
+      "D": "Kill tumor cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Biopsy checks malignant changes."
+  },
+  {
+    "source_sentence": "CT and MRI are used for imaging tumors",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Which technique uses magnetic fields for tumor imaging?",
+    "options": {
+      "A": "MRI",
+      "B": "X-ray only",
+      "C": "ELISA",
+      "D": "Widal test"
+    },
+    "correct_answer": "A",
+    "explanation": "MRI uses magnetic fields and radio waves."
+  },
+  {
+    "source_sentence": "Cancer treatment includes surgery, radiotherapy, chemotherapy, immunotherapy",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Therapy that uses drugs to kill cancer cells is:",
+    "options": {
+      "A": "Chemotherapy",
+      "B": "Radiotherapy",
+      "C": "Immunotherapy",
+      "D": "Physiotherapy"
+    },
+    "correct_answer": "A",
+    "explanation": "Chemotherapy uses chemical drugs."
+  },
+  {
+    "source_sentence": "Interferons are used in some cancers as biological response modifiers",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Immunotherapy for cancer can involve:",
+    "options": {
+      "A": "Interferons",
+      "B": "Only antibiotics",
+      "C": "Widal vaccine",
+      "D": "Insulin"
+    },
+    "correct_answer": "A",
+    "explanation": "Interferons act as biological response modifiers."
+  },
+  {
+    "source_sentence": "Tumor cells can evade immune responses",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Immune surveillance in cancer means:",
+    "options": {
+      "A": "Immune system can recognize and destroy tumor cells",
+      "B": "Cancer cells are never detected",
+      "C": "Only antibodies act",
+      "D": "Only RBCs attack tumors"
+    },
+    "correct_answer": "A",
+    "explanation": "Immune surveillance detects abnormal cells."
+  },
+  {
+    "source_sentence": "Cannabinoids are obtained from Cannabis sativa",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Bhang, ganja and charas are obtained from:",
+    "options": {
+      "A": "Cannabis sativa",
+      "B": "Papaver somniferum",
+      "C": "Erythroxylum coca",
+      "D": "Nicotiana tabacum"
+    },
+    "correct_answer": "A",
+    "explanation": "Cannabis products come from Cannabis sativa."
+  },
+  {
+    "source_sentence": "Cannabinoids act on cannabinoid receptors in the brain",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Cannabinoids primarily affect the:",
+    "options": {
+      "A": "Central nervous system",
+      "B": "Kidney only",
+      "C": "Liver only",
+      "D": "Bone marrow"
+    },
+    "correct_answer": "A",
+    "explanation": "Cannabinoids act on brain receptors."
+  },
+  {
+    "source_sentence": "Heroin is diacetylmorphine and a depressant",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Heroin (smack) is:",
+    "options": {
+      "A": "Diacetylmorphine, depressant",
+      "B": "Stimulant from coca",
+      "C": "Hallucinogen from fungi only",
+      "D": "Antibiotic"
+    },
+    "correct_answer": "A",
+    "explanation": "Heroin is an opioid depressant."
+  },
+  {
+    "source_sentence": "Cocaine is obtained from coca plant and is a stimulant",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Cocaine is extracted from:",
+    "options": {
+      "A": "Erythroxylum coca",
+      "B": "Papaver somniferum",
+      "C": "Cannabis sativa",
+      "D": "Digitalis"
+    },
+    "correct_answer": "A",
+    "explanation": "Cocaine comes from coca plant."
+  },
+  {
+    "source_sentence": "Cocaine interferes with dopamine reuptake",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Action of cocaine is to:",
+    "options": {
+      "A": "Block dopamine reuptake in synapses",
+      "B": "Increase acetylcholinesterase",
+      "C": "Destroy RBCs",
+      "D": "Decrease synaptic transmission"
+    },
+    "correct_answer": "A",
+    "explanation": "Cocaine blocks dopamine reuptake."
+  },
+  {
+    "source_sentence": "Drugs can lead to dependence and withdrawal symptoms",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Dependence is characterized by:",
+    "options": {
+      "A": "Withdrawal symptoms on discontinuation",
+      "B": "Complete immunity to disease",
+      "C": "Permanent cure of illness",
+      "D": "Only fever"
+    },
+    "correct_answer": "A",
+    "explanation": "Dependence leads to withdrawal symptoms."
+  },
+  {
+    "source_sentence": "Peer pressure and curiosity are major causes of drug abuse in adolescents",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Common cause of drug abuse in adolescents is:",
+    "options": {
+      "A": "Peer pressure",
+      "B": "Vaccination",
+      "C": "Balanced diet",
+      "D": "Regular exercise"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT lists peer pressure as a major factor."
+  },
+  {
+    "source_sentence": "Needle sharing can transmit HIV",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Abuse of injectable drugs increases risk of:",
+    "options": {
+      "A": "HIV and hepatitis transmission",
+      "B": "Improved immunity",
+      "C": "Faster wound healing",
+      "D": "Malaria only"
+    },
+    "correct_answer": "A",
+    "explanation": "Needle sharing spreads blood-borne infections."
+  },
+  {
+    "source_sentence": "Smoking tobacco is associated with lung cancer and emphysema",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Tobacco smoking is a major risk for:",
+    "options": {
+      "A": "Lung cancer and emphysema",
+      "B": "Malaria",
+      "C": "Amoebiasis",
+      "D": "Typhoid"
+    },
+    "correct_answer": "A",
+    "explanation": "Smoking damages lungs and increases cancer risk."
+  },
+  {
+    "source_sentence": "Tobacco contains nicotine and tar",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Nicotine in tobacco mainly affects:",
+    "options": {
+      "A": "Central nervous system",
+      "B": "RBC count only",
+      "C": "Skin only",
+      "D": "Bone growth"
+    },
+    "correct_answer": "A",
+    "explanation": "Nicotine is a CNS stimulant."
+  },
+  {
+    "source_sentence": "Alcohol can lead to impaired judgment and dependence",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Alcohol is a:",
+    "options": {
+      "A": "Depressant of central nervous system",
+      "B": "Plant hormone",
+      "C": "Antibody",
+      "D": "Vitamin"
+    },
+    "correct_answer": "A",
+    "explanation": "Alcohol depresses CNS functions."
+  },
+  {
+    "source_sentence": "Antigens are substances that induce immune response",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Substance that induces immune response is called:",
+    "options": {
+      "A": "Antigen",
+      "B": "Antibody",
+      "C": "Enzyme",
+      "D": "Hormone"
+    },
+    "correct_answer": "A",
+    "explanation": "Antigens trigger immune response."
+  },
+  {
+    "source_sentence": "Antibodies bind specifically to antigens",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Specificity of antibody is due to:",
+    "options": {
+      "A": "Variable regions of heavy and light chains",
+      "B": "Constant region only",
+      "C": "Carbohydrate coat",
+      "D": "Lipid tail"
+    },
+    "correct_answer": "A",
+    "explanation": "Variable regions bind antigen."
+  },
+  {
+    "source_sentence": "Clonal selection leads to proliferation of specific lymphocytes",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Clonal selection theory explains:",
+    "options": {
+      "A": "Specific lymphocytes proliferate after antigen exposure",
+      "B": "All lymphocytes respond equally",
+      "C": "Antibodies are preformed",
+      "D": "Skin barrier formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Specific clones expand on antigen exposure."
+  },
+  {
+    "source_sentence": "Vaccines are often made from inactivated or attenuated pathogens",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "A vaccine generally contains:",
+    "options": {
+      "A": "Weakened or inactivated pathogen or its antigen",
+      "B": "Live virulent pathogen only",
+      "C": "Only antibiotics",
+      "D": "Only interferons"
+    },
+    "correct_answer": "A",
+    "explanation": "Vaccines are attenuated/inactivated antigens."
+  },
+  {
+    "source_sentence": "Immunisation against multiple diseases in children includes DPT",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "DPT vaccine protects against:",
+    "options": {
+      "A": "Diphtheria, pertussis, tetanus",
+      "B": "Dengue, polio, typhoid",
+      "C": "Diphtheria, polio, typhoid",
+      "D": "Rabies, polio, tetanus"
+    },
+    "correct_answer": "A",
+    "explanation": "DPT = diphtheria, pertussis, tetanus."
+  },
+  {
+    "source_sentence": "Polio vaccine is used for preventing poliomyelitis",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Polio vaccine is an example of:",
+    "options": {
+      "A": "Active artificial immunity",
+      "B": "Passive immunity",
+      "C": "Natural passive immunity",
+      "D": "Autoimmune response"
+    },
+    "correct_answer": "A",
+    "explanation": "Vaccines induce active immunity."
+  },
+  {
+    "source_sentence": "Colostrum contains IgA antibodies",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Why is colostrum important for newborn?",
+    "options": {
+      "A": "Provides passive IgA antibodies",
+      "B": "Supplies hemoglobin",
+      "C": "Contains live vaccines only",
+      "D": "Suppresses immunity"
+    },
+    "correct_answer": "A",
+    "explanation": "Colostrum gives passive immunity."
+  },
+  {
+    "source_sentence": "Cytokines are proteins released by macrophages in response to infection",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Cytokines chiefly:",
+    "options": {
+      "A": "Mediate inflammation and recruit immune cells",
+      "B": "Carry oxygen",
+      "C": "Form blood clots",
+      "D": "Digest food in stomach"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytokines signal immune response."
+  },
+  {
+    "source_sentence": "Allergies are treated with antihistamines",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Antihistamines are used because they block:",
+    "options": {
+      "A": "Histamine action",
+      "B": "Antibody formation",
+      "C": "Macrophage activity",
+      "D": "B cell production"
+    },
+    "correct_answer": "A",
+    "explanation": "They counter histamine effects."
+  },
+  {
+    "source_sentence": "AIDS has a long incubation period",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "A characteristic of HIV infection is:",
+    "options": {
+      "A": "Long incubation and latency period",
+      "B": "Immediate severe symptoms within hours",
+      "C": "No effect on immunity",
+      "D": "Complete cure by antibiotics"
+    },
+    "correct_answer": "A",
+    "explanation": "HIV has a long incubation period."
+  },
+  {
+    "source_sentence": "Opportunistic infections are a hallmark of AIDS",
+    "chapter": "Chapter 7: Human Health and Disease",
+    "question": "Example of opportunistic infection in AIDS is:",
+    "options": {
+      "A": "Pneumonia and tuberculosis",
+      "B": "Typhoid only",
+      "C": "Ringworm only",
+      "D": "Common cold only"
+    },
+    "correct_answer": "A",
+    "explanation": "AIDS patients are prone to TB and pneumonia."
+  }
+]

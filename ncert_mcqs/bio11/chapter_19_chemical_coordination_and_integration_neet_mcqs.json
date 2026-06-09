@@ -1,0 +1,1224 @@
+[
+  {
+    "source_sentence": "Over-secretion of GH stimulates abnormal growth of the body leading to gigantism and low secretion of GH results in stunted growth resulting in pituitary dwarfism.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Excess GH secretion in childhood causes:",
+    "options": {
+      "A": "Gigantism",
+      "B": "Cretinism",
+      "C": "Goitre only",
+      "D": "Addison's disease"
+    },
+    "correct_answer": "A",
+    "explanation": "Childhood GH excess produces gigantism."
+  },
+  {
+    "source_sentence": "Hypothyroidism during pregnancy causes defective development and maturation of the growing baby leading to stunted growth (cretinism), mental retardation",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Maternal hypothyroidism may cause fetal:",
+    "options": {
+      "A": "Cretinism with mental retardation",
+      "B": "Gigantism",
+      "C": "Acromegaly",
+      "D": "Tetany only"
+    },
+    "correct_answer": "A",
+    "explanation": "Fetal hypothyroidism leads to cretinism."
+  },
+  {
+    "source_sentence": "hyperthyroidism which adversely affects the body physiology. Exophthalmic goitre is a form of hyperthyroidism, characterised by enlargement of the thyroid gland, protrusion of the eyeballs",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Graves' disease (exophthalmic goitre) features:",
+    "options": {
+      "A": "Hyperthyroidism, goitre, exophthalmos, weight loss",
+      "B": "Only hypoglycemia",
+      "C": "Iodine deficiency goitre only",
+      "D": "Addison's fatigue without thyroid change"
+    },
+    "correct_answer": "A",
+    "explanation": "Graves' = hyperthyroidism with eye protrusion and weight loss."
+  },
+  {
+    "source_sentence": "Prolonged hyperglycemia leads to a complex disorder called diabetes mellitus which is associated with loss of glucose through urine",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Diabetes mellitus is characterised by:",
+    "options": {
+      "A": "Chronic hyperglycemia and glucosuria",
+      "B": "Only water loss without glucose",
+      "C": "Iodine deficiency",
+      "D": "Low blood Ca²⁺ spasms"
+    },
+    "correct_answer": "A",
+    "explanation": "Diabetes mellitus involves persistent high blood glucose and urine glucose."
+  },
+  {
+    "source_sentence": "Which hormonal deficiency is responsible for the following: (a) Diabetes mellitus (b) Goitre (c) Cretinism",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Cretinism is caused by deficiency of:",
+    "options": {
+      "A": "Thyroid hormones during development",
+      "B": "Insulin only in adults",
+      "C": "Adrenaline only",
+      "D": "PTH exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Thyroid hormone lack in development causes cretinism."
+  },
+  {
+    "source_sentence": "Diabetes mellitus (b) Goitre (c) Cretinism",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Goitre is commonly linked to deficiency of:",
+    "options": {
+      "A": "Iodine affecting thyroid hormone synthesis",
+      "B": "Insulin",
+      "C": "Glucagon only",
+      "D": "Oxytocin"
+    },
+    "correct_answer": "A",
+    "explanation": "Iodine lack impairs thyroid hormone production → goitre."
+  },
+  {
+    "source_sentence": "Diabetes mellitus",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Insulin deficiency/resistance causes:",
+    "options": {
+      "A": "Diabetes mellitus",
+      "B": "Diabetes insipidus",
+      "C": "Tetany",
+      "D": "Myasthenia gravis"
+    },
+    "correct_answer": "A",
+    "explanation": "Diabetes mellitus stems from insulin lack or resistance."
+  },
+  {
+    "source_sentence": "Pars distalis region of pituitary, commonly called anterior pituitary, produces growth hormone (GH), prolactin (PRL), thyroid stimulating hormone (TSH), adrenocorticotrophic hormone (ACTH), luteinizing hormone (LH) and follicle stimulating hormone (FSH).",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Anterior pituitary (pars distalis) secretes:",
+    "options": {
+      "A": "GH, PRL, TSH, ACTH, LH and FSH",
+      "B": "Only oxytocin and ADH",
+      "C": "Only insulin and glucagon",
+      "D": "Only thyroxine"
+    },
+    "correct_answer": "A",
+    "explanation": "Pars distalis releases six trophic hormones."
+  },
+  {
+    "source_sentence": "Neurohypophysis (pars nervosa) also known as posterior pituitary, stores and releases two hormones called oxytocin and vasopressin",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Posterior pituitary stores and releases:",
+    "options": {
+      "A": "Oxytocin and vasopressin (ADH)",
+      "B": "GH and prolactin",
+      "C": "Insulin and glucagon",
+      "D": "Thyroxine and calcitonin"
+    },
+    "correct_answer": "A",
+    "explanation": "Neurohypophysis releases oxytocin and ADH."
+  },
+  {
+    "source_sentence": "somatostatin from the hypothalamus inhibits the release of growth hormone from the pituitary.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Somatostatin from hypothalamus:",
+    "options": {
+      "A": "Inhibits GH release from pituitary",
+      "B": "Stimulates TSH secretion always",
+      "C": "Triggers insulin release from beta cells",
+      "D": "Causes bone resorption"
+    },
+    "correct_answer": "A",
+    "explanation": "Somatostatin is inhibitory to GH."
+  },
+  {
+    "source_sentence": "Gonadotrophin releasing hormone (GnRH) stimulates the pituitary synthesis and release of gonadotrophins.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "GnRH acts to:",
+    "options": {
+      "A": "Stimulate pituitary gonadotrophin release",
+      "B": "Block all pituitary hormones",
+      "C": "Increase blood Ca²⁺ directly",
+      "D": "Inhibit uterine contraction"
+    },
+    "correct_answer": "A",
+    "explanation": "GnRH stimulates LH and FSH release."
+  },
+  {
+    "source_sentence": "Oxytocin acts on the smooth muscles of our body and stimulates their contraction. In females, it stimulates a vigorous contraction of uterus at the time of child birth, and milk ejection from the mammary gland.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Oxytocin functions include:",
+    "options": {
+      "A": "Uterine contraction during childbirth and milk ejection",
+      "B": "Only blood glucose lowering",
+      "C": "Thyroid hormone synthesis",
+      "D": "RBC destruction"
+    },
+    "correct_answer": "A",
+    "explanation": "Oxytocin contracts uterus and aids milk ejection reflex."
+  },
+  {
+    "source_sentence": "These hormones originating in the hypothalamic neurons, pass through axons and are released from their nerve endings. These hormones reach the pituitary gland through a portal circulatory system",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hypothalamic releasing hormones reach anterior pituitary via:",
+    "options": {
+      "A": "Hypophyseal portal circulation",
+      "B": "Pulmonary artery only",
+      "C": "Lymphatic ducts exclusively",
+      "D": "Synovial circulation"
+    },
+    "correct_answer": "A",
+    "explanation": "Portal system carries hypothalamic hormones to adenohypophysis."
+  },
+  {
+    "source_sentence": "The thyroid gland is composed of follicles and stromal tissues. Each thyroid follicle is composed of follicular cells, enclosing a cavity.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Thyroid hormones T₃ and T₄ are synthesised by:",
+    "options": {
+      "A": "Follicular cells of thyroid",
+      "B": "Parafollicular cells only for both",
+      "C": "Adrenal medulla",
+      "D": "Leydig cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Follicular cells produce T₃/T₄."
+  },
+  {
+    "source_sentence": "The adrenal medulla secretes two hormones called adrenaline or epinephrine and noradrenaline or norepinephrine.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Catecholamines are secreted from:",
+    "options": {
+      "A": "Adrenal medulla",
+      "B": "Thyroid follicles",
+      "C": "Pancreatic beta cells",
+      "D": "Anterior pituitary only"
+    },
+    "correct_answer": "A",
+    "explanation": "Medulla releases adrenaline and noradrenaline."
+  },
+  {
+    "source_sentence": "In our body, cortisol is the main glucocorticoid.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Main glucocorticoid in humans is:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Aldosterone",
+      "C": "Insulin",
+      "D": "Melatonin"
+    },
+    "correct_answer": "A",
+    "explanation": "Cortisol is primary glucocorticoid."
+  },
+  {
+    "source_sentence": "Aldosterone is the main mineralocorticoid in our body.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Aldosterone primarily helps maintain:",
+    "options": {
+      "A": "Na⁺/water reabsorption and K⁺ excretion",
+      "B": "Only blood glucose via glycogenesis",
+      "C": "Thyroid colloid formation",
+      "D": "Milk protein synthesis only"
+    },
+    "correct_answer": "A",
+    "explanation": "Aldosterone regulates electrolytes and fluid volume."
+  },
+  {
+    "source_sentence": "Pancreas is a composite gland which acts as both exocrine and endocrine gland.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Human pancreas is:",
+    "options": {
+      "A": "Composite exocrine and endocrine gland",
+      "B": "Only endocrine",
+      "C": "Only exocrine",
+      "D": "Only neural tissue"
+    },
+    "correct_answer": "A",
+    "explanation": "Pancreas has digestive exocrine and hormonal endocrine parts."
+  },
+  {
+    "source_sentence": "The pineal gland is located on the dorsal side of forebrain. Pineal secretes a hormone called melatonin.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Melatonin is secreted by:",
+    "options": {
+      "A": "Pineal gland",
+      "B": "Adrenal cortex",
+      "C": "Thymus",
+      "D": "Parathyroid"
+    },
+    "correct_answer": "A",
+    "explanation": "Pineal releases melatonin."
+  },
+  {
+    "source_sentence": "The thymus plays a major role in the development of the immune system. This gland secretes the peptide hormones called thymosins.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Thymosins are involved in:",
+    "options": {
+      "A": "T-lymphocyte differentiation and immunity",
+      "B": "Only water reabsorption in kidney",
+      "C": "Only uterine contraction",
+      "D": "Only RBC destruction"
+    },
+    "correct_answer": "A",
+    "explanation": "Thymosins support T-cell development and immunity."
+  },
+  {
+    "source_sentence": "Thymus is degenerated in old individuals resulting in a decreased production of thymosins.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Weakened immune responses in old age correlate with:",
+    "options": {
+      "A": "Thymus degeneration and less thymosin",
+      "B": "Excess insulin only",
+      "C": "Hyperthyroidism only",
+      "D": "Increased GH always"
+    },
+    "correct_answer": "A",
+    "explanation": "Age-related thymic involution reduces thymosins."
+  },
+  {
+    "source_sentence": "Estrogen is synthesised and secreted mainly by the growing ovarian follicles.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Estrogen in females is mainly from:",
+    "options": {
+      "A": "Growing ovarian follicles",
+      "B": "Corpus luteum only for all estrogen",
+      "C": "Prostate gland",
+      "D": "Pineal exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Developing follicles secrete estrogen."
+  },
+  {
+    "source_sentence": "Progesterone supports pregnancy.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Major progestational hormone supporting pregnancy:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Glucagon",
+      "C": "PTH",
+      "D": "Noradrenaline only"
+    },
+    "correct_answer": "A",
+    "explanation": "Progesterone maintains pregnancy."
+  },
+  {
+    "source_sentence": "LH induces ovulation of fully mature follicles (graafian follicles) and maintains the corpus luteum",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "LH surge in females triggers:",
+    "options": {
+      "A": "Ovulation of Graafian follicle",
+      "B": "Only milk ejection",
+      "C": "Bone suture fusion",
+      "D": "Thyroid colloid exhaustion only"
+    },
+    "correct_answer": "A",
+    "explanation": "LH induces ovulation and maintains corpus luteum."
+  },
+  {
+    "source_sentence": "MSH acts on the melanocytes (melanin containing cells) and regulates pigmentation of the skin.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Melanocyte stimulating hormone affects:",
+    "options": {
+      "A": "Skin pigmentation",
+      "B": "Bone length only",
+      "C": "Synovial fluid volume only",
+      "D": "Spinal curvature exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "MSH regulates melanin pigmentation."
+  },
+  {
+    "source_sentence": "The juxtaglomerular cells of kidney produce a peptide hormone called erythropoietin which stimulates erythropoiesis",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Renal juxtaglomerular cells secrete which haematopoietic hormone?",
+    "options": {
+      "A": "Erythropoietin",
+      "B": "Thyrocalcitonin",
+      "C": "Glucagon",
+      "D": "Prolactin"
+    },
+    "correct_answer": "A",
+    "explanation": "Kidney JG cells release erythropoietin for RBC formation."
+  },
+  {
+    "source_sentence": "Hormones which interact with intracellular receptors (e.g., steroid hormones, iodothyronines, etc.) mostly regulate gene expression",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Steroid hormones generally act by:",
+    "options": {
+      "A": "Binding intracellular receptors and regulating gene expression",
+      "B": "Forming synaptic vesicles only",
+      "C": "Sliding actin over myosin",
+      "D": "Blocking all ion channels permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "Steroids enter cells and modulate gene transcription."
+  },
+  {
+    "source_sentence": "Each receptor is specific to one hormone only and hence receptors are specific.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hormone specificity at target tissue is due to:",
+    "options": {
+      "A": "Specific hormone receptors",
+      "B": "Random binding to any protein",
+      "C": "Absence of receptors always",
+      "D": "Only nerve myelination"
+    },
+    "correct_answer": "A",
+    "explanation": "One hormone binds its specific receptor."
+  },
+  {
+    "source_sentence": "The neural coordination is fast but short-lived. As the nerve fibres do not innervate all cells of the body and the cellular functions need to be continuously regulated; a special kind of coordination and integration has to be provided. This function is carried out by hormones.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Endocrine coordination complements neural system because hormones:",
+    "options": {
+      "A": "Provide slower, sustained chemical regulation of all cells",
+      "B": "Replace all neurons",
+      "C": "Are faster than nerve impulses always",
+      "D": "Act only at synapses"
+    },
+    "correct_answer": "A",
+    "explanation": "Hormones regulate cells not directly innervated, over longer duration."
+  },
+  {
+    "source_sentence": "Match the following:\nColumn I: (a) T₄ (b) PTH (c) GnRH (d) LH\nColumn II: (i) Hypothalamus (ii) Thyroid (iii) Pituitary (iv) Parathyroid",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Match hormone with primary source:\n(a) T₄ (b) PTH (c) GnRH (d) LH\n(i) Hypothalamus (ii) Thyroid (iii) Pituitary (iv) Parathyroid",
+    "options": {
+      "A": "a-ii, b-iv, c-i, d-iii",
+      "B": "a-iv, b-ii, c-iii, d-i",
+      "C": "a-i, b-iii, c-ii, d-iv",
+      "D": "a-iii, b-i, c-iv, d-ii"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT exercise match: T₄-thyroid, PTH-parathyroid, GnRH-hypothalamus, LH-pituitary."
+  },
+  {
+    "source_sentence": "Hyperglycemic hormone and hypoglycemic hormone",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hyperglycemic and hypoglycemic hormones respectively:",
+    "options": {
+      "A": "Glucagon and insulin",
+      "B": "Insulin and glucagon",
+      "C": "PTH and calcitonin",
+      "D": "ADH and oxytocin"
+    },
+    "correct_answer": "A",
+    "explanation": "Glucagon raises glucose; insulin lowers it."
+  },
+  {
+    "source_sentence": "Hypercalcemic hormone",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Example of hypercalcemic hormone:",
+    "options": {
+      "A": "PTH",
+      "B": "Calcitonin",
+      "C": "Insulin",
+      "D": "ADH"
+    },
+    "correct_answer": "A",
+    "explanation": "PTH increases blood calcium."
+  },
+  {
+    "source_sentence": "Gonadotrophic hormones",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Gonadotrophins include:",
+    "options": {
+      "A": "LH and FSH",
+      "B": "TSH and ACTH only",
+      "C": "Insulin and glucagon",
+      "D": "ANF and erythropoietin"
+    },
+    "correct_answer": "A",
+    "explanation": "LH and FSH are gonadotrophins."
+  },
+  {
+    "source_sentence": "Progestational hormone",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Progestational hormone example:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Glucagon",
+      "C": "Adrenaline",
+      "D": "TSH"
+    },
+    "correct_answer": "A",
+    "explanation": "Progesterone supports pregnancy."
+  },
+  {
+    "source_sentence": "Blood pressure lowering hormone",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hormone that decreases blood pressure:",
+    "options": {
+      "A": "ANF",
+      "B": "Aldosterone",
+      "C": "Adrenaline",
+      "D": "PTH"
+    },
+    "correct_answer": "A",
+    "explanation": "ANF lowers blood pressure."
+  },
+  {
+    "source_sentence": "Androgens and estrogens",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Androgens and estrogens are examples of:",
+    "options": {
+      "A": "Gonadal steroid hormones",
+      "B": "Peptide hormones of pancreas only",
+      "C": "Iodothyronines only",
+      "D": "Catecholamines only"
+    },
+    "correct_answer": "A",
+    "explanation": "Testosterone/androgens and estrogens are gonadal steroids."
+  },
+  {
+    "source_sentence": "Glucocorticoids stimulate gluconeogenesis, lipolysis and proteolysis",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Cortisol increases blood nutrients by promoting:",
+    "options": {
+      "A": "Gluconeogenesis, lipolysis and proteolysis",
+      "B": "Only glycogenesis in all cells",
+      "C": "Only insulin secretion from thyroid",
+      "D": "Only bone mineralisation without resorption"
+    },
+    "correct_answer": "A",
+    "explanation": "Glucocorticoids mobilise substrates for glucose production."
+  },
+  {
+    "source_sentence": "Corticoids, which regulate the balance of water and electrolytes in our body are called mineralocorticoids.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Electrolyte and water balance is regulated mainly by:",
+    "options": {
+      "A": "Mineralocorticoids like aldosterone",
+      "B": "Only melatonin",
+      "C": "Only thymosins",
+      "D": "Only gastrin"
+    },
+    "correct_answer": "A",
+    "explanation": "Mineralocorticoids control Na⁺/K⁺ and water balance."
+  },
+  {
+    "source_sentence": "Both the hormones increase alertness, pupillary dilation, piloerection (raising of hairs), sweating etc.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Sympathetic adrenal medulla response may include:",
+    "options": {
+      "A": "Pupillary dilation, piloerection and sweating",
+      "B": "Only pupil constriction and sedation",
+      "C": "Only increased digestion at rest",
+      "D": "Only thyroid colloid storage"
+    },
+    "correct_answer": "A",
+    "explanation": "Fight-or-flight signs include dilated pupils, piloerection, sweating."
+  },
+  {
+    "source_sentence": "In adult women, hypothyroidism may cause menstrual cycle to become irregular.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hypothyroidism in adult women can cause:",
+    "options": {
+      "A": "Irregular menstruation",
+      "B": "Only gigantism",
+      "C": "Only acromegaly",
+      "D": "Only hypercalcemia"
+    },
+    "correct_answer": "A",
+    "explanation": "Low thyroid hormones disrupt menstrual regularity."
+  },
+  {
+    "source_sentence": "The endocrine glands and hormone producing diffused tissues/cells located in different parts of our body constitute the endocrine system.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Organised endocrine glands in humans include:",
+    "options": {
+      "A": "Pituitary, thyroid, adrenal, pancreas, gonads among others",
+      "B": "Only skeletal muscles",
+      "C": "Only cranial sutures",
+      "D": "Only sarcomeres"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple ductless glands form endocrine system."
+  },
+  {
+    "source_sentence": "releasing hormones (which stimulate secretion of pituitary hormones) and the inhibiting hormones",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hypothalamic hormones regulating pituitary include:",
+    "options": {
+      "A": "Releasing and inhibiting hormones",
+      "B": "Only digestive enzymes",
+      "C": "Only myosin and actin",
+      "D": "Only synovial fluid"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypothalamus releases both stimulatory and inhibitory factors."
+  },
+  {
+    "source_sentence": "The adrenal cortex can be divided into three layers, called zona reticularis (inner layer), zona fasciculata (middle layer) and zona glomerulosa (outer layer).",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Outermost layer of adrenal cortex is:",
+    "options": {
+      "A": "Zona glomerulosa",
+      "B": "Zona fasciculata",
+      "C": "Zona reticularis",
+      "D": "Adrenal medulla"
+    },
+    "correct_answer": "A",
+    "explanation": "Zona glomerulosa is outer cortical layer."
+  },
+  {
+    "source_sentence": "Small amounts of androgenic steroids are also secreted by the adrenal cortex",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Adrenal cortex also secretes small amounts of:",
+    "options": {
+      "A": "Androgenic steroids",
+      "B": "Only insulin",
+      "C": "Only TSH",
+      "D": "Only oxytocin"
+    },
+    "correct_answer": "A",
+    "explanation": "Adrenal cortex releases minor androgenic steroids."
+  },
+  {
+    "source_sentence": "Estrogens produce wide ranging actions such as stimulation of growth and activities of female secondary sex organs",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Estrogen actions include development of:",
+    "options": {
+      "A": "Female secondary sexual characters and accessory organs",
+      "B": "Only male pattern baldness",
+      "C": "Only bone sutures in skull",
+      "D": "Only red muscle fibres exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Estrogens feminise secondary traits and organs."
+  },
+  {
+    "source_sentence": "Androgens play a major stimulatory role in the process of spermatogenesis",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Spermatogenesis requires stimulation by:",
+    "options": {
+      "A": "Androgens (testosterone)",
+      "B": "Only progesterone",
+      "C": "Only calcitonin",
+      "D": "Only GIP"
+    },
+    "correct_answer": "A",
+    "explanation": "Androgens drive sperm formation."
+  },
+  {
+    "source_sentence": "When blood pressure is increased, ANF is secreted which causes dilation of the blood vessels.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "ANF secretion is stimulated by:",
+    "options": {
+      "A": "Increased blood pressure",
+      "B": "Low blood glucose only",
+      "C": "Iodine deficiency only",
+      "D": "Low Ca²⁺ only"
+    },
+    "correct_answer": "A",
+    "explanation": "Atrial stretch from high BP triggers ANF release."
+  },
+  {
+    "source_sentence": "Binding of a hormone to its receptor leads to the formation of a hormone-receptor complex",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hormone action at target cell begins with:",
+    "options": {
+      "A": "Hormone-receptor complex formation",
+      "B": "Immediate muscle contraction without receptors",
+      "C": "Only nerve myelination",
+      "D": "Only synovial fluid secretion"
+    },
+    "correct_answer": "A",
+    "explanation": "Receptor binding initiates cellular response."
+  },
+  {
+    "source_sentence": "amino-acid derivatives (e.g., epinephrine).",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Adrenal medulla catecholamines belong to which chemical class of hormones?",
+    "options": {
+      "A": "Amino-acid derivatives",
+      "B": "Steroid hormones",
+      "C": "Iodothyronines",
+      "D": "Polysaccharide nutrients"
+    },
+    "correct_answer": "A",
+    "explanation": "Catecholamines are amino-acid derived."
+  },
+  {
+    "source_sentence": "iodothyronines (thyroid hormones)",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Thyroid hormones T₃ and T₄ belong to class:",
+    "options": {
+      "A": "Iodothyronines",
+      "B": "Steroid hormones only",
+      "C": "Polypeptide hormones only",
+      "D": "Fatty acid vitamins only"
+    },
+    "correct_answer": "A",
+    "explanation": "Thyroid hormones are iodinated tyrosine derivatives."
+  },
+  {
+    "source_sentence": "steroids (e.g., cortisol, testosterone, estradiol and progesterone)",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Cortisol and sex steroids act mainly via:",
+    "options": {
+      "A": "Intracellular/nuclear receptors",
+      "B": "Only electrical synapses",
+      "C": "Only motor end plate ACh",
+      "D": "Only ciliary beating"
+    },
+    "correct_answer": "A",
+    "explanation": "Steroid hormones use intracellular receptors."
+  },
+  {
+    "source_sentence": "In addition to these, some other organs, e.g., gastrointestinal tract, liver, kidney, heart also produce hormones.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Non-classical hormone sources include:",
+    "options": {
+      "A": "Heart, kidney and GI tract",
+      "B": "Only cranial sutures",
+      "C": "Only patella",
+      "D": "Only hyoid bone"
+    },
+    "correct_answer": "A",
+    "explanation": "Several non-endocrine organs also secrete hormones."
+  },
+  {
+    "source_sentence": "Invertebrates possess very simple endocrine systems with few hormones whereas a large number of chemicals act as hormones and provide coordination in the vertebrates.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Compared to invertebrates, vertebrate endocrine systems have:",
+    "options": {
+      "A": "More hormones and greater complexity",
+      "B": "No hormones at all",
+      "C": "Only one gland",
+      "D": "Only exocrine function"
+    },
+    "correct_answer": "A",
+    "explanation": "Vertebrates show diverse hormonal coordination."
+  },
+  {
+    "source_sentence": "Glucagon reduces the cellular glucose uptake and utilisation.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Glucagon opposes insulin by:",
+    "options": {
+      "A": "Reducing cellular glucose uptake and promoting glycogen breakdown",
+      "B": "Increasing glycogenesis only",
+      "C": "Stimulating only water reabsorption",
+      "D": "Lowering blood Ca²⁺ only"
+    },
+    "correct_answer": "A",
+    "explanation": "Glucagon raises glucose by mobilisation and reduced uptake."
+  },
+  {
+    "source_sentence": "Cortisol stimulates the RBC production.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Glucocorticoids like cortisol can stimulate:",
+    "options": {
+      "A": "Erythropoiesis (RBC production)",
+      "B": "Only thyroid degeneration",
+      "C": "Only insulin degradation exclusively",
+      "D": "Only bone suture closure"
+    },
+    "correct_answer": "A",
+    "explanation": "Cortisol supports RBC production per NCERT."
+  },
+  {
+    "source_sentence": "Hypothalamus is the basal part of diencephalon, forebrain",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hypothalamus is part of:",
+    "options": {
+      "A": "Forebrain (diencephalon)",
+      "B": "Hindbrain only",
+      "C": "Appendicular skeleton",
+      "D": "Exocrine pancreas ducts"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypothalamus lies in forebrain diencephalon."
+  },
+  {
+    "source_sentence": "List the hormones secreted by the following: (a) Hypothalamus (b) Pituitary (c) Thyroid (d) Parathyroid",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Parathyroid gland secretes:",
+    "options": {
+      "A": "Parathyroid hormone (PTH)",
+      "B": "Thyroxine",
+      "C": "Insulin",
+      "D": "Glucagon"
+    },
+    "correct_answer": "A",
+    "explanation": "Parathyroid chief cells release PTH."
+  },
+  {
+    "source_sentence": "Thyrotrophin (TSH) — Target gland: Thyroid",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "TSH acts on which target gland?",
+    "options": {
+      "A": "Thyroid",
+      "B": "Testis only",
+      "C": "Thymus only",
+      "D": "Pineal only"
+    },
+    "correct_answer": "A",
+    "explanation": "TSH stimulates thyroid hormone synthesis."
+  },
+  {
+    "source_sentence": "Corticotrophin (ACTH) — Target: Adrenal cortex",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "ACTH primarily targets:",
+    "options": {
+      "A": "Adrenal cortex",
+      "B": "Adrenal medulla chromaffin cells only",
+      "C": "Pancreatic ducts",
+      "D": "Sarcoplasmic reticulum"
+    },
+    "correct_answer": "A",
+    "explanation": "ACTH acts on adrenal cortex."
+  },
+  {
+    "source_sentence": "Mechanism of hormone action of FSH.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "FSH acts on gonads by binding to:",
+    "options": {
+      "A": "Specific membrane receptors initiating cellular response",
+      "B": "Only ribosomal RNA without receptors",
+      "C": "Only bone matrix hydroxyapatite",
+      "D": "Only synovial fluid albumin"
+    },
+    "correct_answer": "A",
+    "explanation": "Glycoprotein hormones like FSH bind membrane receptors."
+  },
+  {
+    "source_sentence": "Exocrine gland — Endocrine gland",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Exocrine glands differ from endocrine glands in having:",
+    "options": {
+      "A": "Ducts for secretion delivery",
+      "B": "No secretions at all",
+      "C": "Only hormone release into blood",
+      "D": "Only nuclear receptors"
+    },
+    "correct_answer": "A",
+    "explanation": "Exocrine glands possess ducts; endocrine are ductless."
+  },
+  {
+    "source_sentence": "Endocrine glands lack ducts and secrete hormones into blood.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Assertion (A): Hormones are non-nutrient chemical messengers. Reason (R): Hormones act at sites distant from their source in low concentrations. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Endocrine signalling uses blood-borne chemical messengers."
+  },
+  {
+    "source_sentence": "Human endocrine system: hypothalamus, pituitary, pineal, thyroid, parathyroid, thymus, adrenal, pancreas, gonads.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Master endocrine gland regulating many others is:",
+    "options": {
+      "A": "Pituitary (hypophysis)",
+      "B": "Thymus exclusively without any other control",
+      "C": "Spleen",
+      "D": "Appendix exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Anterior pituitary secretes tropic hormones."
+  },
+  {
+    "source_sentence": "Hypothalamic hormones regulate anterior pituitary via portal system.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hypothalamic releasing hormones reach anterior pituitary through:",
+    "options": {
+      "A": "Hypophyseal portal circulation",
+      "B": "Direct neural axons only without blood ever",
+      "C": "Lymphatic ducts exclusively from thymus",
+      "D": "Bile duct from liver"
+    },
+    "correct_answer": "A",
+    "explanation": "Portal vessels carry hypothalamic factors to adenohypophysis."
+  },
+  {
+    "source_sentence": "Posterior pituitary stores ADH and oxytocin made in hypothalamus.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "ADH deficiency causes:",
+    "options": {
+      "A": "Diabetes insipidus with dilute urine",
+      "B": "Diabetes mellitus with hyperglycaemia always",
+      "C": "Goitre exclusively",
+      "D": "Tetany from low Ca2+ only without urine change"
+    },
+    "correct_answer": "A",
+    "explanation": "ADH promotes water reabsorption; lack causes polyuria."
+  },
+  {
+    "source_sentence": "Growth hormone from anterior pituitary; stimulates IGF and growth.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Excess GH in adult causes:",
+    "options": {
+      "A": "Acromegaly",
+      "B": "Dwarfism",
+      "C": "Cretinism exclusively in adult",
+      "D": "Goitre without any bone change"
+    },
+    "correct_answer": "A",
+    "explanation": "Adult hypersecretion enlarges acral bones/soft tissues."
+  },
+  {
+    "source_sentence": "TSH stimulates thyroid; T3/T4 increase BMR.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Hypothyroidism in infant causes:",
+    "options": {
+      "A": "Cretinism with mental and physical retardation",
+      "B": "Exophthalmic goitre exclusively without retardation",
+      "C": "Acromegaly",
+      "D": "Diabetes insipidus only"
+    },
+    "correct_answer": "A",
+    "explanation": "Congenital hypothyroidism severely impairs development."
+  },
+  {
+    "source_sentence": "Hyperthyroidism: Graves' disease; exophthalmos, goitre, weight loss.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Graves' disease involves:",
+    "options": {
+      "A": "Autoantibodies stimulating TSH receptors",
+      "B": "Complete absence of thyroid tissue always",
+      "C": "Only insulin deficiency without thyroid involvement",
+      "D": "Excess ADH secretion exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "TSI mimics TSH causing hyperthyroidism."
+  },
+  {
+    "source_sentence": "Parathyroid hormone raises blood Ca2+; calcitonin lowers it.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Calcitonin is secreted by:",
+    "options": {
+      "A": "Parafollicular (C) cells of thyroid",
+      "B": "Chief cells of parathyroid exclusively always for both hormones",
+      "C": "Adrenal cortex only",
+      "D": "Pancreatic alpha cells exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Thyroid C cells release calcitonin."
+  },
+  {
+    "source_sentence": "Adrenal cortex: zona glomerulosa (aldosterone), fasciculata (cortisol), reticularis (androgens).",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Aldosterone primarily regulates:",
+    "options": {
+      "A": "Na+ reabsorption and K+ excretion",
+      "B": "Blood glucose exclusively without any renal effect",
+      "C": "Only heart rate without electrolytes",
+      "D": "Only RBC production in bone marrow exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Aldosterone acts on kidney conserving Na+."
+  },
+  {
+    "source_sentence": "Adrenal medulla secretes adrenaline and noradrenaline.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Adrenal medulla is developmentally homologous to:",
+    "options": {
+      "A": "Sympathetic ganglia (neural crest origin)",
+      "B": "Renal cortex exclusively without neural relation",
+      "C": "Thyroid follicular cells only",
+      "D": "Hepatocytes exclusively always"
+    },
+    "correct_answer": "A",
+    "explanation": "Medulla derived from neural crest like sympathetic neurons."
+  },
+  {
+    "source_sentence": "Pancreatic islets: alpha (glucagon), beta (insulin), delta (somatostatin).",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Insulin deficiency causes:",
+    "options": {
+      "A": "Type I diabetes mellitus with hyperglycaemia",
+      "B": "Diabetes insipidus with dilute urine only",
+      "C": "Hypoglycaemia always without exception",
+      "D": "Goitre with exophthalmos exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Lack of insulin elevates blood glucose."
+  },
+  {
+    "source_sentence": "Glucagon raises blood glucose; antagonistic to insulin.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Glucagon acts primarily on:",
+    "options": {
+      "A": "Liver promoting glycogenolysis and gluconeogenesis",
+      "B": "Bone matrix exclusively without metabolic effect",
+      "C": "Red blood cells exclusively for O2 binding",
+      "D": "Synovial fluid only"
+    },
+    "correct_answer": "A",
+    "explanation": "Glucagon mobilises hepatic glucose."
+  },
+  {
+    "source_sentence": "Mechanism: peptide hormones bind membrane receptors; steroids enter nucleus.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Steroid hormones typically:",
+    "options": {
+      "A": "Bind intracellular receptors and regulate gene transcription",
+      "B": "Always use second messenger cAMP without entering cell",
+      "C": "Cannot cross plasma membrane ever",
+      "D": "Act only at synaptic cleft exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Lipophilic steroids interact with nuclear receptors."
+  },
+  {
+    "source_sentence": "Melatonin from pineal regulates circadian rhythms.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Melatonin secretion increases during:",
+    "options": {
+      "A": "Dark phase of light-dark cycle",
+      "B": "Bright midday sun exclusively always without dark phase effect",
+      "C": "Only during exercise without time cue",
+      "D": "Meal ingestion exclusively without photoperiod"
+    },
+    "correct_answer": "A",
+    "explanation": "Pineal melatonin peaks at night."
+  },
+  {
+    "source_sentence": "Thymosins from thymus play role in T-lymphocyte differentiation.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Consider the following statements:\n1. Thymus is more active in childhood\n2. Thymosins influence immunity\n3. Insulin is secreted by thymus exclusively\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Insulin from beta cells; statements 1 and 2 correct."
+  },
+  {
+    "source_sentence": "Oestrogen and progesterone regulate female reproductive cycle.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Progesterone is primarily secreted by:",
+    "options": {
+      "A": "Corpus luteum (and placenta during pregnancy)",
+      "B": "Thyroid follicles exclusively always",
+      "C": "Adrenal medulla only without any ovarian source ever",
+      "D": "Parathyroid chief cells exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Corpus luteum secretes progesterone post-ovulation."
+  },
+  {
+    "source_sentence": "Testosterone from Leydig cells; maintains male secondary characters.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Testosterone is synthesised in:",
+    "options": {
+      "A": "Interstitial (Leydig) cells of testis",
+      "B": "Sertoli cells exclusively for all androgens always without Leydig",
+      "C": "Adrenal medulla exclusively only",
+      "D": "Anterior pituitary exclusively without gonadal source"
+    },
+    "correct_answer": "A",
+    "explanation": "Leydig cells produce testosterone."
+  },
+  {
+    "source_sentence": "Feedback inhibition regulates hormone levels; negative feedback common.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "High T3/T4 levels inhibit:",
+    "options": {
+      "A": "TRH and TSH secretion via negative feedback",
+      "B": "Only insulin without affecting thyroid axis",
+      "C": "Only glucagon exclusively always",
+      "D": "Melatonin only without hypothalamic effect on TSH ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Thyroid hormones suppress hypothalamic-pituitary axis."
+  },
+  {
+    "source_sentence": "Atrial natriuretic factor lowers blood pressure promoting Na+ excretion.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "ANF is released from:",
+    "options": {
+      "A": "Cardiac atria in response to stretch",
+      "B": "Adrenal medulla exclusively always",
+      "C": "Posterior pituitary only",
+      "D": "Gastric mucosa exclusively without cardiac source ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Atrial stretch triggers ANF secretion."
+  },
+  {
+    "source_sentence": "Prolactin stimulates milk synthesis; dopamine inhibits prolactin.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Dopamine from hypothalamus acts on pituitary to:",
+    "options": {
+      "A": "Inhibit prolactin secretion",
+      "B": "Stimulate prolactin release exclusively always without inhibition ever",
+      "C": "Increase TSH only without any prolactin effect",
+      "D": "Block all oxytocin storage in posterior pituitary exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Dopamine is prolactin-inhibiting factor."
+  },
+  {
+    "source_sentence": "Oxytocin stimulates uterine contraction and milk ejection reflex.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Milk ejection reflex involves oxytocin causing:",
+    "options": {
+      "A": "Contraction of myoepithelial cells around alveoli",
+      "B": "Increased milk synthesis in alveolar cells exclusively without ejection",
+      "C": "Permanent closure of lactiferous ducts always",
+      "D": "Conversion of prolactin to insulin in blood"
+    },
+    "correct_answer": "A",
+    "explanation": "Oxytocin ejects milk already synthesised under prolactin."
+  },
+  {
+    "source_sentence": "FSH and LH from gonadotrophs regulate gametogenesis.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "LH surge triggers:",
+    "options": {
+      "A": "Ovulation in females",
+      "B": "Menopause onset exclusively in same cycle always",
+      "C": "Milk ejection without any ovarian effect ever",
+      "D": "Spermiogenesis block exclusively without testosterone rise"
+    },
+    "correct_answer": "A",
+    "explanation": "Mid-cycle LH peak causes follicle rupture."
+  },
+  {
+    "source_sentence": "Cortisol: stress hormone; anti-inflammatory; gluconeogenesis.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Cushing's syndrome results from:",
+    "options": {
+      "A": "Chronic excess cortisol",
+      "B": "Aldosterone deficiency exclusively without cortisol change always",
+      "C": "Insulin excess only without any cortisol involvement ever",
+      "D": "Complete absence of adrenal medulla exclusively defining Cushing's always"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypercortisolism causes moon face, buffalo hump etc."
+  },
+  {
+    "source_sentence": "Addison's disease: adrenal insufficiency; hypotension, hyperpigmentation.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Addison's disease involves deficiency of:",
+    "options": {
+      "A": "Cortisol and often aldosterone",
+      "B": "Only insulin without adrenal cortex involvement ever",
+      "C": "Only oxytocin exclusively always",
+      "D": "Only thymosin without any cortisol deficit ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Adrenal cortex hormone deficiency characterises Addison's."
+  },
+  {
+    "source_sentence": "Pheochromocytoma: tumour of adrenal medulla secreting excess catecholamines.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Patient with episodic hypertension, sweating and tachycardia may have:",
+    "options": {
+      "A": "Pheochromocytoma",
+      "B": "Simple goitre without catecholamines ever",
+      "C": "Diabetes insipidus exclusively always presenting with catecholamine surge",
+      "D": "Rickets exclusively without any cardiovascular symptom ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Medullary catecholamine excess causes paroxysmal symptoms."
+  },
+  {
+    "source_sentence": "Hormone receptors may down-regulate with prolonged high hormone levels.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Down-regulation of receptors occurs when:",
+    "options": {
+      "A": "Hormone concentration remains chronically elevated",
+      "B": "Hormone is completely absent always increasing receptors indefinitely without limit always",
+      "C": "Only during sleep without hormone change ever",
+      "D": "Only in bone matrix without any membrane receptor involvement ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Chronic exposure reduces receptor number/sensitivity."
+  },
+  {
+    "source_sentence": "Second messengers: cAMP, cGMP, IP3, Ca2+.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Epinephrine acting via β-adrenergic receptor often uses:",
+    "options": {
+      "A": "cAMP as second messenger",
+      "B": "Direct gene transcription without any receptor ever always",
+      "C": "Only bile salts as second messenger exclusively always",
+      "D": "Only synaptic acetylcholine without any intracellular signal ever"
+    },
+    "correct_answer": "A",
+    "explanation": "β-receptor activates adenylyl cyclase → cAMP."
+  },
+  {
+    "source_sentence": "Diabetes mellitus Type II: insulin resistance; often associated with obesity.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Type II diabetes differs from Type I in:",
+    "options": {
+      "A": "Relative insulin deficiency/resistance rather than autoimmune β-cell destruction primarily",
+      "B": "Complete absence of pancreas always in all Type II cases without exception ever",
+      "C": "Only ADH deficiency defining Type II exclusively always",
+      "D": "Hypersecretion of glucagon being the sole definition without any insulin resistance component ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Type II mainly insulin resistance with later insulin decline."
+  },
+  {
+    "source_sentence": "Goitre: enlargement of thyroid; may be due to iodine deficiency.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Iodine deficiency goitre occurs because:",
+    "options": {
+      "A": "Low T3/T4 removes feedback inhibition increasing TSH",
+      "B": "Excess T3/T4 always without any TSH change ever",
+      "C": "Complete thyroid agenesis exclusively always from excess iodine only ever",
+      "D": "Only adrenal cortisol excess without thyroid axis involvement ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Low thyroid hormones stimulate TSH → thyroid hypertrophy."
+  },
+  {
+    "source_sentence": "Renin-angiotensin-aldosterone axis regulates blood volume.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Aldosterone secretion is stimulated by:",
+    "options": {
+      "A": "Angiotensin II and high K+",
+      "B": "Only insulin without any renin-angiotensin component ever always",
+      "C": "Low Na+ in blood exclusively always suppressing aldosterone without exception ever",
+      "D": "Melatonin exclusively at night without any electrolyte stimulus ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Ang II and hyperkalaemia stimulate aldosterone."
+  },
+  {
+    "source_sentence": "Erythropoietin from kidney stimulates RBC production.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Erythropoietin release increases when:",
+    "options": {
+      "A": "Blood O2 levels fall (hypoxia)",
+      "B": "Blood O2 is saturated always suppressing EPO without any hypoxic stimulus ever",
+      "C": "Only during feeding without oxygen sensor ever",
+      "D": "Calcitonin levels rise exclusively always as sole EPO stimulus ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypoxia detected by kidney peritubular cells triggers EPO."
+  },
+  {
+    "source_sentence": "Gastrin, secretin, CCK are gastrointestinal hormones.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Secretin is released from duodenum in response to:",
+    "options": {
+      "A": "Acidic chyme stimulating bicarbonate secretion from pancreas",
+      "B": "Only fats exclusively without any pH stimulus ever always",
+      "C": "Only proteins exclusively without pancreatic bicarbonate response ever",
+      "D": "Only gastric HCl in stomach exclusively before chyme reaches duodenum always without any effect ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Acid in duodenum triggers secretin → pancreatic HCO3-."
+  },
+  {
+    "source_sentence": "Prostaglandins act as local hormones; many tissues produce them.",
+    "chapter": "Chapter 19: Chemical Coordination and Integration",
+    "question": "Prostaglandins differ from peptide hormones in:",
+    "options": {
+      "A": "Being derived from arachidonic acid and often acting locally",
+      "B": "Always being stored in posterior pituitary exclusively always without local synthesis ever",
+      "C": "Requiring iodine in their structure exclusively always like thyroid hormones ever",
+      "D": "Being proteins encoded by nuclear genes exclusively always without lipid derivation ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Prostaglandins are eicosanoids acting paracrine/autocrine."
+  }
+]

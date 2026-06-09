@@ -1,0 +1,1341 @@
+[
+  {
+    "source_sentence": "Photosynthesis requires chlorophyll, light and CO2.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Photosynthesis in green leaves requires:",
+    "options": {
+      "A": "Only water",
+      "B": "Chlorophyll, light and CO2",
+      "C": "Only oxygen",
+      "D": "Only mitochondria"
+    },
+    "correct_answer": "B",
+    "explanation": "Variegated/KOH experiments show chlorophyll, light and CO2 are needed."
+  },
+  {
+    "source_sentence": "Priestley: plants restore air fouled by candle/mouse.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Priestley's bell-jar experiment showed that plants:",
+    "options": {
+      "A": "Consume all oxygen permanently",
+      "B": "Restore air quality after candle or animal respiration",
+      "C": "Cannot live with mice",
+      "D": "Produce CO2 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Mint plant allowed mouse/candle to survive in closed jar."
+  },
+  {
+    "source_sentence": "Ingenhousz: sunlight essential; O2 from green parts.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Ingenhousz demonstrated oxygen bubbles from aquatic plants in:",
+    "options": {
+      "A": "Darkness only",
+      "B": "Bright sunlight from green parts",
+      "C": "Absence of water",
+      "D": "Only roots"
+    },
+    "correct_answer": "B",
+    "explanation": "Sunlight needed; bubbles (O2) from green portions."
+  },
+  {
+    "source_sentence": "Engelmann action spectrum with Cladophora and bacteria.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Engelmann's experiment with prism light showed bacteria accumulated in:",
+    "options": {
+      "A": "Green-yellow region only",
+      "B": "Blue and red regions",
+      "C": "Infrared only",
+      "D": "Complete darkness"
+    },
+    "correct_answer": "B",
+    "explanation": "Bacteria clustered where O2 evolved—blue/red action spectrum."
+  },
+  {
+    "source_sentence": "Van Niel: H2O is hydrogen donor in oxygenic photosynthesis.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Van Niel's work established that O2 evolved in green plant photosynthesis comes from:",
+    "options": {
+      "A": "CO2",
+      "B": "H2O",
+      "C": "Glucose",
+      "D": "Chlorophyll only"
+    },
+    "correct_answer": "B",
+    "explanation": "H2O is oxidised; O2 originates from water."
+  },
+  {
+    "source_sentence": "6CO2 + 12H2O -> C6H12O6 + 6H2O + 6O2.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The balanced photosynthesis equation per NCERT is:",
+    "options": {
+      "A": "CO2 + H2O -> CH2O + O2 (1:1:1)",
+      "B": "6CO2 + 12H2O -> C6H12O6 + 6H2O + 6O2",
+      "C": "6CO2 + 6H2O -> C6H12O6 + 6O2 only",
+      "D": "2H2S + CO2 -> S + CH2O"
+    },
+    "correct_answer": "B",
+    "explanation": "Full equation uses 6 CO2 and 12 H2O producing glucose and 6 O2."
+  },
+  {
+    "source_sentence": "Chloroplast: grana trap light; stroma fixes carbon.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "In chloroplasts, carbon fixation (Calvin cycle) occurs in:",
+    "options": {
+      "A": "Grana thylakoids only",
+      "B": "Stroma",
+      "C": "Outer membrane only",
+      "D": "Mitochondrial matrix"
+    },
+    "correct_answer": "B",
+    "explanation": "Light reactions in membranes; dark reactions in stroma."
+  },
+  {
+    "source_sentence": "Light reactions photochemical; dark reactions use ATP/NADPH.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Dark reactions of photosynthesis are dependent on:",
+    "options": {
+      "A": "Direct light only",
+      "B": "ATP and NADPH from light reactions",
+      "C": "Only O2",
+      "D": "Only respiration in roots"
+    },
+    "correct_answer": "B",
+    "explanation": "Calvin cycle uses ATP and NADPH."
+  },
+  {
+    "source_sentence": "Four pigments in chromatography: chl a, chl b, xanthophylls, carotenoids.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Chromatographic separation of leaf pigments shows the green colour results from:",
+    "options": {
+      "A": "A single chlorophyll species",
+      "B": "Four pigments (chl a, chl b, xanthophylls, carotenoids)",
+      "C": "Anthocyanins only",
+      "D": "Phycobilins alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Multiple pigments together produce observed leaf colours."
+  },
+  {
+    "source_sentence": "Chlorophyll a chief pigment; accessory pigments broaden spectrum.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Accessory pigments in photosynthesis function to:",
+    "options": {
+      "A": "Replace chlorophyll a completely",
+      "B": "Absorb additional wavelengths and protect chl a",
+      "C": "Only store starch",
+      "D": "Fix CO2 directly"
+    },
+    "correct_answer": "B",
+    "explanation": "Accessory pigments harvest light and protect chlorophyll a."
+  },
+  {
+    "source_sentence": "PS II named P680; PS I named P700.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The reaction centre of Photosystem II absorbs maximally at:",
+    "options": {
+      "A": "700 nm",
+      "B": "680 nm",
+      "C": "450 nm only",
+      "D": "550 nm"
+    },
+    "correct_answer": "B",
+    "explanation": "P680 in PS II; P700 in PS I."
+  },
+  {
+    "source_sentence": "PS II discovered first but functions before PS I in Z scheme.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "In non-cyclic photophosphorylation electron flow begins at:",
+    "options": {
+      "A": "PS I only",
+      "B": "PS II",
+      "C": "Calvin cycle",
+      "D": "Mitochondria"
+    },
+    "correct_answer": "B",
+    "explanation": "Z scheme starts with PS II though named second."
+  },
+  {
+    "source_sentence": "Water splitting on inner side of thylakoid linked to PS II.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Photolysis of water in photosynthesis is associated with:",
+    "options": {
+      "A": "PS I only",
+      "B": "PS II on inner thylakoid side",
+      "C": "Stroma only",
+      "D": "Bundle sheath only"
+    },
+    "correct_answer": "B",
+    "explanation": "Water-splitting complex linked to PS II in thylakoid lumen side."
+  },
+  {
+    "source_sentence": "Z scheme ends with NADP+ reduction to NADPH.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The Z scheme of electron transport ultimately reduces:",
+    "options": {
+      "A": "O2 to water",
+      "B": "NADP+ to NADPH + H+",
+      "C": "CO2 to glucose directly",
+      "D": "ATP to ADP"
+    },
+    "correct_answer": "B",
+    "explanation": "Electrons reduce NADP+ at end of Z scheme."
+  },
+  {
+    "source_sentence": "Non-cyclic photophosphorylation produces ATP and NADPH.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "When PS II and PS I work in series, the process is:",
+    "options": {
+      "A": "Cyclic photophosphorylation only",
+      "B": "Non-cyclic photophosphorylation yielding ATP and NADPH",
+      "C": "Photorespiration",
+      "D": "Fermentation"
+    },
+    "correct_answer": "B",
+    "explanation": "Linear electron flow makes both ATP and NADPH."
+  },
+  {
+    "source_sentence": "Cyclic photophosphorylation only ATP, no NADPH.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Cyclic photophosphorylation involving only PS I produces:",
+    "options": {
+      "A": "ATP only (no NADPH)",
+      "B": "NADPH only",
+      "C": "Glucose directly",
+      "D": "O2 from CO2"
+    },
+    "correct_answer": "A",
+    "explanation": "Cyclic flow synthesises ATP but not NADPH."
+  },
+  {
+    "source_sentence": "Stroma lamellae lack PS II and NADP reductase.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Cyclic photophosphorylation may occur in membranes lacking:",
+    "options": {
+      "A": "ATP synthase",
+      "B": "PS II and NADP reductase",
+      "C": "Chlorophyll a entirely",
+      "D": "Stroma"
+    },
+    "correct_answer": "B",
+    "explanation": "Stroma lamellae have PS I but not PS II."
+  },
+  {
+    "source_sentence": "Chemiosmosis: proton gradient in thylakoid lumen.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "In chloroplasts, protons accumulate in the:",
+    "options": {
+      "A": "Stroma during light reaction",
+      "B": "Thylakoid lumen",
+      "C": "Mitochondrial matrix",
+      "D": "Cytoplasm only"
+    },
+    "correct_answer": "B",
+    "explanation": "Proton gradient is lumen (inside thylakoid) vs stroma."
+  },
+  {
+    "source_sentence": "CF0-CF1 ATP synthase in thylakoid like F0-F1 in mitochondria.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "ATP synthesis in chloroplasts uses:",
+    "options": {
+      "A": "CF0–CF1 ATP synthase",
+      "B": "RuBisCO only",
+      "C": "PEPcase only",
+      "D": "Hexokinase"
+    },
+    "correct_answer": "A",
+    "explanation": "Chemiosmotic ATP synthesis via CF0–CF1."
+  },
+  {
+    "source_sentence": "Calvin: first product PGA (3-carbon).",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The first stable CO2 fixation product in C3 plants is:",
+    "options": {
+      "A": "OAA (4C)",
+      "B": "PGA (3C)",
+      "C": "PEP (3C acceptor)",
+      "D": "RuBP (5C)"
+    },
+    "correct_answer": "B",
+    "explanation": "Calvin identified 3-phosphoglyceric acid (PGA)."
+  },
+  {
+    "source_sentence": "Primary CO2 acceptor RuBP (5C ketose).",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The primary acceptor of CO2 in the Calvin cycle is:",
+    "options": {
+      "A": "PEP",
+      "B": "RuBP (ribulose bisphosphate)",
+      "C": "OAA",
+      "D": "PGA"
+    },
+    "correct_answer": "B",
+    "explanation": "RuBP is 5-carbon acceptor."
+  },
+  {
+    "source_sentence": "RuBisCO carboxylase-oxygenase; 2 PGA from one CO2.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "RuBisCO catalyses fixation of one CO2 with RuBP to form:",
+    "options": {
+      "A": "One OAA",
+      "B": "Two molecules of 3-PGA",
+      "C": "One glucose immediately",
+      "D": "One PEP"
+    },
+    "correct_answer": "B",
+    "explanation": "Carboxylation yields 2 PGA molecules."
+  },
+  {
+    "source_sentence": "Per CO2: 3 ATP and 2 NADPH in Calvin.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "For each CO2 fixed in the Calvin cycle the requirement is:",
+    "options": {
+      "A": "1 ATP and 1 NADPH",
+      "B": "3 ATP and 2 NADPH",
+      "C": "18 ATP and 12 NADPH",
+      "D": "2 ATP only"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states 3 ATP + 2 NADPH per CO2."
+  },
+  {
+    "source_sentence": "Six CO2 turns need 18 ATP and 12 NADPH for one glucose.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Synthesis of one glucose via Calvin cycle requires:",
+    "options": {
+      "A": "6 CO2, 18 ATP, 12 NADPH",
+      "B": "1 CO2, 3 ATP, 2 NADPH",
+      "C": "12 CO2, 6 ATP, 6 NADPH",
+      "D": "6 CO2, 6 ATP, 6 NADPH"
+    },
+    "correct_answer": "A",
+    "explanation": "Table: six CO2, 18 ATP, 12 NADPH yield one glucose."
+  },
+  {
+    "source_sentence": "Calvin cycle in all photosynthetic plants including C4.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Biosynthetic carbon fixation via the Calvin pathway is present in:",
+    "options": {
+      "A": "C3 plants exclusively",
+      "B": "All photosynthetic plants (including C4)",
+      "C": "Non-green roots only",
+      "D": "Fungi lacking chlorophyll"
+    },
+    "correct_answer": "B",
+    "explanation": "Calvin cycle operates in all photosynthetic plants; cell type varies in C4."
+  },
+  {
+    "source_sentence": "C4 first product OAA; Hatch-Slack pathway.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The first CO2 fixation product in C4 plants is:",
+    "options": {
+      "A": "PGA",
+      "B": "OAA (oxaloacetic acid)",
+      "C": "RuBP",
+      "D": "Lactic acid"
+    },
+    "correct_answer": "B",
+    "explanation": "C4 pathway fixes CO2 into 4-carbon OAA."
+  },
+  {
+    "source_sentence": "C4 primary acceptor PEP in mesophyll.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "In C4 plants the primary CO2 acceptor in mesophyll is:",
+    "options": {
+      "A": "RuBP",
+      "B": "PEP",
+      "C": "PGA",
+      "D": "Glucose"
+    },
+    "correct_answer": "B",
+    "explanation": "PEP is accepted by PEP carboxylase."
+  },
+  {
+    "source_sentence": "Mesophyll lacks RuBisCO in C4; bundle sheath rich in RuBisCO.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "In C4 plants RuBisCO is abundant in:",
+    "options": {
+      "A": "Mesophyll only",
+      "B": "Bundle sheath cells",
+      "C": "Roots only",
+      "D": "Neither cell type"
+    },
+    "correct_answer": "B",
+    "explanation": "Bundle sheath has RuBisCO; mesophyll has PEPcase."
+  },
+  {
+    "source_sentence": "Kranz anatomy: wreath-like bundle sheath layers.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "'Kranz' anatomy (wreath-like arrangement) in leaves describes:",
+    "options": {
+      "A": "Spongy mesophyll without veins",
+      "B": "Prominent bundle sheath layers rich in chloroplasts around vascular bundles",
+      "C": "Absence of stomata",
+      "D": "Root endodermis only"
+    },
+    "correct_answer": "B",
+    "explanation": "C4 leaves show wreath-like chloroplast-rich bundle sheath."
+  },
+  {
+    "source_sentence": "C4 tolerates high temperature, high light, lacks photorespiration.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "C4 plants compared to C3 typically show:",
+    "options": {
+      "A": "Higher photorespiration",
+      "B": "Greater productivity and tolerance to high temperature/light",
+      "C": "No Calvin cycle",
+      "D": "No chloroplasts in sheath"
+    },
+    "correct_answer": "B",
+    "explanation": "C4 plants are more productive with less photorespiration."
+  },
+  {
+    "source_sentence": "Photorespiration: RuBP + O2 -> PGA + phosphoglycolate; wastes ATP.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Photorespiration in C3 plants:",
+    "options": {
+      "A": "Produces extra ATP and NADPH",
+      "B": "Decreases CO2 fixation and consumes ATP without sugar synthesis",
+      "C": "Occurs only in bundle sheath",
+      "D": "Requires PEPcase"
+    },
+    "correct_answer": "B",
+    "explanation": "Photorespiration releases CO2 and wastes ATP."
+  },
+  {
+    "source_sentence": "C4 concentrates CO2 at RuBisCO site minimising oxygenase activity.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "C4 plants avoid photorespiration primarily by:",
+    "options": {
+      "A": "Lacking RuBisCO",
+      "B": "Elevating CO2 concentration around RuBisCO in bundle sheath",
+      "C": "Fixing CO2 only at night",
+      "D": "Using only cyclic photophosphorylation"
+    },
+    "correct_answer": "B",
+    "explanation": "CO2 released in sheath keeps RuBisCO as carboxylase."
+  },
+  {
+    "source_sentence": "RuBisCO most abundant enzyme; binds CO2 and O2 competitively.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "RuBisCO is called carboxylase-oxygenase because:",
+    "options": {
+      "A": "It binds only CO2",
+      "B": "Its active site binds CO2 and O2 competitively",
+      "C": "It cannot bind O2 at all",
+      "D": "It is not an enzyme"
+    },
+    "correct_answer": "B",
+    "explanation": "Competitive binding of CO2 vs O2 at active site."
+  },
+  {
+    "source_sentence": "Table 11.1 C3 vs C4 comparison.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "According to C3 vs C4 comparison, initial carboxylation in C4 occurs in:",
+    "options": {
+      "A": "Bundle sheath only",
+      "B": "Mesophyll",
+      "C": "Both equally for first step",
+      "D": "Roots"
+    },
+    "correct_answer": "B",
+    "explanation": "C4 initial fixation with PEPcase is in mesophyll."
+  },
+  {
+    "source_sentence": "C3 Calvin in mesophyll; C4 Calvin only in bundle sheath.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Calvin cycle location differs: C3 in mesophyll; C4 in:",
+    "options": {
+      "A": "Bundle sheath cells",
+      "B": "Epidermis only",
+      "C": "Roots",
+      "D": "Nowhere"
+    },
+    "correct_answer": "A",
+    "explanation": "C4 Calvin cycle restricted to bundle sheath."
+  },
+  {
+    "source_sentence": "C3 photorespiration high at high light; C4 negligible.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "At high light intensity photorespiration is:",
+    "options": {
+      "A": "High in C3, negligible in C4",
+      "B": "High in C4, negligible in C3",
+      "C": "Absent in both",
+      "D": "Equal in both"
+    },
+    "correct_answer": "A",
+    "explanation": "Table 11.1 contrasts high photorespiration in C3."
+  },
+  {
+    "source_sentence": "C4 temperature optimum 30-40C; C3 lower 20-25C.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Temperature optimum for photosynthesis is generally higher for:",
+    "options": {
+      "A": "C3 plants",
+      "B": "C4 plants",
+      "C": "Fungi only",
+      "D": "Non-green tissues"
+    },
+    "correct_answer": "B",
+    "explanation": "C4 plants tolerate and respond to higher temperatures."
+  },
+  {
+    "source_sentence": "C3 CO2 fixation rate low at high light; C4 high.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Under high light, CO2 fixation rate is:",
+    "options": {
+      "A": "Low in C3, high in C4",
+      "B": "High in C3, low in C4",
+      "C": "Zero in both",
+      "D": "Equal always"
+    },
+    "correct_answer": "A",
+    "explanation": "C4 shows higher fixation at high light."
+  },
+  {
+    "source_sentence": "C4 examples maize sorghum; C3 wheat rice.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Maize is a classic example of:",
+    "options": {
+      "A": "C3 plant",
+      "B": "C4 plant with Kranz anatomy",
+      "C": "CAM only",
+      "D": "Non-photosynthetic plant"
+    },
+    "correct_answer": "B",
+    "explanation": "Maize/sorghum show C4 Kranz anatomy."
+  },
+  {
+    "source_sentence": "Blackman's Law of Limiting Factors.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Blackman's Law states that rate of a process is determined by:",
+    "options": {
+      "A": "All factors equally always",
+      "B": "The factor nearest its minimum (limiting factor)",
+      "C": "Only genetic factors",
+      "D": "Only soil minerals"
+    },
+    "correct_answer": "B",
+    "explanation": "The factor in shortest supply limits rate."
+  },
+  {
+    "source_sentence": "Light saturation at about 10% full sunlight.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Light saturation for photosynthesis often occurs at about:",
+    "options": {
+      "A": "100% full sunlight only",
+      "B": "10% of full sunlight",
+      "C": "0% light",
+      "D": "200% sunlight"
+    },
+    "correct_answer": "B",
+    "explanation": "Except deep shade, light rarely limits in nature."
+  },
+  {
+    "source_sentence": "CO2 0.03-0.04% atmosphere major limiting factor.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Atmospheric CO2 (~0.03–0.04%) is often limiting because:",
+    "options": {
+      "A": "It is too high for RuBisCO",
+      "B": "Current levels limit C3 photosynthesis especially",
+      "C": "Plants do not use CO2",
+      "D": "O2 is absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Low ambient CO2 limits C3; enrichment helps greenhouse crops."
+  },
+  {
+    "source_sentence": "C4 saturates ~360 uL/L CO2; C3 beyond 450.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "C4 plants reach CO2 saturation at about:",
+    "options": {
+      "A": "360 µL L⁻¹",
+      "B": "450 µL L⁻¹ only for C4",
+      "C": "0.01%",
+      "D": "10% CO2"
+    },
+    "correct_answer": "A",
+    "explanation": "C4 saturates lower; C3 continues responding to higher CO2."
+  },
+  {
+    "source_sentence": "Dark reactions temperature sensitive enzymatic steps.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Among photosynthetic processes, dark reactions are more sensitive to:",
+    "options": {
+      "A": "Temperature",
+      "B": "Only colour of light",
+      "C": "Gravity",
+      "D": "Soil salinity only"
+    },
+    "correct_answer": "A",
+    "explanation": "Calvin cycle enzymes are temperature-controlled."
+  },
+  {
+    "source_sentence": "Water stress closes stomata reducing CO2.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Water stress reduces photosynthesis mainly by:",
+    "options": {
+      "A": "Increasing CO2 intake",
+      "B": "Stomatal closure reducing CO2 availability",
+      "C": "Destroying chlorophyll instantly only",
+      "D": "Eliminating NADPH"
+    },
+    "correct_answer": "B",
+    "explanation": "Wilting and closed stomata limit CO2."
+  },
+  {
+    "source_sentence": "Dark reactions do not require direct light.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Assertion (A): Biosynthetic phase can continue briefly after light is removed.\nReason (R): Dark reactions are independent of products of light reaction.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "First part true; second false—they depend on ATP/NADPH from light reactions."
+  },
+  {
+    "source_sentence": "Cyclic photophosphorylation supplements ATP for Calvin cycle.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Assertion (A): Calvin cycle uses more ATP than NADPH per CO2 fixed.\nReason (R): Cyclic flow makes ATP without NADPH.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Extra ATP need explains role of cyclic phosphorylation."
+  },
+  {
+    "source_sentence": "Accessory pigments extend absorption spectrum.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Assertion (A): Action spectrum does not perfectly overlap chlorophyll a absorption alone.\nReason (R): Carotenoids and chl b transfer energy to chl a.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Mismatch of action and absorption spectra explained by accessory pigments."
+  },
+  {
+    "source_sentence": "O2 from photosynthesis supports aerobic life.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Assertion (A): Photosynthesis releases O2 from water splitting.\nReason (R): All life depends on sunlight energy.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but broad life dependence on sunlight is not direct explanation of O2 release."
+  },
+  {
+    "source_sentence": "RuBisCO oxygenase activity decreases net photosynthesis in C3.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Assertion (A): RuBisCO can bind O2 at active site.\nReason (R): Photorespiration consumes ATP without sugar gain.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "O2 binding leads to wasteful photorespiration reducing net fixation."
+  },
+  {
+    "source_sentence": "Sachs: glucose made in green parts stored as starch.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Julius von Sachs showed photosynthesis produces:",
+    "options": {
+      "A": "Glucose stored as starch in green parts",
+      "B": "Only ethanol",
+      "C": "Only proteins in roots",
+      "D": "Only CO2"
+    },
+    "correct_answer": "A",
+    "explanation": "Glucose synthesis in chloroplast-containing cells."
+  },
+  {
+    "source_sentence": "Variegated leaf experiment starch only in green areas.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Starch test on variegated leaf after light exposure is positive in:",
+    "options": {
+      "A": "Non-green areas only",
+      "B": "Green areas only",
+      "C": "Midrib only without chlorophyll",
+      "D": "All areas equally"
+    },
+    "correct_answer": "B",
+    "explanation": "Photosynthesis/starch only where chlorophyll present."
+  },
+  {
+    "source_sentence": "KOH absorbs CO2 in leaf experiment.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "KOH-soaked cotton in half-leaf experiment absorbs:",
+    "options": {
+      "A": "O2",
+      "B": "CO2",
+      "C": "N2 only",
+      "D": "Chlorophyll"
+    },
+    "correct_answer": "B",
+    "explanation": "Removing CO2 prevents photosynthesis in enclosed half."
+  },
+  {
+    "source_sentence": "Mesophyll cells have many chloroplasts aligned to light.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Chloroplasts in mesophyll align along walls to:",
+    "options": {
+      "A": "Block all light",
+      "B": "Optimise incident light capture",
+      "C": "Store water only",
+      "D": "Perform respiration only"
+    },
+    "correct_answer": "B",
+    "explanation": "Orientation optimises light interception."
+  },
+  {
+    "source_sentence": "Photosystem naming order not functional order.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Photosystem I is named I because:",
+    "options": {
+      "A": "It functions first in Z scheme",
+      "B": "It was discovered first",
+      "C": "It has only carotenoids",
+      "D": "It lacks chlorophyll"
+    },
+    "correct_answer": "B",
+    "explanation": "Named by discovery order, not function order."
+  },
+  {
+    "source_sentence": "LHC antenna pigments except one chl a per photosystem.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Light harvesting complexes consist of:",
+    "options": {
+      "A": "Hundreds of pigment molecules bound to proteins",
+      "B": "Only one carotenoid",
+      "C": "Only DNA",
+      "D": "Only PEP"
+    },
+    "correct_answer": "A",
+    "explanation": "Antenna complexes have many pigments."
+  },
+  {
+    "source_sentence": "Electrons from PS II replace those lost from PS I.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Electrons for PS I are replenished by:",
+    "options": {
+      "A": "CO2 fixation",
+      "B": "Water splitting at PS II",
+      "C": "Glucose oxidation in stroma",
+      "D": "Photorespiration only"
+    },
+    "correct_answer": "B",
+    "explanation": "Water photolysis supplies electrons."
+  },
+  {
+    "source_sentence": "O2 released from thylakoid lumen side.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "O2 from water splitting is released into:",
+    "options": {
+      "A": "Stroma primarily according to location of complex",
+      "B": "Thylakoid lumen (inner side)",
+      "C": "Mitochondria",
+      "D": "Soil"
+    },
+    "correct_answer": "B",
+    "explanation": "Water-splitting complex on inner thylakoid side."
+  },
+  {
+    "source_sentence": "Regeneration step of Calvin needs 1 ATP for RuBP.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Regeneration of the CO2 acceptor RuBP in the Calvin cycle consumes:",
+    "options": {
+      "A": "NADPH only",
+      "B": "ATP for phosphorylation steps",
+      "C": "O2 directly",
+      "D": "PEP carboxylase"
+    },
+    "correct_answer": "B",
+    "explanation": "One ATP per turn is used in RuBP regeneration."
+  },
+  {
+    "source_sentence": "Carboxylation reduction regeneration three stages Calvin.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The three stages of Calvin cycle are:",
+    "options": {
+      "A": "Glycolysis, Krebs, ETS",
+      "B": "Carboxylation, reduction, regeneration",
+      "C": "Light, dark, photorespiration only",
+      "D": "PEP fixation only"
+    },
+    "correct_answer": "B",
+    "explanation": "Calvin proceeds in three defined stages."
+  },
+  {
+    "source_sentence": "Malic acid/aspartic acid transport CO2 to sheath in C4.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "In C4 pathway C4 acids like malate transport:",
+    "options": {
+      "A": "O2 to mesophyll",
+      "B": "Fixed carbon to bundle sheath cells",
+      "C": "Only NADPH",
+      "D": "Only starch"
+    },
+    "correct_answer": "B",
+    "explanation": "C4 acids move to bundle sheath for decarboxylation."
+  },
+  {
+    "source_sentence": "3-carbon returned to mesophyll converted back to PEP.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "After CO2 release in bundle sheath, the 3C compound returns to mesophyll to regenerate:",
+    "options": {
+      "A": "RuBP",
+      "B": "PEP",
+      "C": "Glucose only",
+      "D": "Lactic acid"
+    },
+    "correct_answer": "B",
+    "explanation": "3C molecule recycled to PEP completing C4 cycle."
+  },
+  {
+    "source_sentence": "PEPcase in mesophyll; not in bundle sheath.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "PEP carboxylase is present in C4:",
+    "options": {
+      "A": "Bundle sheath only",
+      "B": "Mesophyll cells",
+      "C": "Roots only",
+      "D": "Neither"
+    },
+    "correct_answer": "B",
+    "explanation": "Mesophyll has PEPcase; sheath lacks it."
+  },
+  {
+    "source_sentence": "Bundle sheath thick walls impervious to gas exchange.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Bundle sheath cells in C4 leaves have:",
+    "options": {
+      "A": "Thin walls with large intercellular spaces",
+      "B": "Thick walls impervious to gaseous exchange",
+      "C": "No chloroplasts ever",
+      "D": "Only PEPcase"
+    },
+    "correct_answer": "B",
+    "explanation": "Thick walls help maintain high CO2 in sheath."
+  },
+  {
+    "source_sentence": "Photorespiration pathway no ATP or NADPH synthesis.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Photorespiratory pathway differs from Calvin cycle because it:",
+    "options": {
+      "A": "Synthesises extra ATP",
+      "B": "Neither synthesises sugars nor ATP/NADPH",
+      "C": "Produces only glucose faster",
+      "D": "Uses PEP as first acceptor"
+    },
+    "correct_answer": "B",
+    "explanation": "Photorespiration is wasteful."
+  },
+  {
+    "source_sentence": "Low CO2 favours RuBisCO oxygenase activity in C3.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Low CO2 concentration promotes photorespiration in C3 because:",
+    "options": {
+      "A": "O2 competes for RuBisCO active site",
+      "B": "PEPcase dominates",
+      "C": "Calvin cycle stops entirely",
+      "D": "Cyclic flow ceases"
+    },
+    "correct_answer": "A",
+    "explanation": "Low CO2:O2 ratio favours oxygenase reaction."
+  },
+  {
+    "source_sentence": "High CO2 suppresses photorespiration in C3.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "High CO2 concentration would:",
+    "options": {
+      "A": "Increase photorespiration in C3",
+      "B": "Favour carboxylation over oxygenation at RuBisCO",
+      "C": "Eliminate chlorophyll",
+      "D": "Stop light reactions"
+    },
+    "correct_answer": "B",
+    "explanation": "High CO2 drives carboxylase activity."
+  },
+  {
+    "source_sentence": "Greenhouse CO2 enrichment increases tomato yield.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "CO2 enrichment in greenhouses benefits:",
+    "options": {
+      "A": "Only C4 crops",
+      "B": "C3 crops like tomatoes by raising photosynthesis",
+      "C": "Non-photosynthetic fungi only",
+      "D": "Only roots"
+    },
+    "correct_answer": "B",
+    "explanation": "C3 plants respond to elevated CO2."
+  },
+  {
+    "source_sentence": "Tropical plants higher temperature optimum than temperate.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Plants adapted to tropics generally have:",
+    "options": {
+      "A": "Lower photosynthetic temperature optimum",
+      "B": "Higher temperature optimum than temperate species",
+      "C": "No temperature dependence",
+      "D": "Only CAM metabolism"
+    },
+    "correct_answer": "B",
+    "explanation": "Habitat determines temperature optimum."
+  },
+  {
+    "source_sentence": "Excess light can destroy chlorophyll lowering photosynthesis.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Very high incident light beyond saturation may:",
+    "options": {
+      "A": "Always increase photosynthesis linearly",
+      "B": "Cause chlorophyll breakdown and decrease photosynthesis",
+      "C": "Have no effect",
+      "D": "Only affect roots"
+    },
+    "correct_answer": "B",
+    "explanation": "Photo-oxidative damage at extreme light."
+  },
+  {
+    "source_sentence": "Biosynthetic phase continues briefly after light off.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Immediately after light becomes unavailable, Calvin cycle:",
+    "options": {
+      "A": "Stops instantly always",
+      "B": "Continues for some time using existing ATP/NADPH",
+      "C": "Reverses to glycolysis only",
+      "D": "Moves to mitochondria"
+    },
+    "correct_answer": "B",
+    "explanation": "Stored ATP/NADPH allow brief continuation."
+  },
+  {
+    "source_sentence": "Compare cyclic vs non-cyclic.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Non-cyclic photophosphorylation differs from cyclic in producing:",
+    "options": {
+      "A": "Only ATP",
+      "B": "Both ATP and NADPH with O2 evolution",
+      "C": "Only NADPH without electrons from water",
+      "D": "Glucose directly"
+    },
+    "correct_answer": "B",
+    "explanation": "Non-cyclic uses both photosystems and splits water."
+  },
+  {
+    "source_sentence": "Compare cyclic vs non-cyclic 2.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Cyclic photophosphorylation is favoured when:",
+    "options": {
+      "A": "Only wavelengths beyond 680 nm available or NADPH excess",
+      "B": "Only CO2 absent",
+      "C": "Only in roots",
+      "D": "Only during photorespiration"
+    },
+    "correct_answer": "A",
+    "explanation": "Cyclic supplements ATP especially with long wavelengths."
+  },
+  {
+    "source_sentence": "Chlorophyll a blue-red peaks match action spectrum partly.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Maximum photosynthesis rates align with chlorophyll a absorption peaks in:",
+    "options": {
+      "A": "Blue and red regions",
+      "B": "Green only",
+      "C": "Infrared only",
+      "D": "UV-C only"
+    },
+    "correct_answer": "A",
+    "explanation": "Blue and red drive highest photosynthetic rates."
+  },
+  {
+    "source_sentence": "Action spectrum not perfect overlap with chl a alone.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Incomplete overlap of action and chlorophyll a absorption spectra indicates:",
+    "options": {
+      "A": "Photosynthesis does not use light",
+      "B": "Accessory pigments contribute to photosynthesis",
+      "C": "Only roots photosynthesise",
+      "D": "Only O2 absorbs light"
+    },
+    "correct_answer": "B",
+    "explanation": "Accessory pigments fill gaps."
+  },
+  {
+    "source_sentence": "Photosynthesis releases O2 essential for aerobic respiration.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Ecological significance of oxygenic photosynthesis includes:",
+    "options": {
+      "A": "Depleting all CO2 permanently",
+      "B": "Releasing O2 into atmosphere",
+      "C": "Stopping water cycle",
+      "D": "Only producing heat"
+    },
+    "correct_answer": "B",
+    "explanation": "O2 release supports aerobic life."
+  },
+  {
+    "source_sentence": "Autotrophs make food; heterotrophs depend on them.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Green plants are autotrophs because they:",
+    "options": {
+      "A": "Absorb organic food from soil only",
+      "B": "Synthesise organic compounds using light energy",
+      "C": "Lack chlorophyll always",
+      "D": "Only respire"
+    },
+    "correct_answer": "B",
+    "explanation": "Autotrophs fix carbon using photosynthesis."
+  },
+  {
+    "source_sentence": "Stroma lamellae connect grana.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Stroma lamellae are:",
+    "options": {
+      "A": "Extensions connecting thylakoid grana in chloroplast",
+      "B": "Mitochondrial cristae",
+      "C": "Cell wall layers",
+      "D": "Nuclear pores"
+    },
+    "correct_answer": "A",
+    "explanation": "Lamellae link grana within chloroplast."
+  },
+  {
+    "source_sentence": "Reduction phase uses ATP and NADPH per CO2.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Reduction phase of Calvin cycle utilises:",
+    "options": {
+      "A": "Only O2",
+      "B": "ATP and NADPH from light reactions",
+      "C": "Only PEP",
+      "D": "Only water splitting"
+    },
+    "correct_answer": "B",
+    "explanation": "Reduction consumes photochemical products."
+  },
+  {
+    "source_sentence": "Six turns Calvin for one glucose.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Number of Calvin cycle turns needed per glucose molecule is:",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "6",
+      "D": "12"
+    },
+    "correct_answer": "C",
+    "explanation": "Six CO2 molecules fixed per glucose."
+  },
+  {
+    "source_sentence": "Van Niel equation 2H2A + CO2 -> 2A + CH2O.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Van Niel generalised photosynthesis as reduction of CO2 using:",
+    "options": {
+      "A": "Only O2",
+      "B": "Hydrogen from a suitable donor (H2A)",
+      "C": "Only nitrogen",
+      "D": "Only PEP"
+    },
+    "correct_answer": "B",
+    "explanation": "Hydrogen donor varies: H2O in plants, H2S in some bacteria."
+  },
+  {
+    "source_sentence": "Purple sulphur bacteria may produce sulphur not O2.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Anoxygenic photosynthesis in purple sulphur bacteria may oxidise H2S to:",
+    "options": {
+      "A": "O2 always",
+      "B": "Sulphur or sulphate",
+      "C": "Glucose only in dark",
+      "D": "N2"
+    },
+    "correct_answer": "B",
+    "explanation": "Sulphur compounds produced instead of O2."
+  },
+  {
+    "source_sentence": "Identify C4 by Kranz anatomy in leaf section.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "C3 vs C4 can be distinguished microscopically by presence of:",
+    "options": {
+      "A": "Kranz bundle sheath in C4",
+      "B": "Stomata only in C3",
+      "C": "No chloroplasts in C4",
+      "D": "Only roots in C4"
+    },
+    "correct_answer": "A",
+    "explanation": "Kranz anatomy identifies C4 leaves."
+  },
+  {
+    "source_sentence": "C4 highly productive though Calvin in few sheath cells.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "C4 plants remain highly productive although Calvin cycle runs mainly in bundle sheath because:",
+    "options": {
+      "A": "They lack Calvin cycle",
+      "B": "CO2 concentrating mechanism minimises photorespiration",
+      "C": "They do not need ATP",
+      "D": "They only respire"
+    },
+    "correct_answer": "B",
+    "explanation": "Efficient CO2 delivery supports high net fixation."
+  },
+  {
+    "source_sentence": "Figure 11.10 light limiting at low intensity region.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "At low light intensity on photosynthesis light curve, rate is limited primarily by:",
+    "options": {
+      "A": "CO2 always",
+      "B": "Light intensity",
+      "C": "Soil nitrogen only",
+      "D": "O2 toxicity"
+    },
+    "correct_answer": "B",
+    "explanation": "Low light region is light-limited."
+  },
+  {
+    "source_sentence": "C3 responds to increased CO2 at high light not low light.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "At low light intensity, elevated CO2:",
+    "options": {
+      "A": "Greatly increases both C3 and C4 rates",
+      "B": "Does not greatly increase photosynthesis in either group",
+      "C": "Only helps C4",
+      "D": "Stops Calvin cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "Both groups do not respond strongly to high CO2 at low light."
+  },
+  {
+    "source_sentence": "Internal factors: chlorophyll, leaf orientation, mesophyll.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Plant-internal determinants of photosynthetic rate include:",
+    "options": {
+      "A": "Leaf number, orientation, mesophyll/chloroplast organisation and chlorophyll amount",
+      "B": "Lunar phase exclusively",
+      "C": "Soil colour alone",
+      "D": "Wind direction only"
+    },
+    "correct_answer": "A",
+    "explanation": "Genetic and anatomical plant factors modulate photosynthesis."
+  },
+  {
+    "source_sentence": "External factors: light, CO2, temperature, water.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "External factors limiting photosynthesis include:",
+    "options": {
+      "A": "Only DNA sequence",
+      "B": "Light, CO2, temperature and water availability",
+      "C": "Only ribosome size",
+      "D": "Only cell wall thickness"
+    },
+    "correct_answer": "B",
+    "explanation": "Classic external limiting factors."
+  },
+  {
+    "source_sentence": "Chemiosmosis needs membrane proton gradient ATP synthase.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Chemiosmotic ATP synthesis in chloroplast requires all EXCEPT:",
+    "options": {
+      "A": "Thylakoid membrane",
+      "B": "Proton gradient",
+      "C": "ATP synthase",
+      "D": "Direct CO2 fixation"
+    },
+    "correct_answer": "D",
+    "explanation": "CO2 fixation is separate from chemiosmosis."
+  },
+  {
+    "source_sentence": "NADP reductase on stroma side uses protons from stroma.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "NADP+ reduction on stroma side of thylakoid:",
+    "options": {
+      "A": "Consumes protons from stroma contributing to gradient",
+      "B": "Releases O2",
+      "C": "Fixes CO2 directly",
+      "D": "Splits water"
+    },
+    "correct_answer": "A",
+    "explanation": "Proton removal from stroma adds to lumen gradient."
+  },
+  {
+    "source_sentence": "RuBisCO also called most abundant protein biosphere ch9 link.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "RuBisCO is exceptionally abundant because:",
+    "options": {
+      "A": "It is absent in plants",
+      "B": "It is used in all photosynthetic carbon fixation globally",
+      "C": "It only digests proteins",
+      "D": "It stores lipids"
+    },
+    "correct_answer": "B",
+    "explanation": "Universal carboxylase in photosynthetic organisms."
+  },
+  {
+    "source_sentence": "Hatch and Slack pathway cyclic CO2 concentrating.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Hatch–Slack (C4) pathway is best described as:",
+    "options": {
+      "A": "CO2 concentrating mechanism feeding Calvin cycle",
+      "B": "Replacement for all light reactions",
+      "C": "Anaerobic fermentation",
+      "D": "Only photorespiration"
+    },
+    "correct_answer": "A",
+    "explanation": "C4 concentrates CO2 for RuBisCO in sheath."
+  },
+  {
+    "source_sentence": "Compare anatomy C3 vs C4 mesophyll vs sheath roles.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "In C4 leaves, mesophyll cells lack RuBisCO but contain:",
+    "options": {
+      "A": "PEP carboxylase",
+      "B": "Only mitochondria for Calvin",
+      "C": "No chloroplasts",
+      "D": "Only starch grains exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Mesophyll performs initial C4 fixation via PEPcase."
+  },
+  {
+    "source_sentence": "Photorespiration biological function unknown per NCERT.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "The biological function of photorespiration is:",
+    "options": {
+      "A": "Fully understood as ATP source",
+      "B": "Not yet known",
+      "C": "To maximise glucose always",
+      "D": "To replace Calvin cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states function is not known yet."
+  },
+  {
+    "source_sentence": "Chlorophyll b yellow-green on chromatogram.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Chlorophyll b appears on chromatogram as:",
+    "options": {
+      "A": "Blue-green",
+      "B": "Yellow-green",
+      "C": "Red",
+      "D": "Colourless always"
+    },
+    "correct_answer": "B",
+    "explanation": "Chl a bright/blue-green; chl b yellow-green."
+  },
+  {
+    "source_sentence": "Carotenoids yellow to yellow-orange accessory.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Carotenoids function primarily as:",
+    "options": {
+      "A": "Accessory pigments absorbing light and protecting chl a",
+      "B": "CO2 acceptors",
+      "C": "Electron final acceptors like O2 in respiration",
+      "D": "Only storage lipids"
+    },
+    "correct_answer": "A",
+    "explanation": "Carotenoids are accessory photoprotective pigments."
+  },
+  {
+    "source_sentence": "P700 absorbs 700nm red light PS I.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "P700 reaction centre absorbs red light of wavelength:",
+    "options": {
+      "A": "680 nm",
+      "B": "700 nm",
+      "C": "400 nm only",
+      "D": "800 nm"
+    },
+    "correct_answer": "B",
+    "explanation": "PS I reaction centre is P700."
+  },
+  {
+    "source_sentence": "Electrons move downhill on redox scale in ETC.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Electron transport in chloroplast moves electrons:",
+    "options": {
+      "A": "Uphill in energy without light",
+      "B": "Downhill in redox potential through carriers",
+      "C": "Only in stroma without proteins",
+      "D": "From NADPH to water"
+    },
+    "correct_answer": "B",
+    "explanation": "Electrons pass through carriers along redox gradient."
+  },
+  {
+    "source_sentence": "Cytochromes in chloroplast ETC between PS II and PS I.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Between PS II and PS I electrons pass through:",
+    "options": {
+      "A": "Cytochrome-containing electron transport chain",
+      "B": "Only Calvin cycle",
+      "C": "Only PEPcase",
+      "D": "Only ribosomes"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytochromes link the two photosystems."
+  },
+  {
+    "source_sentence": "Products light reaction O2 diffuses; ATP NADPH used in stroma.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "O2 produced in light reaction:",
+    "options": {
+      "A": "Is used entirely in Calvin cycle",
+      "B": "Diffuses out of chloroplast",
+      "C": "Forms PEP",
+      "D": "Stays bound to RuBisCO forever"
+    },
+    "correct_answer": "B",
+    "explanation": "O2 diffuses out; ATP/NADPH drive fixation."
+  },
+  {
+    "source_sentence": "CO2 combined with H2O conceptually to sugars in biosynthetic phase.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Biosynthetic phase of photosynthesis synthesises:",
+    "options": {
+      "A": "Sugars/carbohydrates",
+      "B": "Only amino acids from O2",
+      "C": "Only lipids without carbon",
+      "D": "Only nucleotides without carbon"
+    },
+    "correct_answer": "A",
+    "explanation": "Carbon fixation produces sugars."
+  },
+  {
+    "source_sentence": "First acceptor thought 2C before RuBP discovered 5C.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Scientists initially expected Calvin CO2 acceptor to be:",
+    "options": {
+      "A": "5-carbon RuBP",
+      "B": "2-carbon compound",
+      "C": "PEP",
+      "D": "Glucose"
+    },
+    "correct_answer": "B",
+    "explanation": "First product C3 led to wrong 2C acceptor hypothesis."
+  },
+  {
+    "source_sentence": "C4 OAA 4 carbon first stable product.",
+    "chapter": "Chapter 11: Photosynthesis in Higher Plants",
+    "question": "Number of carbon atoms in first stable C4 fixation product OAA is:",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct_answer": "B",
+    "explanation": "OAA is 4-carbon organic acid."
+  }
+]

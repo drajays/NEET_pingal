@@ -1,0 +1,1237 @@
+[
+  {
+    "source_sentence": "From this it could be deduced that the duration of a cardiac cycle is 0.8 seconds.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "At 72 beats/min, duration of one cardiac cycle is:",
+    "options": {
+      "A": "0.8 seconds",
+      "B": "1.2 seconds",
+      "C": "0.5 seconds",
+      "D": "2.0 seconds"
+    },
+    "correct_answer": "A",
+    "explanation": "60/72 ≈ 0.83 s; NCERT states 0.8 s."
+  },
+  {
+    "source_sentence": "During each cardiac cycle two prominent sounds are produced.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "First heart sound 'lub' is associated with:",
+    "options": {
+      "A": "Closure of AV (tricuspid and bicuspid) valves",
+      "B": "Closure of semilunar valves",
+      "C": "Opening of AV valves",
+      "D": "SAN firing only"
+    },
+    "correct_answer": "A",
+    "explanation": "Lub = AV valve closure at start of ventricular systole."
+  },
+  {
+    "source_sentence": "SAN now generates an action potential which stimulates both the atria to undergo a simultaneous contraction – the atrial systole.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Atrial systole adds approximately how much blood to ventricles?",
+    "options": {
+      "A": "About 30% additional filling",
+      "B": "100% of ventricular volume",
+      "C": "No additional volume",
+      "D": "Only pulmonary blood"
+    },
+    "correct_answer": "A",
+    "explanation": "Atrial contraction contributes ~30% to ventricular filling."
+  },
+  {
+    "source_sentence": "Ventricular systole increases the ventricular pressure causing the closure of tricuspid and bicuspid valves.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "AV valves close during ventricular systole to prevent:",
+    "options": {
+      "A": "Backflow of blood into atria",
+      "B": "Blood entering aorta",
+      "C": "Blood reaching lungs",
+      "D": "SAN depolarisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Rising ventricular pressure closes AV valves."
+  },
+  {
+    "source_sentence": "Semilunar valves guarding the pulmonary artery and the aorta are forced open during ventricular systole.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Semilunar valves open when:",
+    "options": {
+      "A": "Ventricular pressure exceeds arterial pressure",
+      "B": "Atrial pressure rises",
+      "C": "AV valves open",
+      "D": "Heart is in joint diastole"
+    },
+    "correct_answer": "A",
+    "explanation": "High ventricular pressure forces semilunar valves open."
+  },
+  {
+    "source_sentence": "During each cardiac cycle each ventricle pumps out approximately 70 mL of blood which is called the stroke volume.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Stroke volume per ventricle per beat is about:",
+    "options": {
+      "A": "70 mL",
+      "B": "5 litres",
+      "C": "5000 mL",
+      "D": "5 mL"
+    },
+    "correct_answer": "A",
+    "explanation": "Stroke volume ≈ 70 mL."
+  },
+  {
+    "source_sentence": "Cardiac output can be defined as the volume of blood pumped out by each ventricle per minute and averages 5000 mL or 5 litres.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Cardiac output in healthy adult is approximately:",
+    "options": {
+      "A": "5 litres/minute",
+      "B": "70 mL/minute",
+      "C": "500 mL/minute",
+      "D": "0.8 L/minute"
+    },
+    "correct_answer": "A",
+    "explanation": "CO = stroke volume × heart rate ≈ 70×72 ≈ 5000 mL/min."
+  },
+  {
+    "source_sentence": "The QRS complex represents the depolarisation of the ventricles.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "QRS complex on ECG corresponds to:",
+    "options": {
+      "A": "Ventricular depolarisation/contraction onset",
+      "B": "Atrial repolarisation only",
+      "C": "Ventricular filling",
+      "D": "SAN pacemaker potential"
+    },
+    "correct_answer": "A",
+    "explanation": "QRS = ventricular depolarisation initiating systole."
+  },
+  {
+    "source_sentence": "SAN can generate the maximum number of action potentials, i.e., 70-75 min-1, and is responsible for initiating and maintaining the rhythmic contractile activity of the heart.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Pacemaker of heart is:",
+    "options": {
+      "A": "Sino-atrial node (SAN)",
+      "B": "Atrio-ventricular node",
+      "C": "Purkinje fibres only",
+      "D": "Bundle of His only"
+    },
+    "correct_answer": "A",
+    "explanation": "SAN fires fastest (70-75/min), setting heart rate."
+  },
+  {
+    "source_sentence": "Our heart normally beats 70-75 times in a minute (average 72 beats min-1).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Normal resting heart rate is about:",
+    "options": {
+      "A": "72 beats/min",
+      "B": "120 beats/min always",
+      "C": "30 beats/min",
+      "D": "150 beats/min"
+    },
+    "correct_answer": "A",
+    "explanation": "Average 72 bpm; range 70-75."
+  },
+  {
+    "source_sentence": "Heart is myogenic.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Assertion (A): Cardiac rhythm is auto-regulated by nodal tissue. Reason (R): SAN generates action potentials without external neural stimulus. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Myogenic heart: nodal tissue initiates rhythm intrinsically."
+  },
+  {
+    "source_sentence": "AVN and AV bundle transmit impulse from atria to ventricles with brief delay.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "AV node significance is to:",
+    "options": {
+      "A": "Delay impulse allowing ventricular filling after atrial contraction",
+      "B": "Increase heart rate above SAN",
+      "C": "Stop ventricular contraction",
+      "D": "Generate faster impulses than SAN"
+    },
+    "correct_answer": "A",
+    "explanation": "AVN delay ensures atrial systole completes before ventricular systole."
+  },
+  {
+    "source_sentence": "Purkinje fibres distribute impulse through ventricular musculature.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Bundle of His and Purkinje fibres:",
+    "options": {
+      "A": "Conduct impulses to ventricular myocardium",
+      "B": "Form valves of heart",
+      "C": "Secrete pericardial fluid",
+      "D": "Filter blood in atria"
+    },
+    "correct_answer": "A",
+    "explanation": "Conduction system spreads depolarisation through ventricles."
+  },
+  {
+    "source_sentence": "Albumin help in osmotic balance.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Major plasma protein maintaining osmotic pressure is:",
+    "options": {
+      "A": "Albumin",
+      "B": "Fibrinogen",
+      "C": "Prothrombin",
+      "D": "Haemoglobin"
+    },
+    "correct_answer": "A",
+    "explanation": "Albumin maintains blood osmotic balance."
+  },
+  {
+    "source_sentence": "Platelets can release substances involved in coagulation or clotting of blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Thrombocytes (platelets) function in:",
+    "options": {
+      "A": "Blood clotting",
+      "B": "O2 transport",
+      "C": "Antibody production",
+      "D": "Bile secretion"
+    },
+    "correct_answer": "A",
+    "explanation": "Platelets release clotting factors."
+  },
+  {
+    "source_sentence": "Persons with 'AB' group can accept blood from persons with AB as well as the other groups.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Universal recipient blood group is:",
+    "options": {
+      "A": "AB (no anti-A or anti-B in plasma)",
+      "B": "O",
+      "C": "A",
+      "D": "B"
+    },
+    "correct_answer": "A",
+    "explanation": "AB plasma lacks antibodies against A/B antigens."
+  },
+  {
+    "source_sentence": "TABLE 15.1 Blood Groups and Donor Compatibility.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood group A can receive from:",
+    "options": {
+      "A": "A and O donors",
+      "B": "B only",
+      "C": "AB only",
+      "D": "O only if Rh negative always"
+    },
+    "correct_answer": "A",
+    "explanation": "Group A has anti-B; can take A or O."
+  },
+  {
+    "source_sentence": "Rh-ve person, if exposed to Rh+ve blood, will form specific antibodies against the Rh antigens.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Rh incompatibility risk arises when:",
+    "options": {
+      "A": "Rh- mother carries Rh+ fetus in subsequent pregnancies",
+      "B": "Rh+ mother carries Rh- fetus always",
+      "C": "First pregnancy always fatal",
+      "D": "ABO match irrelevant"
+    },
+    "correct_answer": "A",
+    "explanation": "Sensitised Rh- mother may harm Rh+ fetus later."
+  },
+  {
+    "source_sentence": "Thrombins are formed from prothrombin via thrombokinase complex.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Prothrombin activation requires:",
+    "options": {
+      "A": "Thrombokinase/thromboplastin cascade",
+      "B": "Only oxygen",
+      "C": "Insulin",
+      "D": "ADH"
+    },
+    "correct_answer": "A",
+    "explanation": "Cascade converts prothrombin to thrombin."
+  },
+  {
+    "source_sentence": "In birds and mammals, oxygenated and deoxygenated blood received by the left and right atria respectively passes on to the ventricles of the same sides without mixing.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Double circulation in mammals prevents:",
+    "options": {
+      "A": "Mixing of oxygenated and deoxygenated blood in ventricles",
+      "B": "Pulmonary circulation entirely",
+      "C": "Systemic circulation",
+      "D": "Lymph formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Separate ventricles maintain oxygenation separation."
+  },
+  {
+    "source_sentence": "The pulmonary circulation starts by the pumping of deoxygenated blood by the right ventricle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Pulmonary circulation carries:",
+    "options": {
+      "A": "Deoxygenated blood to lungs; oxygenated blood to left atrium",
+      "B": "Oxygenated blood to body",
+      "C": "Lymph to kidneys",
+      "D": "Blood to liver only"
+    },
+    "correct_answer": "A",
+    "explanation": "RV → pulmonary artery → lungs → pulmonary veins → LA."
+  },
+  {
+    "source_sentence": "The systemic circulation starts with the pumping of oxygenated blood by the left ventricle to the aorta.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Systemic circulation begins with:",
+    "options": {
+      "A": "Left ventricle pumping to aorta",
+      "B": "Right ventricle to lungs",
+      "C": "Right atrium to vena cava",
+      "D": "Pulmonary vein to RA"
+    },
+    "correct_answer": "A",
+    "explanation": "LV → aorta → body → vena cava → RA."
+  },
+  {
+    "source_sentence": "Fishes have a 2-chambered heart with single circulation.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Fish heart has:",
+    "options": {
+      "A": "2 chambers; single circulation",
+      "B": "4 chambers; double circulation",
+      "C": "3 chambers mixing blood",
+      "D": "No heart"
+    },
+    "correct_answer": "A",
+    "explanation": "Fish: 2-chambered heart, blood passes gills then body."
+  },
+  {
+    "source_sentence": "Amphibians and reptiles (except crocodiles) have 3-chambered heart with incomplete double circulation.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Frog heart ventricle receives:",
+    "options": {
+      "A": "Mixed blood from both atria in single ventricle",
+      "B": "Separated oxygenated blood only",
+      "C": "Only deoxygenated blood",
+      "D": "No blood from lungs"
+    },
+    "correct_answer": "A",
+    "explanation": "3-chambered heart: partial mixing in ventricle."
+  },
+  {
+    "source_sentence": "Crocodiles, birds and mammals possess a 4-chambered heart.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Complete separation of oxygenated/deoxygenated blood occurs in:",
+    "options": {
+      "A": "4-chambered hearts of birds and mammals",
+      "B": "Fish",
+      "C": "All reptiles including all lizards equally",
+      "D": "Amphibians"
+    },
+    "correct_answer": "A",
+    "explanation": "4 chambers = complete double circulation."
+  },
+  {
+    "source_sentence": "Tricuspid valve guards right atrio-ventricular opening; bicuspid (mitral) guards left.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Mitral valve is located between:",
+    "options": {
+      "A": "Left atrium and left ventricle",
+      "B": "Right atrium and right ventricle",
+      "C": "LV and aorta",
+      "D": "RV and pulmonary artery"
+    },
+    "correct_answer": "A",
+    "explanation": "Bicuspid/mitral = left AV valve."
+  },
+  {
+    "source_sentence": "Semilunar valves allow blood flow from ventricles to pulmonary artery and aorta only.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Semilunar valves prevent backflow from:",
+    "options": {
+      "A": "Arteries into ventricles",
+      "B": "Atria into ventricles",
+      "C": "Veins into atria",
+      "D": "Capillaries into arteries"
+    },
+    "correct_answer": "A",
+    "explanation": "Pulmonary and aortic valves stop arterial backflow."
+  },
+  {
+    "source_sentence": "Walls of ventricles are much thicker than that of the atria.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Left ventricle wall is thickest because it:",
+    "options": {
+      "A": "Pumps blood systemically at high pressure",
+      "B": "Pumps only to lungs",
+      "C": "Receives blood from vena cava",
+      "D": "Stores lymph"
+    },
+    "correct_answer": "A",
+    "explanation": "LV generates high pressure for systemic circulation."
+  },
+  {
+    "source_sentence": "Pericardium encloses pericardial fluid protecting heart.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Pericardium function includes:",
+    "options": {
+      "A": "Protection and reducing friction via pericardial fluid",
+      "B": "Pumping blood",
+      "C": "Gas exchange",
+      "D": "Urine formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Pericardial sac lubricates and protects heart."
+  },
+  {
+    "source_sentence": "Sympathetic nerves can increase the rate of heart beat, the strength of ventricular contraction and thereby the cardiac output.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Sympathetic stimulation of heart:",
+    "options": {
+      "A": "Increases rate and force of contraction",
+      "B": "Decreases heart rate only",
+      "C": "Blocks SAN",
+      "D": "Closes AV valves permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "Sympathetic = fight/flight: ↑HR and contractility."
+  },
+  {
+    "source_sentence": "Parasympathetic neural signals decrease the rate of heart beat.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Parasympathetic (vagus) effect on heart:",
+    "options": {
+      "A": "Decreases heart rate and AV conduction",
+      "B": "Increases cardiac output always",
+      "C": "Dilates coronary vessels only",
+      "D": "Stops clotting"
+    },
+    "correct_answer": "A",
+    "explanation": "Parasympathetic slows SAN firing and conduction."
+  },
+  {
+    "source_sentence": "Lymph is a colourless fluid containing specialised lymphocytes.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Lymph differs from blood mainly in:",
+    "options": {
+      "A": "Lower protein content and no RBCs",
+      "B": "Higher haemoglobin",
+      "C": "Presence of fibrinogen always higher",
+      "D": "More platelets"
+    },
+    "correct_answer": "A",
+    "explanation": "Lymph lacks RBCs; similar mineral distribution to plasma."
+  },
+  {
+    "source_sentence": "Interstitial fluid has same mineral distribution as plasma.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Tissue fluid is formed when:",
+    "options": {
+      "A": "Plasma ultrafiltrates through capillaries leaving proteins/RBCs",
+      "B": "Lymph enters arteries",
+      "C": "Urine backflows",
+      "D": "Alveolar fluid drains"
+    },
+    "correct_answer": "A",
+    "explanation": "Capillary filtration produces interstitial/tissue fluid."
+  },
+  {
+    "source_sentence": "Hypertension is blood pressure higher than normal (120/80).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Hypertension is diagnosed when repeated BP is about:",
+    "options": {
+      "A": "140/90 or higher",
+      "B": "80/50",
+      "C": "120/80 exactly always normal",
+      "D": "90/60 in all adults"
+    },
+    "correct_answer": "A",
+    "explanation": "Sustained ≥140/90 indicates hypertension."
+  },
+  {
+    "source_sentence": "Coronary Artery Disease (CAD) affects vessels supplying blood to heart muscle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Atherosclerosis in coronary arteries causes:",
+    "options": {
+      "A": "Reduced myocardial blood supply (CAD)",
+      "B": "Increased GFR",
+      "C": "Alveolar damage",
+      "D": "Splenic RBC production"
+    },
+    "correct_answer": "A",
+    "explanation": "CAD narrows coronary vessels impairing heart perfusion."
+  },
+  {
+    "source_sentence": "Angina is symptom of acute chest pain when not enough oxygen reaches heart muscle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Angina pectoris indicates:",
+    "options": {
+      "A": "Myocardial ischaemia/oxygen deficiency",
+      "B": "Kidney stone",
+      "C": "Lung fibrosis only",
+      "D": "High lymphocyte count only"
+    },
+    "correct_answer": "A",
+    "explanation": "Angina = chest pain from insufficient coronary O2."
+  },
+  {
+    "source_sentence": "Heart failure is not the same as cardiac arrest.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Heart failure means:",
+    "options": {
+      "A": "Heart pumps ineffectively meeting body needs",
+      "B": "Heart stops beating suddenly always",
+      "C": "Heart attack equals failure always",
+      "D": "Only valve disease"
+    },
+    "correct_answer": "A",
+    "explanation": "Failure = pump inefficiency; arrest = stopped beat."
+  },
+  {
+    "source_sentence": "Ventricular systole coincides with atrial diastole.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Assertion (A): When ventricles contract, atria relax to receive venous return. Reason (R): Simultaneous atrial systole and ventricular systole would impair filling. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Coordinated timing: atrial diastole during ventricular systole."
+  },
+  {
+    "source_sentence": "Counting QRS complexes per time gives heart beat rate.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Heart rate from ECG is determined by counting:",
+    "options": {
+      "A": "QRS complexes per minute",
+      "B": "P waves only",
+      "C": "T waves exclusively",
+      "D": "Baseline drift"
+    },
+    "correct_answer": "A",
+    "explanation": "Each QRS ≈ one ventricular beat."
+  },
+  {
+    "source_sentence": "Deviation from standard ECG shape indicates possible abnormality.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Clinical significance of ECG includes detecting:",
+    "options": {
+      "A": "Arrhythmias and conduction defects",
+      "B": "Blood groups",
+      "C": "Renal calculi",
+      "D": "Plant growth rate"
+    },
+    "correct_answer": "A",
+    "explanation": "ECG abnormalities reflect cardiac electrical problems."
+  },
+  {
+    "source_sentence": "Hepatic portal system connects digestive tract and liver.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Hepatic portal vein carries blood:",
+    "options": {
+      "A": "From intestine to liver before systemic circulation",
+      "B": "From liver to lungs",
+      "C": "From kidney to heart directly",
+      "D": "From aorta to brain only"
+    },
+    "correct_answer": "A",
+    "explanation": "Portal system routes nutrient-rich blood to liver first."
+  },
+  {
+    "source_sentence": "Coronary circulation exclusively supplies cardiac musculature.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Coronary arteries supply:",
+    "options": {
+      "A": "Heart muscle (myocardium)",
+      "B": "Lungs",
+      "C": "Kidneys",
+      "D": "Spleen only"
+    },
+    "correct_answer": "A",
+    "explanation": "Coronary vessels nourish cardiac tissue."
+  },
+  {
+    "source_sentence": "Tunica media is comparatively thin in veins.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Veins compared to arteries have:",
+    "options": {
+      "A": "Thinner tunica media, lower pressure capacity",
+      "B": "Thicker muscular media always",
+      "C": "Only endothelium no layers",
+      "D": "Higher blood pressure"
+    },
+    "correct_answer": "A",
+    "explanation": "Veins carry blood at lower pressure; thinner media."
+  },
+  {
+    "source_sentence": "Eosinophils (2-3 per cent) resist infections and are associated with allergic reactions.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Eosinophils increase notably in:",
+    "options": {
+      "A": "Allergic and parasitic conditions",
+      "B": "Clotting disorders only",
+      "C": "High altitude only",
+      "D": "Renal failure exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Eosinophils combat parasites and mediate allergy."
+  },
+  {
+    "source_sentence": "Basophils secrete histamine, serotonin, heparin involved in inflammatory reactions.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Basophil granules contain:",
+    "options": {
+      "A": "Histamine, serotonin, heparin",
+      "B": "Haemoglobin",
+      "C": "Bile pigments",
+      "D": "Insulin"
+    },
+    "correct_answer": "A",
+    "explanation": "Basophils release mediators of inflammation."
+  },
+  {
+    "source_sentence": "Monocytes and neutrophils are phagocytic.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Primary phagocytes among WBCs include:",
+    "options": {
+      "A": "Neutrophils and monocytes",
+      "B": "Erythrocytes",
+      "C": "Platelets only",
+      "D": "Basophils exclusively for phagocytosis"
+    },
+    "correct_answer": "A",
+    "explanation": "Neutrophils and monocytes engulf pathogens."
+  },
+  {
+    "source_sentence": "Healthy adult has 5-5.5 million RBCs per mm3.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "RBC count in healthy adult man is about:",
+    "options": {
+      "A": "5-5.5 million/mm3",
+      "B": "500/mm3",
+      "C": "5 billion/mm3",
+      "D": "Same as platelets"
+    },
+    "correct_answer": "A",
+    "explanation": "RBC most abundant formed element."
+  },
+  {
+    "source_sentence": "12-16 g haemoglobin per 100 mL blood in healthy individual.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Normal haemoglobin concentration is:",
+    "options": {
+      "A": "12-16 g/100 mL",
+      "B": "50 g/100 mL",
+      "C": "1-2 g/100 mL",
+      "D": "0.1 g/100 mL"
+    },
+    "correct_answer": "A",
+    "explanation": "Hb concentration indicator of O2 carrying capacity."
+  },
+  {
+    "source_sentence": "Platelet count 1,50,000-3,50,000 per mm3.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Thrombocytopenia risk increases when platelets fall below normal range causing:",
+    "options": {
+      "A": "Bleeding/clotting disorders",
+      "B": "Hypertension only",
+      "C": "Polycythemia",
+      "D": "Lymphocytosis only"
+    },
+    "correct_answer": "A",
+    "explanation": "Low platelets impair clotting."
+  },
+  {
+    "source_sentence": "Globulins primarily involved in defense mechanisms.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Gamma globulins in plasma are mainly:",
+    "options": {
+      "A": "Antibodies (immunoglobulins)",
+      "B": "Clotting fibrin mesh",
+      "C": "O2 carriers",
+      "D": "Digestive enzymes"
+    },
+    "correct_answer": "A",
+    "explanation": "Globulins include immunoglobulins."
+  },
+  {
+    "source_sentence": "Why do we call our heart myogenic?",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Heart is myogenic because rhythm originates in:",
+    "options": {
+      "A": "Cardiac nodal tissue intrinsically",
+      "B": "Only medulla oblongata without nodal tissue",
+      "C": "Skeletal muscle nerves",
+      "D": "Kidney JGA"
+    },
+    "correct_answer": "A",
+    "explanation": "Myogenic = pacemaker within heart muscle."
+  },
+  {
+    "source_sentence": "Significance of AV node and bundle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "AV bundle (Bundle of His) ensures:",
+    "options": {
+      "A": "Coordinated ventricular contraction after AV delay",
+      "B": "Atrial flutter only",
+      "C": "Closure of semilunar valves",
+      "D": "Lymph production"
+    },
+    "correct_answer": "A",
+    "explanation": "Conducts impulse to ventricles for synchronized systole."
+  },
+  {
+    "source_sentence": "Define cardiac cycle and cardiac output.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Cardiac output formula is:",
+    "options": {
+      "A": "Stroke volume × heart rate",
+      "B": "Stroke volume ÷ heart rate",
+      "C": "Tidal volume × respiratory rate",
+      "D": "GFR × urine flow"
+    },
+    "correct_answer": "A",
+    "explanation": "CO = SV × HR per ventricle per minute."
+  },
+  {
+    "source_sentence": "Explain heart sounds.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Lub-dub sequence in one cycle:",
+    "options": {
+      "A": "Lub (AV close) then Dub (semilunar close)",
+      "B": "Dub then Lub simultaneously",
+      "C": "Only one sound",
+      "D": "Lub at ventricular diastole"
+    },
+    "correct_answer": "A",
+    "explanation": "AV valves → lub; semilunar → dub."
+  },
+  {
+    "source_sentence": "Difference between systole and diastole.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Systole is:",
+    "options": {
+      "A": "Contraction phase ejecting blood",
+      "B": "Relaxation phase filling ventricles",
+      "C": "Only atrial rest",
+      "D": "ECG T-wave only"
+    },
+    "correct_answer": "A",
+    "explanation": "Systole = contraction; diastole = relaxation."
+  },
+  {
+    "source_sentence": "Difference between P-wave and T-wave.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "P-wave differs from T-wave as P represents:",
+    "options": {
+      "A": "Atrial depolarisation vs ventricular repolarisation (T)",
+      "B": "Ventricular systole vs diastole",
+      "C": "Both ventricular depolarisation",
+      "D": "SAN repolarisation only"
+    },
+    "correct_answer": "A",
+    "explanation": "P = atrial depolarisation; T = ventricular repolarisation."
+  },
+  {
+    "source_sentence": "Evolutionary change in heart among vertebrates.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Correct evolutionary sequence of heart chambers:",
+    "options": {
+      "A": "2 (fish) → 3 (amphibians/reptiles) → 4 (birds/mammals)",
+      "B": "4 → 2 → 3",
+      "C": "3 → 2 → 4",
+      "D": "1 → 4 directly"
+    },
+    "correct_answer": "A",
+    "explanation": "Progression to more chambers reduces mixing."
+  },
+  {
+    "source_sentence": "Significance of double circulation.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Double circulation significance:",
+    "options": {
+      "A": "Maintains high systemic blood pressure without affecting pulmonary circuit",
+      "B": "Eliminates need for lungs",
+      "C": "Mixes all blood in one ventricle",
+      "D": "Replaces lymph"
+    },
+    "correct_answer": "A",
+    "explanation": "Separate pulmonary/systemic circuits optimize pressures."
+  },
+  {
+    "source_sentence": "Blood is connective tissue.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood classified as connective tissue because:",
+    "options": {
+      "A": "Fluid matrix (plasma) with formed cellular elements",
+      "B": "It is solid cartilage",
+      "C": "Only neurons present",
+      "D": "No matrix exists"
+    },
+    "correct_answer": "A",
+    "explanation": "Connective tissue = matrix + cells."
+  },
+  {
+    "source_sentence": "Difference between blood and lymph.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Lymph compared to blood lacks:",
+    "options": {
+      "A": "Erythrocytes and significant plasma proteins",
+      "B": "All WBCs",
+      "C": "Water",
+      "D": "Ions completely"
+    },
+    "correct_answer": "A",
+    "explanation": "Lymph has lymphocytes; no RBCs; lower protein."
+  },
+  {
+    "source_sentence": "Rh antigen present in 80% humans (Rh+).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Rh positive individuals:",
+    "options": {
+      "A": "Possess Rh antigen on RBC surface",
+      "B": "Always lack Rh antigen",
+      "C": "Cannot receive any transfusion",
+      "D": "Have only O group"
+    },
+    "correct_answer": "A",
+    "explanation": "Majority (~80%) are Rh+."
+  },
+  {
+    "source_sentence": "ABO grouping based on surface antigens A and B on RBCs.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood group B has:",
+    "options": {
+      "A": "B antigen on RBC; anti-A in plasma",
+      "B": "A antigen; anti-B",
+      "C": "No antigens; anti-A and anti-B",
+      "D": "A and B antigens; no antibodies"
+    },
+    "correct_answer": "A",
+    "explanation": "Group B: B antigen, anti-A antibody."
+  },
+  {
+    "source_sentence": "During ventricular diastole semilunar valves close first as pressure falls.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "When ventricular pressure drops below arterial pressure:",
+    "options": {
+      "A": "Semilunar valves close preventing backflow",
+      "B": "AV valves remain closed forever",
+      "C": "Atria stop filling",
+      "D": "SAN stops firing"
+    },
+    "correct_answer": "A",
+    "explanation": "Falling ventricular pressure closes semilunar valves."
+  },
+  {
+    "source_sentence": "When ventricular pressure declines further, AV valves open.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "AV valves reopen during ventricular diastole due to:",
+    "options": {
+      "A": "Atrial pressure exceeding falling ventricular pressure",
+      "B": "Semilunar valves opening",
+      "C": "Increased aortic pressure only",
+      "D": "SAN inactivation permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "Blood from atria pushes AV valves open as ventricles relax."
+  },
+  {
+    "source_sentence": "Joint diastole returns after ventricular diastole before next SAN impulse.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Complete cardiac cycle ends with:",
+    "options": {
+      "A": "Return to joint diastole before next beat",
+      "B": "Permanent systole",
+      "C": "Only atrial systole",
+      "D": "Semilunar valves open continuously"
+    },
+    "correct_answer": "A",
+    "explanation": "Cycle repeats: joint diastole → atrial systole → ventricular systole → diastole."
+  },
+  {
+    "source_sentence": "Athlete cardiac output much higher than ordinary man.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Athlete increases cardiac output mainly by:",
+    "options": {
+      "A": "Higher stroke volume and/or heart rate",
+      "B": "Decreased blood volume only",
+      "C": "Single circulation",
+      "D": "Reduced venous return"
+    },
+    "correct_answer": "A",
+    "explanation": "Training increases SV and sometimes HR."
+  },
+  {
+    "source_sentence": "Neural centre in medulla oblongata moderates cardiac function via ANS.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Cardiac function is modulated extrinsically by:",
+    "options": {
+      "A": "Autonomic nervous system and hormones",
+      "B": "Only intrinsic SAN without any modulation",
+      "C": "Respiratory centre only",
+      "D": "PGRs from plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Heart autoexcitable but ANS/hormones adjust output."
+  },
+  {
+    "source_sentence": "Match Column: Systole corresponds to contraction of heart.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Systole in matching exercise equals:",
+    "options": {
+      "A": "Contraction/ejection phase",
+      "B": "Universal recipient",
+      "C": "Gas transport",
+      "D": "Coagulation"
+    },
+    "correct_answer": "A",
+    "explanation": "Systole = ventricular/atrial contraction."
+  },
+  {
+    "source_sentence": "Match Column: AB Group is universal recipient.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "AB blood group individual can receive:",
+    "options": {
+      "A": "From all ABO groups",
+      "B": "Only from O",
+      "C": "Only from AB",
+      "D": "From none"
+    },
+    "correct_answer": "A",
+    "explanation": "AB = universal recipient."
+  },
+  {
+    "source_sentence": "Match Column: Platelets coagulation.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Platelets primarily aid:",
+    "options": {
+      "A": "Blood coagulation",
+      "B": "Gas transport",
+      "C": "Antibody synthesis exclusively",
+      "D": "Heart pacemaker"
+    },
+    "correct_answer": "A",
+    "explanation": "Platelets trigger clotting cascade."
+  },
+  {
+    "source_sentence": "Match Column: RBC gas transport.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Erythrocytes chief function:",
+    "options": {
+      "A": "Respiratory gas transport via haemoglobin",
+      "B": "Phagocytosis",
+      "C": "Antibody production",
+      "D": "Hormone secretion"
+    },
+    "correct_answer": "A",
+    "explanation": "RBCs transport O2 and some CO2."
+  },
+  {
+    "source_sentence": "Match Column: Eosinophils resist infections.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Eosinophil primary association:",
+    "options": {
+      "A": "Parasites and allergic responses",
+      "B": "Blood clotting",
+      "C": "Pacemaker activity",
+      "D": "Urea excretion"
+    },
+    "correct_answer": "A",
+    "explanation": "Eosinophils combat parasites/allergy."
+  },
+  {
+    "source_sentence": "Right ventricle pumps to pulmonary artery; left to aorta.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Pulmonary artery carries:",
+    "options": {
+      "A": "Deoxygenated blood from RV to lungs",
+      "B": "Oxygenated blood to body",
+      "C": "Blood from LA to LV",
+      "D": "Lymph to spleen"
+    },
+    "correct_answer": "A",
+    "explanation": "Only pulmonary vein carries oxygenated blood to heart."
+  },
+  {
+    "source_sentence": "Pulmonary vein brings oxygenated blood to left atrium.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Only artery carrying oxygenated blood in adult humans is:",
+    "options": {
+      "A": "Pulmonary artery is deoxygenated; pulmonary vein oxygenated",
+      "B": "Aorta is deoxygenated",
+      "C": "Vena cava oxygenated",
+      "D": "All arteries O2-rich including pulmonary artery"
+    },
+    "correct_answer": "A",
+    "explanation": "NEET trap: pulmonary artery = deoxygenated; pulmonary vein = oxygenated."
+  },
+  {
+    "source_sentence": "Blood is special connective tissue; plasma and formed elements.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Assertion (A): Human blood volume is about 5 litres in adult. Reason (R): Plasma constitutes about 55% of blood volume. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Plasma is major fraction of blood volume."
+  },
+  {
+    "source_sentence": "Heart: four chambers; double circulation in humans.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which chamber receives oxygenated blood from lungs?",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right atrium",
+      "C": "Right ventricle",
+      "D": "Pulmonary artery"
+    },
+    "correct_answer": "A",
+    "explanation": "Pulmonary veins deliver O2-rich blood to left atrium."
+  },
+  {
+    "source_sentence": "Cardiac cycle: systole and diastole; lub-dub sounds from valve closure.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Second heart sound (dub) is due to closure of:",
+    "options": {
+      "A": "Semilunar valves",
+      "B": "AV valves only",
+      "C": "Tricuspid alone without pulmonary",
+      "D": "Foramen ovale in adult"
+    },
+    "correct_answer": "A",
+    "explanation": "Dub: aortic and pulmonary valve closure."
+  },
+  {
+    "source_sentence": "ECG: P wave (atrial depolarisation), QRS (ventricular depolarisation), T (repolarisation).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "P wave on ECG indicates:",
+    "options": {
+      "A": "Atrial depolarisation",
+      "B": "Ventricular repolarisation",
+      "C": "Ventricular depolarisation",
+      "D": "Complete cardiac refractory period only"
+    },
+    "correct_answer": "A",
+    "explanation": "P wave precedes atrial contraction."
+  },
+  {
+    "source_sentence": "ABO blood groups based on antigens on RBC; antibodies in plasma.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A person with blood group O has:",
+    "options": {
+      "A": "No A or B antigens on RBC; anti-A and anti-B antibodies in plasma",
+      "B": "Both A and B antigens",
+      "C": "Only antigen A",
+      "D": "Rh antigen always without any antibodies"
+    },
+    "correct_answer": "A",
+    "explanation": "Group O lacks A/B antigens; has both antibodies."
+  },
+  {
+    "source_sentence": "Rh incompatibility: Rh- mother with Rh+ fetus may cause erythroblastosis foetalis.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "First pregnancy Rh- mother carrying Rh+ fetus usually:",
+    "options": {
+      "A": "May be unaffected; sensitisation risk increases in subsequent Rh+ pregnancies",
+      "B": "Always causes immediate maternal death",
+      "C": "Converts mother to AB positive blood group",
+      "D": "Eliminates all maternal antibodies permanently first exposure"
+    },
+    "correct_answer": "A",
+    "explanation": "Sensitisation often after first exposure; second pregnancy higher risk."
+  },
+  {
+    "source_sentence": "WBCs: granulocytes (neutrophils, eosinophils, basophils) and agranulocytes.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Eosinophils increase in:",
+    "options": {
+      "A": "Allergic and parasitic conditions",
+      "B": "Only bacterial sepsis without parasites",
+      "C": "Iron deficiency anaemia exclusively",
+      "D": "High altitude only without allergy"
+    },
+    "correct_answer": "A",
+    "explanation": "Eosinophils combat parasites and modulate allergy."
+  },
+  {
+    "source_sentence": "Platelets involved in clotting; release thromboplastin.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which cascade is initiated during blood coagulation?",
+    "options": {
+      "A": "Conversion of fibrinogen to fibrin by thrombin",
+      "B": "Direct conversion of RBC to WBC",
+      "C": "Haemoglobin to bile without enzymes",
+      "D": "Plasma to serum without clotting factors"
+    },
+    "correct_answer": "A",
+    "explanation": "Thrombin cleaves fibrinogen forming fibrin mesh."
+  },
+  {
+    "source_sentence": "SA node is pacemaker; generates action potentials ~70-80/min.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Cardiac impulse originates at:",
+    "options": {
+      "A": "SA node",
+      "B": "AV node exclusively without SA",
+      "C": "Purkinje fibres first always",
+      "D": "Bundle of His only in atria"
+    },
+    "correct_answer": "A",
+    "explanation": "SA node sets intrinsic heart rate."
+  },
+  {
+    "source_sentence": "Pulmonary artery carries deoxygenated blood; pulmonary vein carries oxygenated blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which vessel carries oxygenated blood?",
+    "options": {
+      "A": "Pulmonary vein",
+      "B": "Pulmonary artery",
+      "C": "Superior vena cava",
+      "D": "Right ventricle outflow to lungs before oxygenation"
+    },
+    "correct_answer": "A",
+    "explanation": "Pulmonary vein returns oxygenated blood from lungs to heart."
+  },
+  {
+    "source_sentence": "Lymphatic system returns interstitial fluid; lacks RBCs and haemoglobin.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Compared to blood plasma, lymph has:",
+    "options": {
+      "A": "Lower protein concentration generally",
+      "B": "Higher haemoglobin content",
+      "C": "More platelets always",
+      "D": "Identical cell count to arterial blood"
+    },
+    "correct_answer": "A",
+    "explanation": "Lymph is interstitial fluid with fewer proteins."
+  },
+  {
+    "source_sentence": "Neurogenic heart (crustaceans) vs myogenic heart (humans).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Human heart is:",
+    "options": {
+      "A": "Myogenic with SA node initiating beat",
+      "B": "Neurogenic requiring CNS for every beat",
+      "C": "Absence of conducting fibres",
+      "D": "Two-chambered like fish only"
+    },
+    "correct_answer": "A",
+    "explanation": "Myogenic: cardiac muscle initiates rhythm intrinsically."
+  },
+  {
+    "source_sentence": "Stroke volume × heart rate = cardiac output (~5 L/min at rest).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "If heart rate is 72/min and stroke volume 70 mL, cardiac output is approximately:",
+    "options": {
+      "A": "5.04 L/min",
+      "B": "0.5 L/min",
+      "C": "50 L/min",
+      "D": "504 L/min"
+    },
+    "correct_answer": "A",
+    "explanation": "CO = 72 × 70 = 5040 mL/min ≈ 5 L/min."
+  },
+  {
+    "source_sentence": "Double circulation separates pulmonary and systemic circuits.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Advantage of double circulation in mammals includes:",
+    "options": {
+      "A": "Maintaining high systemic blood pressure for efficient tissue perfusion",
+      "B": "Eliminating need for capillaries",
+      "C": "Mixing oxygenated and deoxygenated blood in ventricle",
+      "D": "Single circuit serving gills and body together"
+    },
+    "correct_answer": "A",
+    "explanation": "Separate circuits maintain high pressure to systemic tissues."
+  },
+  {
+    "source_sentence": "Clotting factors require calcium ions; vitamin K needed for prothrombin synthesis.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Consider the following statements:\n1. Ca2+ is essential for several clotting steps\n2. Haemophilia involves deficiency of clotting factor VIII or IX\n3. Platelets are unnecessary for coagulation\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Platelets essential; statements 1 and 2 correct."
+  },
+  {
+    "source_sentence": "Basophils release histamine, heparin; involved in inflammatory response.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Histamine release during allergy primarily from:",
+    "options": {
+      "A": "Basophils and mast cells",
+      "B": "Erythrocytes only",
+      "C": "Neutrophils exclusively without basophils",
+      "D": "Platelets converting to RBC"
+    },
+    "correct_answer": "A",
+    "explanation": "Basophils/mast cells release histamine in allergy."
+  },
+  {
+    "source_sentence": "Bundle of His and Purkinje fibres conduct impulse to ventricles.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "AV node delay allows:",
+    "options": {
+      "A": "Atria to complete contraction before ventricular systole",
+      "B": "Ventricular filling during systole",
+      "C": "Simultaneous atrial and ventricular contraction always",
+      "D": "Reverse blood flow into veins"
+    },
+    "correct_answer": "A",
+    "explanation": "Brief AV delay synchronises atrial then ventricular beat."
+  },
+  {
+    "source_sentence": "Open circulatory system in arthropods vs closed in annelids and vertebrates.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Closed circulatory system is found in:",
+    "options": {
+      "A": "Earthworm and humans",
+      "B": "Cockroach only among listed complex animals",
+      "C": "All insects without exception",
+      "D": "Only plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Annelids and vertebrates have closed circulation."
+  },
+  {
+    "source_sentence": "Regulation of cardiac activity: autonomic nerves and hormones (adrenaline).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Adrenaline during stress causes:",
+    "options": {
+      "A": "Increased heart rate and force of contraction",
+      "B": "Bradycardia and vasodilation everywhere without exception",
+      "C": "Permanent AV block",
+      "D": "Decreased stroke volume always"
+    },
+    "correct_answer": "A",
+    "explanation": "Sympathetic stimulation increases HR and contractility."
+  },
+  {
+    "source_sentence": "Renin-angiotensin system regulates blood pressure and volume.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Angiotensin II primarily causes:",
+    "options": {
+      "A": "Vasoconstriction and increased blood pressure",
+      "B": "Massive drop in BP always",
+      "C": "Conversion of fibrinogen to albumin",
+      "D": "Elimination of all Na+ in urine without retention"
+    },
+    "correct_answer": "A",
+    "explanation": "Angiotensin II is potent vasoconstrictor."
+  },
+  {
+    "source_sentence": "Lymphocytes produce antibodies; cell-mediated and humoral immunity.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "B-lymphocytes are primarily responsible for:",
+    "options": {
+      "A": "Humoral immunity via antibody production",
+      "B": "Direct phagocytosis of all bacteria without antibodies",
+      "C": "Blood clotting cascade initiation alone",
+      "D": "O2 transport in capillaries"
+    },
+    "correct_answer": "A",
+    "explanation": "B cells differentiate into antibody-secreting plasma cells."
+  }
+]

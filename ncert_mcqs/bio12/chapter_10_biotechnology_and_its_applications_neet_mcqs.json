@@ -1,0 +1,1133 @@
+[
+  {
+    "source_sentence": "Bt toxin genes cry1Ac and cry2Ab are used in Bt cotton.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The proteins that confer insect resistance in Bt cotton are",
+    "options": {
+      "A": "cry proteins",
+      "B": "rbcL proteins",
+      "C": "rubisco",
+      "D": "actin"
+    },
+    "correct_answer": "A",
+    "explanation": "Cry proteins from Bacillus thuringiensis are insecticidal."
+  },
+  {
+    "source_sentence": "Cry toxins become active in the alkaline gut of insects.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Bt toxin is activated when it",
+    "options": {
+      "A": "enters acidic human stomach",
+      "B": "is processed in alkaline insect gut",
+      "C": "binds plant cell wall",
+      "D": "is heated to 95°C"
+    },
+    "correct_answer": "B",
+    "explanation": "Alkaline insect gut converts protoxin to active toxin."
+  },
+  {
+    "source_sentence": "RNAi uses complementary RNA to silence genes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "RNA interference in nematode-resistant tobacco works by",
+    "options": {
+      "A": "producing antisense RNA that degrades mRNA",
+      "B": "increasing translation of mRNA",
+      "C": "editing DNA directly",
+      "D": "producing insulin"
+    },
+    "correct_answer": "A",
+    "explanation": "RNAi uses dsRNA to silence specific mRNA."
+  },
+  {
+    "source_sentence": "Human insulin has A and B polypeptide chains.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "In recombinant insulin production, the A and B chains are",
+    "options": {
+      "A": "synthesized together in a single peptide",
+      "B": "produced separately and then combined",
+      "C": "derived from pig pancreas only",
+      "D": "made by yeast without genes"
+    },
+    "correct_answer": "B",
+    "explanation": "A and B chains are produced separately and assembled."
+  },
+  {
+    "source_sentence": "Proinsulin contains an extra C-peptide.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The C-peptide in proinsulin is",
+    "options": {
+      "A": "retained in mature insulin",
+      "B": "removed during processing",
+      "C": "the active site",
+      "D": "a promoter sequence"
+    },
+    "correct_answer": "B",
+    "explanation": "C-peptide is removed to yield mature insulin."
+  },
+  {
+    "source_sentence": "ADA deficiency can be treated by gene therapy.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The gene therapy for ADA deficiency involves",
+    "options": {
+      "A": "injecting purified ADA protein only",
+      "B": "introducing ADA gene into patient lymphocytes",
+      "C": "removing spleen",
+      "D": "activating cry genes"
+    },
+    "correct_answer": "B",
+    "explanation": "Patient lymphocytes are modified with ADA gene and reinfused."
+  },
+  {
+    "source_sentence": "ELISA is used to detect antigens or antibodies.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "ELISA stands for",
+    "options": {
+      "A": "Enzyme-linked immunosorbent assay",
+      "B": "Electro-linked immune system assay",
+      "C": "Enzyme-linked isotope assay",
+      "D": "Electrophoretic ligand immuno assay"
+    },
+    "correct_answer": "A",
+    "explanation": "ELISA is Enzyme-Linked Immunosorbent Assay."
+  },
+  {
+    "source_sentence": "PCR can detect pathogen DNA.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "PCR-based diagnosis is especially useful because it",
+    "options": {
+      "A": "requires large amount of pathogen",
+      "B": "detects very low quantity of DNA",
+      "C": "cannot detect viruses",
+      "D": "requires symptoms to appear"
+    },
+    "correct_answer": "B",
+    "explanation": "PCR amplifies minute DNA for early detection."
+  },
+  {
+    "source_sentence": "Transgenic animals are used for toxicological testing.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Transgenic mice are widely used because they",
+    "options": {
+      "A": "never develop diseases",
+      "B": "carry foreign genes for research",
+      "C": "cannot reproduce",
+      "D": "lack immune system"
+    },
+    "correct_answer": "B",
+    "explanation": "Transgenic mice have inserted genes for studies."
+  },
+  {
+    "source_sentence": "GEAC is the regulatory body in India.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The approval for GM crop release in India is given by",
+    "options": {
+      "A": "ICMR",
+      "B": "GEAC",
+      "C": "UGC",
+      "D": "NCERT"
+    },
+    "correct_answer": "B",
+    "explanation": "GEAC evaluates GMO research and release."
+  },
+  {
+    "source_sentence": "Biopiracy refers to unauthorized use of bioresources.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The term biopiracy is used for",
+    "options": {
+      "A": "legal use of traditional knowledge",
+      "B": "unauthorized exploitation of biological resources",
+      "C": "biosafety regulation",
+      "D": "development of GM crops"
+    },
+    "correct_answer": "B",
+    "explanation": "Biopiracy is unauthorized use without benefit sharing."
+  },
+  {
+    "source_sentence": "Bt cotton targets bollworms.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The primary target insect of Bt cotton in India is",
+    "options": {
+      "A": "aphid",
+      "B": "bollworm",
+      "C": "whitefly",
+      "D": "leaf miner"
+    },
+    "correct_answer": "B",
+    "explanation": "Bt cotton is designed against bollworms."
+  },
+  {
+    "source_sentence": "RNAi constructs produce double-stranded RNA.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "In RNAi technology, the dsRNA triggers",
+    "options": {
+      "A": "ribosome assembly",
+      "B": "mRNA degradation",
+      "C": "DNA repair",
+      "D": "protein folding"
+    },
+    "correct_answer": "B",
+    "explanation": "dsRNA induces silencing and mRNA degradation."
+  },
+  {
+    "source_sentence": "GM crops can reduce pesticide use.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A major benefit of Bt crops is",
+    "options": {
+      "A": "increase in herbicide use",
+      "B": "reduced insecticide application",
+      "C": "loss of yield",
+      "D": "higher disease susceptibility"
+    },
+    "correct_answer": "B",
+    "explanation": "Bt crops lower insecticide requirement."
+  },
+  {
+    "source_sentence": "Golden rice is biofortified with vitamin A.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Golden rice is engineered to produce",
+    "options": {
+      "A": "vitamin A precursor in endosperm",
+      "B": "vitamin C in leaves",
+      "C": "lycopene in roots",
+      "D": "protein in husk"
+    },
+    "correct_answer": "A",
+    "explanation": "Golden rice synthesizes beta-carotene in endosperm."
+  },
+  {
+    "source_sentence": "Transgenic animals can be used to produce useful proteins.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Rosie, the first transgenic cow, produced",
+    "options": {
+      "A": "human insulin in milk",
+      "B": "human alpha-lactalbumin in milk",
+      "C": "Bt toxin in milk",
+      "D": "interferon in saliva"
+    },
+    "correct_answer": "B",
+    "explanation": "Rosie produced human alpha-lactalbumin."
+  },
+  {
+    "source_sentence": "Somatic gene therapy targets body cells.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Gene therapy currently approved for humans is",
+    "options": {
+      "A": "germline therapy",
+      "B": "somatic cell therapy",
+      "C": "chromosome therapy",
+      "D": "organelle therapy"
+    },
+    "correct_answer": "B",
+    "explanation": "Only somatic therapy is ethically and legally allowed."
+  },
+  {
+    "source_sentence": "Biopharming uses transgenic organisms to produce drugs.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Producing human proteins in transgenic animals is called",
+    "options": {
+      "A": "biosafety",
+      "B": "biopharming",
+      "C": "biopiracy",
+      "D": "bioremediation"
+    },
+    "correct_answer": "B",
+    "explanation": "Biopharming uses transgenic organisms for pharmaceuticals."
+  },
+  {
+    "source_sentence": "Bacillus thuringiensis produces insecticidal proteins.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Bt protein is toxic to insects because it",
+    "options": {
+      "A": "blocks plant photosynthesis",
+      "B": "creates pores in insect gut epithelium",
+      "C": "inhibits plant hormones",
+      "D": "degrades insect DNA directly"
+    },
+    "correct_answer": "B",
+    "explanation": "Activated toxin forms pores in gut cells."
+  },
+  {
+    "source_sentence": "PCR and ELISA are used for early diagnosis.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which technique directly detects antigen-antibody interaction?",
+    "options": {
+      "A": "PCR",
+      "B": "ELISA",
+      "C": "Northern blot",
+      "D": "Southern blot"
+    },
+    "correct_answer": "B",
+    "explanation": "ELISA detects antigen-antibody interactions."
+  },
+  {
+    "source_sentence": "DNA vaccines produce immune response.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "In DNA vaccination, the host cells",
+    "options": {
+      "A": "are given antibodies directly",
+      "B": "express antigen from injected DNA",
+      "C": "receive killed pathogens only",
+      "D": "ignore the DNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Host cells produce antigen to induce immunity."
+  },
+  {
+    "source_sentence": "Transgenic plants can improve nutritional quality.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A crop engineered for higher iron and vitamin A is intended to",
+    "options": {
+      "A": "promote biopiracy",
+      "B": "improve nutritional quality",
+      "C": "increase pesticide use",
+      "D": "reduce yield"
+    },
+    "correct_answer": "B",
+    "explanation": "Biofortification increases nutritional quality."
+  },
+  {
+    "source_sentence": "Biosafety testing is necessary for GM crops.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Before release, GM crops are evaluated for",
+    "options": {
+      "A": "biosafety and environmental impact",
+      "B": "religious acceptability only",
+      "C": "toxicity to humans only",
+      "D": "cost of seeds only"
+    },
+    "correct_answer": "A",
+    "explanation": "Biosafety includes environment and health impacts."
+  },
+  {
+    "source_sentence": "Bt cotton expresses cry genes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The cry genes in Bt cotton are originally obtained from",
+    "options": {
+      "A": "Agrobacterium",
+      "B": "Bacillus thuringiensis",
+      "C": "Rhizobium",
+      "D": "E. coli"
+    },
+    "correct_answer": "B",
+    "explanation": "Cry genes are from Bacillus thuringiensis."
+  },
+  {
+    "source_sentence": "RNAi in tobacco targets a nematode gene.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The nematode targeted in RNAi-based tobacco resistance is",
+    "options": {
+      "A": "Meloidogyne incognita",
+      "B": "Ascaris lumbricoides",
+      "C": "Wuchereria bancrofti",
+      "D": "Taenia solium"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT cites Meloidogyne incognita."
+  },
+  {
+    "source_sentence": "Recombinant DNA techniques are used for insulin production.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The first recombinant human insulin was produced by",
+    "options": {
+      "A": "Eli Lilly",
+      "B": "ICMR",
+      "C": "GEAC",
+      "D": "WHO"
+    },
+    "correct_answer": "A",
+    "explanation": "Humulin was first produced by Eli Lilly."
+  },
+  {
+    "source_sentence": "Biopiracy has been highlighted in the turmeric and neem cases.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which traditional resource is a classic example discussed in biopiracy debates?",
+    "options": {
+      "A": "Neem",
+      "B": "Wheat",
+      "C": "Cotton",
+      "D": "Rice only"
+    },
+    "correct_answer": "A",
+    "explanation": "Neem patents raised biopiracy concerns."
+  },
+  {
+    "source_sentence": "Transgenic animals help study disease models.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A primary use of transgenic animals is to",
+    "options": {
+      "A": "increase soil fertility",
+      "B": "model human diseases",
+      "C": "purify water",
+      "D": "clone plants"
+    },
+    "correct_answer": "B",
+    "explanation": "Transgenic animals provide disease models."
+  },
+  {
+    "source_sentence": "Bt cotton is specific to insects of certain orders.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Cry1Ac protein is effective mainly against",
+    "options": {
+      "A": "lepidopteran larvae",
+      "B": "dipteran larvae",
+      "C": "coleopteran larvae only",
+      "D": "nematodes"
+    },
+    "correct_answer": "A",
+    "explanation": "Cry1Ac targets lepidopteran insects."
+  },
+  {
+    "source_sentence": "Biotech products must be tested for allergenicity.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Assessment of allergenicity is part of",
+    "options": {
+      "A": "genetic drift",
+      "B": "biosafety testing",
+      "C": "PCR amplification",
+      "D": "gel electrophoresis"
+    },
+    "correct_answer": "B",
+    "explanation": "Allergenicity tests are included in biosafety assessment."
+  },
+  {
+    "source_sentence": "Gene therapy involves a vector.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A commonly used vector in gene therapy is",
+    "options": {
+      "A": "virus",
+      "B": "ribosome",
+      "C": "chloroplast",
+      "D": "mitochondria"
+    },
+    "correct_answer": "A",
+    "explanation": "Viruses are often used as gene therapy vectors."
+  },
+  {
+    "source_sentence": "Transgenic plants reduce post-harvest losses.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A GM crop engineered to delay ripening helps reduce",
+    "options": {
+      "A": "yield",
+      "B": "post-harvest losses",
+      "C": "vitamin content",
+      "D": "sugar content"
+    },
+    "correct_answer": "B",
+    "explanation": "Delayed ripening reduces spoilage."
+  },
+  {
+    "source_sentence": "DNA fingerprinting can be used for diagnosis.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A disease-causing mutation can be detected by",
+    "options": {
+      "A": "DNA fingerprinting or PCR",
+      "B": "ELISA only",
+      "C": "chromatography only",
+      "D": "gel filtration only"
+    },
+    "correct_answer": "A",
+    "explanation": "PCR and DNA-based tests detect mutations."
+  },
+  {
+    "source_sentence": "GM crops may help in abiotic stress resistance.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Transgenic plants can be developed for",
+    "options": {
+      "A": "enhanced drought tolerance",
+      "B": "reduced nitrogen fixation",
+      "C": "lower shelf life",
+      "D": "lower nutrient content"
+    },
+    "correct_answer": "A",
+    "explanation": "Abiotic stress tolerance is a key target."
+  },
+  {
+    "source_sentence": "Bt toxin genes are expressed as protoxins.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Cry proteins are produced as",
+    "options": {
+      "A": "active toxins in bacteria",
+      "B": "inactive protoxins that require processing",
+      "C": "enzymes that digest DNA",
+      "D": "RNA molecules"
+    },
+    "correct_answer": "B",
+    "explanation": "Cry proteins are inactive protoxins that activate in insect gut."
+  },
+  {
+    "source_sentence": "GM crops can have delayed fruit softening.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Flavr Savr tomato was designed to",
+    "options": {
+      "A": "increase nectar production",
+      "B": "delay fruit softening",
+      "C": "produce Bt toxin",
+      "D": "fix nitrogen"
+    },
+    "correct_answer": "B",
+    "explanation": "Flavr Savr reduced softening enzyme activity."
+  },
+  {
+    "source_sentence": "Transgenic animals can be used to test vaccines.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which is a correct use of transgenic animals?",
+    "options": {
+      "A": "Milk production for cheese only",
+      "B": "Testing vaccine safety",
+      "C": "No use in research",
+      "D": "Declining fertility"
+    },
+    "correct_answer": "B",
+    "explanation": "Transgenic animals are used for vaccine safety testing."
+  },
+  {
+    "source_sentence": "GEAC regulates GMOs in India.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "GEAC stands for",
+    "options": {
+      "A": "Genetic Engineering Appraisal Committee",
+      "B": "Genome Editing Approval Council",
+      "C": "Genetic Ecology Advisory Council",
+      "D": "General Ethics and Approval Committee"
+    },
+    "correct_answer": "A",
+    "explanation": "GEAC is the Genetic Engineering Appraisal Committee."
+  },
+  {
+    "source_sentence": "Biopiracy includes improper patenting.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A patent granted without benefit sharing of indigenous knowledge is",
+    "options": {
+      "A": "biopiracy concern",
+      "B": "biosafety compliance",
+      "C": "gene therapy",
+      "D": "DNA fingerprinting"
+    },
+    "correct_answer": "A",
+    "explanation": "Such patents raise biopiracy concerns."
+  },
+  {
+    "source_sentence": "Bt cotton controls bollworms.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Assertion (A): Bt cotton expresses cry genes that encode insecticidal proteins Reason (R): cry proteins become toxic in the alkaline gut of insects Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both statements are true and R explains A."
+  },
+  {
+    "source_sentence": "RNAi can silence specific genes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Assertion (A): RNAi in nematode-resistant tobacco prevents translation of nematode mRNA Reason (R): the plant produces dsRNA complementary to nematode gene Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Complementary dsRNA triggers mRNA degradation explaining the effect."
+  },
+  {
+    "source_sentence": "Recombinant insulin is safer than insulin from animal sources.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Assertion (A): Recombinant human insulin is safer than insulin extracted from animal pancreas. Reason (R): Recombinant insulin lacks C-peptide because it is produced from mature insulin directly. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "Recombinant insulin uses A and B chains joined later; R is false."
+  },
+  {
+    "source_sentence": "ELISA can detect early infections.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Assertion (A): ELISA is useful for early diagnosis of infections. Reason (R): ELISA detects antibodies that appear before symptoms. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "ELISA detects antibodies/antigens early, explaining early diagnosis."
+  },
+  {
+    "source_sentence": "GEAC is involved in GMO regulation.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Assertion (A): GEAC oversees GM organism research and release in India. Reason (R): GEAC is responsible for approving research and release of GM organisms in India. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "GEAC regulates GMO research and release."
+  },
+  {
+    "source_sentence": "Biotechnology applications are varied.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Match Column I (Application) with Column II (Example). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. Biopharming – Rosie, 2. Gene therapy – ADA deficiency, 3. Biofortification – Golden rice, 4. Biopiracy – Neem patents",
+      "B": "1. Biopharming – Bt cotton, 2. Gene therapy – ELISA, 3. Biofortification – Flavr Savr, 4. Biopiracy – PCR",
+      "C": "1. Biopharming – DNA fingerprinting, 2. Gene therapy – Bt cotton, 3. Biofortification – ADA, 4. Biopiracy – GEAC",
+      "D": "1. Biopharming – PCR, 2. Gene therapy – ELISA, 3. Biofortification – insulin, 4. Biopiracy – Bt toxin"
+    },
+    "correct_answer": "A",
+    "explanation": "Each application matches the classic NCERT example."
+  },
+  {
+    "source_sentence": "Diagnostic methods differ.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Match Column I (Method) with Column II (Detects). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. ELISA – antigen/antibody, 2. PCR – DNA, 3. DNA fingerprinting – polymorphisms, 4. MRI – internal organs",
+      "B": "1. ELISA – DNA, 2. PCR – antibodies, 3. DNA fingerprinting – proteins, 4. MRI – pollen",
+      "C": "1. ELISA – hormones, 2. PCR – proteins, 3. DNA fingerprinting – lipids, 4. MRI – microbes",
+      "D": "1. ELISA – oxygen, 2. PCR – RNA only, 3. DNA fingerprinting – starch, 4. MRI – enzymes"
+    },
+    "correct_answer": "A",
+    "explanation": "ELISA detects antigen/antibody; PCR detects DNA; fingerprinting detects polymorphisms."
+  },
+  {
+    "source_sentence": "Bt crops express different cry genes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Match Column I (Cry gene) with Column II (Target insect group). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. cry1Ac – lepidopterans, 2. cry2Ab – lepidopterans, 3. cry3A – coleopterans, 4. cry4 – dipterans",
+      "B": "1. cry1Ac – dipterans, 2. cry2Ab – coleopterans, 3. cry3A – lepidopterans, 4. cry4 – lepidopterans",
+      "C": "1. cry1Ac – coleopterans, 2. cry2Ab – dipterans, 3. cry3A – dipterans, 4. cry4 – lepidopterans",
+      "D": "1. cry1Ac – nematodes, 2. cry2Ab – insects, 3. cry3A – fungi, 4. cry4 – bacteria"
+    },
+    "correct_answer": "A",
+    "explanation": "Cry1Ac/cry2Ab target lepidopterans; cry3A for coleopterans; cry4 for dipterans."
+  },
+  {
+    "source_sentence": "Gene therapy can be ex vivo or in vivo.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "In ex vivo gene therapy, the gene is introduced",
+    "options": {
+      "A": "directly into the patient's body",
+      "B": "into cells outside the body and then returned",
+      "C": "only into germ cells",
+      "D": "into chloroplasts"
+    },
+    "correct_answer": "B",
+    "explanation": "Ex vivo therapy modifies cells outside the body."
+  },
+  {
+    "source_sentence": "Insulin from recombinant technology is called Humulin.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Humulin is",
+    "options": {
+      "A": "animal insulin",
+      "B": "recombinant human insulin",
+      "C": "plant insulin",
+      "D": "synthetic glucose"
+    },
+    "correct_answer": "B",
+    "explanation": "Humulin is recombinant human insulin."
+  },
+  {
+    "source_sentence": "Bt crops reduce pest damage.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Why is Bt toxin safe for humans?",
+    "options": {
+      "A": "human gut is alkaline",
+      "B": "protoxin is activated only in insect gut",
+      "C": "humans lack DNA",
+      "D": "humans produce Bt toxin"
+    },
+    "correct_answer": "B",
+    "explanation": "Protoxin is activated in alkaline insect gut, not in humans."
+  },
+  {
+    "source_sentence": "Transgenic animals can be used for production of pharmaceuticals.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The term 'pharm animal' refers to animals that",
+    "options": {
+      "A": "are used for transport",
+      "B": "produce therapeutic proteins",
+      "C": "lack any foreign genes",
+      "D": "cause diseases"
+    },
+    "correct_answer": "B",
+    "explanation": "Pharm animals produce therapeutic proteins."
+  },
+  {
+    "source_sentence": "Biotech can help in environmental cleanup.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Using organisms to clean pollutants is called",
+    "options": {
+      "A": "bioremediation",
+      "B": "biopiracy",
+      "C": "biofortification",
+      "D": "biopharming"
+    },
+    "correct_answer": "A",
+    "explanation": "Bioremediation uses organisms to clean pollution."
+  },
+  {
+    "source_sentence": "Cry genes are inserted into crops.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The gene introduced in Bt cotton is",
+    "options": {
+      "A": "cry1Ac/cry2Ab",
+      "B": "rbcL",
+      "C": "nifH",
+      "D": "lacZ"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt cotton contains cry1Ac and cry2Ab genes."
+  },
+  {
+    "source_sentence": "Biopiracy includes patenting without consent.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which statement best captures the concern with biopiracy?",
+    "options": {
+      "A": "Free sharing of benefits",
+      "B": "Patenting without benefit sharing",
+      "C": "High yield crops",
+      "D": "Early disease diagnosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Biopiracy denies fair benefit sharing."
+  },
+  {
+    "source_sentence": "Transgenic plants can act as bioreactors.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "A plant engineered to produce edible vaccine is an example of",
+    "options": {
+      "A": "gene therapy",
+      "B": "biopharming",
+      "C": "biopiracy",
+      "D": "biomagnification"
+    },
+    "correct_answer": "B",
+    "explanation": "Plants producing vaccines are biopharming examples."
+  },
+  {
+    "source_sentence": "ELISA requires enzyme-linked antibodies.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "In ELISA, the enzyme is attached to",
+    "options": {
+      "A": "antibodies",
+      "B": "nucleotides",
+      "C": "lipids",
+      "D": "ribosomes"
+    },
+    "correct_answer": "A",
+    "explanation": "Enzyme-linked antibodies produce color change."
+  },
+  {
+    "source_sentence": "Bt cotton is an insect-resistant crop.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The term 'Bt' in Bt cotton refers to",
+    "options": {
+      "A": "Bacillus thuringiensis",
+      "B": "Bacillus tuber",
+      "C": "Bacterium tumor",
+      "D": "Bifidobacterium"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt stands for Bacillus thuringiensis."
+  },
+  {
+    "source_sentence": "RNAi is a natural defense mechanism.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "RNAi was first observed as a defense against",
+    "options": {
+      "A": "viruses in plants",
+      "B": "fungi in animals",
+      "C": "bacteria in plants",
+      "D": "insects in algae"
+    },
+    "correct_answer": "A",
+    "explanation": "RNAi was observed as antiviral defense in plants."
+  },
+  {
+    "source_sentence": "Gene therapy targets genetic disorders.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The first clinical gene therapy attempted in humans was for",
+    "options": {
+      "A": "thalassemia",
+      "B": "ADA deficiency",
+      "C": "sickle cell anemia",
+      "D": "hemophilia"
+    },
+    "correct_answer": "B",
+    "explanation": "ADA deficiency is the classic first case."
+  },
+  {
+    "source_sentence": "Transgenic animals are made that carry genes which make them more sensitive to toxic substances than non-transgenic animals.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Transgenic animals are made that carry genes which make them more sensitive to t...\"?",
+    "options": {
+      "A": "Bt toxin is active in the alkaline gut of Bacillus itself.",
+      "B": "Transgenic animals are made that carry genes which make them more sensitive to toxic substances than non-transgenic anim...",
+      "C": "RNAi uses complementary ssRNA that enhances mRNA translation.",
+      "D": "Human insulin chains A and B are produced in mammalian liver directly."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Recombinant DNA technological processes have made immense impact in the area of healthcare by enabling mass production of safe and more effective therapeutics.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Recombinant DNA technological processes have made immense impact in the area of ...\"?",
+    "options": {
+      "A": "ELISA detects nucleic acids using radioactive sulfur probes only.",
+      "B": "Rosie the cow produced human insulin in milk.",
+      "C": "GEAC approves all patents on Indian traditional medicines automatically.",
+      "D": "Recombinant DNA technological processes have made immense impact in the area of healthcare by enabling mass production o..."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "You know that for effective treatment of a disease, early diagnosis and understanding its pathophysiology is very important.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"You know that for effective treatment of a disease, early diagnosis and understa...\"?",
+    "options": {
+      "A": "RNAi uses complementary ssRNA that enhances mRNA translation.",
+      "B": "Human insulin chains A and B are produced in mammalian liver directly.",
+      "C": "You know that for effective treatment of a disease, early diagnosis and understanding its pathophysiology is very import...",
+      "D": "ELISA detects nucleic acids using radioactive sulfur probes only."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "You will learn how to accomplish this in higher classes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"You will learn how to accomplish this in higher classes....\"?",
+    "options": {
+      "A": "Somaclones show high genetic variation from the parent plant.",
+      "B": "You will learn how to accomplish this in higher classes.",
+      "C": "Rosie the cow produced human insulin in milk.",
+      "D": "GEAC approves all patents on Indian traditional medicines automatically."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Three critical research areas of biotechnology are:",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Three critical research areas of biotechnology are:...\"?",
+    "options": {
+      "A": "Golden rice is enriched with vitamin C through cry gene insertion.",
+      "B": "RNAi uses complementary ssRNA that enhances mRNA translation.",
+      "C": "Three critical research areas of biotechnology are:",
+      "D": "Bt toxin is active in the alkaline gut of Bacillus itself."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "There are several GM crop plants with improved nutritional value of foods and reduced the reliance on chemical pesticides (pest-resistant crops).",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"There are several GM crop plants with improved nutritional value of foods and re...\"?",
+    "options": {
+      "A": "Golden rice is enriched with vitamin C through cry gene insertion.",
+      "B": "Somaclones show high genetic variation from the parent plant.",
+      "C": "There are several GM crop plants with improved nutritional value of foods and reduced the reliance on chemical pesticide...",
+      "D": "GEAC approves all patents on Indian traditional medicines automatically."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "If we are not vigilant and we do not immediately counter these patent applications, other countries/individuals may encash on our rich legacy and we may not be able to do anything about it.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"If we are not vigilant and we do not immediately counter these patent applicatio...\"?",
+    "options": {
+      "A": "Somaclones show high genetic variation from the parent plant.",
+      "B": "If we are not vigilant and we do not immediately counter these patent applications, other countries/individuals may enca...",
+      "C": "Golden rice is enriched with vitamin C through cry gene insertion.",
+      "D": "Bt toxin is active in the alkaline gut of Bacillus itself."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Can you suggest a method to remove oil (hydrocarbon) from seeds based on your understanding of rDNA technology and chemistry of oil?",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Can you suggest a method to remove oil (hydrocarbon) from seeds based on your un...\"?",
+    "options": {
+      "A": "GEAC approves all patents on Indian traditional medicines automatically.",
+      "B": "Rosie the cow produced human insulin in milk.",
+      "C": "Can you suggest a method to remove oil (hydrocarbon) from seeds based on your understanding of rDNA technology and chemi...",
+      "D": "Somaclones show high genetic variation from the parent plant."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "In mammals, including humans, insulin is synthesised as a pro-hormone (like a pro-enzyme, the pro-hormone also needs to be processed before it becomes a fully mature and functional hormone) which contains an extra stretch called the C peptide.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"In mammals, including humans, insulin is synthesised as a pro-hormone (like a pr...\"?",
+    "options": {
+      "A": "Bt toxin is active in the alkaline gut of Bacillus itself.",
+      "B": "RNAi uses complementary ssRNA that enhances mRNA translation.",
+      "C": "In mammals, including humans, insulin is synthesised as a pro-hormone (like a pro-enzyme, the pro-hormone also needs to ...",
+      "D": "Golden rice is enriched with vitamin C through cry gene insertion."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Biotechnology has given to humans several useful products by using microbes, plant, animals and their metabolic machinery.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Biotechnology has given to humans several useful products by using microbes, pla...\"?",
+    "options": {
+      "A": "Rosie the cow produced human insulin in milk.",
+      "B": "Biotechnology has given to humans several useful products by using microbes, plant, animals and their metabolic machiner...",
+      "C": "Human insulin chains A and B are produced in mammalian liver directly.",
+      "D": "ELISA detects nucleic acids using radioactive sulfur probes only."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Some ethical standards are required to evaluate the morality of all human activities that might help or harm living organisms.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Some ethical standards are required to evaluate the morality of all human activi...\"?",
+    "options": {
+      "A": "Golden rice is enriched with vitamin C through cry gene insertion.",
+      "B": "Somaclones show high genetic variation from the parent plant.",
+      "C": "Some ethical standards are required to evaluate the morality of all human activities that might help or harm living orga...",
+      "D": "GEAC approves all patents on Indian traditional medicines automatically."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Viruses that attack their hosts and introduce their genetic material into the host cell as part of their replication cycle are used as vectors to transfer healthy genes or more recently portions of genes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Viruses that attack their hosts and introduce their genetic material into the ho...\"?",
+    "options": {
+      "A": "Viruses that attack their hosts and introduce their genetic material into the host cell as part of their replication cyc...",
+      "B": "RNAi uses complementary ssRNA that enhances mRNA translation.",
+      "C": "Bt toxin is active in the alkaline gut of Bacillus itself.",
+      "D": "Human insulin chains A and B are produced in mammalian liver directly."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The disorder is caused due to the deletion of the gene for adenosine deaminase.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"The disorder is caused due to the deletion of the gene for adenosine deaminase....\"?",
+    "options": {
+      "A": "GEAC approves all patents on Indian traditional medicines automatically.",
+      "B": "Rosie the cow produced human insulin in milk.",
+      "C": "ELISA detects nucleic acids using radioactive sulfur probes only.",
+      "D": "The disorder is caused due to the deletion of the gene for adenosine deaminase."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Which part of the plant is best suited for making virus-free plants and why?",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Which part of the plant is best suited for making virus-free plants and why?...\"?",
+    "options": {
+      "A": "Bt toxin is active in the alkaline gut of Bacillus itself.",
+      "B": "Golden rice is enriched with vitamin C through cry gene insertion.",
+      "C": "RNAi uses complementary ssRNA that enhances mRNA translation.",
+      "D": "Which part of the plant is best suited for making virus-free plants and why?"
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Try to visit a tissue culture laboratory with your teacher to better understand and appreciate the process.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Try to visit a tissue culture laboratory with your teacher to better understand ...\"?",
+    "options": {
+      "A": "GEAC approves all patents on Indian traditional medicines automatically.",
+      "B": "ELISA detects nucleic acids using radioactive sulfur probes only.",
+      "C": "Try to visit a tissue culture laboratory with your teacher to better understand and appreciate the process.",
+      "D": "Rosie the cow produced human insulin in milk."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Going beyond the morality of such issues, the biological significance of such things is also important.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Which conclusion is supported by NCERT: \"Going beyond the morality of such issues, the biological significance of such th...\"?",
+    "options": {
+      "A": "Somaclones show high genetic variation from the parent plant.",
+      "B": "Bt toxin is active in the alkaline gut of Bacillus itself.",
+      "C": "Golden rice is enriched with vitamin C through cry gene insertion.",
+      "D": "Going beyond the morality of such issues, the biological significance of such things is also important."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Micro-propagation produces somaclones genetically identical to the parent.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Plants produced through micro-propagation from a single explant are called somaclones because they are:",
+    "options": {
+      "A": "genetically identical to the parent plant",
+      "B": "hybrids of two species",
+      "C": "haploid regenerants",
+      "D": "virus-infected variants"
+    },
+    "correct_answer": "A",
+    "explanation": "Tissue culture regenerants are clones of the original explant genotype."
+  },
+  {
+    "source_sentence": "Totipotency is the capacity of a cell to regenerate a whole plant.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The ability of a plant cell or explant to regenerate into a complete plant is termed:",
+    "options": {
+      "A": "totipotency",
+      "B": "apomixis",
+      "C": "parthenocarpy",
+      "D": "polyembryony"
+    },
+    "correct_answer": "A",
+    "explanation": "Totipotency underlies micro-propagation and plant regeneration in vitro."
+  },
+  {
+    "source_sentence": "Meristem culture yields virus-free plants.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Virus-free plants can be obtained by culturing the meristem because:",
+    "options": {
+      "A": "meristem cells divide faster than viruses can invade them",
+      "B": "meristem is free of virus even when the rest of the plant is infected",
+      "C": "viruses cannot infect meristematic tissue",
+      "D": "meristem produces antiviral proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Apical and axillary meristems are typically virus-free and can be grown in vitro."
+  },
+  {
+    "source_sentence": "Somatic hybridisation fuses protoplasts of two varieties.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Fusion of isolated protoplasts from two different plant varieties to form a hybrid is called:",
+    "options": {
+      "A": "somatic hybridisation",
+      "B": "emasculation",
+      "C": "backcrossing",
+      "D": "RNA interference"
+    },
+    "correct_answer": "A",
+    "explanation": "Protoplast fusion followed by regeneration produces somatic hybrids."
+  },
+  {
+    "source_sentence": "cryIAb controls corn borer in transgenic maize.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The Bt gene cryIAb is primarily used to confer resistance against:",
+    "options": {
+      "A": "cotton bollworm",
+      "B": "corn borer",
+      "C": "root-knot nematode",
+      "D": "aphids"
+    },
+    "correct_answer": "B",
+    "explanation": "cryIAb encodes toxin effective against lepidopteran corn borer."
+  },
+  {
+    "source_sentence": "cryIAc and cryIIAb control cotton bollworms.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "In Bt cotton, proteins encoded by cryIAc and cryIIAb are effective mainly against:",
+    "options": {
+      "A": "cotton bollworms",
+      "B": "corn borer",
+      "C": "tobacco budworm only",
+      "D": "fungal pathogens"
+    },
+    "correct_answer": "A",
+    "explanation": "These cry genes target lepidopteran pests of cotton."
+  },
+  {
+    "source_sentence": "Recombinant insulin chains were produced in E. coli by Eli Lilly in 1983.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "The first commercial recombinant human insulin was produced using:",
+    "options": {
+      "A": "yeast fermentation",
+      "B": "E. coli expressing A and B chains separately",
+      "C": "transgenic cow milk",
+      "D": "cultured mammalian liver cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Eli Lilly expressed insulin A and B chains in E. coli and joined them chemically."
+  },
+  {
+    "source_sentence": "Insulin cannot be taken orally because it is digested.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Recombinant human insulin is administered by injection rather than orally because:",
+    "options": {
+      "A": "oral insulin is too expensive",
+      "B": "protein hormones are digested in the gut",
+      "C": "insulin is lipid-soluble",
+      "D": "insulin blocks intestinal absorption"
+    },
+    "correct_answer": "B",
+    "explanation": "Proteins are broken down by digestive enzymes if taken orally."
+  },
+  {
+    "source_sentence": "Transgenic mice test vaccine safety before human use.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Transgenic mice are being developed to test safety of:",
+    "options": {
+      "A": "polio vaccine batches",
+      "B": "Bt cotton pollen",
+      "C": "golden rice grains",
+      "D": "herbicide residues"
+    },
+    "correct_answer": "A",
+    "explanation": "Mice can replace monkeys for preliminary vaccine safety testing."
+  },
+  {
+    "source_sentence": "α-1-antitrypsin from transgenic animals treats emphysema.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Human α-1-antitrypsin produced in transgenic animals is used to treat:",
+    "options": {
+      "A": "emphysema",
+      "B": "diabetes",
+      "C": "ADA deficiency",
+      "D": "vitamin A deficiency"
+    },
+    "correct_answer": "A",
+    "explanation": "α-1-antitrypsin is a therapeutic protein for emphysema."
+  },
+  {
+    "source_sentence": "Transgenic animals are made sensitive to test chemical toxicity.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "In toxicity testing, transgenic animals are engineered to be:",
+    "options": {
+      "A": "more sensitive to toxic substances",
+      "B": "resistant to all toxins",
+      "C": "unable to metabolise drugs",
+      "D": "immune to carcinogens"
+    },
+    "correct_answer": "A",
+    "explanation": "Increased sensitivity allows faster detection of toxic effects."
+  },
+  {
+    "source_sentence": "Basmati rice patent case is a classic biopiracy example.",
+    "chapter": "Chapter 10: Biotechnology and its Applications",
+    "question": "Granting a US patent on Basmati rice derived from Indian varieties is cited as an example of:",
+    "options": {
+      "A": "biopiracy",
+      "B": "gene therapy",
+      "C": "micro-propagation",
+      "D": "insertional inactivation"
+    },
+    "correct_answer": "A",
+    "explanation": "Using indigenous genetic resources without authorisation or benefit-sharing is biopiracy."
+  }
+]

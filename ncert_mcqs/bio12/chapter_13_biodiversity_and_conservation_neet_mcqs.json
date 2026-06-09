@@ -1,0 +1,1042 @@
+[
+  {
+    "source_sentence": "Earth has about 1.7-1.8 million described species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The total described species on Earth is approximately",
+    "options": {
+      "A": "0.2 million",
+      "B": "1.7-1.8 million",
+      "C": "10 million",
+      "D": "50 million"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT cites around 1.7-1.8 million described species."
+  },
+  {
+    "source_sentence": "Biodiversity is highest in tropical regions.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The latitudinal gradient in biodiversity shows maximum diversity in",
+    "options": {
+      "A": "temperate region",
+      "B": "tropical region",
+      "C": "polar region",
+      "D": "deserts only"
+    },
+    "correct_answer": "B",
+    "explanation": "Tropics show the highest species diversity."
+  },
+  {
+    "source_sentence": "Species-area relationship is given by S = C A^Z.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "In the species-area relationship, Z is typically",
+    "options": {
+      "A": "0.1 to 0.2 for most taxa",
+      "B": "1.0 to 2.0",
+      "C": "5.0 to 6.0",
+      "D": "10.0 to 12.0"
+    },
+    "correct_answer": "A",
+    "explanation": "Z is about 0.1-0.2 for most taxa."
+  },
+  {
+    "source_sentence": "India is a megadiversity nation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "India has about",
+    "options": {
+      "A": "2.4% of world land but 8.1% species",
+      "B": "8.1% land and 2.4% species",
+      "C": "20% land and 20% species",
+      "D": "5% land and 1% species"
+    },
+    "correct_answer": "A",
+    "explanation": "India has 2.4% land area and 8.1% species."
+  },
+  {
+    "source_sentence": "Biodiversity hotspots have high endemism and high threat.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Number of biodiversity hotspots in the world is",
+    "options": {
+      "A": "12",
+      "B": "25",
+      "C": "34",
+      "D": "50"
+    },
+    "correct_answer": "C",
+    "explanation": "NCERT lists 34 hotspots."
+  },
+  {
+    "source_sentence": "India has three biodiversity hotspots.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which is NOT a hotspot in India?",
+    "options": {
+      "A": "Himalaya",
+      "B": "Western Ghats-Sri Lanka",
+      "C": "Indo-Burma",
+      "D": "Sahara"
+    },
+    "correct_answer": "D",
+    "explanation": "Sahara is not an Indian hotspot."
+  },
+  {
+    "source_sentence": "Evil quartet refers to causes of biodiversity loss.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which of the following is part of the evil quartet?",
+    "options": {
+      "A": "habitat loss",
+      "B": "habitat restoration",
+      "C": "reforestation",
+      "D": "gene therapy"
+    },
+    "correct_answer": "A",
+    "explanation": "Habitat loss is one of the evil quartet."
+  },
+  {
+    "source_sentence": "Ex situ conservation is outside the natural habitat.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "An example of ex situ conservation is",
+    "options": {
+      "A": "wildlife sanctuary",
+      "B": "botanical garden",
+      "C": "national park",
+      "D": "biosphere reserve"
+    },
+    "correct_answer": "B",
+    "explanation": "Botanical gardens and zoos are ex situ sites."
+  },
+  {
+    "source_sentence": "In situ conservation is within natural habitat.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "A biosphere reserve is an example of",
+    "options": {
+      "A": "ex situ conservation",
+      "B": "in situ conservation",
+      "C": "biopiracy",
+      "D": "gene therapy"
+    },
+    "correct_answer": "B",
+    "explanation": "Biosphere reserves are in situ conservation sites."
+  },
+  {
+    "source_sentence": "Sacred groves conserve biodiversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Sacred groves are protected by",
+    "options": {
+      "A": "government only",
+      "B": "local communities and traditions",
+      "C": "industrial firms",
+      "D": "tourism companies"
+    },
+    "correct_answer": "B",
+    "explanation": "Traditional belief systems protect sacred groves."
+  },
+  {
+    "source_sentence": "The rivet popper hypothesis explains ecosystem stability.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The rivet popper hypothesis suggests that",
+    "options": {
+      "A": "species loss may be compensated easily",
+      "B": "loss of species can destabilize ecosystems",
+      "C": "only keystone species matter",
+      "D": "extinctions are harmless"
+    },
+    "correct_answer": "B",
+    "explanation": "Like rivets on an airplane, species loss can destabilize."
+  },
+  {
+    "source_sentence": "The Evil Quartet includes alien species invasion.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which is an example of alien species invasion in India?",
+    "options": {
+      "A": "Lantana camara",
+      "B": "Mangifera indica",
+      "C": "Triticum aestivum",
+      "D": "Oryza sativa"
+    },
+    "correct_answer": "A",
+    "explanation": "Lantana camara is an invasive alien species."
+  },
+  {
+    "source_sentence": "Species-area relationship is logarithmic when log-transformed.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "If the area increases 10 times, the species number increases by a factor of 10^Z. This is called",
+    "options": {
+      "A": "logarithmic relationship",
+      "B": "random drift",
+      "C": "Hardy-Weinberg equilibrium",
+      "D": "logistic growth"
+    },
+    "correct_answer": "A",
+    "explanation": "Species-area relationship is logarithmic on log scales."
+  },
+  {
+    "source_sentence": "Loss of biodiversity reduces ecosystem services.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Pollination, soil formation, and water purification are examples of",
+    "options": {
+      "A": "ecosystem services",
+      "B": "population attributes",
+      "C": "biomagnification",
+      "D": "genetic drift"
+    },
+    "correct_answer": "A",
+    "explanation": "These are ecosystem services."
+  },
+  {
+    "source_sentence": "IUCN Red List documents threatened species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The IUCN Red List provides information on",
+    "options": {
+      "A": "human population",
+      "B": "threatened species status",
+      "C": "crop yield",
+      "D": "DNA sequence"
+    },
+    "correct_answer": "B",
+    "explanation": "IUCN Red List assesses threat categories."
+  },
+  {
+    "source_sentence": "Mass extinction refers to large loss in short time.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The current biodiversity loss is called",
+    "options": {
+      "A": "background extinction",
+      "B": "sixth mass extinction",
+      "C": "adaptive radiation",
+      "D": "genetic drift"
+    },
+    "correct_answer": "B",
+    "explanation": "Human activities cause the sixth mass extinction."
+  },
+  {
+    "source_sentence": "Biodiversity hotspots have high endemism.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "A hotspot is identified based on",
+    "options": {
+      "A": "low endemism",
+      "B": "high endemism and threat",
+      "C": "only large area",
+      "D": "only species richness"
+    },
+    "correct_answer": "B",
+    "explanation": "Hotspots have high endemism and high threat."
+  },
+  {
+    "source_sentence": "Ecosystem stability increases with biodiversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Greater biodiversity leads to",
+    "options": {
+      "A": "lower stability",
+      "B": "higher stability and productivity",
+      "C": "no change",
+      "D": "collapse of ecosystem"
+    },
+    "correct_answer": "B",
+    "explanation": "Diversity improves stability and productivity."
+  },
+  {
+    "source_sentence": "Species richness declines with latitude.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The most plausible reason for high tropical diversity is",
+    "options": {
+      "A": "high seasonal variation",
+      "B": "long evolutionary time and stable climate",
+      "C": "low productivity",
+      "D": "constant disturbances"
+    },
+    "correct_answer": "B",
+    "explanation": "Stable climate and long time favor speciation."
+  },
+  {
+    "source_sentence": "Ex situ conservation includes cryopreservation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Cryopreservation involves",
+    "options": {
+      "A": "protecting species in natural habitat",
+      "B": "preserving tissues at very low temperatures",
+      "C": "controlling predators",
+      "D": "planting in forests"
+    },
+    "correct_answer": "B",
+    "explanation": "Cryopreservation is storage at low temperatures."
+  },
+  {
+    "source_sentence": "Sacred groves are community protected areas.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Sacred groves are important because they",
+    "options": {
+      "A": "encourage logging",
+      "B": "conserve rare species",
+      "C": "reduce species richness",
+      "D": "promote hunting"
+    },
+    "correct_answer": "B",
+    "explanation": "Sacred groves protect biodiversity."
+  },
+  {
+    "source_sentence": "The evil quartet includes over-exploitation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Overfishing leading to decline in fish stocks is an example of",
+    "options": {
+      "A": "habitat loss",
+      "B": "over-exploitation",
+      "C": "co-extinction",
+      "D": "alien species invasion"
+    },
+    "correct_answer": "B",
+    "explanation": "Overfishing is over-exploitation."
+  },
+  {
+    "source_sentence": "Co-extinction occurs when one species depends on another.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Co-extinction is likely when",
+    "options": {
+      "A": "a host species goes extinct",
+      "B": "temperature rises",
+      "C": "rainfall increases",
+      "D": "photosynthesis increases"
+    },
+    "correct_answer": "A",
+    "explanation": "Dependent species go extinct with their hosts."
+  },
+  {
+    "source_sentence": "Biodiversity has economic value.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The term for the direct use of biodiversity like medicines is",
+    "options": {
+      "A": "utilitarian value",
+      "B": "aesthetic value",
+      "C": "ethical value",
+      "D": "social value"
+    },
+    "correct_answer": "A",
+    "explanation": "Utilitarian value is direct use value."
+  },
+  {
+    "source_sentence": "Ecosystem services support life on Earth.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Carbon fixation by forests is an example of",
+    "options": {
+      "A": "ecosystem service",
+      "B": "species-area relationship",
+      "C": "biopiracy",
+      "D": "gene therapy"
+    },
+    "correct_answer": "A",
+    "explanation": "Carbon fixation is an ecosystem service."
+  },
+  {
+    "source_sentence": "National parks are in situ conservation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which is an in situ conservation area?",
+    "options": {
+      "A": "Zoo",
+      "B": "National park",
+      "C": "Botanical garden",
+      "D": "Gene bank"
+    },
+    "correct_answer": "B",
+    "explanation": "National parks are in situ conservation areas."
+  },
+  {
+    "source_sentence": "Loss of habitat is the most important cause of extinction.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The most important cause of biodiversity loss is",
+    "options": {
+      "A": "pollution",
+      "B": "habitat loss and fragmentation",
+      "C": "disease only",
+      "D": "genetic drift"
+    },
+    "correct_answer": "B",
+    "explanation": "Habitat loss and fragmentation are primary causes."
+  },
+  {
+    "source_sentence": "Exotic species can outcompete natives.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The water hyacinth problem in India is due to",
+    "options": {
+      "A": "native species overgrowth",
+      "B": "alien species invasion",
+      "C": "pollination failure",
+      "D": "climate change only"
+    },
+    "correct_answer": "B",
+    "explanation": "Water hyacinth is an invasive alien species."
+  },
+  {
+    "source_sentence": "Species richness is highest in tropics.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which biome shows highest species richness?",
+    "options": {
+      "A": "tropical rainforest",
+      "B": "tundra",
+      "C": "taiga",
+      "D": "temperate grassland"
+    },
+    "correct_answer": "A",
+    "explanation": "Tropical rainforests are most diverse."
+  },
+  {
+    "source_sentence": "Biodiversity conservation uses various strategies.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Protecting a species in a zoo is",
+    "options": {
+      "A": "in situ conservation",
+      "B": "ex situ conservation",
+      "C": "biomagnification",
+      "D": "rivet popper"
+    },
+    "correct_answer": "B",
+    "explanation": "Zoos are ex situ conservation sites."
+  },
+  {
+    "source_sentence": "Species-area relationship has steeper slope for small islands.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "A higher Z value in species-area relationship indicates",
+    "options": {
+      "A": "lower species richness gain with area",
+      "B": "steeper increase in species with area",
+      "C": "no relationship",
+      "D": "constant species number"
+    },
+    "correct_answer": "B",
+    "explanation": "Higher Z means steeper slope."
+  },
+  {
+    "source_sentence": "The evil quartet includes co-extinction.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which is an example of co-extinction?",
+    "options": {
+      "A": "loss of a plant and its pollinator",
+      "B": "loss of habitat",
+      "C": "introduction of weeds",
+      "D": "overhunting of deer"
+    },
+    "correct_answer": "A",
+    "explanation": "Mutually dependent species may co-extinct."
+  },
+  {
+    "source_sentence": "Species richness in India is high.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "India is one of the",
+    "options": {
+      "A": "megadiversity countries",
+      "B": "low diversity countries",
+      "C": "non-diversity countries",
+      "D": "desert-only countries"
+    },
+    "correct_answer": "A",
+    "explanation": "India is classified as megadiverse."
+  },
+  {
+    "source_sentence": "Biodiversity provides ethical value.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Ethical value of biodiversity implies",
+    "options": {
+      "A": "species have a right to exist",
+      "B": "only humans matter",
+      "C": "ecosystems are replaceable",
+      "D": "species have no value"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethical value acknowledges intrinsic worth of species."
+  },
+  {
+    "source_sentence": "Biodiversity loss reduces ecosystem function.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Higher species richness generally results in",
+    "options": {
+      "A": "lower productivity",
+      "B": "higher productivity",
+      "C": "no ecosystem services",
+      "D": "extinction of all species"
+    },
+    "correct_answer": "B",
+    "explanation": "More species generally support higher productivity."
+  },
+  {
+    "source_sentence": "Tropical regions have more species than temperate regions.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Assertion (A): India is one of the 12 mega-diversity countries of the world. Reason (R): Tropics have remained climatically stable for long periods. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Stable climate and long evolutionary time explain high diversity."
+  },
+  {
+    "source_sentence": "Habitat loss is the greatest threat to biodiversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Assertion (A): Biodiversity hotspots have high endemism and face habitat loss. Reason (R): Fragmentation reduces large habitats into small isolated patches. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Fragmentation is part of habitat loss and explains biodiversity loss."
+  },
+  {
+    "source_sentence": "Species-area relationship is represented by S = C A^Z.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Assertion (A): Species richness generally decreases from equator to poles. Reason (R): On a log-log plot, this relationship becomes a straight line. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Log transformation yields a straight line."
+  },
+  {
+    "source_sentence": "Ex situ conservation is important for endangered species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Assertion (A): Habitat loss and fragmentation is the primary cause of biodiversity loss. Reason (R): It allows protection and breeding outside natural habitats. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Ex situ sites like zoos provide protection and breeding."
+  },
+  {
+    "source_sentence": "Rivet popper hypothesis stresses the importance of all species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Assertion (A): In situ conservation protects species in their natural habitats. Reason (R): Loss of even a few species can weaken ecosystem stability. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Rivet popper hypothesis compares species to rivets, explaining instability."
+  },
+  {
+    "source_sentence": "Conservation strategies have examples.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Match Column I (Strategy) with Column II (Example). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. In situ – national park, 2. Ex situ – zoo, 3. Sacred grove – community forest patch, 4. Cryopreservation – gene bank",
+      "B": "1. In situ – zoo, 2. Ex situ – national park, 3. Sacred grove – gene bank, 4. Cryopreservation – forest",
+      "C": "1. In situ – gene bank, 2. Ex situ – sacred grove, 3. Sacred grove – zoo, 4. Cryopreservation – park",
+      "D": "1. In situ – aquarium, 2. Ex situ – sanctuary, 3. Sacred grove – airport, 4. Cryopreservation – lake"
+    },
+    "correct_answer": "A",
+    "explanation": "Each conservation type matches its example."
+  },
+  {
+    "source_sentence": "Biodiversity loss factors are grouped.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Match Column I (Cause) with Column II (Example). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. Habitat loss – deforestation, 2. Over-exploitation – overfishing, 3. Alien invasion – water hyacinth, 4. Co-extinction – plant-pollinator loss",
+      "B": "1. Habitat loss – gene therapy, 2. Over-exploitation – tissue culture, 3. Alien invasion – cloning, 4. Co-extinction – PCR",
+      "C": "1. Habitat loss – ELISA, 2. Over-exploitation – genetic drift, 3. Alien invasion – mutation, 4. Co-extinction – respiration",
+      "D": "1. Habitat loss – irrigation, 2. Over-exploitation – crop yield, 3. Alien invasion – fertilizer, 4. Co-extinction – photosynthesis"
+    },
+    "correct_answer": "A",
+    "explanation": "Each cause is matched to its typical example."
+  },
+  {
+    "source_sentence": "Hotspots in India are important.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Match Column I (Hotspot) with Column II (Region). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. Himalaya – mountains, 2. Western Ghats-Sri Lanka – peninsular hills, 3. Indo-Burma – northeast, 4. Sundaland – not in India",
+      "B": "1. Himalaya – deserts, 2. Western Ghats-Sri Lanka – plains, 3. Indo-Burma – western desert, 4. Sundaland – Deccan",
+      "C": "1. Himalaya – islands, 2. Western Ghats-Sri Lanka – arctic, 3. Indo-Burma – ocean, 4. Sundaland – rivers",
+      "D": "1. Himalaya – oceanic, 2. Western Ghats-Sri Lanka – tundra, 3. Indo-Burma – Sahara, 4. Sundaland – Himalaya"
+    },
+    "correct_answer": "A",
+    "explanation": "Himalaya, Western Ghats-Sri Lanka, Indo-Burma are in India; Sundaland is not."
+  },
+  {
+    "source_sentence": "Biodiversity loss reduces resilience.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Greater biodiversity generally leads to",
+    "options": {
+      "A": "less resilience",
+      "B": "more resilience",
+      "C": "no ecosystem services",
+      "D": "no productivity"
+    },
+    "correct_answer": "B",
+    "explanation": "Diverse ecosystems are more resilient."
+  },
+  {
+    "source_sentence": "Species-area relationship has higher Z for small areas.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The Z value for small areas within a region is about",
+    "options": {
+      "A": "0.1 to 0.2",
+      "B": "0.6 to 1.2",
+      "C": "2.0 to 3.0",
+      "D": "5.0 to 6.0"
+    },
+    "correct_answer": "A",
+    "explanation": "Z is ~0.1-0.2 for small areas."
+  },
+  {
+    "source_sentence": "Biodiversity includes genetic, species, and ecosystem diversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Different varieties of rice in India represent",
+    "options": {
+      "A": "species diversity",
+      "B": "genetic diversity",
+      "C": "ecosystem diversity",
+      "D": "community diversity"
+    },
+    "correct_answer": "B",
+    "explanation": "Varieties within a species are genetic diversity."
+  },
+  {
+    "source_sentence": "Ecosystem diversity refers to variety of habitats.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Mangroves, coral reefs, and grasslands together indicate",
+    "options": {
+      "A": "genetic diversity",
+      "B": "ecosystem diversity",
+      "C": "species diversity only",
+      "D": "population diversity"
+    },
+    "correct_answer": "B",
+    "explanation": "Different ecosystems represent ecosystem diversity."
+  },
+  {
+    "source_sentence": "Species diversity is the number of species in a region.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "High species diversity means",
+    "options": {
+      "A": "many species and balanced abundances",
+      "B": "few species only",
+      "C": "single dominant species",
+      "D": "no species"
+    },
+    "correct_answer": "A",
+    "explanation": "Diversity includes richness and evenness."
+  },
+  {
+    "source_sentence": "Biodiversity has aesthetic value.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Aesthetic value of biodiversity relates to",
+    "options": {
+      "A": "beauty and inspiration",
+      "B": "food production",
+      "C": "gene therapy",
+      "D": "biopiracy"
+    },
+    "correct_answer": "A",
+    "explanation": "Aesthetic value is beauty and inspiration."
+  },
+  {
+    "source_sentence": "Biodiversity supports ecosystem productivity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "More species in a community generally results in",
+    "options": {
+      "A": "lower productivity",
+      "B": "higher productivity",
+      "C": "no change",
+      "D": "collapse of ecosystem"
+    },
+    "correct_answer": "B",
+    "explanation": "Higher diversity often increases productivity."
+  },
+  {
+    "source_sentence": "Biodiversity has option value.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Option value refers to",
+    "options": {
+      "A": "potential future uses of biodiversity",
+      "B": "current market price only",
+      "C": "aesthetic value only",
+      "D": "ethical value only"
+    },
+    "correct_answer": "A",
+    "explanation": "Option value is potential future benefits."
+  },
+  {
+    "source_sentence": "Biodiversity includes ecosystem diversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The diversity of deserts, forests, and wetlands represents",
+    "options": {
+      "A": "genetic diversity",
+      "B": "ecosystem diversity",
+      "C": "species diversity only",
+      "D": "population diversity"
+    },
+    "correct_answer": "B",
+    "explanation": "Different ecosystems show ecosystem diversity."
+  },
+  {
+    "source_sentence": "Protected areas help conserve biodiversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "A wildlife sanctuary is established primarily for",
+    "options": {
+      "A": "agriculture",
+      "B": "protection of wildlife",
+      "C": "mining",
+      "D": "industrial use"
+    },
+    "correct_answer": "B",
+    "explanation": "Sanctuaries are for wildlife protection."
+  },
+  {
+    "source_sentence": "Endemism means restricted distribution.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Species restricted to the Western Ghats are termed",
+    "options": {
+      "A": "endemic species",
+      "B": "cosmopolitan species",
+      "C": "invasive species",
+      "D": "keystone species"
+    },
+    "correct_answer": "A",
+    "explanation": "Endemic species have restricted distribution."
+  },
+  {
+    "source_sentence": "Habitat fragmentation isolates populations.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Fragmentation leads to",
+    "options": {
+      "A": "increased gene flow",
+      "B": "isolated populations and edge effects",
+      "C": "higher ecosystem stability",
+      "D": "no impact"
+    },
+    "correct_answer": "B",
+    "explanation": "Fragmentation isolates populations and increases edge effects."
+  },
+  {
+    "source_sentence": "Conservation is needed to sustain ecosystem services.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The primary reason for conservation is to",
+    "options": {
+      "A": "increase crop yield only",
+      "B": "maintain life-supporting systems",
+      "C": "reduce photosynthesis",
+      "D": "increase pollution"
+    },
+    "correct_answer": "B",
+    "explanation": "Conservation maintains life-support systems."
+  },
+  {
+    "source_sentence": "Biodiversity includes genetic variation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Different breeds of dogs represent",
+    "options": {
+      "A": "species diversity",
+      "B": "genetic diversity",
+      "C": "ecosystem diversity",
+      "D": "community diversity"
+    },
+    "correct_answer": "B",
+    "explanation": "Breeds within species show genetic diversity."
+  },
+  {
+    "source_sentence": "Loss of keystone species can disrupt ecosystem.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The removal of a keystone species often",
+    "options": {
+      "A": "has little effect",
+      "B": "causes major changes in ecosystem",
+      "C": "increases biodiversity",
+      "D": "stops nutrient cycling only"
+    },
+    "correct_answer": "B",
+    "explanation": "Keystone species strongly affect ecosystem structure."
+  },
+  {
+    "source_sentence": "Biodiversity is linked to ecosystem health.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which statement best supports conservation?",
+    "options": {
+      "A": "Biodiversity has no economic value",
+      "B": "Biodiversity provides ecosystem services and stability",
+      "C": "Species loss improves ecosystem",
+      "D": "Only humans are important"
+    },
+    "correct_answer": "B",
+    "explanation": "Biodiversity supports ecosystem services and stability."
+  },
+  {
+    "source_sentence": "What could be the explanations to how animals achieved greater diversification?",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"What could be the explanations to how animals achieved greater diversification?...\"?",
+    "options": {
+      "A": "Species-area relationship has Z value of 5.0 for all taxa globally.",
+      "B": "India has less than 1% of global species diversity.",
+      "C": "Hotspots cover more than 20% of Earth's land area.",
+      "D": "What could be the explanations to how animals achieved greater diversification?"
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "It is generally highest in the tropics and decreases towards the poles.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"It is generally highest in the tropics and decreases towards the poles....\"?",
+    "options": {
+      "A": "India has less than 1% of global species diversity.",
+      "B": "It is generally highest in the tropics and decreases towards the poles.",
+      "C": "Rivet popper hypothesis compares species to wings of an airplane.",
+      "D": "IUCN Red List documents zero extinctions in the last 500 years."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Would we ever be able to complete the inventory of the biological wealth of our country?",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"Would we ever be able to complete the inventory of the biological wealth of our ...\"?",
+    "options": {
+      "A": "Would we ever be able to complete the inventory of the biological wealth of our country?",
+      "B": "Ex situ conservation protects species in their natural habitats.",
+      "C": "Hotspots cover more than 20% of Earth's land area.",
+      "D": "Species-area relationship has Z value of 5.0 for all taxa globally."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Besides total loss, the degradation of many habitats by pollution also threatens the survival of many species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"Besides total loss, the degradation of many habitats by pollution also threatens...\"?",
+    "options": {
+      "A": "Rivet popper hypothesis compares species to wings of an airplane.",
+      "B": "Latitudinal gradient shows highest diversity at the poles.",
+      "C": "Besides total loss, the degradation of many habitats by pollution also threatens the survival of many species.",
+      "D": "Co-extinction occurs when invasive species are removed."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "How and why is this diversity important to the biosphere?",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"How and why is this diversity important to the biosphere?...\"?",
+    "options": {
+      "A": "Species-area relationship has Z value of 5.0 for all taxa globally.",
+      "B": "IUCN Red List documents zero extinctions in the last 500 years.",
+      "C": "India has less than 1% of global species diversity.",
+      "D": "How and why is this diversity important to the biosphere?"
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The Amazon rain forest (it is so huge that it is called the 'lungs of the planet') harbouring probably millions of species is being cut and cleared for cultivating soya beans or for conversion to grasslands for raising beef cattle.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"The Amazon rain forest (it is so huge that it is called the 'lungs of the planet...\"?",
+    "options": {
+      "A": "The Amazon rain forest (it is so huge that it is called the 'lungs of the planet') harbouring probably millions of speci...",
+      "B": "Rivet popper hypothesis compares species to wings of an airplane.",
+      "C": "IUCN Red List documents zero extinctions in the last 500 years.",
+      "D": "Latitudinal gradient shows highest diversity at the poles."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Earth's rich biodiversity is vital for the very survival of mankind.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"Earth's rich biodiversity is vital for the very survival of mankind....\"?",
+    "options": {
+      "A": "Species-area relationship has Z value of 5.0 for all taxa globally.",
+      "B": "Earth's rich biodiversity is vital for the very survival of mankind.",
+      "C": "India has less than 1% of global species diversity.",
+      "D": "Hotspots cover more than 20% of Earth's land area."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "They can be grouped into three categories: narrowly utilitarian, broadly utilitarian, and ethical.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"They can be grouped into three categories: narrowly utilitarian, broadly utilita...\"?",
+    "options": {
+      "A": "They can be grouped into three categories: narrowly utilitarian, broadly utilitarian, and ethical.",
+      "B": "Species-area relationship has Z value of 5.0 for all taxa globally.",
+      "C": "Ex situ conservation protects species in their natural habitats.",
+      "D": "Hotspots cover more than 20% of Earth's land area."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Species diversity on earth is not uniformly distributed but shows interesting patterns.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"Species diversity on earth is not uniformly distributed but shows interesting pa...\"?",
+    "options": {
+      "A": "Species diversity on earth is not uniformly distributed but shows interesting patterns.",
+      "B": "Rivet popper hypothesis compares species to wings of an airplane.",
+      "C": "Co-extinction occurs when invasive species are removed.",
+      "D": "Latitudinal gradient shows highest diversity at the poles."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Species richness is also function of the area of a region; the species-area relationship is generally a rectangular hyperbolic function.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"Species richness is also function of the area of a region; the species-area rela...\"?",
+    "options": {
+      "A": "Species richness is also function of the area of a region; the species-area relationship is generally a rectangular hype...",
+      "B": "India has less than 1% of global species diversity.",
+      "C": "Species-area relationship has Z value of 5.0 for all taxa globally.",
+      "D": "IUCN Red List documents zero extinctions in the last 500 years."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "How is this achieved by the biotic components of the ecosystem?",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"How is this achieved by the biotic components of the ecosystem?...\"?",
+    "options": {
+      "A": "Ex situ conservation protects species in their natural habitats.",
+      "B": "Hotspots cover more than 20% of Earth's land area.",
+      "C": "Co-extinction occurs when invasive species are removed.",
+      "D": "How is this achieved by the biotic components of the ecosystem?"
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "How do ecologists estimate the total number of species present in the world?",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"How do ecologists estimate the total number of species present in the world?...\"?",
+    "options": {
+      "A": "Hotspots cover more than 20% of Earth's land area.",
+      "B": "India has less than 1% of global species diversity.",
+      "C": "How do ecologists estimate the total number of species present in the world?",
+      "D": "Species-area relationship has Z value of 5.0 for all taxa globally."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "While it is doubtful if any new species are being added (through speciation) into the earth's treasury of species, there is no doubt about their continuing losses.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which conclusion is supported by NCERT: \"While it is doubtful if any new species are being added (through speciation) int...\"?",
+    "options": {
+      "A": "Species-area relationship has Z value of 5.0 for all taxa globally.",
+      "B": "Ex situ conservation protects species in their natural habitats.",
+      "C": "While it is doubtful if any new species are being added (through speciation) into the earth's treasury of species, there...",
+      "D": "Hotspots cover more than 20% of Earth's land area."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Rivet popper hypothesis explains ecosystem stability.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Paul Ehrlich's rivet popper hypothesis compares species in an ecosystem to:",
+    "options": {
+      "A": "rivets in an airplane",
+      "B": "books in a library",
+      "C": "bricks in a wall",
+      "D": "wheels on a cart"
+    },
+    "correct_answer": "A",
+    "explanation": "Removing species (rivets) gradually undermines ecosystem stability."
+  },
+  {
+    "source_sentence": "India is one of 12 mega diversity countries.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "India accounts for about 8.1% of global species diversity while having only _____ of world's land area.",
+    "options": {
+      "A": "2.4%",
+      "B": "10%",
+      "C": "15%",
+      "D": "25%"
+    },
+    "correct_answer": "A",
+    "explanation": "India's high species richness relative to land area makes it mega-diverse."
+  },
+  {
+    "source_sentence": "Species-area Z value is 0.1-0.2 for small areas.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "For species-area relationships within a region, the slope Z typically lies in the range:",
+    "options": {
+      "A": "0.1 to 0.2",
+      "B": "0.6 to 1.2",
+      "C": "2.0 to 3.0",
+      "D": "5.0 to 6.0"
+    },
+    "correct_answer": "A",
+    "explanation": "Smaller-scale species-area plots show Z ≈ 0.1–0.2."
+  },
+  {
+    "source_sentence": "Co-extinction follows obligatory mutualism loss.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "When a host fish species becomes extinct, its unique parasites may also disappear. This illustrates:",
+    "options": {
+      "A": "co-extinction",
+      "B": "speciation",
+      "C": "edge effect",
+      "D": "ex situ conservation"
+    },
+    "correct_answer": "A",
+    "explanation": "Co-extinction occurs when obligately linked species are lost together."
+  },
+  {
+    "source_sentence": "Sacred groves are in situ conservation in India.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Forest patches protected by tribal communities due to religious beliefs, such as in Khasi and Jaintia hills, are called:",
+    "options": {
+      "A": "sacred groves",
+      "B": "seed banks",
+      "C": "cryopreservation units",
+      "D": "zoological parks"
+    },
+    "correct_answer": "A",
+    "explanation": "Sacred groves are traditional in situ conservation areas."
+  },
+  {
+    "source_sentence": "Hotspots cover less than 2% of land but harbour many species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Biodiversity hotspots collectively cover about _____ of Earth's land area.",
+    "options": {
+      "A": "less than 2%",
+      "B": "10%",
+      "C": "20%",
+      "D": "50%"
+    },
+    "correct_answer": "A",
+    "explanation": "Hotspots are small areas with exceptional species richness and endemism."
+  },
+  {
+    "source_sentence": "Western Ghats is a biodiversity hotspot in India.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "Which of the following is a biodiversity hotspot covering parts of India?",
+    "options": {
+      "A": "Western Ghats and Sri Lanka",
+      "B": "Sahara Desert",
+      "C": "Arctic tundra",
+      "D": "Gobi Desert"
+    },
+    "correct_answer": "A",
+    "explanation": "Western Ghats–Sri Lanka is one of three hotspots in the Indian region."
+  },
+  {
+    "source_sentence": "Evil Quartet includes habitat loss, over-exploitation, alien species, co-extinction.",
+    "chapter": "Chapter 13: Biodiversity and Conservation",
+    "question": "The 'Evil Quartet' responsible for accelerated biodiversity loss does NOT include:",
+    "options": {
+      "A": "habitat loss and fragmentation",
+      "B": "over-exploitation",
+      "C": "increased speciation rate",
+      "D": "alien species invasions"
+    },
+    "correct_answer": "C",
+    "explanation": "The four major anthropogenic drivers are habitat loss, over-exploitation, aliens, and co-extinction."
+  }
+]

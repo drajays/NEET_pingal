@@ -1,0 +1,1133 @@
+[
+  {
+    "source_sentence": "Nearly 20-25 per cent of CO2 is transported by RBCs whereas 70 per cent of it is carried as bicarbonate.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "The dominant form of CO2 transport in blood is:",
+    "options": {
+      "A": "Carbamino-haemoglobin",
+      "B": "Dissolved CO2 only",
+      "C": "Bicarbonate (HCO3-)",
+      "D": "Oxyhaemoglobin"
+    },
+    "correct_answer": "C",
+    "explanation": "70% CO2 as bicarbonate; 20-25% carbamino-Hb; 7% dissolved."
+  },
+  {
+    "source_sentence": "CO2 is carried by haemoglobin as carbamino-haemoglobin (about 20-25 per cent).",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Carbamino-haemoglobin formation is favoured in tissues where:",
+    "options": {
+      "A": "pCO2 is high and pO2 is low",
+      "B": "pO2 is high and pCO2 is low",
+      "C": "Only temperature is low",
+      "D": "pH is alkaline only"
+    },
+    "correct_answer": "A",
+    "explanation": "High tissue pCO2 and low pO2 favour CO2 binding to Hb."
+  },
+  {
+    "source_sentence": "Carbonic anhydrase facilitates CO2 + H2O ↔ H2CO3 ↔ HCO3- + H+ in both directions.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Chloride shift/bicarbonate transport depends on enzyme:",
+    "options": {
+      "A": "Carbonic anhydrase",
+      "B": "Cytochrome oxidase",
+      "C": "RuBisCO",
+      "D": "Pepsin"
+    },
+    "correct_answer": "A",
+    "explanation": "Carbonic anhydrase catalyses CO2 hydration to bicarbonate."
+  },
+  {
+    "source_sentence": "In the tissues, where low pO2, high pCO2, high H+ concentration and higher temperature exist, the conditions are favourable for dissociation of oxygen from the oxyhaemoglobin.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Bohr effect: O2 dissociation at tissues is promoted by:",
+    "options": {
+      "A": "High pCO2, high H+, higher temperature, low pO2",
+      "B": "Low pCO2 and high pO2",
+      "C": "Only low temperature",
+      "D": "Absence of 2,3-BPG only"
+    },
+    "correct_answer": "A",
+    "explanation": "Tissue conditions shift dissociation curve right, unloading O2."
+  },
+  {
+    "source_sentence": "A sigmoid curve is obtained when percentage saturation of haemoglobin with O2 is plotted against the pO2.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Oxygen-haemoglobin dissociation curve is:",
+    "options": {
+      "A": "Sigmoidal",
+      "B": "Linear always",
+      "C": "Hyperbolic only at lungs",
+      "D": "Parabolic"
+    },
+    "correct_answer": "A",
+    "explanation": "Cooperative Hb binding gives sigmoid dissociation curve."
+  },
+  {
+    "source_sentence": "What is the effect of pCO2 on oxygen transport?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Increased pCO2 shifts O2 dissociation curve to the right, meaning:",
+    "options": {
+      "A": "Hb holds O2 more tightly",
+      "B": "Hb releases O2 more readily (Bohr effect)",
+      "C": "No change in O2 binding",
+      "D": "Only CO2 transport stops"
+    },
+    "correct_answer": "B",
+    "explanation": "High pCO2 decreases Hb affinity for O2, aiding unloading."
+  },
+  {
+    "source_sentence": "Binding of oxygen with haemoglobin is primarily related to partial pressure of O2.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Assertion (A): Each haemoglobin molecule carries maximum four O2 molecules. Reason (R): Partial pressure of O2 is the primary determinant of Hb saturation. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "High pO2 drives binding; four O2 per Hb explains carrying capacity supporting A."
+  },
+  {
+    "source_sentence": "TABLE 14.1 Partial Pressures of Oxygen and Carbon dioxide at Different Parts.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Compared to atmospheric air, alveolar air has:",
+    "options": {
+      "A": "Higher pO2 and higher pCO2",
+      "B": "Lower pO2 and higher pCO2",
+      "C": "Higher pO2 and lower pCO2 than tissues",
+      "D": "Same partial pressures"
+    },
+    "correct_answer": "B",
+    "explanation": "Alveolar pO2 (104) < atmospheric (159); pCO2 (40) >> atmospheric (0.3)."
+  },
+  {
+    "source_sentence": "TABLE 14.1: Deoxygenated blood pO2 is 40 mm Hg.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "O2 diffuses into blood at alveoli because alveolar pO2 (104) is:",
+    "options": {
+      "A": "Lower than deoxygenated blood",
+      "B": "Higher than deoxygenated blood (40 mm Hg)",
+      "C": "Equal to tissues only",
+      "D": "Zero"
+    },
+    "correct_answer": "B",
+    "explanation": "Gradient from alveoli (104) to venous blood (40) drives O2 uptake."
+  },
+  {
+    "source_sentence": "TABLE 14.1: Tissue pCO2 is 45 mm Hg.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "CO2 diffuses from tissues to blood because tissue pCO2 (45) is:",
+    "options": {
+      "A": "Lower than venous blood",
+      "B": "Higher than oxygenated blood pCO2 (40)",
+      "C": "Equal to atmospheric air",
+      "D": "Zero at muscles"
+    },
+    "correct_answer": "B",
+    "explanation": "CO2 moves down gradient from tissues (45) to blood then alveoli."
+  },
+  {
+    "source_sentence": "Inspiration can occur if the pressure within the lungs (intra-pulmonary pressure) is less than the atmospheric pressure.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Inspiration requires intra-pulmonary pressure to be:",
+    "options": {
+      "A": "Below atmospheric pressure",
+      "B": "Above atmospheric pressure",
+      "C": "Equal to pleural pressure only",
+      "D": "Zero always"
+    },
+    "correct_answer": "A",
+    "explanation": "Negative intra-pulmonary pressure relative to atmosphere draws air in."
+  },
+  {
+    "source_sentence": "Expiration takes place when the intra-pulmonary pressure is higher than the atmospheric pressure.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Normal expiration occurs when lung pressure is:",
+    "options": {
+      "A": "Greater than atmospheric pressure",
+      "B": "Less than atmospheric",
+      "C": "Unchanged",
+      "D": "Equal to vacuum"
+    },
+    "correct_answer": "A",
+    "explanation": "Positive intra-pulmonary pressure forces air out."
+  },
+  {
+    "source_sentence": "The contraction of external inter-costal muscles lifts up the ribs and the sternum.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "External intercostal contraction during inspiration:",
+    "options": {
+      "A": "Elevates ribs and sternum increasing DV diameter",
+      "B": "Depresses ribs",
+      "C": "Only contracts diaphragm",
+      "D": "Closes epiglottis"
+    },
+    "correct_answer": "A",
+    "explanation": "External intercostals lift ribs, expand thorax dorso-ventrally."
+  },
+  {
+    "source_sentence": "Inspiratory Reserve Volume (IRV): averages 2500 mL to 3000 mL.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Additional air forcibly inhaled after normal inspiration is:",
+    "options": {
+      "A": "IRV (2500-3000 mL)",
+      "B": "ERV",
+      "C": "RV",
+      "D": "TV only"
+    },
+    "correct_answer": "A",
+    "explanation": "IRV is extra inspiratory capacity beyond tidal volume."
+  },
+  {
+    "source_sentence": "Expiratory Reserve Volume (ERV): averages 1000 mL to 1100 mL.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Extra air forcibly expired after normal expiration is:",
+    "options": {
+      "A": "ERV (1000-1100 mL)",
+      "B": "IRV",
+      "C": "RV",
+      "D": "TLC"
+    },
+    "correct_answer": "A",
+    "explanation": "ERV is forcible expiration beyond tidal volume."
+  },
+  {
+    "source_sentence": "Residual Volume (RV): Volume of air remaining in the lungs even after a forcible expiration. averages 1100 mL to 1200 mL.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Air that cannot be expelled by forced expiration is:",
+    "options": {
+      "A": "Residual volume (~1100-1200 mL)",
+      "B": "Tidal volume",
+      "C": "Vital capacity entirely",
+      "D": "IRV"
+    },
+    "correct_answer": "A",
+    "explanation": "RV remains after maximal expiration."
+  },
+  {
+    "source_sentence": "Inspiratory Capacity (IC): TV+IRV.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Inspiratory capacity equals:",
+    "options": {
+      "A": "Tidal volume + IRV",
+      "B": "TV + ERV",
+      "C": "ERV + RV",
+      "D": "VC + RV"
+    },
+    "correct_answer": "A",
+    "explanation": "IC = TV + IRV."
+  },
+  {
+    "source_sentence": "Expiratory Capacity (EC): TV+ERV.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Expiratory capacity equals:",
+    "options": {
+      "A": "TV + ERV",
+      "B": "TV + IRV",
+      "C": "IRV + RV",
+      "D": "TLC - RV"
+    },
+    "correct_answer": "A",
+    "explanation": "EC = TV + ERV."
+  },
+  {
+    "source_sentence": "Functional Residual Capacity (FRC): ERV+RV.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Air remaining after normal expiration (FRC) is:",
+    "options": {
+      "A": "ERV + RV",
+      "B": "TV + IRV",
+      "C": "VC only",
+      "D": "TLC"
+    },
+    "correct_answer": "A",
+    "explanation": "FRC = ERV + RV."
+  },
+  {
+    "source_sentence": "Vital Capacity (VC): ERV, TV and IRV.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Vital capacity includes:",
+    "options": {
+      "A": "IRV + TV + ERV",
+      "B": "RV + TV only",
+      "C": "TLC entirely",
+      "D": "FRC + IC duplicated"
+    },
+    "correct_answer": "A",
+    "explanation": "VC = IRV + TV + ERV (max inhale after max exhale)."
+  },
+  {
+    "source_sentence": "Total Lung Capacity (TLC): vital capacity + residual volume.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Total lung capacity equals:",
+    "options": {
+      "A": "VC + RV",
+      "B": "IC + EC only",
+      "C": "TV × respiratory rate",
+      "D": "FRC alone"
+    },
+    "correct_answer": "A",
+    "explanation": "TLC = VC + RV."
+  },
+  {
+    "source_sentence": "Define vital capacity. What is its significance?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Vital capacity clinically indicates:",
+    "options": {
+      "A": "Maximum ventilatory capacity; useful in diagnosis",
+      "B": "Only residual air",
+      "C": "Heart rate",
+      "D": "Blood pressure only"
+    },
+    "correct_answer": "A",
+    "explanation": "VC reflects pulmonary health and ventilatory reserve."
+  },
+  {
+    "source_sentence": "State the volume of air remaining in the lungs after a normal breathing.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "After normal expiration, lungs contain:",
+    "options": {
+      "A": "FRC (ERV + RV)",
+      "B": "Only tidal volume",
+      "C": "Zero air",
+      "D": "TLC"
+    },
+    "correct_answer": "A",
+    "explanation": "Post-normal expiration = FRC."
+  },
+  {
+    "source_sentence": "Diffusion of gases occurs in the alveolar region only and not in the other parts of respiratory system. Why?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Exchange occurs only in alveoli because:",
+    "options": {
+      "A": "Alveoli provide vast vascularised surface; conducting parts lack it",
+      "B": "Trachea has thicker membrane for exchange",
+      "C": "Bronchi actively transport O2",
+      "D": "Pleura performs exchange"
+    },
+    "correct_answer": "A",
+    "explanation": "Conducting zone transports air; thin alveolar membrane enables diffusion."
+  },
+  {
+    "source_sentence": "The diffusion membrane is made up of three major layers.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Alveolar diffusion membrane includes:",
+    "options": {
+      "A": "Alveolar epithelium, basement substance, capillary endothelium",
+      "B": "Cartilage and bone",
+      "C": "Only mucus layer",
+      "D": "Pleura alone"
+    },
+    "correct_answer": "A",
+    "explanation": "Three layers: alveolar epithelium, basement membrane, endothelium."
+  },
+  {
+    "source_sentence": "During swallowing glottis can be covered by epiglottis to prevent the entry of food into the larynx.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Epiglottis prevents:",
+    "options": {
+      "A": "Food entering larynx during swallowing",
+      "B": "Air entering lungs",
+      "C": "CO2 diffusion",
+      "D": "Pleural friction"
+    },
+    "correct_answer": "A",
+    "explanation": "Epiglottis covers glottis during swallowing."
+  },
+  {
+    "source_sentence": "Trachea divides at the level of 5th thoracic vertebra into right and left primary bronchi.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Primary bronchi branch from trachea at about:",
+    "options": {
+      "A": "5th thoracic vertebra level",
+      "B": "Cervical C1",
+      "C": "L5 vertebra",
+      "D": "Diaphragm only"
+    },
+    "correct_answer": "A",
+    "explanation": "Tracheal bifurcation at T5."
+  },
+  {
+    "source_sentence": "Incomplete cartilaginous rings support trachea and bronchi.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "C-shaped cartilage in trachea prevents:",
+    "options": {
+      "A": "Collapse of airway while allowing oesophageal expansion",
+      "B": "All airflow",
+      "C": "Gas exchange in alveoli",
+      "D": "Pleural fluid formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Incomplete rings support airway yet permit food passage posteriorly."
+  },
+  {
+    "source_sentence": "Pneumotaxic centre can moderate the functions of the respiratory rhythm centre.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Pneumotaxic centre in pons:",
+    "options": {
+      "A": "Reduces inspiration duration altering respiratory rate",
+      "B": "Stops breathing permanently",
+      "C": "Increases TV only via kidneys",
+      "D": "Controls heart SAN"
+    },
+    "correct_answer": "A",
+    "explanation": "Pons pneumotaxic centre modulates medullary rhythm."
+  },
+  {
+    "source_sentence": "Receptors associated with aortic arch and carotid artery also can recognise changes in CO2 and H+ concentration.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Peripheral chemoreceptors are located in:",
+    "options": {
+      "A": "Aortic arch and carotid arteries",
+      "B": "Alveoli only",
+      "C": "Diaphragm motor end plates",
+      "D": "Pleura"
+    },
+    "correct_answer": "A",
+    "explanation": "Carotid/aortic bodies monitor blood gas changes."
+  },
+  {
+    "source_sentence": "Emphysema is a chronic disorder in which alveolar walls are damaged due to which respiratory surface is decreased.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Emphysema primarily reduces:",
+    "options": {
+      "A": "Alveolar surface area due to wall damage",
+      "B": "Heart stroke volume",
+      "C": "Kidney GFR",
+      "D": "Hb synthesis only"
+    },
+    "correct_answer": "A",
+    "explanation": "Emphysema destroys alveolar walls decreasing exchange area."
+  },
+  {
+    "source_sentence": "What happens to the respiratory process in a man going up a hill?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "At high altitude, breathing rate increases mainly to compensate:",
+    "options": {
+      "A": "Lower pO2 in inspired air",
+      "B": "Higher pCO2 at altitude",
+      "C": "Increased atmospheric pressure only",
+      "D": "Absence of haemoglobin"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypobaric hypoxia at altitude triggers hyperventilation."
+  },
+  {
+    "source_sentence": "What is the site of gaseous exchange in an insect?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "In insects, gas exchange occurs across walls of:",
+    "options": {
+      "A": "Tracheal tubes/tracheoles",
+      "B": "Gills",
+      "C": "Moist skin only",
+      "D": "Book lungs in all insects always"
+    },
+    "correct_answer": "A",
+    "explanation": "Tracheal system delivers air to tissues in insects."
+  },
+  {
+    "source_sentence": "Have you heard about hypoxia?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Hypoxia refers to:",
+    "options": {
+      "A": "Oxygen deficiency at tissue level",
+      "B": "Excess CO2 only",
+      "C": "High blood pressure",
+      "D": "Rapid heart rate only"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypoxia = inadequate O2 supply to tissues."
+  },
+  {
+    "source_sentence": "Distinguish IRV and ERV.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "IRV differs from ERV because IRV is:",
+    "options": {
+      "A": "Extra air inhaled forcibly after normal inspiration",
+      "B": "Air after normal expiration only",
+      "C": "Residual air",
+      "D": "Dead space volume"
+    },
+    "correct_answer": "A",
+    "explanation": "IRV = forcible inspiration reserve; ERV = forcible expiration reserve."
+  },
+  {
+    "source_sentence": "Distinguish Inspiratory capacity and Expiratory capacity.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "IC is greater than EC typically because:",
+    "options": {
+      "A": "IRV (2500-3000) exceeds ERV (1000-1100)",
+      "B": "RV is added to EC",
+      "C": "TV is zero in IC",
+      "D": "FRC equals IC"
+    },
+    "correct_answer": "A",
+    "explanation": "IC includes larger IRV; EC includes smaller ERV."
+  },
+  {
+    "source_sentence": "Distinguish Vital capacity and Total lung capacity.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "TLC exceeds VC by amount equal to:",
+    "options": {
+      "A": "Residual volume",
+      "B": "Tidal volume only",
+      "C": "Dead space",
+      "D": "IRV alone"
+    },
+    "correct_answer": "A",
+    "explanation": "TLC = VC + RV."
+  },
+  {
+    "source_sentence": "Tidal volume for a healthy human in an hour (approximate).",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "If TV=500 mL and rate=12/min, hourly tidal air is about:",
+    "options": {
+      "A": "360 litres moved (in+out total flow component)",
+      "B": "500 mL total",
+      "C": "12 litres only",
+      "D": "6000 mL exactly once"
+    },
+    "correct_answer": "A",
+    "explanation": "12×60×500 mL ≈ 360 L total inspired per hour."
+  },
+  {
+    "source_sentence": "Explain the process of inspiration under normal conditions.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Correct sequence during inspiration:",
+    "options": {
+      "A": "Diaphragm/external intercostals contract → thoracic volume up → intra-pulmonary pressure down → air in",
+      "B": "Semilunar valves open",
+      "C": "Ribs depress first",
+      "D": "Intra-pulmonary pressure rises above atmosphere"
+    },
+    "correct_answer": "A",
+    "explanation": "Muscle contraction expands thorax lowering lung pressure."
+  },
+  {
+    "source_sentence": "How is respiration regulated?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Integrated respiratory regulation involves:",
+    "options": {
+      "A": "Medullary rhythm centre, pneumotaxic centre, chemoreceptors",
+      "B": "Only voluntary cortex control",
+      "C": "Only lung stretch without brain",
+      "D": "Kidney JGA alone"
+    },
+    "correct_answer": "A",
+    "explanation": "Neural and chemical feedback regulate breathing."
+  },
+  {
+    "source_sentence": "Pressure contributed by an individual gas in a mixture of gases is called partial pressure.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Partial pressure of oxygen in alveoli (Table 14.1) is about:",
+    "options": {
+      "A": "104 mm Hg",
+      "B": "159 mm Hg",
+      "C": "40 mm Hg",
+      "D": "0.3 mm Hg"
+    },
+    "correct_answer": "A",
+    "explanation": "Alveolar pO2 ≈ 104 mm Hg."
+  },
+  {
+    "source_sentence": "At the tissue site where partial pressure of CO2 is high due to catabolism, CO2 diffuses into blood and forms HCO3- and H+.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "In tissues, CO2 entry into RBCs leads primarily to:",
+    "options": {
+      "A": "HCO3- and H+ formation via carbonic anhydrase",
+      "B": "Only carbamino formation without bicarbonate",
+      "C": "O2 binding increase",
+      "D": "Hb denaturation"
+    },
+    "correct_answer": "A",
+    "explanation": "Tissue CO2 hydrated to bicarbonate for transport."
+  },
+  {
+    "source_sentence": "At the alveolar site where pCO2 is low, the reaction proceeds in the opposite direction leading to CO2 and H2O.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "In alveoli, bicarbonate in RBCs:",
+    "options": {
+      "A": "Decomposes releasing CO2 for expiration",
+      "B": "Accumulates indefinitely",
+      "C": "Converts to carbamino only",
+      "D": "Binds O2 instead"
+    },
+    "correct_answer": "A",
+    "explanation": "Low alveolar pCO2 drives CO2 release from bicarbonate."
+  },
+  {
+    "source_sentence": "Fishes use gills whereas amphibians, reptiles, birds and mammals respire through lungs.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Among vertebrates, pulmonary respiration occurs in:",
+    "options": {
+      "A": "Amphibians, reptiles, birds, mammals",
+      "B": "All fishes only",
+      "C": "Only birds",
+      "D": "Sponges"
+    },
+    "correct_answer": "A",
+    "explanation": "Lungs in tetrapods; gills in fishes."
+  },
+  {
+    "source_sentence": "Pleural fluid reduces friction on the lung-surface.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Pleural fluid function is to:",
+    "options": {
+      "A": "Reduce friction between pleural layers",
+      "B": "Transport O2",
+      "C": "Produce surfactant only in bronchi",
+      "D": "Filter blood"
+    },
+    "correct_answer": "A",
+    "explanation": "Pleural fluid lubricates lung movement."
+  },
+  {
+    "source_sentence": "High pCO2 shifts dissociation curve right.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Assertion (A): High H+ concentration also reduces haemoglobin affinity for oxygen. Reason (R): Bohr effect involves both CO2 and H+ influencing O2 release. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both CO2 and H+ promote O2 unloading at metabolically active tissues."
+  },
+  {
+    "source_sentence": "7 per cent of CO2 is carried in a dissolved state through plasma.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Smallest fraction of CO2 transport is:",
+    "options": {
+      "A": "Dissolved in plasma (~7%)",
+      "B": "Bicarbonate (~70%)",
+      "C": "Carbamino-haemoglobin",
+      "D": "Oxyhaemoglobin"
+    },
+    "correct_answer": "A",
+    "explanation": "7% CO2 simply dissolved in plasma."
+  },
+  {
+    "source_sentence": "Spirometer estimates volumes involved in breathing movements.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Clinical assessment of pulmonary function uses:",
+    "options": {
+      "A": "Spirometry",
+      "B": "Electrocardiogram",
+      "C": "Renal dialysis",
+      "D": "EEG only"
+    },
+    "correct_answer": "A",
+    "explanation": "Spirometer measures respiratory volumes."
+  },
+  {
+    "source_sentence": "Internal intercostals assist forced expiration.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Forced expiration uses:",
+    "options": {
+      "A": "Abdominal muscles and internal intercostals",
+      "B": "Only passive recoil always",
+      "C": "SAN pacemaker",
+      "D": "External intercostals contracting"
+    },
+    "correct_answer": "A",
+    "explanation": "Accessory muscles intensify expiration."
+  },
+  {
+    "source_sentence": "Larynx is a cartilaginous box which helps in sound production.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Sound production in humans involves:",
+    "options": {
+      "A": "Larynx (voice box)",
+      "B": "Alveoli",
+      "C": "Tracheal rings only",
+      "D": "Diaphragm alone without cords"
+    },
+    "correct_answer": "A",
+    "explanation": "Larynx modulates sound; vocal cords within."
+  },
+  {
+    "source_sentence": "Respiration involves cellular respiration dealt in Chapter 12 as final step.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Breathing differs from cellular respiration because breathing is:",
+    "options": {
+      "A": "Physical exchange/ventilation of gases",
+      "B": "Krebs cycle in mitochondria",
+      "C": "Glycolysis in cytoplasm",
+      "D": "Fermentation only"
+    },
+    "correct_answer": "A",
+    "explanation": "Breathing = ventilation; cellular respiration = ATP production."
+  },
+  {
+    "source_sentence": "Occupational respiratory disorders involve fibrosis from dust exposure.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Silicosis-type occupational lung disease involves:",
+    "options": {
+      "A": "Fibrosis from chronic dust inhalation",
+      "B": "Alveolar overexpansion only",
+      "C": "Increased Hb affinity for O2",
+      "D": "Pneumotaxic failure only"
+    },
+    "correct_answer": "A",
+    "explanation": "Long dust exposure causes inflammation and fibrosis."
+  },
+  {
+    "source_sentence": "What are the major transport mechanisms for CO2?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Major CO2 transport mechanisms include:",
+    "options": {
+      "A": "Bicarbonate, carbamino-Hb, dissolved CO2",
+      "B": "Only oxyhaemoglobin",
+      "C": "Active transport by alveolar cells",
+      "D": "Lymphatic absorption only"
+    },
+    "correct_answer": "A",
+    "explanation": "Three mechanisms: bicarbonate dominant, carbamino, dissolved."
+  },
+  {
+    "source_sentence": "Can you suggest reason for sigmoidal pattern of dissociation curve?",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Sigmoidal O2 dissociation curve results from:",
+    "options": {
+      "A": "Cooperative binding of O2 to haemoglobin subunits",
+      "B": "Linear passive diffusion only",
+      "C": "Absence of haemoglobin",
+      "D": "CO2 insolubility"
+    },
+    "correct_answer": "A",
+    "explanation": "Cooperativity produces S-shaped saturation curve."
+  },
+  {
+    "source_sentence": "Exchange of O2 and CO2 between blood and tissues occur by simple diffusion.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Tissue gas exchange depends on:",
+    "options": {
+      "A": "Partial pressure gradients and solubility",
+      "B": "Active sodium pump",
+      "C": "Blood group antigens",
+      "D": "Lymph flow only"
+    },
+    "correct_answer": "A",
+    "explanation": "Diffusion driven by partial pressure gradients."
+  },
+  {
+    "source_sentence": "The part starting with external nostrils up to terminal bronchioles constitute the conducting part.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Terminal bronchioles belong to:",
+    "options": {
+      "A": "Conducting zone",
+      "B": "Exchange zone",
+      "C": "Pleural cavity",
+      "D": "Medulla"
+    },
+    "correct_answer": "A",
+    "explanation": "Conducting zone ends at terminal bronchioles."
+  },
+  {
+    "source_sentence": "Alveoli and their ducts form the respiratory or exchange part.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Respiratory zone of lung begins at:",
+    "options": {
+      "A": "Respiratory bronchioles/alveoli",
+      "B": "Trachea",
+      "C": "Primary bronchi only",
+      "D": "Nasal vestibule"
+    },
+    "correct_answer": "A",
+    "explanation": "Exchange part includes alveoli and ducts."
+  },
+  {
+    "source_sentence": "Earthworms use their moist cuticle for gas exchange.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Cutaneous respiration in earthworm requires:",
+    "options": {
+      "A": "Moist cuticle for diffusion",
+      "B": "Tracheal system",
+      "C": "Gills in coelom",
+      "D": "Book lungs"
+    },
+    "correct_answer": "A",
+    "explanation": "Moist skin allows diffusion in earthworms."
+  },
+  {
+    "source_sentence": "Lower invertebrates exchange O2 with CO2 by simple diffusion over entire body surface.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Sponges and flatworms respire by:",
+    "options": {
+      "A": "Diffusion over body surface",
+      "B": "Closed circulatory gills",
+      "C": "Lungs",
+      "D": "Tracheae"
+    },
+    "correct_answer": "A",
+    "explanation": "Simple diffusion across body surface in lower invertebrates."
+  },
+  {
+    "source_sentence": "Partial pressure of CO2 in atmospheric air (Table 14.1) is:",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Atmospheric pCO2 is approximately:",
+    "options": {
+      "A": "0.3 mm Hg",
+      "B": "40 mm Hg",
+      "C": "45 mm Hg",
+      "D": "104 mm Hg"
+    },
+    "correct_answer": "A",
+    "explanation": "Atmospheric CO2 very low (~0.3 mm Hg)."
+  },
+  {
+    "source_sentence": "Oxygenated blood pO2 is 95 mm Hg per Table 14.1.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "After pulmonary exchange, arterial blood pO2 is about:",
+    "options": {
+      "A": "95 mm Hg",
+      "B": "40 mm Hg",
+      "C": "159 mm Hg",
+      "D": "104 mm Hg in artery"
+    },
+    "correct_answer": "A",
+    "explanation": "Oxygenated blood pO2 ~95 mm Hg."
+  },
+  {
+    "source_sentence": "Deoxygenated blood pCO2 is 45 mm Hg.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Venous blood returning from tissues has pCO2 about:",
+    "options": {
+      "A": "45 mm Hg",
+      "B": "0.3 mm Hg",
+      "C": "40 mm Hg in artery",
+      "D": "104 mm Hg"
+    },
+    "correct_answer": "A",
+    "explanation": "Deoxygenated blood carries higher CO2 (~45 mm Hg)."
+  },
+  {
+    "source_sentence": "When pCO2 is low and pO2 is high as in the alveoli, dissociation of CO2 from carbamino-haemoglobin takes place.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "At alveoli, carbamino-haemoglobin:",
+    "options": {
+      "A": "Releases CO2 due to low pCO2 and high pO2",
+      "B": "Forms more strongly",
+      "C": "Converts to oxyhaemoglobin permanently",
+      "D": "Transports only O2"
+    },
+    "correct_answer": "A",
+    "explanation": "Alveolar conditions favour CO2 release from Hb."
+  },
+  {
+    "source_sentence": "Human respiratory system: two lungs in thoracic chamber.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Thoracic chamber boundary includes:",
+    "options": {
+      "A": "Vertebral column, sternum, ribs, diaphragm",
+      "B": "Only abdominal wall",
+      "C": "Cranium",
+      "D": "Pelvic girdle"
+    },
+    "correct_answer": "A",
+    "explanation": "Thorax bounded dorsally by vertebrae, ventrally sternum, ribs laterally, diaphragm inferiorly."
+  },
+  {
+    "source_sentence": "Total thickness of diffusion membrane is much less than a millimetre.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Thin alveolar-capillary membrane facilitates gas exchange because:",
+    "options": {
+      "A": "Short diffusion distance",
+      "B": "Active transport pumps",
+      "C": "Thick mucus layer",
+      "D": "Cartilage plates"
+    },
+    "correct_answer": "A",
+    "explanation": "Sub-millimetre thickness minimises diffusion barrier."
+  },
+  {
+    "source_sentence": "A healthy man can inspire or expire approximately 6000 to 8000 mL of air per minute.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Minute ventilation at rest (12 breaths × 500 mL) is about:",
+    "options": {
+      "A": "6-8 litres per minute",
+      "B": "500 mL per minute",
+      "C": "120 litres per minute",
+      "D": "1 litre per hour"
+    },
+    "correct_answer": "A",
+    "explanation": "Minute ventilation ≈ respiratory rate × tidal volume."
+  },
+  {
+    "source_sentence": "Expiration is passive under normal conditions.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Assertion (A): Relaxation of diaphragm and intercostals reduces thoracic volume. Reason (R): Decreased thoracic volume raises intra-pulmonary pressure above atmosphere expelling air. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Muscle relaxation reduces volume, increasing pressure to drive passive expiration."
+  },
+  {
+    "source_sentence": "Aquatic arthropods and molluscs use gills (branchial respiration).",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Branchial respiration is seen in:",
+    "options": {
+      "A": "Aquatic arthropods and molluscs",
+      "B": "Terrestrial insects only",
+      "C": "Mammals",
+      "D": "Earthworms"
+    },
+    "correct_answer": "A",
+    "explanation": "Gills used by aquatic arthropods and molluscs."
+  },
+  {
+    "source_sentence": "Terrestrial forms use vascularised bags called lungs (pulmonary respiration).",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Pulmonary respiration uses:",
+    "options": {
+      "A": "Vascularised lungs",
+      "B": "Moist cuticle only",
+      "C": "Tracheal tubes in all terrestrial animals",
+      "D": "Protonephridia"
+    },
+    "correct_answer": "A",
+    "explanation": "Lungs are vascularised bags for gas exchange on land."
+  },
+  {
+    "source_sentence": "Binding of oxygen with haemoglobin is affected by partial pressure of CO2, hydrogen ion concentration and temperature.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Factors shifting Hb-O2 affinity include all EXCEPT:",
+    "options": {
+      "A": "Partial pressure of O2",
+      "B": "pCO2 and H+ concentration",
+      "C": "Temperature",
+      "D": "Blood group antigens A and B"
+    },
+    "correct_answer": "D",
+    "explanation": "ABO antigens do not affect Hb-O2 binding; pO2, pCO2, H+, T do."
+  },
+  {
+    "source_sentence": "Respiration involves exchange of O2 from atmosphere with CO2 produced by cells.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Assertion (A): Pulmonary ventilation is tidal in nature. Reason (R): Inspiration and expiration alternate rhythmically. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Breathing is cyclic tidal ventilation."
+  },
+  {
+    "source_sentence": "Human respiratory system: nostrils, pharynx, larynx, trachea, bronchi, bronchioles, alveoli.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Site of gas exchange in humans is:",
+    "options": {
+      "A": "Alveoli",
+      "B": "Trachea",
+      "C": "Larynx",
+      "D": "Nasal vestibule only"
+    },
+    "correct_answer": "A",
+    "explanation": "Thin alveolar-capillary membrane enables diffusion."
+  },
+  {
+    "source_sentence": "Inspiration: diaphragm contracts, external intercostals contract, thoracic volume increases.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "During inspiration, intrapleural pressure:",
+    "options": {
+      "A": "Becomes more negative relative to atmospheric",
+      "B": "Equals atmospheric pressure always",
+      "C": "Exceeds alveolar pressure greatly positive",
+      "D": "Is irrelevant to ventilation"
+    },
+    "correct_answer": "A",
+    "explanation": "Negative intrapleural pressure keeps lungs expanded."
+  },
+  {
+    "source_sentence": "Tidal volume (TV) ~500 mL; IRV, ERV, RV compose lung capacities.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "If TV = 500 mL, IRV = 3000 mL, ERV = 1100 mL, RV = 1200 mL, vital capacity equals:",
+    "options": {
+      "A": "4600 mL",
+      "B": "5800 mL",
+      "C": "500 mL",
+      "D": "1200 mL"
+    },
+    "correct_answer": "A",
+    "explanation": "VC = TV + IRV + ERV = 500+3000+1100 = 4600 mL."
+  },
+  {
+    "source_sentence": "Oxyhaemoglobin dissociation curve is sigmoid; Bohr effect shifts curve right.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Increased CO2 and decreased pH in tissues cause Hb to:",
+    "options": {
+      "A": "Release O2 more readily (Bohr effect)",
+      "B": "Bind O2 more tightly without release",
+      "C": "Convert to myoglobin",
+      "D": "Stop carrying CO2 entirely"
+    },
+    "correct_answer": "A",
+    "explanation": "Bohr effect favours O2 unloading in active tissues."
+  },
+  {
+    "source_sentence": "Most O2 transported bound to haemoglobin; CO2 as bicarbonate, carbamino-Hb and dissolved.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Major form of CO2 transport in blood is:",
+    "options": {
+      "A": "Bicarbonate ions in plasma",
+      "B": "Dissolved CO2 only",
+      "C": "Bound to haemoglobin exclusively without bicarbonate",
+      "D": "As O2 gas in alveoli only"
+    },
+    "correct_answer": "A",
+    "explanation": "~70% CO2 as bicarbonate via RBC carbonic anhydrase."
+  },
+  {
+    "source_sentence": "Regulation: medulla oblongata respiratory centre; pneumotaxic centre modifies rhythm.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Primary rhythm centre for respiration is in:",
+    "options": {
+      "A": "Medulla oblongata",
+      "B": "Cerebellum only",
+      "C": "Hypothalamus exclusively for all breathing",
+      "D": "Spinal cord dorsal horn only"
+    },
+    "correct_answer": "A",
+    "explanation": "Medullary respiratory centres generate basic rhythm."
+  },
+  {
+    "source_sentence": "Emphysema: alveolar walls damaged; asthma: inflammation and bronchial constriction.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "A chronic smoker with destroyed alveolar septa likely has:",
+    "options": {
+      "A": "Emphysema",
+      "B": "Asthma only without structural damage",
+      "C": "Mountain sickness exclusively",
+      "D": "Carbon monoxide binding only without tissue damage"
+    },
+    "correct_answer": "A",
+    "explanation": "Emphysema reduces surface area for gas exchange."
+  },
+  {
+    "source_sentence": "High altitude: low pO2 causes hypoxia; body compensates by increased RBC production.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Acclimatisation to high altitude includes:",
+    "options": {
+      "A": "Increased erythropoietin and RBC count",
+      "B": "Decreased breathing rate permanently to conserve O2",
+      "C": "Complete cessation of 2,3-BPG production",
+      "D": "Shift of Hb curve strongly left reducing unloading"
+    },
+    "correct_answer": "A",
+    "explanation": "More RBCs improve O2 carrying capacity at altitude."
+  },
+  {
+    "source_sentence": "Residue volume (RV) cannot be expelled voluntarily.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Which lung volume is NEVER zero in healthy resting adult?",
+    "options": {
+      "A": "Residual volume",
+      "B": "Inspiratory reserve at end of normal expiration",
+      "C": "Tidal volume during apnea attempt",
+      "D": "Total lung capacity minus all volumes"
+    },
+    "correct_answer": "A",
+    "explanation": "RV remains after maximal expiration."
+  },
+  {
+    "source_sentence": "Diffusion membrane: alveolar epithelium, basement membrane, capillary endothelium.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Consider the following statements:\n1. Total diffusion distance is about 0.5-1 μm in alveoli\n2. Gas exchange occurs by active transport requiring ATP always\n3. Surface area of alveoli is greatly increased by branching\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Gas exchange is passive diffusion; statements 1 and 3 correct."
+  },
+  {
+    "source_sentence": "Haemoglobin carries 4 O2 molecules; partial pressure determines saturation.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "At pO2 of 100 mm Hg in alveoli, Hb saturation is approximately:",
+    "options": {
+      "A": "97-98%",
+      "B": "50% only",
+      "C": "25% only",
+      "D": "0% always"
+    },
+    "correct_answer": "A",
+    "explanation": "Alveolar pO2 saturates Hb near maximum."
+  },
+  {
+    "source_sentence": "Internal respiration: O2 diffuses from blood to tissues; CO2 opposite.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "During strenuous exercise, muscle pO2 falls causing:",
+    "options": {
+      "A": "Enhanced O2 dissociation from oxyhaemoglobin",
+      "B": "Hb to bind O2 more strongly in muscles",
+      "C": "CO2 transport to stop entirely",
+      "D": "Shift to anaerobic only without any blood change"
+    },
+    "correct_answer": "A",
+    "explanation": "Low tissue pO2 promotes O2 unloading."
+  },
+  {
+    "source_sentence": "Anatomical dead space includes conducting zone without alveoli.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Dead space air participates in:",
+    "options": {
+      "A": "Ventilation but not gas exchange",
+      "B": "Gas exchange with blood",
+      "C": "O2 binding to haemoglobin directly in bronchi",
+      "D": "CO2 production by alveolar cells only"
+    },
+    "correct_answer": "A",
+    "explanation": "Conducting airways humidify/warm air but do not exchange gases."
+  },
+  {
+    "source_sentence": "Carbon monoxide binds Hb 200 times stronger than O2.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "CO poisoning causes hypoxia because:",
+    "options": {
+      "A": "Carboxyhaemoglobin reduces O2 carrying capacity",
+      "B": "CO increases alveolar surface area",
+      "C": "CO stimulates erythropoiesis immediately correcting O2",
+      "D": "CO shifts curve left increasing O2 release in tissues"
+    },
+    "correct_answer": "A",
+    "explanation": "CO competitively blocks Hb O2 binding."
+  },
+  {
+    "source_sentence": "Expiration at rest is passive due to elastic recoil; forced expiration uses abdominal muscles.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Forced expiration actively involves:",
+    "options": {
+      "A": "Internal intercostals and abdominal muscles",
+      "B": "Diaphragm contraction alone like inspiration",
+      "C": "External intercostals only",
+      "D": "No muscle activity at all"
+    },
+    "correct_answer": "A",
+    "explanation": "Forced expiration uses accessory muscles."
+  },
+  {
+    "source_sentence": "Regulation by chemoreceptors: central (medulla) sensitive to CO2/H+; peripheral to O2.",
+    "chapter": "Chapter 14: Breathing and Exchange of Gases",
+    "question": "Primary stimulus for increased ventilation in exercise is:",
+    "options": {
+      "A": "Elevated CO2 and H+ in blood",
+      "B": "Decreased atmospheric nitrogen",
+      "C": "Increased blood glucose alone",
+      "D": "Reduced haemoglobin synthesis"
+    },
+    "correct_answer": "A",
+    "explanation": "CO2/H+ drive ventilation via chemoreceptors."
+  }
+]

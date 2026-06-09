@@ -1,0 +1,1042 @@
+[
+  {
+    "source_sentence": "Energy transfer follows the 10 percent law.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "If producers store 10,000 J, energy available to primary consumers is about",
+    "options": {
+      "A": "10 J",
+      "B": "100 J",
+      "C": "1,000 J",
+      "D": "5,000 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ten percent of 10,000 J is 1,000 J."
+  },
+  {
+    "source_sentence": "Gross primary productivity is total photosynthesis.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Net primary productivity is calculated as",
+    "options": {
+      "A": "GPP + respiration",
+      "B": "GPP - respiration",
+      "C": "respiration - GPP",
+      "D": "respiration only"
+    },
+    "correct_answer": "B",
+    "explanation": "NPP = GPP - respiration."
+  },
+  {
+    "source_sentence": "Decomposition involves fragmentation, leaching, catabolism, humification, mineralisation.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which process releases inorganic nutrients from humus?",
+    "options": {
+      "A": "humification",
+      "B": "mineralisation",
+      "C": "fragmentation",
+      "D": "leaching"
+    },
+    "correct_answer": "B",
+    "explanation": "Mineralisation releases inorganic nutrients."
+  },
+  {
+    "source_sentence": "Grazing food chain starts with producers.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The grazing food chain begins with",
+    "options": {
+      "A": "detritus",
+      "B": "green plants",
+      "C": "fungi",
+      "D": "bacteria"
+    },
+    "correct_answer": "B",
+    "explanation": "Grazing food chain begins with producers."
+  },
+  {
+    "source_sentence": "Detritus food chain starts with dead organic matter.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The detritus food chain starts with",
+    "options": {
+      "A": "herbivores",
+      "B": "detritus",
+      "C": "top carnivores",
+      "D": "producers only"
+    },
+    "correct_answer": "B",
+    "explanation": "Detritus is dead organic matter."
+  },
+  {
+    "source_sentence": "Ecological pyramids can be of number, biomass, energy.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which ecological pyramid is always upright?",
+    "options": {
+      "A": "pyramid of numbers",
+      "B": "pyramid of biomass",
+      "C": "pyramid of energy",
+      "D": "pyramid of species"
+    },
+    "correct_answer": "C",
+    "explanation": "Energy pyramid is always upright."
+  },
+  {
+    "source_sentence": "PAR is photosynthetically active radiation.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "PAR constitutes about",
+    "options": {
+      "A": "2-10% of solar radiation",
+      "B": "50-60% of solar radiation",
+      "C": "80-90% of solar radiation",
+      "D": "100% of solar radiation"
+    },
+    "correct_answer": "A",
+    "explanation": "PAR is about 2-10% of incoming solar radiation."
+  },
+  {
+    "source_sentence": "Standing crop is biomass at a given time.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Standing crop is measured as",
+    "options": {
+      "A": "energy flow per unit time",
+      "B": "biomass per unit area",
+      "C": "number of trophic levels",
+      "D": "species richness"
+    },
+    "correct_answer": "B",
+    "explanation": "Standing crop is biomass per unit area."
+  },
+  {
+    "source_sentence": "Decomposition is fastest in warm, moist, aerobic conditions.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Decomposition slows down when litter is",
+    "options": {
+      "A": "rich in nitrogen",
+      "B": "rich in lignin and chitin",
+      "C": "moist and warm",
+      "D": "fragmented by detritivores"
+    },
+    "correct_answer": "B",
+    "explanation": "Lignin and chitin slow decomposition."
+  },
+  {
+    "source_sentence": "Ecological efficiency is about 10%.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The 10% law applies to",
+    "options": {
+      "A": "energy transfer between trophic levels",
+      "B": "biomass accumulation in producers",
+      "C": "light energy absorption",
+      "D": "mineral cycling only"
+    },
+    "correct_answer": "A",
+    "explanation": "Energy transfer between trophic levels is ~10%."
+  },
+  {
+    "source_sentence": "Primary productivity is rate of biomass production by producers.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "An ecosystem with high primary productivity is",
+    "options": {
+      "A": "desert",
+      "B": "tropical rain forest",
+      "C": "tundra",
+      "D": "deep ocean"
+    },
+    "correct_answer": "B",
+    "explanation": "Tropical rain forests show high productivity."
+  },
+  {
+    "source_sentence": "Ecological pyramids represent trophic structure.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "In a grassland ecosystem, the pyramid of numbers is",
+    "options": {
+      "A": "inverted",
+      "B": "upright",
+      "C": "spindle-shaped",
+      "D": "always inverted"
+    },
+    "correct_answer": "B",
+    "explanation": "Grasslands have upright pyramid of numbers."
+  },
+  {
+    "source_sentence": "Pyramid of biomass can be inverted in aquatic ecosystems.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "In a pond ecosystem, the pyramid of biomass is often",
+    "options": {
+      "A": "upright",
+      "B": "inverted",
+      "C": "spindle-shaped",
+      "D": "absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Phytoplankton biomass is low, so pyramid can be inverted."
+  },
+  {
+    "source_sentence": "Detritivores fragment litter.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Earthworms contribute to decomposition mainly by",
+    "options": {
+      "A": "humification",
+      "B": "fragmentation",
+      "C": "mineralisation",
+      "D": "fixation"
+    },
+    "correct_answer": "B",
+    "explanation": "Earthworms break litter into smaller particles."
+  },
+  {
+    "source_sentence": "NPP represents energy available to consumers.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The energy available to herbivores is represented by",
+    "options": {
+      "A": "GPP",
+      "B": "NPP",
+      "C": "respiration",
+      "D": "PAR"
+    },
+    "correct_answer": "B",
+    "explanation": "NPP is available for consumers."
+  },
+  {
+    "source_sentence": "Humification leads to humus formation.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Humus is",
+    "options": {
+      "A": "easily decomposable",
+      "B": "dark, amorphous, resistant organic matter",
+      "C": "inorganic mineral",
+      "D": "fresh litter"
+    },
+    "correct_answer": "B",
+    "explanation": "Humus is dark and resistant to decomposition."
+  },
+  {
+    "source_sentence": "Mineralisation releases nutrients.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Mineralisation results in",
+    "options": {
+      "A": "release of inorganic nutrients",
+      "B": "formation of humus",
+      "C": "fragmentation of litter",
+      "D": "evaporation"
+    },
+    "correct_answer": "A",
+    "explanation": "Mineralisation releases inorganic nutrients."
+  },
+  {
+    "source_sentence": "Ecosystem services include nutrient cycling.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which is an ecosystem service?",
+    "options": {
+      "A": "nutrient cycling",
+      "B": "RNA transcription",
+      "C": "chromosome doubling",
+      "D": "DNA replication"
+    },
+    "correct_answer": "A",
+    "explanation": "Nutrient cycling is an ecosystem service."
+  },
+  {
+    "source_sentence": "Standing state refers to amount of inorganic nutrients.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Standing state in an ecosystem refers to",
+    "options": {
+      "A": "amount of inorganic nutrients in soil",
+      "B": "number of species",
+      "C": "population growth rate",
+      "D": "energy flow rate"
+    },
+    "correct_answer": "A",
+    "explanation": "Standing state is the pool of inorganic nutrients."
+  },
+  {
+    "source_sentence": "Litter is decomposed by detritivores and microbes.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which group is primarily responsible for catabolism?",
+    "options": {
+      "A": "detritivores",
+      "B": "bacteria and fungi",
+      "C": "herbivores",
+      "D": "top carnivores"
+    },
+    "correct_answer": "B",
+    "explanation": "Microbes do enzymatic breakdown."
+  },
+  {
+    "source_sentence": "Decomposition includes leaching.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Leaching in decomposition refers to",
+    "options": {
+      "A": "release of soluble nutrients into soil water",
+      "B": "fragmentation by detritivores",
+      "C": "formation of humus",
+      "D": "consumption by herbivores"
+    },
+    "correct_answer": "A",
+    "explanation": "Soluble nutrients are washed into soil by leaching."
+  },
+  {
+    "source_sentence": "Primary productivity is influenced by light, temperature, and water.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which factor does NOT usually limit primary productivity on land?",
+    "options": {
+      "A": "light",
+      "B": "water",
+      "C": "temperature",
+      "D": "wind direction only"
+    },
+    "correct_answer": "D",
+    "explanation": "Wind direction alone is not a major limiting factor."
+  },
+  {
+    "source_sentence": "Food chains can be grazing or detritus.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The detritus food chain is important because it",
+    "options": {
+      "A": "starts with living producers",
+      "B": "recycles nutrients from dead organic matter",
+      "C": "has only carnivores",
+      "D": "does not involve microbes"
+    },
+    "correct_answer": "B",
+    "explanation": "Detritus chain recycles nutrients from dead matter."
+  },
+  {
+    "source_sentence": "Ecosystem is a functional unit of nature.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "An ecosystem includes",
+    "options": {
+      "A": "only biotic components",
+      "B": "biotic and abiotic components",
+      "C": "only abiotic components",
+      "D": "only decomposers"
+    },
+    "correct_answer": "B",
+    "explanation": "Ecosystem includes biotic and abiotic components."
+  },
+  {
+    "source_sentence": "Biomagnification occurs in food chains.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Biomagnification refers to",
+    "options": {
+      "A": "increase in nutrient recycling",
+      "B": "increase in toxin concentration at higher trophic levels",
+      "C": "decrease in energy flow",
+      "D": "increase in water content"
+    },
+    "correct_answer": "B",
+    "explanation": "Toxins concentrate at higher trophic levels."
+  },
+  {
+    "source_sentence": "Primary consumers feed on producers.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which is a primary consumer?",
+    "options": {
+      "A": "grasshopper",
+      "B": "tiger",
+      "C": "hawk",
+      "D": "snake"
+    },
+    "correct_answer": "A",
+    "explanation": "Grasshopper is a herbivore."
+  },
+  {
+    "source_sentence": "Energy transfer decreases at each level.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "If producers capture 2000 J, energy at secondary consumers is about",
+    "options": {
+      "A": "200 J",
+      "B": "20 J",
+      "C": "2 J",
+      "D": "2000 J"
+    },
+    "correct_answer": "B",
+    "explanation": "10% transfer each level: 2000→200→20."
+  },
+  {
+    "source_sentence": "Ecosystem stability is linked to nutrient cycling.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "A faster nutrient cycling rate generally indicates",
+    "options": {
+      "A": "higher productivity",
+      "B": "no productivity",
+      "C": "extinction",
+      "D": "no energy flow"
+    },
+    "correct_answer": "A",
+    "explanation": "Rapid cycling supports higher productivity."
+  },
+  {
+    "source_sentence": "Pyramid of numbers can be inverted in tree ecosystems.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "In a tree ecosystem, pyramid of numbers is often",
+    "options": {
+      "A": "upright",
+      "B": "inverted",
+      "C": "absent",
+      "D": "always spindle-shaped"
+    },
+    "correct_answer": "B",
+    "explanation": "Few trees support many insects, giving inverted numbers pyramid."
+  },
+  {
+    "source_sentence": "Standing crop is a snapshot of biomass.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Standing crop of phytoplankton is usually measured as",
+    "options": {
+      "A": "dry weight per unit area",
+      "B": "number of trophic levels",
+      "C": "age structure",
+      "D": "birth rate"
+    },
+    "correct_answer": "A",
+    "explanation": "Biomass is measured as dry weight."
+  },
+  {
+    "source_sentence": "NPP is used to determine energy for consumers.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which is greater in an ecosystem?",
+    "options": {
+      "A": "GPP",
+      "B": "NPP",
+      "C": "NPP always equals GPP",
+      "D": "NPP greater than GPP"
+    },
+    "correct_answer": "A",
+    "explanation": "GPP includes respiration, so it is greater."
+  },
+  {
+    "source_sentence": "Decomposers include bacteria and fungi.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which organisms are primary decomposers?",
+    "options": {
+      "A": "bacteria and fungi",
+      "B": "herbivores",
+      "C": "carnivores",
+      "D": "producers"
+    },
+    "correct_answer": "A",
+    "explanation": "Bacteria and fungi are decomposers."
+  },
+  {
+    "source_sentence": "Food webs show interconnected food chains.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "A complex network of feeding relations is called",
+    "options": {
+      "A": "food chain",
+      "B": "food web",
+      "C": "pyramid",
+      "D": "standing crop"
+    },
+    "correct_answer": "B",
+    "explanation": "Interconnected chains form a food web."
+  },
+  {
+    "source_sentence": "Energy flow in ecosystems is unidirectional.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Assertion (A): Only about 10 per cent of energy is transferred to the next trophic level. Reason (R): Energy lost as heat cannot be recycled back to producers. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Energy flows one way and is lost as heat, explaining unidirectionality."
+  },
+  {
+    "source_sentence": "Net primary productivity is less than gross primary productivity.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Assertion (A): Net primary productivity (NPP) is available for heterotroph consumption. Reason (R): Producers use some of the fixed energy for respiration. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Respiration reduces the energy available, so NPP < GPP."
+  },
+  {
+    "source_sentence": "Pyramid of energy is always upright.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Assertion (A): In terrestrial ecosystems, detritus food chain carries substantial energy flow. Reason (R): Energy transfer between trophic levels is inefficient. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Inefficiency keeps energy decreasing at higher levels."
+  },
+  {
+    "source_sentence": "Decomposition is faster in warm and moist habitats.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Assertion (A): Pyramid of energy can never be inverted. Reason (R): Low temperature and anaerobic conditions slow microbial activity. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both statements are true and R explains A."
+  },
+  {
+    "source_sentence": "Detritus food chain is important in forest ecosystems.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Assertion (A): Decomposition rate increases in warm, moist environments. Reason (R): Forests produce large amounts of litter that feed decomposers. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Litter supports detritus chain in forests."
+  },
+  {
+    "source_sentence": "Energy terms are central to ecosystem studies.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Match Column I (Term) with Column II (Meaning). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. GPP – total photosynthesis, 2. NPP – GPP minus respiration, 3. PAR – usable light, 4. Standing crop – biomass at time",
+      "B": "1. GPP – usable light, 2. NPP – total photosynthesis, 3. PAR – biomass, 4. Standing crop – respiration",
+      "C": "1. GPP – respiration, 2. NPP – total photosynthesis, 3. PAR – biomass, 4. Standing crop – energy flow",
+      "D": "1. GPP – energy flow, 2. NPP – light, 3. PAR – respiration, 4. Standing crop – minerals"
+    },
+    "correct_answer": "A",
+    "explanation": "Each term matches its standard definition."
+  },
+  {
+    "source_sentence": "Food chains contain trophic levels.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Match Column I (Trophic level) with Column II (Example). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. Producer – grass, 2. Primary consumer – rabbit, 3. Secondary consumer – snake, 4. Decomposer – fungi",
+      "B": "1. Producer – fungi, 2. Primary consumer – snake, 3. Secondary consumer – grass, 4. Decomposer – rabbit",
+      "C": "1. Producer – rabbit, 2. Primary consumer – grass, 3. Secondary consumer – fungi, 4. Decomposer – snake",
+      "D": "1. Producer – snake, 2. Primary consumer – grass, 3. Secondary consumer – rabbit, 4. Decomposer – fungi"
+    },
+    "correct_answer": "A",
+    "explanation": "Producers are plants; consumers follow; decomposers are fungi."
+  },
+  {
+    "source_sentence": "Decomposition has steps.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Match Column I (Process) with Column II (Description). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. Fragmentation – detritivore action, 2. Leaching – soluble nutrients washed, 3. Humification – humus formation, 4. Mineralisation – inorganic nutrients release",
+      "B": "1. Fragmentation – humus formation, 2. Leaching – detritivore action, 3. Humification – inorganic release, 4. Mineralisation – soluble wash",
+      "C": "1. Fragmentation – inorganic release, 2. Leaching – humus formation, 3. Humification – detritivore action, 4. Mineralisation – soluble wash",
+      "D": "1. Fragmentation – photosynthesis, 2. Leaching – respiration, 3. Humification – transpiration, 4. Mineralisation – nitrogen fixation"
+    },
+    "correct_answer": "A",
+    "explanation": "Standard decomposition steps match these descriptions."
+  },
+  {
+    "source_sentence": "Biogeochemical cycles move nutrients.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Nutrient cycling in an ecosystem is called",
+    "options": {
+      "A": "energy flow",
+      "B": "biogeochemical cycle",
+      "C": "food chain",
+      "D": "succession"
+    },
+    "correct_answer": "B",
+    "explanation": "Cycling of nutrients is biogeochemical cycling."
+  },
+  {
+    "source_sentence": "Ecosystems can be natural or artificial.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which is an artificial ecosystem?",
+    "options": {
+      "A": "pond",
+      "B": "cropland",
+      "C": "forest",
+      "D": "grassland"
+    },
+    "correct_answer": "B",
+    "explanation": "Cropland is man-made and managed."
+  },
+  {
+    "source_sentence": "Primary productivity is rate of biomass increase.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Primary productivity is usually expressed as",
+    "options": {
+      "A": "g biomass per m2 per year",
+      "B": "number of species",
+      "C": "population size",
+      "D": "trophic levels"
+    },
+    "correct_answer": "A",
+    "explanation": "Productivity is rate per area per time."
+  },
+  {
+    "source_sentence": "Decomposers recycle nutrients.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Decomposers are essential because they",
+    "options": {
+      "A": "produce oxygen only",
+      "B": "recycle nutrients back to soil",
+      "C": "eat producers only",
+      "D": "increase PAR"
+    },
+    "correct_answer": "B",
+    "explanation": "Decomposers release nutrients to soil."
+  },
+  {
+    "source_sentence": "Biomass pyramid can be inverted in aquatic systems.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The reason for inverted biomass pyramid in oceans is",
+    "options": {
+      "A": "producers are tiny and have rapid turnover",
+      "B": "producers are absent",
+      "C": "consumers are absent",
+      "D": "energy flow is reversed"
+    },
+    "correct_answer": "A",
+    "explanation": "Phytoplankton biomass is low but turnover is high."
+  },
+  {
+    "source_sentence": "Energy flow in an ecosystem follows laws of thermodynamics.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The law explaining energy loss as heat in each trophic transfer is",
+    "options": {
+      "A": "first law",
+      "B": "second law",
+      "C": "law of Mendel",
+      "D": "Hardy-Weinberg law"
+    },
+    "correct_answer": "B",
+    "explanation": "Second law of thermodynamics leads to energy loss."
+  },
+  {
+    "source_sentence": "Biomass accumulation is affected by grazing.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Excessive grazing can lead to",
+    "options": {
+      "A": "increase in standing crop",
+      "B": "reduction in standing crop",
+      "C": "no effect",
+      "D": "increase in PAR"
+    },
+    "correct_answer": "B",
+    "explanation": "Grazing reduces biomass."
+  },
+  {
+    "source_sentence": "Decomposition is slower in anaerobic conditions.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Why is decomposition slow in water-logged soils?",
+    "options": {
+      "A": "high oxygen",
+      "B": "anaerobic conditions",
+      "C": "high temperature",
+      "D": "low lignin"
+    },
+    "correct_answer": "B",
+    "explanation": "Lack of oxygen slows microbial activity."
+  },
+  {
+    "source_sentence": "Secondary productivity depends on primary productivity.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Secondary productivity would be highest in",
+    "options": {
+      "A": "desert",
+      "B": "tropical rainforest",
+      "C": "tundra",
+      "D": "polar ocean"
+    },
+    "correct_answer": "B",
+    "explanation": "High primary productivity supports high secondary productivity."
+  },
+  {
+    "source_sentence": "Decomposition produces CO2 and mineral nutrients.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "An outcome of decomposition is",
+    "options": {
+      "A": "increase in organic matter",
+      "B": "release of CO2",
+      "C": "blocking nutrient cycle",
+      "D": "no mineral release"
+    },
+    "correct_answer": "B",
+    "explanation": "Microbial catabolism releases CO2."
+  },
+  {
+    "source_sentence": "Energy flow is measured in calories or joules.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The unit for productivity is",
+    "options": {
+      "A": "J m-2 yr-1",
+      "B": "kg",
+      "C": "mol",
+      "D": "L"
+    },
+    "correct_answer": "A",
+    "explanation": "Productivity is energy per area per time."
+  },
+  {
+    "source_sentence": "Ecosystem includes abiotic components like climate.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which is an abiotic component of ecosystem?",
+    "options": {
+      "A": "plants",
+      "B": "bacteria",
+      "C": "temperature",
+      "D": "fungi"
+    },
+    "correct_answer": "C",
+    "explanation": "Temperature is abiotic."
+  },
+  {
+    "source_sentence": "Energy captured in photosynthesis is small fraction.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Plants capture only about",
+    "options": {
+      "A": "50% of PAR",
+      "B": "2-10% of PAR",
+      "C": "90% of PAR",
+      "D": "100% of PAR"
+    },
+    "correct_answer": "B",
+    "explanation": "Only a small fraction of PAR is captured."
+  },
+  {
+    "source_sentence": "Decomposers are mostly microbes.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The dominant decomposers in most ecosystems are",
+    "options": {
+      "A": "plants",
+      "B": "bacteria and fungi",
+      "C": "insects only",
+      "D": "birds"
+    },
+    "correct_answer": "B",
+    "explanation": "Bacteria and fungi dominate decomposition."
+  },
+  {
+    "source_sentence": "Ecosystem functions include productivity and decomposition.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which is NOT an ecosystem function listed in NCERT?",
+    "options": {
+      "A": "productivity",
+      "B": "decomposition",
+      "C": "nutrient cycling",
+      "D": "chromosome duplication"
+    },
+    "correct_answer": "D",
+    "explanation": "Chromosome duplication is not an ecosystem function."
+  },
+  {
+    "source_sentence": "Energy pyramid is always upright.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The reason energy pyramid is always upright is that",
+    "options": {
+      "A": "energy is created at each level",
+      "B": "energy is lost at each transfer",
+      "C": "producers are always few",
+      "D": "consumers are always many"
+    },
+    "correct_answer": "B",
+    "explanation": "Energy is lost as heat at each transfer."
+  },
+  {
+    "source_sentence": "Standing crop varies seasonally.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "A higher standing crop in summer indicates",
+    "options": {
+      "A": "higher photosynthesis and growth",
+      "B": "no productivity",
+      "C": "low nutrient cycling",
+      "D": "no decomposition"
+    },
+    "correct_answer": "A",
+    "explanation": "Higher photosynthesis increases biomass."
+  },
+  {
+    "source_sentence": "Organisms at each trophic level depend on those at the lower trophic level for their energy demands.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Organisms at each trophic level depend on those at the lower trophic level for t...\"?",
+    "options": {
+      "A": "Decomposition is fastest in cold anaerobic soils rich in lignin.",
+      "B": "Organisms at each trophic level depend on those at the lower trophic level for their energy demands.",
+      "C": "Detritus food chain starts with living producers.",
+      "D": "Secondary productivity refers to rate of photosynthesis by producers."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The base of a pyramid is broad and it narrows towards the apex.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"The base of a pyramid is broad and it narrows towards the apex....\"?",
+    "options": {
+      "A": "PAR constitutes more than 90% of total solar radiation.",
+      "B": "Energy flow in ecosystems is bidirectional from decomposers to sun.",
+      "C": "The base of a pyramid is broad and it narrows towards the apex.",
+      "D": "GPP equals NPP because respiration is not subtracted."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Each ecosystem has characteristic physical structure resulting from interaction amongst abiotic and biotic components.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Each ecosystem has characteristic physical structure resulting from interaction ...\"?",
+    "options": {
+      "A": "Pyramid of energy can be inverted in aquatic ecosystems.",
+      "B": "Each ecosystem has characteristic physical structure resulting from interaction amongst abiotic and biotic components.",
+      "C": "Decomposition is fastest in cold anaerobic soils rich in lignin.",
+      "D": "Ten percent law states 90% energy transfers to next trophic level."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "One must remember that the trophic level represents a functional level, not a species as such.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"One must remember that the trophic level represents a functional level, not a sp...\"?",
+    "options": {
+      "A": "Secondary productivity refers to rate of photosynthesis by producers.",
+      "B": "Detritus food chain starts with living producers.",
+      "C": "PAR constitutes more than 90% of total solar radiation.",
+      "D": "One must remember that the trophic level represents a functional level, not a species as such."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Define decomposition and describe the processes and products of decomposition.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Define decomposition and describe the processes and products of decomposition....\"?",
+    "options": {
+      "A": "Define decomposition and describe the processes and products of decomposition.",
+      "B": "Energy flow in ecosystems is bidirectional from decomposers to sun.",
+      "C": "Ten percent law states 90% energy transfers to next trophic level.",
+      "D": "GPP equals NPP because respiration is not subtracted."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "It is divided into two types: gross primary productivity (GPP) and net primary productivity (NPP).",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"It is divided into two types: gross primary productivity (GPP) and net primary p...\"?",
+    "options": {
+      "A": "Decomposition is fastest in cold anaerobic soils rich in lignin.",
+      "B": "Pyramid of energy can be inverted in aquatic ecosystems.",
+      "C": "It is divided into two types: gross primary productivity (GPP) and net primary productivity (NPP).",
+      "D": "Secondary productivity refers to rate of photosynthesis by producers."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Let us look at these components in a more integrated manner and see how the flow of energy takes place within these components of the ecosystem.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Let us look at these components in a more integrated manner and see how the flow...\"?",
+    "options": {
+      "A": "Let us look at these components in a more integrated manner and see how the flow of energy takes place within these comp...",
+      "B": "Detritus food chain starts with living producers.",
+      "C": "Energy flow in ecosystems is bidirectional from decomposers to sun.",
+      "D": "PAR constitutes more than 90% of total solar radiation."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Discuss the main reason for the low productivity of ocean with your teacher.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Discuss the main reason for the low productivity of ocean with your teacher....\"?",
+    "options": {
+      "A": "Discuss the main reason for the low productivity of ocean with your teacher.",
+      "B": "GPP equals NPP because respiration is not subtracted.",
+      "C": "Pyramid of energy can be inverted in aquatic ecosystems.",
+      "D": "Ten percent law states 90% energy transfers to next trophic level."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Which one of the following has the largest population in a food chain?",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Which one of the following has the largest population in a food chain?...\"?",
+    "options": {
+      "A": "Decomposition is fastest in cold anaerobic soils rich in lignin.",
+      "B": "Secondary productivity refers to rate of photosynthesis by producers.",
+      "C": "Which one of the following has the largest population in a food chain?",
+      "D": "Detritus food chain starts with living producers."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The biomass of a species is expressed in terms of fresh or dry weight.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"The biomass of a species is expressed in terms of fresh or dry weight....\"?",
+    "options": {
+      "A": "The biomass of a species is expressed in terms of fresh or dry weight.",
+      "B": "PAR constitutes more than 90% of total solar radiation.",
+      "C": "Energy flow in ecosystems is bidirectional from decomposers to sun.",
+      "D": "GPP equals NPP because respiration is not subtracted."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "You have read about the food chains and webs that exist in nature.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"You have read about the food chains and webs that exist in nature....\"?",
+    "options": {
+      "A": "Ten percent law states 90% energy transfers to next trophic level.",
+      "B": "Decomposition is fastest in cold anaerobic soils rich in lignin.",
+      "C": "You have read about the food chains and webs that exist in nature.",
+      "D": "Pyramid of energy can be inverted in aquatic ecosystems."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Now add an estimate of the number of small birds depending on the insects, as also the number of larger birds eating the smaller.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Now add an estimate of the number of small birds depending on the insects, as al...\"?",
+    "options": {
+      "A": "Energy flow in ecosystems is bidirectional from decomposers to sun.",
+      "B": "Now add an estimate of the number of small birds depending on the insects, as also the number of larger birds eating the...",
+      "C": "Ten percent law states 90% energy transfers to next trophic level.",
+      "D": "GPP equals NPP because respiration is not subtracted."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Those animals that depend on the primary carnivores for food are labelled secondary carnivores.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Those animals that depend on the primary carnivores for food are labelled second...\"?",
+    "options": {
+      "A": "Those animals that depend on the primary carnivores for food are labelled secondary carnivores.",
+      "B": "Decomposition is fastest in cold anaerobic soils rich in lignin.",
+      "C": "Secondary productivity refers to rate of photosynthesis by producers.",
+      "D": "Pyramid of energy can be inverted in aquatic ecosystems."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Abiotic components are inorganic materials- air, water and soil, whereas biotic components are producers, consumers and decomposers.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"Abiotic components are inorganic materials- air, water and soil, whereas biotic ...\"?",
+    "options": {
+      "A": "Energy flow in ecosystems is bidirectional from decomposers to sun.",
+      "B": "Detritus food chain starts with living producers.",
+      "C": "Abiotic components are inorganic materials- air, water and soil, whereas biotic components are producers, consumers and ...",
+      "D": "PAR constitutes more than 90% of total solar radiation."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The solar input, the cycle of temperature, day-length and other climatic conditions regulate the rate of function of the entire pond.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Which conclusion is supported by NCERT: \"The solar input, the cycle of temperature, day-length and other climatic conditi...\"?",
+    "options": {
+      "A": "Ten percent law states 90% energy transfers to next trophic level.",
+      "B": "GPP equals NPP because respiration is not subtracted.",
+      "C": "The solar input, the cycle of temperature, day-length and other climatic conditions regulate the rate of function of the...",
+      "D": "Pyramid of energy can be inverted in aquatic ecosystems."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "GPP minus respiration equals NPP.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Net primary productivity (NPP) of an ecosystem equals:",
+    "options": {
+      "A": "GPP minus respiration losses",
+      "B": "GPP plus respiration",
+      "C": "secondary productivity only",
+      "D": "standing crop biomass"
+    },
+    "correct_answer": "A",
+    "explanation": "NPP = GPP − R; it is biomass available to heterotrophs."
+  },
+  {
+    "source_sentence": "Less than 50% of solar radiation is PAR.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Photosynthetically active radiation (PAR) constitutes:",
+    "options": {
+      "A": "less than 50% of incident solar radiation",
+      "B": "more than 90% of solar radiation",
+      "C": "only infrared wavelengths",
+      "D": "energy reflected from clouds"
+    },
+    "correct_answer": "A",
+    "explanation": "Only a fraction of solar energy is usable for photosynthesis."
+  },
+  {
+    "source_sentence": "Plants capture only 2-10% of PAR.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Producers typically capture what fraction of PAR for photosynthesis?",
+    "options": {
+      "A": "2-10%",
+      "B": "50-60%",
+      "C": "80-90%",
+      "D": "100%"
+    },
+    "correct_answer": "A",
+    "explanation": "Most solar energy is not converted to biomass by producers."
+  },
+  {
+    "source_sentence": "Ten per cent law limits trophic levels in GFC.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "According to the ten per cent law, at each trophic level about _____ of energy is transferred to the next level.",
+    "options": {
+      "A": "10%",
+      "B": "50%",
+      "C": "90%",
+      "D": "1%"
+    },
+    "correct_answer": "A",
+    "explanation": "Only ~10% of energy passes to the next trophic level."
+  },
+  {
+    "source_sentence": "Detritus food chain begins with dead organic matter.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The detritus food chain (DFC) starts with:",
+    "options": {
+      "A": "dead organic matter",
+      "B": "living producers only",
+      "C": "top carnivores",
+      "D": "atmospheric nitrogen"
+    },
+    "correct_answer": "A",
+    "explanation": "DFC is based on decomposers acting on detritus."
+  },
+  {
+    "source_sentence": "Humification produces resistant humus during decomposition.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "The dark-coloured, microbially resistant substance formed during decomposition is:",
+    "options": {
+      "A": "humus",
+      "B": "detritus",
+      "C": "lignin only",
+      "D": "PAR"
+    },
+    "correct_answer": "A",
+    "explanation": "Humification yields humus that slowly releases nutrients."
+  },
+  {
+    "source_sentence": "Pyramid of energy is always upright.",
+    "chapter": "Chapter 12: Ecosystem",
+    "question": "Among ecological pyramids, the one that can never be inverted is the pyramid of:",
+    "options": {
+      "A": "energy",
+      "B": "numbers in a tree ecosystem",
+      "C": "biomass in a pond",
+      "D": "numbers in a grassland"
+    },
+    "correct_answer": "A",
+    "explanation": "Energy decreases at each trophic level; energy pyramids are always upright."
+  }
+]

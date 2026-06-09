@@ -1,0 +1,1302 @@
+[
+  {
+    "source_sentence": "cell is the fundamental structural and functional unit of all living organisms",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Minimum structure ensuring independent living in unicellular organisms is:",
+    "options": {
+      "A": "Complete cell",
+      "B": "Nucleus alone",
+      "C": "Cell membrane fragment",
+      "D": "Single organelle"
+    },
+    "correct_answer": "A",
+    "explanation": "Complete cell needed for independent existence."
+  },
+  {
+    "source_sentence": "Antonie Von Leeuwenhoek first saw and described a live cell. Robert Brown later discovered the nucleus",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Nucleus was discovered by:",
+    "options": {
+      "A": "Robert Brown",
+      "B": "Leeuwenhoek",
+      "C": "Schleiden",
+      "D": "Virchow"
+    },
+    "correct_answer": "A",
+    "explanation": "Brown discovered nucleus."
+  },
+  {
+    "source_sentence": "all cells arise from pre-existing cells",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Virchow's contribution to cell theory:",
+    "options": {
+      "A": "Omnis cellula-e cellula",
+      "B": "First observed live cell",
+      "C": "Discovered cell wall unique to plants only without cells",
+      "D": "Proposed fluid mosaic model"
+    },
+    "correct_answer": "A",
+    "explanation": "Virchow: cells from pre-existing cells."
+  },
+  {
+    "source_sentence": "Schwann proposed the hypothesis that the bodies of animals and plants are composed of cells and products of cells",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Schwann studied animal cells and noted:",
+    "options": {
+      "A": "Thin outer plasma membrane; cell wall unique to plants",
+      "B": "No membrane in animal cells",
+      "C": "Animal cells always have cell wall",
+      "D": "Only prokaryotes have cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Schwann: plasma membrane; cell wall plant-specific."
+  },
+  {
+    "source_sentence": "Mycoplasmas, the smallest cells, are only 0.3 μm in length",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Smallest cells mentioned are:",
+    "options": {
+      "A": "Mycoplasmas (~0.3 μm)",
+      "B": "Ostrich egg",
+      "C": "Nerve cells",
+      "D": "Onion epidermal only"
+    },
+    "correct_answer": "A",
+    "explanation": "Mycoplasma among smallest cells."
+  },
+  {
+    "source_sentence": "prokaryotic cells are represented by bacteria, blue-green algae, mycoplasma and PPLO",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Prokaryotic examples include:",
+    "options": {
+      "A": "Bacteria and cyanobacteria",
+      "B": "Fungi only",
+      "C": "All protists",
+      "D": "Human cheek cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Bacteria, cyanobacteria, mycoplasma are prokaryotes."
+  },
+  {
+    "source_sentence": "small circular DNA outside the genomic DNA. These small DNA are called plasmids",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Plasmids in bacteria are:",
+    "options": {
+      "A": "Small circular DNA conferring traits like antibiotic resistance",
+      "B": "Ribosomal subunits",
+      "C": "Cell wall layer",
+      "D": "Nuclear envelope folds"
+    },
+    "correct_answer": "A",
+    "explanation": "Plasmids: extrachromosomal circular DNA."
+  },
+  {
+    "source_sentence": "mesosome is the characteristic of prokaryotes. They are essentially infoldings of cell membrane",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Mesosomes in prokaryotes are:",
+    "options": {
+      "A": "Infoldings of plasma membrane",
+      "B": "Golgi cisternae",
+      "C": "Nuclear pores",
+      "D": "Thylakoid stacks"
+    },
+    "correct_answer": "A",
+    "explanation": "Mesosome = membrane infolding."
+  },
+  {
+    "source_sentence": "Gram positive and the others that do not are called Gram negative bacteria",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Gram staining divides bacteria based on:",
+    "options": {
+      "A": "Cell envelope differences",
+      "B": "Presence of mitochondria",
+      "C": "Nucleus size",
+      "D": "Chloroplast number"
+    },
+    "correct_answer": "A",
+    "explanation": "Gram +/- based on cell wall/envelope."
+  },
+  {
+    "source_sentence": "70S prokaryotic ribosomes. Ribosomes are 50S and 30S units",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Prokaryotic ribosome sedimentation coefficient:",
+    "options": {
+      "A": "70S (50S + 30S)",
+      "B": "80S (60S + 40S)",
+      "C": "100S",
+      "D": "55S only"
+    },
+    "correct_answer": "A",
+    "explanation": "Prokaryotes: 70S ribosomes."
+  },
+  {
+    "source_sentence": "Pili and Fimbriae are also surface structures of the bacteria but do not play a role in motility",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Pili differ from flagella in that pili:",
+    "options": {
+      "A": "Do not function in motility; aid attachment",
+      "B": "Are longer motile structures always",
+      "C": "Are found only in eukaryotes",
+      "D": "Synthesize ATP"
+    },
+    "correct_answer": "A",
+    "explanation": "Pili/fimbriae for attachment, not motility."
+  },
+  {
+    "source_sentence": "Inclusion bodies: Reserve material in prokaryotic cells are stored in the cytoplasm",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Phosphate granules in bacteria are:",
+    "options": {
+      "A": "Inclusion bodies without membrane",
+      "B": "Membrane-bound lysosomes",
+      "C": "Nuclear chromatin",
+      "D": "Centrioles"
+    },
+    "correct_answer": "A",
+    "explanation": "Inclusion bodies store reserves."
+  },
+  {
+    "source_sentence": "Gas vacuoles are found in blue green and purple and green photosynthetic bacteria",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Gas vacuoles occur in:",
+    "options": {
+      "A": "Photosynthetic prokaryotes",
+      "B": "Human RBC",
+      "C": "Plant sieve tubes",
+      "D": "Frog erythrocytes"
+    },
+    "correct_answer": "A",
+    "explanation": "Gas vacuoles in photosynthetic bacteria."
+  },
+  {
+    "source_sentence": "Plant and animal cells are different as the former possess cell walls, plastids and a large central vacuole which are absent in animal cells. On the other hand, animal cells have centrioles",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Structure present in typical plant cell but not animal cell:",
+    "options": {
+      "A": "Large central vacuole and plastids",
+      "B": "Centrioles",
+      "C": "Plasma membrane",
+      "D": "Ribosomes"
+    },
+    "correct_answer": "A",
+    "explanation": "Plant: wall, plastids, large vacuole."
+  },
+  {
+    "source_sentence": "fluid mosaic model (Figure 8.4). According to this, the quasi-fluid nature of lipid enables lateral movement of proteins",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Fluid mosaic model proposes:",
+    "options": {
+      "A": "Lipid bilayer with laterally mobile proteins",
+      "B": "Rigid static protein sheet",
+      "C": "Single lipid monolayer only",
+      "D": "No lipids in membrane"
+    },
+    "correct_answer": "A",
+    "explanation": "Singer-Nicolson fluid mosaic model."
+  },
+  {
+    "source_sentence": "membrane of the erythrocyte has approximately 52 per cent protein and 40 per cent lipids",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Human RBC membrane composition approximates:",
+    "options": {
+      "A": "52% protein, 40% lipid",
+      "B": "100% carbohydrate",
+      "C": "Only cholesterol",
+      "D": "Only DNA"
+    },
+    "correct_answer": "A",
+    "explanation": "RBC membrane protein-rich."
+  },
+  {
+    "source_sentence": "Integral proteins are partially or totally buried in the membrane",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Integral membrane proteins:",
+    "options": {
+      "A": "Embedded in lipid bilayer",
+      "B": "Easily washed off surface only",
+      "C": "Absent in plasma membrane",
+      "D": "Only in cell wall"
+    },
+    "correct_answer": "A",
+    "explanation": "Integral proteins buried in membrane."
+  },
+  {
+    "source_sentence": "middle lamella is a layer mainly of calcium pectate which holds or glues the different neighbouring cells together",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Middle lamella primarily contains:",
+    "options": {
+      "A": "Calcium pectate cementing adjacent cells",
+      "B": "Suberin",
+      "C": "Haemoglobin",
+      "D": "Peptidoglycan only in plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Middle lamella = calcium pectate."
+  },
+  {
+    "source_sentence": "plasmodesmata which connect the cytoplasm of neighbouring cells",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Plasmodesmata function to:",
+    "options": {
+      "A": "Connect cytoplasm of adjacent plant cells",
+      "B": "Store starch in amyloplasts only",
+      "C": "Produce ribosomes",
+      "D": "Form nuclear envelope"
+    },
+    "correct_answer": "A",
+    "explanation": "Plasmodesmata cytoplasmic connections."
+  },
+  {
+    "source_sentence": "smooth endoplasmic reticulum is the major site for synthesis of lipid",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Steroidal hormones in animal cells synthesised in:",
+    "options": {
+      "A": "Smooth ER",
+      "B": "Ribosomes on RER only for steroids",
+      "C": "Cell wall",
+      "D": "Centriole"
+    },
+    "correct_answer": "A",
+    "explanation": "SER site of lipid/steroid synthesis."
+  },
+  {
+    "source_sentence": "golgi apparatus principally performs the function of packaging materials",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Golgi apparatus receives vesicles from ER at:",
+    "options": {
+      "A": "Cis (forming) face",
+      "B": "Trans face only for incoming",
+      "C": "Nuclear pore",
+      "D": "Thylakoid lumen"
+    },
+    "correct_answer": "A",
+    "explanation": "ER vesicles fuse at cis face."
+  },
+  {
+    "source_sentence": "Lysosomes are membrane bound vesicular structures formed by the process of packaging in the golgi apparatus",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Lysosomal enzymes are active at:",
+    "options": {
+      "A": "Acidic pH",
+      "B": "Highly alkaline pH only",
+      "C": "Neutral pH optimal always in all compartments",
+      "D": "Only in nucleus"
+    },
+    "correct_answer": "A",
+    "explanation": "Lysosomal hydrolases acid-optimal."
+  },
+  {
+    "source_sentence": "tonoplast facilitates the transport of a number of ions and other materials against concentration gradients into the vacuole",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Tonoplast is the membrane of:",
+    "options": {
+      "A": "Vacuole",
+      "B": "Mitochondrion outer membrane",
+      "C": "Nuclear envelope only",
+      "D": "Ribosome"
+    },
+    "correct_answer": "A",
+    "explanation": "Tonoplast surrounds vacuole."
+  },
+  {
+    "source_sentence": "mitochondria, chloroplast and peroxisomes are not considered as part of the endomembrane system",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "NOT part of endomembrane system:",
+    "options": {
+      "A": "Mitochondria",
+      "B": "Golgi complex",
+      "C": "ER",
+      "D": "Lysosomes"
+    },
+    "correct_answer": "A",
+    "explanation": "Mitochondria/chloroplast/peroxisomes excluded."
+  },
+  {
+    "source_sentence": "matrix also possesses single circular DNA molecule, a few RNA molecules, ribosomes (70S)",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Mitochondrial matrix contains:",
+    "options": {
+      "A": "Circular DNA, RNA, 70S ribosomes",
+      "B": "80S ribosomes only",
+      "C": "Thylakoids",
+      "D": "Peptidoglycan"
+    },
+    "correct_answer": "A",
+    "explanation": "Mitochondria have own genetic machinery."
+  },
+  {
+    "source_sentence": "cristae increase the surface area",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Cristae in mitochondria:",
+    "options": {
+      "A": "Increase inner membrane surface area for respiration",
+      "B": "Store chlorophyll",
+      "C": "Form nuclear pores",
+      "D": "Are outer membrane only"
+    },
+    "correct_answer": "A",
+    "explanation": "Cristae increase respiratory surface."
+  },
+  {
+    "source_sentence": "chloroplasts contain chlorophyll and carotenoid pigments which are responsible for trapping light energy",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Light trapping pigments in chloroplast are in:",
+    "options": {
+      "A": "Thylakoids",
+      "B": "Stroma only without pigments",
+      "C": "Cell wall",
+      "D": "Golgi cisternae"
+    },
+    "correct_answer": "A",
+    "explanation": "Chlorophyll in thylakoid membranes."
+  },
+  {
+    "source_sentence": "grana or the intergranal thylakoids. stroma lamellae connecting the thylakoids",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Light reactions occur in chloroplast:",
+    "options": {
+      "A": "Thylakoid membranes (grana)",
+      "B": "Stroma only",
+      "C": "Outer mitochondrial membrane",
+      "D": "Nucleolus"
+    },
+    "correct_answer": "A",
+    "explanation": "Light reactions in thylakoids; dark in stroma."
+  },
+  {
+    "source_sentence": "Amyloplasts store carbohydrates (starch), e.g., potato; elaioplasts store oils and fats",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Starch-storing leucoplast in potato is:",
+    "options": {
+      "A": "Amyloplast",
+      "B": "Chromoplast",
+      "C": "Elaioplast",
+      "D": "Chloroplast always green"
+    },
+    "correct_answer": "A",
+    "explanation": "Amyloplast stores starch."
+  },
+  {
+    "source_sentence": "chromoplasts, fat soluble carotenoid pigments like carotene, xanthophylls",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Yellow-orange colour in fruits/flowers may be due to:",
+    "options": {
+      "A": "Chromoplasts with carotenoids",
+      "B": "Leucoplasts only",
+      "C": "Ribosomes",
+      "D": "Centrioles"
+    },
+    "correct_answer": "A",
+    "explanation": "Chromoplast carotenoids impart colour."
+  },
+  {
+    "source_sentence": "eukaryotic ribosomes are 80S while the prokaryotic ribosomes are 70S",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Eukaryotic cytoplasmic ribosomes are:",
+    "options": {
+      "A": "80S (60S + 40S)",
+      "B": "70S",
+      "C": "50S only",
+      "D": "100S"
+    },
+    "correct_answer": "A",
+    "explanation": "Eukaryotes: 80S ribosomes."
+  },
+  {
+    "source_sentence": "cytoskeleton consisting of microtubules, microfilaments and intermediate filaments",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Cytoskeleton functions include:",
+    "options": {
+      "A": "Mechanical support and maintenance of cell shape",
+      "B": "Photosynthetic light capture",
+      "C": "DNA replication in nucleus only without structural role",
+      "D": "Peptidoglycan synthesis"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytoskeleton supports and shapes cell."
+  },
+  {
+    "source_sentence": "axoneme usually has nine doublets of radially arranged peripheral microtubules, and a pair of centrally located microtubules. 9+2 array",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Eukaryotic cilium axoneme structure:",
+    "options": {
+      "A": "9+2 microtubule arrangement",
+      "B": "9+0 only without central pair always",
+      "C": "3+1 bacterial flagellum",
+      "D": "Actin only"
+    },
+    "correct_answer": "A",
+    "explanation": "9+2 arrangement in eukaryotic cilia/flagella."
+  },
+  {
+    "source_sentence": "prokaryotic bacteria also possess flagella but these are structurally different from that of the eukaryotic flagella",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Bacterial flagellum differs from eukaryotic in:",
+    "options": {
+      "A": "Structure (filament, hook, basal body; not 9+2)",
+      "B": "Being absent in motile bacteria",
+      "C": "Having microtubule 9+2 identical to cilium",
+      "D": "Originating from nucleus"
+    },
+    "correct_answer": "A",
+    "explanation": "Prokaryotic flagella structurally distinct."
+  },
+  {
+    "source_sentence": "centrioles form the basal body of cilia or flagella, and spindle fibres during cell division in animal cells",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Centrioles function in:",
+    "options": {
+      "A": "Basal bodies and spindle organisation in animal cells",
+      "B": "Photosynthesis",
+      "C": "Cell wall deposition in plants",
+      "D": "Protein glycosylation in Golgi only"
+    },
+    "correct_answer": "A",
+    "explanation": "Centrioles: basal bodies and spindle."
+  },
+  {
+    "source_sentence": "nuclear pores are the passages through which movement of RNA and protein molecules takes place",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Nuclear pores allow transport of:",
+    "options": {
+      "A": "RNA and proteins between nucleus and cytoplasm",
+      "B": "Only water unidirectionally to nucleus",
+      "C": "Only DNA replication enzymes outward only always blocked inward",
+      "D": "Chlorophyll"
+    },
+    "correct_answer": "A",
+    "explanation": "Nuclear pores exchange RNA/proteins."
+  },
+  {
+    "source_sentence": "nucleoli are site for active ribosomal RNA synthesis",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Nucleolus is site of:",
+    "options": {
+      "A": "rRNA synthesis",
+      "B": "Photosynthesis",
+      "C": "Lipid catabolism only",
+      "D": "Cell wall formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Nucleolus makes rRNA."
+  },
+  {
+    "source_sentence": "Some mature cells even lack nucleus, e.g., erythrocytes of many mammals and sieve tube cells of vascular plants",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Enucleate mature plant cell example:",
+    "options": {
+      "A": "Sieve tube element",
+      "B": "Palisade mesophyll",
+      "C": "Root meristem",
+      "D": "Guard cell"
+    },
+    "correct_answer": "A",
+    "explanation": "Sieve tubes lack nucleus at maturity."
+  },
+  {
+    "source_sentence": "metacentric chromosome has middle centromere forming two equal arms",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Chromosome with equal arms and central centromere:",
+    "options": {
+      "A": "Metacentric",
+      "B": "Acrocentric",
+      "C": "Telocentric",
+      "D": "Sub-metacentric with very unequal arms extreme"
+    },
+    "correct_answer": "A",
+    "explanation": "Metacentric: middle centromere."
+  },
+  {
+    "source_sentence": "acrocentric chromosome the centromere is situated close to its end forming one extremely short and one very long arm",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "One very short and one very long arm indicates:",
+    "options": {
+      "A": "Acrocentric chromosome",
+      "B": "Metacentric",
+      "C": "Telocentric with terminal centromere only",
+      "D": "Circular plasmid"
+    },
+    "correct_answer": "A",
+    "explanation": "Acrocentric: centromere near end."
+  },
+  {
+    "source_sentence": "secondary constrictions at a constant location. This gives the appearance of a small fragment called the satellite",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Satellite on chromosome is associated with:",
+    "options": {
+      "A": "Secondary constriction",
+      "B": "Centromere only primary",
+      "C": "Plasmodesmata",
+      "D": "Ribosome subunit"
+    },
+    "correct_answer": "A",
+    "explanation": "Secondary constriction bears satellite."
+  },
+  {
+    "source_sentence": "Robert Brown discovered the nucleus",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Which statement is INCORRECT?",
+    "options": {
+      "A": "Virchow stated cells arise from pre-existing cells",
+      "B": "Robert Brown discovered the cell",
+      "C": "Schleiden studied plant cells",
+      "D": "Unicellular organisms can live independently"
+    },
+    "correct_answer": "B",
+    "explanation": "Brown discovered nucleus; Leeuwenhoek saw live cells."
+  },
+  {
+    "source_sentence": "prokaryotic cells lack such membrane-bound organelles",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Which is INCORRECT about prokaryotes?",
+    "options": {
+      "A": "DNA naked without nuclear membrane",
+      "B": "Have 80S ribosomes like eukaryotes",
+      "C": "May have plasmids",
+      "D": "Cell wall present except mycoplasma"
+    },
+    "correct_answer": "B",
+    "explanation": "Prokaryotes have 70S ribosomes."
+  },
+  {
+    "source_sentence": "mitochondria divide by fission",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Which organelle function pairing is INCORRECT?",
+    "options": {
+      "A": "Lysosome — intracellular digestion",
+      "B": "Golgi — packaging and glycoprotein formation",
+      "C": "RER — lipid synthesis major site",
+      "D": "Mitochondria — ATP synthesis"
+    },
+    "correct_answer": "C",
+    "explanation": "SER not RER is major lipid synthesis site."
+  },
+  {
+    "source_sentence": "peroxisomes are not considered as part of the endomembrane system",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Which is INCORRECT?",
+    "options": {
+      "A": "Lysosomes bud from Golgi",
+      "B": "Vacuole membrane is tonoplast",
+      "C": "Mitochondria are part of endomembrane system coordinating with ER",
+      "D": "RER continuous with outer nuclear membrane"
+    },
+    "correct_answer": "C",
+    "explanation": "Mitochondria not in endomembrane system."
+  },
+  {
+    "source_sentence": "polar molecules cannot pass through the nonpolar lipid bilayer, they require a carrier protein",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Assertion (A): Facilitated diffusion uses carrier proteins for polar molecules. Reason (R): All ions cross membrane without energy via simple diffusion always. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "A true; many ions need active transport or channels."
+  },
+  {
+    "source_sentence": "fluid nature of the membrane is also important from the point of view of functions like cell growth, endocytosis, cell division",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Assertion (A): Membrane fluidity allows fusion and budding events. Reason (R): Membrane is rigid and never changes composition. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "A true; R false — membrane is fluid mosaic."
+  },
+  {
+    "source_sentence": "number of mitochondria per cell is variable depending on the physiological activity",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Assertion (A): Active cells may have more mitochondria. Reason (R): All cells in an organism have identical fixed mitochondrial count. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "A true; count varies with activity."
+  },
+  {
+    "source_sentence": "vacuoles can occupy up to 90 per cent of the volume of the cell in plant cells",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Assertion (A): Mature plant cell may have huge central vacuole. Reason (R): Tonoplast helps maintain turgor by solute transport into vacuole. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but R is not direct explanation of large vacuole volume statement."
+  },
+  {
+    "source_sentence": "outer membrane of nucleus usually remains continuous with the endoplasmic reticulum and also bears ribosomes on it",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Assertion (A): RER is often continuous with nuclear envelope. Reason (R): Nuclear outer membrane may have ribosomes like RER. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Continuity and ribosomes link nucleus to RER."
+  },
+  {
+    "source_sentence": "chromatophores which contain pigments in cyanobacteria",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Assertion (A): Cyanobacteria have membranous chromatophores with pigments. Reason (R): Chromatophores are identical to Golgi cisternae in function. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "A true; chromatophores photosynthetic not Golgi."
+  },
+  {
+    "source_sentence": "four basic shapes of bacteria are bacillus, coccus, vibrio and spirillum",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Comma-shaped bacterium:",
+    "options": {
+      "A": "Vibrio",
+      "B": "Coccus",
+      "C": "Spirillum",
+      "D": "Bacillus"
+    },
+    "correct_answer": "A",
+    "explanation": "Vibrio = comma shaped."
+  },
+  {
+    "source_sentence": "glycocalyx could be a loose sheath called slime layer or thick capsule",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Thick tough glycocalyx is called:",
+    "options": {
+      "A": "Capsule",
+      "B": "Slime layer only always thin",
+      "C": "Mesosome",
+      "D": "Nucleolus"
+    },
+    "correct_answer": "A",
+    "explanation": "Capsule vs slime layer."
+  },
+  {
+    "source_sentence": "bacterial flagellum is composed of three parts – filament, hook and basal body",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Longest portion of bacterial flagellum:",
+    "options": {
+      "A": "Filament",
+      "B": "Hook only",
+      "C": "Basal body only",
+      "D": "Capsule"
+    },
+    "correct_answer": "A",
+    "explanation": "Filament extends outward."
+  },
+  {
+    "source_sentence": "polyribosomes or polysome. The ribosomes of a polysome translate the mRNA into proteins",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Polysome indicates:",
+    "options": {
+      "A": "Multiple ribosomes on one mRNA",
+      "B": "Single ribosome per cell",
+      "C": "DNA replication fork",
+      "D": "Lysosomal fusion"
+    },
+    "correct_answer": "A",
+    "explanation": "Polysome = many ribosomes on mRNA."
+  },
+  {
+    "source_sentence": "peripheral proteins lie on the surface of membrane while the integral proteins are partially or totally buried",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Peripheral membrane proteins:",
+    "options": {
+      "A": "On membrane surface, easily removable",
+      "B": "Always transmembrane with multiple spans only",
+      "C": "Only in cell wall",
+      "D": "Only in nucleus"
+    },
+    "correct_answer": "A",
+    "explanation": "Peripheral proteins surface-associated."
+  },
+  {
+    "source_sentence": "phospholipids arranged in a bilayer with polar head towards outer sides",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Membrane phospholipid orientation:",
+    "options": {
+      "A": "Hydrophilic heads outward; hydrophobic tails inward",
+      "B": "Tails outward facing water",
+      "C": "Random orientation",
+      "D": "No bilayer"
+    },
+    "correct_answer": "A",
+    "explanation": "Amphipathic lipid arrangement."
+  },
+  {
+    "source_sentence": "membrane also contains cholesterol",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Cholesterol in animal membrane:",
+    "options": {
+      "A": "Present among lipids modulating fluidity",
+      "B": "Absent in all membranes",
+      "C": "Replaces all proteins",
+      "D": "Only in plant cell wall"
+    },
+    "correct_answer": "A",
+    "explanation": "Cholesterol in membrane lipids."
+  },
+  {
+    "source_sentence": "primary wall is capable of growth, which gradually diminishes as the cell matures and the secondary wall is formed",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Secondary cell wall deposits:",
+    "options": {
+      "A": "Inner to primary wall towards plasma membrane",
+      "B": "Outside cuticle of animal cell",
+      "C": "In nucleolus",
+      "D": "Only in prokaryotes"
+    },
+    "correct_answer": "A",
+    "explanation": "Secondary wall inner to primary."
+  },
+  {
+    "source_sentence": "ER divides the intracellular space into two distinct compartments, luminal and extra luminal",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "RER lumen is:",
+    "options": {
+      "A": "Inside ER membrane",
+      "B": "Identical to stroma of chloroplast",
+      "C": "Outside cell",
+      "D": "Nuclear matrix only"
+    },
+    "correct_answer": "A",
+    "explanation": "Luminal compartment inside ER."
+  },
+  {
+    "source_sentence": "trans or the maturing face of golgi",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Secretory vesicles bud from Golgi at:",
+    "options": {
+      "A": "Trans face",
+      "B": "Cis face receiving face",
+      "C": "Nuclear pore",
+      "D": "Thylakoid"
+    },
+    "correct_answer": "A",
+    "explanation": "Maturation and release at trans face."
+  },
+  {
+    "source_sentence": "contractile vacuole is important for osmoregulation and excretion in Amoeba",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Contractile vacuole in Amoeba:",
+    "options": {
+      "A": "Osmoregulation and water expulsion",
+      "B": "Photosynthesis",
+      "C": "DNA storage",
+      "D": "Meiosis"
+    },
+    "correct_answer": "A",
+    "explanation": "Contractile vacuole osmoregulation."
+  },
+  {
+    "source_sentence": "food vacuoles are formed by engulfing the food particles in protists",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Food vacuole formation involves:",
+    "options": {
+      "A": "Phagocytosis/engulfment",
+      "B": "Photosynthesis only",
+      "C": "Binary fission",
+      "D": "Spore formation only"
+    },
+    "correct_answer": "A",
+    "explanation": "Engulfment creates food vacuoles."
+  },
+  {
+    "source_sentence": "mitochondria divide by fission",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Mitochondrial replication:",
+    "options": {
+      "A": "Fission",
+      "B": "Budding from Golgi only",
+      "C": "Meiosis",
+      "D": "Never replicate"
+    },
+    "correct_answer": "A",
+    "explanation": "Mitochondria divide by fission."
+  },
+  {
+    "source_sentence": "double membrane-bound structure with outer membrane and inner membrane",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Mitochondria membranes:",
+    "options": {
+      "A": "Outer smooth; inner folded into cristae",
+      "B": "Single membrane only",
+      "C": "No membranes",
+      "D": "Identical to tonoplast"
+    },
+    "correct_answer": "A",
+    "explanation": "Double membrane organelle."
+  },
+  {
+    "source_sentence": "inner chloroplast membrane is relatively less permeable. space limited by inner membrane is stroma",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Chloroplast stroma is:",
+    "options": {
+      "A": "Inner compartment containing enzymes for dark reactions",
+      "B": "Thylakoid lumen only",
+      "C": "Outside chloroplast",
+      "D": "Nuclear sap"
+    },
+    "correct_answer": "A",
+    "explanation": "Stroma = inner chloroplast matrix."
+  },
+  {
+    "source_sentence": "euglenoides. plastids found in all plant cells and in euglenoides",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Plastids occur in:",
+    "options": {
+      "A": "Plant cells and euglenoids",
+      "B": "Animal cells normally",
+      "C": "Bacteria only",
+      "D": "Viruses"
+    },
+    "correct_answer": "A",
+    "explanation": "Plastids in plants and euglenoids."
+  },
+  {
+    "source_sentence": "leucoplasts are colourless plastids",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Colourless storage plastid:",
+    "options": {
+      "A": "Leucoplast",
+      "B": "Chromoplast always orange",
+      "C": "Chloroplast in dark only",
+      "D": "Mitochondrion"
+    },
+    "correct_answer": "A",
+    "explanation": "Leucoplasts colourless."
+  },
+  {
+    "source_sentence": "Svedberg's Unit stands for sedimentation coefficient",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "S value of ribosome indicates:",
+    "options": {
+      "A": "Sedimentation coefficient related to size/density",
+      "B": "Exact molecular weight in Daltons always",
+      "C": "pH optimum",
+      "D": "Membrane thickness"
+    },
+    "correct_answer": "A",
+    "explanation": "S = sedimentation coefficient."
+  },
+  {
+    "source_sentence": "ribosomes also within chloroplasts and mitochondria and on rough ER",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Ribosome locations include:",
+    "options": {
+      "A": "Cytoplasm, RER, mitochondria, chloroplasts",
+      "B": "Only nucleus",
+      "C": "Only Golgi lumen",
+      "D": "Only cell wall"
+    },
+    "correct_answer": "A",
+    "explanation": "Ribosomes multiple locations."
+  },
+  {
+    "source_sentence": "microbodies that contain various enzymes, are present in both plant and animal cells",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Microbodies include peroxisomes with:",
+    "options": {
+      "A": "Oxidative enzymes",
+      "B": "Only chlorophyll",
+      "C": "Peptidoglycan",
+      "D": "Histones only"
+    },
+    "correct_answer": "A",
+    "explanation": "Microbodies enzyme-rich vesicles."
+  },
+  {
+    "source_sentence": "Match cristae infoldings in mitochondria",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Cristae match:",
+    "options": {
+      "A": "(ii) Infoldings in mitochondria",
+      "B": "Golgi cisternae",
+      "C": "Thylakoids flat sacs in stroma",
+      "D": "Nuclear pore"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT exercise match."
+  },
+  {
+    "source_sentence": "Match cisternae disc-shaped sacs in Golgi",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Golgi cisternae are:",
+    "options": {
+      "A": "Disc-shaped stacked sacs",
+      "B": "Mitochondrial folds",
+      "C": "Ribosome subunits",
+      "D": "Cell wall layers"
+    },
+    "correct_answer": "A",
+    "explanation": "Golgi cisternae flattened sacs."
+  },
+  {
+    "source_sentence": "Match thylakoids in chloroplast",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Thylakoids:",
+    "options": {
+      "A": "Flattened membranous sacs in chloroplast stroma",
+      "B": "Golgi vesicles only",
+      "C": "Outer nuclear membrane",
+      "D": "Middle lamella"
+    },
+    "correct_answer": "A",
+    "explanation": "Thylakoids in stroma."
+  },
+  {
+    "source_sentence": "Which is not correct Robert Brown discovered the cell",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "NOT correct statement:",
+    "options": {
+      "A": "Brown discovered cell",
+      "B": "Schleiden and Schwann cell theory",
+      "C": "Virchow cells from cells",
+      "D": "Unicellular organism one cell life"
+    },
+    "correct_answer": "A",
+    "explanation": "Brown → nucleus not cell discovery error."
+  },
+  {
+    "source_sentence": "cells have a well defined cell wall in plants only among eukaryotes discussed",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Eukaryotic plant cell delimited externally by:",
+    "options": {
+      "A": "Cell wall outside plasma membrane",
+      "B": "Only plasma membrane without wall always",
+      "C": "Capsule only like bacteria",
+      "D": "Silica shell"
+    },
+    "correct_answer": "A",
+    "explanation": "Plant cell wall outside membrane."
+  },
+  {
+    "source_sentence": "cytoplasm is the main arena of cellular activities in both plant and animal cells",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Cytoplasm:",
+    "options": {
+      "A": "Site of many metabolic activities",
+      "B": "Absent in eukaryotes",
+      "C": "Only water without organelles",
+      "D": "Identical to cell wall"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytoplasm main activity arena."
+  },
+  {
+    "source_sentence": "shape of the cell may vary with the function they perform",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Columnar epithelial cells shape relates to:",
+    "options": {
+      "A": "Secretion/absorption function",
+      "B": "Random variation only",
+      "C": "No relation to function",
+      "D": "Only in plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Cell shape reflects function."
+  },
+  {
+    "source_sentence": "PPLO Pleuro Pneumonia Like Organisms prokaryotic",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "PPLO are:",
+    "options": {
+      "A": "Prokaryotic very small cells",
+      "B": "Eukaryotic algae",
+      "C": "Multicellular fungi",
+      "D": "Viruses only"
+    },
+    "correct_answer": "A",
+    "explanation": "PPLO prokaryotic."
+  },
+  {
+    "source_sentence": "genetic material is basically naked, not enveloped by a nuclear membrane",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Prokaryotic genetic material:",
+    "options": {
+      "A": "Naked DNA in nucleoid region",
+      "B": "Inside nuclear envelope",
+      "C": "Only RNA genome always",
+      "D": "Absent"
+    },
+    "correct_answer": "A",
+    "explanation": "No true nucleus in prokaryotes."
+  },
+  {
+    "source_sentence": "cell envelope consists of glycocalyx, cell wall and plasma membrane",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Bacterial cell envelope layers from outside:",
+    "options": {
+      "A": "Glycocalyx → cell wall → plasma membrane",
+      "B": "Plasma membrane → wall only reversed",
+      "C": "Nucleus → ER",
+      "D": "Tonoplast → vacuole"
+    },
+    "correct_answer": "A",
+    "explanation": "Three-layer envelope."
+  },
+  {
+    "source_sentence": "mesosome help in cell wall formation, DNA replication and distribution",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Mesosome functions include:",
+    "options": {
+      "A": "Respiration, secretion, increasing membrane area, DNA distribution",
+      "B": "Photosynthesis in all bacteria",
+      "C": "Protein packaging like Golgi identical",
+      "D": "Only locomotion"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple mesosome roles listed."
+  },
+  {
+    "source_sentence": "chromatophores contain pigments in cyanobacteria",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Photosynthetic membranes in cyanobacteria:",
+    "options": {
+      "A": "Chromatophores",
+      "B": "Mitochondrial cristae",
+      "C": "Golgi vesicles",
+      "D": "Nuclear lamina"
+    },
+    "correct_answer": "A",
+    "explanation": "Chromatophores in photosynthetic prokaryotes."
+  },
+  {
+    "source_sentence": "compartmentalisation of cytoplasm through membrane bound organelles in eukaryotes",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Compartmentalisation in eukaryotes allows:",
+    "options": {
+      "A": "Simultaneous incompatible reactions in separate compartments",
+      "B": "No biochemical organisation",
+      "C": "Only one reaction at a time in whole cell",
+      "D": "Elimination of membranes"
+    },
+    "correct_answer": "A",
+    "explanation": "Organelles separate reactions."
+  },
+  {
+    "source_sentence": "extensive compartmentalisation eukaryotic cells possess organised nucleus",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Eukaryotic genetic material organised into:",
+    "options": {
+      "A": "Chromosomes within nucleus",
+      "B": "Plasmids only",
+      "C": "Peptidoglycan network",
+      "D": "Spindle only without DNA"
+    },
+    "correct_answer": "A",
+    "explanation": "Chromosomes in nucleus."
+  },
+  {
+    "source_sentence": "algae cell wall made of cellulose, galactans, mannans and calcium carbonate",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Algal cell wall may contain:",
+    "options": {
+      "A": "Cellulose and minerals like CaCO₃",
+      "B": "Only chitin",
+      "C": "Only peptidoglycan",
+      "D": "Silk proteins"
+    },
+    "correct_answer": "A",
+    "explanation": "Algae walls varied composition."
+  },
+  {
+    "source_sentence": "young plant cell primary wall capable of growth",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Primary cell wall:",
+    "options": {
+      "A": "Can grow; later secondary wall may form inside",
+      "B": "Always lignified immediately",
+      "C": "Only in animals",
+      "D": "Replaced by cuticle in roots"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary wall grows in young cells."
+  },
+  {
+    "source_sentence": "lysosomes digest macromolecules carbohydrates proteins lipids nucleic acids",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Lysosomal enzymes digest:",
+    "options": {
+      "A": "All major macromolecules",
+      "B": "Only lipids",
+      "C": "Only DNA in nucleus",
+      "D": "Only cellulose in intact plant wall extracellularly always primary function"
+    },
+    "correct_answer": "A",
+    "explanation": "Lysosomal hydrolases broad specificity."
+  },
+  {
+    "source_sentence": "both lysosomes and vacuoles are endomembrane structures yet they differ in functions",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Lysosome vs vacuole:",
+    "options": {
+      "A": "Lysosome digests; plant vacuole stores and maintains turgor",
+      "B": "Identical function",
+      "C": "Both lack membranes",
+      "D": "Only in prokaryotes"
+    },
+    "correct_answer": "A",
+    "explanation": "Different roles despite endomembrane origin."
+  },
+  {
+    "source_sentence": "nuclear envelope interrupted by minute pores formed by fusion of two membranes",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Nuclear pore formed by:",
+    "options": {
+      "A": "Fusion of inner and outer nuclear membranes",
+      "B": "Golgi budding",
+      "C": "Cell wall deposition",
+      "D": "Centriole duplication"
+    },
+    "correct_answer": "A",
+    "explanation": "Pores at envelope fusion sites."
+  },
+  {
+    "source_sentence": "Prokaryotic cells lack membrane-bound nucleus and organelles.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Assertion (A): Bacteria are prokaryotes. Reason (R): Bacterial DNA lies in nucleoid region without nuclear envelope. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Bacteria lack true nucleus; DNA in nucleoid."
+  },
+  {
+    "source_sentence": "Fluid mosaic model: lipid bilayer with proteins.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Which component maintains membrane fluidity at low temperature in many organisms?",
+    "options": {
+      "A": "Cholesterol (in animal membranes)",
+      "B": "Cellulose",
+      "C": "Peptidoglycan",
+      "D": "Lignin"
+    },
+    "correct_answer": "A",
+    "explanation": "Cholesterol prevents tight packing at low temperature."
+  },
+  {
+    "source_sentence": "Mitochondria have outer and inner membranes; inner forms cristae.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "ATP synthase in mitochondria is located on:",
+    "options": {
+      "A": "Inner mitochondrial membrane / F1 particles",
+      "B": "Outer membrane only",
+      "C": "Nuclear envelope",
+      "D": "Ribosomal large subunit only"
+    },
+    "correct_answer": "A",
+    "explanation": "Oxysomes (F0-F1 ATPase) on inner membrane."
+  },
+  {
+    "source_sentence": "Plastids in plant cells: chloroplasts, chromoplasts, leucoplasts.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Chloroplasts contain pigment:",
+    "options": {
+      "A": "Chlorophyll for photosynthesis",
+      "B": "Haemoglobin",
+      "C": "Melanin",
+      "D": "Carotene only without chlorophyll ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Chloroplasts bear chlorophyll and carotenoids."
+  },
+  {
+    "source_sentence": "RER bears ribosomes; SER lacks ribosomes.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Smooth ER is primarily associated with:",
+    "options": {
+      "A": "Lipid synthesis and detoxification",
+      "B": "Protein secretion only",
+      "C": "Photosynthesis",
+      "D": "Cell division spindle only"
+    },
+    "correct_answer": "A",
+    "explanation": "SER synthesises lipids and detoxifies drugs/poisons."
+  },
+  {
+    "source_sentence": "Golgi apparatus modifies, packages and dispatches materials.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Golgi vesicles often fuse with:",
+    "options": {
+      "A": "Plasma membrane for secretion",
+      "B": "Nucleolus only",
+      "C": "Centriole pair exclusively",
+      "D": "Nuclear pore from inside nucleus"
+    },
+    "correct_answer": "A",
+    "explanation": "Secretory vesicles fuse with membrane for exocytosis."
+  },
+  {
+    "source_sentence": "Lysosomes contain hydrolytic enzymes active at acidic pH.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "A cell with defective lysosomal enzymes may accumulate:",
+    "options": {
+      "A": "Undigested substrates in inclusion bodies",
+      "B": "Extra chloroplasts only",
+      "C": "More cell wall",
+      "D": "Additional centrioles in plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Lysosomal storage diseases involve undigested macromolecules."
+  },
+  {
+    "source_sentence": "Nucleus contains chromatin, nucleolus, nuclear envelope with pores.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Nucleolus is the site of:",
+    "options": {
+      "A": "rRNA synthesis and ribosome assembly",
+      "B": "DNA replication exclusively without RNA",
+      "C": "Photosynthetic electron transport",
+      "D": "Glycolysis only"
+    },
+    "correct_answer": "A",
+    "explanation": "Nucleolus forms ribosomal subunits."
+  },
+  {
+    "source_sentence": "Cytoskeleton: microfilaments, microtubules, intermediate filaments.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "Microtubules are composed of:",
+    "options": {
+      "A": "Tubulin protein dimers",
+      "B": "Actin monomers only",
+      "C": "Keratin exclusively in all cells",
+      "D": "Cellulose microfibrils"
+    },
+    "correct_answer": "A",
+    "explanation": "Microtubules polymerise from α/β tubulin."
+  },
+  {
+    "source_sentence": "Prokaryotic ribosomes are 70S; eukaryotic cytoplasmic ribosomes 80S.",
+    "chapter": "Chapter 8: Cell: The Unit of Life",
+    "question": "In a bacterial cell, ribosome sedimentation coefficient is:",
+    "options": {
+      "A": "70S",
+      "B": "80S",
+      "C": "60S alone without small subunit",
+      "D": "40S only"
+    },
+    "correct_answer": "A",
+    "explanation": "Prokaryotes: 50S + 30S = 70S."
+  }
+]

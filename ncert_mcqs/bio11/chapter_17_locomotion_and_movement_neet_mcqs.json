@@ -1,0 +1,1237 @@
+[
+  {
+    "source_sentence": "This pulls the attached actin filaments towards the centre of 'A' band.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "During muscle shortening, thin actin filaments slide:",
+    "options": {
+      "A": "Away from the centre of A band",
+      "B": "Towards the centre of A band",
+      "C": "Only within I band without Z line movement",
+      "D": "Perpendicular to myosin tail"
+    },
+    "correct_answer": "B",
+    "explanation": "Sliding filament theory: actin moves toward A-band centre."
+  },
+  {
+    "source_sentence": "during shortening of the muscle, i.e., contraction, the 'I' bands get reduced, whereas the 'A' bands retain the length",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "During contraction of a sarcomere, which band SHORTENS?",
+    "options": {
+      "A": "A band only",
+      "B": "I band only",
+      "C": "Both A and I bands equally",
+      "D": "M line region exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "I bands shorten; A band length remains constant."
+  },
+  {
+    "source_sentence": "A new ATP binds and the cross-bridge is broken",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Breaking of the actin-myosin cross bridge requires:",
+    "options": {
+      "A": "Fresh ATP binding to myosin head",
+      "B": "Increased Ca²⁺ in sarcoplasm",
+      "C": "Troponin masking of active sites",
+      "D": "ADP accumulation only"
+    },
+    "correct_answer": "A",
+    "explanation": "New ATP binding detaches myosin from actin."
+  },
+  {
+    "source_sentence": "Describe the important steps in muscle contraction.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which sequence correctly represents key steps in skeletal muscle contraction?",
+    "options": {
+      "A": "ACh release → Ca²⁺ release → cross bridge → sliding → Ca²⁺ reuptake",
+      "B": "Cross bridge → ACh release → Ca²⁺ reuptake → sliding",
+      "C": "Ca²⁺ reuptake → cross bridge → ACh release → sliding",
+      "D": "Sliding → troponin masking → ACh release → Ca²⁺ release"
+    },
+    "correct_answer": "A",
+    "explanation": "Signal at NMJ, Ca²⁺ release, cross-bridge cycling with sliding, then Ca²⁺ reuptake for relaxation."
+  },
+  {
+    "source_sentence": "Mechanism of muscle contraction is best explained by the sliding filament theory",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Assertion (A): Muscle contraction occurs by sliding of thin filaments over thick filaments. Reason (R): During contraction, the A band length remains unchanged while I band shortens. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both describe sliding filament theory; band changes illustrate but do not explain the sliding mechanism."
+  },
+  {
+    "source_sentence": "Skeletal muscles are closely associated with the skeletal components of the body.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Striated voluntary muscles attached to bones are:",
+    "options": {
+      "A": "Visceral smooth muscles",
+      "B": "Skeletal muscles",
+      "C": "Cardiac muscles only",
+      "D": "Involuntary visceral muscles"
+    },
+    "correct_answer": "B",
+    "explanation": "Skeletal muscles are striated and voluntary."
+  },
+  {
+    "source_sentence": "Visceral muscles are located in the inner walls of hollow visceral organs",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Smooth involuntary muscles lining the alimentary canal are:",
+    "options": {
+      "A": "Skeletal muscles",
+      "B": "Visceral (smooth) muscles",
+      "C": "Cardiac muscles",
+      "D": "Red aerobic fibres only"
+    },
+    "correct_answer": "B",
+    "explanation": "Visceral muscles are smooth and involuntary."
+  },
+  {
+    "source_sentence": "Cardiac muscles are the muscles of heart. Many cardiac muscle cells assemble in a branching pattern",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cardiac muscle differs from skeletal muscle in being:",
+    "options": {
+      "A": "Non-striated and voluntary",
+      "B": "Striated, branched and involuntary",
+      "C": "Smooth and multinucleate",
+      "D": "Non-branching and voluntary"
+    },
+    "correct_answer": "B",
+    "explanation": "Cardiac muscle is striated, branched, involuntary."
+  },
+  {
+    "source_sentence": "Red fibres... contain plenty of mitochondria... aerobic muscles. White fibres... few mitochondria... depend on anaerobic process",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Red muscle fibres are best suited for sustained activity because they have:",
+    "options": {
+      "A": "Low myoglobin and few mitochondria",
+      "B": "High myoglobin and many mitochondria",
+      "C": "No sarcoplasmic reticulum",
+      "D": "Only anaerobic metabolism"
+    },
+    "correct_answer": "B",
+    "explanation": "Red fibres store O₂ via myoglobin and have abundant mitochondria."
+  },
+  {
+    "source_sentence": "Repeated activation of the muscles can lead to the accumulation of lactic acid",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Muscle fatigue after repeated stimulation is associated with:",
+    "options": {
+      "A": "Accumulation of lactic acid from anaerobic glycogen breakdown",
+      "B": "Excess myoglobin synthesis",
+      "C": "Permanent A band elongation",
+      "D": "Loss of all troponin"
+    },
+    "correct_answer": "A",
+    "explanation": "Anaerobic activity raises lactic acid causing fatigue."
+  },
+  {
+    "source_sentence": "central part of thick filament, not overlapped by thin filaments is called the 'H' zone.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The H zone of a sarcomere in resting state contains:",
+    "options": {
+      "A": "Only thin actin filaments",
+      "B": "Thick myosin filaments not overlapped by actin",
+      "C": "Only Z lines",
+      "D": "Tropomyosin exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "H zone is central thick-filament region without actin overlap."
+  },
+  {
+    "source_sentence": "Each organised skeletal muscle in our body is made of a number of muscle bundles or fascicles",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Muscle bundles (fascicles) in skeletal muscle are held by:",
+    "options": {
+      "A": "Fascia",
+      "B": "Synovial fluid",
+      "C": "Hyaline cartilage caps",
+      "D": "Cranial sutures"
+    },
+    "correct_answer": "A",
+    "explanation": "Fascia binds fascicles into organised muscle."
+  },
+  {
+    "source_sentence": "In human beings, this system is made up of 206 bones",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The human adult skeleton contains approximately:",
+    "options": {
+      "A": "106 bones",
+      "B": "206 bones",
+      "C": "306 bones",
+      "D": "406 bones"
+    },
+    "correct_answer": "B",
+    "explanation": "Human skeleton has 206 bones."
+  },
+  {
+    "source_sentence": "Axial skeleton comprises 80 bones",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Bones of skull, vertebral column, sternum and ribs constitute:",
+    "options": {
+      "A": "Appendicular skeleton",
+      "B": "Axial skeleton (80 bones)",
+      "C": "Only girdle bones",
+      "D": "Synovial skeleton"
+    },
+    "correct_answer": "B",
+    "explanation": "Axial skeleton = 80 bones along main body axis."
+  },
+  {
+    "source_sentence": "Ball and socket joint (between humerus and pectoral girdle), hinge joint (knee joint)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Shoulder joint between humerus and pectoral girdle is a:",
+    "options": {
+      "A": "Hinge joint",
+      "B": "Ball and socket joint",
+      "C": "Fibrous suture",
+      "D": "Cartilaginous joint only"
+    },
+    "correct_answer": "B",
+    "explanation": "Shoulder is ball-and-socket synovial joint."
+  },
+  {
+    "source_sentence": "Fibrous joints do not allow any movement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cranial sutures between skull bones represent:",
+    "options": {
+      "A": "Synovial joints",
+      "B": "Fibrous immovable joints",
+      "C": "Cartilaginous freely movable joints",
+      "D": "Pivot joints"
+    },
+    "correct_answer": "B",
+    "explanation": "Skull sutures are fibrous, immovable."
+  },
+  {
+    "source_sentence": "Synovial joints are characterised by the presence of a fluid filled synovial cavity",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Presence of synovial fluid-filled cavity is characteristic of:",
+    "options": {
+      "A": "Fibrous joints",
+      "B": "Cartilaginous joints only",
+      "C": "Synovial joints",
+      "D": "Skull sutures"
+    },
+    "correct_answer": "C",
+    "explanation": "Synovial joints have synovial cavity allowing movement."
+  },
+  {
+    "source_sentence": "Glenoid cavity which articulates with the head of the humerus to form the shoulder joint.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Glenoid cavity of scapula articulates with:",
+    "options": {
+      "A": "Femur head",
+      "B": "Head of humerus",
+      "C": "Patella",
+      "D": "Atlas"
+    },
+    "correct_answer": "B",
+    "explanation": "Glenoid cavity forms shoulder joint with humerus."
+  },
+  {
+    "source_sentence": "Acetabulum to which the thigh bone articulates.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Thigh bone (femur) articulates with pelvic girdle at:",
+    "options": {
+      "A": "Glenoid cavity",
+      "B": "Acetabulum",
+      "C": "Occipital condyle",
+      "D": "Sternum"
+    },
+    "correct_answer": "B",
+    "explanation": "Femur head fits into acetabulum."
+  },
+  {
+    "source_sentence": "Each limb is made of 30 bones.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Number of bones in each human limb is:",
+    "options": {
+      "A": "20",
+      "B": "26",
+      "C": "30",
+      "D": "40"
+    },
+    "correct_answer": "C",
+    "explanation": "Each limb has 30 bones per NCERT."
+  },
+  {
+    "source_sentence": "pivot joint (between atlas and axis)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Joint between atlas and axis is a:",
+    "options": {
+      "A": "Pivot joint",
+      "B": "Saddle joint",
+      "C": "Fibrous suture",
+      "D": "Ball and socket joint"
+    },
+    "correct_answer": "A",
+    "explanation": "Atlas-axis articulation is pivot type."
+  },
+  {
+    "source_sentence": "Osteoporosis: Age-related disorder characterised by decreased bone mass and increased chances of fractures.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Decreased bone mass with increased fracture risk, often linked to low estrogen, is:",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Tetany",
+      "C": "Myasthenia gravis",
+      "D": "Muscular dystrophy"
+    },
+    "correct_answer": "A",
+    "explanation": "Osteoporosis reduces bone mass; estrogen decline is a common cause."
+  },
+  {
+    "source_sentence": "Gout: Inflammation of joints due to accumulation of uric acid crystals.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Joint inflammation due to uric acid crystal deposition is:",
+    "options": {
+      "A": "Arthritis from infection only",
+      "B": "Gout",
+      "C": "Osteoporosis",
+      "D": "Tetany"
+    },
+    "correct_answer": "B",
+    "explanation": "Gout involves uric acid crystals in joints."
+  },
+  {
+    "source_sentence": "Arthritis: Inflammation of joints.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "General inflammation of joints is called:",
+    "options": {
+      "A": "Gout exclusively",
+      "B": "Arthritis",
+      "C": "Tetany",
+      "D": "Myasthenia gravis"
+    },
+    "correct_answer": "B",
+    "explanation": "Arthritis is joint inflammation."
+  },
+  {
+    "source_sentence": "The coordinated movements of cilia in the trachea help us in removing dust particles",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Ciliary movement in trachea primarily helps in:",
+    "options": {
+      "A": "Propelling spermatozoa",
+      "B": "Removing inhaled dust and foreign particles",
+      "C": "Bone resorption",
+      "D": "Hormone secretion"
+    },
+    "correct_answer": "B",
+    "explanation": "Tracheal cilia clear inhaled debris."
+  },
+  {
+    "source_sentence": "Two filaments of another protein, tropomyosin also run close to the 'F' actins throughout its length.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Tropomyosin in thin filaments runs:",
+    "options": {
+      "A": "Only at M line",
+      "B": "Close to F-actins along their length",
+      "C": "Only in H zone",
+      "D": "Within sarcolemma"
+    },
+    "correct_answer": "B",
+    "explanation": "Tropomyosin lies along actin filaments."
+  },
+  {
+    "source_sentence": "8th, 9th and 10th pairs of ribs... called vertebrochondral (false) ribs.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Vertebrochondral (false) ribs are:",
+    "options": {
+      "A": "1st to 7th pairs",
+      "B": "8th, 9th and 10th pairs",
+      "C": "11th and 12th only",
+      "D": "All lumbar ribs"
+    },
+    "correct_answer": "B",
+    "explanation": "Ribs 8–10 join 7th rib via cartilage."
+  },
+  {
+    "source_sentence": "Cranial bones are 8 in number.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Number of cranial bones forming brain-protecting cranium:",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "14",
+      "D": "22"
+    },
+    "correct_answer": "B",
+    "explanation": "Eight cranial bones form cranium."
+  },
+  {
+    "source_sentence": "Each middle ear contains three tiny bones – Malleus, Incus and Stapes",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Ear ossicles in middle ear include:",
+    "options": {
+      "A": "Malleus, incus and stapes",
+      "B": "Femur, tibia and fibula",
+      "C": "Radius, ulna and humerus",
+      "D": "Atlas and axis only"
+    },
+    "correct_answer": "A",
+    "explanation": "Three ear ossicles transmit sound."
+  },
+  {
+    "source_sentence": "saddle joint (between carpal and metacarpal of thumb)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Thumb carpometacarpal joint is an example of:",
+    "options": {
+      "A": "Saddle joint",
+      "B": "Fibrous suture",
+      "C": "Pivot joint",
+      "D": "Immovable joint"
+    },
+    "correct_answer": "A",
+    "explanation": "Thumb base has saddle synovial joint."
+  },
+  {
+    "source_sentence": "gliding joint (between the carpals)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Gliding movements between carpals occur at:",
+    "options": {
+      "A": "Gliding synovial joints",
+      "B": "Fibrous cranial sutures",
+      "C": "Cartilaginous pubic symphysis only",
+      "D": "Atlas-axis pivot exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Intercarpal joints are gliding type."
+  },
+  {
+    "source_sentence": "The vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused) and coccygeal (1-fused)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Human vertebral column has how many thoracic vertebrae?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "12",
+      "D": "26"
+    },
+    "correct_answer": "C",
+    "explanation": "Thoracic region has 12 vertebrae."
+  },
+  {
+    "source_sentence": "humerus, radius and ulna, carpals (wrist bones – 8 in number)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Number of carpal bones in each wrist is:",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "14"
+    },
+    "correct_answer": "C",
+    "explanation": "Eight carpals form the wrist."
+  },
+  {
+    "source_sentence": "phalanges (digits – 14 in number)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Total phalanges in one human hand (fore limb) is:",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "14",
+      "D": "30"
+    },
+    "correct_answer": "C",
+    "explanation": "Each hand has 14 phalanges."
+  },
+  {
+    "source_sentence": "tarsals (ankle bones – 7 in number)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Tarsal bones in each ankle number:",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "12"
+    },
+    "correct_answer": "B",
+    "explanation": "Seven tarsals in ankle."
+  },
+  {
+    "source_sentence": "Scapula is a large triangular flat bone situated in the dorsal part of the thorax",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Triangular scapula lies:",
+    "options": {
+      "A": "Dorsally between 2nd and 7th ribs",
+      "B": "Inside cranium",
+      "C": "Ventrally on sternum",
+      "D": "Within vertebral canal"
+    },
+    "correct_answer": "A",
+    "explanation": "Scapula is dorsal thoracic triangular bone."
+  },
+  {
+    "source_sentence": "Each clavicle is a long slender bone... commonly called the collar bone.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Clavicle is also known as:",
+    "options": {
+      "A": "Collar bone",
+      "B": "Knee cap",
+      "C": "Wish bone of skull",
+      "D": "Hyoid"
+    },
+    "correct_answer": "A",
+    "explanation": "Clavicle = collar bone."
+  },
+  {
+    "source_sentence": "Pelvic girdle consists of two coxal bones. Each coxal bone is formed by the fusion of three bones – ilium, ischium and pubis.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Coxal bone of pelvic girdle is formed by fusion of:",
+    "options": {
+      "A": "Ilium, ischium and pubis",
+      "B": "Humerus, radius and ulna",
+      "C": "Malleus, incus and stapes",
+      "D": "Atlas and axis"
+    },
+    "correct_answer": "A",
+    "explanation": "Each coxal bone fuses ilium, ischium, pubis."
+  },
+  {
+    "source_sentence": "In cartilaginous joints, the bones involved are joined together with the help of cartilages.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Intervertebral disc joint between adjacent vertebrae is:",
+    "options": {
+      "A": "Fibrous immovable",
+      "B": "Cartilaginous with limited movement",
+      "C": "Synovial ball and socket",
+      "D": "No joint present"
+    },
+    "correct_answer": "B",
+    "explanation": "Adjacent vertebrae join via cartilaginous discs."
+  },
+  {
+    "source_sentence": "Define sliding filament theory of muscle contraction.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Sliding filament theory states that contraction occurs by:",
+    "options": {
+      "A": "Shortening of thick filaments",
+      "B": "Sliding of thin filaments over thick filaments",
+      "C": "Disappearance of A bands",
+      "D": "Elongation of sarcomere Z lines away from each other"
+    },
+    "correct_answer": "B",
+    "explanation": "Thin filaments slide over thick filaments without A-band length change."
+  },
+  {
+    "source_sentence": "Thin filament of myofibril contains 2 'F' actins and two other proteins namely _____ and _____",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Besides F-actin, thin filaments contain:",
+    "options": {
+      "A": "Tropomyosin and troponin",
+      "B": "Myosin and meromyosin",
+      "C": "Collagen and elastin",
+      "D": "Myoglobin and hemoglobin"
+    },
+    "correct_answer": "A",
+    "explanation": "Thin filament proteins: actin, tropomyosin, troponin."
+  },
+  {
+    "source_sentence": "Match Column I with Column II:\n(a) Smooth muscle (iv) Involuntary\n(b) Tropomyosin (ii) Thin filament\n(c) Red muscle (i) Myoglobin\n(d) Skull (iii) Sutures",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Match Column I with Column II and choose the correct combination:\nColumn I: (a) Smooth muscle (b) Tropomyosin (c) Red muscle (d) Skull\nColumn II: (i) Myoglobin (ii) Thin filament (iii) Sutures (iv) Involuntary",
+    "options": {
+      "A": "a-iv, b-ii, c-i, d-iii",
+      "B": "a-ii, b-iv, c-iii, d-i",
+      "C": "a-i, b-iii, c-iv, d-ii",
+      "D": "a-iii, b-i, c-ii, d-iv"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT exercise match: smooth-involuntary, tropomyosin-thin filament, red-myoglobin, skull-sutures."
+  },
+  {
+    "source_sentence": "Name the type of joint between femur/acetabulum",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Femur articulating with acetabulum forms which joint type?",
+    "options": {
+      "A": "Ball and socket synovial joint",
+      "B": "Fibrous suture",
+      "C": "Pivot joint",
+      "D": "Immovable cartilaginous joint"
+    },
+    "correct_answer": "A",
+    "explanation": "Hip joint is ball-and-socket."
+  },
+  {
+    "source_sentence": "between cranial bones",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Joints between cranial bones allow:",
+    "options": {
+      "A": "No movement (fibrous)",
+      "B": "Wide synovial rotation",
+      "C": "Pivot movement only",
+      "D": "Saddle gliding"
+    },
+    "correct_answer": "A",
+    "explanation": "Cranial bones fuse via fibrous sutures."
+  },
+  {
+    "source_sentence": "between pubic bones in the pelvic girdle",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Pubic symphysis between pelvic halves is:",
+    "options": {
+      "A": "Cartilaginous joint",
+      "B": "Fibrous suture",
+      "C": "Synovial ball and socket",
+      "D": "No articulation"
+    },
+    "correct_answer": "A",
+    "explanation": "Pubic symphysis contains fibrocartilage."
+  },
+  {
+    "source_sentence": "between phalanges",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Interphalangeal articulations are typically:",
+    "options": {
+      "A": "Hinge synovial joints",
+      "B": "Cranial sutures",
+      "C": "Cartilaginous discs",
+      "D": "Immovable fibrous joints"
+    },
+    "correct_answer": "A",
+    "explanation": "Finger joints are hinge type."
+  },
+  {
+    "source_sentence": "H-zone of striated muscle fibre represents both thick and thin filaments.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Assertion (A): H-zone in resting sarcomere contains only thick filaments. Reason (R): Thin filaments do not extend into the central H-zone at rest. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "At rest, thin filaments partially overlap thick; central H-zone lacks actin."
+  },
+  {
+    "source_sentence": "Actin is present in thin filament",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Assertion (A): I-band contains actin filaments. Reason (R): A-band contains only myosin with no actin overlap anywhere. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "I-band has actin; R is false because actin overlaps thick filaments at A-band edges."
+  },
+  {
+    "source_sentence": "There are 11 pairs of ribs in man.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Assertion (A): Humans have 12 pairs of ribs. Reason (R): Floating ribs are not attached ventrally to sternum. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "12 pairs exist; floating rib description is true but does not explain total count."
+  },
+  {
+    "source_sentence": "Sternum is present on the ventral side of the body.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Sternum location and function include:",
+    "options": {
+      "A": "Flat ventral midline thoracic bone anchoring ribs",
+      "B": "Dorsal protection of spinal cord",
+      "C": "Inside cranial cavity only",
+      "D": "Part of pelvic girdle"
+    },
+    "correct_answer": "A",
+    "explanation": "Sternum is ventral flat bone of thorax."
+  },
+  {
+    "source_sentence": "Flagellar movement helps in the swimming of spermatozoa",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Flagellar movement in humans is essential for:",
+    "options": {
+      "A": "Swimming of spermatozoa",
+      "B": "Tracheal dust removal",
+      "C": "Cardiac contraction",
+      "D": "Synovial lubrication"
+    },
+    "correct_answer": "A",
+    "explanation": "Sperm locomotion uses flagella."
+  },
+  {
+    "source_sentence": "The human cranium is made of ___ bones.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Total bones in skull (cranial + facial) equal:",
+    "options": {
+      "A": "14",
+      "B": "22",
+      "C": "26",
+      "D": "8"
+    },
+    "correct_answer": "B",
+    "explanation": "Skull has 22 bones (8 cranial + 14 facial)."
+  },
+  {
+    "source_sentence": "All mammals (except a few) have _____ cervical vertebra.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cervical vertebrae count in typical mammals including humans:",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "12",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "explanation": "Seven cervical vertebrae is standard."
+  },
+  {
+    "source_sentence": "The number of phalanges in each limb of human is ___",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Phalanges per human limb total:",
+    "options": {
+      "A": "10",
+      "B": "14",
+      "C": "8",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "explanation": "Each limb has 14 phalanges."
+  },
+  {
+    "source_sentence": "In a muscle fibre Ca^{2+} is stored in ___",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Primary intracellular Ca²⁺ store in muscle fibre:",
+    "options": {
+      "A": "Sarcoplasmic reticulum",
+      "B": "Nucleus",
+      "C": "Sarcolemma extracellular side",
+      "D": "Z line matrix"
+    },
+    "correct_answer": "A",
+    "explanation": "SR stores Ca²⁺ for contraction."
+  },
+  {
+    "source_sentence": "_____ and _____ pairs of ribs are called floating ribs.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Floating ribs are the:",
+    "options": {
+      "A": "11th and 12th pairs",
+      "B": "1st and 2nd pairs",
+      "C": "8th and 9th pairs",
+      "D": "7th and 8th pairs"
+    },
+    "correct_answer": "A",
+    "explanation": "Last two pairs are floating ribs."
+  },
+  {
+    "source_sentence": "Bone and cartilage are specialised connective tissues.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Hard matrix with calcium salts characterises:",
+    "options": {
+      "A": "Bone",
+      "B": "Hyaline cartilage of ribs only",
+      "C": "Muscle fibres",
+      "D": "Neurons"
+    },
+    "correct_answer": "A",
+    "explanation": "Bone matrix is hardened by calcium salts."
+  },
+  {
+    "source_sentence": "chondroitin salts",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Slightly pliable matrix with chondroitin salts is seen in:",
+    "options": {
+      "A": "Cartilage",
+      "B": "Compact bone only",
+      "C": "Sarcolemma",
+      "D": "Tendon mineral deposits"
+    },
+    "correct_answer": "A",
+    "explanation": "Cartilage matrix contains chondroitin salts."
+  },
+  {
+    "source_sentence": "Each rib is a thin flat bone connected dorsally to the vertebral column and ventrally to the sternum.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "A typical rib (not floating) attaches:",
+    "options": {
+      "A": "Dorsally to vertebrae and ventrally toward sternum",
+      "B": "Only to scapula",
+      "C": "Only to ilium",
+      "D": "Exclusively to hyoid"
+    },
+    "correct_answer": "A",
+    "explanation": "Ribs connect vertebral column and sternum region."
+  },
+  {
+    "source_sentence": "The two halves of the pelvic girdle meet ventrally to form the pubic symphysis containing fibrous cartilage.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Pubic symphysis contains:",
+    "options": {
+      "A": "Fibrocartilage",
+      "B": "Synovial fluid only",
+      "C": "Dense bone marrow",
+      "D": "Cranial suture fibres exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Pubic symphysis has fibrocartilage."
+  },
+  {
+    "source_sentence": "Force generated by the muscles is used to carry out movement through joints, where the joint acts as a fulcrum.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "In lever action of locomotion, the joint acts as:",
+    "options": {
+      "A": "Fulcrum",
+      "B": "Power arm only",
+      "C": "Resistance without movement",
+      "D": "Neurotransmitter store"
+    },
+    "correct_answer": "A",
+    "explanation": "Muscles generate force; joints serve as fulcrums."
+  },
+  {
+    "source_sentence": "Methods of locomotion performed by animals vary with their habitats and the demand of the situation.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Animal locomotory structures primarily vary with:",
+    "options": {
+      "A": "Habitat and situational demands",
+      "B": "Blood group",
+      "C": "Number of chromosomes only",
+      "D": "Plant taxonomy"
+    },
+    "correct_answer": "A",
+    "explanation": "Locomotion adapts to habitat and need."
+  },
+  {
+    "source_sentence": "Walking, running, climbing, flying and swimming are all some forms of locomotory movements.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which is a locomotory movement?",
+    "options": {
+      "A": "Blinking without change of place",
+      "B": "Running",
+      "C": "Heart beating",
+      "D": "Peristalsis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Running changes body position voluntarily."
+  },
+  {
+    "source_sentence": "Cytoskeletal elements like microfilaments are also involved in amoeboid movement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Amoeboid movement involves cytoskeletal:",
+    "options": {
+      "A": "Microfilaments",
+      "B": "Thick myosin bands only",
+      "C": "Cranial sutures",
+      "D": "Synovial membranes"
+    },
+    "correct_answer": "A",
+    "explanation": "Microfilaments aid pseudopodial streaming."
+  },
+  {
+    "source_sentence": "Movement is characteristic of living beings; locomotion is movement leading to displacement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Assertion (A): All locomotion is movement. Reason (R): Not all movement results in displacement of the body. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Locomotion is subset of movement involving change of place."
+  },
+  {
+    "source_sentence": "Muscle tissue: skeletal, visceral (smooth), cardiac.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which muscle type is striated and voluntary?",
+    "options": {
+      "A": "Skeletal muscle",
+      "B": "Smooth muscle of gut",
+      "C": "Cardiac muscle under fully voluntary control",
+      "D": "All muscles are identical"
+    },
+    "correct_answer": "A",
+    "explanation": "Skeletal muscle is striated and voluntary."
+  },
+  {
+    "source_sentence": "Sarcomere: basic contractile unit between two Z-lines.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "During muscle contraction, H-zone:",
+    "options": {
+      "A": "Shortens or disappears",
+      "B": "Doubles in length always",
+      "C": "Becomes wider due to actin removal",
+      "D": "Remains unchanged always"
+    },
+    "correct_answer": "A",
+    "explanation": "Sliding filament reduces H-zone and I-band."
+  },
+  {
+    "source_sentence": "Sliding filament theory: actin and myosin interact using ATP.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cross-bridge formation requires:",
+    "options": {
+      "A": "Ca2+ exposing actin binding sites and ATP hydrolysis",
+      "B": "Only magnesium without calcium ever",
+      "C": "Absence of any ATP",
+      "D": "Permanent rigor without energy"
+    },
+    "correct_answer": "A",
+    "explanation": "Ca2+ from SR enables cross-bridge cycling powered by ATP."
+  },
+  {
+    "source_sentence": "Tropomyosin and troponin regulate actin-myosin interaction.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Calcium binds to:",
+    "options": {
+      "A": "Troponin on thin filaments",
+      "B": "Myosin head exclusively without troponin",
+      "C": "Z-line collagen only",
+      "D": "Tendon elastin primarily"
+    },
+    "correct_answer": "A",
+    "explanation": "Ca2+-troponin moves tropomyosin exposing binding sites."
+  },
+  {
+    "source_sentence": "Skeletal system provides framework; axial and appendicular.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which is part of appendicular skeleton?",
+    "options": {
+      "A": "Femur",
+      "B": "Vertebral column",
+      "C": "Skull",
+      "D": "Sternum"
+    },
+    "correct_answer": "A",
+    "explanation": "Limbs and girdles form appendicular skeleton."
+  },
+  {
+    "source_sentence": "Synovial joints allow considerable movement; ball and socket, hinge, pivot etc.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Shoulder joint is:",
+    "options": {
+      "A": "Ball and socket synovial joint",
+      "B": "Immovable fibrous joint",
+      "C": "Cartilaginous joint without cavity",
+      "D": "Pivot joint only like atlas-axis"
+    },
+    "correct_answer": "A",
+    "explanation": "Shoulder: multiaxial ball and socket."
+  },
+  {
+    "source_sentence": "Arthritis: inflammation of joints; osteoporosis: reduced bone density.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "A postmenopausal woman with fragile bones likely has:",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Gout only without bone loss",
+      "C": "Muscular dystrophy of bone",
+      "D": "Tetany of synovial fluid only"
+    },
+    "correct_answer": "A",
+    "explanation": "Oestrogen decline linked to osteoporosis."
+  },
+  {
+    "source_sentence": "Myasthenia gravis: autoantibodies against acetylcholine receptors.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Myasthenia gravis presents with:",
+    "options": {
+      "A": "Progressive skeletal muscle weakness worsening with activity",
+      "B": "Excessive bone formation only",
+      "C": "Increased ACh receptors density always",
+      "D": "Complete paralysis at birth only without fluctuation"
+    },
+    "correct_answer": "A",
+    "explanation": "Fatigable weakness due to impaired neuromuscular transmission."
+  },
+  {
+    "source_sentence": "Muscular dystrophy: progressive degeneration of skeletal muscle.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Dystrophin deficiency is associated with:",
+    "options": {
+      "A": "Duchenne muscular dystrophy",
+      "B": "Osteoarthritis only",
+      "C": "Gout from uric acid",
+      "D": "Tetany from low Ca2+ only"
+    },
+    "correct_answer": "A",
+    "explanation": "DMD involves dystrophin gene defect."
+  },
+  {
+    "source_sentence": "Rigor mortis: ATP depletion after death causes permanent cross-bridge attachment.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Consider the following statements:\n1. Rigor mortis begins after death due to lack of ATP\n2. Heat production in muscle always requires no ATP\n3. Sliding filament theory explains contraction\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Statement 2 false; muscle heat and contraction need ATP."
+  },
+  {
+    "source_sentence": "Amoeboid movement: pseudopodia via cytoskeletal rearrangement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Amoeboid movement involves:",
+    "options": {
+      "A": "Actin polymerisation forming pseudopodia",
+      "B": "Chitinous exoskeleton joints",
+      "C": "Flagellar beat in multicellular sheets only",
+      "D": "Bone lever action exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Actin-driven pseudopodia in amoeboid cells."
+  },
+  {
+    "source_sentence": "Ciliary movement in respiratory tract and oviduct.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cilia in fallopian tube aid:",
+    "options": {
+      "A": "Movement of ovum/embryo toward uterus",
+      "B": "Gas exchange in alveoli",
+      "C": "Urine concentration in kidney",
+      "D": "Blood clotting in capillaries"
+    },
+    "correct_answer": "A",
+    "explanation": "Ciliary action moves egg toward uterus."
+  },
+  {
+    "source_sentence": "Flagellar movement in sperm; axoneme 9+2 microtubule arrangement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Axoneme structure of sperm tail is:",
+    "options": {
+      "A": "9 peripheral doublets + 2 central microtubules",
+      "B": "3 microtubules only",
+      "C": "Actin filaments without tubulin",
+      "D": "Collagen triple helix"
+    },
+    "correct_answer": "A",
+    "explanation": "Classic 9+2 arrangement in eukaryotic flagella."
+  },
+  {
+    "source_sentence": "Red and white muscle fibres differ in myoglobin and mitochondria content.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Compared to white fibres, red muscle fibres have:",
+    "options": {
+      "A": "More myoglobin and mitochondria",
+      "B": "Less myoglobin and fewer mitochondria",
+      "C": "No ATP requirement",
+      "D": "Only anaerobic glycolysis capacity without any aerobic enzymes ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Red fibres adapted for sustained aerobic work."
+  },
+  {
+    "source_sentence": "Gout: uric acid crystal deposition in joints.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Elevated serum uric acid may cause:",
+    "options": {
+      "A": "Gouty arthritis",
+      "B": "Osteoporosis exclusively without crystals",
+      "C": "Myasthenia gravis",
+      "D": "Tetany from low Mg2+ only"
+    },
+    "correct_answer": "A",
+    "explanation": "Monosodium urate crystals inflame joints."
+  },
+  {
+    "source_sentence": "Calcium ions stabilise voltage-gated sodium channels; hypocalcaemia increases neuromuscular excitability.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Tetany associated with hypocalcaemia occurs due to:",
+    "options": {
+      "A": "Increased excitability of nerves and muscles",
+      "B": "Complete paralysis without spasms",
+      "C": "Excess dystrophin production",
+      "D": "Bone overgrowth blocking joints"
+    },
+    "correct_answer": "A",
+    "explanation": "Low Ca2+ lowers threshold for action potentials causing spasms."
+  },
+  {
+    "source_sentence": "Origin and insertion: skeletal muscle attaches bone to bone via tendons.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Tendons connect:",
+    "options": {
+      "A": "Muscle to bone",
+      "B": "Bone to bone only (ligament function)",
+      "C": "Muscle to muscle exclusively always",
+      "D": "Skin to epidermis only"
+    },
+    "correct_answer": "A",
+    "explanation": "Tendons transmit force from muscle to bone."
+  },
+  {
+    "source_sentence": "Fibrous joints: sutures in skull; immovable.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cranial sutures in adult skull are:",
+    "options": {
+      "A": "Fibrous immovable joints",
+      "B": "Synovial ball and socket",
+      "C": "Freely movable pivot joints",
+      "D": "Cartilaginous symphyses like pubic symphysis always"
+    },
+    "correct_answer": "A",
+    "explanation": "Skull sutures are fibrous joints."
+  },
+  {
+    "source_sentence": "Actin filaments anchored to Z-disc; myosin in A-band.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "A-band of sarcomere contains:",
+    "options": {
+      "A": "Entire length of myosin filaments",
+      "B": "Only actin without myosin ever",
+      "C": "Only I-band material",
+      "D": "Only Z-lines"
+    },
+    "correct_answer": "A",
+    "explanation": "A-band spans full myosin length; length constant in contraction."
+  },
+  {
+    "source_sentence": "Summation and tetanus with repeated stimuli before relaxation.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Incomplete tetanus results from:",
+    "options": {
+      "A": "Stimuli arriving before full relaxation",
+      "B": "Single stimulus only once",
+      "C": "Complete absence of Ca2+",
+      "D": "Permanent rigor mortis in living muscle"
+    },
+    "correct_answer": "A",
+    "explanation": "Fused contractions when frequency is high."
+  },
+  {
+    "source_sentence": "Lever system of bones: fulcrum, effort, load.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Elbow joint acts as lever with biceps providing:",
+    "options": {
+      "A": "Effort force",
+      "B": "Fulcrum exclusively without movement",
+      "C": "Load always without effort",
+      "D": "Only ligamentous stability without contraction"
+    },
+    "correct_answer": "A",
+    "explanation": "Muscle supplies effort; load is forearm weight/resistance."
+  },
+  {
+    "source_sentence": "Locomotion in Hydra uses tentacles; in earthworm by setae and muscles.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Earthworm locomotion primarily uses:",
+    "options": {
+      "A": "Setae for grip and longitudinal/circular muscles",
+      "B": "Wings and flight muscles",
+      "C": "Exoskeletal joint levers like insects only",
+      "D": "Flagella on entire body surface"
+    },
+    "correct_answer": "A",
+    "explanation": "Alternating muscle contraction with setal anchoring."
+  },
+  {
+    "source_sentence": "Disorders: gout, muscular dystrophy, tetany, myasthenia gravis, arthritis.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which disorder is autoimmune affecting neuromuscular junction?",
+    "options": {
+      "A": "Myasthenia gravis",
+      "B": "Gout",
+      "C": "Osteoporosis",
+      "D": "Tetany from low Ca2+ only"
+    },
+    "correct_answer": "A",
+    "explanation": "Autoantibodies reduce functional ACh receptors."
+  },
+  {
+    "source_sentence": "Cardiac muscle: branched, intercalated discs, involuntary.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Intercalated discs in cardiac muscle contain:",
+    "options": {
+      "A": "Gap junctions for rapid impulse spread",
+      "B": "Chitinous exoskeleton",
+      "C": "Only myelin sheath",
+      "D": "Cartilage matrix exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Desmosomes and gap junctions synchronise cardiomyocytes."
+  },
+  {
+    "source_sentence": "Smooth muscle: non-striated, involuntary, in visceral organs.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Smooth muscle differs from skeletal in being:",
+    "options": {
+      "A": "Non-striated and involuntary",
+      "B": "Multinucleated and always attached to tendons",
+      "C": "Under conscious control always",
+      "D": "Only found in heart exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Smooth muscle lacks visible striations; involuntary."
+  },
+  {
+    "source_sentence": "Fast and slow twitch fibres vary in ATPase activity.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Fast twitch fibres have:",
+    "options": {
+      "A": "Higher myosin ATPase activity for rapid contraction",
+      "B": "No capacity for anaerobic glycolysis ever",
+      "C": "Identical properties to slow oxidative fibres always",
+      "D": "Only found in cardiac muscle exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Fast fibres contract quickly with rapid ATPase."
+  },
+  {
+    "source_sentence": "Bone matrix: osteocytes in lacunae; Haversian systems in compact bone.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Osteocytes are located in:",
+    "options": {
+      "A": "Lacunae within bone matrix",
+      "B": "Synovial fluid exclusively",
+      "C": "Blood plasma as mobile cells always",
+      "D": "Muscle sarcomere H-zone only"
+    },
+    "correct_answer": "A",
+    "explanation": "Mature bone cells occupy lacunae."
+  },
+  {
+    "source_sentence": "Parathyroid hormone increases blood Ca2+; calcitonin lowers it.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "PTH acts on bone to:",
+    "options": {
+      "A": "Stimulate osteoclast activity releasing Ca2+ into blood",
+      "B": "Deposit calcium indefinitely without resorption",
+      "C": "Convert muscle to bone",
+      "D": "Block all nerve impulses permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "PTH raises plasma Ca2+ via bone resorption."
+  },
+  {
+    "source_sentence": "Joint disorders include rheumatoid arthritis (autoimmune) vs osteoarthritis (degenerative).",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Rheumatoid arthritis primarily involves:",
+    "options": {
+      "A": "Autoimmune inflammation of synovial membrane",
+      "B": "Uric acid crystals only without immunity",
+      "C": "Exclusively age-related cartilage wear without inflammation always",
+      "D": "Dystrophin gene mutation"
+    },
+    "correct_answer": "A",
+    "explanation": "RA is autoimmune synovitis."
+  },
+  {
+    "source_sentence": "Human bipedal locomotion: S-shaped spine, pelvic girdle modifications.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Bipedal gait in humans is aided by:",
+    "options": {
+      "A": "Curved vertebral column and broad pelvis",
+      "B": "Horizontal spine like quadrupeds exclusively",
+      "C": "Absence of arches in foot",
+      "D": "Only tail balance like primates with tail"
+    },
+    "correct_answer": "A",
+    "explanation": "Spinal curvature and pelvis support upright posture."
+  }
+]

@@ -1,0 +1,2147 @@
+[
+  {
+    "source_sentence": "In sponges, cells are arranged as loose cell aggregates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "An animal with loose cell aggregates and no true tissues belongs to:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Porifera",
+      "C": "Platyhelminthes",
+      "D": "Ctenophora"
+    },
+    "correct_answer": "B",
+    "explanation": "Sponges (Porifera) show cellular level organisation."
+  },
+  {
+    "source_sentence": "In coelenterates, cells are arranged into tissues.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Tissue level of organisation WITHOUT organ formation is characteristic of:",
+    "options": {
+      "A": "Porifera",
+      "B": "Platyhelminthes only",
+      "C": "Coelenterata and Ctenophora",
+      "D": "Annelida only"
+    },
+    "correct_answer": "C",
+    "explanation": "Coelenterates and ctenophores show tissue level; organ level begins in Platyhelminthes."
+  },
+  {
+    "source_sentence": "Organ level in Platyhelminthes and higher phyla.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Which phylum marks the transition from tissue level to organ level?",
+    "options": {
+      "A": "Ctenophora",
+      "B": "Coelenterata",
+      "C": "Platyhelminthes",
+      "D": "Porifera"
+    },
+    "correct_answer": "C",
+    "explanation": "Platyhelminthes show organ level organisation."
+  },
+  {
+    "source_sentence": "Aschelminthes have organ-system level.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Organ-system level organisation is FIRST reached in:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Aschelminthes",
+      "C": "Platyhelminthes",
+      "D": "Porifera"
+    },
+    "correct_answer": "B",
+    "explanation": "Aschelminthes are first with organ-system level per NCERT."
+  },
+  {
+    "source_sentence": "Single opening digestive system in Platyhelminthes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "A gastrovascular cavity with single mouth opening is found in:",
+    "options": {
+      "A": "Annelida",
+      "B": "Aschelminthes",
+      "C": "Arthropoda",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "D",
+    "explanation": "Coelenterates have gastrovascular cavity with single mouth."
+  },
+  {
+    "source_sentence": "Complete digestive system has mouth and anus.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Complete digestive tract first appears in:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Platyhelminthes",
+      "C": "Ctenophora",
+      "D": "Aschelminthes"
+    },
+    "correct_answer": "D",
+    "explanation": "Aschelminthes have complete alimentary canal."
+  },
+  {
+    "source_sentence": "Open circulatory system.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Open circulatory system is a feature of:",
+    "options": {
+      "A": "Annelida",
+      "B": "Hemichordata",
+      "C": "Arthropoda",
+      "D": "Chordata"
+    },
+    "correct_answer": "C",
+    "explanation": "Arthropods have open circulation; annelids and chordates have closed."
+  },
+  {
+    "source_sentence": "Closed circulatory system.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Closed circulatory system is present in:",
+    "options": {
+      "A": "Annelida",
+      "B": "Arthropoda",
+      "C": "Aschelminthes",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "A",
+    "explanation": "Annelids possess closed circulatory system."
+  },
+  {
+    "source_sentence": "Sponges are mostly asymmetrical.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Any plane through centre does NOT divide body into equal halves in:",
+    "options": {
+      "A": "Aurelia",
+      "B": "Pleurobrachia",
+      "C": "Nereis",
+      "D": "Sycon"
+    },
+    "correct_answer": "D",
+    "explanation": "Sponges like Sycon are mostly asymmetrical."
+  },
+  {
+    "source_sentence": "Radial symmetry in coelenterates and echinoderms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Adult radial symmetry is NOT seen in:",
+    "options": {
+      "A": "Adamsia",
+      "B": "Pheretima",
+      "C": "Asterias",
+      "D": "Pleurobrachia"
+    },
+    "correct_answer": "B",
+    "explanation": "Earthworm shows bilateral symmetry."
+  },
+  {
+    "source_sentence": "Bilateral symmetry in annelids and arthropods.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Bilateral symmetry divides body into identical halves in:",
+    "options": {
+      "A": "Only one plane",
+      "B": "Any plane through central axis",
+      "C": "Two perpendicular planes",
+      "D": "No plane"
+    },
+    "correct_answer": "A",
+    "explanation": "Bilateral symmetry: identical halves in only one plane."
+  },
+  {
+    "source_sentence": "Mesoglea between ectoderm and endoderm.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Mesoglea is an undifferentiated layer between:",
+    "options": {
+      "A": "Ectoderm and mesoderm",
+      "B": "Mesoderm and endoderm",
+      "C": "Ectoderm and endoderm",
+      "D": "Endoderm and coelom"
+    },
+    "correct_answer": "C",
+    "explanation": "Diploblastic animals have mesoglea between ectoderm and endoderm."
+  },
+  {
+    "source_sentence": "Triploblastic from platyhelminthes to chordates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Mesoderm as third germ layer appears in:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Ctenophora",
+      "C": "Porifera",
+      "D": "Platyhelminthes"
+    },
+    "correct_answer": "D",
+    "explanation": "Triploblastic organisation begins with Platyhelminthes."
+  },
+  {
+    "source_sentence": "Coelom lined by mesoderm.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Body cavity lined by mesoderm defines:",
+    "options": {
+      "A": "Coelomate",
+      "B": "Pseudocoelomate",
+      "C": "Acoelomate",
+      "D": "Diploblastic"
+    },
+    "correct_answer": "A",
+    "explanation": "True coelom is mesoderm-lined."
+  },
+  {
+    "source_sentence": "Pseudocoelom with scattered mesoderm pouches.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "In pseudocoelomates, mesoderm is present as:",
+    "options": {
+      "A": "Continuous cavity lining",
+      "B": "Absent entirely",
+      "C": "Scattered pouches between germ layers",
+      "D": "Only in gut wall"
+    },
+    "correct_answer": "C",
+    "explanation": "Pseudocoelomates have mesoderm as scattered pouches."
+  },
+  {
+    "source_sentence": "Acoelomates include platyhelminthes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Body cavity is completely absent in:",
+    "options": {
+      "A": "Ascaris",
+      "B": "Pheretima",
+      "C": "Taenia",
+      "D": "Pila"
+    },
+    "correct_answer": "C",
+    "explanation": "Platyhelminthes like Taenia are acoelomates."
+  },
+  {
+    "source_sentence": "Metameric segmentation in earthworm.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Serial repetition of organs in segments is called:",
+    "options": {
+      "A": "Metamerism",
+      "B": "Metagenesis",
+      "C": "Metamorphosis",
+      "D": "Metabolism"
+    },
+    "correct_answer": "A",
+    "explanation": "Metamerism is metameric segmentation with serial organ repetition."
+  },
+  {
+    "source_sentence": "Notochord is mesodermally derived dorsally.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Notochord develops from:",
+    "options": {
+      "A": "Mesoderm dorsally",
+      "B": "Endoderm dorsally",
+      "C": "Ectoderm ventrally",
+      "D": "Mesoglea ventrally"
+    },
+    "correct_answer": "A",
+    "explanation": "Notochord is mesodermally derived on dorsal side."
+  },
+  {
+    "source_sentence": "Hemichordata under non-chordata.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Hemichordata is classified under non-chordates because:",
+    "options": {
+      "A": "It is diploblastic",
+      "B": "It lacks notochord; has stomochord",
+      "C": "It is acoelomate",
+      "D": "It lacks gill slits"
+    },
+    "correct_answer": "B",
+    "explanation": "Hemichordates have stomochord, not true notochord."
+  },
+  {
+    "source_sentence": "Echinoderm larvae bilateral, adults radial.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Echinoderm larvae are bilateral but adults are:",
+    "options": {
+      "A": "Asymmetrical",
+      "B": "Without symmetry",
+      "C": "Bilaterally symmetrical",
+      "D": "Radially symmetrical"
+    },
+    "correct_answer": "D",
+    "explanation": "Echinoderm larvae bilateral; adults radial."
+  },
+  {
+    "source_sentence": "Water: ostia to spongocoel to osculum.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Water pathway in sponges is:",
+    "options": {
+      "A": "Ostia → spongocoel → osculum",
+      "B": "Osculum → ostia → spongocoel",
+      "C": "Ostia → osculum → spongocoel",
+      "D": "Spongocoel → ostia → osculum"
+    },
+    "correct_answer": "A",
+    "explanation": "Water enters ostia, passes spongocoel, exits osculum."
+  },
+  {
+    "source_sentence": "Choanocytes line spongocoel.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Food gathering in sponges is aided by:",
+    "options": {
+      "A": "Cnidoblasts",
+      "B": "Choanocytes",
+      "C": "Flame cells",
+      "D": "Malpighian tubules"
+    },
+    "correct_answer": "B",
+    "explanation": "Choanocytes (collar cells) aid food gathering."
+  },
+  {
+    "source_sentence": "Intracellular digestion in sponges.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Intracellular digestion occurs in:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Arthropoda",
+      "C": "Annelida",
+      "D": "Porifera"
+    },
+    "correct_answer": "D",
+    "explanation": "Sponges digest intracellularly."
+  },
+  {
+    "source_sentence": "Skeleton of spicules or spongin.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Bath sponge (Euspongia) skeleton has:",
+    "options": {
+      "A": "Calcium carbonate",
+      "B": "Chitinous exoskeleton",
+      "C": "Spongin fibres",
+      "D": "Placoid scales"
+    },
+    "correct_answer": "C",
+    "explanation": "Sponge skeleton is spicules or spongin fibres."
+  },
+  {
+    "source_sentence": "Internal fertilisation in sponges.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Sexual reproduction in sponges involves:",
+    "options": {
+      "A": "Internal fertilisation and indirect development",
+      "B": "External fertilisation only",
+      "C": "Parthenogenesis only",
+      "D": "Budding only"
+    },
+    "correct_answer": "A",
+    "explanation": "Sponges have internal fertilisation and larval stage."
+  },
+  {
+    "source_sentence": "Spongilla is freshwater sponge.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Which sponge is freshwater?",
+    "options": {
+      "A": "Spongilla",
+      "B": "Sycon",
+      "C": "Euspongia",
+      "D": "Meandrina"
+    },
+    "correct_answer": "A",
+    "explanation": "Spongilla is freshwater; most sponges marine."
+  },
+  {
+    "source_sentence": "Asexual reproduction by fragmentation.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Asexual reproduction in Porifera occurs by:",
+    "options": {
+      "A": "Binary fission",
+      "B": "Fragmentation",
+      "C": "Spore formation",
+      "D": "Conjugation"
+    },
+    "correct_answer": "B",
+    "explanation": "Sponges reproduce asexually by fragmentation."
+  },
+  {
+    "source_sentence": "Porifera have cellular not tissue level.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "INCORRECT about Porifera:",
+    "options": {
+      "A": "Water canal system present",
+      "B": "Mostly marine",
+      "C": "Tissue level organisation",
+      "D": "Hermaphrodite"
+    },
+    "correct_answer": "C",
+    "explanation": "Porifera have cellular not tissue level organisation."
+  },
+  {
+    "source_sentence": "Canal system for food, respiration, waste.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Sponge canal system is NOT involved in:",
+    "options": {
+      "A": "Respiratory exchange",
+      "B": "Jointed locomotion",
+      "C": "Food gathering",
+      "D": "Waste removal"
+    },
+    "correct_answer": "B",
+    "explanation": "Canal system aids food, respiration, waste — not jointed locomotion."
+  },
+  {
+    "source_sentence": "Sycon also called Scypha.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Scypha is another name for:",
+    "options": {
+      "A": "Spongilla",
+      "B": "Physalia",
+      "C": "Euspongia",
+      "D": "Sycon"
+    },
+    "correct_answer": "D",
+    "explanation": "Sycon is also called Scypha."
+  },
+  {
+    "source_sentence": "Nematocysts in cnidoblasts.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Nematocysts are found in:",
+    "options": {
+      "A": "Flame cells of Platyhelminthes",
+      "B": "Comb plates of Ctenophora",
+      "C": "Choanocytes of Porifera",
+      "D": "Cnidoblasts of Coelenterata"
+    },
+    "correct_answer": "D",
+    "explanation": "Cnidoblasts contain nematocysts."
+  },
+  {
+    "source_sentence": "Cnidaria tissue level diploblastic.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Cnidaria differ from Porifera in:",
+    "options": {
+      "A": "Cellular organisation",
+      "B": "Complete digestive system",
+      "C": "Triploblastic body",
+      "D": "Tissue level and cnidoblasts"
+    },
+    "correct_answer": "D",
+    "explanation": "Cnidarians have tissue level and cnidoblasts."
+  },
+  {
+    "source_sentence": "Polyp sessile; medusa free-swimming.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Obelia shows alternation of generations between:",
+    "options": {
+      "A": "Male and female",
+      "B": "Larva and adult only",
+      "C": "Polyp and medusa",
+      "D": "Sporophyte and gametophyte"
+    },
+    "correct_answer": "C",
+    "explanation": "Obelia: polyps produce medusae asexually, vice versa sexually."
+  },
+  {
+    "source_sentence": "Metagenesis in Obelia.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "In metagenesis of Obelia:",
+    "options": {
+      "A": "Polyp produces medusa asexually",
+      "B": "Medusa is sessile",
+      "C": "Both reproduce only sexually",
+      "D": "Only polyp exists"
+    },
+    "correct_answer": "A",
+    "explanation": "Polyps → medusae asexually; medusae → polyps sexually."
+  },
+  {
+    "source_sentence": "Physalia is Portuguese man-of-war.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Portuguese man-of-war is:",
+    "options": {
+      "A": "Pleurobrachia",
+      "B": "Aurelia",
+      "C": "Physalia",
+      "D": "Antedon"
+    },
+    "correct_answer": "C",
+    "explanation": "Physalia is Portuguese man-of-war."
+  },
+  {
+    "source_sentence": "Coral skeleton of calcium carbonate.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Brain coral (Meandrina) skeleton is:",
+    "options": {
+      "A": "Silica spicules",
+      "B": "Calcium carbonate",
+      "C": "Chitin",
+      "D": "Spongin"
+    },
+    "correct_answer": "B",
+    "explanation": "Corals have calcareous skeleton."
+  },
+  {
+    "source_sentence": "Adamsia is polyp; Aurelia is medusa.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Sea anemone (Adamsia) represents:",
+    "options": {
+      "A": "Polyp",
+      "B": "Medusa",
+      "C": "Larva only",
+      "D": "Both equally"
+    },
+    "correct_answer": "A",
+    "explanation": "Adamsia is sessile polyp form."
+  },
+  {
+    "source_sentence": "Extra- and intracellular digestion in cnidarians.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Both extracellular and intracellular digestion in:",
+    "options": {
+      "A": "Porifera",
+      "B": "Coelenterata",
+      "C": "Platyhelminthes",
+      "D": "Aschelminthes"
+    },
+    "correct_answer": "B",
+    "explanation": "Cnidarians show both digestion types."
+  },
+  {
+    "source_sentence": "Hydra is freshwater coelenterate.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Hydra belongs to phylum:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Ctenophora",
+      "C": "Platyhelminthes",
+      "D": "Porifera"
+    },
+    "correct_answer": "A",
+    "explanation": "Hydra is freshwater coelenterate polyp."
+  },
+  {
+    "source_sentence": "Cnidaria named after cnidoblasts.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Term Cnidaria refers to:",
+    "options": {
+      "A": "Comb plates",
+      "B": "Water vascular system",
+      "C": "Notochord",
+      "D": "Cnidoblasts"
+    },
+    "correct_answer": "D",
+    "explanation": "Cnidaria from cnidoblasts with nematocysts."
+  },
+  {
+    "source_sentence": "Aurelia is free-swimming medusa.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Jelly fish (Aurelia) is:",
+    "options": {
+      "A": "Sessile polyp",
+      "B": "Free-swimming medusa",
+      "C": "Terrestrial",
+      "D": "Parasitic flatworm"
+    },
+    "correct_answer": "B",
+    "explanation": "Aurelia is umbrella-shaped free-swimming medusa."
+  },
+  {
+    "source_sentence": "Pennatula is sea-pen.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Sea-pen belongs to:",
+    "options": {
+      "A": "Echinodermata",
+      "B": "Coelenterata",
+      "C": "Mollusca",
+      "D": "Arthropoda"
+    },
+    "correct_answer": "B",
+    "explanation": "Pennatula (sea-pen) is coelenterate."
+  },
+  {
+    "source_sentence": "Eight rows of comb plates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Comb plates for locomotion found in:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Ctenophora",
+      "C": "Porifera",
+      "D": "Echinodermata"
+    },
+    "correct_answer": "B",
+    "explanation": "Ctenophores have eight rows of ciliated comb plates."
+  },
+  {
+    "source_sentence": "Bioluminescence in ctenophores.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Bioluminescence is characteristic of:",
+    "options": {
+      "A": "Porifera",
+      "B": "Platyhelminthes",
+      "C": "Ctenophora",
+      "D": "Aschelminthes"
+    },
+    "correct_answer": "C",
+    "explanation": "Ctenophores exhibit bioluminescence."
+  },
+  {
+    "source_sentence": "Sexual reproduction only in ctenophores.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Ctenophores differ from sponges in:",
+    "options": {
+      "A": "Asexual only reproduction",
+      "B": "External fertilisation, no asexual reproduction",
+      "C": "Being terrestrial",
+      "D": "Being triploblastic"
+    },
+    "correct_answer": "B",
+    "explanation": "Ctenophores reproduce only sexually with external fertilisation."
+  },
+  {
+    "source_sentence": "Exclusively marine ctenophores.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Sea walnuts are:",
+    "options": {
+      "A": "Freshwater diploblastic",
+      "B": "Exclusively marine diploblastic",
+      "C": "Terrestrial triploblastic",
+      "D": "Parasitic acoelomate"
+    },
+    "correct_answer": "B",
+    "explanation": "Ctenophores are exclusively marine diploblastic."
+  },
+  {
+    "source_sentence": "Hermaphrodite ctenophores vs dioecious aschelminthes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Dioecious condition found in:",
+    "options": {
+      "A": "Ctenophora",
+      "B": "Coelenterata",
+      "C": "Aschelminthes",
+      "D": "Porifera"
+    },
+    "correct_answer": "C",
+    "explanation": "Aschelminthes dioecious; ctenophores hermaphrodite."
+  },
+  {
+    "source_sentence": "Pleurobrachia is ctenophore.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Pleurobrachia belongs to:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Platyhelminthes",
+      "C": "Ctenophora",
+      "D": "Mollusca"
+    },
+    "correct_answer": "C",
+    "explanation": "Pleurobrachia is ctenophore example."
+  },
+  {
+    "source_sentence": "Coelenterata and Ctenophora shared features.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Coelenterata and Ctenophora both have:",
+    "options": {
+      "A": "Triploblastic organisation",
+      "B": "Tissue level and radial symmetry",
+      "C": "Organ system level",
+      "D": "True coelom"
+    },
+    "correct_answer": "B",
+    "explanation": "Both diploblastic, radial, tissue level."
+  },
+  {
+    "source_sentence": "Table 4.2 Ctenophora incomplete digestion.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Per Table 4.2, Ctenophora digestive system is:",
+    "options": {
+      "A": "Incomplete",
+      "B": "Complete",
+      "C": "Absent",
+      "D": "Two openings in larvae only"
+    },
+    "correct_answer": "A",
+    "explanation": "Table 4.2: Ctenophora digestive system incomplete."
+  },
+  {
+    "source_sentence": "Triploblastic acoelomate flatworms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Triploblastic acoelomate bilaterally symmetrical animal:",
+    "options": {
+      "A": "Ascaris",
+      "B": "Nereis",
+      "C": "Taenia",
+      "D": "Pleurobrachia"
+    },
+    "correct_answer": "C",
+    "explanation": "Platyhelminthes like Taenia are triploblastic acoelomates."
+  },
+  {
+    "source_sentence": "Flame cells for osmoregulation.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Flame cells found in:",
+    "options": {
+      "A": "Annelida",
+      "B": "Platyhelminthes",
+      "C": "Arthropoda",
+      "D": "Mollusca"
+    },
+    "correct_answer": "B",
+    "explanation": "Platyhelminthes have flame cells."
+  },
+  {
+    "source_sentence": "Hooks and suckers in Fasciola.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Fasciola possesses:",
+    "options": {
+      "A": "Jointed appendages",
+      "B": "Comb plates",
+      "C": "Water vascular system",
+      "D": "Hooks and suckers"
+    },
+    "correct_answer": "D",
+    "explanation": "Parasitic flatworms have hooks and suckers."
+  },
+  {
+    "source_sentence": "Planaria regeneration.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Which flatworm regenerates complete organism from fragments?",
+    "options": {
+      "A": "Planaria",
+      "B": "Fasciola",
+      "C": "Taenia",
+      "D": "Wuchereria"
+    },
+    "correct_answer": "A",
+    "explanation": "Planaria shows high regeneration capacity."
+  },
+  {
+    "source_sentence": "Taenia is endoparasite.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Tapeworm (Taenia) is:",
+    "options": {
+      "A": "Free-living aquatic",
+      "B": "Endoparasite",
+      "C": "Marine sessile",
+      "D": "Terrestrial annelid"
+    },
+    "correct_answer": "B",
+    "explanation": "Taenia is endoparasitic flatworm."
+  },
+  {
+    "source_sentence": "Internal fertilisation in platyhelminthes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Internal fertilisation with larval stages in:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Porifera",
+      "C": "Echinodermata",
+      "D": "Platyhelminthes"
+    },
+    "correct_answer": "D",
+    "explanation": "Platyhelminthes: internal fertilisation, indirect development."
+  },
+  {
+    "source_sentence": "Hermaphrodite acoelomate platyhelminthes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Hermaphroditism with acoelomate body in:",
+    "options": {
+      "A": "Platyhelminthes",
+      "B": "Aschelminthes",
+      "C": "Annelida",
+      "D": "Arthropoda"
+    },
+    "correct_answer": "A",
+    "explanation": "Platyhelminthes hermaphrodite and acoelomate."
+  },
+  {
+    "source_sentence": "Nutrient absorption through body surface.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Direct nutrient absorption through body surface in:",
+    "options": {
+      "A": "Annelids",
+      "B": "Arthropods",
+      "C": "Parasitic platyhelminthes",
+      "D": "Echinoderms"
+    },
+    "correct_answer": "C",
+    "explanation": "Some parasitic flatworms absorb nutrients from host."
+  },
+  {
+    "source_sentence": "Dorso-ventrally flattened body.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Dorso-ventrally flattened body is diagnostic of:",
+    "options": {
+      "A": "Aschelminthes",
+      "B": "Annelida",
+      "C": "Platyhelminthes",
+      "D": "Nematoda"
+    },
+    "correct_answer": "C",
+    "explanation": "Flatworms have dorso-ventrally flattened bodies."
+  },
+  {
+    "source_sentence": "Table 4.2 platyhelminthes no circulation.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Per Table 4.2, circulatory system in Platyhelminthes:",
+    "options": {
+      "A": "Open type",
+      "B": "Closed type",
+      "C": "Present with gills",
+      "D": "Absent"
+    },
+    "correct_answer": "D",
+    "explanation": "Table 4.2: circulatory system absent in Platyhelminthes."
+  },
+  {
+    "source_sentence": "Circular cross-section roundworms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Body circular in cross-section identifies:",
+    "options": {
+      "A": "Ascaris",
+      "B": "Taenia",
+      "C": "Nereis",
+      "D": "Hirudinaria"
+    },
+    "correct_answer": "A",
+    "explanation": "Aschelminthes have cylindrical body circular in cross-section."
+  },
+  {
+    "source_sentence": "Pseudocoelomate with complete gut.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Pseudocoelom with complete digestive tract in:",
+    "options": {
+      "A": "Platyhelminthes",
+      "B": "Aschelminthes",
+      "C": "Coelenterata",
+      "D": "Porifera"
+    },
+    "correct_answer": "B",
+    "explanation": "Aschelminthes pseudocoelomates with complete alimentary canal."
+  },
+  {
+    "source_sentence": "Excretory pore in roundworms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Excretory pore is feature of:",
+    "options": {
+      "A": "Platyhelminthes",
+      "B": "Annelida",
+      "C": "Aschelminthes",
+      "D": "Mollusca"
+    },
+    "correct_answer": "C",
+    "explanation": "Aschelminthes have excretory tube with excretory pore."
+  },
+  {
+    "source_sentence": "Females longer than males.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "In Aschelminthes typically:",
+    "options": {
+      "A": "Females longer",
+      "B": "Males longer",
+      "C": "Equal size",
+      "D": "Only females exist"
+    },
+    "correct_answer": "A",
+    "explanation": "Roundworm females often longer than males."
+  },
+  {
+    "source_sentence": "Wuchereria causes filariasis.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Filaria worm is:",
+    "options": {
+      "A": "Fasciola",
+      "B": "Taenia",
+      "C": "Wuchereria",
+      "D": "Pheretima"
+    },
+    "correct_answer": "C",
+    "explanation": "Wuchereria is filaria worm."
+  },
+  {
+    "source_sentence": "Ancylostoma is hookworm.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Hookworm is:",
+    "options": {
+      "A": "Ascaris",
+      "B": "Ancylostoma",
+      "C": "Wuchereria",
+      "D": "Fasciola"
+    },
+    "correct_answer": "B",
+    "explanation": "Ancylostoma is hookworm."
+  },
+  {
+    "source_sentence": "Direct or indirect development.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Direct development in some:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Aschelminthes",
+      "C": "Echinodermata only",
+      "D": "Porifera only"
+    },
+    "correct_answer": "B",
+    "explanation": "Aschelminthes development may be direct or indirect."
+  },
+  {
+    "source_sentence": "Muscular pharynx in roundworms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Well-developed muscular pharynx in:",
+    "options": {
+      "A": "Platyhelminthes",
+      "B": "Porifera",
+      "C": "Coelenterata",
+      "D": "Aschelminthes"
+    },
+    "correct_answer": "D",
+    "explanation": "Aschelminthes have muscular pharynx."
+  },
+  {
+    "source_sentence": "Free-living and parasitic roundworms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Free-living aquatic/terrestrial and parasites in:",
+    "options": {
+      "A": "Aschelminthes",
+      "B": "Platyhelminthes",
+      "C": "Annelida",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "A",
+    "explanation": "Aschelminthes include free-living and parasitic forms."
+  },
+  {
+    "source_sentence": "Dioecious aschelminthes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Separate sexes first appear in:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Platyhelminthes",
+      "C": "Porifera",
+      "D": "Aschelminthes"
+    },
+    "correct_answer": "D",
+    "explanation": "Aschelminthes first phylum with separate sexes in NCERT sequence."
+  },
+  {
+    "source_sentence": "Metameric segmentation with true coelom.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Metameric segmentation with true coelom defines:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Aschelminthes",
+      "C": "Mollusca",
+      "D": "Annelida"
+    },
+    "correct_answer": "D",
+    "explanation": "Annelids metamerically segmented coelomates."
+  },
+  {
+    "source_sentence": "Nephridia for excretion.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Nephridia found in:",
+    "options": {
+      "A": "Annelida",
+      "B": "Platyhelminthes",
+      "C": "Aschelminthes",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "A",
+    "explanation": "Annelids have nephridia for osmoregulation and excretion."
+  },
+  {
+    "source_sentence": "Parapodia in Nereis.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Parapodia for swimming in:",
+    "options": {
+      "A": "Pheretima",
+      "B": "Ascaris",
+      "C": "Hirudinaria",
+      "D": "Nereis"
+    },
+    "correct_answer": "D",
+    "explanation": "Aquatic Nereis has parapodia."
+  },
+  {
+    "source_sentence": "Double ventral nerve cord.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Double ventral nerve cord with paired ganglia in:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Echinodermata",
+      "C": "Mollusca",
+      "D": "Annelida"
+    },
+    "correct_answer": "D",
+    "explanation": "Annelid nervous system has paired ganglia and double ventral nerve cord."
+  },
+  {
+    "source_sentence": "Nereis dioecious; earthworm monoecious.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Dioecious annelid is:",
+    "options": {
+      "A": "Pheretima",
+      "B": "Hirudinaria",
+      "C": "Both Pheretima and Hirudinaria",
+      "D": "Nereis"
+    },
+    "correct_answer": "D",
+    "explanation": "Nereis dioecious; earthworm and leech monoecious."
+  },
+  {
+    "source_sentence": "Hirudinaria blood-sucking leech.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Blood-sucking leech is:",
+    "options": {
+      "A": "Nereis",
+      "B": "Pheretima",
+      "C": "Hirudinaria",
+      "D": "Ancylostoma"
+    },
+    "correct_answer": "C",
+    "explanation": "Hirudinaria is blood-sucking leech."
+  },
+  {
+    "source_sentence": "Closed circulation in annelids.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Closed circulatory system first appears in:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Chordata",
+      "C": "Mollusca",
+      "D": "Annelida"
+    },
+    "correct_answer": "D",
+    "explanation": "Annelids have closed circulatory system."
+  },
+  {
+    "source_sentence": "Longitudinal and circular muscles.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Earthworm locomotion uses:",
+    "options": {
+      "A": "Jointed appendages",
+      "B": "Comb plates",
+      "C": "Longitudinal and circular muscles",
+      "D": "Tube feet only"
+    },
+    "correct_answer": "C",
+    "explanation": "Annelids use longitudinal and circular muscles."
+  },
+  {
+    "source_sentence": "Pheretima terrestrial earthworm.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Pheretima is:",
+    "options": {
+      "A": "Terrestrial earthworm",
+      "B": "Marine annelid with parapodia",
+      "C": "Parasitic roundworm",
+      "D": "Freshwater sponge"
+    },
+    "correct_answer": "A",
+    "explanation": "Pheretima is common earthworm."
+  },
+  {
+    "source_sentence": "Table 4.2 annelida no respiration.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Per Table 4.2, respiratory system in Annelida:",
+    "options": {
+      "A": "Gills present",
+      "B": "Trachea present",
+      "C": "Absent",
+      "D": "Book lungs present"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 4.2: respiratory system absent in Annelida."
+  },
+  {
+    "source_sentence": "Segmentation like rings.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Body segmentation like rings is distinctive of:",
+    "options": {
+      "A": "Annelida",
+      "B": "Arthropoda",
+      "C": "Mollusca",
+      "D": "Aschelminthes"
+    },
+    "correct_answer": "A",
+    "explanation": "Table 4.2 distinctive feature of Annelida."
+  },
+  {
+    "source_sentence": "Match parapodia to Annelida.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Parapodia are locomotory structures of:",
+    "options": {
+      "A": "Mollusca",
+      "B": "Arthropoda",
+      "C": "Annelida",
+      "D": "Echinodermata"
+    },
+    "correct_answer": "C",
+    "explanation": "Parapodia are lateral appendages of Nereis."
+  },
+  {
+    "source_sentence": "Largest phylum Arthropoda.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Largest phylum of Animalia:",
+    "options": {
+      "A": "Mollusca",
+      "B": "Chordata",
+      "C": "Arthropoda",
+      "D": "Annelida"
+    },
+    "correct_answer": "C",
+    "explanation": "Arthropoda largest with over two-thirds of named species."
+  },
+  {
+    "source_sentence": "Chitinous exoskeleton and jointed appendages.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Chitinous exoskeleton and jointed appendages in:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Mollusca",
+      "C": "Echinodermata",
+      "D": "Annelida"
+    },
+    "correct_answer": "A",
+    "explanation": "Arthropods: chitinous exoskeleton, jointed appendages."
+  },
+  {
+    "source_sentence": "Book lungs in scorpions.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Book lungs are respiratory organs of:",
+    "options": {
+      "A": "Prawns",
+      "B": "Scorpions",
+      "C": "Earthworms",
+      "D": "Pila"
+    },
+    "correct_answer": "B",
+    "explanation": "Arthropods: gills, book gills, book lungs, trachea."
+  },
+  {
+    "source_sentence": "Malpighian tubules excretion.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Malpighian tubules excrete in:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Annelida",
+      "C": "Mollusca",
+      "D": "Platyhelminthes"
+    },
+    "correct_answer": "A",
+    "explanation": "Arthropods excrete via malpighian tubules."
+  },
+  {
+    "source_sentence": "Limulus living fossil.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "King crab (living fossil):",
+    "options": {
+      "A": "Apis",
+      "B": "Locusta",
+      "C": "Limulus",
+      "D": "Bombyx"
+    },
+    "correct_answer": "C",
+    "explanation": "Limulus is king crab living fossil."
+  },
+  {
+    "source_sentence": "Anopheles malaria vector.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Malaria vector mosquito:",
+    "options": {
+      "A": "Culex",
+      "B": "Apis",
+      "C": "Aedes",
+      "D": "Anopheles"
+    },
+    "correct_answer": "D",
+    "explanation": "Anopheles transmits malaria."
+  },
+  {
+    "source_sentence": "Bombyx silkworm.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Silkworm is:",
+    "options": {
+      "A": "Apis",
+      "B": "Locusta",
+      "C": "Laccifer",
+      "D": "Bombyx"
+    },
+    "correct_answer": "D",
+    "explanation": "Bombyx is silkworm."
+  },
+  {
+    "source_sentence": "Head thorax abdomen.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Head, thorax, abdomen body plan in:",
+    "options": {
+      "A": "Mollusca",
+      "B": "Arthropoda",
+      "C": "Echinodermata",
+      "D": "Platyhelminthes"
+    },
+    "correct_answer": "B",
+    "explanation": "Arthropod body: head, thorax, abdomen."
+  },
+  {
+    "source_sentence": "Compound eyes and antennae.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Compound eyes and antennae in:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Mollusca",
+      "C": "Annelida",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "A",
+    "explanation": "Arthropods have antennae, compound/simple eyes."
+  },
+  {
+    "source_sentence": "Locusta gregarious pest.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Desert locust gregarious pest:",
+    "options": {
+      "A": "Anopheles",
+      "B": "Limulus",
+      "C": "Apis",
+      "D": "Locusta"
+    },
+    "correct_answer": "D",
+    "explanation": "Locusta is gregarious locust pest."
+  },
+  {
+    "source_sentence": "Internal fertilisation oviparous arthropods.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Internal fertilisation, mostly oviparous in:",
+    "options": {
+      "A": "Amphibia",
+      "B": "Arthropoda",
+      "C": "Osteichthyes",
+      "D": "Cyclostomata"
+    },
+    "correct_answer": "B",
+    "explanation": "Arthropods: internal fertilisation, mostly oviparous."
+  },
+  {
+    "source_sentence": "Open circulation haemocoel.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Haemocoel with open circulation in:",
+    "options": {
+      "A": "Annelida",
+      "B": "Chordata",
+      "C": "Arthropoda",
+      "D": "Mollusca"
+    },
+    "correct_answer": "C",
+    "explanation": "Arthropods have open circulatory system."
+  },
+  {
+    "source_sentence": "Second largest phylum Mollusca.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Second largest animal phylum:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Echinodermata",
+      "C": "Chordata",
+      "D": "Mollusca"
+    },
+    "correct_answer": "D",
+    "explanation": "Mollusca second largest after Arthropoda."
+  },
+  {
+    "source_sentence": "Mantle cavity with gills.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Mantle cavity with gills in:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Echinodermata",
+      "C": "Mollusca",
+      "D": "Annelida"
+    },
+    "correct_answer": "C",
+    "explanation": "Molluscs have mantle cavity with feather-like gills."
+  },
+  {
+    "source_sentence": "Radula rasping organ.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Radula feeding organ of:",
+    "options": {
+      "A": "Mollusca",
+      "B": "Arthropoda",
+      "C": "Echinodermata",
+      "D": "Chordata"
+    },
+    "correct_answer": "A",
+    "explanation": "Molluscs have file-like radula."
+  },
+  {
+    "source_sentence": "Octopus devil fish no shell.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Devil fish without calcareous shell:",
+    "options": {
+      "A": "Pila",
+      "B": "Pinctada",
+      "C": "Octopus",
+      "D": "Dentalium"
+    },
+    "correct_answer": "C",
+    "explanation": "Octopus lacks external shell."
+  },
+  {
+    "source_sentence": "Pinctada pearl oyster.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Pearl oyster is:",
+    "options": {
+      "A": "Pila",
+      "B": "Aplysia",
+      "C": "Sepia",
+      "D": "Pinctada"
+    },
+    "correct_answer": "D",
+    "explanation": "Pinctada is pearl oyster."
+  },
+  {
+    "source_sentence": "Unsegmented coelomate with shell.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Unsegmented coelomate, external shell usually present:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Annelida",
+      "C": "Mollusca",
+      "D": "Platyhelminthes"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 4.2: Mollusca unsegmented with shell."
+  },
+  {
+    "source_sentence": "Sepia cuttlefish.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Cuttlefish is:",
+    "options": {
+      "A": "Loligo",
+      "B": "Octopus",
+      "C": "Sepia",
+      "D": "Pila"
+    },
+    "correct_answer": "C",
+    "explanation": "Sepia is cuttlefish."
+  },
+  {
+    "source_sentence": "Mollusca unsegmented.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Per Table 4.2, segmentation in Mollusca:",
+    "options": {
+      "A": "Absent",
+      "B": "Present metameric",
+      "C": "Only in larva",
+      "D": "Only in foot"
+    },
+    "correct_answer": "A",
+    "explanation": "Mollusca body unsegmented."
+  },
+  {
+    "source_sentence": "Match radula to Mollusca.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Radula characteristic of:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Annelida",
+      "C": "Mollusca",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "C",
+    "explanation": "Radula is molluscan feeding organ."
+  },
+  {
+    "source_sentence": "Mantle gills respiratory excretory.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Mantle cavity gills serve:",
+    "options": {
+      "A": "Only locomotion",
+      "B": "Only digestion",
+      "C": "Respiration and excretion",
+      "D": "Only reproduction"
+    },
+    "correct_answer": "C",
+    "explanation": "Molluscan gills have respiratory and excretory functions."
+  },
+  {
+    "source_sentence": "Tube feet via water vascular system.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Tube feet connected to water vascular system in:",
+    "options": {
+      "A": "Mollusca",
+      "B": "Pila",
+      "C": "Nereis",
+      "D": "Asterias"
+    },
+    "correct_answer": "D",
+    "explanation": "Star fish uses water vascular system with tube feet."
+  },
+  {
+    "source_sentence": "Calcareous ossicles spiny skin.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Spiny skin with calcareous ossicles:",
+    "options": {
+      "A": "Mollusca",
+      "B": "Arthropoda",
+      "C": "Echinodermata",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "C",
+    "explanation": "Echinoderms have calcareous ossicles."
+  },
+  {
+    "source_sentence": "All echinoderms marine.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Star fish (Asterias) is:",
+    "options": {
+      "A": "Freshwater",
+      "B": "Parasitic flatworm",
+      "C": "Terrestrial arthropod",
+      "D": "Marine echinoderm"
+    },
+    "correct_answer": "D",
+    "explanation": "All echinoderms exclusively marine."
+  },
+  {
+    "source_sentence": "No excretory system in echinoderms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Animals WITHOUT excretory system include:",
+    "options": {
+      "A": "Annelida",
+      "B": "Echinodermata",
+      "C": "Mollusca",
+      "D": "Chordata"
+    },
+    "correct_answer": "B",
+    "explanation": "Echinoderms lack distinct excretory system."
+  },
+  {
+    "source_sentence": "Mouth ventral anus dorsal.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "In echinoderms mouth is on:",
+    "options": {
+      "A": "Dorsal side",
+      "B": "Ventral side",
+      "C": "Lateral only",
+      "D": "Absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Mouth ventral, anus dorsal in echinoderms."
+  },
+  {
+    "source_sentence": "External fertilisation echinoderms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "External fertilisation with free-swimming larva:",
+    "options": {
+      "A": "Reptilia",
+      "B": "Echinodermata",
+      "C": "Mammalia",
+      "D": "Arthropoda"
+    },
+    "correct_answer": "B",
+    "explanation": "Echinoderms: external fertilisation, indirect development."
+  },
+  {
+    "source_sentence": "Ophiura brittle star.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Brittle star is:",
+    "options": {
+      "A": "Asterias",
+      "B": "Ophiura",
+      "C": "Echinus",
+      "D": "Cucumaria"
+    },
+    "correct_answer": "B",
+    "explanation": "Ophiura is brittle star."
+  },
+  {
+    "source_sentence": "Cucumaria sea cucumber.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Sea cucumber belongs to:",
+    "options": {
+      "A": "Mollusca",
+      "B": "Coelenterata",
+      "C": "Echinodermata",
+      "D": "Arthropoda"
+    },
+    "correct_answer": "C",
+    "explanation": "Cucumaria is echinoderm."
+  },
+  {
+    "source_sentence": "Dioecious echinoderms.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Dioecious marine animals with water vascular system:",
+    "options": {
+      "A": "Echinodermata",
+      "B": "Coelenterata",
+      "C": "Ctenophora",
+      "D": "Porifera"
+    },
+    "correct_answer": "A",
+    "explanation": "Echinoderms dioecious with water vascular system."
+  },
+  {
+    "source_sentence": "Bilateral larva radial adult.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Secondary radial symmetry in adults, bilateral larva:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Annelida",
+      "C": "Ctenophora",
+      "D": "Echinodermata"
+    },
+    "correct_answer": "D",
+    "explanation": "Echinoderm larvae bilateral; adults radial."
+  },
+  {
+    "source_sentence": "Stomochord in collar.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Stomochord found in:",
+    "options": {
+      "A": "Hemichordata",
+      "B": "Urochordata",
+      "C": "Cephalochordata",
+      "D": "Mammalia"
+    },
+    "correct_answer": "A",
+    "explanation": "Hemichordates have stomochord in collar."
+  },
+  {
+    "source_sentence": "Proboscis collar trunk.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Proboscis, collar, trunk body plan:",
+    "options": {
+      "A": "Annelida",
+      "B": "Hemichordata",
+      "C": "Aschelminthes",
+      "D": "Mollusca"
+    },
+    "correct_answer": "B",
+    "explanation": "Hemichordate body: proboscis, collar, trunk."
+  },
+  {
+    "source_sentence": "Proboscis gland excretion.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Proboscis gland excretes in:",
+    "options": {
+      "A": "Hemichordata",
+      "B": "Echinodermata",
+      "C": "Arthropoda",
+      "D": "Platyhelminthes"
+    },
+    "correct_answer": "A",
+    "explanation": "Hemichordates excrete through proboscis gland."
+  },
+  {
+    "source_sentence": "Balanoglossus example.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Balanoglossus is:",
+    "options": {
+      "A": "Urochordata",
+      "B": "Hemichordata",
+      "C": "Cephalochordata",
+      "D": "Cyclostomata"
+    },
+    "correct_answer": "B",
+    "explanation": "Balanoglossus is hemichordate."
+  },
+  {
+    "source_sentence": "Separate phylum non-chordata.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Hemichordata currently classified as:",
+    "options": {
+      "A": "Subphylum of Chordata",
+      "B": "Separate phylum under non-chordata",
+      "C": "Class of Arthropoda",
+      "D": "Order of Annelida"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT places Hemichordata under non-chordates."
+  },
+  {
+    "source_sentence": "Open circulation gill respiration.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Worm-like marine coelomate, open circulation, gill respiration:",
+    "options": {
+      "A": "Annelida",
+      "B": "Platyhelminthes",
+      "C": "Hemichordata",
+      "D": "Aschelminthes"
+    },
+    "correct_answer": "C",
+    "explanation": "Hemichordates: marine coelomates with open circulation."
+  },
+  {
+    "source_sentence": "Dorsal hollow nerve cord in chordates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "All chordates possess at some stage:",
+    "options": {
+      "A": "Dorsal hollow nerve cord",
+      "B": "Ventral solid nerve cord",
+      "C": "Dorsal solid nerve cord",
+      "D": "Double ventral nerve cord"
+    },
+    "correct_answer": "A",
+    "explanation": "Chordates have dorsal hollow single CNS."
+  },
+  {
+    "source_sentence": "Table 4.1 ventral heart chordates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Per Table 4.1, heart position in chordates:",
+    "options": {
+      "A": "Dorsal",
+      "B": "Absent",
+      "C": "Ventral",
+      "D": "Lateral only"
+    },
+    "correct_answer": "C",
+    "explanation": "Chordates ventral heart; non-chordates dorsal."
+  },
+  {
+    "source_sentence": "Table 4.1 solid double ventral CNS non-chordates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Solid double ventral nerve cord in:",
+    "options": {
+      "A": "Non-chordates",
+      "B": "Chordata",
+      "C": "Vertebrata only",
+      "D": "Urochordata only"
+    },
+    "correct_answer": "A",
+    "explanation": "Non-chordates: ventral, solid, double CNS."
+  },
+  {
+    "source_sentence": "Table 4.1 post-anal tail.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Post-anal tail present in:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Chordata",
+      "C": "Mollusca",
+      "D": "Echinodermata"
+    },
+    "correct_answer": "B",
+    "explanation": "Post-anal tail is chordate character."
+  },
+  {
+    "source_sentence": "Table 4.1 pharyngeal gill slits.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Pharyngeal gill slits in:",
+    "options": {
+      "A": "Non-chordates",
+      "B": "Chordates",
+      "C": "Porifera",
+      "D": "Platyhelminthes"
+    },
+    "correct_answer": "B",
+    "explanation": "Paired pharyngeal gill slits in chordates."
+  },
+  {
+    "source_sentence": "Notochord only in larval tail urochordata.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Chordate but NOT vertebrate (notochord only in larval tail):",
+    "options": {
+      "A": "Branchiostoma",
+      "B": "Scoliodon",
+      "C": "Petromyzon",
+      "D": "Ascidia"
+    },
+    "correct_answer": "D",
+    "explanation": "Ascidia urochordate; notochord only in larval tail."
+  },
+  {
+    "source_sentence": "Ascidia and Branchiostoma protochordates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Ascidia and Branchiostoma are collectively:",
+    "options": {
+      "A": "Agnatha",
+      "B": "Protochordates",
+      "C": "Tetrapoda",
+      "D": "Gnathostomata"
+    },
+    "correct_answer": "B",
+    "explanation": "Urochordata and Cephalochordata are protochordates."
+  },
+  {
+    "source_sentence": "Persistent notochord in Branchiostoma.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Notochord persistent head to tail throughout life:",
+    "options": {
+      "A": "Branchiostoma",
+      "B": "Ascidia",
+      "C": "Salpa",
+      "D": "Doliolum"
+    },
+    "correct_answer": "A",
+    "explanation": "Cephalochordata has notochord throughout life."
+  },
+  {
+    "source_sentence": "Branchiostoma is lancelet.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Lancelet (Amphioxus) is:",
+    "options": {
+      "A": "Ascidia",
+      "B": "Balanoglossus",
+      "C": "Branchiostoma",
+      "D": "Petromyzon"
+    },
+    "correct_answer": "C",
+    "explanation": "Branchiostoma is Amphioxus/lancelet."
+  },
+  {
+    "source_sentence": "Vertebral column replaces notochord.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Notochord replaced by vertebral column in adult defines:",
+    "options": {
+      "A": "Protochordates",
+      "B": "Urochordata larvae",
+      "C": "Hemichordata",
+      "D": "Vertebrata"
+    },
+    "correct_answer": "D",
+    "explanation": "Vertebrates replace notochord with vertebral column."
+  },
+  {
+    "source_sentence": "Closed circulation post-anal tail chordates.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Closed circulation with post-anal tail in:",
+    "options": {
+      "A": "Annelida only",
+      "B": "Mollusca",
+      "C": "Arthropoda",
+      "D": "Chordata"
+    },
+    "correct_answer": "D",
+    "explanation": "Chordates have closed circulation and post-anal tail."
+  },
+  {
+    "source_sentence": "Gill slits without operculum.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Gill slits without operculum in:",
+    "options": {
+      "A": "Osteichthyes only",
+      "B": "Mammalia",
+      "C": "Cyclostomata and Chondrichthyes",
+      "D": "Aves"
+    },
+    "correct_answer": "C",
+    "explanation": "Cyclostomata and Chondrichthyes lack operculum."
+  },
+  {
+    "source_sentence": "Operculum in Osteichthyes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Operculum covering gills in:",
+    "options": {
+      "A": "Chondrichthyes",
+      "B": "Amphibia",
+      "C": "Cyclostomata",
+      "D": "Osteichthyes"
+    },
+    "correct_answer": "D",
+    "explanation": "Bony fishes have operculum over four gill pairs."
+  },
+  {
+    "source_sentence": "Agnatha Cyclostomata.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Jawless vertebrates (Agnatha) class:",
+    "options": {
+      "A": "Cyclostomata",
+      "B": "Chondrichthyes",
+      "C": "Osteichthyes",
+      "D": "Amphibia"
+    },
+    "correct_answer": "A",
+    "explanation": "Agnatha represented by Cyclostomata."
+  },
+  {
+    "source_sentence": "Pisces Chondrichthyes Osteichthyes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Classes with fins grouped under:",
+    "options": {
+      "A": "Tetrapoda",
+      "B": "Protochordata",
+      "C": "Agnatha",
+      "D": "Pisces"
+    },
+    "correct_answer": "D",
+    "explanation": "Chondrichthyes and Osteichthyes grouped under Pisces."
+  },
+  {
+    "source_sentence": "Cyclostomes jawless ectoparasites.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Jawless ectoparasite with circular sucking mouth:",
+    "options": {
+      "A": "Scoliodon",
+      "B": "Hippocampus",
+      "C": "Petromyzon",
+      "D": "Bufo"
+    },
+    "correct_answer": "C",
+    "explanation": "Petromyzon lamprey is jawless ectoparasite."
+  },
+  {
+    "source_sentence": "Cyclostomes die after spawning.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "After freshwater spawning cyclostomes:",
+    "options": {
+      "A": "Return to ocean immediately",
+      "B": "Develop exoskeleton",
+      "C": "Become terrestrial",
+      "D": "Die within few days"
+    },
+    "correct_answer": "D",
+    "explanation": "Cyclostomes die within days after spawning."
+  },
+  {
+    "source_sentence": "Myxine hagfish.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Hagfish is:",
+    "options": {
+      "A": "Myxine",
+      "B": "Petromyzon",
+      "C": "Branchiostoma",
+      "D": "Ascidia"
+    },
+    "correct_answer": "A",
+    "explanation": "Myxine is hagfish."
+  },
+  {
+    "source_sentence": "Chondrichthyes no air bladder.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Must swim constantly to avoid sinking:",
+    "options": {
+      "A": "Chondrichthyes without air bladder",
+      "B": "Osteichthyes with air bladder",
+      "C": "Aves",
+      "D": "Mammalia"
+    },
+    "correct_answer": "A",
+    "explanation": "Chondrichthyes lack air bladder."
+  },
+  {
+    "source_sentence": "Placoid scale teeth sharks.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Teeth from placoid scales in:",
+    "options": {
+      "A": "Osteichthyes",
+      "B": "Chondrichthyes",
+      "C": "Cyclostomata",
+      "D": "Amphibia"
+    },
+    "correct_answer": "B",
+    "explanation": "Chondrichthyan teeth are modified placoid scales."
+  },
+  {
+    "source_sentence": "Claspers on pelvic fins.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Claspers for internal fertilisation in:",
+    "options": {
+      "A": "Osteichthyes",
+      "B": "Cyclostomata",
+      "C": "Chondrichthyes males",
+      "D": "Amphibia"
+    },
+    "correct_answer": "C",
+    "explanation": "Male chondrichthyans have claspers."
+  },
+  {
+    "source_sentence": "Torpedo electric ray.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Electric ray is:",
+    "options": {
+      "A": "Trygon",
+      "B": "Torpedo",
+      "C": "Pristis",
+      "D": "Exocoetus"
+    },
+    "correct_answer": "B",
+    "explanation": "Torpedo has electric organs."
+  },
+  {
+    "source_sentence": "Air bladder buoyancy Osteichthyes.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Buoyancy regulation by air bladder:",
+    "options": {
+      "A": "Chondrichthyes",
+      "B": "Cyclostomata",
+      "C": "Osteichthyes",
+      "D": "Amphibia"
+    },
+    "correct_answer": "C",
+    "explanation": "Osteichthyes have air bladder."
+  },
+  {
+    "source_sentence": "Hippocampus sea horse.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Sea horse is:",
+    "options": {
+      "A": "Exocoetus",
+      "B": "Betta",
+      "C": "Catla",
+      "D": "Hippocampus"
+    },
+    "correct_answer": "D",
+    "explanation": "Hippocampus is sea horse."
+  },
+  {
+    "source_sentence": "Cloaca in Amphibia.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Common cloaca for multiple tracts in:",
+    "options": {
+      "A": "Reptilia",
+      "B": "Amphibia",
+      "C": "Aves",
+      "D": "Mammalia"
+    },
+    "correct_answer": "B",
+    "explanation": "Amphibians have cloaca."
+  },
+  {
+    "source_sentence": "Cutaneous respiration amphibians.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Cutaneous respiration with lungs in:",
+    "options": {
+      "A": "Reptilia",
+      "B": "Mammalia",
+      "C": "Aves",
+      "D": "Amphibia"
+    },
+    "correct_answer": "D",
+    "explanation": "Amphibians respire via skin, lungs, gills."
+  },
+  {
+    "source_sentence": "Ichthyophis limbless.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Limbless amphibian:",
+    "options": {
+      "A": "Rana",
+      "B": "Hyla",
+      "C": "Bufo",
+      "D": "Ichthyophis"
+    },
+    "correct_answer": "D",
+    "explanation": "Ichthyophis is limbless amphibia."
+  },
+  {
+    "source_sentence": "Reptiles shed skin cast.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Snakes shed scales as:",
+    "options": {
+      "A": "Feathers",
+      "B": "Gill covers",
+      "C": "Exoskeleton annually",
+      "D": "Skin cast"
+    },
+    "correct_answer": "D",
+    "explanation": "Reptiles shed scales as skin cast."
+  },
+  {
+    "source_sentence": "Four-chambered heart crocodiles.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Four-chambered heart in reptiles found in:",
+    "options": {
+      "A": "Naja",
+      "B": "Crocodilus",
+      "C": "Hemidactylus",
+      "D": "Chameleon"
+    },
+    "correct_answer": "B",
+    "explanation": "Crocodiles have 4-chambered heart."
+  },
+  {
+    "source_sentence": "Tympanum in amphibia reptilia.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Tympanum as ear in:",
+    "options": {
+      "A": "Mammalia only",
+      "B": "Amphibia and Reptilia",
+      "C": "Aves only",
+      "D": "Pisces only"
+    },
+    "correct_answer": "B",
+    "explanation": "Amphibians and reptiles have tympanum."
+  },
+  {
+    "source_sentence": "Pneumatic bones birds homoiothermous.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Warm-blooded with pneumatic hollow bones:",
+    "options": {
+      "A": "Aves",
+      "B": "Reptilia",
+      "C": "Amphibia",
+      "D": "Chondrichthyes"
+    },
+    "correct_answer": "A",
+    "explanation": "Birds homoiothermous with pneumatic bones."
+  },
+  {
+    "source_sentence": "Crop and gizzard birds.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Gizzard in digestive tract of:",
+    "options": {
+      "A": "Aves",
+      "B": "Mammalia",
+      "C": "Reptilia",
+      "D": "Amphibia"
+    },
+    "correct_answer": "A",
+    "explanation": "Birds have crop and gizzard."
+  },
+  {
+    "source_sentence": "Mammary glands mammals.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Milk-producing glands unique to:",
+    "options": {
+      "A": "Mammalia",
+      "B": "Aves",
+      "C": "Reptilia",
+      "D": "Amphibia"
+    },
+    "correct_answer": "A",
+    "explanation": "Mammary glands unique to mammals."
+  },
+  {
+    "source_sentence": "Ornithorhynchus oviparous mammal.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Oviparous mammal:",
+    "options": {
+      "A": "Macropus",
+      "B": "Pteropus",
+      "C": "Ornithorhynchus",
+      "D": "Balaenoptera"
+    },
+    "correct_answer": "C",
+    "explanation": "Ornithorhynchus platypus is oviparous."
+  },
+  {
+    "source_sentence": "Poikilotherms pisces amphibia reptilia.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Cold-blooded vertebrates include:",
+    "options": {
+      "A": "Aves and Mammalia",
+      "B": "Aves only",
+      "C": "Mammalia only",
+      "D": "Pisces, Amphibia and Reptilia"
+    },
+    "correct_answer": "D",
+    "explanation": "Fishes, amphibians, reptiles are poikilotherms."
+  },
+  {
+    "source_sentence": "Table 4.2 annelida segmentation no respiration.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Per Table 4.2, ONLY phylum with segmentation present AND respiratory absent:",
+    "options": {
+      "A": "Annelida",
+      "B": "Arthropoda",
+      "C": "Chordata",
+      "D": "Mollusca"
+    },
+    "correct_answer": "A",
+    "explanation": "Annelida has segmentation but no respiratory system."
+  },
+  {
+    "source_sentence": "Table 4.2 porifera all systems absent.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Cellular organisation with digestive, circulatory, respiratory ALL absent:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Platyhelminthes",
+      "C": "Ctenophora",
+      "D": "Porifera"
+    },
+    "correct_answer": "D",
+    "explanation": "Porifera per Table 4.2."
+  },
+  {
+    "source_sentence": "Table 4.2 arthropoda all present.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Segmentation, complete digestion, circulation AND respiration all present:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Annelida",
+      "C": "Platyhelminthes",
+      "D": "Coelenterata"
+    },
+    "correct_answer": "A",
+    "explanation": "Arthropoda has all systems present."
+  },
+  {
+    "source_sentence": "Match comb plates Ctenophora.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Match: Comb plates →",
+    "options": {
+      "A": "Ctenophora",
+      "B": "Porifera",
+      "C": "Annelida",
+      "D": "Mollusca"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT match: Comb plates — Ctenophora."
+  },
+  {
+    "source_sentence": "Match choanocytes Porifera.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Match: Choanocytes →",
+    "options": {
+      "A": "Mollusca",
+      "B": "Porifera",
+      "C": "Reptilia",
+      "D": "Ctenophora"
+    },
+    "correct_answer": "B",
+    "explanation": "Choanocytes in Porifera."
+  },
+  {
+    "source_sentence": "Match hairs Mammalia.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Match: Hairs →",
+    "options": {
+      "A": "Aves",
+      "B": "Mammalia",
+      "C": "Reptilia",
+      "D": "Amphibia"
+    },
+    "correct_answer": "B",
+    "explanation": "Hair unique to Mammalia."
+  },
+  {
+    "source_sentence": "Match scales Reptilia.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Dry cornified scales match for:",
+    "options": {
+      "A": "Osteichthyes cycloid",
+      "B": "Reptilia",
+      "C": "Mollusca shell",
+      "D": "Echinoderm ossicles"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT match: Scales — Reptilia."
+  },
+  {
+    "source_sentence": "Trap diploblastic cnidoblasts.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Diploblastic, radial, cnidoblasts — phylum:",
+    "options": {
+      "A": "Coelenterata",
+      "B": "Ctenophora",
+      "C": "Porifera",
+      "D": "Echinodermata"
+    },
+    "correct_answer": "A",
+    "explanation": "Cnidoblasts distinguish Coelenterata from Ctenophora."
+  },
+  {
+    "source_sentence": "Trap pseudocoelomate dioecious.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Triploblastic pseudocoelomate dioecious parasite:",
+    "options": {
+      "A": "Ascaris",
+      "B": "Taenia",
+      "C": "Fasciola",
+      "D": "Nereis"
+    },
+    "correct_answer": "A",
+    "explanation": "Ascaris fits all features."
+  },
+  {
+    "source_sentence": "Trap cartilaginous fish.",
+    "chapter": "Chapter 4: Animal Kingdom",
+    "question": "Cartilaginous skeleton, ventral mouth, placoid scales:",
+    "options": {
+      "A": "Osteichthyes",
+      "B": "Amphibia",
+      "C": "Cyclostomata",
+      "D": "Chondrichthyes"
+    },
+    "correct_answer": "D",
+    "explanation": "Chondrichthyes characteristics."
+  }
+]

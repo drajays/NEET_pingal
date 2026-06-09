@@ -1,0 +1,938 @@
+[
+  {
+    "source_sentence": "On the basis of their structure and location, there are three types of tissue systems",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Three tissue systems in flowering plants are:",
+    "options": {
+      "A": "Epidermal, ground and vascular",
+      "B": "Xylem, phloem and cambium only",
+      "C": "Meristem, cork and phelloderm",
+      "D": "Palisade, spongy and bundle sheath only"
+    },
+    "correct_answer": "A",
+    "explanation": "Epidermal, ground and vascular tissue systems."
+  },
+  {
+    "source_sentence": "The epidermal tissue system forms the outer-most covering of the whole plant body",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Epidermal tissue system includes:",
+    "options": {
+      "A": "Epidermis, stomata, trichomes and hairs",
+      "B": "Only xylem vessels",
+      "C": "Endodermis and pericycle only",
+      "D": "Cambium and pith"
+    },
+    "correct_answer": "A",
+    "explanation": "Epidermal system: epidermis, stomata, trichomes, hairs."
+  },
+  {
+    "source_sentence": "Cuticle is absent in roots",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Waxy cuticle preventing water loss is typically absent in:",
+    "options": {
+      "A": "Leaf epidermis",
+      "B": "Root epidermis",
+      "C": "Stem epidermis",
+      "D": "Fruit epicarp"
+    },
+    "correct_answer": "B",
+    "explanation": "Cuticle absent in roots."
+  },
+  {
+    "source_sentence": "stomatal aperture, guard cells and the surrounding subsidiary cells are together called stomatal apparatus",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Stomatal apparatus consists of:",
+    "options": {
+      "A": "Guard cells, subsidiary cells and stomatal pore",
+      "B": "Only guard cells",
+      "C": "Endodermis and casparian strip",
+      "D": "Trichome and cuticle"
+    },
+    "correct_answer": "A",
+    "explanation": "Stomatal apparatus = pore + guard + subsidiary cells."
+  },
+  {
+    "source_sentence": "root hairs are unicellular elongations of the epidermal cells",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Root hairs differ from stem trichomes in being:",
+    "options": {
+      "A": "Usually multicellular on stem",
+      "B": "Unicellular epidermal elongations aiding absorption",
+      "C": "Lignified sclereids",
+      "D": "Suberised cork cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Root hairs: unicellular; stem trichomes usually multicellular."
+  },
+  {
+    "source_sentence": "ground tissue consists of thin-walled chloroplast containing cells and is called mesophyll",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Mesophyll in leaves is part of:",
+    "options": {
+      "A": "Ground tissue system",
+      "B": "Vascular cambium",
+      "C": "Epidermal cuticle",
+      "D": "Periderm"
+    },
+    "correct_answer": "A",
+    "explanation": "Leaf ground tissue = chlorophyllous mesophyll."
+  },
+  {
+    "source_sentence": "open vascular bundles because of the presence of cambium",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Open vascular bundles occur in dicot stems because:",
+    "options": {
+      "A": "Cambium present between xylem and phloem",
+      "B": "No cambium; bundles closed",
+      "C": "Only phloem present",
+      "D": "Radial arrangement in stem"
+    },
+    "correct_answer": "A",
+    "explanation": "Open bundles have interfascicular cambium."
+  },
+  {
+    "source_sentence": "monocotyledons, the vascular bundles have no cambium present in them. Hence they are referred to as closed",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Monocot stem vascular bundles are closed meaning:",
+    "options": {
+      "A": "No cambium; no secondary growth in bundles",
+      "B": "Xylem outside phloem",
+      "C": "Bundles in a ring",
+      "D": "Only protoxylem present"
+    },
+    "correct_answer": "A",
+    "explanation": "Closed bundles lack cambium."
+  },
+  {
+    "source_sentence": "radial such as in roots. In conjoint type xylem and phloem are jointly situated along the same radius",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Radial vascular bundles with alternate xylem and phloem on different radii occur in:",
+    "options": {
+      "A": "Dicot stem",
+      "B": "Root",
+      "C": "Monocot leaf mesophyll",
+      "D": "Fruit pericarp"
+    },
+    "correct_answer": "B",
+    "explanation": "Roots show radial vascular bundles."
+  },
+  {
+    "source_sentence": "conjoint vascular bundles usually have the phloem located only on the outer side of xylem",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "In conjoint collateral bundles of stem, phloem lies:",
+    "options": {
+      "A": "Interior to xylem on same radius",
+      "B": "Only on outer side of xylem",
+      "C": "Surrounding xylem on all sides",
+      "D": "Absent in stems"
+    },
+    "correct_answer": "B",
+    "explanation": "Collateral: phloem outside xylem."
+  },
+  {
+    "source_sentence": "outermost layer is epiblema. Many of the cells of epiblema protrude in the form of unicellular root hairs",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "In dicot root T.S., outermost layer bearing root hairs is:",
+    "options": {
+      "A": "Epiblema (piliferous layer)",
+      "B": "Endodermis",
+      "C": "Pericycle",
+      "D": "Cortex parenchyma"
+    },
+    "correct_answer": "A",
+    "explanation": "Epiblema bears unicellular root hairs."
+  },
+  {
+    "source_sentence": "tangential as well as radial walls of the endodermal cells have a deposition of water-impermeable, waxy material suberin in the form of casparian strips",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Casparian strips in endodermis are suberin deposits on:",
+    "options": {
+      "A": "Tangential and radial walls",
+      "B": "Only outer tangential wall of leaf",
+      "C": "Xylem vessels",
+      "D": "Phloem sieve tubes"
+    },
+    "correct_answer": "A",
+    "explanation": "Casparian strip: suberin on radial and tangential walls."
+  },
+  {
+    "source_sentence": "there are usually more than six (polyarch) xylem bundles in the monocot root. Pith is large and well developed",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Monocot root differs from dicot root in having:",
+    "options": {
+      "A": "Polyarch xylem and large pith",
+      "B": "Casparian strip absent",
+      "C": "No epidermis",
+      "D": "Open vascular bundles with cambium"
+    },
+    "correct_answer": "A",
+    "explanation": "Monocot root: polyarch xylem, large pith."
+  },
+  {
+    "source_sentence": "ring arrangement of vascular bundles is a characteristic of dicot stem",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Ring arrangement of vascular bundles identifies:",
+    "options": {
+      "A": "Young dicot stem T.S.",
+      "B": "Monocot stem T.S.",
+      "C": "Root only",
+      "D": "Fruit wall"
+    },
+    "correct_answer": "A",
+    "explanation": "Dicot stem: vascular bundles in a ring."
+  },
+  {
+    "source_sentence": "Each vascular bundle is conjoint, open, and with endarch protoxylem",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dicot stem vascular bundle is endarch meaning:",
+    "options": {
+      "A": "Protoxylem towards centre, metaxylem peripheral",
+      "B": "Protoxylem peripheral, metaxylem inner",
+      "C": "Only phloem present",
+      "D": "Radial arrangement"
+    },
+    "correct_answer": "B",
+    "explanation": "Endarch: protoxylem on outer side of xylem."
+  },
+  {
+    "source_sentence": "endodermis are rich in starch grains and the layer is also referred to as the starch sheath",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Starch sheath in dicot stem is:",
+    "options": {
+      "A": "Innermost cortical endodermis",
+      "B": "Epidermal cuticle",
+      "C": "Pith parenchyma",
+      "D": "Bundle sheath of leaf"
+    },
+    "correct_answer": "A",
+    "explanation": "Stem endodermis = starch sheath."
+  },
+  {
+    "source_sentence": "monocot stem has a sclerenchymatous hypodermis, a large number of scattered vascular bundles",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Scattered vascular bundles throughout ground tissue indicate:",
+    "options": {
+      "A": "Monocot stem",
+      "B": "Dicot root",
+      "C": "Dicot leaf midrib only",
+      "D": "Epidermis"
+    },
+    "correct_answer": "A",
+    "explanation": "Monocot stem: scattered bundles."
+  },
+  {
+    "source_sentence": "Vascular bundles are conjoint and closed. Peripheral vascular bundles are generally smaller",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "In monocot stem T.S., vascular bundles are:",
+    "options": {
+      "A": "Conjoint, closed, scattered; peripheral smaller",
+      "B": "Open with cambium in ring",
+      "C": "Radial only",
+      "D": "Absent in ground tissue"
+    },
+    "correct_answer": "A",
+    "explanation": "Monocot stem bundles: conjoint closed scattered."
+  },
+  {
+    "source_sentence": "phloem parenchyma is absent, and water-containing cavities are present within the vascular bundles",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Monocot stem vascular bundle often lacks:",
+    "options": {
+      "A": "Phloem parenchyma",
+      "B": "Xylem vessels only",
+      "C": "Sieve tubes only",
+      "D": "Bundle sheath"
+    },
+    "correct_answer": "A",
+    "explanation": "Phloem parenchyma absent in monocot stem bundles."
+  },
+  {
+    "source_sentence": "abaxial epidermis generally bears more stomata than the adaxial epidermis",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "In dorsiventral dicot leaf, more stomata are on:",
+    "options": {
+      "A": "Adaxial (upper) epidermis",
+      "B": "Abaxial (lower) epidermis",
+      "C": "Midrib only upper side",
+      "D": "Absent on both"
+    },
+    "correct_answer": "B",
+    "explanation": "Lower epidermis generally has more stomata."
+  },
+  {
+    "source_sentence": "palisade parenchyma and the spongy parenchyma",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dorsiventral leaf mesophyll is differentiated into:",
+    "options": {
+      "A": "Palisade (adaxial) and spongy (abaxial) parenchyma",
+      "B": "Uniform isobilateral cells",
+      "C": "Only sclerenchyma",
+      "D": "Bulliform cells only"
+    },
+    "correct_answer": "A",
+    "explanation": "Dicot dorsiventral: palisade + spongy."
+  },
+  {
+    "source_sentence": "isobilateral leaf, the stomata are present on both the surfaces of the epidermis; and the mesophyll is not differentiated",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Isobilateral monocot leaf has:",
+    "options": {
+      "A": "Stomata on both surfaces; undifferentiated mesophyll",
+      "B": "Stomata only abaxial; palisade and spongy",
+      "C": "No stomata",
+      "D": "Reticulate venation only"
+    },
+    "correct_answer": "A",
+    "explanation": "Isobilateral leaf characteristics."
+  },
+  {
+    "source_sentence": "bulliform cells. When the bulliform cells in the leaves have absorbed water and are turgid, the leaf surface is exposed",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Bulliform cells in grass leaves help in:",
+    "options": {
+      "A": "Rolling/unrolling leaves during water stress to reduce transpiration",
+      "B": "Photosynthesis only",
+      "C": "Xylem transport",
+      "D": "Pollen production"
+    },
+    "correct_answer": "A",
+    "explanation": "Bulliform cells regulate leaf rolling."
+  },
+  {
+    "source_sentence": "vascular bundles are surrounded by a layer of thick walled bundle sheath cells",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Bundle sheath in leaf surrounds:",
+    "options": {
+      "A": "Vascular bundles in veins",
+      "B": "Stomatal pore only",
+      "C": "Root hairs",
+      "D": "Endodermis of stem"
+    },
+    "correct_answer": "A",
+    "explanation": "Thick-walled bundle sheath around leaf vascular bundles."
+  },
+  {
+    "source_sentence": "secondary growth occurs in most of the dicotyledonous roots and stems",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Which statement about plant anatomy is INCORRECT?",
+    "options": {
+      "A": "Monocot stems generally lack secondary growth",
+      "B": "Casparian strip is in root endodermis",
+      "C": "Monocot root shows extensive secondary growth with cambium ring",
+      "D": "Dicot stem bundles are in a ring"
+    },
+    "correct_answer": "C",
+    "explanation": "Monocot roots do not undergo secondary growth."
+  },
+  {
+    "source_sentence": "guard cells possess chloroplasts and regulate the opening and closing of stomata",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Which is INCORRECT about stomata?",
+    "options": {
+      "A": "Guard cells have chloroplasts",
+      "B": "Outer guard walls thin, inner walls thickened",
+      "C": "Guard cells lack chloroplasts and are dead at maturity",
+      "D": "Stomata regulate transpiration and gas exchange"
+    },
+    "correct_answer": "C",
+    "explanation": "Guard cells are living with chloroplasts."
+  },
+  {
+    "source_sentence": "transverse section shows vascular bundles conjoint scattered surrounded by sclerenchymatous bundle sheaths phloem parenchyma absent",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Given: conjoint scattered bundles with sclerenchymatous sheath, no phloem parenchyma — identify as:",
+    "options": {
+      "A": "Monocot stem",
+      "B": "Dicot stem",
+      "C": "Dicot root",
+      "D": "Dorsiventral leaf"
+    },
+    "correct_answer": "A",
+    "explanation": "Classic monocot stem anatomy (NCERT exercise)."
+  },
+  {
+    "source_sentence": "conjunctive tissue. There are usually two to four xylem and phloem patches",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dicot root typically has how many xylem patches?",
+    "options": {
+      "A": "Two to four (diarch to tetrarch common)",
+      "B": "More than six polyarch always",
+      "C": "None",
+      "D": "Only protophloem"
+    },
+    "correct_answer": "A",
+    "explanation": "Dicot root: usually 2–4 xylem patches."
+  },
+  {
+    "source_sentence": "medullary rays. A large number of rounded, parenchymatous cells occupy the central portion of the stem constitute the pith",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Radially placed parenchyma between vascular bundles in dicot stem forms:",
+    "options": {
+      "A": "Medullary rays",
+      "B": "Casparian strips",
+      "C": "Root hairs",
+      "D": "Bulliform cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Medullary rays connect pith to cortex."
+  },
+  {
+    "source_sentence": "outer hypodermis consists of collenchymatous cells which provide mechanical strength",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Collenchymatous hypodermis in young dicot stem provides:",
+    "options": {
+      "A": "Mechanical strength",
+      "B": "Water impermeable barrier like suberin",
+      "C": "Photosynthesis only",
+      "D": "Secondary xylem formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Collenchyma hypodermis gives mechanical support."
+  },
+  {
+    "source_sentence": "inner walls of guard cells towards the stomatal pore are highly thickened",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Stomatal opening mechanism relates to thickening of guard cell:",
+    "options": {
+      "A": "Inner walls towards pore",
+      "B": "Outer walls only uniformly thin",
+      "C": "Casparian strip",
+      "D": "Middle lamella of xylem"
+    },
+    "correct_answer": "A",
+    "explanation": "Inner guard walls thickened."
+  },
+  {
+    "source_sentence": "Cuticle is absent in roots",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Assertion (A): Root epidermis lacks cuticle unlike aerial parts. Reason (R): Roots absorb water; heavy cuticle would impede absorption. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "R explains absence of cuticle on roots."
+  },
+  {
+    "source_sentence": "In dicotyledonous stems, cambium is present between phloem and xylem",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Assertion (A): Dicot stem bundles are open. Reason (R): Cambium can form secondary xylem and phloem. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Cambium presence makes bundles open."
+  },
+  {
+    "source_sentence": "parenchymatous cells which lie between the xylem and the phloem are called conjunctive tissue",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Assertion (A): Conjunctive tissue occurs in dicot root between xylem and phloem patches. Reason (R): Conjunctive tissue is identical to palisade mesophyll in function. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "A true; conjunctive is parenchyma in root, not photosynthetic palisade."
+  },
+  {
+    "source_sentence": "bulliform cells when flaccid due to water stress, they make the leaves curl inwards",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Assertion (A): Grass leaves roll inward during drought. Reason (R): Flaccid bulliform cells reduce exposed leaf surface. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "R explains rolling to minimise water loss."
+  },
+  {
+    "source_sentence": "trichomes in the shoot system are usually multicellular",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Assertion (A): Stem epidermal hairs (trichomes) differ from root hairs. Reason (R): Root hairs are unicellular elongations of epiblema. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but R does not explain shoot trichome multicellularity."
+  },
+  {
+    "source_sentence": "parallel venation in monocot leaves is reflected in the near similar sizes of vascular bundles",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Assertion (A): Monocot leaf veins show similar-sized bundles in vertical sections. Reason (R): Reticulate venation of dicots shows greatly varying vein thickness and bundle size. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Parallel venation correlates with uniform bundle sizes."
+  },
+  {
+    "source_sentence": "cells are organised into tissues and in turn the tissues are organised into organs",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Organ in plant represents:",
+    "options": {
+      "A": "Tissues organised for specific function (root, stem, leaf)",
+      "B": "Single cell only",
+      "C": "Only epidermis",
+      "D": "Random cell cluster"
+    },
+    "correct_answer": "A",
+    "explanation": "Organs from organised tissues."
+  },
+  {
+    "source_sentence": "epidermis is usually single-layered",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Epidermis is typically:",
+    "options": {
+      "A": "Single-layered parenchymatous covering",
+      "B": "Multilayered cork always",
+      "C": "Absent in leaves",
+      "D": "Only in roots"
+    },
+    "correct_answer": "A",
+    "explanation": "Epidermis usually one layer."
+  },
+  {
+    "source_sentence": "stomata regulate the process of transpiration and gaseous exchange",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Stomata function in:",
+    "options": {
+      "A": "Transpiration and gas exchange",
+      "B": "Photosynthesis in guard cells only without exchange",
+      "C": "Mechanical support of stem",
+      "D": "Absorption from soil"
+    },
+    "correct_answer": "A",
+    "explanation": "Stomata: transpiration + gas exchange."
+  },
+  {
+    "source_sentence": "trichomes help in preventing water loss due to transpiration",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Trichomes on stem epidermis help:",
+    "options": {
+      "A": "Reduce transpiration; may be secretory",
+      "B": "Absorb groundwater",
+      "C": "Form casparian strip",
+      "D": "Produce pollen"
+    },
+    "correct_answer": "A",
+    "explanation": "Trichomes reduce water loss."
+  },
+  {
+    "source_sentence": "xylem and phloem together constitute vascular bundles",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Complex tissues in vascular system:",
+    "options": {
+      "A": "Xylem and phloem",
+      "B": "Parenchyma only",
+      "C": "Epidermis and cuticle",
+      "D": "Root hairs"
+    },
+    "correct_answer": "A",
+    "explanation": "Vascular = xylem + phloem."
+  },
+  {
+    "source_sentence": "cortex consists of several layers of thin-walled parenchyma cells with intercellular spaces",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dicot root cortex is:",
+    "options": {
+      "A": "Multilayered parenchyma with intercellular spaces",
+      "B": "Lignified sclerenchyma only",
+      "C": "Absent",
+      "D": "Identical to endodermis"
+    },
+    "correct_answer": "A",
+    "explanation": "Root cortex: parenchyma with spaces."
+  },
+  {
+    "source_sentence": "pith is small or inconspicuous in dicot root",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dicot root pith is:",
+    "options": {
+      "A": "Small or inconspicuous",
+      "B": "Large and well developed always",
+      "C": "Replaces xylem",
+      "D": "Outer to epidermis"
+    },
+    "correct_answer": "A",
+    "explanation": "Dicot root: small pith."
+  },
+  {
+    "source_sentence": "cambium ring develops between the xylem and phloem",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Secondary growth in dicot root involves:",
+    "options": {
+      "A": "Cambium ring between xylem and phloem",
+      "B": "No cambium ever",
+      "C": "Only endodermis division",
+      "D": "Stomatal multiplication"
+    },
+    "correct_answer": "A",
+    "explanation": "Cambium ring for secondary growth."
+  },
+  {
+    "source_sentence": "covered with a thin layer of cuticle, it may bear trichomes and a few stomata",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dicot stem epidermis may have:",
+    "options": {
+      "A": "Cuticle, trichomes, few stomata",
+      "B": "Root hairs",
+      "C": "Casparian strips",
+      "D": "Bulliform cells always"
+    },
+    "correct_answer": "A",
+    "explanation": "Stem epidermis features."
+  },
+  {
+    "source_sentence": "cortical layers below hypodermis consist of rounded thin walled parenchymatous cells",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dicot stem cortex inner to hypodermis:",
+    "options": {
+      "A": "Rounded parenchyma with intercellular spaces",
+      "B": "Palisade mesophyll",
+      "C": "Polyarch xylem",
+      "D": "Aleurone layer"
+    },
+    "correct_answer": "A",
+    "explanation": "Stem cortical parenchyma."
+  },
+  {
+    "source_sentence": "bundle sheath, and a large, conspicuous parenchymatous ground tissue",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Monocot stem ground tissue is:",
+    "options": {
+      "A": "Large parenchymatous ground tissue between bundles",
+      "B": "Only sclerenchyma",
+      "C": "Absent",
+      "D": "Restricted to pith in ring"
+    },
+    "correct_answer": "A",
+    "explanation": "Monocot: abundant ground parenchyma."
+  },
+  {
+    "source_sentence": "numerous large spaces and air cavities between these cells",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Spongy mesophyll has:",
+    "options": {
+      "A": "Large intercellular air spaces",
+      "B": "No air spaces",
+      "C": "Only sclereids",
+      "D": "Casparian strips"
+    },
+    "correct_answer": "A",
+    "explanation": "Spongy parenchyma airy."
+  },
+  {
+    "source_sentence": "palisade parenchyma is made up of elongated cells arranged vertically",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Palisade cells are adapted for photosynthesis by being:",
+    "options": {
+      "A": "Elongated, vertical, close to upper epidermis",
+      "B": "Dead and lignified",
+      "C": "On lower epidermis only",
+      "D": "Without chloroplasts"
+    },
+    "correct_answer": "A",
+    "explanation": "Palisade: vertical chlorophyllous cells."
+  },
+  {
+    "source_sentence": "size of the vascular bundles are dependent on the size of the veins",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "In dicot leaf, larger veins have:",
+    "options": {
+      "A": "Larger vascular bundles",
+      "B": "No bundles",
+      "C": "Only phloem",
+      "D": "Identical size always"
+    },
+    "correct_answer": "A",
+    "explanation": "Bundle size follows vein thickness."
+  },
+  {
+    "source_sentence": "meristematic apical lateral and intercalary and permanent simple and complex",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Meristematic tissues include:",
+    "options": {
+      "A": "Apical, lateral and intercalary",
+      "B": "Only permanent sclerenchyma",
+      "C": "Only epidermis",
+      "D": "Only xylem fibres"
+    },
+    "correct_answer": "A",
+    "explanation": "Three meristem types."
+  },
+  {
+    "source_sentence": "Assimilation of food and its storage, transportation of water, minerals and photosynthates, and mechanical support",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Plant tissue functions include:",
+    "options": {
+      "A": "Storage, transport and mechanical support",
+      "B": "Only reproduction",
+      "C": "Only secretion of nectar in all cells",
+      "D": "Only photosynthesis in roots"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple tissue functions."
+  },
+  {
+    "source_sentence": "ground tissue system forms the main bulk of the plant",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Bulk of plant body is:",
+    "options": {
+      "A": "Ground tissue system",
+      "B": "Only cuticle",
+      "C": "Only pollen grains",
+      "D": "Only root cap"
+    },
+    "correct_answer": "A",
+    "explanation": "Ground tissue predominates."
+  },
+  {
+    "source_sentence": "guard cells possess chloroplasts",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Which statement about plant epidermis is INCORRECT?",
+    "options": {
+      "A": "Most epidermal cells lack chloroplasts",
+      "B": "Guard cells contain chloroplasts",
+      "C": "Cuticle reduces water loss on aerial epidermis",
+      "D": "All epidermal cells including guard cells lack chloroplasts without exception"
+    },
+    "correct_answer": "D",
+    "explanation": "Guard cells are epidermal and have chloroplasts."
+  },
+  {
+    "source_sentence": "water-containing cavities are present within the vascular bundles",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Cavities within monocot stem bundles may contain:",
+    "options": {
+      "A": "Water",
+      "B": "Latex only",
+      "C": "Pollen",
+      "D": "Endosperm"
+    },
+    "correct_answer": "A",
+    "explanation": "Water cavities in monocot bundles."
+  },
+  {
+    "source_sentence": "sclerenchymatous bundle sheath",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Sclerenchymatous bundle sheath in monocot stem gives:",
+    "options": {
+      "A": "Mechanical protection to vascular bundle",
+      "B": "Photosynthetic products only",
+      "C": "Casparian strip",
+      "D": "Root hair formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Bundle sheath supports bundle."
+  },
+  {
+    "source_sentence": "adaxially placed palisade parenchyma",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Maximum photosynthesis in dorsiventral leaf occurs mainly in:",
+    "options": {
+      "A": "Palisade mesophyll near upper surface",
+      "B": "Lower epidermis cuticle",
+      "C": "Root cap",
+      "D": "Endodermis"
+    },
+    "correct_answer": "A",
+    "explanation": "Palisade primary photosynthetic layer."
+  },
+  {
+    "source_sentence": "Look at Figure 6.5 (a) and find the position of xylem in the vascular bundle",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "In dicot leaf vascular bundle, xylem is generally towards:",
+    "options": {
+      "A": "Upper (adaxial) side",
+      "B": "Lower side only always with phloem upper",
+      "C": "Centre of root only",
+      "D": "Outside epidermis"
+    },
+    "correct_answer": "A",
+    "explanation": "Leaf bundle: xylem adaxial, phloem abaxial."
+  },
+  {
+    "source_sentence": "endarch protoxylem in dicot stem",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Exarch condition (protoxylem peripheral) occurs in:",
+    "options": {
+      "A": "Roots typically",
+      "B": "Dicot stem bundles",
+      "C": "Monocot stem always endarch",
+      "D": "Fruit epicarp"
+    },
+    "correct_answer": "A",
+    "explanation": "Roots exarch; dicot stem endarch."
+  },
+  {
+    "source_sentence": "pericycle initiation of lateral roots",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Lateral roots originate from:",
+    "options": {
+      "A": "Pericycle",
+      "B": "Endodermis outward only without pericycle",
+      "C": "Leaf mesophyll",
+      "D": "Pollen tube"
+    },
+    "correct_answer": "A",
+    "explanation": "Pericycle gives lateral roots."
+  },
+  {
+    "source_sentence": "stele in root",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Stele in dicot root excludes:",
+    "options": {
+      "A": "Cortex and epidermis",
+      "B": "Pericycle",
+      "C": "Vascular tissue",
+      "D": "Pith when present"
+    },
+    "correct_answer": "A",
+    "explanation": "Cortex outside stele."
+  },
+  {
+    "source_sentence": "anatomically different monocots and dicots",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Anatomical differences between monocots and dicots include:",
+    "options": {
+      "A": "Type, number and location of vascular bundles",
+      "B": "Absence of cells in monocots",
+      "C": "Only flower colour",
+      "D": "Only root hairs absent in dicots"
+    },
+    "correct_answer": "A",
+    "explanation": "Vascular bundle differences key."
+  },
+  {
+    "source_sentence": "how to ascertain monocot or dicot stem under microscope",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Monocot stem identified by:",
+    "options": {
+      "A": "Scattered closed vascular bundles, sclerenchymatous hypodermis",
+      "B": "Ring of open bundles only",
+      "C": "Radial xylem-phloem alternation",
+      "D": "Palisade-spongy differentiation in stem ground tissue"
+    },
+    "correct_answer": "A",
+    "explanation": "Monocot stem diagnostic features."
+  },
+  {
+    "source_sentence": "stomata with labelled diagram exercise",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Bean-shaped guard cells illustrated in:",
+    "options": {
+      "A": "Typical dicot stomata diagram",
+      "B": "Grass stomata only",
+      "C": "Root hair",
+      "D": "Cork cell"
+    },
+    "correct_answer": "A",
+    "explanation": "Figure 6.1a bean-shaped guards."
+  },
+  {
+    "source_sentence": "diagrammatic representation stomata dumb-bell shaped guard cell",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Figure 6.1b represents stomata of:",
+    "options": {
+      "A": "Grasses",
+      "B": "Dicot only",
+      "C": "Roots",
+      "D": "Fruits"
+    },
+    "correct_answer": "A",
+    "explanation": "Dumb-bell guards in grasses."
+  },
+  {
+    "source_sentence": "three basic tissue systems names under each",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Under vascular tissue system the complex tissues are:",
+    "options": {
+      "A": "Xylem and phloem",
+      "B": "Parenchyma and collenchyma",
+      "C": "Epidermis and cuticle",
+      "D": "Meristem and cork"
+    },
+    "correct_answer": "A",
+    "explanation": "Vascular = xylem + phloem."
+  },
+  {
+    "source_sentence": "internal structure of dorsiventral leaf",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Dorsiventral leaf has three main parts in V.S.:",
+    "options": {
+      "A": "Epidermis, mesophyll, vascular system",
+      "B": "Only stele",
+      "C": "Only root hairs",
+      "D": "Endosperm, scutellum, coleoptile"
+    },
+    "correct_answer": "A",
+    "explanation": "Leaf V.S. organisation."
+  },
+  {
+    "source_sentence": "barrel-shaped cells without any intercellular spaces endodermis",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Root endodermis cells are:",
+    "options": {
+      "A": "Barrel-shaped, no intercellular spaces",
+      "B": "Tube-like with large gaps",
+      "C": "Always chlorophyllous palisade",
+      "D": "Dead cork cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Endodermis: compact barrel cells."
+  },
+  {
+    "source_sentence": "thick-walled parenchymatous cells referred to as pericycle",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Pericycle in root is:",
+    "options": {
+      "A": "Few layers thick-walled parenchyma inside endodermis",
+      "B": "Outer epidermis",
+      "C": "Mesophyll",
+      "D": "Aleurone"
+    },
+    "correct_answer": "A",
+    "explanation": "Pericycle description."
+  },
+  {
+    "source_sentence": "T.S. sunflower root dicot root",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Sunflower root T.S. exemplifies:",
+    "options": {
+      "A": "Dicot primary root anatomy",
+      "B": "Monocot stem",
+      "C": "Isobilateral leaf",
+      "D": "Fruit pericarp"
+    },
+    "correct_answer": "A",
+    "explanation": "Sunflower = dicot root example."
+  },
+  {
+    "source_sentence": "T.S. monocot root Figure 6.3 b",
+    "chapter": "Chapter 6: Anatomy of Flowering Plants",
+    "question": "Figure 6.3(b) shows:",
+    "options": {
+      "A": "Monocot root",
+      "B": "Dicot stem ring",
+      "C": "Dorsiventral leaf only",
+      "D": "Apical meristem of shoot"
+    },
+    "correct_answer": "A",
+    "explanation": "6.3b monocot root."
+  }
+]

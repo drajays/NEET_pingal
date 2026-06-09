@@ -1,0 +1,1276 @@
+[
+  {
+    "source_sentence": "The question has two implicit questions — technical (living vs non-living) and philosophical (purpose of life). As scientists, we shall not attempt answering the second question.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Scientists focus on defining what living is as opposed to non-living. Reason (R): The philosophical question about the purpose of life lies outside the scope of scientific inquiry in this chapter. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT states scientists reflect on what living is (technical) and do not attempt the philosophical purpose-of-life question; R correctly explains why the scientific focus is on the technical aspect."
+  },
+  {
+    "source_sentence": "The scope of systematics was later enlarged to include identification, nomenclature and classification. Systematics takes into account evolutionary relationships between organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Systematics has a broader scope than taxonomy alone. Reason (R): Systematics includes evolutionary relationships in addition to identification, nomenclature and classification. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Systematics was enlarged beyond early utility-based classification to include taxonomic processes and evolutionary relationships, giving it wider scope."
+  },
+  {
+    "source_sentence": "Hence, characterisation, identification, classification and nomenclature are the processes that are basic to taxonomy.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Taxonomy is limited only to the act of classification. Reason (R): Characterisation, identification, nomenclature and classification are all basic processes of taxonomy. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "D",
+    "explanation": "A is false — taxonomy is not limited to classification alone. R is true as NCERT lists four basic processes."
+  },
+  {
+    "source_sentence": "These, based on the common features like presence of notochord and dorsal hollow neural system, are included in phylum Chordata.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Man and tiger both belong to phylum Chordata. Reason (R): Chordates possess a notochord and dorsal hollow neural system. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Man (Table 1.1, Chordata) and tiger (class Mammalia, phylum Chordata) share chordate features cited in NCERT."
+  },
+  {
+    "source_sentence": "Category further denotes rank. Each rank or taxon, in fact, represents a unit of classification.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which statement about taxonomic categories is INCORRECT?",
+    "options": {
+      "A": "Taxon and taxonomic category represent a rank or unit of classification",
+      "B": "Taxonomic groups are distinct biological entities, not mere morphological aggregates",
+      "C": "A taxon can only exist at the species level",
+      "D": "Insects were given a rank because they share common features like three pairs of jointed legs"
+    },
+    "correct_answer": "C",
+    "explanation": "Taxa exist at all hierarchical levels — species, genus, family, order, class, phylum/division, kingdom."
+  },
+  {
+    "source_sentence": "Name of the author appears after the specific epithet, i.e., at the end of the biological name and is written in an abbreviated form.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which statement about author citation in scientific names is INCORRECT?",
+    "options": {
+      "A": "Author name appears after the specific epithet",
+      "B": "Author name is written in abbreviated form",
+      "C": "In Mangifera indica Linn., 'Linn.' indicates Linnaeus described the species",
+      "D": "Author name appears before the generic name"
+    },
+    "correct_answer": "D",
+    "explanation": "Author citation follows the specific epithet at the end, not before the generic name."
+  },
+  {
+    "source_sentence": "Human beings belong to the species sapiens which is grouped in the genus Homo.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which of the following is INCORRECT regarding Homo sapiens?",
+    "options": {
+      "A": "'Homo' is the genus",
+      "B": "'sapiens' is the specific epithet",
+      "C": "The name follows binomial nomenclature",
+      "D": "'sapiens' represents the genus and 'Homo' the species"
+    },
+    "correct_answer": "D",
+    "explanation": "Homo is genus (first word, capitalised); sapiens is the specific epithet (second word, lowercase)."
+  },
+  {
+    "source_sentence": "Kingdom Plantae, on the other hand, is distinct, and comprises all plants from various divisions.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which statement about kingdoms is INCORRECT?",
+    "options": {
+      "A": "Kingdom Animalia is the highest category for animals",
+      "B": "Kingdom Plantae comprises plants from various divisions",
+      "C": "Mango and wheat belong to Kingdom Plantae",
+      "D": "Housefly and mango both belong to Kingdom Animalia"
+    },
+    "correct_answer": "D",
+    "explanation": "Mango is a plant (Kingdom Plantae); housefly is an animal (Kingdom Animalia)."
+  },
+  {
+    "source_sentence": "Table 1.1 indicates the taxonomic categories to which some common organisms like housefly, man, mango and wheat belong.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Match Column I (Organism) with Column II (Class/Division level category) and select the correct combination:\nColumn I: (a) Man (b) Housefly (c) Mango (d) Wheat\nColumn II: (i) Insecta (ii) Mammalia (iii) Dicotyledonae (iv) Monocotyledonae",
+    "options": {
+      "A": "a-ii, b-i, c-iii, d-iv",
+      "B": "a-i, b-ii, c-iv, d-iii",
+      "C": "a-ii, b-i, c-iv, d-iii",
+      "D": "a-iii, b-iv, c-i, d-ii"
+    },
+    "correct_answer": "A",
+    "explanation": "Per Table 1.1: Man-Mammalia, Housefly-Insecta, Mango-Dicotyledonae, Wheat-Monocotyledonae."
+  },
+  {
+    "source_sentence": "For plants, scientific names are based on agreed principles and criteria, which are provided in International Code for Botanical Nomenclature (ICBN). Animal taxonomists have evolved International Code of Zoological Nomenclature (ICZN).",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Match the nomenclature code (Column I) with the organism (Column II):\nColumn I: (a) ICBN (b) ICZN (c) ICBN (d) ICZN\nColumn II: (i) Musca domestica (ii) Triticum aestivum (iii) Panthera leo (iv) Mangifera indica",
+    "options": {
+      "A": "a-iv, b-i, c-ii, d-iii",
+      "B": "a-ii, b-iv, c-i, d-iii",
+      "C": "a-iv, b-iii, c-ii, d-i",
+      "D": "a-i, b-ii, c-iii, d-iv"
+    },
+    "correct_answer": "A",
+    "explanation": "ICBN governs plants (mango, wheat); ICZN governs animals (housefly, lion)."
+  },
+  {
+    "source_sentence": "Table 1.1 — Man: Hominidae, Primata, Mammalia, Chordata; Housefly: Muscidae, Diptera, Insecta, Arthropoda.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Match Column I (Organism) with Column II (Order):\nColumn I: (a) Homo sapiens (b) Musca domestica (c) Mangifera indica (d) Triticum aestivum\nColumn II: (i) Poales (ii) Primata (iii) Diptera (iv) Sapindales",
+    "options": {
+      "A": "a-ii, b-iii, c-iv, d-i",
+      "B": "a-iii, b-ii, c-i, d-iv",
+      "C": "a-i, b-iv, c-iii, d-ii",
+      "D": "a-iv, b-i, c-ii, d-iii"
+    },
+    "correct_answer": "A",
+    "explanation": "Table 1.1: Man-Primata, Housefly-Diptera, Mango-Sapindales, Wheat-Poales."
+  },
+  {
+    "source_sentence": "Hence, based on characteristics, all living organisms can be classified into different taxa.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Match the process (Column I) with its definition (Column II):\nColumn I: (a) Identification (b) Nomenclature (c) Classification (d) Characterisation\nColumn II: (i) Grouping into convenient categories (ii) Correct description of organism (iii) Standardised naming worldwide (iv) Study of organism features",
+    "options": {
+      "A": "a-ii, b-iii, c-i, d-iv",
+      "B": "a-iii, b-i, c-ii, d-iv",
+      "C": "a-i, b-ii, c-iii, d-iv",
+      "D": "a-iv, b-i, c-iii, d-ii"
+    },
+    "correct_answer": "A",
+    "explanation": "Identification follows description; nomenclature is standardised naming; classification is grouping; characterisation studies features."
+  },
+  {
+    "source_sentence": "Mango: Anacardiaceae; Wheat: Poaceae.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Match Column I (Family) with Column II (Member genus from Table 1.1 or text):\nColumn I: (a) Poaceae (b) Anacardiaceae (c) Muscidae (d) Hominidae\nColumn II: (i) Triticum (ii) Mangifera (iii) Musca (iv) Homo",
+    "options": {
+      "A": "a-i, b-ii, c-iii, d-iv",
+      "B": "a-ii, b-i, c-iv, d-iii",
+      "C": "a-iii, b-iv, c-i, d-ii",
+      "D": "a-iv, b-iii, c-ii, d-i"
+    },
+    "correct_answer": "A",
+    "explanation": "Poaceae-Triticum, Anacardiaceae-Mangifera, Muscidae-Musca, Hominidae-Homo per Table 1.1."
+  },
+  {
+    "source_sentence": "Both order Primata comprising monkey, gorilla and gibbon is placed in class Mammalia along with order Carnivora.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Match Column I (Order) with Column II (Class) as per NCERT examples:\nColumn I: (a) Carnivora (b) Primata (c) Diptera (d) Poales\nColumn II: (i) Insecta (ii) Mammalia (iii) Dicotyledonae/Monocotyledonae (iv) Mammalia",
+    "options": {
+      "A": "a-ii, b-iv, c-i, d-iii",
+      "B": "a-ii, b-ii, c-i, d-iii",
+      "C": "a-i, b-ii, c-ii, d-iv",
+      "D": "a-iii, b-i, c-iv, d-ii"
+    },
+    "correct_answer": "B",
+    "explanation": "Carnivora and Primata are in Mammalia; Diptera (housefly) in Insecta; Poales contains plant families at class level Monocot/Dicot."
+  },
+  {
+    "source_sentence": "Table 1.1 — Man: Chordata; Housefly: Arthropoda.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Based on Table 1.1, man and housefly differ at the level of phylum because man belongs to Chordata while housefly belongs to:",
+    "options": {
+      "A": "Arthropoda",
+      "B": "Mollusca",
+      "C": "Annelida",
+      "D": "Echinodermata"
+    },
+    "correct_answer": "A",
+    "explanation": "Table 1.1 lists housefly under phylum Arthropoda and man under Chordata."
+  },
+  {
+    "source_sentence": "Table 1.1 — Mango: Dicotyledonae; Wheat: Monocotyledonae.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which Table 1.1 organisms are correctly paired with their class-level categories?",
+    "options": {
+      "A": "Man — Insecta; Housefly — Mammalia",
+      "B": "Mango — Dicotyledonae; Wheat — Monocotyledonae",
+      "C": "Mango — Monocotyledonae; Wheat — Dicotyledonae",
+      "D": "Man — Arthropoda; Housefly — Chordata"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 1.1: Mango is Dicotyledonae, Wheat is Monocotyledonae."
+  },
+  {
+    "source_sentence": "Table 1.1 — Man: Primata; Housefly: Diptera; Mango: Sapindales; Wheat: Poales.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "How many of the following Table 1.1 assignments are correct? Man — order Primata; Housefly — order Diptera; Mango — order Poales; Wheat — order Sapindales",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correct_answer": "B",
+    "explanation": "Man-Primata and Housefly-Diptera are correct. Mango is Sapindales (not Poales); Wheat is Poales (not Sapindales). Two correct."
+  },
+  {
+    "source_sentence": "Table 1.1 — All four organisms have genus, family, order, class, and phylum/division listed.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Among man, housefly, mango and wheat (Table 1.1), how many belong to Kingdom Plantae?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correct_answer": "B",
+    "explanation": "Mango and wheat are plants (Kingdom Plantae); man and housefly are animals."
+  },
+  {
+    "source_sentence": "Table 1.1 — Housefly: Arthropoda; Man: Chordata.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which Table 1.1 organism is an invertebrate at the phylum level?",
+    "options": {
+      "A": "Homo sapiens",
+      "B": "Musca domestica",
+      "C": "Mangifera indica",
+      "D": "Both B and C"
+    },
+    "correct_answer": "B",
+    "explanation": "Housefly (Arthropoda) is an invertebrate animal. Man is a chordate vertebrate; mango is a plant."
+  },
+  {
+    "source_sentence": "Table 1.1 — Wheat: Poaceae, Poales, Monocotyledonae, Angiospermae.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "If the taxonomic hierarchy of wheat (Table 1.1) is written as Species → Genus → Family → Order → Class → Division, which sequence is correct?",
+    "options": {
+      "A": "aestivum → Triticum → Poaceae → Poales → Monocotyledonae → Angiospermae",
+      "B": "Triticum → aestivum → Poales → Poaceae → Angiospermae → Monocotyledonae",
+      "C": "aestivum → Triticum → Poales → Poaceae → Dicotyledonae → Angiospermae",
+      "D": "Triticum → aestivum → Poaceae → Sapindales → Monocotyledonae → Angiospermae"
+    },
+    "correct_answer": "A",
+    "explanation": "Wheat: species epithet aestivum, genus Triticum, family Poaceae, order Poales, class Monocotyledonae, division Angiospermae."
+  },
+  {
+    "source_sentence": "Table 1.1 — Man: Hominidae; Housefly: Muscidae.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "The family endings '-idae' in Hominidae and Muscidae indicate that both man and housefly are:",
+    "options": {
+      "A": "Plants placed in the same division",
+      "B": "Animals placed at the family rank of classification",
+      "C": "Fungi sharing the same genus",
+      "D": "Bacteria sharing the same order"
+    },
+    "correct_answer": "B",
+    "explanation": "Both are animals; -idae denotes family rank — Hominidae (man) and Muscidae (housefly) per Table 1.1."
+  },
+  {
+    "source_sentence": "Table 1.1 — Mango: Sapindales; Wheat: Poales.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Mango and wheat share which taxonomic category according to Table 1.1?",
+    "options": {
+      "A": "Order",
+      "B": "Family",
+      "C": "Division (Angiospermae)",
+      "D": "Genus"
+    },
+    "correct_answer": "C",
+    "explanation": "Both mango and wheat belong to division Angiospermae; they differ in order, family, genus and class."
+  },
+  {
+    "source_sentence": "Table 1.1 — Man: class Mammalia; Housefly: class Insecta.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which statement comparing man and housefly from Table 1.1 is correct?",
+    "options": {
+      "A": "Both belong to the same order",
+      "B": "Both belong to class Mammalia",
+      "C": "They share the same phylum",
+      "D": "Man is in class Mammalia while housefly is in class Insecta"
+    },
+    "correct_answer": "D",
+    "explanation": "Man — Mammalia, Chordata; Housefly — Insecta, Arthropoda. They differ at class, phylum, order and family levels."
+  },
+  {
+    "source_sentence": "Table 1.1 — Mangifera indica: Anacardiaceae.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A student claims mango (Table 1.1) and potato (Solanum tuberosum, family Solanaceae) belong to the same family. This is:",
+    "options": {
+      "A": "Correct — both are angiosperms",
+      "B": "Incorrect — mango is Anacardiaceae, potato is Solanaceae",
+      "C": "Correct — both are in order Sapindales",
+      "D": "Incorrect — mango is a monocot"
+    },
+    "correct_answer": "B",
+    "explanation": "Mango family is Anacardiaceae (Table 1.1); potato is Solanaceae (text). Same division but different families."
+  },
+  {
+    "source_sentence": "Table 1.1 — Musca domestica: Diptera, Insecta, Arthropoda.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Starting from species level for housefly (Table 1.1), which is the immediate higher category?",
+    "options": {
+      "A": "Muscidae",
+      "B": "Musca",
+      "C": "Diptera",
+      "D": "domestica"
+    },
+    "correct_answer": "B",
+    "explanation": "Hierarchy: Musca domestica (species) → genus Musca → family Muscidae → order Diptera."
+  },
+  {
+    "source_sentence": "Table 1.1 — Homo sapiens: Hominidae, Primata, Mammalia, Chordata.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "How many taxonomic ranks separate genus 'Homo' from phylum 'Chordata' for man in Table 1.1?",
+    "options": {
+      "A": "Two (Family, Class)",
+      "B": "Three (Family, Order, Class)",
+      "C": "Four (Family, Order, Class, Kingdom)",
+      "D": "One (Family only)"
+    },
+    "correct_answer": "B",
+    "explanation": "Homo → Hominidae (family) → Primata (order) → Mammalia (class) → Chordata (phylum): three ranks between genus and phylum."
+  },
+  {
+    "source_sentence": "Table 1.1 — Triticum aestivum and Mangifera indica.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which feature correctly distinguishes wheat from mango using Table 1.1 alone?",
+    "options": {
+      "A": "Wheat is an animal; mango is a plant",
+      "B": "Wheat is Monocotyledonae; mango is Dicotyledonae",
+      "C": "Wheat belongs to Sapindales; mango to Poales",
+      "D": "Wheat genus is Mangifera; mango genus is Triticum"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 1.1: Wheat — Monocotyledonae, genus Triticum, order Poales; Mango — Dicotyledonae, genus Mangifera, order Sapindales."
+  },
+  {
+    "source_sentence": "Table 1.1 lists four organisms with complete taxonomic categories.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which two Table 1.1 organisms are both angiosperms but placed in different orders AND different classes?",
+    "options": {
+      "A": "Man and housefly",
+      "B": "Mango and wheat",
+      "C": "Man and mango",
+      "D": "Housefly and wheat"
+    },
+    "correct_answer": "B",
+    "explanation": "Mango (Sapindales, Dicotyledonae) and wheat (Poales, Monocotyledonae) — both Angiospermae, different order and class."
+  },
+  {
+    "source_sentence": "Table 1.1 — Musca domestica: genus Musca.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "In the binomial Musca domestica (Table 1.1), which component would be the same for all species of the genus Musca?",
+    "options": {
+      "A": "The specific epithet 'domestica'",
+      "B": "The generic name 'Musca'",
+      "C": "The family name Muscidae",
+      "D": "The order name Diptera"
+    },
+    "correct_answer": "B",
+    "explanation": "All species within genus Musca share the generic name Musca; specific epithets differ."
+  },
+  {
+    "source_sentence": "Table 1.1 — four organisms from different kingdoms/phyla.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Arrange the following Table 1.1 taxa in DECREASING order of number of shared characters among members (most shared first): (i) Species Musca domestica (ii) Order Diptera (iii) Class Insecta (iv) Phylum Arthropoda",
+    "options": {
+      "A": "i > ii > iii > iv",
+      "B": "iv > iii > ii > i",
+      "C": "i > iii > ii > iv",
+      "D": "ii > i > iii > iv"
+    },
+    "correct_answer": "A",
+    "explanation": "Lower/smaller taxa share more characters: species most, then order, class, phylum least among these."
+  },
+  {
+    "source_sentence": "Table 1.1 — Man and mango compared.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Man (Table 1.1) and mango differ at which of the following levels? Choose the most comprehensive answer.",
+    "options": {
+      "A": "Only at species level",
+      "B": "From kingdom through every category listed in Table 1.1",
+      "C": "Only at phylum/division level",
+      "D": "They share the same class"
+    },
+    "correct_answer": "B",
+    "explanation": "Man is an animal (Chordata, Mammalia); mango is a plant (Angiospermae, Dicotyledonae) — they differ at every listed rank."
+  },
+  {
+    "source_sentence": "Table 1.1 — Housefly and wheat.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A NEET aspirant groups housefly and wheat together because both names have Latin origins. Taxonomically (Table 1.1), the valid reason to separate them is:",
+    "options": {
+      "A": "They belong to different species only",
+      "B": "They belong to different kingdoms — animal vs plant",
+      "C": "They share the same phylum",
+      "D": "They belong to the same class"
+    },
+    "correct_answer": "B",
+    "explanation": "Housefly is an animal (Arthropoda); wheat is a plant (Angiospermae) — fundamental kingdom-level separation."
+  },
+  {
+    "source_sentence": "Table 1.1 — complete hierarchy for four organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which Table 1.1 organism has 'Poaceae' as its family and 'Poales' as its order?",
+    "options": {
+      "A": "Mangifera indica",
+      "B": "Triticum aestivum",
+      "C": "Homo sapiens",
+      "D": "Musca domestica"
+    },
+    "correct_answer": "B",
+    "explanation": "Wheat (Triticum aestivum) — family Poaceae, order Poales per Table 1.1."
+  },
+  {
+    "source_sentence": "Millions of plants and animals have been identified and described but a large number still remains unknown.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "According to the chapter SUMMARY, despite 1.7–1.8 million described species:",
+    "options": {
+      "A": "All organisms on Earth have been catalogued",
+      "B": "A large number of organisms still remain unknown",
+      "C": "No new species can be discovered",
+      "D": "Only microorganisms remain undescribed"
+    },
+    "correct_answer": "B",
+    "explanation": "SUMMARY states millions are identified but a large number still remains unknown."
+  },
+  {
+    "source_sentence": "If you were to increase the area that you make observations in, the range and variety of organisms that you see would increase.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A biologist records 50 species in a school garden and 500 species in a neighbouring forest. This observation best supports which NCERT statement?",
+    "options": {
+      "A": "Species diversity decreases with area",
+      "B": "Larger observation areas reveal greater range and variety of organisms",
+      "C": "Forests contain only plants",
+      "D": "Species number is fixed at 1.7 million per habitat"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states increasing observation area increases the range and variety of organisms seen."
+  },
+  {
+    "source_sentence": "Taxonomical studies of all known organisms have led to the development of common categories such as kingdom, phylum or division, class, order, family, genus and species.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "How many standard taxonomic categories (from species to kingdom) are explicitly named in NCERT section 1.2?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct_answer": "C",
+    "explanation": "Seven categories: species, genus, family, order, class, phylum/division, kingdom."
+  },
+  {
+    "source_sentence": "Since it is nearly impossible to study all the living organisms, it is necessary to devise some means to make this possible. This process is classification.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A university has specimens of 50,000 insects. Studying each individually without grouping is impractical. The NCERT-prescribed solution is:",
+    "options": {
+      "A": "Ignore most specimens",
+      "B": "Classification into convenient categories based on observable characters",
+      "C": "Assign random numbers without names",
+      "D": "Use only local vernacular names"
+    },
+    "correct_answer": "B",
+    "explanation": "Classification groups organisms into convenient categories to facilitate study of vast diversity."
+  },
+  {
+    "source_sentence": "For example, potato and brinjal are two different species but both belong to the genus Solanum.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A farmer observes that potato and brinjal plants share similar flower structure but differ in edible parts. Taxonomically they are:",
+    "options": {
+      "A": "Same species",
+      "B": "Different species of the same genus Solanum",
+      "C": "Same genus and same species",
+      "D": "Unrelated genera in different families"
+    },
+    "correct_answer": "B",
+    "explanation": "Potato (S. tuberosum) and brinjal (S. melongena) are distinct species within genus Solanum."
+  },
+  {
+    "source_sentence": "Biological names are generally in Latin and written in italics. They are Latinised or derived from Latin irrespective of their origin.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A student writes the scientific name of mango on an exam answer sheet by hand. The correct presentation is:",
+    "options": {
+      "A": "Mangifera indica with both words underlined separately",
+      "B": "Mangifera Indica in capital letters",
+      "C": "MANGIFERA INDICA in bold",
+      "D": "indica mangifera with no underlining"
+    },
+    "correct_answer": "A",
+    "explanation": "Handwritten biological names have both words separately underlined; genus capitalised, epithet lowercase."
+  },
+  {
+    "source_sentence": "Taxonomic studies are useful in agriculture, forestry, industry and in general for knowing our bio-resources and their diversity.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A forestry department catalogues timber-yielding tree species using scientific names and hierarchical categories. This application directly reflects the utility of:",
+    "options": {
+      "A": "Taxonomic studies for knowing bio-resources and diversity",
+      "B": "Philosophical inquiry into purpose of life",
+      "C": "Rejecting binomial nomenclature",
+      "D": "Using only local names for commercial species"
+    },
+    "correct_answer": "A",
+    "explanation": "SUMMARY cites taxonomic studies as useful in forestry and for knowing bio-resources."
+  },
+  {
+    "source_sentence": "The earliest classifications were based on the 'uses' of various organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Ancient farmers classified plants as edible, medicinal or poisonous. This approach corresponds to:",
+    "options": {
+      "A": "Modern phylogenetic systematics",
+      "B": "Earliest classifications based on utility/uses",
+      "C": "Binomial nomenclature by Linnaeus",
+      "D": "ICZN guidelines"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states earliest classifications were based on uses — food, clothing, shelter needs."
+  },
+  {
+    "source_sentence": "This process of classification is taxonomy. The branch of study was referred to as systematics.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which distinction between taxonomy and systematics is most accurate per NCERT?",
+    "options": {
+      "A": "Taxonomy deals with naming; systematics excludes classification",
+      "B": "Taxonomy is classification based on characteristics; systematics additionally considers evolutionary relationships",
+      "C": "Systematics predates taxonomy and excludes nomenclature",
+      "D": "Taxonomy includes evolutionary history; systematics does not"
+    },
+    "correct_answer": "B",
+    "explanation": "Taxonomy classifies by characteristics; systematics was enlarged to include taxonomic processes plus evolutionary relationships."
+  },
+  {
+    "source_sentence": "For plants, scientific names are based on ICBN. Animal taxonomists have evolved ICZN.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "ICBN and ICZN differ primarily in that they:",
+    "options": {
+      "A": "Apply to prokaryotes and eukaryotes respectively",
+      "B": "Govern botanical and zoological nomenclature respectively",
+      "C": "Were both written by Linnaeus",
+      "D": "Mandate trinomial instead of binomial names"
+    },
+    "correct_answer": "B",
+    "explanation": "ICBN provides principles for plant names; ICZN governs animal scientific names."
+  },
+  {
+    "source_sentence": "Hence, all these - 'Dogs', 'Cats', 'Mammals', 'Wheat', 'Rice', 'Plants', 'Animals', etc., are convenient categories we use to study organisms. The scientific term for these categories is taxa.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "'Plants', 'Wheat' and 'Mango' are all taxa. This demonstrates that taxa:",
+    "options": {
+      "A": "Exist only at the species level",
+      "B": "Can indicate categories at very different hierarchical levels",
+      "C": "Are interchangeable with the term 'kingdom' only",
+      "D": "Refer exclusively to animal groups"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT explicitly states taxa can indicate categories at very different levels — plants (broad), wheat (specific)."
+  },
+  {
+    "source_sentence": "Generally, order and other higher taxonomic categories are identified based on the aggregates of characters.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Species and genus are based on many similar characters; orders are identified using:",
+    "options": {
+      "A": "Single DNA base only",
+      "B": "Aggregates of characters among constituent families",
+      "C": "Local vernacular names",
+      "D": "Commercial value alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Higher categories like order are identified based on aggregates of characters shared among included families."
+  },
+  {
+    "source_sentence": "The ecological conflict and cooperation among members of a population and among populations of a community or even the molecular traffic inside a cell make us deeply reflect on – what indeed is life?",
+    "chapter": "Chapter 1: The Living World",
+    "question": "The opening of the chapter cites ecological interactions and molecular processes inside cells to motivate inquiry into:",
+    "options": {
+      "A": "Industrial applications of taxonomy only",
+      "B": "What indeed is life",
+      "C": "ICZN amendment procedures",
+      "D": "Table 1.1 memorisation"
+    },
+    "correct_answer": "B",
+    "explanation": "Ecological conflict/cooperation and molecular traffic inside cells prompt reflection on what life is."
+  },
+  {
+    "source_sentence": "The beauty of a galloping horse, of the migrating birds, the valley of flowers or the attacking shark evokes awe.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "The chapter emphasises the living world's diversity through examples spanning:",
+    "options": {
+      "A": "Only microscopic organisms",
+      "B": "Multiple habitats and organisms from horses to sharks to flowering valleys",
+      "C": "Laboratory cultures exclusively",
+      "D": "Only plant taxonomy"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT cites diverse examples — galloping horse, migrating birds, valley of flowers, attacking shark — across habitats."
+  },
+  {
+    "source_sentence": "Living organisms are found in cold mountains, deciduous forests, oceans, fresh water lakes, deserts or hot springs.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which habitat pair is BOTH explicitly mentioned in the chapter as supporting living organisms?",
+    "options": {
+      "A": "Hot springs and deserts",
+      "B": "Urban malls and space stations",
+      "C": "Polar ice caps and volcanoes only",
+      "D": "Laboratory glassware only"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT lists deserts and hot springs among extraordinary habitats harbouring life."
+  },
+  {
+    "source_sentence": "Taxonomic groups/categories are distinct biological entities and not merely morphological aggregates.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Treating taxonomic categories as distinct biological entities rather than mere morphological aggregates implies:",
+    "options": {
+      "A": "Categories are arbitrary with no biological significance",
+      "B": "Taxonomic groups represent real units of classification with biological validity",
+      "C": "Only species is a real category",
+      "D": "Morphology is never used in taxonomy"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT states taxonomic groups are distinct biological entities, not just morphological aggregates."
+  },
+  {
+    "source_sentence": "Order Primata comprising monkey, gorilla and gibbon is placed in class Mammalia along with order Carnivora.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Monkey, tiger and dog all belong to class Mammalia but are placed in different:",
+    "options": {
+      "A": "Kingdoms",
+      "B": "Orders (e.g., Primata vs Carnivora)",
+      "C": "Phyla",
+      "D": "Domains not mentioned in NCERT"
+    },
+    "correct_answer": "B",
+    "explanation": "Primata (monkey) and Carnivora (tiger, dog/cat) are different orders within class Mammalia."
+  },
+  {
+    "source_sentence": "The similar characters are less in number as compared to different genera included in a family.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "In an order, the number of similar characters among constituent families is:",
+    "options": {
+      "A": "Greater than among genera within a family",
+      "B": "Less than among genera within the same family",
+      "C": "Always zero",
+      "D": "Identical to species-level similarity"
+    },
+    "correct_answer": "B",
+    "explanation": "Order groups families with fewer similar characters than the genera grouped within a single family."
+  },
+  {
+    "source_sentence": "Human beings were, since long, not only interested in knowing more about different kinds of organisms and their diversities, but also the relationships among them.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Interest in relationships among different kinds of organisms led to the branch called:",
+    "options": {
+      "A": "Pathology",
+      "B": "Systematics",
+      "C": "Haematology",
+      "D": "Meteorology"
+    },
+    "correct_answer": "B",
+    "explanation": "Study of relationships among organisms was referred to as systematics."
+  },
+  {
+    "source_sentence": "Hence, there is a need to standardise the naming of living organisms such that a particular organism is known by the same name all over the world.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Standardisation of organism names worldwide directly addresses the problem of:",
+    "options": {
+      "A": "Excessive species diversity",
+      "B": "Local names varying from place to place causing communication confusion",
+      "C": "Lack of ecological niches",
+      "D": "Inability to observe forests"
+    },
+    "correct_answer": "B",
+    "explanation": "Local names vary regionally; standardised nomenclature ensures one global name per organism."
+  },
+  {
+    "source_sentence": "Obviously, nomenclature or naming is only possible when the organism is described correctly and we know to what organism the name is attached to.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Identification must precede nomenclature. Reason (R): Nomenclature can be assigned before an organism is correctly described. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "A is true. R is false — correct description/identification is prerequisite for naming."
+  },
+  {
+    "source_sentence": "Hence, the earliest classifications were based on the 'uses' of various organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Classification of organisms as sources of food, clothing and shelter represents:",
+    "options": {
+      "A": "Phylogenetic systematics",
+      "B": "Utility-based early classification",
+      "C": "Molecular phylogeny",
+      "D": "Numerical taxonomy only"
+    },
+    "correct_answer": "B",
+    "explanation": "Early classifications grouped organisms by human utility/uses."
+  },
+  {
+    "source_sentence": "Panthera leo (lion). All the three names, indica, tuberosum and leo, represent the specific epithets",
+    "chapter": "Chapter 1: The Living World",
+    "question": "In Panthera leo, 'leo' represents the:",
+    "options": {
+      "A": "Genus",
+      "B": "Specific epithet",
+      "C": "Family",
+      "D": "Author citation"
+    },
+    "correct_answer": "B",
+    "explanation": "'leo' is the specific epithet; Panthera is the genus."
+  },
+  {
+    "source_sentence": "Similarly, if you observe the features of a cat and a dog, you will find some similarities and some differences as well. They are separated into two different families – Felidae and Canidae, respectively.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Dog and cat are placed in different families because:",
+    "options": {
+      "A": "They belong to different kingdoms",
+      "B": "They share family-level vegetative features",
+      "C": "They differ at family level despite some similarities (Felidae vs Canidae)",
+      "D": "They lack phylum Chordata"
+    },
+    "correct_answer": "C",
+    "explanation": "Cat (Felidae) and dog (Canidae) are separate families within Carnivora."
+  },
+  {
+    "source_sentence": "All animals belonging to various phyla are assigned to the highest category called Kingdom Animalia",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Kingdom Plantae and Kingdom Animalia differ in that Plantae comprises:",
+    "options": {
+      "A": "All plants from various divisions",
+      "B": "Only monocotyledonous plants",
+      "C": "Only vertebrate animals",
+      "D": "Only arthropods"
+    },
+    "correct_answer": "A",
+    "explanation": "Kingdom Plantae includes all plants from various divisions."
+  },
+  {
+    "source_sentence": "However, taxonomists have also developed sub-categories in this hierarchy to facilitate more sound and scientific placement of various taxa.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Sub-categories in taxonomic hierarchy are developed to:",
+    "options": {
+      "A": "Replace species as the basic unit",
+      "B": "Facilitate more precise placement of taxa",
+      "C": "Eliminate the need for binomial names",
+      "D": "Avoid using genera"
+    },
+    "correct_answer": "B",
+    "explanation": "Sub-categories allow finer, more scientific taxonomic placement."
+  },
+  {
+    "source_sentence": "We should remember here that as we explore new areas, and even old ones, new organisms are continuously being identified.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "The figure 1.7–1.8 million described species should be understood as:",
+    "options": {
+      "A": "A fixed final count",
+      "B": "A current estimate that keeps increasing with exploration",
+      "C": "Equal to total species on Earth",
+      "D": "Limited to plants only"
+    },
+    "correct_answer": "B",
+    "explanation": "New organisms are continuously identified; the count is not static."
+  },
+  {
+    "source_sentence": "Probably you would recognise the confusion that would be created if we did not find ways and means to talk to each other, to refer to organisms we are talking about.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Vernacular names create communication problems because:",
+    "options": {
+      "A": "They are always in Latin",
+      "B": "They vary from place to place for the same organism",
+      "C": "They are assigned before identification",
+      "D": "They include author citations"
+    },
+    "correct_answer": "B",
+    "explanation": "Local names differ regionally, causing confusion without standard names."
+  },
+  {
+    "source_sentence": "Taxonomic categories from species to kingdom have been shown in ascending order starting with species in Figure 1.1.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "In Figure 1.1 hierarchy, the LOWEST (most specific) category shown is:",
+    "options": {
+      "A": "Kingdom",
+      "B": "Species",
+      "C": "Phylum",
+      "D": "Class"
+    },
+    "correct_answer": "B",
+    "explanation": "Hierarchy ascends from species (lowest) to kingdom (highest)."
+  },
+  {
+    "source_sentence": "Let us consider Mangifera indica, Solanum tuberosum (potato) and Panthera leo (lion).",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which pair correctly matches organism with its specific epithet?",
+    "options": {
+      "A": "Mango — Mangifera",
+      "B": "Potato — tuberosum",
+      "C": "Lion — Panthera",
+      "D": "Wheat — Triticum"
+    },
+    "correct_answer": "B",
+    "explanation": "tuberosum is specific epithet of potato; others listed are genera."
+  },
+  {
+    "source_sentence": "Taxonomy is not something new. Human beings have always been interested in knowing more and more about the various kinds of organisms",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Taxonomic interest in organisms historically arose from:",
+    "options": {
+      "A": "Human curiosity and practical needs",
+      "B": "Exclusive laboratory cell culture",
+      "C": "Absence of biodiversity",
+      "D": "Lack of observable diversity"
+    },
+    "correct_answer": "A",
+    "explanation": "Humans have long sought to know organisms for curiosity and utility."
+  },
+  {
+    "source_sentence": "Growth, reproduction, ability to sense environment and mount a suitable response, metabolism, ability to self-replicate and self-organise are unique features of living organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): All living organisms show metabolism. Reason (R): Metabolism includes both anabolic and catabolic processes. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Metabolism is a defining feature; it encompasses both synthesis and breakdown reactions."
+  },
+  {
+    "source_sentence": "No non-living object is known to grow, exchange gases or self-replicate.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Viruses are considered living only inside host cells. Reason (R): Outside host cells viruses cannot self-replicate independently. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Viruses show replication only within living host cells, supporting A; R explains why they are borderline entities."
+  },
+  {
+    "source_sentence": "Taxonomy is derived from Greek words 'taxis' meaning arrangement and 'nomos' meaning law.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which of the following is NOT correct about taxonomy?",
+    "options": {
+      "A": "It involves characterisation and identification",
+      "B": "It excludes nomenclature",
+      "C": "It includes classification",
+      "D": "It is basic to systematic biology"
+    },
+    "correct_answer": "B",
+    "explanation": "Nomenclature is one of the four basic processes of taxonomy."
+  },
+  {
+    "source_sentence": "Each name has two components – the Generic name and the specific epithet.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "In the binomial Mangifera indica Linn., the specific epithet is:",
+    "options": {
+      "A": "Mangifera",
+      "B": "indica",
+      "C": "Linn.",
+      "D": "Mangifera indica"
+    },
+    "correct_answer": "B",
+    "explanation": "Generic name is Mangifera; specific epithet is indica; Linn. is author citation."
+  },
+  {
+    "source_sentence": "Biological names are generally in Latin and written in italics.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "When handwritten, a biological name should be:",
+    "options": {
+      "A": "Underlined separately for genus and species",
+      "B": "Written in vernacular script only",
+      "C": "Without any author citation ever",
+      "D": "Always in uppercase throughout"
+    },
+    "correct_answer": "A",
+    "explanation": "Handwritten scientific names are underlined; printed names are italicised."
+  },
+  {
+    "source_sentence": "Family is a group of related genera with still less number of similarities as compared to genus and species.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Consider the following statements:\n1. Family has more similarities than order\n2. Family is placed above genus in hierarchy\n3. Family is a higher category than genus\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Family lies above genus; it has fewer similarities than genus, not more than order."
+  },
+  {
+    "source_sentence": "Order being a higher category, is the assemblage of families which exhibit a few similar characters.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Order and family differ in that order:",
+    "options": {
+      "A": "Is a higher category assembling several families",
+      "B": "Is always equivalent to a single species",
+      "C": "Is below genus in rank",
+      "D": "Never includes more than one genus"
+    },
+    "correct_answer": "A",
+    "explanation": "Order ranks above family and groups related families."
+  },
+  {
+    "source_sentence": "Class, comprising animals like fishes, amphibians, reptiles, birds along with mammals constitute the next higher category.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): All mammals belong to the same class. Reason (R): Mammals share more characters with each other than with fishes. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Mammals are grouped in class Mammalia because of shared higher similarity."
+  },
+  {
+    "source_sentence": "The taxonomic studies of various species of plants, animals and other organisms are useful in agriculture, forestry, industry and in general in knowing our bio-resources and their diversity.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Taxonomic studies are practically useful because they help in:",
+    "options": {
+      "A": "Identifying useful and harmful organisms",
+      "B": "Eliminating all biodiversity",
+      "C": "Avoiding classification entirely",
+      "D": "Replacing scientific names with common names only"
+    },
+    "correct_answer": "A",
+    "explanation": "Taxonomy aids resource identification and biodiversity documentation."
+  },
+  {
+    "source_sentence": "Herbarium is a store house of collected plant specimens that are dried, pressed and preserved on sheets.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A herbarium sheet typically bears labels with information on:",
+    "options": {
+      "A": "Date and place of collection only, never scientific name",
+      "B": "Scientific name, collector, date and locality",
+      "C": "Only common name in local language",
+      "D": "Only flower colour without taxonomy"
+    },
+    "correct_answer": "B",
+    "explanation": "Herbarium labels document taxonomic and collection data."
+  },
+  {
+    "source_sentence": "Botanical gardens are living collections of plants for reference.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Botanical gardens differ from herbaria in that they:",
+    "options": {
+      "A": "Maintain living plants for study and reference",
+      "B": "Store only fossilised animal bones",
+      "C": "Preserve only dried fungal spores",
+      "D": "Exclude any labelled specimens"
+    },
+    "correct_answer": "A",
+    "explanation": "Botanical gardens keep living, labelled plant collections."
+  },
+  {
+    "source_sentence": "Keys are analytical in nature and are helpful in identification and classification of organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A taxonomic key is used primarily for:",
+    "options": {
+      "A": "Identification of organisms",
+      "B": "Measuring atmospheric pressure",
+      "C": "Calculating blood pH",
+      "D": "Determining soil pH only"
+    },
+    "correct_answer": "A",
+    "explanation": "Keys are dichotomous tools for identification."
+  },
+  {
+    "source_sentence": "Species is a group of individual organisms with fundamental similarities.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Two organisms belong to the same species if they:",
+    "options": {
+      "A": "Can interbreed and produce fertile offspring",
+      "B": "Share only the same habitat",
+      "C": "Have identical body size",
+      "D": "Occur in the same continent only"
+    },
+    "correct_answer": "A",
+    "explanation": "Biological species concept emphasises interbreeding and fertile offspring."
+  },
+  {
+    "source_sentence": "Genus comprises a group of related species which has more characters in common in comparison to species of other genera.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Solanum tuberosum and Solanum nigrum are placed in the same genus because they:",
+    "options": {
+      "A": "Share more similarities with each other than with species of other genera",
+      "B": "Belong to different families",
+      "C": "Cannot be classified",
+      "D": "Are identical species"
+    },
+    "correct_answer": "A",
+    "explanation": "Genus groups closely related species."
+  },
+  {
+    "source_sentence": "Taxonomic categories show hierarchical arrangement.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Kingdom is the highest taxonomic category in the hierarchy discussed. Reason (R): Each ascending category includes organisms with fewer common characters than the level below. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "Kingdom is highest; R is false because higher categories have fewer, not more, shared characters."
+  },
+  {
+    "source_sentence": "ICBN and ICZN provide rules for nomenclature of plants and animals respectively.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which pair is correctly matched?",
+    "options": {
+      "A": "ICBN — plant nomenclature",
+      "B": "ICZN — plant nomenclature",
+      "C": "ICBN — animal nomenclature",
+      "D": "ICZN — fungal spore colour"
+    },
+    "correct_answer": "A",
+    "explanation": "ICBN governs botanical names; ICZN governs zoological names."
+  },
+  {
+    "source_sentence": "Museums have collections of preserved plant and animal specimens for study and reference.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Museum specimens for animals may be preserved as:",
+    "options": {
+      "A": "Preserved specimens or skeletons in jars and boxes",
+      "B": "Only living breeding pairs",
+      "C": "Only fresh unstained tissues",
+      "D": "Only photographic slides without specimens"
+    },
+    "correct_answer": "A",
+    "explanation": "Museums store preserved animal and plant material."
+  },
+  {
+    "source_sentence": "Taxonomic hierarchy proceeds from species to kingdom.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which sequence represents correct ascending taxonomic hierarchy?",
+    "options": {
+      "A": "Species → Genus → Family → Order → Class → Phylum → Kingdom",
+      "B": "Kingdom → Species → Genus → Family",
+      "C": "Genus → Species → Kingdom → Phylum",
+      "D": "Family → Species → Class → Genus"
+    },
+    "correct_answer": "A",
+    "explanation": "Standard hierarchy: species is lowest, kingdom highest."
+  },
+  {
+    "source_sentence": "Living organisms show consciousness/sensitivity to environment.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "A patient in coma still shows some living features. Which feature would be LEAST useful alone to declare life?",
+    "options": {
+      "A": "Cellular organisation without metabolism or response",
+      "B": "Metabolic activity",
+      "C": "Response to stimulus",
+      "D": "Cellular organisation with active metabolism"
+    },
+    "correct_answer": "A",
+    "explanation": "Metabolism and response are stronger indicators; mere cellular organisation alone is insufficient."
+  },
+  {
+    "source_sentence": "Reproduction is not an all-inclusive defining characteristic of living organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which statement about reproduction is correct?",
+    "options": {
+      "A": "Some living individuals do not reproduce but are not excluded from living category",
+      "B": "Only organisms that reproduce daily are living",
+      "C": "Non-living crystals reproduce identically to organisms",
+      "D": "Reproduction alone defines life without metabolism"
+    },
+    "correct_answer": "A",
+    "explanation": "Mules and sterile workers are living though non-reproductive."
+  },
+  {
+    "source_sentence": "Growth in living organisms is from inside (intrinsic).",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Mountains and sand dunes increase in size by accumulation. Reason (R): Accumulative growth in non-living objects is not intrinsic metabolic growth. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "A is true for non-living accumulation; R is true but does not explain mountain growth as living growth."
+  },
+  {
+    "source_sentence": "All living phenomena are due to underlying interactions among biomolecules.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which is NOT a property associated uniquely with living systems at organism level?",
+    "options": {
+      "A": "Self-replication of crystals in saturated solution",
+      "B": "Metabolism",
+      "C": "Cellular organisation",
+      "D": "Consciousness"
+    },
+    "correct_answer": "A",
+    "explanation": "Crystal growth is non-living; metabolism, cellular organisation and consciousness characterise life."
+  },
+  {
+    "source_sentence": "Taxonomic studies help assign scientific names based on agreed principles.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "The first word in a scientific name represents:",
+    "options": {
+      "A": "Generic name",
+      "B": "Specific epithet",
+      "C": "Author citation",
+      "D": "Family name"
+    },
+    "correct_answer": "A",
+    "explanation": "Binomial begins with genus (generic name)."
+  },
+  {
+    "source_sentence": "Family names in plants end with -aceae and in animals with -idae.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which family name ending is correct for an animal family?",
+    "options": {
+      "A": "Felidae",
+      "B": "Felaceae",
+      "C": "Feloideae",
+      "D": "Felales"
+    },
+    "correct_answer": "A",
+    "explanation": "Animal families end in -idae; plant families in -aceae."
+  },
+  {
+    "source_sentence": "Phylum Chordata includes animals with notochord and dorsal hollow nerve cord.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Compared to an arthropod, a chordate typically possesses:",
+    "options": {
+      "A": "Dorsal hollow nerve cord",
+      "B": "Ventral solid nerve cord only",
+      "C": "Open circulatory system only in all members",
+      "D": "Exoskeleton of chitin as defining feature"
+    },
+    "correct_answer": "A",
+    "explanation": "Chordates have dorsal hollow nerve cord; arthropods have ventral nerve cord."
+  },
+  {
+    "source_sentence": "Species name is written in lowercase in binomial nomenclature.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Correct representation of scientific name of wheat is:",
+    "options": {
+      "A": "Triticum aestivum",
+      "B": "triticum Aestivum",
+      "C": "TRITICUM AESTIVUM without formatting",
+      "D": "Triticum Aestivum with both words capitalised"
+    },
+    "correct_answer": "A",
+    "explanation": "Genus capitalised; specific epithet lowercase."
+  },
+  {
+    "source_sentence": "Identification is finding a already known organism and assigning it to a taxon.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Consider the following statements:\n1. Identification precedes nomenclature in practical taxonomy\n2. Identification assigns an organism to already known taxa\n3. Identification requires no observational characters\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Identification uses characters to place organism in known groups; it requires observation."
+  },
+  {
+    "source_sentence": "Taxonomic keys use contrasting characters in pairs called couplets.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "In a dichotomous key, each step offers:",
+    "options": {
+      "A": "Two contrasting choices",
+      "B": "Ten simultaneous options",
+      "C": "Only molecular data",
+      "D": "No branching decisions"
+    },
+    "correct_answer": "A",
+    "explanation": "Dichotomous keys branch into two alternatives per couplet."
+  },
+  {
+    "source_sentence": "Systematics includes evolutionary relationships between organisms.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Systematics differs from early taxonomy by additionally considering:",
+    "options": {
+      "A": "Evolutionary relationships",
+      "B": "Only colour of petals",
+      "C": "Only habitat without characters",
+      "D": "Only economic value without classification"
+    },
+    "correct_answer": "A",
+    "explanation": "Systematics integrates classification with phylogeny."
+  },
+  {
+    "source_sentence": "The number of species that are known and described range between 1.7-1.8 million.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Assertion (A): Most species on Earth remain undiscovered. Reason (R): Large fractions of biodiversity especially in tropics are yet to be catalogued. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Known species are a fraction of total biodiversity; R explains why many remain undiscovered."
+  },
+  {
+    "source_sentence": "Zoological parks are places where wild animals are kept in protected environments.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Zoological parks primarily serve to:",
+    "options": {
+      "A": "Provide awareness and conservation of wild fauna",
+      "B": "Replace natural ecosystems entirely",
+      "C": "Eliminate need for taxonomy",
+      "D": "Store only preserved skeletons"
+    },
+    "correct_answer": "A",
+    "explanation": "Zoos enable study, awareness and ex-situ conservation."
+  },
+  {
+    "source_sentence": "Classification is the process by which anything is grouped into convenient categories.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Classification is based on:",
+    "options": {
+      "A": "Similarities and dissimilarities among organisms",
+      "B": "Random assignment without characters",
+      "C": "Only geographical distance",
+      "D": "Only organism size"
+    },
+    "correct_answer": "A",
+    "explanation": "Classification uses shared and distinct characters."
+  },
+  {
+    "source_sentence": "Taxon refers to any level of taxonomic category.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "Which of the following can be a taxon?",
+    "options": {
+      "A": "Family, genus or species",
+      "B": "Only species",
+      "C": "Only kingdom",
+      "D": "Only individual cell"
+    },
+    "correct_answer": "A",
+    "explanation": "Taxon applies to any rank in the hierarchy."
+  },
+  {
+    "source_sentence": "Homo sapiens belongs to family Hominidae.",
+    "chapter": "Chapter 1: The Living World",
+    "question": "In the hierarchy for man, which category is immediately above genus Homo?",
+    "options": {
+      "A": "Family Hominidae",
+      "B": "Species sapiens",
+      "C": "Kingdom only",
+      "D": "Phylum only without class"
+    },
+    "correct_answer": "A",
+    "explanation": "Family ranks above genus: Homo → Hominidae."
+  }
+]

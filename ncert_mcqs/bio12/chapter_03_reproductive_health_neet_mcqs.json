@@ -1,0 +1,1133 @@
+[
+  {
+    "source_sentence": "WHO defines reproductive health as total well-being in reproduction.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Reproductive health according to WHO includes:",
+    "options": {
+      "A": "Only physical aspects",
+      "B": "Physical, emotional, behavioural and social well-being",
+      "C": "Only contraception",
+      "D": "Only maternal mortality"
+    },
+    "correct_answer": "B",
+    "explanation": "WHO definition covers all aspects of reproductive well-being."
+  },
+  {
+    "source_sentence": "India initiated family planning in 1951.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "India's national family planning programme began in:",
+    "options": {
+      "A": "1951",
+      "B": "1971",
+      "C": "1991",
+      "D": "2001"
+    },
+    "correct_answer": "A",
+    "explanation": "India was among first countries with national action plans from 1951."
+  },
+  {
+    "source_sentence": "Saheli non-steroidal once-a-week oral contraceptive from CDRI Lucknow.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Saheli contraceptive developed in India is:",
+    "options": {
+      "A": "IUD",
+      "B": "Non-steroidal once-a-week oral pill",
+      "C": "Vasectomy device",
+      "D": "MTP instrument"
+    },
+    "correct_answer": "B",
+    "explanation": "Saheli from CDRI Lucknow—non-steroidal weekly pill."
+  },
+  {
+    "source_sentence": "Periodic abstinence avoids coitus days 10-17.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Fertile period for periodic abstinence is approximately:",
+    "options": {
+      "A": "Day 1-3 only",
+      "B": "Day 10-17 of menstrual cycle",
+      "C": "Day 25-28 only",
+      "D": "Entire cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "Ovulation window—abstinence during days 10-17."
+  },
+  {
+    "source_sentence": "Lactational amenorrhea effective up to 6 months post-partum.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Lactational amenorrhea method is effective for about:",
+    "options": {
+      "A": "6 months of full breastfeeding",
+      "B": "2 years always",
+      "C": "10 days",
+      "D": "Lifetime"
+    },
+    "correct_answer": "A",
+    "explanation": "Intense lactation suppresses ovulation up to ~6 months."
+  },
+  {
+    "source_sentence": "Condoms protect against STI/HIV besides contraception.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Major additional benefit of condom use is:",
+    "options": {
+      "A": "Increased ovulation",
+      "B": "Protection from STIs including HIV",
+      "C": "Permanent sterilisation",
+      "D": "Genetic counselling"
+    },
+    "correct_answer": "B",
+    "explanation": "Barrier prevents pathogen transmission."
+  },
+  {
+    "source_sentence": "CuT IUD releases Cu ions suppressing sperm motility.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Copper releasing IUDs prevent pregnancy partly by:",
+    "options": {
+      "A": "Blocking fallopian tubes surgically",
+      "B": "Cu ions reducing sperm motility and fertilising capacity",
+      "C": "Destroying ovaries",
+      "D": "Inducing twins always"
+    },
+    "correct_answer": "B",
+    "explanation": "Cu ions suppress sperm function; also increase phagocytosis."
+  },
+  {
+    "source_sentence": "Oral pills taken 21 days with 7-day gap.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Combined oral contraceptive pill regimen is:",
+    "options": {
+      "A": "21 pill days then 7-day break",
+      "B": "Continuous daily without break forever",
+      "C": "One pill per year",
+      "D": "Only after pregnancy confirmed"
+    },
+    "correct_answer": "A",
+    "explanation": "21 active days + 7 gap when menstruation occurs."
+  },
+  {
+    "source_sentence": "Emergency contraception within 72 hours of coitus.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Post-coital emergency contraception is effective if used within:",
+    "options": {
+      "A": "72 hours",
+      "B": "30 days",
+      "C": "1 year",
+      "D": "Only before coitus"
+    },
+    "correct_answer": "A",
+    "explanation": "Progestogen/IUD within 72 hours of unprotected intercourse."
+  },
+  {
+    "source_sentence": "Vasectomy blocks vas deferens; tubectomy blocks fallopian tube.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Tubectomy in females involves:",
+    "options": {
+      "A": "Removal/ligation of vas deferens",
+      "B": "Removal/ligation of fallopian tube segment",
+      "C": "Removal of testis",
+      "D": "Removal of uterus always"
+    },
+    "correct_answer": "B",
+    "explanation": "Tubectomy blocks oviduct; vasectomy blocks vas deferens."
+  },
+  {
+    "source_sentence": "MTP legalised India 1971 with restrictions.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "MTP Act 1971 aims to reduce:",
+    "options": {
+      "A": "Population only",
+      "B": "Illegal abortions and maternal mortality",
+      "C": "STI spread only",
+      "D": "Male infertility"
+    },
+    "correct_answer": "B",
+    "explanation": "Legal MTP reduces unsafe illegal abortion deaths."
+  },
+  {
+    "source_sentence": "MTP safest in first trimester up to 12 weeks.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "MTP is considered relatively safe during:",
+    "options": {
+      "A": "First trimester (up to 12 weeks)",
+      "B": "Third trimester routinely",
+      "C": "Only post-delivery",
+      "D": "Never legal"
+    },
+    "correct_answer": "A",
+    "explanation": "First trimester MTP safer; second trimester riskier."
+  },
+  {
+    "source_sentence": "Amniocentesis misuse for sex determination banned.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Statutory ban on amniocentesis for sex determination prevents:",
+    "options": {
+      "A": "All prenatal testing",
+      "B": "Female foeticide following sex detection",
+      "C": "MTP entirely",
+      "D": "Condom use"
+    },
+    "correct_answer": "B",
+    "explanation": "Misuse for sex-selective MTP is illegal."
+  },
+  {
+    "source_sentence": "STI include gonorrhoea syphilis HIV hepatitis-B.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "STI that can also spread via shared needles includes:",
+    "options": {
+      "A": "Only gonorrhoea",
+      "B": "HIV and hepatitis-B",
+      "C": "Only trichomoniasis",
+      "D": "None"
+    },
+    "correct_answer": "B",
+    "explanation": "HIV and HBV spread by blood/needle sharing too."
+  },
+  {
+    "source_sentence": "Asymptomatic STI common in females.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Why STIs often remain undetected in females?",
+    "options": {
+      "A": "No infection possible",
+      "B": "Mild/absent early symptoms and social stigma",
+      "C": "Immediate cure without treatment",
+      "D": "Only males carry STI"
+    },
+    "correct_answer": "B",
+    "explanation": "Asymptomatic early stages + stigma delay treatment."
+  },
+  {
+    "source_sentence": "IVF test tube baby with embryo transfer.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Test tube baby programme involves:",
+    "options": {
+      "A": "Only AI without fertilisation",
+      "B": "IVF followed by embryo transfer",
+      "C": "Only GIFT",
+      "D": "Natural coitus in lab"
+    },
+    "correct_answer": "B",
+    "explanation": "Ova and sperm fertilised in vitro; embryo transferred."
+  },
+  {
+    "source_sentence": "ZIFT places zygote in fallopian tube.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "ZIFT differs from IUT because ZIFT transfers:",
+    "options": {
+      "A": "Sperm only to uterus",
+      "B": "Zygote/early embryo into fallopian tube",
+      "C": "Donor ovum to ovary",
+      "D": "Placenta to uterus"
+    },
+    "correct_answer": "B",
+    "explanation": "Zygote intra-fallopian transfer vs intra-uterine transfer."
+  },
+  {
+    "source_sentence": "GIFT transfers ovum from donor to fallopian tube.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "In GIFT procedure:",
+    "options": {
+      "A": "Sperm injected into ovum cytoplasm",
+      "B": "Donor ovum transferred to fallopian tube of recipient",
+      "C": "Embryo cultured 8 weeks in lab",
+      "D": "Only tubectomy performed"
+    },
+    "correct_answer": "B",
+    "explanation": "Gamete intra-fallopian transfer—ovum into tube for in vivo fertilisation."
+  },
+  {
+    "source_sentence": "ICSI injects single sperm into ovum.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "ICSI technique involves:",
+    "options": {
+      "A": "Mixing many sperm with ova in dish only",
+      "B": "Direct injection of sperm into ovum cytoplasm",
+      "C": "Transfer of placenta",
+      "D": "Periodic abstinence"
+    },
+    "correct_answer": "B",
+    "explanation": "Intra-cytoplasmic sperm injection for severe male factor infertility."
+  },
+  {
+    "source_sentence": "IUI introduces semen into uterus/vagina.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Intra-uterine insemination (IUI) is:",
+    "options": {
+      "A": "Surgical sterilisation",
+      "B": "Artificial introduction of semen into uterus",
+      "C": "MTP method",
+      "D": "STI treatment only"
+    },
+    "correct_answer": "B",
+    "explanation": "AI/IUI bypasses low sperm count or insemination failure."
+  },
+  {
+    "source_sentence": "Condom dual protection.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Assertion (A): Condoms prevent pregnancy. Reason (R): They also reduce STI/HIV transmission. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R adds STI protection benefit."
+  },
+  {
+    "source_sentence": "CuT mechanism.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Assertion (A): CuT is contraceptive IUD. Reason (R): Copper ions suppress sperm motility. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains part of mechanism."
+  },
+  {
+    "source_sentence": "MTP first trimester safety.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Assertion (A): First trimester MTP is relatively safe. Reason (R): Second trimester abortions are riskier. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R contrasts trimester risk."
+  },
+  {
+    "source_sentence": "IVF definition.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Assertion (A): IVF is fertilisation outside body. Reason (R): Embryo is then transferred to female tract. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R completes test-tube baby protocol."
+  },
+  {
+    "source_sentence": "Infertility definition.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Assertion (A): Infertility is failure to conceive after 2 years unprotected cohabitation. Reason (R): ART can assist such couples. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but R is not explanation of definition—B correct AR option."
+  },
+  {
+    "source_sentence": "Trap MTP.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is INCORRECT about MTP?",
+    "options": {
+      "A": "Legalised 1971 in India",
+      "B": "Safest in first trimester",
+      "C": "Always preferred over contraception for routine birth control",
+      "D": "Misuse for sex selection is illegal"
+    },
+    "correct_answer": "C",
+    "explanation": "Contraception preferred; MTP not routine birth control."
+  },
+  {
+    "source_sentence": "Contraceptive: Barrier condom.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (1): Barrier condom works by:",
+    "options": {
+      "A": "prevents semen entering tract",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Barrier condom: male/female condom."
+  },
+  {
+    "source_sentence": "Contraceptive: Diaphragm/cervical cap.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (2): Diaphragm/cervical cap works by:",
+    "options": {
+      "A": "covers cervix",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Diaphragm/cervical cap: reusable rubber barrier."
+  },
+  {
+    "source_sentence": "Contraceptive: Lippes loop.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (3): Lippes loop works by:",
+    "options": {
+      "A": "non-medicated IUD",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Lippes loop: intra-uterine device."
+  },
+  {
+    "source_sentence": "Contraceptive: Multiload 375.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (4): Multiload 375 works by:",
+    "options": {
+      "A": "copper IUD",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiload 375: Cu releasing."
+  },
+  {
+    "source_sentence": "Contraceptive: Progestasert.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (5): Progestasert works by:",
+    "options": {
+      "A": "hormone IUD",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Progestasert: hormone releasing."
+  },
+  {
+    "source_sentence": "Contraceptive: Combined pill.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (6): Combined pill works by:",
+    "options": {
+      "A": "inhibits ovulation",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Combined pill: 21-day regimen."
+  },
+  {
+    "source_sentence": "Contraceptive: Injectable progestogen.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (7): Injectable progestogen works by:",
+    "options": {
+      "A": "long acting",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Injectable progestogen: similar to pill mode."
+  },
+  {
+    "source_sentence": "Contraceptive: Subdermal implant.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (8): Subdermal implant works by:",
+    "options": {
+      "A": "long-term hormone",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Subdermal implant: under skin."
+  },
+  {
+    "source_sentence": "Contraceptive: Vasectomy.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (9): Vasectomy works by:",
+    "options": {
+      "A": "terminal male sterilisation",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Vasectomy: vas deferens cut."
+  },
+  {
+    "source_sentence": "Contraceptive: Tubectomy.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "NEET contraception (10): Tubectomy works by:",
+    "options": {
+      "A": "terminal female sterilisation",
+      "B": "Inducing ovulation always",
+      "C": "Treating STI only",
+      "D": "Genetic engineering"
+    },
+    "correct_answer": "A",
+    "explanation": "Tubectomy: fallopian tube cut."
+  },
+  {
+    "source_sentence": "ART method IVF-ET.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Key feature distinguishing IVF-ET (set 1):",
+    "options": {
+      "A": "fertilisation in lab dish",
+      "B": "Always requires surgery on testis",
+      "C": "Same as tubectomy",
+      "D": "Only for STI cure"
+    },
+    "correct_answer": "A",
+    "explanation": "embryo to uterus or tube"
+  },
+  {
+    "source_sentence": "ART method ZIFT.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Key feature distinguishing ZIFT (set 2):",
+    "options": {
+      "A": "zygote to fallopian tube",
+      "B": "Always requires surgery on testis",
+      "C": "Same as tubectomy",
+      "D": "Only for STI cure"
+    },
+    "correct_answer": "A",
+    "explanation": "≤8 blastomeres stage"
+  },
+  {
+    "source_sentence": "ART method IUT.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Key feature distinguishing IUT (set 3):",
+    "options": {
+      "A": "embryo to uterus",
+      "B": "Always requires surgery on testis",
+      "C": "Same as tubectomy",
+      "D": "Only for STI cure"
+    },
+    "correct_answer": "A",
+    "explanation": ">8 blastomeres typically"
+  },
+  {
+    "source_sentence": "ART method GIFT.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Key feature distinguishing GIFT (set 4):",
+    "options": {
+      "A": "ovum to fallopian tube",
+      "B": "Always requires surgery on testis",
+      "C": "Same as tubectomy",
+      "D": "Only for STI cure"
+    },
+    "correct_answer": "A",
+    "explanation": "fertilisation in vivo in recipient"
+  },
+  {
+    "source_sentence": "ART method ICSI.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Key feature distinguishing ICSI (set 5):",
+    "options": {
+      "A": "microinjection of sperm",
+      "B": "Always requires surgery on testis",
+      "C": "Same as tubectomy",
+      "D": "Only for STI cure"
+    },
+    "correct_answer": "A",
+    "explanation": "severe male factor"
+  },
+  {
+    "source_sentence": "ART method IUI.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Key feature distinguishing IUI (set 6):",
+    "options": {
+      "A": "semen into uterus/vagina",
+      "B": "Always requires surgery on testis",
+      "C": "Same as tubectomy",
+      "D": "Only for STI cure"
+    },
+    "correct_answer": "A",
+    "explanation": "low sperm count or cervical factor"
+  },
+  {
+    "source_sentence": "STI: Gonorrhoea.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding Gonorrhoea (Q1):",
+    "options": {
+      "A": "It is an STI (bacterial STI)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "curable if early"
+  },
+  {
+    "source_sentence": "STI: Syphilis.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding Syphilis (Q2):",
+    "options": {
+      "A": "It is an STI (bacterial STI)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "curable if early"
+  },
+  {
+    "source_sentence": "STI: Genital herpes.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding Genital herpes (Q3):",
+    "options": {
+      "A": "It is an STI (viral)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "not completely curable"
+  },
+  {
+    "source_sentence": "STI: HIV/AIDS.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding HIV/AIDS (Q4):",
+    "options": {
+      "A": "It is an STI (viral)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "most dangerous STI per NCERT"
+  },
+  {
+    "source_sentence": "STI: Hepatitis-B.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding Hepatitis-B (Q5):",
+    "options": {
+      "A": "It is an STI (viral)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "spread sexually and via blood"
+  },
+  {
+    "source_sentence": "STI: Chlamydiasis.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding Chlamydiasis (Q6):",
+    "options": {
+      "A": "It is an STI (STI)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "early minor symptoms"
+  },
+  {
+    "source_sentence": "STI: Trichomoniasis.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding Trichomoniasis (Q7):",
+    "options": {
+      "A": "It is an STI (STI)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "genital itching/discharge"
+  },
+  {
+    "source_sentence": "STI: Genital warts.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Regarding Genital warts (Q8):",
+    "options": {
+      "A": "It is an STI (STI)",
+      "B": "It is a contraceptive method",
+      "C": "It is an ART technique",
+      "D": "It prevents pregnancy only"
+    },
+    "correct_answer": "A",
+    "explanation": "early detection important"
+  },
+  {
+    "source_sentence": "Reproductive health policy: RCH programmes.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about RCH programmes (item 1):",
+    "options": {
+      "A": "reproductive and child health care",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "awareness and facilities"
+  },
+  {
+    "source_sentence": "Reproductive health policy: Female marriage age 18.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about Female marriage age 18 (item 2):",
+    "options": {
+      "A": "statutory minimum",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "population stabilization measure"
+  },
+  {
+    "source_sentence": "Reproductive health policy: Male marriage age 21.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about Male marriage age 21 (item 3):",
+    "options": {
+      "A": "statutory minimum",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "population measure"
+  },
+  {
+    "source_sentence": "Reproductive health policy: Hum Do Hamare Do.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about Hum Do Hamare Do (item 4):",
+    "options": {
+      "A": "family planning slogan",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "two-child norm"
+  },
+  {
+    "source_sentence": "Reproductive health policy: Amniocentesis.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about Amniocentesis (item 5):",
+    "options": {
+      "A": "fetal cell analysis",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "detect genetic disorders legally"
+  },
+  {
+    "source_sentence": "Reproductive health policy: Immunisation programmes.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about Immunisation programmes (item 6):",
+    "options": {
+      "A": "child health",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH component"
+  },
+  {
+    "source_sentence": "Reproductive health policy: Sex education in schools.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about Sex education in schools (item 7):",
+    "options": {
+      "A": "reduce myths",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "reproductive health strategy"
+  },
+  {
+    "source_sentence": "Reproductive health policy: Infertility clinics.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Select correct statement about Infertility clinics (item 8):",
+    "options": {
+      "A": "diagnosis and ART",
+      "B": "Banned in India entirely",
+      "C": "Unrelated to reproductive health",
+      "D": "Only for plants"
+    },
+    "correct_answer": "A",
+    "explanation": "assist childless couples"
+  },
+  {
+    "source_sentence": "Case: Couple uses condom and avoids STI after partner treatment.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Primary dual role of condom:",
+    "options": {
+      "A": "Only MTP",
+      "B": "Contraception + STI prevention",
+      "C": "Only IUI",
+      "D": "Genetic diagnosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Barrier gives contraception and infection protection."
+  },
+  {
+    "source_sentence": "Case: Woman takes Saheli once weekly.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Saheli is:",
+    "options": {
+      "A": "Copper IUD",
+      "B": "Non-steroidal weekly oral pill",
+      "C": "Vasectomy",
+      "D": "MTP drug only"
+    },
+    "correct_answer": "B",
+    "explanation": "Indian CDRI development—weekly non-steroidal pill."
+  },
+  {
+    "source_sentence": "Case: Doctor inserts CuT after counselling.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "CuT is example of:",
+    "options": {
+      "A": "Natural method",
+      "B": "Copper releasing IUD",
+      "C": "Surgical sterilisation",
+      "D": "IVF"
+    },
+    "correct_answer": "B",
+    "explanation": "CuT/Cu7/Multiload are copper IUDs."
+  },
+  {
+    "source_sentence": "Case: Pregnancy terminated at 10 weeks legally.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "This is:",
+    "options": {
+      "A": "STI treatment",
+      "B": "First trimester MTP",
+      "C": "Tubectomy",
+      "D": "GIFT"
+    },
+    "correct_answer": "B",
+    "explanation": "10 weeks falls in first trimester MTP window."
+  },
+  {
+    "source_sentence": "Case: Sperm count very low; single sperm injected into ovum.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Procedure is:",
+    "options": {
+      "A": "GIFT",
+      "B": "ICSI",
+      "C": "Withdrawal",
+      "D": "Lactational amenorrhea"
+    },
+    "correct_answer": "B",
+    "explanation": "ICSI for severe oligospermia."
+  },
+  {
+    "source_sentence": "Case: Donor ovum placed in recipient fallopian tube.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Procedure:",
+    "options": {
+      "A": "GIFT",
+      "B": "Vasectomy",
+      "C": "CuT insertion",
+      "D": "Amniocentesis for sex"
+    },
+    "correct_answer": "A",
+    "explanation": "GIFT = gamete intra-fallopian transfer."
+  },
+  {
+    "source_sentence": "Case: Unprotected intercourse; pill within 48 hours.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Emergency contraception:",
+    "options": {
+      "A": "Progestogen within 72 hours",
+      "B": "Must wait 9 months",
+      "C": "Only surgical",
+      "D": "Ineffective always"
+    },
+    "correct_answer": "A",
+    "explanation": "Emergency pills/IUD within 72 hours."
+  },
+  {
+    "source_sentence": "Case: Female with PID from untreated STI.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Complication of undetected STI:",
+    "options": {
+      "A": "Pelvic inflammatory disease",
+      "B": "Increased height",
+      "C": "Apomixis",
+      "D": "Wind pollination"
+    },
+    "correct_answer": "A",
+    "explanation": "PID is STI complication in females."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 1.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 1)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 2.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 2)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 3.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 3)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 4.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 4)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 5.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 5)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 6.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 6)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 7.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 7)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 8.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 8)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 9.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 9)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 10.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 10)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 11.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 11)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 12.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 12)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 13.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 13)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 14.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 14)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 15.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 15)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 16.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 16)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 17.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 17)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 18.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 18)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 19.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 19)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 20.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 20)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  },
+  {
+    "source_sentence": "Reproductive health awareness topic batch 21.",
+    "chapter": "Chapter 3: Reproductive Health",
+    "question": "Which is an aim of RCH programmes (variant 21)?",
+    "options": {
+      "A": "Creating awareness about safe sexual practices and contraception",
+      "B": "Promoting uncontrolled population growth",
+      "C": "Discouraging all medical assistance",
+      "D": "Banning all fertility treatments"
+    },
+    "correct_answer": "A",
+    "explanation": "RCH promotes awareness, facilities, and healthy families."
+  }
+]

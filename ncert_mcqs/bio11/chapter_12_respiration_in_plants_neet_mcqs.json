@@ -1,0 +1,1133 @@
+[
+  {
+    "source_sentence": "Plants respire all living cells; stomata and lenticels for gas exchange.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Plants exchange gases primarily through:",
+    "options": {
+      "A": "Lungs",
+      "B": "Stomata and lenticels by diffusion",
+      "C": "Gills",
+      "D": "Tracheae only"
+    },
+    "correct_answer": "B",
+    "explanation": "No special respiratory organs; stomata and lenticels suffice."
+  },
+  {
+    "source_sentence": "ATP is energy currency of cell.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "ATP acts as the 'energy currency' because:",
+    "options": {
+      "A": "It stores energy in bonds used when needed",
+      "B": "It is only structural",
+      "C": "It cannot be broken down",
+      "D": "It replaces glucose entirely"
+    },
+    "correct_answer": "A",
+    "explanation": "Energy trapped in ATP is utilised on demand."
+  },
+  {
+    "source_sentence": "Respiration in cytoplasm and mitochondria in eukaryotes.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "In eukaryotes, complete aerobic respiration occurs in:",
+    "options": {
+      "A": "Chloroplast only",
+      "B": "Cytoplasm and mitochondria",
+      "C": "Nucleus only",
+      "D": "Vacuole only"
+    },
+    "correct_answer": "B",
+    "explanation": "Glycolysis in cytoplasm; Krebs and ETS in mitochondria."
+  },
+  {
+    "source_sentence": "Glycolysis EMP pathway in all living organisms cytoplasm.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Glycolysis occurs in:",
+    "options": {
+      "A": "Mitochondrial matrix only",
+      "B": "Cytoplasm of all living organisms",
+      "C": "Only bacteria",
+      "D": "Only chloroplast stroma"
+    },
+    "correct_answer": "B",
+    "explanation": "EMP pathway is universal in cytoplasm."
+  },
+  {
+    "source_sentence": "Glucose to 2 pyruvate in glycolysis.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Glycolysis oxidises one glucose to:",
+    "options": {
+      "A": "One pyruvate",
+      "B": "Two pyruvate molecules",
+      "C": "Six CO2 directly",
+      "D": "Ethanol always"
+    },
+    "correct_answer": "B",
+    "explanation": "Ten steps yield 2 pyruvic acid per glucose."
+  },
+  {
+    "source_sentence": "ATP used in glycolysis at 2 steps; 4 ATP produced net 2 ATP.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Net ATP gain directly from glycolysis per glucose is:",
+    "options": {
+      "A": "4 ATP",
+      "B": "2 ATP",
+      "C": "38 ATP",
+      "D": "0 ATP"
+    },
+    "correct_answer": "B",
+    "explanation": "4 ATP made, 2 used—net 2 ATP (substrate-level)."
+  },
+  {
+    "source_sentence": "2 NADH formed in glycolysis from PGAL to BPGA step.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "During glycolysis, NADH is produced when:",
+    "options": {
+      "A": "Glucose enters cell",
+      "B": "PGAL is oxidised to BPGA",
+      "C": "Pyruvate enters mitochondria",
+      "D": "O2 is reduced"
+    },
+    "correct_answer": "B",
+    "explanation": "One NADH per triose; 2 per glucose."
+  },
+  {
+    "source_sentence": "Invertase converts sucrose to glucose and fructose before glycolysis.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "In plants, sucrose enters glycolysis after conversion by:",
+    "options": {
+      "A": "RuBisCO",
+      "B": "Invertase to glucose and fructose",
+      "C": "PEPcase",
+      "D": "DNA ligase"
+    },
+    "correct_answer": "B",
+    "explanation": "Invertase hydrolyses sucrose to monosaccharides."
+  },
+  {
+    "source_sentence": "Fermentation: alcohol in yeast, lactic acid in muscle bacteria.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Under anaerobic conditions, yeast ferments pyruvate to:",
+    "options": {
+      "A": "Lactic acid only",
+      "B": "CO2 and ethanol",
+      "C": "Acetyl CoA",
+      "D": "Citrate"
+    },
+    "correct_answer": "B",
+    "explanation": "Alcoholic fermentation yields CO2 and ethanol."
+  },
+  {
+    "source_sentence": "Lactate dehydrogenase reduces pyruvate to lactic acid in muscles.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "In oxygen-deficient muscle, pyruvate is converted to lactic acid by:",
+    "options": {
+      "A": "Alcohol dehydrogenase",
+      "B": "Lactate dehydrogenase",
+      "C": "RuBisCO",
+      "D": "Hexokinase"
+    },
+    "correct_answer": "B",
+    "explanation": "LDH uses NADH to reduce pyruvate to lactate."
+  },
+  {
+    "source_sentence": "Fermentation releases <7% glucose energy; vigorous aerobic oxidation.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Fermentation compared to aerobic respiration:",
+    "options": {
+      "A": "Releases more than 50% energy in ATP",
+      "B": "Releases less than 7% of glucose energy in usable form",
+      "C": "Produces 38 ATP per glucose",
+      "D": "Requires O2"
+    },
+    "correct_answer": "B",
+    "explanation": "Fermentation is inefficient energetically."
+  },
+  {
+    "source_sentence": "Yeast dies ~13% alcohol concentration.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Naturally fermented beverages rarely exceed ~13% alcohol because:",
+    "options": {
+      "A": "Yeast is killed at higher alcohol concentrations",
+      "B": "Glucose is unlimited",
+      "C": "O2 is required for higher alcohol",
+      "D": "Ethanol cannot form above 5%"
+    },
+    "correct_answer": "A",
+    "explanation": "Yeast poisons itself around 13% ethanol."
+  },
+  {
+    "source_sentence": "Pyruvate oxidative decarboxylation to acetyl CoA in mitochondrial matrix.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Pyruvate enters mitochondria and is converted to:",
+    "options": {
+      "A": "Citrate directly",
+      "B": "Acetyl CoA with release of CO2 and NADH",
+      "C": "Ethanol",
+      "D": "RuBP"
+    },
+    "correct_answer": "B",
+    "explanation": "Pyruvate dehydrogenase forms acetyl CoA."
+  },
+  {
+    "source_sentence": "2 NADH from 2 pyruvate per glucose in link reaction.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "From one glucose, pyruvate oxidation in mitochondria produces:",
+    "options": {
+      "A": "1 NADH",
+      "B": "2 NADH (one per pyruvate)",
+      "C": "6 NADH",
+      "D": "No NADH"
+    },
+    "correct_answer": "B",
+    "explanation": "Two pyruvates give two NADH."
+  },
+  {
+    "source_sentence": "TCA cycle in matrix; ETS on inner membrane.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Krebs cycle occurs in:",
+    "options": {
+      "A": "Outer mitochondrial membrane",
+      "B": "Mitochondrial matrix",
+      "C": "Chloroplast thylakoid",
+      "D": "Nucleus"
+    },
+    "correct_answer": "B",
+    "explanation": "TCA enzymes are matrix-localised."
+  },
+  {
+    "source_sentence": "Citrate synthase condenses acetyl CoA with OAA.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "The first reaction of TCA cycle forms:",
+    "options": {
+      "A": "Pyruvate",
+      "B": "Citrate from acetyl CoA and oxaloacetic acid",
+      "C": "Ethanol",
+      "D": "PGA"
+    },
+    "correct_answer": "B",
+    "explanation": "Acetyl CoA + OAA → citrate."
+  },
+  {
+    "source_sentence": "TCA: 3 NADH, 1 FADH2, 1 ATP (GTP) per acetyl CoA turn.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "One turn of TCA cycle per acetyl CoA directly yields:",
+    "options": {
+      "A": "3 NADH, 1 FADH2, 1 ATP (via GTP)",
+      "B": "2 NADH only",
+      "C": "6 CO2 immediately from glucose",
+      "D": "38 ATP"
+    },
+    "correct_answer": "A",
+    "explanation": "Three NADH, one FADH2 and one substrate-level ATP per turn."
+  },
+  {
+    "source_sentence": "After glycolysis and TCA from one glucose: 8 NADH and 2 FADH2 before ETS.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Before ETS, complete processing of one glucose yields approximately:",
+    "options": {
+      "A": "2 NADH and 0 FADH2",
+      "B": "8 NADH + H+ and 2 FADH2 (plus 2 ATP from glycolysis/TCA)",
+      "C": "38 ATP directly",
+      "D": "Only CO2"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT tallies 8 NADH+H+ and 2 FADH2 entering ETS pathways."
+  },
+  {
+    "source_sentence": "ETS on inner mitochondrial membrane complexes I-V.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Electron transport system is located on:",
+    "options": {
+      "A": "Outer membrane only",
+      "B": "Inner mitochondrial membrane",
+      "C": "Cytoplasm",
+      "D": "Cell wall"
+    },
+    "correct_answer": "B",
+    "explanation": "ETS complexes embedded in inner membrane."
+  },
+  {
+    "source_sentence": "NADH gives 3 ATP; FADH2 gives 2 ATP per NCERT.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Oxidation of one NADH via ETS produces approximately:",
+    "options": {
+      "A": "2 ATP",
+      "B": "3 ATP",
+      "C": "38 ATP",
+      "D": "1 ATP"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT: 1 NADH → 3 ATP; FADH2 → 2 ATP."
+  },
+  {
+    "source_sentence": "FADH2 from succinate oxidation yields 2 ATP.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "One FADH2 oxidised through ETS yields:",
+    "options": {
+      "A": "3 ATP",
+      "B": "2 ATP",
+      "C": "4 ATP",
+      "D": "38 ATP"
+    },
+    "correct_answer": "B",
+    "explanation": "FADH2 entry at complex II gives 2 ATP equivalent."
+  },
+  {
+    "source_sentence": "O2 final electron acceptor forming water.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Oxygen in aerobic respiration acts as:",
+    "options": {
+      "A": "Initial electron donor",
+      "B": "Final electron/hydrogen acceptor forming H2O",
+      "C": "CO2 source",
+      "D": "Inhibitor of glycolysis"
+    },
+    "correct_answer": "B",
+    "explanation": "O2 drives ETS by accepting electrons at complex IV."
+  },
+  {
+    "source_sentence": "Oxidative phosphorylation uses redox energy not light.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Oxidative phosphorylation differs from photophosphorylation in using:",
+    "options": {
+      "A": "Light energy",
+      "B": "Energy of oxidation-reduction in ETS",
+      "C": "Only substrate-level phosphorylation",
+      "D": "CO2 fixation"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitochondrial ATP synthesis uses ETS redox energy."
+  },
+  {
+    "source_sentence": "Chemiosmosis: protons in intermembrane space; flow through F0.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "In mitochondria, protons accumulate in:",
+    "options": {
+      "A": "Matrix during ETS",
+      "B": "Intermembrane space creating gradient",
+      "C": "Cytoplasm only",
+      "D": "Thylakoid lumen"
+    },
+    "correct_answer": "B",
+    "explanation": "Opposite to chloroplast—protons outside matrix."
+  },
+  {
+    "source_sentence": "4 H+ per ATP through F0 channel per NCERT.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "For each ATP synthesised, approximately how many H+ pass through F0?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "12"
+    },
+    "correct_answer": "C",
+    "explanation": "NCERT states 4 H+ per ATP through F0."
+  },
+  {
+    "source_sentence": "F1 has catalytic site; F0 is channel.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "ATP synthase F1 subunit:",
+    "options": {
+      "A": "Forms proton channel only",
+      "B": "Contains catalytic site for ATP synthesis on matrix side",
+      "C": "Is absent in mitochondria",
+      "D": "Only in chloroplasts"
+    },
+    "correct_answer": "B",
+    "explanation": "F1 peripheral; F0 channel across membrane."
+  },
+  {
+    "source_sentence": "Net 38 ATP theoretical aerobic respiration per glucose NCERT.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Theoretical net ATP from complete aerobic oxidation of one glucose is:",
+    "options": {
+      "A": "2 ATP",
+      "B": "12 ATP",
+      "C": "38 ATP",
+      "D": "4 ATP only from glycolysis"
+    },
+    "correct_answer": "C",
+    "explanation": "NCERT balance sheet gives net gain of 38 ATP under assumptions."
+  },
+  {
+    "source_sentence": "2 ATP substrate level from glycolysis; 2 more from TCA GTP.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Substrate-level phosphorylation in aerobic respiration of glucose directly produces:",
+    "options": {
+      "A": "38 ATP without ETS",
+      "B": "4 ATP (2 glycolysis + 2 from TCA/GTP)",
+      "C": "0 ATP",
+      "D": "Only 1 ATP"
+    },
+    "correct_answer": "B",
+    "explanation": "Direct ATP: 2 in glycolysis, 2 via GTP/ATP in TCA."
+  },
+  {
+    "source_sentence": "Assumptions for 38 ATP: sequential pathway, NADH enters mitochondria, only glucose.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Calculation of 38 ATP assumes all EXCEPT:",
+    "options": {
+      "A": "Sequential orderly pathway",
+      "B": "Simultaneous amphibolic withdrawals of intermediates",
+      "C": "NADH from glycolysis enters mitochondria",
+      "D": "Only glucose respired"
+    },
+    "correct_answer": "B",
+    "explanation": "Living systems use intermediates simultaneously—violates simple assumption."
+  },
+  {
+    "source_sentence": "Amphibolic pathway both anabolism and catabolism.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Respiratory pathway is amphibolic because it:",
+    "options": {
+      "A": "Only breaks down molecules",
+      "B": "Participates in both breakdown and biosynthesis",
+      "C": "Occurs only in plants",
+      "D": "Does not involve Krebs cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "Same intermediates used for synthesis and degradation."
+  },
+  {
+    "source_sentence": "RQ = CO2 evolved / O2 consumed.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "The ratio of volumes of CO2 released to O2 absorbed during respiration is called:",
+    "options": {
+      "A": "Respiratory quotient (RQ)",
+      "B": "Photosynthetic quotient only",
+      "C": "ATP yield ratio",
+      "D": "Enzyme activity index"
+    },
+    "correct_answer": "A",
+    "explanation": "RQ = CO2 evolved / O2 consumed for a given substrate."
+  },
+  {
+    "source_sentence": "Carbohydrate RQ = 1.0.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "When carbohydrate is fully oxidised, RQ is:",
+    "options": {
+      "A": "0.7",
+      "B": "1.0",
+      "C": "0.9",
+      "D": "2.0"
+    },
+    "correct_answer": "B",
+    "explanation": "Equal CO2 and O2 moles give RQ 1."
+  },
+  {
+    "source_sentence": "Tripalmitin fat RQ = 102/145 = 0.7.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Respiration of tripalmitin (a fat) gives RQ of about:",
+    "options": {
+      "A": "1.0",
+      "B": "0.7",
+      "C": "1.2",
+      "D": "0.3"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT calculation: 102 CO2 / 145 O2 ≈ 0.7."
+  },
+  {
+    "source_sentence": "Protein RQ about 0.9.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "When proteins are respiratory substrates, RQ is approximately:",
+    "options": {
+      "A": "0.7",
+      "B": "0.9",
+      "C": "1.0",
+      "D": "1.5"
+    },
+    "correct_answer": "B",
+    "explanation": "Protein RQ is about 0.9."
+  },
+  {
+    "source_sentence": "Aerobic respiration produces far more ATP than fermentation.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Assertion (A): Complete oxidation of glucose to CO2 and H2O yields many ATP via ETS.\nReason (R): Fermentation releases less than 7% of glucose energy.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Complete oxidation through ETS explains higher ATP yield vs fermentation."
+  },
+  {
+    "source_sentence": "O2 is vital for aerobic respiration though used only at ETS end.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Assertion (A): Oxygen acts only at terminal step of respiration.\nReason (R): Oxygen removes hydrogen maintaining ETS flow.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Terminal acceptor role drives whole ETS by removing H+."
+  },
+  {
+    "source_sentence": "Glycolysis can proceed without O2.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Assertion (A): Glycolysis occurs in cytoplasm without oxygen.\nReason (R): Anaerobic organisms use only glycolysis for respiration.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true but anaerobe example doesn't explain universality of glycolysis without O2 as reason for A."
+  },
+  {
+    "source_sentence": "Mitochondrial NADH yields more ATP than cytosolic NADH in some textbooks; NCERT uses 3 per NADH.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Assertion (A): Each NADH oxidised via ETS gives 3 ATP per NCERT.\nReason (R): FADH2 gives 2 ATP because it enters at complex II.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "B",
+    "explanation": "Both true; different ATP yield explains FADH2 vs NADH but is not strict explanation of NADH statement."
+  },
+  {
+    "source_sentence": "RQ depends on respiratory substrate.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Assertion (A): Fats have lower RQ than carbohydrates.\nReason (R): Fat oxidation requires more O2 per carbon than carbohydrate.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Higher O2 need per CO2 released lowers RQ for fats."
+  },
+  {
+    "source_sentence": "Hexokinase phosphorylates glucose to glucose-6-phosphate.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "First ATP-consuming step of glycolysis catalysed by:",
+    "options": {
+      "A": "Hexokinase",
+      "B": "RuBisCO",
+      "C": "Citrate synthase",
+      "D": "LDH"
+    },
+    "correct_answer": "A",
+    "explanation": "Hexokinase phosphorylates glucose."
+  },
+  {
+    "source_sentence": "Fructose-6-P to fructose-1,6-bisphosphate uses ATP.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Second ATP investment in glycolysis occurs at:",
+    "options": {
+      "A": "PEP to pyruvate",
+      "B": "Fructose-6-phosphate to fructose-1,6-bisphosphate",
+      "C": "Citrate formation",
+      "D": "O2 reduction"
+    },
+    "correct_answer": "B",
+    "explanation": "Second ATP used phosphorylating fructose-6-P."
+  },
+  {
+    "source_sentence": "Substrate-level ATP at PEP to pyruvate and BPGA to PGA.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Substrate-level ATP synthesis in glycolysis occurs at:",
+    "options": {
+      "A": "Only glucose uptake",
+      "B": "BPGA to PGA and PEP to pyruvate steps",
+      "C": "Only ETS",
+      "D": "Only Calvin cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "Two substrate-level ATP forming steps."
+  },
+  {
+    "source_sentence": "Pyruvic acid decarboxylase and alcohol dehydrogenase in yeast.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Ethanol formation in yeast requires:",
+    "options": {
+      "A": "Pyruvate decarboxylase and alcohol dehydrogenase",
+      "B": "Only RuBisCO",
+      "C": "Only PEPcase",
+      "D": "Only ATP synthase"
+    },
+    "correct_answer": "A",
+    "explanation": "Two enzymes catalyse alcoholic fermentation."
+  },
+  {
+    "source_sentence": "Facultative anaerobes can switch pathways.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Facultative anaerobes:",
+    "options": {
+      "A": "Always require O2",
+      "B": "Can respire aerobically or ferment anaerobically",
+      "C": "Lack glycolysis",
+      "D": "Only use fats"
+    },
+    "correct_answer": "B",
+    "explanation": "They switch based on O2 availability."
+  },
+  {
+    "source_sentence": "Obligate anaerobes require anaerobic conditions.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Obligate anaerobes:",
+    "options": {
+      "A": "Thrive only with high O2",
+      "B": "Require absence of oxygen",
+      "C": "Lack enzymes",
+      "D": "Only photosynthesise"
+    },
+    "correct_answer": "B",
+    "explanation": "Oxygen is toxic to obligate anaerobes."
+  },
+  {
+    "source_sentence": "Complete combustion of glucose releases heat not usable ATP directly.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Complete combustion of glucose in one step:",
+    "options": {
+      "A": "Traps all energy as ATP",
+      "B": "Releases energy mostly as heat—not useful for cells",
+      "C": "Produces only lactic acid",
+      "D": "Requires no O2"
+    },
+    "correct_answer": "B",
+    "explanation": "Cells avoid one-step combustion."
+  },
+  {
+    "source_sentence": "Stepwise oxidation traps energy in ATP.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Cells oxidise glucose in small steps to:",
+    "options": {
+      "A": "Release all energy as heat immediately",
+      "B": "Couple energy release to ATP synthesis",
+      "C": "Avoid CO2 production",
+      "D": "Only produce ethanol"
+    },
+    "correct_answer": "B",
+    "explanation": "Stepwise reactions enable ATP coupling."
+  },
+  {
+    "source_sentence": "Respiratory substrates include carbs fats proteins organic acids.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Under certain conditions plants may respire:",
+    "options": {
+      "A": "Only carbohydrates",
+      "B": "Fats, proteins and organic acids besides carbohydrates",
+      "C": "Only O2",
+      "D": "Only chlorophyll"
+    },
+    "correct_answer": "B",
+    "explanation": "Multiple substrates can be oxidised."
+  },
+  {
+    "source_sentence": "Green plants non-green parts need respiration.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "In green plants, non-green tissues respire because:",
+    "options": {
+      "A": "They photosynthesise exclusively",
+      "B": "They lack chloroplasts and need imported food for oxidation",
+      "C": "They do not require ATP",
+      "D": "They only ferment always"
+    },
+    "correct_answer": "B",
+    "explanation": "Non-green parts depend on translocated food."
+  },
+  {
+    "source_sentence": "Saprophytes on dead matter.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Fungi as saprophytes obtain food from:",
+    "options": {
+      "A": "Only living prey",
+      "B": "Dead and decaying organic matter",
+      "C": "Only sunlight",
+      "D": "Only minerals without carbon"
+    },
+    "correct_answer": "B",
+    "explanation": "Saprophytes depend on decaying matter."
+  },
+  {
+    "source_sentence": "Succinyl-CoA to succinate substrate-level GTP.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Substrate-level phosphorylation in TCA occurs during:",
+    "options": {
+      "A": "Succinyl-CoA to succinate conversion",
+      "B": "O2 binding",
+      "C": "Glycolysis only in plants",
+      "D": "Photosynthesis"
+    },
+    "correct_answer": "A",
+    "explanation": "GTP formed then converts to ATP."
+  },
+  {
+    "source_sentence": "Isocitrate to alpha-ketoglutarate decarboxylation in TCA.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "CO2 is released in TCA cycle during:",
+    "options": {
+      "A": "Only glycolysis",
+      "B": "Decarboxylation steps of TCA",
+      "C": "Only ETS",
+      "D": "Only fermentation"
+    },
+    "correct_answer": "B",
+    "explanation": "Two decarboxylations per turn."
+  },
+  {
+    "source_sentence": "Ubiquinone receives electrons from complex I and II.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Ubiquinone in ETS receives electrons from:",
+    "options": {
+      "A": "Only complex IV",
+      "B": "Complex I (NADH) and complex II (FADH2)",
+      "C": "Only cytoplasm",
+      "D": "Only Calvin cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "Ubiquinol transfers electrons to cyt b-c1."
+  },
+  {
+    "source_sentence": "Cytochrome c mobile carrier between III and IV.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Cytochrome c is:",
+    "options": {
+      "A": "Embedded in outer membrane only",
+      "B": "Mobile carrier between complexes III and IV",
+      "C": "Absent in mitochondria",
+      "D": "Only in chloroplasts"
+    },
+    "correct_answer": "B",
+    "explanation": "Cytochrome c shuttles electrons."
+  },
+  {
+    "source_sentence": "Complex IV cytochrome c oxidase reduces O2 to water.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Cytochrome c oxidase (complex IV):",
+    "options": {
+      "A": "Oxidises NADH in matrix",
+      "B": "Transfers electrons to O2 forming H2O",
+      "C": "Fixes CO2",
+      "D": "Splits water"
+    },
+    "correct_answer": "B",
+    "explanation": "Terminal oxidase reduces oxygen to water."
+  },
+  {
+    "source_sentence": "NADH dehydrogenase is complex I.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "NADH from matrix is oxidised by:",
+    "options": {
+      "A": "Complex I (NADH dehydrogenase)",
+      "B": "RuBisCO",
+      "C": "PEPcase",
+      "D": "Invertase only"
+    },
+    "correct_answer": "A",
+    "explanation": "Complex I oxidises mitochondrial NADH."
+  },
+  {
+    "source_sentence": "Succinate dehydrogenase is complex II.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "FADH2 from succinate oxidation enters ETS at:",
+    "options": {
+      "A": "Complex II",
+      "B": "Complex V only",
+      "C": "Stroma",
+      "D": "Nucleus"
+    },
+    "correct_answer": "A",
+    "explanation": "Complex II (succinate dehydrogenase)."
+  },
+  {
+    "source_sentence": "ETS linked to ATP synthase complex V.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "ATP synthase in mitochondria is:",
+    "options": {
+      "A": "Complex V coupled to ETS",
+      "B": "Complex I",
+      "C": "Not linked to proton gradient",
+      "D": "Only in cytoplasm"
+    },
+    "correct_answer": "A",
+    "explanation": "Complex V uses proton gradient."
+  },
+  {
+    "source_sentence": "Glycerol enters as PGAL; fatty acids as acetyl CoA.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Fatty acid respiration enters Krebs cycle via:",
+    "options": {
+      "A": "Acetyl CoA after beta-oxidation",
+      "B": "Direct RuBP fixation",
+      "C": "Only lactic acid",
+      "D": "PEP only"
+    },
+    "correct_answer": "A",
+    "explanation": "Fatty acids degraded to acetyl CoA."
+  },
+  {
+    "source_sentence": "Amino acids after deamination enter at various points.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Amino acid carbon skeletons after deamination may enter respiration as:",
+    "options": {
+      "A": "Pyruvate, acetyl CoA or Krebs intermediates",
+      "B": "Only O2",
+      "C": "Only starch",
+      "D": "Only chlorophyll"
+    },
+    "correct_answer": "A",
+    "explanation": "Entry point depends on amino acid structure."
+  },
+  {
+    "source_sentence": "Fats to glycerol and fatty acids before respiration.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Before respiration, fats are broken into:",
+    "options": {
+      "A": "Glycerol and fatty acids",
+      "B": "Only glucose",
+      "C": "Only amino acids",
+      "D": "Only CO2"
+    },
+    "correct_answer": "A",
+    "explanation": "Lipase action yields glycerol and fatty acids."
+  },
+  {
+    "source_sentence": "All carbohydrates converted to glucose before respiration.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Before entering glycolysis, most carbohydrates are converted to:",
+    "options": {
+      "A": "Glucose",
+      "B": "RuBP",
+      "C": "PEP only",
+      "D": "Lactic acid"
+    },
+    "correct_answer": "A",
+    "explanation": "Glucose is favoured glycolytic substrate."
+  },
+  {
+    "source_sentence": "Germinating seeds can ferment anaerobically.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Anaerobic fermentation occurs in:",
+    "options": {
+      "A": "Germinating seeds among other organisms",
+      "B": "Only adult mammals always",
+      "C": "Only chloroplasts",
+      "D": "Only dead cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Germinating seeds may ferment when O2 limited."
+  },
+  {
+    "source_sentence": "Plants low respiration rate except photosynthesising leaves gas exchange.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Plant roots respire at rates:",
+    "options": {
+      "A": "Equal to flying birds always",
+      "B": "Generally far lower than animals",
+      "C": "Zero",
+      "D": "Only in darkness impossible"
+    },
+    "correct_answer": "B",
+    "explanation": "Plant parts respire slowly except photosynthetic gas exchange."
+  },
+  {
+    "source_sentence": "Living cells near surface in bulky stems via lenticels.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Gas exchange in thick woody stems occurs through:",
+    "options": {
+      "A": "Lenticels and thin living layers beneath bark",
+      "B": "Only stomata on wood surface",
+      "C": "No exchange possible",
+      "D": "Only roots breathing"
+    },
+    "correct_answer": "A",
+    "explanation": "Lenticels and living layers contact air."
+  },
+  {
+    "source_sentence": "Compare aerobic vs anaerobic respiration ATP.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Aerobic respiration of glucose yields more ATP than fermentation because:",
+    "options": {
+      "A": "Only glycolysis runs",
+      "B": "Complete oxidation via TCA and ETS traps more energy",
+      "C": "O2 is not used",
+      "D": "CO2 is not produced"
+    },
+    "correct_answer": "B",
+    "explanation": "Krebs + ETS complete oxidation."
+  },
+  {
+    "source_sentence": "NADH reoxidation slow in fermentation fast in aerobic.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "In fermentation NADH is reoxidised:",
+    "options": {
+      "A": "Via ETS to O2 rapidly",
+      "B": "Slowly by reducing pyruvate (or derivatives)",
+      "C": "Not at all",
+      "D": "Only in mitochondria"
+    },
+    "correct_answer": "B",
+    "explanation": "Fermentation uses NADH to reduce organic products."
+  },
+  {
+    "source_sentence": "Respiration vs combustion: controlled stepwise in cells.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Cellular respiration differs from combustion in:",
+    "options": {
+      "A": "Releasing all energy as heat at once",
+      "B": "Controlled stepwise enzyme-catalysed release trapped as ATP",
+      "C": "Not requiring organic fuel",
+      "D": "Only occurring in fire"
+    },
+    "correct_answer": "B",
+    "explanation": "Respiration is controlled biological oxidation."
+  },
+  {
+    "source_sentence": "Glycolysis EMP named after Embden Meyerhof Parnas.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "EMP pathway is named after:",
+    "options": {
+      "A": "Calvin, Benson and Bassham",
+      "B": "Embden, Meyerhof and Parnas",
+      "C": "Hatch and Slack",
+      "D": "Priestley only"
+    },
+    "correct_answer": "B",
+    "explanation": "Gustav Embden, Otto Meyerhof, J. Parnas."
+  },
+  {
+    "source_sentence": "Mitochondria pyruvate transport for aerobic continuation.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Aerobic continuation after glycolysis requires pyruvate:",
+    "options": {
+      "A": "To remain only in cytoplasm",
+      "B": "Transport into mitochondrial matrix",
+      "C": "To form starch",
+      "D": "To enter nucleus"
+    },
+    "correct_answer": "B",
+    "explanation": "Pyruvate enters mitochondria for aerobic steps."
+  },
+  {
+    "source_sentence": "Two CO2 per glucose from link reaction (2 pyruvate).",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Oxidative decarboxylation of pyruvate from one glucose releases:",
+    "options": {
+      "A": "1 CO2",
+      "B": "2 CO2",
+      "C": "6 CO2 immediately",
+      "D": "No CO2"
+    },
+    "correct_answer": "B",
+    "explanation": "One CO2 per pyruvate → 2 CO2."
+  },
+  {
+    "source_sentence": "Six CO2 total per glucose fully oxidised.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Total CO2 from complete aerobic oxidation of one glucose is:",
+    "options": {
+      "A": "2 molecules",
+      "B": "3 molecules",
+      "C": "6 molecules",
+      "D": "12 molecules"
+    },
+    "correct_answer": "C",
+    "explanation": "6 CO2 from complete oxidation."
+  },
+  {
+    "source_sentence": "ETS produces water from O2 and electrons.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Water formed in aerobic respiration comes from:",
+    "options": {
+      "A": "CO2 hydration only",
+      "B": "Reduction of O2 at complex IV with electrons and protons",
+      "C": "Only glycolysis",
+      "D": "Photosynthesis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Terminal reduction of O2 forms H2O."
+  },
+  {
+    "source_sentence": "Energy not released all at once in respiration.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Step-wise energy release in respiration is significant because:",
+    "options": {
+      "A": "It prevents any ATP formation",
+      "B": "It allows gradual trapping of energy in ATP",
+      "C": "It increases heat only",
+      "D": "It stops Krebs cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "Gradual release enables ATP coupling."
+  },
+  {
+    "source_sentence": "Pure fats or proteins never sole substrates in vivo.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "In living organisms respiratory substrates are often:",
+    "options": {
+      "A": "Pure single substrate always",
+      "B": "More than one; mixed substrates common",
+      "C": "Only water",
+      "D": "Only O2"
+    },
+    "correct_answer": "B",
+    "explanation": "Mixed substrates; pure single substrates rare."
+  },
+  {
+    "source_sentence": "Acetyl CoA withdrawn for fatty acid synthesis amphibolic.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "When cell synthesises fatty acids, acetyl CoA is:",
+    "options": {
+      "A": "Withdrawn from respiratory pathway",
+      "B": "Only from air",
+      "C": "Unavailable in cells",
+      "D": "Only produced in chloroplasts"
+    },
+    "correct_answer": "A",
+    "explanation": "Amphibolic withdrawal for biosynthesis."
+  },
+  {
+    "source_sentence": "Krebs cycle replenishes OAA for continuity.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Oxaloacetic acid in TCA cycle must be:",
+    "options": {
+      "A": "Replenished for cycle continuity",
+      "B": "Permanently removed always",
+      "C": "Converted only to ethanol",
+      "D": "Absent in mitochondria"
+    },
+    "correct_answer": "A",
+    "explanation": "OAA regeneration maintains cyclic operation."
+  },
+  {
+    "source_sentence": "GTP to ATP conversion coupled in TCA.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "GTP produced in TCA is converted to ATP:",
+    "options": {
+      "A": "Without energy coupling",
+      "B": "In a coupled reaction with GDP",
+      "C": "Only in cytoplasm outside mitochondria always",
+      "D": "Only during photosynthesis"
+    },
+    "correct_answer": "B",
+    "explanation": "GTP + ADP ↔ GDP + ATP coupling."
+  },
+  {
+    "source_sentence": "Compare glycolysis vs Krebs location.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Krebs cycle differs from glycolysis in occurring:",
+    "options": {
+      "A": "In cytoplasm",
+      "B": "In mitochondrial matrix",
+      "C": "In nucleus",
+      "D": "In cell wall"
+    },
+    "correct_answer": "B",
+    "explanation": "Glycolysis cytoplasm; Krebs matrix."
+  },
+  {
+    "source_sentence": "Anaerobic glycolysis net 2 ATP same in fermentation.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Net direct ATP from glycolysis in fermentation is still:",
+    "options": {
+      "A": "38 ATP",
+      "B": "2 ATP",
+      "C": "0 ATP",
+      "D": "4 ATP with no cost"
+    },
+    "correct_answer": "B",
+    "explanation": "Glycolysis net 2 ATP; fermentation adds no ETS ATP."
+  },
+  {
+    "source_sentence": "Table trap: ATP yield components.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Maximum theoretical ATP from one glucose if 10 NADH (2+8) at 3 ATP and 2 FADH2 at 2 ATP plus 4 substrate ATP equals:",
+    "options": {
+      "A": "10×3 + 2×2 + 4 = 38 ATP",
+      "B": "10×2 + 2×3 + 2 = 28 ATP",
+      "C": "4 ATP only",
+      "D": "2 ATP only"
+    },
+    "correct_answer": "A",
+    "explanation": "Classic NEET tally: 30+4+4=38 with stated assumptions."
+  },
+  {
+    "source_sentence": "ETS without O2 stops oxidative phosphorylation.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "If O2 is unavailable, ETS cannot proceed because:",
+    "options": {
+      "A": "No final electron acceptor",
+      "B": "Glucose cannot enter cell",
+      "C": "TCA stops first always",
+      "D": "ATP synthase disappears"
+    },
+    "correct_answer": "A",
+    "explanation": "Without terminal acceptor, ETS backs up."
+  },
+  {
+    "source_sentence": "RQ never exactly applies to mixed diets in practice.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "RQ value in living plants is complicated because:",
+    "options": {
+      "A": "They never respire",
+      "B": "Multiple substrates respired simultaneously",
+      "C": "O2 is never consumed",
+      "D": "CO2 is never released"
+    },
+    "correct_answer": "B",
+    "explanation": "Mixed substrates make RQ variable."
+  },
+  {
+    "source_sentence": "Cyanobacteria prepare food but also respire.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Cyanobacteria respire because:",
+    "options": {
+      "A": "They lack metabolism",
+      "B": "All cells need energy from oxidation of food/photosynthate",
+      "C": "They only photosynthesise without respiration",
+      "D": "They are non-living"
+    },
+    "correct_answer": "B",
+    "explanation": "Even autotrophs respire for energy."
+  },
+  {
+    "source_sentence": "Photosynthesis in chloroplasts; respiration mitochondria/cytoplasm.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Energy trapping in photosynthesis occurs in chloroplasts; release via respiration in:",
+    "options": {
+      "A": "Only nucleus",
+      "B": "Mitochondria (and glycolysis in cytoplasm)",
+      "C": "Only vacuole",
+      "D": "Only cell wall"
+    },
+    "correct_answer": "B",
+    "explanation": "Respiration localisation in eukaryotes."
+  },
+  {
+    "source_sentence": "Carbon skeletons from respiration used for biosynthesis.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Carbon skeletons produced during respiration:",
+    "options": {
+      "A": "May serve as biosynthetic precursors",
+      "B": "Must always become CO2 only",
+      "C": "Cannot form fats",
+      "D": "Are only heat"
+    },
+    "correct_answer": "A",
+    "explanation": "Intermediates feed anabolic pathways."
+  },
+  {
+    "source_sentence": "Invertase sucrose cleavage entry to glycolysis.",
+    "chapter": "Chapter 12: Respiration in Plants",
+    "question": "Which enzyme enables sucrose entry into glycolytic pathway?",
+    "options": {
+      "A": "Invertase",
+      "B": "RuBisCO",
+      "C": "LDH",
+      "D": "ATP synthase only"
+    },
+    "correct_answer": "A",
+    "explanation": "Invertase splits sucrose."
+  }
+]

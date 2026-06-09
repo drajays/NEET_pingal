@@ -1,0 +1,1120 @@
+[
+  {
+    "source_sentence": "Restriction enzymes recognize palindromic DNA sequences and cut to form sticky ends.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "EcoRI generates cohesive ends by cutting between G and A in the palindromic site. Which overhang is produced?",
+    "options": {
+      "A": "5' AATT overhang",
+      "B": "3' TTAA overhang",
+      "C": "Blunt ends only",
+      "D": "No overhangs"
+    },
+    "correct_answer": "A",
+    "explanation": "EcoRI cuts GAATTC to leave 5' AATT sticky ends."
+  },
+  {
+    "source_sentence": "HindII cleaves DNA to yield blunt ends.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which restriction endonuclease is known for producing blunt ends in NCERT examples?",
+    "options": {
+      "A": "EcoRI",
+      "B": "HindII",
+      "C": "BamHI",
+      "D": "PstI"
+    },
+    "correct_answer": "B",
+    "explanation": "HindII cuts without overhangs, giving blunt ends."
+  },
+  {
+    "source_sentence": "DNA ligase joins DNA fragments by forming phosphodiester bonds.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The enzyme that seals nicks after restriction digestion during cloning is",
+    "options": {
+      "A": "DNA polymerase I",
+      "B": "DNA ligase",
+      "C": "Reverse transcriptase",
+      "D": "RNA polymerase"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA ligase catalyzes phosphodiester bond formation."
+  },
+  {
+    "source_sentence": "Agarose gel electrophoresis separates DNA fragments based on size.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "During agarose gel electrophoresis, smaller DNA fragments move",
+    "options": {
+      "A": "slower toward the cathode",
+      "B": "faster toward the anode",
+      "C": "slower toward the anode",
+      "D": "faster toward the cathode"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA is negatively charged and smaller fragments move faster to the anode."
+  },
+  {
+    "source_sentence": "pBR322 has two antibiotic resistance genes as selectable markers.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "In pBR322, insertional inactivation is commonly detected using resistance to",
+    "options": {
+      "A": "tetracycline or ampicillin",
+      "B": "kanamycin or chloramphenicol",
+      "C": "streptomycin only",
+      "D": "vancomycin only"
+    },
+    "correct_answer": "A",
+    "explanation": "pBR322 carries ampR and tetR genes."
+  },
+  {
+    "source_sentence": "Origin of replication is essential for plasmid maintenance in host.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The sequence that decides copy number of a cloning vector is the",
+    "options": {
+      "A": "restriction site",
+      "B": "origin of replication",
+      "C": "selectable marker",
+      "D": "promoter"
+    },
+    "correct_answer": "B",
+    "explanation": "Ori controls initiation of replication and copy number."
+  },
+  {
+    "source_sentence": "PCR uses Taq DNA polymerase from Thermus aquaticus.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The main reason Taq polymerase is used in PCR is that it",
+    "options": {
+      "A": "adds primers automatically",
+      "B": "withstands high denaturation temperature",
+      "C": "cuts DNA at palindromes",
+      "D": "joins Okazaki fragments"
+    },
+    "correct_answer": "B",
+    "explanation": "Thermostable polymerase survives repeated 95°C cycles."
+  },
+  {
+    "source_sentence": "PCR involves denaturation, annealing, and extension.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Correct temperature sequence for a PCR cycle is",
+    "options": {
+      "A": "72°C → 95°C → 50°C",
+      "B": "95°C → 50°C → 72°C",
+      "C": "50°C → 95°C → 72°C",
+      "D": "72°C → 50°C → 95°C"
+    },
+    "correct_answer": "B",
+    "explanation": "Denaturation 95°C, annealing ~50°C, extension 72°C."
+  },
+  {
+    "source_sentence": "Competent cells are prepared using divalent cations.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "In chemical transformation, CaCl2 treatment makes bacteria",
+    "options": {
+      "A": "produce restriction enzymes",
+      "B": "competent to uptake plasmid DNA",
+      "C": "resistant to antibiotics",
+      "D": "synthesize mRNA primers"
+    },
+    "correct_answer": "B",
+    "explanation": "Ca2+ increases DNA uptake during heat shock."
+  },
+  {
+    "source_sentence": "Bioreactors provide optimal conditions for large-scale cell growth.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The sparger in a bioreactor is used to",
+    "options": {
+      "A": "measure pH",
+      "B": "control temperature",
+      "C": "introduce sterile air",
+      "D": "harvest cells"
+    },
+    "correct_answer": "C",
+    "explanation": "Spargers bubble sterile air for aeration."
+  },
+  {
+    "source_sentence": "Stirred-tank bioreactors have impellers for mixing.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which component maintains uniform mixing in a stirred-tank bioreactor?",
+    "options": {
+      "A": "Baffles",
+      "B": "Impeller",
+      "C": "Sampling port",
+      "D": "Foam breaker"
+    },
+    "correct_answer": "B",
+    "explanation": "Impellers rotate to mix the culture evenly."
+  },
+  {
+    "source_sentence": "Gel electrophoresis uses ethidium bromide for visualization.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "DNA bands in agarose gel are visualized by",
+    "options": {
+      "A": "Coomassie blue staining",
+      "B": "ethidium bromide under UV",
+      "C": "silver staining under IR",
+      "D": "iodine crystals under visible light"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethidium bromide intercalates and fluoresces under UV."
+  },
+  {
+    "source_sentence": "Vectors require selectable marker genes for screening.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Selectable markers help in",
+    "options": {
+      "A": "joining DNA fragments",
+      "B": "identifying transformants",
+      "C": "denaturing DNA",
+      "D": "synthesizing primers"
+    },
+    "correct_answer": "B",
+    "explanation": "Markers allow selection of cells with recombinant DNA."
+  },
+  {
+    "source_sentence": "Restriction enzymes cut DNA at specific recognition sites.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which feature is characteristic of a restriction endonuclease?",
+    "options": {
+      "A": "Cuts RNA only",
+      "B": "Recognizes palindromic DNA",
+      "C": "Adds methyl groups",
+      "D": "Synthesizes cDNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Most Type II enzymes recognize palindromic sequences."
+  },
+  {
+    "source_sentence": "Vector pBR322 contains unique restriction sites.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Insertion into the tetR gene of pBR322 results in",
+    "options": {
+      "A": "ampicillin resistance only",
+      "B": "tetracycline resistance only",
+      "C": "loss of tetracycline resistance",
+      "D": "loss of ampicillin resistance only"
+    },
+    "correct_answer": "C",
+    "explanation": "Insertional inactivation disrupts tetR gene."
+  },
+  {
+    "source_sentence": "Restriction enzymes are named after the bacterium of origin.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "In the name EcoRI, the letter R indicates",
+    "options": {
+      "A": "strain RY13",
+      "B": "restriction activity",
+      "C": "replication origin",
+      "D": "RNA polymerase"
+    },
+    "correct_answer": "A",
+    "explanation": "EcoRI is from E. coli strain RY13."
+  },
+  {
+    "source_sentence": "Sticky ends facilitate the joining of DNA fragments.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The main advantage of sticky ends in cloning is that they",
+    "options": {
+      "A": "repel each other",
+      "B": "allow complementary base pairing",
+      "C": "prevent ligase action",
+      "D": "block replication"
+    },
+    "correct_answer": "B",
+    "explanation": "Complementary overhangs anneal for ligation."
+  },
+  {
+    "source_sentence": "PCR requires primers to initiate DNA synthesis.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "In PCR, primers are required because DNA polymerase",
+    "options": {
+      "A": "can synthesize de novo",
+      "B": "needs a free 3' OH group",
+      "C": "works only on RNA",
+      "D": "removes nucleotides"
+    },
+    "correct_answer": "B",
+    "explanation": "Polymerase extends from an existing 3' end."
+  },
+  {
+    "source_sentence": "Cloning vectors carry selectable markers and ori.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "A minimal requirement of a cloning vector is",
+    "options": {
+      "A": "ori and selectable marker",
+      "B": "ribosome binding site",
+      "C": "capsid protein gene",
+      "D": "shut-off codons"
+    },
+    "correct_answer": "A",
+    "explanation": "Ori and marker are essential for replication and selection."
+  },
+  {
+    "source_sentence": "Bioreactors control pH, temperature, and oxygen.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which parameter is NOT directly monitored in a standard bioreactor?",
+    "options": {
+      "A": "pH",
+      "B": "dissolved oxygen",
+      "C": "cell genotype",
+      "D": "temperature"
+    },
+    "correct_answer": "C",
+    "explanation": "Genotype is not a routine process control parameter."
+  },
+  {
+    "source_sentence": "DNA fragments are eluted from agarose gel for cloning.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Elution in gel electrophoresis refers to",
+    "options": {
+      "A": "DNA amplification",
+      "B": "recovery of DNA from gel",
+      "C": "DNA denaturation",
+      "D": "DNA ligation"
+    },
+    "correct_answer": "B",
+    "explanation": "Elution means extracting the separated DNA band from gel."
+  },
+  {
+    "source_sentence": "Recombinant DNA technology involves multiple steps.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which sequence represents the correct order of major RDT steps?",
+    "options": {
+      "A": "Isolation → cutting → ligation → transformation → expression",
+      "B": "Ligation → cutting → isolation → expression → transformation",
+      "C": "Expression → isolation → ligation → cutting → transformation",
+      "D": "Cutting → transformation → isolation → ligation → expression"
+    },
+    "correct_answer": "A",
+    "explanation": "Standard order: isolate, cut, ligate, transform, express."
+  },
+  {
+    "source_sentence": "Microinjection is one method of gene transfer.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Microinjection is best described as",
+    "options": {
+      "A": "using Agrobacterium to transfer genes",
+      "B": "directly injecting DNA into the nucleus",
+      "C": "viral packaging of DNA",
+      "D": "electrophoresis-based DNA transfer"
+    },
+    "correct_answer": "B",
+    "explanation": "Microinjection uses fine needles to inject DNA."
+  },
+  {
+    "source_sentence": "Agrobacterium tumefaciens transfers T-DNA into plant cells.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The Ti plasmid is modified for cloning because it",
+    "options": {
+      "A": "cannot enter plant cells",
+      "B": "naturally transfers T-DNA to plants",
+      "C": "lacks selectable markers",
+      "D": "is non-replicative"
+    },
+    "correct_answer": "B",
+    "explanation": "Ti plasmid is a natural plant genetic engineer."
+  },
+  {
+    "source_sentence": "Selectable markers include antibiotic resistance genes.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which antibiotic resistance in pBR322 is typically screened first?",
+    "options": {
+      "A": "ampicillin",
+      "B": "tetracycline",
+      "C": "kanamycin",
+      "D": "chloramphenicol"
+    },
+    "correct_answer": "A",
+    "explanation": "Ampicillin is often used for initial selection."
+  },
+  {
+    "source_sentence": "Vectors can be bacteriophages, cosmids, or plasmids.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "A vector that can carry larger DNA inserts than plasmids but uses phage packaging is",
+    "options": {
+      "A": "cosmid",
+      "B": "Ti plasmid",
+      "C": "BAC",
+      "D": "pBR322"
+    },
+    "correct_answer": "A",
+    "explanation": "Cosmids combine plasmid replication with phage packaging sites."
+  },
+  {
+    "source_sentence": "Ligase is ATP-dependent in many organisms.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "DNA ligase joins DNA by catalyzing the formation of",
+    "options": {
+      "A": "hydrogen bonds",
+      "B": "phosphodiester bonds",
+      "C": "glycosidic bonds",
+      "D": "peptide bonds"
+    },
+    "correct_answer": "B",
+    "explanation": "Ligase seals the sugar-phosphate backbone."
+  },
+  {
+    "source_sentence": "Restriction enzymes are part of the bacterial defense system.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Restriction enzymes protect bacteria from",
+    "options": {
+      "A": "bacterial plasmids",
+      "B": "bacteriophages",
+      "C": "antibiotics",
+      "D": "heat shock"
+    },
+    "correct_answer": "B",
+    "explanation": "They cut foreign phage DNA."
+  },
+  {
+    "source_sentence": "PCR leads to exponential amplification.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "After 5 PCR cycles, the number of copies of a single DNA fragment becomes",
+    "options": {
+      "A": "5",
+      "B": "16",
+      "C": "32",
+      "D": "64"
+    },
+    "correct_answer": "C",
+    "explanation": "PCR doubles each cycle: 2^5 = 32."
+  },
+  {
+    "source_sentence": "Vectors often contain multiple cloning sites (MCS).",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Multiple cloning sites are important because they",
+    "options": {
+      "A": "encode replication proteins",
+      "B": "provide several unique restriction sites",
+      "C": "prevent transformation",
+      "D": "serve as promoters only"
+    },
+    "correct_answer": "B",
+    "explanation": "MCS offers unique restriction sites for insertion."
+  },
+  {
+    "source_sentence": "Selectable markers help identify recombinants.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Insertional inactivation in pBR322 is detected by",
+    "options": {
+      "A": "loss of antibiotic resistance",
+      "B": "gain of antibiotic resistance",
+      "C": "change in plasmid size only",
+      "D": "reduced copy number only"
+    },
+    "correct_answer": "A",
+    "explanation": "Disruption of marker gene leads to loss of resistance."
+  },
+  {
+    "source_sentence": "Competent cells can be made by electroporation.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Electroporation introduces DNA into cells by",
+    "options": {
+      "A": "chemical treatment with CaCl2",
+      "B": "temporary membrane pores due to electric pulse",
+      "C": "viral infection",
+      "D": "microinjection"
+    },
+    "correct_answer": "B",
+    "explanation": "High voltage creates transient pores for DNA uptake."
+  },
+  {
+    "source_sentence": "Blue-white screening uses lacZ gene.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "In blue-white screening, recombinants appear white because",
+    "options": {
+      "A": "lacZ is inactive",
+      "B": "ampR is inactive",
+      "C": "ori is missing",
+      "D": "plasmid is absent"
+    },
+    "correct_answer": "A",
+    "explanation": "Insertion disrupts lacZ, preventing blue color formation."
+  },
+  {
+    "source_sentence": "Recombinant DNA technology is also called genetic engineering.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which is the correct pair of enzyme and function in RDT?",
+    "options": {
+      "A": "Ligase - cuts DNA",
+      "B": "Restriction endonuclease - joins fragments",
+      "C": "DNA polymerase - extends primers",
+      "D": "RNase - ligates DNA"
+    },
+    "correct_answer": "C",
+    "explanation": "DNA polymerase extends primers during synthesis or PCR."
+  },
+  {
+    "source_sentence": "Vectors should allow easy selection of transformants.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "A selectable marker is not required when",
+    "options": {
+      "A": "host cannot replicate plasmids",
+      "B": "vector cannot enter host cells",
+      "C": "no selection of transformants is intended",
+      "D": "vector lacks ori"
+    },
+    "correct_answer": "C",
+    "explanation": "Markers are needed for selecting transformants; otherwise not."
+  },
+  {
+    "source_sentence": "Cloning can be done using cDNA prepared from mRNA.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "cDNA is prepared using the enzyme",
+    "options": {
+      "A": "DNA ligase",
+      "B": "reverse transcriptase",
+      "C": "restriction endonuclease",
+      "D": "DNA gyrase"
+    },
+    "correct_answer": "B",
+    "explanation": "Reverse transcriptase synthesizes DNA from RNA."
+  },
+  {
+    "source_sentence": "Gel electrophoresis separates nucleic acids.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "What drives the movement of DNA during electrophoresis?",
+    "options": {
+      "A": "Capillary action",
+      "B": "Electric field",
+      "C": "Magnetic field",
+      "D": "Temperature gradient"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA migrates toward the anode in an electric field."
+  },
+  {
+    "source_sentence": "Restriction enzymes cut DNA at specific sites.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The recognition sequence of EcoRI is",
+    "options": {
+      "A": "GGATCC",
+      "B": "GAATTC",
+      "C": "AAGCTT",
+      "D": "CCCGGG"
+    },
+    "correct_answer": "B",
+    "explanation": "EcoRI recognizes GAATTC."
+  },
+  {
+    "source_sentence": "Plasmids replicate independently of the bacterial chromosome.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "A plasmid is best described as",
+    "options": {
+      "A": "single-stranded DNA always",
+      "B": "extra-chromosomal circular DNA",
+      "C": "linear bacterial chromosome",
+      "D": "RNA molecule"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasmids are extrachromosomal circular DNA."
+  },
+  {
+    "source_sentence": "Bioreactors have foam control systems.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Excessive foaming in a bioreactor is controlled by",
+    "options": {
+      "A": "pH probe",
+      "B": "foam breaker or antifoam",
+      "C": "sparger",
+      "D": "oxygen probe"
+    },
+    "correct_answer": "B",
+    "explanation": "Foam breakers or antifoam agents reduce foaming."
+  },
+  {
+    "source_sentence": "Restriction enzymes cut at specific palindromic sequences.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Assertion (A): EcoRI produces sticky ends while HindII produces blunt ends Reason (R): the pattern of cleavage differs between the two enzymes Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both statements are true and the different cleavage pattern explains the ends."
+  },
+  {
+    "source_sentence": "Taq polymerase is used in PCR.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Assertion (A): Taq polymerase is used because it remains active after repeated heating Reason (R): it is derived from a thermophilic bacterium Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Thermostability from thermophiles explains its use in PCR."
+  },
+  {
+    "source_sentence": "Selectable markers are essential for identifying transformants.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Assertion (A): Selectable markers directly increase the copy number of plasmid DNA Reason (R): they decide how many copies of a plasmid exist in a cell Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "Markers allow selection; copy number is decided by ori, so R is false."
+  },
+  {
+    "source_sentence": "DNA ligase is required for the formation of recombinant DNA.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Assertion (A): DNA ligase is essential for constructing recombinant DNA molecules. Reason (R): DNA ligase joins DNA fragments by creating phosphodiester bonds. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Ligase forms phosphodiester bonds, explaining its role in ligation."
+  },
+  {
+    "source_sentence": "Agarose gel electrophoresis separates DNA based on size.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Assertion (A): Agarose gel electrophoresis separates DNA fragments according to their size. Reason (R): DNA fragments migrate towards the cathode because DNA is positively charged. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "DNA is negatively charged and moves toward the anode, so R is false."
+  },
+  {
+    "source_sentence": "pBR322 contains multiple features for cloning.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Match Column I (Vector element) with Column II (Function). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. ori – copy number, 2. ampR – selection, 3. tetR – selection, 4. rop – replication control",
+      "B": "1. ori – selection, 2. ampR – replication, 3. tetR – ligation, 4. rop – translation",
+      "C": "1. ori – translation, 2. ampR – ligation, 3. tetR – replication, 4. rop – selection",
+      "D": "1. ori – restriction site, 2. ampR – copy number, 3. tetR – expression, 4. rop – transcription"
+    },
+    "correct_answer": "A",
+    "explanation": "Ori controls replication, ampR/tetR are markers, rop helps regulate replication."
+  },
+  {
+    "source_sentence": "Restriction enzymes and their cut types are frequently tested.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Match Column I (Enzyme) with Column II (End type). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. EcoRI – sticky ends, 2. HindII – blunt ends, 3. PstI – sticky ends, 4. BamHI – sticky ends",
+      "B": "1. EcoRI – blunt ends, 2. HindII – sticky ends, 3. PstI – blunt ends, 4. BamHI – blunt ends",
+      "C": "1. EcoRI – sticky ends, 2. HindII – sticky ends, 3. PstI – blunt ends, 4. BamHI – blunt ends",
+      "D": "1. EcoRI – blunt ends, 2. HindII – blunt ends, 3. PstI – blunt ends, 4. BamHI – sticky ends"
+    },
+    "correct_answer": "A",
+    "explanation": "EcoRI, PstI, BamHI make sticky ends; HindII makes blunt ends."
+  },
+  {
+    "source_sentence": "PCR uses repeated cycles.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Match Column I (Step) with Column II (Temperature). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. Denaturation – 95°C, 2. Annealing – 50°C, 3. Extension – 72°C, 4. Hold – 4°C",
+      "B": "1. Denaturation – 50°C, 2. Annealing – 95°C, 3. Extension – 72°C, 4. Hold – 25°C",
+      "C": "1. Denaturation – 72°C, 2. Annealing – 50°C, 3. Extension – 95°C, 4. Hold – 37°C",
+      "D": "1. Denaturation – 80°C, 2. Annealing – 20°C, 3. Extension – 50°C, 4. Hold – 0°C"
+    },
+    "correct_answer": "A",
+    "explanation": "Standard PCR cycle: 95°C, 50°C, 72°C."
+  },
+  {
+    "source_sentence": "A cloning vector needs a selectable marker and ori.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "A vector lacking an origin of replication will",
+    "options": {
+      "A": "replicate faster",
+      "B": "fail to replicate in the host",
+      "C": "gain antibiotic resistance",
+      "D": "produce proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Without ori, the vector cannot replicate."
+  },
+  {
+    "source_sentence": "Bioreactors allow aseptic conditions.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "The main reason large-scale fermentation uses closed bioreactors is to",
+    "options": {
+      "A": "increase mutation rates",
+      "B": "maintain aseptic conditions",
+      "C": "allow sunlight exposure",
+      "D": "prevent oxygen supply"
+    },
+    "correct_answer": "B",
+    "explanation": "Closed systems minimize contamination."
+  },
+  {
+    "source_sentence": "In vitro DNA amplification is done by PCR.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "PCR is described as an in vitro method because it",
+    "options": {
+      "A": "occurs inside bacterial cells",
+      "B": "occurs outside living cells in a thermal cycler",
+      "C": "uses RNA templates only",
+      "D": "does not use enzymes"
+    },
+    "correct_answer": "B",
+    "explanation": "PCR is done in a machine outside cells."
+  },
+  {
+    "source_sentence": "Recombinant DNA can be introduced by heat shock.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Heat shock in transformation is typically performed at",
+    "options": {
+      "A": "0°C",
+      "B": "42°C",
+      "C": "60°C",
+      "D": "100°C"
+    },
+    "correct_answer": "B",
+    "explanation": "Standard heat shock is ~42°C."
+  },
+  {
+    "source_sentence": "Restriction enzymes are type II for cloning.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Type II restriction enzymes are preferred because they",
+    "options": {
+      "A": "cut far away from recognition site",
+      "B": "cut within recognition site",
+      "C": "require RNA primers",
+      "D": "work only at 4°C"
+    },
+    "correct_answer": "B",
+    "explanation": "Type II enzymes cut at specific recognition sequences."
+  },
+  {
+    "source_sentence": "Bioreactors can be used for producing antibiotics, enzymes, and vaccines.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which is NOT a common product of large-scale bioreactors?",
+    "options": {
+      "A": "Insulin",
+      "B": "Antibiotics",
+      "C": "Enzymes",
+      "D": "Chromosomes"
+    },
+    "correct_answer": "D",
+    "explanation": "Chromosomes are not produced as a bioreactor product."
+  },
+  {
+    "source_sentence": "Cloning vectors can be high or low copy number.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "High copy number vectors are preferred when the goal is",
+    "options": {
+      "A": "minimizing DNA yield",
+      "B": "maximizing plasmid DNA yield",
+      "C": "stopping replication",
+      "D": "blocking transcription"
+    },
+    "correct_answer": "B",
+    "explanation": "High copy number increases plasmid yield."
+  },
+  {
+    "source_sentence": "Restriction enzymes show sequence specificity.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "A palindromic sequence means",
+    "options": {
+      "A": "it reads the same in one strand only",
+      "B": "both strands read the same in 5'→3' direction",
+      "C": "it is always methylated",
+      "D": "it is a protein sequence"
+    },
+    "correct_answer": "B",
+    "explanation": "Palindromes read the same on both strands in opposite directions."
+  },
+  {
+    "source_sentence": "Agarose concentration affects separation range.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Higher agarose concentration is used to separate",
+    "options": {
+      "A": "very large DNA fragments",
+      "B": "small DNA fragments",
+      "C": "proteins only",
+      "D": "lipids"
+    },
+    "correct_answer": "B",
+    "explanation": "Dense gels resolve smaller fragments better."
+  },
+  {
+    "source_sentence": "Transformation is the uptake of DNA by cells.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Transformation in biotechnology refers to",
+    "options": {
+      "A": "DNA synthesis in vitro",
+      "B": "uptake of foreign DNA by a cell",
+      "C": "digestion of DNA",
+      "D": "protein synthesis"
+    },
+    "correct_answer": "B",
+    "explanation": "Transformation means uptake of foreign DNA."
+  },
+  {
+    "source_sentence": "Recombinant DNA is formed after ligation.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Sticky ends generated by EcoRI can ligate because they",
+    "options": {
+      "A": "are identical on both DNA fragments",
+      "B": "form hydrogen bonds between complementary bases",
+      "C": "are methylated",
+      "D": "are blunt"
+    },
+    "correct_answer": "B",
+    "explanation": "Complementary sticky ends anneal before ligation."
+  },
+  {
+    "source_sentence": "Insertional inactivation can be detected by antibiotic sensitivity.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "A transformant with disrupted tetR gene will be",
+    "options": {
+      "A": "resistant to tetracycline",
+      "B": "sensitive to tetracycline",
+      "C": "resistant to both antibiotics",
+      "D": "sensitive to ampicillin only"
+    },
+    "correct_answer": "B",
+    "explanation": "Disruption of tetR causes tetracycline sensitivity."
+  },
+  {
+    "source_sentence": "The cultures may be used for extracting the desired protein and then purifying it by using different separation techniques.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"The cultures may be used for extracting the desired protein and then purifying i...\"?",
+    "options": {
+      "A": "DNA ligase cuts DNA at palindromic sequences.",
+      "B": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "C": "Plasmids cannot replicate independently in bacterial cells.",
+      "D": "The cultures may be used for extracting the desired protein and then purifying it by using different separation techniqu..."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "This enables the bacteria to take up the recombinant DNA.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"This enables the bacteria to take up the recombinant DNA....\"?",
+    "options": {
+      "A": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "B": "Origin of replication prevents any DNA from replicating in host cells.",
+      "C": "This enables the bacteria to take up the recombinant DNA.",
+      "D": "Restriction enzymes add methyl groups to DNA at random sites."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The normal cells do not carry resistance against any of these antibiotics.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"The normal cells do not carry resistance against any of these antibiotics....\"?",
+    "options": {
+      "A": "PCR uses RNA polymerase from E. coli at 37°C only.",
+      "B": "Plasmids cannot replicate independently in bacterial cells.",
+      "C": "DNA ligase cuts DNA at palindromic sequences.",
+      "D": "The normal cells do not carry resistance against any of these antibiotics."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "When you insert a piece of alien DNA into a cloning vector and transfer it into a bacterial, plant or animal cell, the alien DNA gets multiplied.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"When you insert a piece of alien DNA into a cloning vector and transfer it into ...\"?",
+    "options": {
+      "A": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "B": "When you insert a piece of alien DNA into a cloning vector and transfer it into a bacterial, plant or animal cell, the a...",
+      "C": "Plasmids cannot replicate independently in bacterial cells.",
+      "D": "Restriction enzymes add methyl groups to DNA at random sites."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "This is done by treating them with a specific concentration of a divalent cation, such as calcium, which increases the efficiency with which DNA enters.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"This is done by treating them with a specific concentration of a divalent cation...\"?",
+    "options": {
+      "A": "PCR uses RNA polymerase from E. coli at 37°C only.",
+      "B": "This is done by treating them with a specific concentration of a divalent cation, such as calcium, which increases the e...",
+      "C": "Competent cells are made using monovalent sodium ions exclusively.",
+      "D": "DNA ligase cuts DNA at palindromic sequences."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Better try to create a palindromic sequence by following base-pair rules.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Better try to create a palindromic sequence by following base-pair rules....\"?",
+    "options": {
+      "A": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "B": "Agarose gel electrophoresis separates DNA by charge type, not size.",
+      "C": "Origin of replication prevents any DNA from replicating in host cells.",
+      "D": "Better try to create a palindromic sequence by following base-pair rules."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Strict quality control testing for each product is also required.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Strict quality control testing for each product is also required....\"?",
+    "options": {
+      "A": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "B": "Plasmids cannot replicate independently in bacterial cells.",
+      "C": "Strict quality control testing for each product is also required.",
+      "D": "DNA ligase cuts DNA at palindromic sequences."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "From what you have learnt, can you tell whether enzymes are bigger or DNA is bigger in molecular size?",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"From what you have learnt, can you tell whether enzymes are bigger or DNA is big...\"?",
+    "options": {
+      "A": "Origin of replication prevents any DNA from replicating in host cells.",
+      "B": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "C": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "D": "From what you have learnt, can you tell whether enzymes are bigger or DNA is bigger in molecular size?"
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "This key process is called recombinant DNA technology or genetic engineering.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"This key process is called recombinant DNA technology or genetic engineering....\"?",
+    "options": {
+      "A": "PCR uses RNA polymerase from E. coli at 37°C only.",
+      "B": "Plasmids cannot replicate independently in bacterial cells.",
+      "C": "DNA ligase cuts DNA at palindromic sequences.",
+      "D": "This key process is called recombinant DNA technology or genetic engineering."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "But, non-recombinants will grow on the medium containing both the antibiotics.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"But, non-recombinants will grow on the medium containing both the antibiotics....\"?",
+    "options": {
+      "A": "Competent cells are made using monovalent sodium ions exclusively.",
+      "B": "Origin of replication prevents any DNA from replicating in host cells.",
+      "C": "Agarose gel electrophoresis separates DNA by charge type, not size.",
+      "D": "But, non-recombinants will grow on the medium containing both the antibiotics."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "If you look at the figure closely you will see that the bioreactor has an agitator system, an oxygen delivery system and a foam control system, a temperature control system, pH control system and sampling ports so that small volumes of the culture can be withdrawn periodically.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"If you look at the figure closely you will see that the bioreactor has an agitat...\"?",
+    "options": {
+      "A": "If you look at the figure closely you will see that the bioreactor has an agitator system, an oxygen delivery system and...",
+      "B": "Plasmids cannot replicate independently in bacterial cells.",
+      "C": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "D": "Insertional inactivation uses antibiotic resistance gene activation."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Alternatively, air can be bubbled through the reactor.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Alternatively, air can be bubbled through the reactor....\"?",
+    "options": {
+      "A": "Alternatively, air can be bubbled through the reactor.",
+      "B": "PCR uses RNA polymerase from E. coli at 37°C only.",
+      "C": "Competent cells are made using monovalent sodium ions exclusively.",
+      "D": "DNA ligase cuts DNA at palindromic sequences."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "In this sense, making curd, bread or wine, which are all microbe-mediated processes, could also be thought as a form of biotechnology.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"In this sense, making curd, bread or wine, which are all microbe-mediated proces...\"?",
+    "options": {
+      "A": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "B": "In this sense, making curd, bread or wine, which are all microbe-mediated processes, could also be thought as a form of ...",
+      "C": "Origin of replication prevents any DNA from replicating in host cells.",
+      "D": "Agarose gel electrophoresis separates DNA by charge type, not size."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Transformation is a procedure through which a piece of DNA is introduced in a host bacterium (you will study the process in subsequent section).",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Transformation is a procedure through which a piece of DNA is introduced in a ho...\"?",
+    "options": {
+      "A": "Transformation is a procedure through which a piece of DNA is introduced in a host bacterium (you will study the process...",
+      "B": "DNA ligase cuts DNA at palindromic sequences.",
+      "C": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "D": "Plasmids cannot replicate independently in bacterial cells."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Recipient cells after making them 'competent' to receive, take up DNA present in its surrounding.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Recipient cells after making them 'competent' to receive, take up DNA present in...\"?",
+    "options": {
+      "A": "Recipient cells after making them 'competent' to receive, take up DNA present in its surrounding.",
+      "B": "PCR uses RNA polymerase from E. coli at 37°C only.",
+      "C": "Competent cells are made using monovalent sodium ions exclusively.",
+      "D": "Agarose gel electrophoresis separates DNA by charge type, not size."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "There are several methods of introducing the ligated DNA into recipient cells.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"There are several methods of introducing the ligated DNA into recipient cells....\"?",
+    "options": {
+      "A": "Origin of replication prevents any DNA from replicating in host cells.",
+      "B": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "C": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "D": "There are several methods of introducing the ligated DNA into recipient cells."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Now we know from the foregoing discussion that genetic engineering or recombinant DNA technology can be accomplished only if we have the key tools, i.e., restriction enzymes, polymerase enzymes, ligases, vectors and the host organism.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Now we know from the foregoing discussion that genetic engineering or recombinan...\"?",
+    "options": {
+      "A": "DNA ligase cuts DNA at palindromic sequences.",
+      "B": "PCR uses RNA polymerase from E. coli at 37°C only.",
+      "C": "Plasmids cannot replicate independently in bacterial cells.",
+      "D": "Now we know from the foregoing discussion that genetic engineering or recombinant DNA technology can be accomplished onl..."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Find out where they are used as therapeutics (use the internet).",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Find out where they are used as therapeutics (use the internet)....\"?",
+    "options": {
+      "A": "Origin of replication prevents any DNA from replicating in host cells.",
+      "B": "Find out where they are used as therapeutics (use the internet).",
+      "C": "Agarose gel electrophoresis separates DNA by charge type, not size.",
+      "D": "Competent cells are made using monovalent sodium ions exclusively."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "After having cloned the gene of interest and having optimised the conditions to induce the expression of the target protein, one has to consider producing it on a large scale.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"After having cloned the gene of interest and having optimised the conditions to ...\"?",
+    "options": {
+      "A": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "B": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "C": "Plasmids cannot replicate independently in bacterial cells.",
+      "D": "After having cloned the gene of interest and having optimised the conditions to induce the expression of the target prot..."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "For example, Agrobacterium tumifaciens, a pathogen of several dicot plants is able to deliver a piece of DNA known as 'T-DNA' to transform normal plant cells into a tumor and direct these tumor cells to produce the chemicals required by the pathogen.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"For example, Agrobacterium tumifaciens, a pathogen of several dicot plants is ab...\"?",
+    "options": {
+      "A": "Competent cells are made using monovalent sodium ions exclusively.",
+      "B": "PCR uses RNA polymerase from E. coli at 37°C only.",
+      "C": "For example, Agrobacterium tumifaciens, a pathogen of several dicot plants is able to deliver a piece of DNA known as 'T...",
+      "D": "DNA ligase cuts DNA at palindromic sequences."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Large scale production involves use of bioreactors.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Large scale production involves use of bioreactors....\"?",
+    "options": {
+      "A": "Agarose gel electrophoresis separates DNA by charge type, not size.",
+      "B": "Insertional inactivation uses antibiotic resistance gene activation.",
+      "C": "Large scale production involves use of bioreactors.",
+      "D": "Origin of replication prevents any DNA from replicating in host cells."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "This specific base sequence is known as the recognition sequence for Hind II.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"This specific base sequence is known as the recognition sequence for Hind II....\"?",
+    "options": {
+      "A": "This specific base sequence is known as the recognition sequence for Hind II.",
+      "B": "Restriction enzymes add methyl groups to DNA at random sites.",
+      "C": "DNA ligase cuts DNA at palindromic sequences.",
+      "D": "Plasmids cannot replicate independently in bacterial cells."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Therefore, for the multiplication of any alien piece of DNA in an organism it needs to be a part of a chromosome(s) which has a specific sequence known as 'origin of replication'.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which conclusion is supported by NCERT: \"Therefore, for the multiplication of any alien piece of DNA in an organism it ne...\"?",
+    "options": {
+      "A": "Agarose gel electrophoresis separates DNA by charge type, not size.",
+      "B": "Therefore, for the multiplication of any alien piece of DNA in an organism it needs to be a part of a chromosome(s) whic...",
+      "C": "Competent cells are made using monovalent sodium ions exclusively.",
+      "D": "PCR uses RNA polymerase from E. coli at 37°C only."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Recombinant colonies in blue-white screening lack functional β-galactosidase.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "In blue-white screening using lacZ insertional inactivation, recombinant colonies appear:",
+    "options": {
+      "A": "blue on X-gal medium",
+      "B": "white on X-gal medium",
+      "C": "red on ampicillin",
+      "D": "green under UV"
+    },
+    "correct_answer": "B",
+    "explanation": "Insertion inactivates β-galactosidase; non-recombinants hydrolyse X-gal to blue product."
+  },
+  {
+    "source_sentence": "Exonucleases remove nucleotides from the ends of DNA.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Which enzyme class removes nucleotides from the terminal ends of a DNA molecule?",
+    "options": {
+      "A": "Exonuclease",
+      "B": "Endonuclease",
+      "C": "Ligase",
+      "D": "Primase"
+    },
+    "correct_answer": "A",
+    "explanation": "Exonucleases act on ends; endonucleases cut within the DNA strand."
+  },
+  {
+    "source_sentence": "Biolistics uses gold or tungsten particles coated with DNA.",
+    "chapter": "Chapter 9: Biotechnology: Principles and Processes",
+    "question": "Gene gun method for plant transformation involves bombardment with:",
+    "options": {
+      "A": "CaCl2-treated protoplasts",
+      "B": "micro-particles of gold or tungsten coated with DNA",
+      "C": "Agrobacterium alone",
+      "D": "heat-shocked bacterial cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Biolistics delivers DNA into plant cells using high-velocity metal micro-particles."
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "source_sentence": "Lactobacillus converts milk to curd and improves nutritional quality.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Curd formation from milk is mainly due to:",
+    "options": {
+      "A": "Lactobacillus spp.",
+      "B": "Rhizobium",
+      "C": "Anabaena",
+      "D": "Methanobacterium"
+    },
+    "correct_answer": "A",
+    "explanation": "Lactobacilli ferment lactose to lactic acid, curdling milk."
+  },
+  {
+    "source_sentence": "Curd contains lactic acid bacteria that increase vitamin B12.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Nutritional enrichment of curd is chiefly due to increased:",
+    "options": {
+      "A": "Vitamin B12",
+      "B": "Vitamin C",
+      "C": "Vitamin A",
+      "D": "Vitamin K"
+    },
+    "correct_answer": "A",
+    "explanation": "LAB enhance vitamin B12 content of curd."
+  },
+  {
+    "source_sentence": "LAB inhibit growth of pathogenic microbes.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Lactic acid bacteria help prevent pathogens in gut by:",
+    "options": {
+      "A": "Producing lactic acid and bacteriocins",
+      "B": "Fixing nitrogen",
+      "C": "Producing oxygen",
+      "D": "Digesting cellulose"
+    },
+    "correct_answer": "A",
+    "explanation": "Acidic environment and antimicrobial compounds inhibit pathogens."
+  },
+  {
+    "source_sentence": "Saccharomyces cerevisiae is used in baking and brewing.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Baker's yeast belongs to:",
+    "options": {
+      "A": "Saccharomyces cerevisiae",
+      "B": "Penicillium notatum",
+      "C": "Aspergillus niger",
+      "D": "Streptomyces griseus"
+    },
+    "correct_answer": "A",
+    "explanation": "Yeast used in bread and beer is S. cerevisiae."
+  },
+  {
+    "source_sentence": "CO2 from yeast makes dough rise.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The soft spongy texture of bread is mainly due to:",
+    "options": {
+      "A": "CO2 released during fermentation",
+      "B": "Lactic acid formation",
+      "C": "Starch breakdown by amylase only",
+      "D": "Protein coagulation by heat"
+    },
+    "correct_answer": "A",
+    "explanation": "Carbon dioxide produced by yeast leavens the dough."
+  },
+  {
+    "source_sentence": "Ethanol production uses yeast fermentation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Industrial ethanol production commonly uses:",
+    "options": {
+      "A": "Yeast fermentation of sugars",
+      "B": "Rhizobium symbiosis",
+      "C": "Nitrifying bacteria",
+      "D": "Methanogens in digesters"
+    },
+    "correct_answer": "A",
+    "explanation": "Yeast ferment sugars to ethanol and CO2."
+  },
+  {
+    "source_sentence": "Fermentors provide optimum growth conditions.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "In large-scale microbial production, the vessel used is a:",
+    "options": {
+      "A": "Fermentor/bioreactor",
+      "B": "Autoclave",
+      "C": "Chemostat only for animals",
+      "D": "Petri plate"
+    },
+    "correct_answer": "A",
+    "explanation": "Fermentors provide sterile, controlled conditions for growth."
+  },
+  {
+    "source_sentence": "Aspergillus produces citric acid commercially.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Citric acid for commercial use is produced by:",
+    "options": {
+      "A": "Aspergillus niger",
+      "B": "Saccharomyces",
+      "C": "Rhizobium",
+      "D": "Bacillus thuringiensis"
+    },
+    "correct_answer": "A",
+    "explanation": "NCERT cites Aspergillus niger for citric acid production."
+  },
+  {
+    "source_sentence": "Acetic acid is produced by Acetobacter.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Vinegar (acetic acid) production uses:",
+    "options": {
+      "A": "Acetobacter aceti",
+      "B": "Clostridium butylicum",
+      "C": "Penicillium chrysogenum",
+      "D": "Azotobacter"
+    },
+    "correct_answer": "A",
+    "explanation": "Acetobacter oxidises ethanol to acetic acid."
+  },
+  {
+    "source_sentence": "Pectinases and proteases are enzymes of industrial value.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Commercial enzymes used in food processing are mainly produced by:",
+    "options": {
+      "A": "Microbes in bioreactors",
+      "B": "Higher plants only",
+      "C": "Animals only",
+      "D": "Viruses"
+    },
+    "correct_answer": "A",
+    "explanation": "Microbial enzymes are produced in fermentors at scale."
+  },
+  {
+    "source_sentence": "Streptokinase is produced by Streptococcus.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The clot buster used in myocardial infarction is:",
+    "options": {
+      "A": "Streptokinase",
+      "B": "Cyclosporin A",
+      "C": "Penicillin G",
+      "D": "Statins"
+    },
+    "correct_answer": "A",
+    "explanation": "Streptokinase dissolves blood clots."
+  },
+  {
+    "source_sentence": "Cyclosporin A is an immunosuppressant from Trichoderma.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "An immunosuppressive drug used in organ transplant patients is:",
+    "options": {
+      "A": "Cyclosporin A",
+      "B": "Streptomycin",
+      "C": "Penicillin",
+      "D": "Erythromycin"
+    },
+    "correct_answer": "A",
+    "explanation": "Cyclosporin A is produced by Trichoderma polysporum."
+  },
+  {
+    "source_sentence": "Statins lower blood cholesterol and are produced by Monascus purpureus.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Statins used to lower cholesterol are produced by:",
+    "options": {
+      "A": "Monascus purpureus",
+      "B": "Rhizobium",
+      "C": "Methanobacterium",
+      "D": "Azospirillum"
+    },
+    "correct_answer": "A",
+    "explanation": "Monascus produces statins that inhibit HMG-CoA reductase."
+  },
+  {
+    "source_sentence": "SCP provides protein-rich biomass.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Single cell protein (SCP) is produced using:",
+    "options": {
+      "A": "Microbial biomass such as Spirulina",
+      "B": "Only animal tissues",
+      "C": "Only seeds",
+      "D": "Plant fibers only"
+    },
+    "correct_answer": "A",
+    "explanation": "SCP refers to microbial protein-rich biomass."
+  },
+  {
+    "source_sentence": "Spirulina can be used as human food supplement.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Which organism is commonly used as SCP for human consumption?",
+    "options": {
+      "A": "Spirulina",
+      "B": "Trypanosoma",
+      "C": "Plasmodium",
+      "D": "Taenia"
+    },
+    "correct_answer": "A",
+    "explanation": "Spirulina is protein rich and easy to culture."
+  },
+  {
+    "source_sentence": "Penicillin was discovered by Alexander Fleming.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The discovery of penicillin is credited to:",
+    "options": {
+      "A": "Alexander Fleming",
+      "B": "Edward Jenner",
+      "C": "Louis Pasteur",
+      "D": "Robert Koch"
+    },
+    "correct_answer": "A",
+    "explanation": "Fleming discovered penicillin from Penicillium."
+  },
+  {
+    "source_sentence": "Penicillin is produced by Penicillium in fermentation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The antibiotic penicillin is produced by:",
+    "options": {
+      "A": "Penicillium notatum/chrysogenum",
+      "B": "Streptomyces griseus",
+      "C": "Bacillus thuringiensis",
+      "D": "Escherichia coli"
+    },
+    "correct_answer": "A",
+    "explanation": "Penicillium species produce penicillin."
+  },
+  {
+    "source_sentence": "Waksman introduced the term antibiotic.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The term 'antibiotic' was coined by:",
+    "options": {
+      "A": "Selman Waksman",
+      "B": "Alexander Fleming",
+      "C": "Paul Ehrlich",
+      "D": "Watson and Crick"
+    },
+    "correct_answer": "A",
+    "explanation": "Waksman introduced the term after discovering streptomycin."
+  },
+  {
+    "source_sentence": "Streptomycin is produced by Streptomyces griseus.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Which microorganism produces streptomycin?",
+    "options": {
+      "A": "Streptomyces griseus",
+      "B": "Penicillium notatum",
+      "C": "Rhizobium leguminosarum",
+      "D": "Saccharomyces cerevisiae"
+    },
+    "correct_answer": "A",
+    "explanation": "Streptomycin is an actinomycete antibiotic."
+  },
+  {
+    "source_sentence": "Antibiotics are effective against bacteria, not viruses.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Antibiotics are primarily used to treat:",
+    "options": {
+      "A": "Bacterial infections",
+      "B": "Viral infections",
+      "C": "Prion diseases",
+      "D": "All infections"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibiotics act on bacterial targets."
+  },
+  {
+    "source_sentence": "Primary treatment removes large and suspended solids.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Primary sewage treatment mainly involves:",
+    "options": {
+      "A": "Physical removal of solids by filtration and sedimentation",
+      "B": "Aeration with microbes",
+      "C": "Chlorination only",
+      "D": "Methanogenesis"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary treatment is physical removal of particles."
+  },
+  {
+    "source_sentence": "Secondary treatment uses microbes to reduce BOD.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Secondary sewage treatment is also called:",
+    "options": {
+      "A": "Biological treatment",
+      "B": "Physical treatment",
+      "C": "Chemical disinfection",
+      "D": "Electrolysis"
+    },
+    "correct_answer": "A",
+    "explanation": "Microbes oxidise organic matter in secondary treatment."
+  },
+  {
+    "source_sentence": "BOD indicates organic load.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "BOD of sewage is a measure of:",
+    "options": {
+      "A": "Oxygen required for microbial oxidation of organic matter",
+      "B": "Total dissolved salts",
+      "C": "Only bacterial count",
+      "D": "pH of water"
+    },
+    "correct_answer": "A",
+    "explanation": "Higher BOD means more biodegradable organic matter."
+  },
+  {
+    "source_sentence": "High BOD means more pollution.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "A high BOD value in a water sample indicates:",
+    "options": {
+      "A": "High organic pollution",
+      "B": "Pure drinking water",
+      "C": "High oxygen availability",
+      "D": "Low microbial activity"
+    },
+    "correct_answer": "A",
+    "explanation": "High organic load demands more oxygen for decomposition."
+  },
+  {
+    "source_sentence": "Activated sludge contains flocs of microbes.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Flocs in aeration tanks are masses of:",
+    "options": {
+      "A": "Bacteria with fungal filaments",
+      "B": "Only algae",
+      "C": "Only protozoa",
+      "D": "Plant roots"
+    },
+    "correct_answer": "A",
+    "explanation": "Flocs are microbial aggregates that digest organic matter."
+  },
+  {
+    "source_sentence": "Aeration tanks promote floc formation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The major role of aeration in secondary treatment is to:",
+    "options": {
+      "A": "Provide oxygen for aerobic microbes",
+      "B": "Kill all bacteria",
+      "C": "Precipitate salts",
+      "D": "Remove heavy metals"
+    },
+    "correct_answer": "A",
+    "explanation": "Aerobic microbes need oxygen for oxidising organics."
+  },
+  {
+    "source_sentence": "Activated sludge is used as inoculum.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "A portion of activated sludge is recycled to the aeration tank to:",
+    "options": {
+      "A": "Maintain microbial population for digestion",
+      "B": "Increase turbidity",
+      "C": "Increase BOD",
+      "D": "Remove all dissolved oxygen"
+    },
+    "correct_answer": "A",
+    "explanation": "Recycling ensures a high microbial load."
+  },
+  {
+    "source_sentence": "Sludge digesters are anaerobic.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The settling sludge from secondary treatment is sent to:",
+    "options": {
+      "A": "Anaerobic sludge digesters",
+      "B": "Incinerators only",
+      "C": "Sand filters",
+      "D": "Reverse osmosis units"
+    },
+    "correct_answer": "A",
+    "explanation": "Anaerobic digesters break down sludge and produce biogas."
+  },
+  {
+    "source_sentence": "Methanogens produce methane in digesters.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The microbes responsible for methane generation in sludge digesters are:",
+    "options": {
+      "A": "Methanobacterium and other methanogens",
+      "B": "Lactobacillus",
+      "C": "Rhizobium",
+      "D": "Nitrosomonas"
+    },
+    "correct_answer": "A",
+    "explanation": "Methanogens convert acids to methane."
+  },
+  {
+    "source_sentence": "Biogas contains methane, CO2, and H2S.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Biogas is mainly composed of:",
+    "options": {
+      "A": "Methane, CO2, and H2S",
+      "B": "O2 and N2",
+      "C": "Only CO2",
+      "D": "Only H2"
+    },
+    "correct_answer": "A",
+    "explanation": "Biogas contains methane with CO2 and H2S."
+  },
+  {
+    "source_sentence": "Secondary treatment reduces BOD significantly.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "During secondary treatment, BOD of sewage:",
+    "options": {
+      "A": "Decreases markedly",
+      "B": "Increases",
+      "C": "Remains unchanged",
+      "D": "Becomes zero instantly"
+    },
+    "correct_answer": "A",
+    "explanation": "Microbial oxidation lowers BOD."
+  },
+  {
+    "source_sentence": "Effluent after secondary treatment is released into water bodies.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The effluent from secondary treatment is discharged when:",
+    "options": {
+      "A": "BOD is reduced and quality meets standards",
+      "B": "BOD is highest",
+      "C": "All microbes are killed",
+      "D": "Only solids are removed"
+    },
+    "correct_answer": "A",
+    "explanation": "Effluent is released after sufficient BOD reduction."
+  },
+  {
+    "source_sentence": "Primary treatment uses sedimentation tanks.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Floating debris in primary treatment is removed by:",
+    "options": {
+      "A": "Skimming",
+      "B": "Activated sludge",
+      "C": "Methanogenesis",
+      "D": "Chlorination"
+    },
+    "correct_answer": "A",
+    "explanation": "Skimmers remove floating solids and oils."
+  },
+  {
+    "source_sentence": "Grit chamber removes sand and small stones.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The unit operation that removes grit from sewage is:",
+    "options": {
+      "A": "Grit chamber",
+      "B": "Aeration tank",
+      "C": "Sludge digester",
+      "D": "Trickling filter"
+    },
+    "correct_answer": "A",
+    "explanation": "Grit chambers settle heavy inorganic particles."
+  },
+  {
+    "source_sentence": "Cellulose digestion in rumen produces biogas.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Methanogens in cattle help in:",
+    "options": {
+      "A": "Fermentation of cellulose producing methane",
+      "B": "Nitrogen fixation only",
+      "C": "Photosynthesis",
+      "D": "Sulfur oxidation"
+    },
+    "correct_answer": "A",
+    "explanation": "They aid cellulose digestion under anaerobic conditions."
+  },
+  {
+    "source_sentence": "Biogas plants use cattle dung or sewage.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The substrate commonly used in biogas plants is:",
+    "options": {
+      "A": "Cattle dung and organic wastes",
+      "B": "Pure ethanol",
+      "C": "Only plastics",
+      "D": "Inorganic salts only"
+    },
+    "correct_answer": "A",
+    "explanation": "Organic wastes provide anaerobic fermentable matter."
+  },
+  {
+    "source_sentence": "Bt toxin is produced by Bacillus thuringiensis.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The bacterium used to control butterfly caterpillars is:",
+    "options": {
+      "A": "Bacillus thuringiensis",
+      "B": "Rhizobium",
+      "C": "Azotobacter",
+      "D": "Nitrobacter"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt produces insecticidal protein crystals."
+  },
+  {
+    "source_sentence": "Bt toxin is coded by cry genes.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "In Bt, insecticidal protein crystals are encoded by:",
+    "options": {
+      "A": "cry genes",
+      "B": "lac genes",
+      "C": "nif genes",
+      "D": "rbcL genes"
+    },
+    "correct_answer": "A",
+    "explanation": "cry genes code for Bt toxin crystals."
+  },
+  {
+    "source_sentence": "Bt toxin is activated in alkaline gut of insects.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Bt toxin becomes active in insects because:",
+    "options": {
+      "A": "Alkaline pH of gut activates protoxin",
+      "B": "Acidic pH activates toxin",
+      "C": "Light activates toxin",
+      "D": "CO2 activates toxin"
+    },
+    "correct_answer": "A",
+    "explanation": "Insect gut pH converts protoxin to active toxin."
+  },
+  {
+    "source_sentence": "Trichoderma is used as biocontrol agent.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Fungal biocontrol agent against plant pathogens is:",
+    "options": {
+      "A": "Trichoderma species",
+      "B": "Penicillium species",
+      "C": "Saccharomyces species",
+      "D": "Monascus species"
+    },
+    "correct_answer": "A",
+    "explanation": "Trichoderma suppresses plant pathogenic fungi."
+  },
+  {
+    "source_sentence": "Baculoviruses have narrow host range.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Baculoviruses used in pest control are preferred because they:",
+    "options": {
+      "A": "Are highly specific to insect pests",
+      "B": "Kill all insects indiscriminately",
+      "C": "Infect plants directly",
+      "D": "Cause human disease"
+    },
+    "correct_answer": "A",
+    "explanation": "Baculoviruses are species-specific and safer for non-targets."
+  },
+  {
+    "source_sentence": "NPV stands for nuclear polyhedrosis virus.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The commonly used baculovirus in biocontrol is:",
+    "options": {
+      "A": "Nuclear polyhedrosis virus (NPV)",
+      "B": "HIV",
+      "C": "TMV",
+      "D": "Influenza virus"
+    },
+    "correct_answer": "A",
+    "explanation": "NPV is used against insect larvae."
+  },
+  {
+    "source_sentence": "Bt formulations are sprayed as biopesticides.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Bt formulations are effective mainly against:",
+    "options": {
+      "A": "Lepidopteran larvae",
+      "B": "Mosquito adults only",
+      "C": "Earthworms",
+      "D": "Nematodes only"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt toxin targets lepidopteran caterpillars."
+  },
+  {
+    "source_sentence": "Rhizobium forms root nodules in legumes.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The symbiotic nitrogen-fixing bacterium in legume roots is:",
+    "options": {
+      "A": "Rhizobium",
+      "B": "Azotobacter",
+      "C": "Nitrosomonas",
+      "D": "Escherichia"
+    },
+    "correct_answer": "A",
+    "explanation": "Rhizobium lives in legume nodules."
+  },
+  {
+    "source_sentence": "Azospirillum associates with cereal roots.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Which biofertiliser is associated with roots of cereals like maize?",
+    "options": {
+      "A": "Azospirillum",
+      "B": "Rhizobium",
+      "C": "Methanobacterium",
+      "D": "Plasmodium"
+    },
+    "correct_answer": "A",
+    "explanation": "Azospirillum is an associative nitrogen fixer."
+  },
+  {
+    "source_sentence": "Azotobacter is a free-living nitrogen fixer.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Free-living nitrogen-fixing bacterium used as biofertiliser is:",
+    "options": {
+      "A": "Azotobacter",
+      "B": "Rhizobium",
+      "C": "Streptococcus",
+      "D": "Penicillium"
+    },
+    "correct_answer": "A",
+    "explanation": "Azotobacter fixes nitrogen independently."
+  },
+  {
+    "source_sentence": "Cyanobacteria fix nitrogen in paddy fields.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Which cyanobacteria are used as biofertilisers in rice fields?",
+    "options": {
+      "A": "Anabaena and Nostoc",
+      "B": "Chlorella and Volvox",
+      "C": "Euglena and Amoeba",
+      "D": "Spirogyra and Ulothrix"
+    },
+    "correct_answer": "A",
+    "explanation": "Anabaena and Nostoc fix N2 in paddy fields."
+  },
+  {
+    "source_sentence": "Azolla-Anabaena is used in paddy.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The water fern used as a biofertiliser in rice cultivation is:",
+    "options": {
+      "A": "Azolla",
+      "B": "Salvinia",
+      "C": "Marsilea",
+      "D": "Pteris"
+    },
+    "correct_answer": "A",
+    "explanation": "Azolla harbours Anabaena symbiont."
+  },
+  {
+    "source_sentence": "Mycorrhiza improves phosphate uptake.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Mycorrhiza helps plants mainly by:",
+    "options": {
+      "A": "Enhanced phosphorus uptake",
+      "B": "Producing antibiotics",
+      "C": "Producing ethanol",
+      "D": "Synthesising vitamins only"
+    },
+    "correct_answer": "A",
+    "explanation": "Fungal hyphae increase phosphate absorption."
+  },
+  {
+    "source_sentence": "Glomus forms arbuscular mycorrhiza.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The mycorrhizal fungus commonly cited in NCERT is:",
+    "options": {
+      "A": "Glomus",
+      "B": "Saccharomyces",
+      "C": "Penicillium",
+      "D": "Aspergillus"
+    },
+    "correct_answer": "A",
+    "explanation": "Glomus forms arbuscular mycorrhiza."
+  },
+  {
+    "source_sentence": "Mycorrhiza also helps in drought tolerance.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Mycorrhiza confers all except:",
+    "options": {
+      "A": "Resistance to drought",
+      "B": "Resistance to root pathogens",
+      "C": "Increase in photosynthesis",
+      "D": "Enhanced phosphate uptake"
+    },
+    "correct_answer": "C",
+    "explanation": "NCERT notes nutrient and stress benefits; photosynthesis increase is indirect."
+  },
+  {
+    "source_sentence": "Rhizobium requires nodulation with legumes.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Rhizobium is called a symbiotic biofertiliser because it:",
+    "options": {
+      "A": "Forms nodules on legume roots",
+      "B": "Lives freely in soil only",
+      "C": "Fixes nitrogen in oceans",
+      "D": "Decomposes cellulose only"
+    },
+    "correct_answer": "A",
+    "explanation": "It fixes nitrogen in association with legumes."
+  },
+  {
+    "source_sentence": "Biofertilisers enrich soil naturally.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Biofertilisers are preferred over chemical fertilisers because they:",
+    "options": {
+      "A": "Increase soil fertility biologically",
+      "B": "Add heavy metals",
+      "C": "Kill soil microbes",
+      "D": "Always release toxic gases"
+    },
+    "correct_answer": "A",
+    "explanation": "They augment nutrient availability without pollution."
+  },
+  {
+    "source_sentence": "Antibiotic definition: substances produced by microbes that kill/inhibit other microbes.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Antibiotics are best defined as:",
+    "options": {
+      "A": "Substances produced by microbes that kill/inhibit other microbes",
+      "B": "All disinfectants",
+      "C": "All vaccines",
+      "D": "All steroids"
+    },
+    "correct_answer": "A",
+    "explanation": "They are microbial products acting on other microbes."
+  },
+  {
+    "source_sentence": "Penicillin acts on bacterial cell wall.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Penicillin is most effective against bacteria because it:",
+    "options": {
+      "A": "Inhibits cell wall synthesis",
+      "B": "Inhibits DNA replication in humans",
+      "C": "Destroys viruses",
+      "D": "Destroys fungal cell walls"
+    },
+    "correct_answer": "A",
+    "explanation": "Beta-lactams block peptidoglycan synthesis."
+  },
+  {
+    "source_sentence": "Statins inhibit HMG-CoA reductase.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Statins lower cholesterol by inhibiting:",
+    "options": {
+      "A": "HMG-CoA reductase",
+      "B": "ATP synthase",
+      "C": "RuBisCO",
+      "D": "Nitrogenase"
+    },
+    "correct_answer": "A",
+    "explanation": "Statins block cholesterol biosynthesis enzyme."
+  },
+  {
+    "source_sentence": "Streptokinase is used as a clot buster.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Streptokinase is clinically used to:",
+    "options": {
+      "A": "Dissolve blood clots",
+      "B": "Lower blood sugar",
+      "C": "Treat viral fever",
+      "D": "Induce immunity"
+    },
+    "correct_answer": "A",
+    "explanation": "It breaks down fibrin clots."
+  },
+  {
+    "source_sentence": "Cyclosporin suppresses immune response.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Cyclosporin A is used for:",
+    "options": {
+      "A": "Preventing graft rejection",
+      "B": "Treating tuberculosis",
+      "C": "Treating malaria",
+      "D": "Controlling hypertension"
+    },
+    "correct_answer": "A",
+    "explanation": "It suppresses T-cell mediated immunity."
+  },
+  {
+    "source_sentence": "LAB inoculum used in making curd.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The starter culture used to convert milk to curd is:",
+    "options": {
+      "A": "Lactic acid bacteria",
+      "B": "Yeast",
+      "C": "Rhizobium",
+      "D": "Methanogens"
+    },
+    "correct_answer": "A",
+    "explanation": "LAB convert lactose to lactic acid."
+  },
+  {
+    "source_sentence": "Cheese production uses Lactobacillus and Propionibacterium.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Swiss cheese holes are produced by CO2 from:",
+    "options": {
+      "A": "Propionibacterium shermanii",
+      "B": "Lactobacillus bulgaricus",
+      "C": "Rhizobium",
+      "D": "Nitrosomonas"
+    },
+    "correct_answer": "A",
+    "explanation": "Propionibacterium releases CO2 creating holes."
+  },
+  {
+    "source_sentence": "Roquefort cheese uses Penicillium roqueforti.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The fungus used in Roquefort cheese production is:",
+    "options": {
+      "A": "Penicillium roqueforti",
+      "B": "Aspergillus niger",
+      "C": "Saccharomyces cerevisiae",
+      "D": "Rhizopus"
+    },
+    "correct_answer": "A",
+    "explanation": "Roquefort is ripened by Penicillium roqueforti."
+  },
+  {
+    "source_sentence": "Lactic acid bacteria are thermophilic in yoghurt.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Yoghurt starter commonly includes:",
+    "options": {
+      "A": "Lactobacillus bulgaricus and Streptococcus thermophilus",
+      "B": "E. coli and Salmonella",
+      "C": "Rhizobium and Azotobacter",
+      "D": "Nitrosomonas and Nitrobacter"
+    },
+    "correct_answer": "A",
+    "explanation": "These LAB ferment lactose to lactic acid."
+  },
+  {
+    "source_sentence": "Microbes used in organic acid production.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Lactic acid is commercially produced by:",
+    "options": {
+      "A": "Lactobacillus",
+      "B": "Penicillium",
+      "C": "Rhizobium",
+      "D": "Bacillus thuringiensis"
+    },
+    "correct_answer": "A",
+    "explanation": "Lactobacilli ferment sugars to lactic acid."
+  },
+  {
+    "source_sentence": "Large-scale production uses sterilised medium.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Before inoculation, fermentor medium is sterilised mainly to:",
+    "options": {
+      "A": "Prevent contamination by unwanted microbes",
+      "B": "Increase oxygen",
+      "C": "Increase pH",
+      "D": "Increase temperature permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "Sterility prevents loss of culture to contaminants."
+  },
+  {
+    "source_sentence": "Industrial bioreactors provide agitation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Agitation in a fermentor helps by:",
+    "options": {
+      "A": "Uniform distribution of nutrients and oxygen",
+      "B": "Killing microbes",
+      "C": "Stopping metabolism",
+      "D": "Freezing the culture"
+    },
+    "correct_answer": "A",
+    "explanation": "Mixing maintains uniform growth conditions."
+  },
+  {
+    "source_sentence": "Secondary treatment also called activated sludge process.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The process of secondary sewage treatment is often called:",
+    "options": {
+      "A": "Activated sludge process",
+      "B": "Distillation",
+      "C": "Pasteurisation",
+      "D": "Chlorination"
+    },
+    "correct_answer": "A",
+    "explanation": "It uses aerobic microbes forming activated sludge."
+  },
+  {
+    "source_sentence": "During secondary treatment, protozoa graze on bacteria.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "In activated sludge, protozoa are important because they:",
+    "options": {
+      "A": "Graze on bacteria and help clarify effluent",
+      "B": "Fix nitrogen",
+      "C": "Produce methane",
+      "D": "Release oxygen"
+    },
+    "correct_answer": "A",
+    "explanation": "Protozoa control bacterial population and improve clarity."
+  },
+  {
+    "source_sentence": "Disinfection by chlorination after secondary treatment.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "After secondary treatment, water is often treated with:",
+    "options": {
+      "A": "Chlorine or ozone",
+      "B": "Only ethanol",
+      "C": "Only glycerol",
+      "D": "Nitrogen gas"
+    },
+    "correct_answer": "A",
+    "explanation": "Disinfection kills remaining pathogens."
+  },
+  {
+    "source_sentence": "Compost uses microbial decomposition.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Composting relies primarily on:",
+    "options": {
+      "A": "Microbial decomposition of organic waste",
+      "B": "Photolysis of plastics",
+      "C": "Nuclear reactions",
+      "D": "Condensation of water"
+    },
+    "correct_answer": "A",
+    "explanation": "Microbes break down organic matter into manure."
+  },
+  {
+    "source_sentence": "Biocontrol avoids chemical pesticide residues.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Biocontrol agents are preferred because they:",
+    "options": {
+      "A": "Reduce dependence on chemical pesticides",
+      "B": "Increase chemical residues",
+      "C": "Eliminate all insects including pollinators",
+      "D": "Cause ozone depletion"
+    },
+    "correct_answer": "A",
+    "explanation": "They are eco-friendly and target pests."
+  },
+  {
+    "source_sentence": "Bt toxin has no effect on vertebrates.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Bt bioinsecticide is considered safe for humans because:",
+    "options": {
+      "A": "Toxin is activated only in alkaline insect gut",
+      "B": "It is a viral toxin",
+      "C": "It kills all animals equally",
+      "D": "It is inactive in soil only"
+    },
+    "correct_answer": "A",
+    "explanation": "Protoxin activation requires insect gut conditions."
+  },
+  {
+    "source_sentence": "Trichoderma colonises roots.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Trichoderma used in biocontrol acts by:",
+    "options": {
+      "A": "Competing with pathogens and producing antifungal compounds",
+      "B": "Fixing nitrogen",
+      "C": "Producing methane",
+      "D": "Causing plant disease"
+    },
+    "correct_answer": "A",
+    "explanation": "It suppresses pathogens in rhizosphere."
+  },
+  {
+    "source_sentence": "Mycorrhiza forms mutualistic association with roots.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Mycorrhiza is a symbiotic association between:",
+    "options": {
+      "A": "Fungus and plant roots",
+      "B": "Bacteria and leaves",
+      "C": "Algae and fungi only",
+      "D": "Virus and plant cell"
+    },
+    "correct_answer": "A",
+    "explanation": "Fungal hyphae associate with roots for mutual benefit."
+  },
+  {
+    "source_sentence": "Cyanobacteria are photoautotrophic biofertilisers.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Which feature of cyanobacteria makes them useful as biofertilisers?",
+    "options": {
+      "A": "Nitrogen fixation and photosynthesis",
+      "B": "Producing ethanol",
+      "C": "Being animal parasites",
+      "D": "Producing antibiotics only"
+    },
+    "correct_answer": "A",
+    "explanation": "They fix nitrogen while photosynthesising."
+  },
+  {
+    "source_sentence": "Azospirillum and Azotobacter fix atmospheric nitrogen.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Which pair are free-living/associative nitrogen fixers?",
+    "options": {
+      "A": "Azotobacter and Azospirillum",
+      "B": "Rhizobium and Frankia only",
+      "C": "Nitrosomonas and Nitrobacter",
+      "D": "E. coli and Salmonella"
+    },
+    "correct_answer": "A",
+    "explanation": "Both are non-symbiotic/associative N2 fixers."
+  },
+  {
+    "source_sentence": "Microbes are used to produce enzymes and chemicals.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Which of the following is a microbial product used in detergents?",
+    "options": {
+      "A": "Proteases",
+      "B": "Hemoglobin",
+      "C": "Chlorophyll",
+      "D": "Keratin"
+    },
+    "correct_answer": "A",
+    "explanation": "Proteases are used to remove protein stains."
+  },
+  {
+    "source_sentence": "Pectinase clarifies fruit juices.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Pectinase is used in industry to:",
+    "options": {
+      "A": "Clarify fruit juices",
+      "B": "Fix nitrogen",
+      "C": "Produce biogas",
+      "D": "Kill insects"
+    },
+    "correct_answer": "A",
+    "explanation": "Pectinases break down pectin for clarity."
+  },
+  {
+    "source_sentence": "Lipases are used in detergent formulations.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Enzymes that remove oily stains in detergents are:",
+    "options": {
+      "A": "Lipases",
+      "B": "DNA ligases",
+      "C": "Polymerases",
+      "D": "Nitrogenases"
+    },
+    "correct_answer": "A",
+    "explanation": "Lipases digest fats in stains."
+  },
+  {
+    "source_sentence": "Bioreactors maintain pH and temperature.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "The parameter commonly monitored in fermentors includes:",
+    "options": {
+      "A": "pH, temperature, and aeration",
+      "B": "Only rainfall",
+      "C": "Only magnetic field",
+      "D": "Only atmospheric pressure"
+    },
+    "correct_answer": "A",
+    "explanation": "Optimal pH and temperature improve yield."
+  },
+  {
+    "source_sentence": "Secondary treatment uses heterotrophic bacteria.",
+    "chapter": "Chapter 8: Microbes in Human Welfare",
+    "question": "Microbes that form flocs in aeration tanks are mainly:",
+    "options": {
+      "A": "Heterotrophic bacteria",
+      "B": "Chemosynthetic algae",
+      "C": "Protozoa only",
+      "D": "Viruses"
+    },
+    "correct_answer": "A",
+    "explanation": "Heterotrophs oxidise organic matter."
+  }
+]

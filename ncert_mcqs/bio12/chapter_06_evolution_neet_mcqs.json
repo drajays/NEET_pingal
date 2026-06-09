@@ -1,0 +1,1133 @@
+[
+  {
+    "source_sentence": "Evolution is the sequence of gradual changes in populations over time.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which statement best captures biological evolution as per NCERT?",
+    "options": {
+      "A": "Changes in individuals during their lifetime",
+      "B": "Gradual changes in populations over generations",
+      "C": "Instant creation of new species",
+      "D": "Only changes in body size"
+    },
+    "correct_answer": "B",
+    "explanation": "Evolution is defined as gradual changes in populations across generations."
+  },
+  {
+    "source_sentence": "Darwin proposed natural selection as a mechanism of evolution.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Darwin's key contribution to evolution was the concept of:",
+    "options": {
+      "A": "Inheritance of acquired characters",
+      "B": "Natural selection acting on heritable variation",
+      "C": "Mutation pressure alone",
+      "D": "Sudden saltation"
+    },
+    "correct_answer": "B",
+    "explanation": "Darwin emphasized natural selection acting on heritable variation."
+  },
+  {
+    "source_sentence": "Lamarck proposed inheritance of acquired characters.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Lamarck's theory mainly proposed:",
+    "options": {
+      "A": "Use and disuse leading to inheritance of acquired traits",
+      "B": "Genetic drift causing evolution",
+      "C": "Natural selection of random mutations",
+      "D": "Hybridization as the main cause of speciation"
+    },
+    "correct_answer": "A",
+    "explanation": "Lamarck suggested acquired characters due to use and disuse are inherited."
+  },
+  {
+    "source_sentence": "Homologous organs have common ancestry but different functions.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Forelimbs of whale, bat and human are examples of:",
+    "options": {
+      "A": "Analogous organs",
+      "B": "Homologous organs",
+      "C": "Vestigial organs",
+      "D": "Atavistic organs"
+    },
+    "correct_answer": "B",
+    "explanation": "They share basic structural plan and common ancestry, indicating homology."
+  },
+  {
+    "source_sentence": "Analogous organs perform similar functions but have different origin.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Wings of butterfly and wings of bird show:",
+    "options": {
+      "A": "Homology",
+      "B": "Analogous features",
+      "C": "Vestigiality",
+      "D": "Convergent ancestry"
+    },
+    "correct_answer": "B",
+    "explanation": "They perform similar function but have different origin, so they are analogous."
+  },
+  {
+    "source_sentence": "Convergent evolution produces analogous structures.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Analogous organs are a result of:",
+    "options": {
+      "A": "Divergent evolution",
+      "B": "Convergent evolution",
+      "C": "Adaptive radiation",
+      "D": "Genetic drift only"
+    },
+    "correct_answer": "B",
+    "explanation": "Convergent evolution leads to similar functional features in unrelated groups."
+  },
+  {
+    "source_sentence": "Divergent evolution leads to homologous organs.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Homologous structures indicate:",
+    "options": {
+      "A": "Convergent evolution",
+      "B": "Divergent evolution from a common ancestor",
+      "C": "No relation among species",
+      "D": "Only adaptive radiation"
+    },
+    "correct_answer": "B",
+    "explanation": "Homology reflects divergence from common ancestry."
+  },
+  {
+    "source_sentence": "Adaptive radiation is the evolution of multiple forms from a common ancestor.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Darwin's finches in Galapagos exemplify:",
+    "options": {
+      "A": "Adaptive radiation",
+      "B": "Genetic drift",
+      "C": "Hybridization",
+      "D": "Founder effect"
+    },
+    "correct_answer": "A",
+    "explanation": "Multiple species evolved from a common ancestor adapting to different niches."
+  },
+  {
+    "source_sentence": "Australian marsupials show adaptive radiation.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "A set of diverse marsupials in Australia is evidence of:",
+    "options": {
+      "A": "Co-evolution",
+      "B": "Adaptive radiation",
+      "C": "Artificial selection",
+      "D": "Bottleneck effect"
+    },
+    "correct_answer": "B",
+    "explanation": "Marsupials diversified from a common ancestor into different ecological roles."
+  },
+  {
+    "source_sentence": "Industrial melanism in peppered moths is a classic example of natural selection.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "The increase of dark peppered moths during industrialization illustrates:",
+    "options": {
+      "A": "Genetic drift",
+      "B": "Natural selection",
+      "C": "Founder effect",
+      "D": "Mutation only"
+    },
+    "correct_answer": "B",
+    "explanation": "Dark moths had selective advantage on soot-darkened trees."
+  },
+  {
+    "source_sentence": "Natural selection favors the most fit individuals.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "In natural selection, the 'fitness' of an organism refers to:",
+    "options": {
+      "A": "Physical strength only",
+      "B": "Ability to survive and reproduce",
+      "C": "Longer lifespan regardless of reproduction",
+      "D": "Largest body size"
+    },
+    "correct_answer": "B",
+    "explanation": "Fitness is measured by reproductive success and survival."
+  },
+  {
+    "source_sentence": "Miller-Urey experiment showed formation of organic molecules.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Miller-Urey experiment provided evidence for:",
+    "options": {
+      "A": "Spontaneous generation of organisms",
+      "B": "Chemical evolution of organic molecules",
+      "C": "Panspermia",
+      "D": "Darwinian selection"
+    },
+    "correct_answer": "B",
+    "explanation": "They formed amino acids from a primitive atmosphere simulation."
+  },
+  {
+    "source_sentence": "Oparin-Haldane proposed chemical evolution.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Oparin and Haldane proposed that life originated through:",
+    "options": {
+      "A": "Abiotic synthesis of organic molecules in early Earth",
+      "B": "Arrival of spores from outer space",
+      "C": "Sudden appearance of cells with DNA",
+      "D": "Only volcanic eruptions"
+    },
+    "correct_answer": "A",
+    "explanation": "They proposed chemical evolution from simple to complex molecules."
+  },
+  {
+    "source_sentence": "Hardy-Weinberg principle states allele frequencies remain constant.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Hardy-Weinberg equilibrium requires all of the following EXCEPT:",
+    "options": {
+      "A": "Random mating",
+      "B": "No mutation",
+      "C": "Small population size",
+      "D": "No migration"
+    },
+    "correct_answer": "C",
+    "explanation": "Large population size is required; small size causes genetic drift."
+  },
+  {
+    "source_sentence": "Factors disturbing Hardy-Weinberg equilibrium include gene flow and genetic drift.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which of the following disturbs Hardy-Weinberg equilibrium most directly?",
+    "options": {
+      "A": "Random mating",
+      "B": "Large population size",
+      "C": "Migration (gene flow)",
+      "D": "No mutation"
+    },
+    "correct_answer": "C",
+    "explanation": "Gene flow changes allele frequencies and disturbs equilibrium."
+  },
+  {
+    "source_sentence": "Genetic drift can be observed in small populations.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Random change in allele frequency in a small population is called:",
+    "options": {
+      "A": "Natural selection",
+      "B": "Genetic drift",
+      "C": "Gene flow",
+      "D": "Mutation pressure"
+    },
+    "correct_answer": "B",
+    "explanation": "Genetic drift is random fluctuation in allele frequencies."
+  },
+  {
+    "source_sentence": "Founder effect is a type of genetic drift.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Founder effect is best described as:",
+    "options": {
+      "A": "Random change in allele frequency when a small group starts a new population",
+      "B": "Selection against heterozygotes",
+      "C": "Migration of many individuals",
+      "D": "Mutation creating new alleles"
+    },
+    "correct_answer": "A",
+    "explanation": "Founder effect is drift in a new population started by few individuals."
+  },
+  {
+    "source_sentence": "Bottleneck effect occurs due to drastic reduction in population size.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "A sudden reduction of population size leading to altered allele frequency is:",
+    "options": {
+      "A": "Gene flow",
+      "B": "Bottleneck effect",
+      "C": "Adaptive radiation",
+      "D": "Speciation"
+    },
+    "correct_answer": "B",
+    "explanation": "Bottleneck effect is a type of genetic drift after population crash."
+  },
+  {
+    "source_sentence": "Speciation can occur by geographic isolation.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Speciation due to geographic isolation is called:",
+    "options": {
+      "A": "Sympatric speciation",
+      "B": "Allopatric speciation",
+      "C": "Parapatric speciation",
+      "D": "Hybrid speciation"
+    },
+    "correct_answer": "B",
+    "explanation": "Allopatric speciation results from geographic separation."
+  },
+  {
+    "source_sentence": "Reproductive isolation prevents gene flow.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which of the following is a prezygotic isolating mechanism?",
+    "options": {
+      "A": "Hybrid sterility",
+      "B": "Mechanical isolation",
+      "C": "Hybrid inviability",
+      "D": "Hybrid breakdown"
+    },
+    "correct_answer": "B",
+    "explanation": "Mechanical isolation prevents mating before zygote formation."
+  },
+  {
+    "source_sentence": "Fossils are evidence for evolution.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Fossil records are considered direct evidence for:",
+    "options": {
+      "A": "Physiological adaptation only",
+      "B": "Evolutionary history over time",
+      "C": "Molecular homology",
+      "D": "Artificial selection"
+    },
+    "correct_answer": "B",
+    "explanation": "Fossils reveal sequential changes in forms through time."
+  },
+  {
+    "source_sentence": "Archaeopteryx is a connecting link between reptiles and birds.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Archaeopteryx is significant because it is:",
+    "options": {
+      "A": "A mammal-like reptile",
+      "B": "A reptile-like bird",
+      "C": "A fish-like amphibian",
+      "D": "A primate ancestor"
+    },
+    "correct_answer": "B",
+    "explanation": "It shows features of both reptiles and birds, a connecting link."
+  },
+  {
+    "source_sentence": "Biogeography supports evolution.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "The distribution of marsupials mainly in Australia supports:",
+    "options": {
+      "A": "Panspermia",
+      "B": "Biogeographical evidence of evolution",
+      "C": "Spontaneous generation",
+      "D": "Industrial melanism"
+    },
+    "correct_answer": "B",
+    "explanation": "Geographic distribution of species supports evolution and common ancestry."
+  },
+  {
+    "source_sentence": "Embryology supports common ancestry.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Similarity of early embryos of vertebrates indicates:",
+    "options": {
+      "A": "Convergent evolution only",
+      "B": "Common ancestry",
+      "C": "No evolutionary relationship",
+      "D": "Environmental induction"
+    },
+    "correct_answer": "B",
+    "explanation": "Embryological similarities reflect shared ancestry."
+  },
+  {
+    "source_sentence": "Molecular homology shows evolutionary relationships.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Comparison of cytochrome c sequences is used as evidence for:",
+    "options": {
+      "A": "Artificial selection",
+      "B": "Molecular evolution and common ancestry",
+      "C": "Speciation by polyploidy",
+      "D": "Adaptive radiation"
+    },
+    "correct_answer": "B",
+    "explanation": "Molecular similarities indicate evolutionary relationships."
+  },
+  {
+    "source_sentence": "Natural selection can be stabilizing, directional or disruptive.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Selection that favors intermediate phenotypes is:",
+    "options": {
+      "A": "Directional selection",
+      "B": "Disruptive selection",
+      "C": "Stabilizing selection",
+      "D": "Artificial selection"
+    },
+    "correct_answer": "C",
+    "explanation": "Stabilizing selection favors average/intermediate phenotypes."
+  },
+  {
+    "source_sentence": "Directional selection shifts the mean value of a trait.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Selection that favors one extreme phenotype is called:",
+    "options": {
+      "A": "Directional selection",
+      "B": "Stabilizing selection",
+      "C": "Disruptive selection",
+      "D": "Balancing selection"
+    },
+    "correct_answer": "A",
+    "explanation": "Directional selection shifts the mean toward one extreme."
+  },
+  {
+    "source_sentence": "Disruptive selection favors both extremes.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Selection that favors both extremes and eliminates intermediates is:",
+    "options": {
+      "A": "Directional selection",
+      "B": "Stabilizing selection",
+      "C": "Disruptive selection",
+      "D": "Random selection"
+    },
+    "correct_answer": "C",
+    "explanation": "Disruptive selection increases variance by favoring extremes."
+  },
+  {
+    "source_sentence": "Population genetics studies allele frequencies in populations.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Hardy-Weinberg principle is a foundation of:",
+    "options": {
+      "A": "Ecology only",
+      "B": "Population genetics",
+      "C": "Physiology",
+      "D": "Developmental biology"
+    },
+    "correct_answer": "B",
+    "explanation": "It is a core concept of population genetics."
+  },
+  {
+    "source_sentence": "Genetic variation arises from mutation and recombination.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Primary source of new alleles in a population is:",
+    "options": {
+      "A": "Recombination",
+      "B": "Mutation",
+      "C": "Natural selection",
+      "D": "Genetic drift"
+    },
+    "correct_answer": "B",
+    "explanation": "Mutations create new alleles; recombination reshuffles them."
+  },
+  {
+    "source_sentence": "Gene flow occurs when individuals migrate between populations.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Movement of alleles between populations due to migration is:",
+    "options": {
+      "A": "Gene flow",
+      "B": "Genetic drift",
+      "C": "Mutation pressure",
+      "D": "Non-random mating"
+    },
+    "correct_answer": "A",
+    "explanation": "Gene flow changes allele frequencies through migration."
+  },
+  {
+    "source_sentence": "Non-random mating can alter genotype frequencies.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which condition changes genotype frequency but not allele frequency?",
+    "options": {
+      "A": "Mutation",
+      "B": "Non-random mating",
+      "C": "Gene flow",
+      "D": "Genetic drift"
+    },
+    "correct_answer": "B",
+    "explanation": "Non-random mating changes genotype proportions, not allele frequency."
+  },
+  {
+    "source_sentence": "Speciation leads to formation of new species.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Speciation is best defined as:",
+    "options": {
+      "A": "Evolution of a new species from an existing one",
+      "B": "Change in allele frequency within a species only",
+      "C": "Short-term adaptation without reproduction",
+      "D": "Only hybridization"
+    },
+    "correct_answer": "A",
+    "explanation": "Speciation is the formation of new species."
+  },
+  {
+    "source_sentence": "Natural selection acts on phenotype.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Natural selection acts directly on:",
+    "options": {
+      "A": "Genotype",
+      "B": "Phenotype",
+      "C": "Mutation rate",
+      "D": "Chromosome number"
+    },
+    "correct_answer": "B",
+    "explanation": "Selection acts on expressed traits (phenotypes)."
+  },
+  {
+    "source_sentence": "Evolution in a single lineage is called anagenesis.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Evolutionary change within a single lineage without branching is:",
+    "options": {
+      "A": "Cladogenesis",
+      "B": "Anagenesis",
+      "C": "Adaptive radiation",
+      "D": "Convergent evolution"
+    },
+    "correct_answer": "B",
+    "explanation": "Anagenesis is evolution within a single lineage."
+  },
+  {
+    "source_sentence": "Branching evolution is called cladogenesis.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Formation of two or more species from a single ancestor is:",
+    "options": {
+      "A": "Anagenesis",
+      "B": "Cladogenesis",
+      "C": "Mutation pressure",
+      "D": "Directional selection"
+    },
+    "correct_answer": "B",
+    "explanation": "Cladogenesis is branching evolution leading to new species."
+  },
+  {
+    "source_sentence": "Human evolution is traced through fossils.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which fossil is considered the oldest hominid as per NCERT?",
+    "options": {
+      "A": "Homo habilis",
+      "B": "Australopithecus",
+      "C": "Homo erectus",
+      "D": "Homo sapiens"
+    },
+    "correct_answer": "B",
+    "explanation": "Australopithecus is among the earliest known hominids."
+  },
+  {
+    "source_sentence": "Homo habilis had larger brain and used tools.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Homo habilis is noted for:",
+    "options": {
+      "A": "First use of fire",
+      "B": "Primitive tool use and larger brain",
+      "C": "Origin of agriculture",
+      "D": "Development of language"
+    },
+    "correct_answer": "B",
+    "explanation": "Homo habilis had a larger brain and used crude tools."
+  },
+  {
+    "source_sentence": "Homo erectus used fire and had larger brain capacity.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Homo erectus is associated with:",
+    "options": {
+      "A": "First appearance of chimpanzees",
+      "B": "Use of fire and improved tools",
+      "C": "Earliest agriculture",
+      "D": "Aquatic adaptation"
+    },
+    "correct_answer": "B",
+    "explanation": "Homo erectus used fire and had advanced tools."
+  },
+  {
+    "source_sentence": "Neanderthals were adapted to cold climates.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Neanderthal man is characterized by:",
+    "options": {
+      "A": "Very small brain size",
+      "B": "No tool use",
+      "C": "Adaptation to cold and advanced tools",
+      "D": "Direct ancestor of chimpanzees"
+    },
+    "correct_answer": "C",
+    "explanation": "Neanderthals had larger brains and cold adaptations."
+  },
+  {
+    "source_sentence": "Cro-Magnon were modern Homo sapiens.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Cro-Magnon fossils represent:",
+    "options": {
+      "A": "Early australopithecines",
+      "B": "Modern Homo sapiens",
+      "C": "Homo erectus",
+      "D": "Homo habilis"
+    },
+    "correct_answer": "B",
+    "explanation": "Cro-Magnon are early modern humans (Homo sapiens)."
+  },
+  {
+    "source_sentence": "Bipedalism is a hallmark of human evolution.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "A key feature that distinguishes hominids from apes is:",
+    "options": {
+      "A": "Four-chambered heart",
+      "B": "Bipedal locomotion",
+      "C": "Presence of hair",
+      "D": "Opposable thumbs only"
+    },
+    "correct_answer": "B",
+    "explanation": "Bipedal locomotion is a hallmark of hominids."
+  },
+  {
+    "source_sentence": "Mitochondrial DNA is used in molecular evolution studies.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Mitochondrial DNA is useful in tracing evolution because it is:",
+    "options": {
+      "A": "Highly recombining",
+      "B": "Maternally inherited and evolves relatively rapidly",
+      "C": "Only present in bacteria",
+      "D": "Not inherited"
+    },
+    "correct_answer": "B",
+    "explanation": "mtDNA is maternally inherited and evolves faster than nuclear DNA."
+  },
+  {
+    "source_sentence": "Homologous organs have a common basic structure.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Thorn of Bougainvillea and tendril of Cucurbita are:",
+    "options": {
+      "A": "Analogous organs",
+      "B": "Homologous organs",
+      "C": "Vestigial organs",
+      "D": "Atavistic organs"
+    },
+    "correct_answer": "B",
+    "explanation": "Both are modifications of stem, hence homologous."
+  },
+  {
+    "source_sentence": "Analogous organs have different origin but similar function.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Eyes of octopus and humans are an example of:",
+    "options": {
+      "A": "Homology",
+      "B": "Analogy",
+      "C": "Vestigiality",
+      "D": "Atavism"
+    },
+    "correct_answer": "B",
+    "explanation": "They are analogous due to independent evolution of similar function."
+  },
+  {
+    "source_sentence": "Vestigial organs are reduced structures.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Appendix in humans is best described as:",
+    "options": {
+      "A": "Homologous organ",
+      "B": "Vestigial organ",
+      "C": "Analogous organ",
+      "D": "New organ formed by mutation"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix is a reduced organ with minimal function in humans."
+  },
+  {
+    "source_sentence": "Artificial selection is selection by humans.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Breeding of high-yield cattle by humans is an example of:",
+    "options": {
+      "A": "Natural selection",
+      "B": "Artificial selection",
+      "C": "Genetic drift",
+      "D": "Founder effect"
+    },
+    "correct_answer": "B",
+    "explanation": "Humans select desired traits, which is artificial selection."
+  },
+  {
+    "source_sentence": "Peppered moths show rapid change in phenotype frequency.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Industrial melanism in peppered moths is best explained by:",
+    "options": {
+      "A": "Use and disuse",
+      "B": "Directional natural selection",
+      "C": "Stabilizing selection",
+      "D": "Genetic drift only"
+    },
+    "correct_answer": "B",
+    "explanation": "Selective advantage favored dark moths; it is directional selection."
+  },
+  {
+    "source_sentence": "Haldane and Oparin suggested early Earth had reducing atmosphere.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Primitive Earth atmosphere as proposed by Oparin-Haldane was:",
+    "options": {
+      "A": "Oxidizing with free oxygen",
+      "B": "Reducing with CH4, NH3, H2 and water vapor",
+      "C": "Mostly nitrogen and oxygen as today",
+      "D": "Rich in ozone"
+    },
+    "correct_answer": "B",
+    "explanation": "Early Earth was reducing, lacking free oxygen."
+  },
+  {
+    "source_sentence": "First cellular forms were likely single-celled anaerobes.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Earliest life forms were probably:",
+    "options": {
+      "A": "Multicellular photosynthetic organisms",
+      "B": "Single-celled anaerobic organisms",
+      "C": "Aerobic mammals",
+      "D": "Lichens"
+    },
+    "correct_answer": "B",
+    "explanation": "Early Earth lacked oxygen, so first life was anaerobic."
+  },
+  {
+    "source_sentence": "Natural selection requires variation, heritability and differential reproduction.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which set is essential for natural selection to operate?",
+    "options": {
+      "A": "Variation, heritability, differential reproductive success",
+      "B": "No variation and no mutation",
+      "C": "Random mating and small population only",
+      "D": "Migration and hybridization only"
+    },
+    "correct_answer": "A",
+    "explanation": "Natural selection requires heritable variation and differential survival."
+  },
+  {
+    "source_sentence": "Fitness is measured in terms of reproductive success.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "A trait that increases the number of offspring will:",
+    "options": {
+      "A": "Reduce fitness",
+      "B": "Increase fitness",
+      "C": "Not affect evolution",
+      "D": "Only affect genotype frequency, not phenotype"
+    },
+    "correct_answer": "B",
+    "explanation": "More offspring means higher fitness and selection for that trait."
+  },
+  {
+    "source_sentence": "Evolutionary trends can be traced by fossils.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Sequence of horse evolution is studied using:",
+    "options": {
+      "A": "Only comparative anatomy",
+      "B": "Fossil records",
+      "C": "Artificial selection",
+      "D": "Biogeography alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Fossils provide a chronological sequence of changes."
+  },
+  {
+    "source_sentence": "Homology suggests common ancestry.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "The similarities in bone arrangement of vertebrate forelimbs suggest:",
+    "options": {
+      "A": "Only convergence",
+      "B": "Common ancestry",
+      "C": "No relation",
+      "D": "Founder effect"
+    },
+    "correct_answer": "B",
+    "explanation": "Homologous structures indicate shared ancestry."
+  },
+  {
+    "source_sentence": "Analogous organs arise from different origin but similar function.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Potato (stem tuber) and sweet potato (root tuber) are:",
+    "options": {
+      "A": "Homologous organs",
+      "B": "Analogous organs",
+      "C": "Vestigial organs",
+      "D": "Atavistic organs"
+    },
+    "correct_answer": "B",
+    "explanation": "They have different origin but similar function of storage."
+  },
+  {
+    "source_sentence": "Selection can lead to adaptation to environment.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Camouflage in stick insects is an example of:",
+    "options": {
+      "A": "Artificial selection",
+      "B": "Natural selection and adaptation",
+      "C": "Genetic drift",
+      "D": "Mutation only"
+    },
+    "correct_answer": "B",
+    "explanation": "Camouflage provides survival advantage and is selected naturally."
+  },
+  {
+    "source_sentence": "Evolution can be inferred from comparative morphology.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Cactus spines and pea tendrils are:",
+    "options": {
+      "A": "Analogous organs",
+      "B": "Homologous organs",
+      "C": "Vestigial organs",
+      "D": "Atavistic organs"
+    },
+    "correct_answer": "B",
+    "explanation": "Both are modified leaves, hence homologous."
+  },
+  {
+    "source_sentence": "Molecular phylogeny uses DNA sequence similarity.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Greater similarity in DNA sequences suggests:",
+    "options": {
+      "A": "Less relatedness",
+      "B": "Closer evolutionary relationship",
+      "C": "No common ancestry",
+      "D": "No evolutionary significance"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA sequence similarity indicates closer evolutionary relationship."
+  },
+  {
+    "source_sentence": "Speciation can occur due to reproductive isolation.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which barrier is postzygotic?",
+    "options": {
+      "A": "Temporal isolation",
+      "B": "Behavioral isolation",
+      "C": "Hybrid sterility",
+      "D": "Mechanical isolation"
+    },
+    "correct_answer": "C",
+    "explanation": "Hybrid sterility occurs after zygote formation."
+  },
+  {
+    "source_sentence": "Genetic drift is more pronounced in small populations.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which situation is most likely to show strong genetic drift?",
+    "options": {
+      "A": "A large population of birds",
+      "B": "A small isolated island population",
+      "C": "A population with random mating",
+      "D": "A population with no mutation"
+    },
+    "correct_answer": "B",
+    "explanation": "Small isolated populations show stronger drift."
+  },
+  {
+    "source_sentence": "Natural selection results in adaptation.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which is an example of adaptive evolution?",
+    "options": {
+      "A": "Rise in frequency of antibiotic-resistant bacteria",
+      "B": "Random change in allele frequency",
+      "C": "Loss of alleles in a bottleneck",
+      "D": "Increase in heterozygosity by migration only"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibiotic resistance spreads due to selection for adaptation."
+  },
+  {
+    "source_sentence": "Gene flow can reduce differences between populations.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Gene flow tends to:",
+    "options": {
+      "A": "Increase genetic differences among populations",
+      "B": "Reduce genetic differences among populations",
+      "C": "Cause speciation always",
+      "D": "Eliminate alleles from all populations"
+    },
+    "correct_answer": "B",
+    "explanation": "Migration mixes alleles, reducing differences."
+  },
+  {
+    "source_sentence": "Evolution is not goal-directed.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which statement about evolution is correct?",
+    "options": {
+      "A": "Evolution has a predetermined goal",
+      "B": "Evolution proceeds by natural selection without foresight",
+      "C": "Evolution stops once a species is well adapted",
+      "D": "Evolution always increases complexity"
+    },
+    "correct_answer": "B",
+    "explanation": "Evolution is not goal-directed; selection acts on existing variation."
+  },
+  {
+    "source_sentence": "Human-chimpanzee DNA similarity is high.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "High DNA similarity between humans and chimpanzees implies:",
+    "options": {
+      "A": "No common ancestor",
+      "B": "Recent common ancestry",
+      "C": "Different origin of genes",
+      "D": "No evolutionary relationship"
+    },
+    "correct_answer": "B",
+    "explanation": "High similarity indicates recent common ancestry."
+  },
+  {
+    "source_sentence": "Gradualism and punctuated equilibrium are models of evolution.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Punctuated equilibrium suggests evolution is:",
+    "options": {
+      "A": "Slow and continuous always",
+      "B": "Characterized by long stasis and brief rapid change",
+      "C": "Only due to drift",
+      "D": "Only due to mutation"
+    },
+    "correct_answer": "B",
+    "explanation": "Punctuated equilibrium involves long stasis with rapid bursts of change."
+  },
+  {
+    "source_sentence": "Natural selection can lead to speciation over time.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Speciation is facilitated by:",
+    "options": {
+      "A": "Continuous gene flow",
+      "B": "Reproductive isolation",
+      "C": "Panmixia",
+      "D": "Absence of variation"
+    },
+    "correct_answer": "B",
+    "explanation": "Reproductive isolation is essential for speciation."
+  },
+  {
+    "source_sentence": "Homologous organs indicate divergence.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "The similar skeletal plan in bat wing and human arm indicates:",
+    "options": {
+      "A": "Convergence",
+      "B": "Divergence from a common ancestor",
+      "C": "No evolutionary relation",
+      "D": "Only functional similarity"
+    },
+    "correct_answer": "B",
+    "explanation": "Homology indicates divergence from common ancestry."
+  },
+  {
+    "source_sentence": "Adaptive radiation can occur in isolated habitats.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Adaptive radiation is most likely to occur in:",
+    "options": {
+      "A": "A stable, unchanging environment",
+      "B": "An isolated habitat with diverse niches",
+      "C": "A single niche environment",
+      "D": "Highly connected populations"
+    },
+    "correct_answer": "B",
+    "explanation": "Isolation and diverse niches promote adaptive radiation."
+  },
+  {
+    "source_sentence": "Homology supports evolution by common ancestry.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which pair is homologous?",
+    "options": {
+      "A": "Wings of birds and insects",
+      "B": "Flippers of seals and forelimbs of humans",
+      "C": "Eyes of humans and octopus",
+      "D": "Fins of fish and flippers of whales (function only)"
+    },
+    "correct_answer": "B",
+    "explanation": "Seal flippers and human forelimbs share common structural plan."
+  },
+  {
+    "source_sentence": "Analogous organs show functional similarity without common origin.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which pair is analogous?",
+    "options": {
+      "A": "Forelimbs of horse and human",
+      "B": "Thorns of Bougainvillea and tendrils of Cucurbita",
+      "C": "Wings of birds and insects",
+      "D": "Bones of whale flipper and human arm"
+    },
+    "correct_answer": "C",
+    "explanation": "Bird and insect wings are analogous structures."
+  },
+  {
+    "source_sentence": "A fossil series indicates evolutionary changes.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Fossil record suggests that:",
+    "options": {
+      "A": "Life has been static",
+      "B": "Species have changed over time",
+      "C": "Only plants evolve",
+      "D": "Evolution is reversible"
+    },
+    "correct_answer": "B",
+    "explanation": "Fossils show changes in organisms over geological time."
+  },
+  {
+    "source_sentence": "Selection can act against deleterious mutations.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Removal of harmful alleles from population by selection is:",
+    "options": {
+      "A": "Purifying selection",
+      "B": "Disruptive selection",
+      "C": "Directional selection",
+      "D": "Artificial selection"
+    },
+    "correct_answer": "A",
+    "explanation": "Purifying selection removes deleterious alleles."
+  },
+  {
+    "source_sentence": "Neutral mutations can be affected by drift.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "A neutral mutation can become fixed in a population due to:",
+    "options": {
+      "A": "Natural selection only",
+      "B": "Genetic drift",
+      "C": "Artificial selection",
+      "D": "Directed mutation"
+    },
+    "correct_answer": "B",
+    "explanation": "Genetic drift can fix neutral alleles in small populations."
+  },
+  {
+    "source_sentence": "Adaptive radiation is rapid diversification.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Rapid diversification of a lineage into multiple species is called:",
+    "options": {
+      "A": "Adaptive radiation",
+      "B": "Genetic drift",
+      "C": "Directional selection only",
+      "D": "Mutation pressure"
+    },
+    "correct_answer": "A",
+    "explanation": "Adaptive radiation is rapid diversification into varied niches."
+  },
+  {
+    "source_sentence": "Human evolution involved tool use.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Earliest evidence of tool use among hominids is seen in:",
+    "options": {
+      "A": "Australopithecus",
+      "B": "Homo habilis",
+      "C": "Homo sapiens sapiens",
+      "D": "Homo neanderthalensis"
+    },
+    "correct_answer": "B",
+    "explanation": "Homo habilis used crude stone tools."
+  },
+  {
+    "source_sentence": "Human evolution shows increase in cranial capacity.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Trend in human evolution includes:",
+    "options": {
+      "A": "Decrease in brain size",
+      "B": "Increase in cranial capacity",
+      "C": "Loss of bipedalism",
+      "D": "Increase in body hair"
+    },
+    "correct_answer": "B",
+    "explanation": "Cranial capacity increased through hominid evolution."
+  },
+  {
+    "source_sentence": "Sexual selection is a type of natural selection.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Peacock tail evolution is an example of:",
+    "options": {
+      "A": "Purifying selection",
+      "B": "Sexual selection",
+      "C": "Stabilizing selection",
+      "D": "Genetic drift"
+    },
+    "correct_answer": "B",
+    "explanation": "Traits that increase mating success are favored by sexual selection."
+  },
+  {
+    "source_sentence": "Hardy-Weinberg equation p^2 + 2pq + q^2 = 1.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "In Hardy-Weinberg equation, 2pq represents:",
+    "options": {
+      "A": "Frequency of homozygous dominant",
+      "B": "Frequency of heterozygotes",
+      "C": "Frequency of homozygous recessive",
+      "D": "Frequency of alleles only"
+    },
+    "correct_answer": "B",
+    "explanation": "2pq is the heterozygote frequency."
+  },
+  {
+    "source_sentence": "Hardy-Weinberg is a null model.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Hardy-Weinberg equilibrium serves as:",
+    "options": {
+      "A": "A model assuming no evolutionary forces",
+      "B": "A model that assumes strong selection",
+      "C": "A model of speciation only",
+      "D": "A model of extinction only"
+    },
+    "correct_answer": "A",
+    "explanation": "It is a null model with no evolutionary forces acting."
+  },
+  {
+    "source_sentence": "Evolution can be supported by comparative anatomy.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Comparative anatomy provides evidence for:",
+    "options": {
+      "A": "Evolution and common ancestry",
+      "B": "Only physiological adaptation",
+      "C": "No evolutionary relationship",
+      "D": "Only genetic drift"
+    },
+    "correct_answer": "A",
+    "explanation": "Structural similarities indicate shared ancestry."
+  },
+  {
+    "source_sentence": "Mutation is a source of genetic variation.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which evolutionary force introduces new alleles?",
+    "options": {
+      "A": "Genetic drift",
+      "B": "Mutation",
+      "C": "Non-random mating",
+      "D": "Natural selection"
+    },
+    "correct_answer": "B",
+    "explanation": "Mutation produces new alleles."
+  },
+  {
+    "source_sentence": "Migration can introduce alleles.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "A population receiving individuals from another population experiences:",
+    "options": {
+      "A": "Mutation",
+      "B": "Gene flow",
+      "C": "Purifying selection",
+      "D": "Stabilizing selection"
+    },
+    "correct_answer": "B",
+    "explanation": "Migration introduces alleles, causing gene flow."
+  },
+  {
+    "source_sentence": "Speciation requires reproductive isolation.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Interspecific hybrids that are sterile illustrate:",
+    "options": {
+      "A": "Prezygotic isolation",
+      "B": "Postzygotic isolation",
+      "C": "Allopatric speciation",
+      "D": "Adaptive radiation"
+    },
+    "correct_answer": "B",
+    "explanation": "Hybrid sterility is a postzygotic barrier."
+  },
+  {
+    "source_sentence": "Evolution of man occurred in stages.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which sequence is correct for human evolution?",
+    "options": {
+      "A": "Australopithecus → Homo habilis → Homo erectus → Homo sapiens",
+      "B": "Homo sapiens → Homo erectus → Homo habilis → Australopithecus",
+      "C": "Homo erectus → Australopithecus → Homo habilis → Homo sapiens",
+      "D": "Homo habilis → Australopithecus → Homo erectus → Homo sapiens"
+    },
+    "correct_answer": "A",
+    "explanation": "This is the commonly accepted sequence in NCERT."
+  },
+  {
+    "source_sentence": "Natural selection can change allele frequency.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Natural selection changes allele frequency because:",
+    "options": {
+      "A": "It always increases mutation rate",
+      "B": "It changes reproductive success of genotypes",
+      "C": "It eliminates all heterozygotes",
+      "D": "It makes mating random"
+    },
+    "correct_answer": "B",
+    "explanation": "Differential reproductive success shifts allele frequencies."
+  },
+  {
+    "source_sentence": "Speciation can occur due to sympatric mechanisms.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Sympatric speciation can occur due to:",
+    "options": {
+      "A": "Geographic isolation",
+      "B": "Polyploidy in plants",
+      "C": "Mountain formation",
+      "D": "River formation"
+    },
+    "correct_answer": "B",
+    "explanation": "Polyploidy can cause sympatric speciation in plants."
+  },
+  {
+    "source_sentence": "Evolution is a continuous process.",
+    "chapter": "Chapter 6: Evolution",
+    "question": "Which is NOT evidence for evolution?",
+    "options": {
+      "A": "Fossil record",
+      "B": "Comparative anatomy",
+      "C": "Biogeography",
+      "D": "Only daily weather changes"
+    },
+    "correct_answer": "D",
+    "explanation": "Weather changes do not constitute evidence for evolution."
+  }
+]

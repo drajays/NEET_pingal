@@ -1,0 +1,1484 @@
+[
+  {
+    "source_sentence": "DNA polymerase adds nucleotides only to a free 3' OH group.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "During DNA replication, nucleotides are added to which end of the growing chain?",
+    "options": {
+      "A": "3' end",
+      "B": "5' end",
+      "C": "Either end",
+      "D": "Both ends simultaneously"
+    },
+    "correct_answer": "A",
+    "explanation": "Polymerases add nucleotides to the 3' OH, so synthesis is 5'→3'."
+  },
+  {
+    "source_sentence": "Replication is semi-discontinuous because of the antiparallel strands.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Semi-discontinuous replication refers to continuous synthesis on the leading strand and discontinuous synthesis on the lagging strand because DNA strands are:",
+    "options": {
+      "A": "antiparallel",
+      "B": "identical",
+      "C": "circular",
+      "D": "supercoiled"
+    },
+    "correct_answer": "A",
+    "explanation": "Antiparallel orientation forces opposite direction synthesis on one strand."
+  },
+  {
+    "source_sentence": "Okazaki fragments are synthesized on the lagging strand.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Okazaki fragments are produced on the strand that has template polarity:",
+    "options": {
+      "A": "3'→5' toward the fork",
+      "B": "5'→3' toward the fork",
+      "C": "3'→5' away from the fork",
+      "D": "5'→3' away from the fork"
+    },
+    "correct_answer": "B",
+    "explanation": "Lagging strand template runs 5'→3' toward the fork, so fragments form."
+  },
+  {
+    "source_sentence": "DNA ligase joins Okazaki fragments.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The enzyme that seals nicks between adjacent Okazaki fragments is:",
+    "options": {
+      "A": "DNA polymerase I",
+      "B": "DNA ligase",
+      "C": "Primase",
+      "D": "Helicase"
+    },
+    "correct_answer": "B",
+    "explanation": "Ligase catalyzes phosphodiester bond formation to join fragments."
+  },
+  {
+    "source_sentence": "Helicase unwinds the DNA double helix.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which enzyme breaks hydrogen bonds and unwinds DNA at the replication fork?",
+    "options": {
+      "A": "Topoisomerase",
+      "B": "Ligase",
+      "C": "Helicase",
+      "D": "Primase"
+    },
+    "correct_answer": "C",
+    "explanation": "Helicase separates the strands at the replication fork."
+  },
+  {
+    "source_sentence": "DNA polymerase I removes RNA primers in bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In E. coli, removal of RNA primers from Okazaki fragments is carried out mainly by:",
+    "options": {
+      "A": "DNA polymerase III",
+      "B": "DNA polymerase I",
+      "C": "DNA ligase",
+      "D": "RNA polymerase"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA polymerase I has 5'→3' exonuclease activity to remove primers."
+  },
+  {
+    "source_sentence": "Single strand binding proteins keep strands apart.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "SSB proteins function primarily to:",
+    "options": {
+      "A": "seal nicks",
+      "B": "unwind DNA",
+      "C": "stabilize unwound DNA",
+      "D": "remove primers"
+    },
+    "correct_answer": "C",
+    "explanation": "SSB proteins prevent re-annealing of separated strands."
+  },
+  {
+    "source_sentence": "Topoisomerase relieves supercoiling during replication.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The enzyme that relieves torsional strain ahead of the replication fork is:",
+    "options": {
+      "A": "Primase",
+      "B": "Gyrase/topoisomerase",
+      "C": "Ligase",
+      "D": "Helicase"
+    },
+    "correct_answer": "B",
+    "explanation": "Topoisomerase (gyrase in bacteria) relieves supercoiling."
+  },
+  {
+    "source_sentence": "Replication begins at a specific origin in bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In prokaryotes, replication starts from a single origin called:",
+    "options": {
+      "A": "Ori",
+      "B": "Cistron",
+      "C": "Terminator",
+      "D": "Operator"
+    },
+    "correct_answer": "A",
+    "explanation": "The replication origin in bacteria is OriC."
+  },
+  {
+    "source_sentence": "Replication in bacteria is bidirectional.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "From the bacterial origin, replication proceeds in which manner?",
+    "options": {
+      "A": "Unidirectional",
+      "B": "Bidirectional",
+      "C": "Random",
+      "D": "Centripetal only"
+    },
+    "correct_answer": "B",
+    "explanation": "Two forks move in opposite directions from the origin."
+  },
+  {
+    "source_sentence": "DNA polymerase requires a primer.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The immediate requirement for DNA polymerase to begin synthesis is:",
+    "options": {
+      "A": "ATP only",
+      "B": "free 3' OH primer",
+      "C": "RNA polymerase",
+      "D": "ATP + ligase"
+    },
+    "correct_answer": "B",
+    "explanation": "Polymerase cannot start de novo; it extends a primer with 3' OH."
+  },
+  {
+    "source_sentence": "Primase synthesizes short RNA primers.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The enzyme that lays down RNA primers on the DNA template is:",
+    "options": {
+      "A": "DNA polymerase I",
+      "B": "Primase",
+      "C": "Ligase",
+      "D": "Gyrase"
+    },
+    "correct_answer": "B",
+    "explanation": "Primase is an RNA polymerase that makes short primers."
+  },
+  {
+    "source_sentence": "Polymerase III is the main replicative enzyme in bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The major replicative DNA polymerase in E. coli is:",
+    "options": {
+      "A": "DNA polymerase I",
+      "B": "DNA polymerase II",
+      "C": "DNA polymerase III",
+      "D": "DNA polymerase IV"
+    },
+    "correct_answer": "C",
+    "explanation": "DNA polymerase III carries bulk replication."
+  },
+  {
+    "source_sentence": "Replication is semiconservative.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Semi-conservative replication means each daughter DNA has:",
+    "options": {
+      "A": "two new strands",
+      "B": "two parental strands",
+      "C": "one parental and one new strand",
+      "D": "random mix of old and new segments"
+    },
+    "correct_answer": "C",
+    "explanation": "Each daughter molecule retains one parental strand."
+  },
+  {
+    "source_sentence": "Meselson-Stahl used 15N and 14N.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The Meselson-Stahl experiment demonstrated semi-conservative replication using:",
+    "options": {
+      "A": "32P and 35S",
+      "B": "15N and 14N",
+      "C": "3H and 14C",
+      "D": "13C and 12C"
+    },
+    "correct_answer": "B",
+    "explanation": "They grew E. coli in 15N then shifted to 14N."
+  },
+  {
+    "source_sentence": "After one generation in 14N, DNA is hybrid.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "After one generation of E. coli in 14N following growth in 15N, DNA shows:",
+    "options": {
+      "A": "only heavy DNA",
+      "B": "only light DNA",
+      "C": "only hybrid DNA",
+      "D": "heavy and light DNA"
+    },
+    "correct_answer": "C",
+    "explanation": "All molecules are hybrid (15N-14N) after one generation."
+  },
+  {
+    "source_sentence": "After two generations in 14N, DNA is hybrid and light.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "After two generations in 14N, Meselson-Stahl predicted:",
+    "options": {
+      "A": "only heavy DNA",
+      "B": "only hybrid DNA",
+      "C": "hybrid and light DNA",
+      "D": "heavy and hybrid DNA"
+    },
+    "correct_answer": "C",
+    "explanation": "Half hybrid, half light after two generations."
+  },
+  {
+    "source_sentence": "Polymerase proofreads using 3'→5' exonuclease activity.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Proofreading during DNA replication is due to which activity?",
+    "options": {
+      "A": "5'→3' exonuclease",
+      "B": "3'→5' exonuclease",
+      "C": "5'→3' polymerase",
+      "D": "3'→5' polymerase"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA polymerase removes mismatched base with 3'→5' exonuclease."
+  },
+  {
+    "source_sentence": "Replication fork forms in S phase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In eukaryotes, DNA replication occurs during:",
+    "options": {
+      "A": "G1 phase",
+      "B": "S phase",
+      "C": "G2 phase",
+      "D": "M phase"
+    },
+    "correct_answer": "B",
+    "explanation": "S phase is the DNA synthesis phase."
+  },
+  {
+    "source_sentence": "Eukaryotes have multiple origins of replication.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "A key difference between prokaryotic and eukaryotic DNA replication is:",
+    "options": {
+      "A": "prokaryotes use RNA primers",
+      "B": "eukaryotes have multiple origins",
+      "C": "prokaryotes use DNA polymerase",
+      "D": "eukaryotes replicate in G1"
+    },
+    "correct_answer": "B",
+    "explanation": "Eukaryotic chromosomes have multiple origins."
+  },
+  {
+    "source_sentence": "Replication on lagging strand is discontinuous.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which statement best describes lagging strand synthesis?",
+    "options": {
+      "A": "Continuous towards the fork",
+      "B": "Discontinuous away from the fork",
+      "C": "Continuous away from the fork",
+      "D": "Discontinuous towards the fork"
+    },
+    "correct_answer": "B",
+    "explanation": "Lagging strand fragments are synthesized away from the fork."
+  },
+  {
+    "source_sentence": "DNA polymerase cannot synthesize RNA primers.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which enzyme is not required for DNA polymerase III activity at the fork?",
+    "options": {
+      "A": "Primase",
+      "B": "Helicase",
+      "C": "Ligase",
+      "D": "RNA polymerase II"
+    },
+    "correct_answer": "D",
+    "explanation": "RNA polymerase II is for eukaryotic transcription, not replication."
+  },
+  {
+    "source_sentence": "Replication ends at termination sites in bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In E. coli, replication stops when forks meet at:",
+    "options": {
+      "A": "operator",
+      "B": "ter region",
+      "C": "promoter",
+      "D": "origin"
+    },
+    "correct_answer": "B",
+    "explanation": "Termination occurs at ter sites opposite origin."
+  },
+  {
+    "source_sentence": "Polymerase works on template strand 3'→5'.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "For a given template strand oriented 3'→5', DNA polymerase synthesizes the new strand:",
+    "options": {
+      "A": "5'→3'",
+      "B": "3'→5'",
+      "C": "both 5'→3' and 3'→5'",
+      "D": "randomly"
+    },
+    "correct_answer": "A",
+    "explanation": "Polymerase always synthesizes 5'→3'."
+  },
+  {
+    "source_sentence": "Okazaki fragments are later joined after primer removal.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which sequence of events is correct for lagging strand completion?",
+    "options": {
+      "A": "Ligase → primer removal → DNA synthesis",
+      "B": "Primer removal → DNA synthesis → ligase",
+      "C": "DNA synthesis → ligase → primer removal",
+      "D": "DNA synthesis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Primer removal is followed by DNA synthesis to fill gap, then ligase seals."
+  },
+  {
+    "source_sentence": "DNA polymerase I has 5'→3' exonuclease activity.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The enzyme that simultaneously removes primers and fills gaps in bacteria is:",
+    "options": {
+      "A": "DNA polymerase I",
+      "B": "DNA polymerase III",
+      "C": "Ligase",
+      "D": "Primase"
+    },
+    "correct_answer": "A",
+    "explanation": "DNA polymerase I removes primers and replaces with DNA."
+  },
+  {
+    "source_sentence": "Replication is highly accurate because of proofreading.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "High fidelity of DNA replication is mainly due to:",
+    "options": {
+      "A": "RNA primers",
+      "B": "helicase action",
+      "C": "proofreading by polymerase",
+      "D": "ligase activity"
+    },
+    "correct_answer": "C",
+    "explanation": "Proofreading removes mismatched bases."
+  },
+  {
+    "source_sentence": "Replicating DNA is stabilized by SSB proteins.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "If SSB proteins are inhibited, the immediate effect is:",
+    "options": {
+      "A": "Okazaki fragments become longer",
+      "B": "single strands re-anneal",
+      "C": "ligase becomes inactive",
+      "D": "primase cannot bind"
+    },
+    "correct_answer": "B",
+    "explanation": "SSB prevents re-annealing; without it strands re-form."
+  },
+  {
+    "source_sentence": "Clamp proteins increase processivity in bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The β-clamp in E. coli primarily:",
+    "options": {
+      "A": "unwinds DNA",
+      "B": "stabilizes polymerase on DNA",
+      "C": "removes primers",
+      "D": "seals nicks"
+    },
+    "correct_answer": "B",
+    "explanation": "β-clamp keeps polymerase attached for high processivity."
+  },
+  {
+    "source_sentence": "Replication is inhibited by lack of dNTPs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "If dATP, dGTP, dCTP, and dTTP are absent, the replication fork cannot:",
+    "options": {
+      "A": "unwind",
+      "B": "synthesize new DNA",
+      "C": "form primers",
+      "D": "relieve supercoils"
+    },
+    "correct_answer": "B",
+    "explanation": "dNTPs are substrates for DNA synthesis."
+  },
+  {
+    "source_sentence": "DNA polymerase does not have 3'→5' polymerase activity.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which statement is correct about DNA polymerase directionality?",
+    "options": {
+      "A": "Synthesizes 3'→5' but reads 5'→3'",
+      "B": "Synthesizes 5'→3' but reads 3'→5'",
+      "C": "Synthesizes 3'→5' but reads 3'→5'",
+      "D": "Synthesizes 5'→3' but reads 5'→3'"
+    },
+    "correct_answer": "B",
+    "explanation": "Polymerase reads template 3'→5' and synthesizes 5'→3'."
+  },
+  {
+    "source_sentence": "Rolling circle replication is used in plasmids.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which type of replication can occur in some plasmids and viruses?",
+    "options": {
+      "A": "Semiconservative only",
+      "B": "Rolling circle",
+      "C": "Dispersive",
+      "D": "Conservative"
+    },
+    "correct_answer": "B",
+    "explanation": "Rolling circle is used by some plasmids/viruses."
+  },
+  {
+    "source_sentence": "Replication forks move away from origin.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In bacterial circular DNA, replication forks move:",
+    "options": {
+      "A": "towards each other only",
+      "B": "away from each other",
+      "C": "randomly",
+      "D": "from terminus to origin"
+    },
+    "correct_answer": "B",
+    "explanation": "Forks move bidirectionally away from origin."
+  },
+  {
+    "source_sentence": "DNA ligase uses energy to form phosphodiester bond.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "DNA ligase uses energy primarily to:",
+    "options": {
+      "A": "add nucleotides",
+      "B": "form phosphodiester bonds between fragments",
+      "C": "unwind DNA",
+      "D": "synthesize primers"
+    },
+    "correct_answer": "B",
+    "explanation": "Ligase seals nicks by forming phosphodiester bonds."
+  },
+  {
+    "source_sentence": "Lagging strand needs multiple primers.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Compared to leading strand, lagging strand requires:",
+    "options": {
+      "A": "one primer",
+      "B": "multiple primers",
+      "C": "no primer",
+      "D": "protein primer"
+    },
+    "correct_answer": "B",
+    "explanation": "Each Okazaki fragment needs a primer."
+  },
+  {
+    "source_sentence": "Replicative helicase moves 5'→3' on lagging strand template in bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The movement of bacterial helicase at the fork is best described as:",
+    "options": {
+      "A": "5'→3' on lagging template",
+      "B": "3'→5' on leading template",
+      "C": "random",
+      "D": "5'→3' on leading template"
+    },
+    "correct_answer": "A",
+    "explanation": "In bacteria, DnaB helicase moves 5'→3' on lagging strand template."
+  },
+  {
+    "source_sentence": "Eukaryotic chromosomes have telomeres.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The end-replication problem occurs because:",
+    "options": {
+      "A": "helicase cannot unwind",
+      "B": "lagging strand cannot be fully replicated",
+      "C": "leading strand cannot initiate",
+      "D": "primase is absent"
+    },
+    "correct_answer": "B",
+    "explanation": "After primer removal at the end, a gap remains on lagging strand."
+  },
+  {
+    "source_sentence": "Telomerase extends telomeric DNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The enzyme that extends telomeric DNA using an RNA template is:",
+    "options": {
+      "A": "DNA polymerase I",
+      "B": "Telomerase",
+      "C": "Ligase",
+      "D": "Primase"
+    },
+    "correct_answer": "B",
+    "explanation": "Telomerase is a reverse transcriptase with RNA template."
+  },
+  {
+    "source_sentence": "RNA polymerase catalyzes transcription.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Transcription in bacteria is carried out by:",
+    "options": {
+      "A": "DNA polymerase I",
+      "B": "RNA polymerase",
+      "C": "DNA ligase",
+      "D": "Primase"
+    },
+    "correct_answer": "B",
+    "explanation": "RNA polymerase synthesizes RNA from DNA template."
+  },
+  {
+    "source_sentence": "The template strand is read 3'→5' by RNA polymerase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "RNA polymerase synthesizes RNA in the direction:",
+    "options": {
+      "A": "3'→5'",
+      "B": "5'→3'",
+      "C": "either direction",
+      "D": "bidirectional"
+    },
+    "correct_answer": "B",
+    "explanation": "RNA polymerase adds nucleotides to 3' OH, so 5'→3'."
+  },
+  {
+    "source_sentence": "Coding strand has same sequence as mRNA except T/U.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The mRNA sequence is identical to the coding strand of DNA except:",
+    "options": {
+      "A": "A replaces T",
+      "B": "U replaces T",
+      "C": "G replaces C",
+      "D": "U replaces A"
+    },
+    "correct_answer": "B",
+    "explanation": "mRNA matches coding strand with U instead of T."
+  },
+  {
+    "source_sentence": "Sigma factor is needed for initiation in bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The σ (sigma) factor of bacterial RNA polymerase is required for:",
+    "options": {
+      "A": "termination",
+      "B": "initiation at promoter",
+      "C": "splicing",
+      "D": "polyadenylation"
+    },
+    "correct_answer": "B",
+    "explanation": "Sigma helps recognize promoter and initiate transcription."
+  },
+  {
+    "source_sentence": "Promoter is upstream and not transcribed.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The promoter is best described as:",
+    "options": {
+      "A": "transcribed region",
+      "B": "RNA processing signal",
+      "C": "binding site for RNA polymerase",
+      "D": "translation start"
+    },
+    "correct_answer": "C",
+    "explanation": "Promoter is a DNA sequence for polymerase binding."
+  },
+  {
+    "source_sentence": "Terminator signals transcription stop.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "A terminator in transcription is:",
+    "options": {
+      "A": "start codon",
+      "B": "stop codon",
+      "C": "DNA sequence that ends transcription",
+      "D": "poly-A tail"
+    },
+    "correct_answer": "C",
+    "explanation": "Terminator is a DNA sequence signaling transcription termination."
+  },
+  {
+    "source_sentence": "hnRNA in eukaryotes is processed.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Primary transcript in eukaryotes is called:",
+    "options": {
+      "A": "mRNA",
+      "B": "hnRNA",
+      "C": "tRNA",
+      "D": "rRNA"
+    },
+    "correct_answer": "B",
+    "explanation": "hnRNA is the initial transcript that is processed."
+  },
+  {
+    "source_sentence": "Splicing removes introns.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Removal of introns and joining of exons is termed:",
+    "options": {
+      "A": "capping",
+      "B": "tailing",
+      "C": "splicing",
+      "D": "termination"
+    },
+    "correct_answer": "C",
+    "explanation": "Splicing removes introns and joins exons."
+  },
+  {
+    "source_sentence": "Capping is at 5' end, tailing at 3' end.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In eukaryotic mRNA processing, cap and poly-A tail are added at:",
+    "options": {
+      "A": "3' and 5' respectively",
+      "B": "5' and 3' respectively",
+      "C": "both at 5'",
+      "D": "both at 3'"
+    },
+    "correct_answer": "B",
+    "explanation": "5' cap and 3' poly-A tail are added."
+  },
+  {
+    "source_sentence": "Polyadenylation adds adenine residues.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Poly-A tail addition occurs at the:",
+    "options": {
+      "A": "5' end",
+      "B": "3' end",
+      "C": "middle",
+      "D": "both ends"
+    },
+    "correct_answer": "B",
+    "explanation": "Polyadenylation is at 3' end."
+  },
+  {
+    "source_sentence": "In bacteria, transcription and translation are coupled.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Coupled transcription-translation occurs in:",
+    "options": {
+      "A": "prokaryotes only",
+      "B": "eukaryotes only",
+      "C": "both",
+      "D": "neither"
+    },
+    "correct_answer": "A",
+    "explanation": "In prokaryotes, ribosomes can translate while transcription occurs."
+  },
+  {
+    "source_sentence": "RNA polymerase does not require a primer.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "A key difference between RNA polymerase and DNA polymerase is:",
+    "options": {
+      "A": "RNA polymerase needs primer",
+      "B": "RNA polymerase lacks proofreading",
+      "C": "DNA polymerase reads 5'→3'",
+      "D": "RNA polymerase requires ligase"
+    },
+    "correct_answer": "B",
+    "explanation": "RNA polymerase can start de novo and lacks proofreading activity."
+  },
+  {
+    "source_sentence": "Transcription unit includes promoter, structural gene, terminator.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The correct order of elements in a transcription unit is:",
+    "options": {
+      "A": "terminator → promoter → gene",
+      "B": "promoter → gene → terminator",
+      "C": "gene → promoter → terminator",
+      "D": "promoter → terminator → gene"
+    },
+    "correct_answer": "B",
+    "explanation": "Promoter precedes structural gene, followed by terminator."
+  },
+  {
+    "source_sentence": "Rho-dependent termination uses rho factor.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which factor is involved in rho-dependent termination in bacteria?",
+    "options": {
+      "A": "Sigma",
+      "B": "Rho",
+      "C": "Ribosome",
+      "D": "Ligase"
+    },
+    "correct_answer": "B",
+    "explanation": "Rho factor assists termination in rho-dependent mode."
+  },
+  {
+    "source_sentence": "Template strand is 3'→5' relative to mRNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "If a DNA strand is labeled as template, it must be:",
+    "options": {
+      "A": "5'→3' like mRNA",
+      "B": "3'→5' opposite to mRNA",
+      "C": "same as mRNA",
+      "D": "unrelated to mRNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Template is read 3'→5' to make 5'→3' RNA."
+  },
+  {
+    "source_sentence": "In eukaryotes, mRNA processing is in nucleus.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Where does splicing of hnRNA occur?",
+    "options": {
+      "A": "cytoplasm",
+      "B": "nucleus",
+      "C": "ribosome",
+      "D": "mitochondrion"
+    },
+    "correct_answer": "B",
+    "explanation": "Splicing occurs in nucleus before export."
+  },
+  {
+    "source_sentence": "rRNA is most abundant RNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In a typical cell, the most abundant RNA is:",
+    "options": {
+      "A": "mRNA",
+      "B": "tRNA",
+      "C": "rRNA",
+      "D": "snRNA"
+    },
+    "correct_answer": "C",
+    "explanation": "rRNA makes up ~80% of cellular RNA."
+  },
+  {
+    "source_sentence": "mRNA is the least stable among major RNAs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which RNA is generally least stable?",
+    "options": {
+      "A": "rRNA",
+      "B": "tRNA",
+      "C": "mRNA",
+      "D": "snRNA"
+    },
+    "correct_answer": "C",
+    "explanation": "mRNA has shorter half-life."
+  },
+  {
+    "source_sentence": "Genetic code is triplet.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Genetic code is called a triplet code because:",
+    "options": {
+      "A": "three bases code for one amino acid",
+      "B": "three amino acids code for one base",
+      "C": "three genes code for one protein",
+      "D": "three RNAs code for one base"
+    },
+    "correct_answer": "A",
+    "explanation": "Three nucleotides form one codon."
+  },
+  {
+    "source_sentence": "Genetic code is degenerate.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Degeneracy of genetic code implies:",
+    "options": {
+      "A": "one codon codes for multiple amino acids",
+      "B": "many codons code for one amino acid",
+      "C": "codons are overlapping",
+      "D": "codons are non-specific"
+    },
+    "correct_answer": "B",
+    "explanation": "Most amino acids are encoded by multiple codons."
+  },
+  {
+    "source_sentence": "Genetic code is non-overlapping.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Non-overlapping code means:",
+    "options": {
+      "A": "each nucleotide is part of only one codon",
+      "B": "codons overlap",
+      "C": "codons are separated by commas",
+      "D": "codons are variable length"
+    },
+    "correct_answer": "A",
+    "explanation": "Each base is read once in a codon."
+  },
+  {
+    "source_sentence": "Genetic code is comma-less.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Comma-less code indicates:",
+    "options": {
+      "A": "stop codons absent",
+      "B": "no punctuation between codons",
+      "C": "codons overlap",
+      "D": "codons have commas"
+    },
+    "correct_answer": "B",
+    "explanation": "Codons are read continuously without punctuation."
+  },
+  {
+    "source_sentence": "AUG is start codon and codes for methionine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which codon functions as start codon in most organisms?",
+    "options": {
+      "A": "UAA",
+      "B": "AUG",
+      "C": "UAG",
+      "D": "UGA"
+    },
+    "correct_answer": "B",
+    "explanation": "AUG codes for methionine and initiates translation."
+  },
+  {
+    "source_sentence": "Stop codons are UAA, UAG, UGA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which one is NOT a stop codon?",
+    "options": {
+      "A": "UAA",
+      "B": "UAG",
+      "C": "UGA",
+      "D": "AUG"
+    },
+    "correct_answer": "D",
+    "explanation": "AUG is a start codon, not a stop codon."
+  },
+  {
+    "source_sentence": "Wobble base allows pairing at third position.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The wobble hypothesis explains:",
+    "options": {
+      "A": "one tRNA can recognize multiple codons",
+      "B": "one codon codes multiple amino acids",
+      "C": "codons are overlapping",
+      "D": "codons are non-specific"
+    },
+    "correct_answer": "A",
+    "explanation": "Wobble base pairing at third position allows one tRNA to read more codons."
+  },
+  {
+    "source_sentence": "UGG codes for tryptophan.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The codon UGG specifies:",
+    "options": {
+      "A": "Tryptophan",
+      "B": "Methionine",
+      "C": "Valine",
+      "D": "Glycine"
+    },
+    "correct_answer": "A",
+    "explanation": "UGG is the only codon for tryptophan."
+  },
+  {
+    "source_sentence": "AUG codes for methionine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "AUG codon specifies which amino acid?",
+    "options": {
+      "A": "Valine",
+      "B": "Methionine",
+      "C": "Leucine",
+      "D": "Phenylalanine"
+    },
+    "correct_answer": "B",
+    "explanation": "AUG codes for methionine (start)."
+  },
+  {
+    "source_sentence": "UUU codes for phenylalanine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The codon UUU specifies:",
+    "options": {
+      "A": "Phenylalanine",
+      "B": "Leucine",
+      "C": "Isoleucine",
+      "D": "Tyrosine"
+    },
+    "correct_answer": "A",
+    "explanation": "UUU is phenylalanine."
+  },
+  {
+    "source_sentence": "UUC also codes for phenylalanine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The pair of codons for phenylalanine is:",
+    "options": {
+      "A": "UUA, UUG",
+      "B": "UUU, UUC",
+      "C": "UCU, UCC",
+      "D": "UAU, UAC"
+    },
+    "correct_answer": "B",
+    "explanation": "UUU and UUC code for phenylalanine."
+  },
+  {
+    "source_sentence": "GUU codes for valine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which of the following codons codes for valine?",
+    "options": {
+      "A": "GUU",
+      "B": "GAU",
+      "C": "GAA",
+      "D": "GUA"
+    },
+    "correct_answer": "A",
+    "explanation": "Valine codons are GUU, GUC, GUA, GUG."
+  },
+  {
+    "source_sentence": "UAA is a stop codon.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which codon serves as a termination signal?",
+    "options": {
+      "A": "UAA",
+      "B": "AUG",
+      "C": "GUG",
+      "D": "UUU"
+    },
+    "correct_answer": "A",
+    "explanation": "UAA is a stop codon."
+  },
+  {
+    "source_sentence": "Code is universal with minor exceptions.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Universality of genetic code implies:",
+    "options": {
+      "A": "same codon codes same amino acid in almost all organisms",
+      "B": "all organisms use identical gene order",
+      "C": "all organisms have same chromosome number",
+      "D": "all organisms synthesize same proteins"
+    },
+    "correct_answer": "A",
+    "explanation": "Genetic code is nearly universal."
+  },
+  {
+    "source_sentence": "Frameshift occurs due to insertion/deletion.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "A single base insertion in a coding sequence most likely results in:",
+    "options": {
+      "A": "silent mutation",
+      "B": "frameshift mutation",
+      "C": "nonsense mutation",
+      "D": "missense mutation"
+    },
+    "correct_answer": "B",
+    "explanation": "Insertion shifts reading frame."
+  },
+  {
+    "source_sentence": "Missense changes one amino acid.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "A point mutation that changes one amino acid is called:",
+    "options": {
+      "A": "silent",
+      "B": "missense",
+      "C": "nonsense",
+      "D": "frameshift"
+    },
+    "correct_answer": "B",
+    "explanation": "Missense alters one amino acid."
+  },
+  {
+    "source_sentence": "Nonsense mutation introduces stop codon.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "A mutation that converts a codon into a stop codon is:",
+    "options": {
+      "A": "silent",
+      "B": "missense",
+      "C": "nonsense",
+      "D": "frameshift"
+    },
+    "correct_answer": "C",
+    "explanation": "Nonsense mutation causes premature termination."
+  },
+  {
+    "source_sentence": "Codons specify amino acids during translation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which amino acid is specified by the mRNA codon GCU?",
+    "options": {
+      "A": "Alanine",
+      "B": "Glycine",
+      "C": "Serine",
+      "D": "Valine"
+    },
+    "correct_answer": "A",
+    "explanation": "GCU codes for Alanine as per the standard genetic code."
+  },
+  {
+    "source_sentence": "mRNA matches the coding strand except U replaces T.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "For a coding DNA strand 5'-ATG GCT TAA-3', the mRNA sequence is:",
+    "options": {
+      "A": "AUG GCU UAA",
+      "B": "ATG GCT TAA",
+      "C": "UAC CGA AUU",
+      "D": "AAU UCG GUA"
+    },
+    "correct_answer": "A",
+    "explanation": "mRNA sequence is identical to coding strand with U instead of T."
+  },
+  {
+    "source_sentence": "Lac operon is an inducible operon.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The lac operon is classified as:",
+    "options": {
+      "A": "repressible",
+      "B": "constitutive",
+      "C": "inducible",
+      "D": "negative-only"
+    },
+    "correct_answer": "C",
+    "explanation": "Lac operon is induced by lactose (allolactose)."
+  },
+  {
+    "source_sentence": "Structural genes of lac operon are z, y, a.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The correct order of structural genes in lac operon is:",
+    "options": {
+      "A": "i, z, y, a",
+      "B": "z, y, a",
+      "C": "a, y, z",
+      "D": "y, a, z"
+    },
+    "correct_answer": "B",
+    "explanation": "Structural genes are lacZ, lacY, lacA."
+  },
+  {
+    "source_sentence": "LacZ codes for beta-galactosidase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which enzyme hydrolyses lactose into glucose and galactose?",
+    "options": {
+      "A": "Permease",
+      "B": "Beta-galactosidase",
+      "C": "Transacetylase",
+      "D": "Repressor"
+    },
+    "correct_answer": "B",
+    "explanation": "LacZ gene product is beta-galactosidase."
+  },
+  {
+    "source_sentence": "LacY codes for permease.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The product of lacY gene is:",
+    "options": {
+      "A": "Permease",
+      "B": "Repressor",
+      "C": "Transacetylase",
+      "D": "Beta-galactosidase"
+    },
+    "correct_answer": "A",
+    "explanation": "LacY codes for permease aiding lactose entry."
+  },
+  {
+    "source_sentence": "LacA codes for transacetylase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The lacA gene codes for:",
+    "options": {
+      "A": "Permease",
+      "B": "Transacetylase",
+      "C": "Repressor",
+      "D": "Beta-galactosidase"
+    },
+    "correct_answer": "B",
+    "explanation": "LacA codes for thiogalactoside transacetylase."
+  },
+  {
+    "source_sentence": "LacI codes for repressor protein.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The regulatory gene lacI codes for:",
+    "options": {
+      "A": "Permease",
+      "B": "Repressor",
+      "C": "Transacetylase",
+      "D": "RNA polymerase"
+    },
+    "correct_answer": "B",
+    "explanation": "LacI produces repressor protein."
+  },
+  {
+    "source_sentence": "Lactose induces operon by inactivating repressor.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Induction of lac operon occurs when:",
+    "options": {
+      "A": "repressor binds operator",
+      "B": "lactose binds repressor and inactivates it",
+      "C": "glucose binds operator",
+      "D": "RNA polymerase is absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Allolactose binds repressor, freeing operator."
+  },
+  {
+    "source_sentence": "Lac operon is under negative regulation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The lac operon is said to be under negative control because:",
+    "options": {
+      "A": "inducer blocks RNA polymerase",
+      "B": "repressor prevents transcription",
+      "C": "operator blocks repressor",
+      "D": "promoter blocks transcription"
+    },
+    "correct_answer": "B",
+    "explanation": "Repressor binding to operator inhibits transcription."
+  },
+  {
+    "source_sentence": "When lactose is absent, operon is off.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In absence of lactose, the lac operon is:",
+    "options": {
+      "A": "induced",
+      "B": "repressed",
+      "C": "transcribed normally",
+      "D": "transcribed at high level"
+    },
+    "correct_answer": "B",
+    "explanation": "Active repressor binds operator, preventing transcription."
+  },
+  {
+    "source_sentence": "Operator is binding site for repressor.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The operator region in lac operon is best described as:",
+    "options": {
+      "A": "binding site for RNA polymerase",
+      "B": "binding site for repressor",
+      "C": "coding region",
+      "D": "termination site"
+    },
+    "correct_answer": "B",
+    "explanation": "Repressor binds to operator to block transcription."
+  },
+  {
+    "source_sentence": "Promoter is binding site for RNA polymerase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The promoter of lac operon is the site where:",
+    "options": {
+      "A": "repressor binds",
+      "B": "RNA polymerase binds",
+      "C": "lacZ is translated",
+      "D": "lactose binds"
+    },
+    "correct_answer": "B",
+    "explanation": "Promoter is where RNA polymerase binds to begin transcription."
+  },
+  {
+    "source_sentence": "Inducer is allolactose.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The true inducer of lac operon is:",
+    "options": {
+      "A": "glucose",
+      "B": "lactose",
+      "C": "allolactose",
+      "D": "galactose"
+    },
+    "correct_answer": "C",
+    "explanation": "Allolactose binds repressor to induce operon."
+  },
+  {
+    "source_sentence": "Translation occurs on ribosomes.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Protein synthesis takes place on:",
+    "options": {
+      "A": "lysosomes",
+      "B": "ribosomes",
+      "C": "nucleus",
+      "D": "centrioles"
+    },
+    "correct_answer": "B",
+    "explanation": "Ribosomes are sites of translation."
+  },
+  {
+    "source_sentence": "tRNA has anticodon loop.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The anticodon of tRNA pairs with:",
+    "options": {
+      "A": "DNA template",
+      "B": "mRNA codon",
+      "C": "rRNA",
+      "D": "promoter"
+    },
+    "correct_answer": "B",
+    "explanation": "Anticodon base pairs with mRNA codon."
+  },
+  {
+    "source_sentence": "Aminoacyl-tRNA synthetase charges tRNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Charging of tRNA with amino acid is catalyzed by:",
+    "options": {
+      "A": "Ligase",
+      "B": "Aminoacyl-tRNA synthetase",
+      "C": "Peptidyl transferase",
+      "D": "RNA polymerase"
+    },
+    "correct_answer": "B",
+    "explanation": "Aminoacyl-tRNA synthetases attach amino acids to tRNAs."
+  },
+  {
+    "source_sentence": "Ribosome has A, P, E sites.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The site that initially holds aminoacyl-tRNA is:",
+    "options": {
+      "A": "P site",
+      "B": "A site",
+      "C": "E site",
+      "D": "T site"
+    },
+    "correct_answer": "B",
+    "explanation": "Incoming aminoacyl-tRNA binds at A site."
+  },
+  {
+    "source_sentence": "Peptidyl transferase is part of large rRNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Peptidyl transferase activity is due to:",
+    "options": {
+      "A": "protein of small subunit",
+      "B": "rRNA of large subunit",
+      "C": "tRNA",
+      "D": "mRNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Large subunit rRNA catalyzes peptide bond formation."
+  },
+  {
+    "source_sentence": "Initiator tRNA in prokaryotes carries formyl methionine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The initiator tRNA in bacteria carries:",
+    "options": {
+      "A": "methionine",
+      "B": "formyl methionine",
+      "C": "glycine",
+      "D": "valine"
+    },
+    "correct_answer": "B",
+    "explanation": "Bacterial initiator tRNA carries fMet."
+  },
+  {
+    "source_sentence": "Initiation codon is AUG.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The codon that initiates translation is:",
+    "options": {
+      "A": "UAA",
+      "B": "AUG",
+      "C": "UGA",
+      "D": "UAG"
+    },
+    "correct_answer": "B",
+    "explanation": "AUG is the start codon."
+  },
+  {
+    "source_sentence": "Termination occurs at stop codon.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Translation terminates when ribosome encounters:",
+    "options": {
+      "A": "promoter",
+      "B": "operator",
+      "C": "stop codon",
+      "D": "AUG"
+    },
+    "correct_answer": "C",
+    "explanation": "Stop codons signal termination."
+  },
+  {
+    "source_sentence": "Polysomes contain multiple ribosomes on one mRNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "A polysome is:",
+    "options": {
+      "A": "cluster of DNA",
+      "B": "multiple ribosomes on single mRNA",
+      "C": "multiple mRNAs on one ribosome",
+      "D": "a ribosome with two subunits"
+    },
+    "correct_answer": "B",
+    "explanation": "Polysomes enhance protein synthesis."
+  },
+  {
+    "source_sentence": "Elongation adds amino acids to C-terminus.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "During elongation, new amino acids are added to:",
+    "options": {
+      "A": "N-terminus",
+      "B": "C-terminus",
+      "C": "both ends",
+      "D": "middle"
+    },
+    "correct_answer": "B",
+    "explanation": "Polypeptide grows at C-terminus."
+  },
+  {
+    "source_sentence": "Release factors recognize stop codons.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Termination of translation requires:",
+    "options": {
+      "A": "sigma factor",
+      "B": "release factor",
+      "C": "ligase",
+      "D": "primase"
+    },
+    "correct_answer": "B",
+    "explanation": "Release factors bind stop codons to terminate translation."
+  },
+  {
+    "source_sentence": "HGP aimed to sequence the human genome.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The primary goal of the Human Genome Project was to:",
+    "options": {
+      "A": "map proteins",
+      "B": "sequence human DNA",
+      "C": "clone all genes",
+      "D": "map chromosomes only"
+    },
+    "correct_answer": "B",
+    "explanation": "HGP targeted sequencing of the human genome."
+  },
+  {
+    "source_sentence": "HGP found about 3 billion base pairs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "The size of the human genome is approximately:",
+    "options": {
+      "A": "3 million base pairs",
+      "B": "30 million base pairs",
+      "C": "3 billion base pairs",
+      "D": "30 billion base pairs"
+    },
+    "correct_answer": "C",
+    "explanation": "Human genome has ~3 x 10^9 base pairs."
+  },
+  {
+    "source_sentence": "Humans have about 20,000-25,000 genes.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Number of protein-coding genes in humans is roughly:",
+    "options": {
+      "A": "2,000",
+      "B": "20,000-25,000",
+      "C": "2,00,000",
+      "D": "2,000,000"
+    },
+    "correct_answer": "B",
+    "explanation": "HGP estimated ~20,000-25,000 genes."
+  },
+  {
+    "source_sentence": "DNA fingerprinting uses VNTRs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "DNA fingerprinting is based on variability of:",
+    "options": {
+      "A": "rRNA genes",
+      "B": "VNTRs",
+      "C": "coding exons",
+      "D": "telomeres"
+    },
+    "correct_answer": "B",
+    "explanation": "VNTRs are highly polymorphic."
+  },
+  {
+    "source_sentence": "VNTRs are minisatellite repeats.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "VNTRs are best described as:",
+    "options": {
+      "A": "short tandem repeats",
+      "B": "minisatellite repeats",
+      "C": "exons",
+      "D": "introns"
+    },
+    "correct_answer": "B",
+    "explanation": "VNTRs are minisatellite repeats."
+  },
+  {
+    "source_sentence": "DNA fingerprinting technique is by Alec Jeffreys.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "DNA fingerprinting was developed by:",
+    "options": {
+      "A": "Watson and Crick",
+      "B": "Alec Jeffreys",
+      "C": "Meselson and Stahl",
+      "D": "Hershey and Chase"
+    },
+    "correct_answer": "B",
+    "explanation": "Alec Jeffreys developed DNA fingerprinting."
+  },
+  {
+    "source_sentence": "NCERT concept statement.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Assertion (A): Telomerase is a reverse transcriptase. Reason (R): It carries its own RNA template. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Telomerase uses RNA template to extend telomeres."
+  },
+  {
+    "source_sentence": "NCERT concept statement.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Assertion (A): The genetic code is degenerate. Reason (R): More than one codon can code for the same amino acid. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Degeneracy refers to multiple codons for one amino acid."
+  },
+  {
+    "source_sentence": "DNA is a long polymer of nucleotides.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Assertion (A): DNA in living cells is normally double-stranded. Reason (R): Complementary base pairing stabilises the double helix. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Watson-Crick model: antiparallel strands with A-T, G-C pairing."
+  },
+  {
+    "source_sentence": "Chargaff's rules: A=T and G=C in double-stranded DNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "If a DNA sample has 20% adenine, percentage of guanine is:",
+    "options": {
+      "A": "30%",
+      "B": "20%",
+      "C": "40%",
+      "D": "80%"
+    },
+    "correct_answer": "A",
+    "explanation": "A=20%, T=20%, remaining 60% is G+C equally → G=30%."
+  },
+  {
+    "source_sentence": "DNA replication is semiconservative; each new molecule has one old and one new strand.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Meselson-Stahl experiment using 15N and 14N demonstrated:",
+    "options": {
+      "A": "Semiconservative replication",
+      "B": "Conservative replication only without any hybrid generation ever",
+      "C": "Dispersive replication exclusively always without hybrid band ever",
+      "D": "RNA as genetic material in all organisms without exception ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Hybrid density band after one generation supports semiconservative model."
+  },
+  {
+    "source_sentence": "Transcription: DNA template strand copied to mRNA by RNA polymerase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "In transcription, RNA polymerase binds at:",
+    "options": {
+      "A": "Promoter region",
+      "B": "Termination codon on mRNA product exclusively before synthesis starts always",
+      "C": "Ribosome P-site exclusively always before any RNA synthesis ever",
+      "D": "Centromere of chromosome exclusively always for all genes ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Promoter defines transcription start site."
+  },
+  {
+    "source_sentence": "Genetic code is triplet, degenerate, nearly universal.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Degeneracy of genetic code means:",
+    "options": {
+      "A": "More than one codon may code for same amino acid",
+      "B": "Each amino acid has exactly one codon without exception ever always",
+      "C": "Codons code for multiple amino acids simultaneously always in one codon ever",
+      "D": "Only stop codons specify amino acids always without any termination function ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Most amino acids have multiple synonymous codons."
+  },
+  {
+    "source_sentence": "Lac operon in E. coli: regulated expression of lactose metabolism genes.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Consider the following statements:\n1. Repressor binds operator in absence of lactose\n2. Lactose acts as inducer by inactivating repressor\n3. Operon is part of eukaryotic gene regulation exclusively always without any prokaryotic example ever\nWhich of the following combinations is correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Lac operon is prokaryotic; statements 1 and 2 correct."
+  },
+  {
+    "source_sentence": "Central dogma: DNA → RNA → protein; reverse transcription in retroviruses.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Reverse transcriptase synthesises:",
+    "options": {
+      "A": "DNA from RNA template",
+      "B": "RNA from protein template exclusively always without any nucleic acid ever",
+      "C": "Protein from DNA directly without RNA ever in all cells always",
+      "D": "Only tRNA from mRNA exclusively always without DNA synthesis ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Retroviral RT makes DNA copy of RNA genome."
+  },
+  {
+    "source_sentence": "tRNA has anticodon; charged by aminoacyl-tRNA synthetase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance",
+    "question": "Which ensures correct matching of amino acid to tRNA?",
+    "options": {
+      "A": "Aminoacyl-tRNA synthetase",
+      "B": "DNA polymerase exclusively always for all amino acid attachment ever",
+      "C": "RNA polymerase exclusively always without any synthetase involvement ever",
+      "D": "Ribosomal large subunit exclusively always before any charging ever"
+    },
+    "correct_answer": "A",
+    "explanation": "Synthetases proofread amino acid-tRNA pairing."
+  }
+]

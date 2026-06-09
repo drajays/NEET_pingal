@@ -1,0 +1,1224 @@
+[
+  {
+    "source_sentence": "Testes in scrotum 2-2.5°C below body temperature.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Scrotum location of testes is essential because spermatogenesis requires:",
+    "options": {
+      "A": "Higher temperature than abdomen",
+      "B": "2-2.5°C lower temperature than body core",
+      "C": "Constant 42°C",
+      "D": "No temperature regulation"
+    },
+    "correct_answer": "B",
+    "explanation": "Low scrotal temperature is necessary for sperm formation."
+  },
+  {
+    "source_sentence": "Leydig cells in interstitial spaces secrete androgens.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Testosterone is synthesised by:",
+    "options": {
+      "A": "Sertoli cells",
+      "B": "Leydig (interstitial) cells",
+      "C": "Spermatogonia",
+      "D": "Epididymis"
+    },
+    "correct_answer": "B",
+    "explanation": "Leydig cells in interstitial spaces produce androgens."
+  },
+  {
+    "source_sentence": "Rete testis connects seminiferous tubules to vasa efferentia.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Seminiferous tubules open into vasa efferentia through:",
+    "options": {
+      "A": "Epididymis directly",
+      "B": "Rete testis",
+      "C": "Prostate",
+      "D": "Seminal vesicle"
+    },
+    "correct_answer": "B",
+    "explanation": "Rete testis is network connecting tubules to vasa efferentia."
+  },
+  {
+    "source_sentence": "Seminal plasma from seminal vesicles, prostate, bulbourethral glands.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Fructose-rich seminal plasma is contributed mainly by:",
+    "options": {
+      "A": "Ovaries",
+      "B": "Seminal vesicles and other accessory glands",
+      "C": "Placenta only",
+      "D": "Uterus"
+    },
+    "correct_answer": "B",
+    "explanation": "Accessory gland secretions form seminal plasma rich in fructose and enzymes."
+  },
+  {
+    "source_sentence": "Ovarian stroma: cortex and medulla.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Gamete-producing region of ovary is primarily the:",
+    "options": {
+      "A": "Medulla only",
+      "B": "Peripheral cortex",
+      "C": "Broad ligament only",
+      "D": "Cervix"
+    },
+    "correct_answer": "B",
+    "explanation": "Cortex contains follicles; medulla has blood vessels and nerves."
+  },
+  {
+    "source_sentence": "Infundibulum with fimbriae collects ovum.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Finger-like fimbriae of fallopian tube help in:",
+    "options": {
+      "A": "Sperm storage",
+      "B": "Collection of ovum after ovulation",
+      "C": "Implantation",
+      "D": "Lactation"
+    },
+    "correct_answer": "B",
+    "explanation": "Fimbriae sweep ovum into infundibulum."
+  },
+  {
+    "source_sentence": "Ampulla is usual site of fertilisation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Fertilisation in humans normally occurs in:",
+    "options": {
+      "A": "Vagina",
+      "B": "Ampullary region of fallopian tube",
+      "C": "Uterus cavity",
+      "D": "Cervix only"
+    },
+    "correct_answer": "B",
+    "explanation": "Sperm and ovum meet in ampulla of oviduct."
+  },
+  {
+    "source_sentence": "Endometrium undergoes cyclic changes; myometrium contracts in parturition.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Strong uterine contractions during delivery involve:",
+    "options": {
+      "A": "Perimetrium only",
+      "B": "Myometrium",
+      "C": "Endometrium only",
+      "D": "Cervical canal alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Myometrium (smooth muscle) contracts vigorously during parturition."
+  },
+  {
+    "source_sentence": "Hymen is not reliable virginity indicator.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Which statement about hymen is correct?",
+    "options": {
+      "A": "Its presence confirms virginity",
+      "B": "It may persist after coitus or tear without intercourse",
+      "C": "It is absent in all adult females",
+      "D": "It secretes progesterone"
+    },
+    "correct_answer": "B",
+    "explanation": "Hymen can break from tampons, sports, or persist after coitus—unreliable indicator."
+  },
+  {
+    "source_sentence": "Spermatogonia 2n → primary spermatocyte → meiosis → spermatids → sperm.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Haploid spermatids are formed after:",
+    "options": {
+      "A": "One mitosis only",
+      "B": "Two meiotic divisions of primary spermatocyte",
+      "C": "Oogenesis",
+      "D": "No meiosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary spermatocyte completes meiosis I and II producing four spermatids."
+  },
+  {
+    "source_sentence": "GnRH stimulates LH and FSH from anterior pituitary.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Increased GnRH at puberty acts on:",
+    "options": {
+      "A": "Placenta",
+      "B": "Anterior pituitary to release LH and FSH",
+      "C": "Thyroid",
+      "D": "Adrenal cortex only"
+    },
+    "correct_answer": "B",
+    "explanation": "Hypothalamic GnRH stimulates gonadotropin secretion."
+  },
+  {
+    "source_sentence": "LH acts on Leydig; FSH on Sertoli.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "FSH in males primarily acts on:",
+    "options": {
+      "A": "Leydig cells to make testosterone",
+      "B": "Sertoli cells aiding spermatogenesis",
+      "C": "Epididymis only",
+      "D": "Prostate"
+    },
+    "correct_answer": "B",
+    "explanation": "FSH stimulates Sertoli cells; LH stimulates Leydig/androgens."
+  },
+  {
+    "source_sentence": "Sperm structure: head with acrosome, middle piece mitochondria, tail.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Acrosome of sperm contains:",
+    "options": {
+      "A": "Fructose only",
+      "B": "Enzymes aiding penetration of ovum",
+      "C": "Progesterone",
+      "D": "Milk proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Acrosome cap has enzymes for fertilisation."
+  },
+  {
+    "source_sentence": "Oogonia formed embryonically; arrested at prophase I.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Primary oocytes are arrested at:",
+    "options": {
+      "A": "Metaphase II until birth",
+      "B": "Prophase I of meiosis from fetal life",
+      "C": "Anaphase I at puberty",
+      "D": "No meiotic arrest"
+    },
+    "correct_answer": "B",
+    "explanation": "Oogonia enter prophase I prenatally and remain arrested until ovulation."
+  },
+  {
+    "source_sentence": "First meiotic division of primary oocyte is unequal.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Tertiary follicle stage completes first meiosis producing:",
+    "options": {
+      "A": "Equal-sized secondary oocyte and polar body",
+      "B": "Large secondary oocyte and tiny first polar body",
+      "C": "Two equal ova",
+      "D": "No polar body"
+    },
+    "correct_answer": "B",
+    "explanation": "Unequal division retains cytoplasm in secondary oocyte."
+  },
+  {
+    "source_sentence": "Graafian follicle ruptures at ovulation releasing secondary oocyte.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Ovulation releases:",
+    "options": {
+      "A": "Primary oocyte arrested at prophase I",
+      "B": "Secondary oocyte with zona pellucida",
+      "C": "Mature ovum after meiosis II",
+      "D": "Polar body only"
+    },
+    "correct_answer": "B",
+    "explanation": "Graafian follicle releases secondary oocyte; meiosis II completes after fertilisation."
+  },
+  {
+    "source_sentence": "Menstrual cycle ~28 days in human females.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Menstrual phase of cycle is characterised by:",
+    "options": {
+      "A": "Corpus luteum peak activity",
+      "B": "Breakdown of endometrial lining",
+      "C": "LH surge",
+      "D": "Implantation always"
+    },
+    "correct_answer": "B",
+    "explanation": "Days 3-5: menstrual flow from endometrial breakdown."
+  },
+  {
+    "source_sentence": "Follicular phase: growing follicles secrete estrogen.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Rising estrogen during follicular phase comes from:",
+    "options": {
+      "A": "Corpus luteum",
+      "B": "Developing ovarian follicles",
+      "C": "Placenta",
+      "D": "Adrenal only"
+    },
+    "correct_answer": "B",
+    "explanation": "Growing follicles secrete estrogens during follicular phase."
+  },
+  {
+    "source_sentence": "LH surge on ~14th day triggers ovulation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Ovulation is triggered by:",
+    "options": {
+      "A": "Sudden drop in FSH only",
+      "B": "Mid-cycle LH surge",
+      "C": "Progesterone peak before ovulation",
+      "D": "Prolactin surge"
+    },
+    "correct_answer": "B",
+    "explanation": "Rapid LH secretion (LH surge) induces Graafian follicle rupture."
+  },
+  {
+    "source_sentence": "Corpus luteum secretes progesterone in luteal phase.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "After ovulation, progesterone mainly comes from:",
+    "options": {
+      "A": "Anterior pituitary",
+      "B": "Corpus luteum",
+      "C": "Endometrium only",
+      "D": "Sertoli cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Corpus luteum maintains endometrium via progesterone."
+  },
+  {
+    "source_sentence": "Without fertilisation corpus luteum degenerates → menstruation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Menstruation begins when:",
+    "options": {
+      "A": "LH surge occurs",
+      "B": "Corpus luteum degenerates and endometrium breaks down",
+      "C": "Implantation succeeds",
+      "D": "FSH drops to zero permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "CL regression lowers progesterone → endometrial shedding."
+  },
+  {
+    "source_sentence": "Menopause around age 50; menarche at puberty.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Cessation of menstrual cycle around 50 years is called:",
+    "options": {
+      "A": "Menarche",
+      "B": "Menopause",
+      "C": "Ovulation",
+      "D": "Parturition"
+    },
+    "correct_answer": "B",
+    "explanation": "Menopause marks end of reproductive phase."
+  },
+  {
+    "source_sentence": "Fast block polyspermy at zona pellucida.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Entry of first sperm induces changes preventing:",
+    "options": {
+      "A": "Ovulation",
+      "B": "Polyspermy",
+      "C": "Cleavage",
+      "D": "Implantation"
+    },
+    "correct_answer": "B",
+    "explanation": "Membrane block ensures monospermy."
+  },
+  {
+    "source_sentence": "Secondary oocyte completes meiosis II after sperm entry.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Second polar body forms during:",
+    "options": {
+      "A": "Ovulation",
+      "B": "Completion of meiosis II after fertilisation",
+      "C": "Menstruation",
+      "D": "Lactation"
+    },
+    "correct_answer": "B",
+    "explanation": "Sperm entry triggers completion of meiosis II in oocyte."
+  },
+  {
+    "source_sentence": "Zygote 46 chromosomes; sex determined by sperm.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Human zygote with XY complement develops into:",
+    "options": {
+      "A": "Female",
+      "B": "Male",
+      "C": "Intersex always",
+      "D": "Cannot survive"
+    },
+    "correct_answer": "B",
+    "explanation": "Sperm carries X or Y; XX = female, XY = male."
+  },
+  {
+    "source_sentence": "Morula 8-16 cells; blastocyst has trophoblast and inner cell mass.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Trophoblast of blastocyst forms:",
+    "options": {
+      "A": "Embryo proper only",
+      "B": "Embryonic disc only",
+      "C": "Chorionic villi/placenta contribution",
+      "D": "Amniotic fluid alone"
+    },
+    "correct_answer": "C",
+    "explanation": "Trophoblast attaches to endometrium and forms chorionic villi."
+  },
+  {
+    "source_sentence": "Implantation embeds blastocyst in endometrium.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Implantation refers to:",
+    "options": {
+      "A": "Ovulation",
+      "B": "Embedding of blastocyst in endometrium",
+      "C": "Delivery of baby",
+      "D": "Sperm capacitation"
+    },
+    "correct_answer": "B",
+    "explanation": "Blastocyst becomes embedded in uterine lining."
+  },
+  {
+    "source_sentence": "Placenta produces hCG, hPL, estrogens, progestogens.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "hCG is secreted by:",
+    "options": {
+      "A": "Anterior pituitary always",
+      "B": "Placenta during pregnancy",
+      "C": "Corpus luteum only before implantation",
+      "D": "Testes"
+    },
+    "correct_answer": "B",
+    "explanation": "Human chorionic gonadotropin from placenta; pregnancy-specific."
+  },
+  {
+    "source_sentence": "Relaxin from ovary in later pregnancy.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Relaxin during late pregnancy is secreted by:",
+    "options": {
+      "A": "Thyroid",
+      "B": "Ovary (also placenta context)",
+      "C": "Sertoli cells",
+      "D": "Prostate"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT: relaxin from ovary in later phase of pregnancy."
+  },
+  {
+    "source_sentence": "Colostrum has antibodies for newborn.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Milk produced initially after childbirth (colostrum) is rich in:",
+    "options": {
+      "A": "Fructose only",
+      "B": "Antibodies",
+      "C": "Spermatozoa",
+      "D": "LH"
+    },
+    "correct_answer": "B",
+    "explanation": "Colostrum provides maternal antibodies to newborn."
+  },
+  {
+    "source_sentence": "Parturition induced by foetal-placental signals and oxytocin.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Positive feedback during parturition involves:",
+    "options": {
+      "A": "Prolactin and milk ejection only",
+      "B": "Uterine contractions stimulating more oxytocin release",
+      "C": "LH surge",
+      "D": "FSH rise"
+    },
+    "correct_answer": "B",
+    "explanation": "Foetal ejection reflex → oxytocin → stronger contractions."
+  },
+  {
+    "source_sentence": "LH surge and ovulation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Assertion (A): LH surge occurs mid-cycle. Reason (R): LH surge causes Graafian follicle rupture. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains ovulation trigger."
+  },
+  {
+    "source_sentence": "Progesterone and endometrium.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Assertion (A): Progesterone maintains endometrium for implantation. Reason (R): Corpus luteum secretes progesterone after ovulation. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R identifies source."
+  },
+  {
+    "source_sentence": "Scrotum and sperm.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Assertion (A): Scrotum helps spermatogenesis. Reason (R): Testes need temperature 2-2.5°C below core body temperature. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains scrotal thermoregulation."
+  },
+  {
+    "source_sentence": "Acrosome function.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Assertion (A): Acrosome helps sperm enter ovum. Reason (R): Acrosome contains hydrolytic enzymes. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains mechanism."
+  },
+  {
+    "source_sentence": "Placenta endocrine role.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Assertion (A): Placenta acts as endocrine tissue. Reason (R): It produces hCG, hPL, estrogens and progestogens. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R lists placental hormones."
+  },
+  {
+    "source_sentence": "Trap: Leydig vs Sertoli.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Which is INCORRECT?",
+    "options": {
+      "A": "Leydig cells secrete androgens",
+      "B": "Sertoli cells nourish germ cells",
+      "C": "FSH acts on Leydig cells",
+      "D": "LH stimulates Leydig cells"
+    },
+    "correct_answer": "C",
+    "explanation": "FSH acts on Sertoli cells, not Leydig."
+  },
+  {
+    "source_sentence": "Trap: fertilisation site.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Which is INCORRECT about fertilisation?",
+    "options": {
+      "A": "Occurs in ampulla",
+      "B": "Requires simultaneous transport of gametes",
+      "C": "Always occurs in uterus",
+      "D": "Acrosome helps sperm entry"
+    },
+    "correct_answer": "C",
+    "explanation": "Fertilisation is in fallopian tube ampulla, not uterus."
+  },
+  {
+    "source_sentence": "GnRH from hypothalamus.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q1): Primary source of GnRH is:",
+    "options": {
+      "A": "hypothalamus",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "GnRH: stimulates LH/FSH release; from hypothalamus acting on anterior pituitary."
+  },
+  {
+    "source_sentence": "FSH from anterior pituitary.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q2): Primary source of FSH is:",
+    "options": {
+      "A": "anterior pituitary",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "FSH: follicle development; from anterior pituitary acting on ovarian follicle/Sertoli."
+  },
+  {
+    "source_sentence": "LH from anterior pituitary.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q3): Primary source of LH is:",
+    "options": {
+      "A": "anterior pituitary",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "LH: androgen/ovulation; from anterior pituitary acting on Leydig/corpus luteum trigger."
+  },
+  {
+    "source_sentence": "Estrogen from developing follicle.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q4): Primary source of Estrogen is:",
+    "options": {
+      "A": "developing follicle",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "Estrogen: follicular phase; from developing follicle acting on endometrial proliferation."
+  },
+  {
+    "source_sentence": "Progesterone from corpus luteum.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q5): Primary source of Progesterone is:",
+    "options": {
+      "A": "corpus luteum",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "Progesterone: luteal phase; from corpus luteum acting on endometrial maintenance."
+  },
+  {
+    "source_sentence": "hCG from placenta.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q6): Primary source of hCG is:",
+    "options": {
+      "A": "placenta",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "hCG: pregnancy marker; from placenta acting on maintains corpus luteum early pregnancy."
+  },
+  {
+    "source_sentence": "Oxytocin from maternal pituitary.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q7): Primary source of Oxytocin is:",
+    "options": {
+      "A": "maternal pituitary",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "Oxytocin: parturition; from maternal pituitary acting on uterine contractions."
+  },
+  {
+    "source_sentence": "Prolactin from anterior pituitary.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "NEET hormonal axis (Q8): Primary source of Prolactin is:",
+    "options": {
+      "A": "anterior pituitary",
+      "B": "Seminal vesicle",
+      "C": "Epididymis epithelium",
+      "D": "Vas deferens"
+    },
+    "correct_answer": "A",
+    "explanation": "Prolactin: lactation; from anterior pituitary acting on milk synthesis."
+  },
+  {
+    "source_sentence": "Clinical scenario: Woman day 14 shows LH peak on assay.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Most likely imminent event:",
+    "options": {
+      "A": "Menstruation",
+      "B": "Ovulation",
+      "C": "Parturition",
+      "D": "Menopause"
+    },
+    "correct_answer": "B",
+    "explanation": "LH surge mid-cycle triggers ovulation."
+  },
+  {
+    "source_sentence": "Clinical scenario: Corpus luteum degenerates; progesterone falls.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Expected outcome:",
+    "options": {
+      "A": "Menstruation",
+      "B": "Implantation",
+      "C": "Lactation peak",
+      "D": "Spermatogenesis boost"
+    },
+    "correct_answer": "A",
+    "explanation": "Low progesterone → endometrial breakdown."
+  },
+  {
+    "source_sentence": "Clinical scenario: Blastocyst trophoblast contacts endometrium.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Next major event:",
+    "options": {
+      "A": "Ovulation",
+      "B": "Implantation and placenta formation",
+      "C": "Menarche",
+      "D": "Meiosis I in oocyte"
+    },
+    "correct_answer": "B",
+    "explanation": "Trophoblast attachment leads to implantation."
+  },
+  {
+    "source_sentence": "Clinical scenario: Semen analysis: 35% motile sperms.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Regarding fertility:",
+    "options": {
+      "A": "Normal (≥40% motility desired)",
+      "B": "Exceeds all requirements",
+      "C": "Irrelevant parameter",
+      "D": "Indicates pregnancy"
+    },
+    "correct_answer": "A",
+    "explanation": "At least 40% vigorous motility needed for normal fertility."
+  },
+  {
+    "source_sentence": "Clinical scenario: Zona pellucida blocks second sperm.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Mechanism prevents:",
+    "options": {
+      "A": "Polyspermy",
+      "B": "Implantation",
+      "C": "Ovulation",
+      "D": "Menopause"
+    },
+    "correct_answer": "A",
+    "explanation": "Fast block to polyspermy at zona pellucida."
+  },
+  {
+    "source_sentence": "Clinical scenario: Morula reaches uterus continues to blastocyst.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Inner cell mass will form:",
+    "options": {
+      "A": "Trophoblast only",
+      "B": "Embryo proper",
+      "C": "Placenta only",
+      "D": "Cervical mucus"
+    },
+    "correct_answer": "B",
+    "explanation": "Inner cell mass differentiates into embryo."
+  },
+  {
+    "source_sentence": "Clinical scenario: Doctor detects foetal heartbeat at 1 month.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Structure first formed:",
+    "options": {
+      "A": "Limbs",
+      "B": "Heart",
+      "C": "Eyelashes",
+      "D": "Hair on head"
+    },
+    "correct_answer": "B",
+    "explanation": "Heart formed by one month of pregnancy."
+  },
+  {
+    "source_sentence": "Clinical scenario: Injection given to induce labour contractions.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Likely hormone:",
+    "options": {
+      "A": "Oxytocin",
+      "B": "FSH",
+      "C": "GnRH",
+      "D": "Testosterone"
+    },
+    "correct_answer": "A",
+    "explanation": "Oxytocin induces uterine contractions for delivery."
+  },
+  {
+    "source_sentence": "Clinical scenario: Colostrum feeding recommended for newborn.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Main benefit:",
+    "options": {
+      "A": "Fructose energy only",
+      "B": "Maternal antibodies",
+      "C": "LH surge",
+      "D": "Prevents ovulation"
+    },
+    "correct_answer": "B",
+    "explanation": "Colostrum antibodies build neonatal immunity."
+  },
+  {
+    "source_sentence": "Clinical scenario: Sperm counts 200-300 million per ejaculate.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Minimum motility for fertility:",
+    "options": {
+      "A": "5%",
+      "B": "At least about 40%",
+      "C": "100% mandatory",
+      "D": "0% acceptable"
+    },
+    "correct_answer": "B",
+    "explanation": "NCERT: at least 40% must show vigorous motility."
+  },
+  {
+    "source_sentence": "Ploidy of Spermatogonium.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Spermatogonium is:",
+    "options": {
+      "A": "46",
+      "B": "23",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Spermatogonium has 46 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of Primary spermatocyte.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Primary spermatocyte is:",
+    "options": {
+      "A": "46",
+      "B": "23",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary spermatocyte has 46 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of Secondary spermatocyte.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Secondary spermatocyte is:",
+    "options": {
+      "A": "23",
+      "B": "46",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Secondary spermatocyte has 23 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of Spermatid.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Spermatid is:",
+    "options": {
+      "A": "23",
+      "B": "46",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Spermatid has 23 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of Sperm nucleus.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Sperm nucleus is:",
+    "options": {
+      "A": "23",
+      "B": "46",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Sperm nucleus has 23 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of Primary oocyte.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Primary oocyte is:",
+    "options": {
+      "A": "46",
+      "B": "23",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary oocyte has 46 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of Secondary oocyte.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Secondary oocyte is:",
+    "options": {
+      "A": "23",
+      "B": "46",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Secondary oocyte has 23 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of Zygote.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human Zygote is:",
+    "options": {
+      "A": "46",
+      "B": "23",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "Zygote has 46 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Ploidy of First polar body.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Chromosome number in human First polar body is:",
+    "options": {
+      "A": "23",
+      "B": "46",
+      "C": "92",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "First polar body has 23 chromosomes per NCERT."
+  },
+  {
+    "source_sentence": "Epididymis stores and matures sperm.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Sperm gain motility largely in:",
+    "options": {
+      "A": "Seminiferous tubule lumen only",
+      "B": "Epididymis and duct secretions",
+      "C": "Ovary",
+      "D": "Placenta"
+    },
+    "correct_answer": "B",
+    "explanation": "Duct secretions essential for maturation and motility."
+  },
+  {
+    "source_sentence": "Vas deferens joins ejaculatory duct with seminal vesicle duct.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Ejaculatory duct opens into:",
+    "options": {
+      "A": "Urinary bladder",
+      "B": "Urethra",
+      "C": "Ovary",
+      "D": "Renal pelvis"
+    },
+    "correct_answer": "B",
+    "explanation": "Vas deferens + seminal vesicle duct → ejaculatory duct → urethra."
+  },
+  {
+    "source_sentence": "Glans penis covered by foreskin.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Foreskin is:",
+    "options": {
+      "A": "Loose fold covering glans penis",
+      "B": "Muscular uterine layer",
+      "C": "Ovarian ligament",
+      "D": "Acrosome cap"
+    },
+    "correct_answer": "A",
+    "explanation": "Prepuce/foreskin covers glans."
+  },
+  {
+    "source_sentence": "Mammary alveoli secrete milk into lumens.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Milk is stored initially in:",
+    "options": {
+      "A": "Alveolar lumens",
+      "B": "Seminiferous tubules",
+      "C": "Epididymis",
+      "D": "Prostate acini"
+    },
+    "correct_answer": "A",
+    "explanation": "Alveoli secrete milk into their lumens."
+  },
+  {
+    "source_sentence": "Cervical canal with vagina forms birth canal.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Birth canal consists of:",
+    "options": {
+      "A": "Urethra only",
+      "B": "Cervical canal and vagina",
+      "C": "Fallopian tube",
+      "D": "Seminal vesicle duct"
+    },
+    "correct_answer": "B",
+    "explanation": "Cervix + vagina = birth canal."
+  },
+  {
+    "source_sentence": "Spermiogenesis transforms spermatids to spermatozoa.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Spermiogenesis is:",
+    "options": {
+      "A": "Meiosis of spermatogonia",
+      "B": "Morphological differentiation of spermatids into sperm",
+      "C": "Ovulation",
+      "D": "Implantation"
+    },
+    "correct_answer": "B",
+    "explanation": "Spermatids become functional spermatozoa."
+  },
+  {
+    "source_sentence": "Capacitation occurs in female tract.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Final maturation of sperm in female genital tract is:",
+    "options": {
+      "A": "Spermatogenesis",
+      "B": "Capacitation",
+      "C": "Oogenesis",
+      "D": "Menopause"
+    },
+    "correct_answer": "B",
+    "explanation": "Capacitation in female tract enables fertilisation."
+  },
+  {
+    "source_sentence": "Cleavage is mitotic divisions of zygote.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Cleavage divisions are:",
+    "options": {
+      "A": "Meiotic",
+      "B": "Mitotic without significant growth",
+      "C": "Absent in humans",
+      "D": "Only in placenta"
+    },
+    "correct_answer": "B",
+    "explanation": "Zygote undergoes rapid mitotic cleavage forming blastomeres."
+  },
+  {
+    "source_sentence": "Gestation ~9 months in humans.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Average human gestation period:",
+    "options": {
+      "A": "3 months",
+      "B": "About 9 months",
+      "C": "24 months",
+      "D": "12 years"
+    },
+    "correct_answer": "B",
+    "explanation": "Human pregnancy lasts about 9 months."
+  },
+  {
+    "source_sentence": "Lactation begins near end of pregnancy.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Milk production toward end of pregnancy is:",
+    "options": {
+      "A": "Spermatogenesis",
+      "B": "Lactation initiation",
+      "C": "Ovulation",
+      "D": "Menarche"
+    },
+    "correct_answer": "B",
+    "explanation": "Mammary glands differentiate and begin milk production."
+  },
+  {
+    "source_sentence": "Human reproduction topic: seminiferous tubule lining.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about seminiferous tubule lining (item 1):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (seminiferous tubule lining)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "seminiferous tubule lining is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: interstitial space Leydig.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about interstitial space Leydig (item 2):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (interstitial space Leydig)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "interstitial space Leydig is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: bulbourethral lubrication.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about bulbourethral lubrication (item 3):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (bulbourethral lubrication)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "bulbourethral lubrication is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: labia majora and minora.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about labia majora and minora (item 4):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (labia majora and minora)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "labia majora and minora is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: clitoris location.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about clitoris location (item 5):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (clitoris location)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "clitoris location is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: antrium in tertiary follicle.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about antrium in tertiary follicle (item 6):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (antrium in tertiary follicle)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "antrium in tertiary follicle is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: zona pellucida formation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about zona pellucida formation (item 7):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (zona pellucida formation)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "zona pellucida formation is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: theca interna and externa.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about theca interna and externa (item 8):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (theca interna and externa)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "theca interna and externa is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: menstrual hygiene importance.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about menstrual hygiene importance (item 9):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (menstrual hygiene importance)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "menstrual hygiene importance is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: foetal ejection reflex.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about foetal ejection reflex (item 10):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (foetal ejection reflex)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "foetal ejection reflex is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: placental gas exchange.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about placental gas exchange (item 11):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (placental gas exchange)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "placental gas exchange is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: umbilical cord transport.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about umbilical cord transport (item 12):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (umbilical cord transport)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "umbilical cord transport is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: ectoderm mesoderm endoderm.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about ectoderm mesoderm endoderm (item 13):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (ectoderm mesoderm endoderm)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "ectoderm mesoderm endoderm is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: stem cells in inner cell mass.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about stem cells in inner cell mass (item 14):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (stem cells in inner cell mass)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "stem cells in inner cell mass is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: first trimester organ formation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about first trimester organ formation (item 15):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (first trimester organ formation)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "first trimester organ formation is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: second trimester hair eyelids.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about second trimester hair eyelids (item 16):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (second trimester hair eyelids)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "second trimester hair eyelids is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: third trimester full development.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about third trimester full development (item 17):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (third trimester full development)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "third trimester full development is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: spermation release process.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about spermation release process (item 18):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (spermation release process)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "spermation release process is part of NCERT Ch2 human reproduction."
+  },
+  {
+    "source_sentence": "Human reproduction topic: androgen role in male ducts.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Select the NCERT-accurate statement about androgen role in male ducts (item 19):",
+    "options": {
+      "A": "It is a valid component/event in human reproduction (androgen role in male ducts)",
+      "B": "It occurs only in plants",
+      "C": "It is unrelated to gametogenesis",
+      "D": "It replaces fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "androgen role in male ducts is part of NCERT Ch2 human reproduction."
+  }
+]

@@ -1,0 +1,1133 @@
+[
+  {
+    "source_sentence": "Population density can be measured in numbers, biomass, or percent cover.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A reliable measure of population density in a forest of grasses is",
+    "options": {
+      "A": "number of individuals",
+      "B": "biomass",
+      "C": "age structure only",
+      "D": "natality only"
+    },
+    "correct_answer": "B",
+    "explanation": "Biomass is suitable for grasses where individuals are hard to count."
+  },
+  {
+    "source_sentence": "Population attributes include natality, mortality, and sex ratio.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "An attribute that is meaningful only at population level is",
+    "options": {
+      "A": "body mass",
+      "B": "birth rate",
+      "C": "respiration",
+      "D": "digestion"
+    },
+    "correct_answer": "B",
+    "explanation": "Birth rate is a population attribute."
+  },
+  {
+    "source_sentence": "Exponential growth occurs with unlimited resources.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The J-shaped growth curve is called",
+    "options": {
+      "A": "logistic growth",
+      "B": "exponential growth",
+      "C": "linear growth",
+      "D": "zero growth"
+    },
+    "correct_answer": "B",
+    "explanation": "Exponential growth forms a J-shaped curve."
+  },
+  {
+    "source_sentence": "Logistic growth shows carrying capacity (K).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In logistic growth, population growth rate is maximum when",
+    "options": {
+      "A": "N is zero",
+      "B": "N equals K",
+      "C": "N is near K/2",
+      "D": "N is above K"
+    },
+    "correct_answer": "C",
+    "explanation": "Maximum growth occurs around K/2."
+  },
+  {
+    "source_sentence": "Carrying capacity is the limit of population size.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The symbol K represents",
+    "options": {
+      "A": "growth rate",
+      "B": "carrying capacity",
+      "C": "population size",
+      "D": "mortality rate"
+    },
+    "correct_answer": "B",
+    "explanation": "K stands for carrying capacity."
+  },
+  {
+    "source_sentence": "Intrinsic rate of natural increase is represented by r.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A high r value indicates",
+    "options": {
+      "A": "slow growth",
+      "B": "rapid population growth",
+      "C": "zero growth",
+      "D": "negative growth only"
+    },
+    "correct_answer": "B",
+    "explanation": "Higher r leads to rapid growth."
+  },
+  {
+    "source_sentence": "Age pyramids show population structure.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A broad base in an age pyramid suggests",
+    "options": {
+      "A": "declining population",
+      "B": "stable population",
+      "C": "expanding population",
+      "D": "no reproduction"
+    },
+    "correct_answer": "C",
+    "explanation": "Broad base means more pre-reproductive individuals."
+  },
+  {
+    "source_sentence": "Population interactions include mutualism and parasitism.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In mutualism, both species",
+    "options": {
+      "A": "benefit",
+      "B": "are harmed",
+      "C": "one benefits and one harmed",
+      "D": "are unaffected"
+    },
+    "correct_answer": "A",
+    "explanation": "Mutualism benefits both partners."
+  },
+  {
+    "source_sentence": "Competition occurs when resources are limiting.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The principle that two species cannot coexist on a single limiting resource is",
+    "options": {
+      "A": "competitive exclusion (Gause's principle)",
+      "B": "rivet popper",
+      "C": "energy flow law",
+      "D": "Malthusian theory"
+    },
+    "correct_answer": "A",
+    "explanation": "Gause's principle states competitive exclusion."
+  },
+  {
+    "source_sentence": "Predation can be a predator-prey interaction.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The role of predators in maintaining diversity is",
+    "options": {
+      "A": "eliminating all prey",
+      "B": "preventing dominance of one prey species",
+      "C": "increasing competition",
+      "D": "reducing resources"
+    },
+    "correct_answer": "B",
+    "explanation": "Predators keep prey populations in check."
+  },
+  {
+    "source_sentence": "Parasitism benefits one and harms the other.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Cuscuta on hedges is an example of",
+    "options": {
+      "A": "mutualism",
+      "B": "parasitism",
+      "C": "commensalism",
+      "D": "competition"
+    },
+    "correct_answer": "B",
+    "explanation": "Cuscuta is a parasitic plant."
+  },
+  {
+    "source_sentence": "Commensalism benefits one, the other is unaffected.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Cattle egret and grazing cattle represent",
+    "options": {
+      "A": "mutualism",
+      "B": "commensalism",
+      "C": "parasitism",
+      "D": "competition"
+    },
+    "correct_answer": "B",
+    "explanation": "Egrets benefit; cattle are unaffected."
+  },
+  {
+    "source_sentence": "Population density can be estimated by percent cover.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "For organisms like corals, population density is best expressed as",
+    "options": {
+      "A": "number of individuals",
+      "B": "percent cover",
+      "C": "age pyramid",
+      "D": "birth rate"
+    },
+    "correct_answer": "B",
+    "explanation": "Percent cover is used for sessile organisms."
+  },
+  {
+    "source_sentence": "Logistic growth is S-shaped.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The S-shaped growth curve is called",
+    "options": {
+      "A": "exponential",
+      "B": "logistic",
+      "C": "linear",
+      "D": "decreasing"
+    },
+    "correct_answer": "B",
+    "explanation": "Logistic growth produces an S-shaped curve."
+  },
+  {
+    "source_sentence": "Population growth depends on births, deaths, immigration, emigration.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A factor that increases population size is",
+    "options": {
+      "A": "mortality",
+      "B": "emigration",
+      "C": "natality",
+      "D": "predation"
+    },
+    "correct_answer": "C",
+    "explanation": "Births increase population size."
+  },
+  {
+    "source_sentence": "Survivorship curves show mortality patterns.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Type I survivorship curve is typical of",
+    "options": {
+      "A": "oysters",
+      "B": "humans",
+      "C": "plants with high mortality early",
+      "D": "mosquitoes"
+    },
+    "correct_answer": "B",
+    "explanation": "Humans show Type I survivorship."
+  },
+  {
+    "source_sentence": "Type III survivorship shows high early mortality.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which organism often shows Type III survivorship?",
+    "options": {
+      "A": "elephants",
+      "B": "turtles",
+      "C": "humans",
+      "D": "bats"
+    },
+    "correct_answer": "B",
+    "explanation": "Many turtles and fish show Type III curves."
+  },
+  {
+    "source_sentence": "Parasitism includes host adaptations.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A typical parasite adaptation is",
+    "options": {
+      "A": "high digestive system complexity",
+      "B": "loss of unnecessary organs",
+      "C": "rapid photosynthesis",
+      "D": "short lifespan of eggs only"
+    },
+    "correct_answer": "B",
+    "explanation": "Parasites often lose unnecessary organs."
+  },
+  {
+    "source_sentence": "Mutualistic relationship between plant and pollinator.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The fig tree and its wasp is an example of",
+    "options": {
+      "A": "commensalism",
+      "B": "mutualism",
+      "C": "predation",
+      "D": "parasitism"
+    },
+    "correct_answer": "B",
+    "explanation": "Both fig and wasp benefit."
+  },
+  {
+    "source_sentence": "Brood parasitism is seen in cuckoo.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Brood parasitism involves",
+    "options": {
+      "A": "building own nest",
+      "B": "laying eggs in another bird's nest",
+      "C": "feeding host chicks",
+      "D": "protecting host eggs"
+    },
+    "correct_answer": "B",
+    "explanation": "Cuckoo lays eggs in host nests."
+  },
+  {
+    "source_sentence": "Predator-prey interaction is classic in biology.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The biological control of pests is based on",
+    "options": {
+      "A": "predation",
+      "B": "competition",
+      "C": "mutualism",
+      "D": "parasitism"
+    },
+    "correct_answer": "A",
+    "explanation": "Predators control pest populations."
+  },
+  {
+    "source_sentence": "Population cycles can be predator-prey driven.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Lynx-hare population cycles are an example of",
+    "options": {
+      "A": "mutualism",
+      "B": "predator-prey interaction",
+      "C": "commensalism",
+      "D": "parasitism"
+    },
+    "correct_answer": "B",
+    "explanation": "Lynx-hare shows predator-prey oscillations."
+  },
+  {
+    "source_sentence": "Growth rate is dN/dt.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In the exponential growth equation dN/dt = rN, r represents",
+    "options": {
+      "A": "carrying capacity",
+      "B": "intrinsic rate of increase",
+      "C": "population size",
+      "D": "mortality only"
+    },
+    "correct_answer": "B",
+    "explanation": "r is intrinsic rate of natural increase."
+  },
+  {
+    "source_sentence": "Intraspecific competition occurs within species.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Competition among members of the same species is",
+    "options": {
+      "A": "interspecific",
+      "B": "intraspecific",
+      "C": "mutualism",
+      "D": "commensalism"
+    },
+    "correct_answer": "B",
+    "explanation": "Intraspecific competition is within a species."
+  },
+  {
+    "source_sentence": "In logistic growth, dN/dt = rN((K-N)/K).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "When N approaches K, the growth rate",
+    "options": {
+      "A": "increases exponentially",
+      "B": "approaches zero",
+      "C": "becomes negative always",
+      "D": "doubles"
+    },
+    "correct_answer": "B",
+    "explanation": "Growth rate slows as N approaches K."
+  },
+  {
+    "source_sentence": "Population density can be measured by total number.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Counting individuals is most appropriate for",
+    "options": {
+      "A": "bacterial population in soil",
+      "B": "crowd of deer in a forest",
+      "C": "algae in pond",
+      "D": "grassland biomass"
+    },
+    "correct_answer": "B",
+    "explanation": "Larger animals can be counted directly."
+  },
+  {
+    "source_sentence": "Age structure indicates growth trends.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A bell-shaped age pyramid indicates",
+    "options": {
+      "A": "declining population",
+      "B": "stable population",
+      "C": "expanding population",
+      "D": "extinct population"
+    },
+    "correct_answer": "B",
+    "explanation": "Bell shape suggests stable population."
+  },
+  {
+    "source_sentence": "Interaction where one is harmed, other unaffected is amensalism.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The inhibition of algae by antibiotics released from fungi is",
+    "options": {
+      "A": "commensalism",
+      "B": "amensalism",
+      "C": "mutualism",
+      "D": "parasitism"
+    },
+    "correct_answer": "B",
+    "explanation": "Fungal antibiotics harm algae; fungi unaffected."
+  },
+  {
+    "source_sentence": "Population growth can be limited by environmental resistance.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Factors that limit population growth collectively are called",
+    "options": {
+      "A": "biotic potential",
+      "B": "environmental resistance",
+      "C": "genetic drift",
+      "D": "trophic levels"
+    },
+    "correct_answer": "B",
+    "explanation": "Environmental resistance limits growth."
+  },
+  {
+    "source_sentence": "Gause's principle is competitive exclusion.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Two species with identical niches cannot coexist because of",
+    "options": {
+      "A": "mutualism",
+      "B": "competitive exclusion",
+      "C": "predation only",
+      "D": "commensalism"
+    },
+    "correct_answer": "B",
+    "explanation": "Identical niches lead to exclusion of one species."
+  },
+  {
+    "source_sentence": "Predators regulate prey populations.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The prickles on Acacia act mainly against",
+    "options": {
+      "A": "insect pollinators",
+      "B": "herbivores",
+      "C": "symbiotic fungi",
+      "D": "nitrogen fixers"
+    },
+    "correct_answer": "B",
+    "explanation": "Prickles defend against herbivores."
+  },
+  {
+    "source_sentence": "Aphids and ants show mutualism.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Ants get honeydew and protect aphids; this is",
+    "options": {
+      "A": "mutualism",
+      "B": "parasitism",
+      "C": "predation",
+      "D": "commensalism"
+    },
+    "correct_answer": "A",
+    "explanation": "Both partners benefit in this interaction."
+  },
+  {
+    "source_sentence": "Population density changes with births and deaths.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "If natality equals mortality and migration is zero, the population will",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain stable",
+      "D": "be extinct immediately"
+    },
+    "correct_answer": "C",
+    "explanation": "Equal births and deaths give zero growth."
+  },
+  {
+    "source_sentence": "Parasites show host specificity.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The adult stage of liver fluke lives in",
+    "options": {
+      "A": "snail",
+      "B": "human intestine",
+      "C": "liver of vertebrate host",
+      "D": "soil"
+    },
+    "correct_answer": "C",
+    "explanation": "Liver fluke adult lives in liver of host."
+  },
+  {
+    "source_sentence": "Population size is denoted by N.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In the equation dN/dt = rN, N represents",
+    "options": {
+      "A": "population size",
+      "B": "carrying capacity",
+      "C": "population growth rate",
+      "D": "environmental resistance"
+    },
+    "correct_answer": "A",
+    "explanation": "N is population size."
+  },
+  {
+    "source_sentence": "Exponential growth occurs when resources are unlimited.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Assertion (A): The exponential growth curve is J-shaped Reason (R): because the growth rate remains proportional to population size Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both A and R are true and R explains A."
+  },
+  {
+    "source_sentence": "Population interactions influence population size.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Assertion (A): Competition can lead to exclusion of one species Reason (R): because two species with identical niches cannot coexist indefinitely Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Gause's principle explains competitive exclusion."
+  },
+  {
+    "source_sentence": "Carrying capacity is the upper limit of population size.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Assertion (A): In logistic growth, population size approaches carrying capacity (K). Reason (R): Population grows fastest when it equals K. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "C",
+    "explanation": "Growth is fastest near K/2, not at K."
+  },
+  {
+    "source_sentence": "Predation is a population interaction.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Assertion (A): Predation helps transfer energy across trophic levels in ecosystems. Reason (R): Predators maintain prey diversity by preventing any one species from dominating. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Predators can maintain diversity; R explains A."
+  },
+  {
+    "source_sentence": "Age pyramids indicate population growth trends.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Assertion (A): Gause's competitive exclusion principle applies when resources are limiting. Reason (R): A pyramid with a narrow base indicates fewer pre-reproductive individuals. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Narrow base means fewer young, indicating declining growth."
+  },
+  {
+    "source_sentence": "Population interactions are varied.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Match Column I (Interaction) with Column II (Example). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. Mutualism – fig and wasp, 2. Commensalism – cattle egret, 3. Parasitism – Cuscuta, 4. Predation – tiger and deer",
+      "B": "1. Mutualism – Cuscuta, 2. Commensalism – fig and wasp, 3. Parasitism – cattle egret, 4. Predation – lichen",
+      "C": "1. Mutualism – tiger and deer, 2. Commensalism – Cuscuta, 3. Parasitism – fig and wasp, 4. Predation – cattle egret",
+      "D": "1. Mutualism – cattle egret, 2. Commensalism – Cuscuta, 3. Parasitism – fig and wasp, 4. Predation – lichen"
+    },
+    "correct_answer": "A",
+    "explanation": "Each interaction is matched with the classic example."
+  },
+  {
+    "source_sentence": "Population parameters have symbols.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Match Column I (Symbol) with Column II (Meaning). Match Column I with Column II and select the correct option.",
+    "options": {
+      "A": "1. N – population size, 2. r – intrinsic rate, 3. K – carrying capacity, 4. dN/dt – growth rate",
+      "B": "1. N – carrying capacity, 2. r – mortality, 3. K – population size, 4. dN/dt – migration",
+      "C": "1. N – natality, 2. r – carrying capacity, 3. K – growth rate, 4. dN/dt – population size",
+      "D": "1. N – death rate, 2. r – population size, 3. K – intrinsic rate, 4. dN/dt – age structure"
+    },
+    "correct_answer": "A",
+    "explanation": "Standard population symbols are N, r, K, dN/dt."
+  },
+  {
+    "source_sentence": "Natality is the birth rate.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Natality refers to",
+    "options": {
+      "A": "death rate",
+      "B": "birth rate",
+      "C": "emigration",
+      "D": "immigration"
+    },
+    "correct_answer": "B",
+    "explanation": "Natality is birth rate."
+  },
+  {
+    "source_sentence": "Mortality is the death rate.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Mortality refers to",
+    "options": {
+      "A": "birth rate",
+      "B": "death rate",
+      "C": "immigration",
+      "D": "age structure"
+    },
+    "correct_answer": "B",
+    "explanation": "Mortality is death rate."
+  },
+  {
+    "source_sentence": "Immigration increases population size.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Immigration is",
+    "options": {
+      "A": "movement into a population",
+      "B": "movement out of a population",
+      "C": "death rate",
+      "D": "birth rate"
+    },
+    "correct_answer": "A",
+    "explanation": "Immigration adds individuals."
+  },
+  {
+    "source_sentence": "Emigration reduces population size.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Emigration is",
+    "options": {
+      "A": "movement into a population",
+      "B": "movement out of a population",
+      "C": "birth rate",
+      "D": "death rate"
+    },
+    "correct_answer": "B",
+    "explanation": "Emigration removes individuals."
+  },
+  {
+    "source_sentence": "Interspecific competition is between species.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Competition between lions and hyenas is",
+    "options": {
+      "A": "intraspecific",
+      "B": "interspecific",
+      "C": "mutualism",
+      "D": "commensalism"
+    },
+    "correct_answer": "B",
+    "explanation": "Different species competing is interspecific."
+  },
+  {
+    "source_sentence": "Predation can act as biological control.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Ladybird feeding on aphids is an example of",
+    "options": {
+      "A": "predation",
+      "B": "parasitism",
+      "C": "commensalism",
+      "D": "mutualism"
+    },
+    "correct_answer": "A",
+    "explanation": "Ladybird is a predator of aphids."
+  },
+  {
+    "source_sentence": "Competition can occur even without resource shortage.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Plants competing for light show competition for",
+    "options": {
+      "A": "space and light",
+      "B": "oxygen only",
+      "C": "pollination only",
+      "D": "temperature only"
+    },
+    "correct_answer": "A",
+    "explanation": "Plants compete for space and light."
+  },
+  {
+    "source_sentence": "Predators can also be parasites.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A parasitic interaction differs from predation because parasites",
+    "options": {
+      "A": "kill prey quickly",
+      "B": "harm host without immediate death",
+      "C": "do not depend on host",
+      "D": "benefit host"
+    },
+    "correct_answer": "B",
+    "explanation": "Parasites derive benefit but do not usually kill host immediately."
+  },
+  {
+    "source_sentence": "Population growth is influenced by age structure.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A population with more reproductive-age individuals will likely",
+    "options": {
+      "A": "decline rapidly",
+      "B": "grow faster",
+      "C": "remain unchanged",
+      "D": "go extinct"
+    },
+    "correct_answer": "B",
+    "explanation": "More reproductive individuals increase growth rate."
+  },
+  {
+    "source_sentence": "Population size can be reduced by predation.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Predation is best classified as",
+    "options": {
+      "A": "density-independent factor",
+      "B": "biotic density-dependent factor",
+      "C": "abiotic factor",
+      "D": "neutral interaction"
+    },
+    "correct_answer": "B",
+    "explanation": "Predation is a biotic, density-dependent factor."
+  },
+  {
+    "source_sentence": "Population of microbes can be measured as colony-forming units.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Population density in microbes is often expressed as",
+    "options": {
+      "A": "age pyramid",
+      "B": "colony-forming units per volume",
+      "C": "percent cover only",
+      "D": "trophic level"
+    },
+    "correct_answer": "B",
+    "explanation": "Microbial density is often CFU per volume."
+  },
+  {
+    "source_sentence": "Self-regulation happens via competition.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Intraspecific competition helps in",
+    "options": {
+      "A": "population regulation",
+      "B": "unlimited growth",
+      "C": "eliminating all individuals",
+      "D": "no effect on population"
+    },
+    "correct_answer": "A",
+    "explanation": "Intraspecific competition regulates population size."
+  },
+  {
+    "source_sentence": "Population fluctuations can be seasonal.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Seasonal changes in population density are often due to",
+    "options": {
+      "A": "constant resources",
+      "B": "changing environmental factors",
+      "C": "absence of births",
+      "D": "no migration"
+    },
+    "correct_answer": "B",
+    "explanation": "Seasonal changes affect survival and reproduction."
+  },
+  {
+    "source_sentence": "Gause's principle explains coexistence.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Coexistence of two similar species is possible when they",
+    "options": {
+      "A": "occupy identical niches",
+      "B": "have resource partitioning",
+      "C": "share all resources",
+      "D": "are predators of each other"
+    },
+    "correct_answer": "B",
+    "explanation": "Resource partitioning reduces competition."
+  },
+  {
+    "source_sentence": "Mutualism can be obligatory.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Lichen is a symbiotic association between",
+    "options": {
+      "A": "fungus and algae",
+      "B": "bacteria and virus",
+      "C": "fungus and insect",
+      "D": "algae and protozoa"
+    },
+    "correct_answer": "A",
+    "explanation": "Lichen is fungus and algae in mutualism."
+  },
+  {
+    "source_sentence": "Parasites evolve to ensure transmission.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which adaptation helps parasites attach to host?",
+    "options": {
+      "A": "hooks and suckers",
+      "B": "chloroplasts",
+      "C": "high photosynthesis",
+      "D": "thick bark"
+    },
+    "correct_answer": "A",
+    "explanation": "Hooks and suckers help attach to host."
+  },
+  {
+    "source_sentence": "Population density can be indicated by signs.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "For animals like tigers, population density can be estimated by",
+    "options": {
+      "A": "pollen count",
+      "B": "pug marks and fecal pellets",
+      "C": "age pyramid only",
+      "D": "percent cover"
+    },
+    "correct_answer": "B",
+    "explanation": "Indirect signs like pug marks estimate density."
+  },
+  {
+    "source_sentence": "But for predators, prey species could achieve very high population densities and cause ecosystem instability.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"But for predators, prey species could achieve very high population densities and...\"?",
+    "options": {
+      "A": "But for predators, prey species could achieve very high population densities and cause ecosystem instability.",
+      "B": "Exponential growth curve is sigmoid when resources are unlimited.",
+      "C": "Population density is always expressed as total number only.",
+      "D": "Carrying capacity (K) is exceeded permanently in logistic growth."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The most familiar examples of this group are the lice on humans and ticks on dogs.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"The most familiar examples of this group are the lice on humans and ticks on dog...\"?",
+    "options": {
+      "A": "Brood parasitism benefits both host and parasite equally.",
+      "B": "Natality and immigration both decrease population density.",
+      "C": "The most familiar examples of this group are the lice on humans and ticks on dogs.",
+      "D": "Competitive exclusion always allows two species to coexist indefinitely."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Strong and persuasive circumstantial evidence does exist however in some cases.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Strong and persuasive circumstantial evidence does exist however in some cases....\"?",
+    "options": {
+      "A": "Predators always eliminate prey populations completely in nature.",
+      "B": "Population density is always expressed as total number only.",
+      "C": "Age pyramids cannot indicate whether a population is growing.",
+      "D": "Strong and persuasive circumstantial evidence does exist however in some cases."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Biological control methods adopted in agricultural pest control are based on the ability of the predator",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Biological control methods adopted in agricultural pest control are based on the...\"?",
+    "options": {
+      "A": "Exponential growth curve is sigmoid when resources are unlimited.",
+      "B": "Population density is always expressed as total number only.",
+      "C": "Biological control methods adopted in agricultural pest control are based on the ability of the predator",
+      "D": "Age pyramids cannot indicate whether a population is growing."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Another evidence for the occurrence of competition in nature comes from what is called 'competitive release'.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Another evidence for the occurrence of competition in nature comes from what is ...\"?",
+    "options": {
+      "A": "Natality and immigration both decrease population density.",
+      "B": "Competitive exclusion always allows two species to coexist indefinitely.",
+      "C": "Another evidence for the occurrence of competition in nature comes from what is called 'competitive release'.",
+      "D": "Carrying capacity (K) is exceeded permanently in logistic growth."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "While they do not rule out the occurrence of interspecific competition in nature, they point out that species facing competition might evolve mechanisms that promote co-existence rather than exclusion.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"While they do not rule out the occurrence of interspecific competition in nature...\"?",
+    "options": {
+      "A": "While they do not rule out the occurrence of interspecific competition in nature, they point out that species facing com...",
+      "B": "Population density is always expressed as total number only.",
+      "C": "Exponential growth curve is sigmoid when resources are unlimited.",
+      "D": "Carrying capacity (K) is exceeded permanently in logistic growth."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "For the first question in our example, the answer might be in terms of the operation of the voice box and the vibrating bone in the bird, whereas for the second question the answer may lie in the bird’s need to communicate with its mate during breeding season.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"For the first question in our example, the answer might be in terms of the opera...\"?",
+    "options": {
+      "A": "Natality and immigration both decrease population density.",
+      "B": "Carrying capacity (K) is exceeded permanently in logistic growth.",
+      "C": "Exponential growth curve is sigmoid when resources are unlimited.",
+      "D": "For the first question in our example, the answer might be in terms of the operation of the voice box and the vibrating ..."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Prey species have evolved various defenses to lessen the impact of predation.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Prey species have evolved various defenses to lessen the impact of predation....\"?",
+    "options": {
+      "A": "Competitive exclusion always allows two species to coexist indefinitely.",
+      "B": "Prey species have evolved various defenses to lessen the impact of predation.",
+      "C": "Brood parasitism benefits both host and parasite equally.",
+      "D": "Predators always eliminate prey populations completely in nature."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Although total number is generally the most appropriate measure of population density, it is in some cases either meaningless or difficult to determine.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Although total number is generally the most appropriate measure of population de...\"?",
+    "options": {
+      "A": "Age pyramids cannot indicate whether a population is growing.",
+      "B": "Exponential growth curve is sigmoid when resources are unlimited.",
+      "C": "Population density is always expressed as total number only.",
+      "D": "Although total number is generally the most appropriate measure of population density, it is in some cases either meanin..."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "If two species compete for the same resource, they could avoid competition by choosing, for instance, different times for feeding or different foraging patterns.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"If two species compete for the same resource, they could avoid competition by ch...\"?",
+    "options": {
+      "A": "Brood parasitism benefits both host and parasite equally.",
+      "B": "Age pyramids cannot indicate whether a population is growing.",
+      "C": "Predators always eliminate prey populations completely in nature.",
+      "D": "If two species compete for the same resource, they could avoid competition by choosing, for instance, different times fo..."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Total number is again not an easily adoptable measure if the population is huge and counting is impossible or very time-consuming.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Total number is again not an easily adoptable measure if the population is huge ...\"?",
+    "options": {
+      "A": "Brood parasitism benefits both host and parasite equally.",
+      "B": "Natality and immigration both decrease population density.",
+      "C": "Total number is again not an easily adoptable measure if the population is huge and counting is impossible or very time-...",
+      "D": "Competitive exclusion always allows two species to coexist indefinitely."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "It derives its nutrition from the host plant which it parasitises.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"It derives its nutrition from the host plant which it parasitises....\"?",
+    "options": {
+      "A": "Natality and immigration both decrease population density.",
+      "B": "Carrying capacity (K) is exceeded permanently in logistic growth.",
+      "C": "Exponential growth curve is sigmoid when resources are unlimited.",
+      "D": "It derives its nutrition from the host plant which it parasitises."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Ecological effects of any factors on a population are generally reflected in its size (population density), which may be expressed in different ways (numbers, biomass, per cent cover, etc.) depending on the species.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Ecological effects of any factors on a population are generally reflected in its...\"?",
+    "options": {
+      "A": "Competitive exclusion always allows two species to coexist indefinitely.",
+      "B": "Ecological effects of any factors on a population are generally reflected in its size (population density), which may be...",
+      "C": "Brood parasitism benefits both host and parasite equally.",
+      "D": "Predators always eliminate prey populations completely in nature."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "You have already learnt in previous classes that Ecology is a subject which studies the interactions among organisms and between the organism and its physical (abiotic) environment.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"You have already learnt in previous classes that Ecology is a subject which stud...\"?",
+    "options": {
+      "A": "Population density is always expressed as total number only.",
+      "B": "Age pyramids cannot indicate whether a population is growing.",
+      "C": "You have already learnt in previous classes that Ecology is a subject which studies the interactions among organisms and...",
+      "D": "Exponential growth curve is sigmoid when resources are unlimited."
+    },
+    "correct_answer": "C",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The prickly pear cactus introduced into Australia in the early 1920's caused havoc by spreading rapidly into millions of hectares of rangeland.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"The prickly pear cactus introduced into Australia in the early 1920's caused hav...\"?",
+    "options": {
+      "A": "Age pyramids cannot indicate whether a population is growing.",
+      "B": "The prickly pear cactus introduced into Australia in the early 1920's caused havoc by spreading rapidly into millions of...",
+      "C": "Brood parasitism benefits both host and parasite equally.",
+      "D": "Predators always eliminate prey populations completely in nature."
+    },
+    "correct_answer": "B",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "The fish gets protection from predators which stay away from the stinging tentacles.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"The fish gets protection from predators which stay away from the stinging tentac...\"?",
+    "options": {
+      "A": "Carrying capacity (K) is exceeded permanently in logistic growth.",
+      "B": "Exponential growth curve is sigmoid when resources are unlimited.",
+      "C": "Population density is always expressed as total number only.",
+      "D": "The fish gets protection from predators which stay away from the stinging tentacles."
+    },
+    "correct_answer": "D",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "Under a particular set of selection pressures, organisms evolve towards the most efficient reproductive strategy.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which conclusion is supported by NCERT: \"Under a particular set of selection pressures, organisms evolve towards the most...\"?",
+    "options": {
+      "A": "Under a particular set of selection pressures, organisms evolve towards the most efficient reproductive strategy.",
+      "B": "Competitive exclusion always allows two species to coexist indefinitely.",
+      "C": "Brood parasitism benefits both host and parasite equally.",
+      "D": "Natality and immigration both decrease population density."
+    },
+    "correct_answer": "A",
+    "explanation": "Derived from NCERT chapter text."
+  },
+  {
+    "source_sentence": "r-selected species produce many small offspring.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Species like oysters that produce a large number of small-sized offspring are typically:",
+    "options": {
+      "A": "r-strategists",
+      "B": "K-strategists",
+      "C": "primary producers",
+      "D": "apex predators"
+    },
+    "correct_answer": "A",
+    "explanation": "r-strategists maximise fitness through high reproductive output of small offspring."
+  },
+  {
+    "source_sentence": "K-selected species produce few large offspring.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Birds and mammals that produce a small number of large offspring exemplify:",
+    "options": {
+      "A": "r-strategists",
+      "B": "K-strategists",
+      "C": "detritivores",
+      "D": "pioneer species"
+    },
+    "correct_answer": "B",
+    "explanation": "K-strategists invest heavily in fewer, well-nurtured offspring."
+  },
+  {
+    "source_sentence": "Intrinsic rate of natural increase is denoted r.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In population ecology, the per capita growth rate under unlimited resources is called:",
+    "options": {
+      "A": "carrying capacity (K)",
+      "B": "intrinsic rate of natural increase (r)",
+      "C": "emigration rate",
+      "D": "sex ratio"
+    },
+    "correct_answer": "B",
+    "explanation": "r measures innate potential for population increase."
+  },
+  {
+    "source_sentence": "Expanding age pyramid indicates growing population.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "An age pyramid with a broad base and narrow apex typically indicates a population that is:",
+    "options": {
+      "A": "declining",
+      "B": "stable",
+      "C": "growing",
+      "D": "post-reproductive only"
+    },
+    "correct_answer": "C",
+    "explanation": "Many young individuals relative to old suggest future growth."
+  },
+  {
+    "source_sentence": "Cormorants in a wetland constitute a population.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "All cormorants inhabiting a wetland and potentially interbreeding constitute a:",
+    "options": {
+      "A": "community",
+      "B": "population",
+      "C": "biome",
+      "D": "ecosystem"
+    },
+    "correct_answer": "B",
+    "explanation": "A population is a group of conspecific individuals in a defined area."
+  },
+  {
+    "source_sentence": "Ectoparasites feed on external surface of host.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Ticks and lice feeding on the body surface of mammals are examples of:",
+    "options": {
+      "A": "ectoparasites",
+      "B": "endoparasites",
+      "C": "brood parasites",
+      "D": "commensals"
+    },
+    "correct_answer": "A",
+    "explanation": "Ectoparasites live on the external surface of the host."
+  },
+  {
+    "source_sentence": "Endoparasites live inside host body.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Tapeworms living in the intestine of vertebrates are classified as:",
+    "options": {
+      "A": "ectoparasites",
+      "B": "endoparasites",
+      "C": "predators",
+      "D": "saprotrophs"
+    },
+    "correct_answer": "B",
+    "explanation": "Endoparasites reside within the host's body."
+  },
+  {
+    "source_sentence": "Clown fish and sea anemone show mutualism.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The association between clown fish and sea anemone, where both species benefit, is:",
+    "options": {
+      "A": "mutualism",
+      "B": "parasitism",
+      "C": "competition",
+      "D": "amensalism"
+    },
+    "correct_answer": "A",
+    "explanation": "Fish gets protection; anemone may gain nutrients and cleaning."
+  },
+  {
+    "source_sentence": "Competitive exclusion principle of Gause.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "According to the competitive exclusion principle, two competing species cannot:",
+    "options": {
+      "A": "occupy identical niches indefinitely in the same habitat",
+      "B": "share a predator",
+      "C": "live in different habitats",
+      "D": "have different food preferences"
+    },
+    "correct_answer": "A",
+    "explanation": "Complete niche overlap leads to elimination of the weaker competitor."
+  },
+  {
+    "source_sentence": "Logistic growth gives sigmoid curve approaching K.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "When resources are limiting, population growth follows a sigmoid curve approaching:",
+    "options": {
+      "A": "carrying capacity (K)",
+      "B": "zero always",
+      "C": "exponential infinity",
+      "D": "natality only"
+    },
+    "correct_answer": "A",
+    "explanation": "Logistic growth slows as N approaches K."
+  },
+  {
+    "source_sentence": "Population density may be measured as biomass or per cent cover.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "For a single large banyan tree among many small weeds, a more meaningful density measure than total number is:",
+    "options": {
+      "A": "per cent cover or biomass",
+      "B": "sex ratio only",
+      "C": "emigration rate",
+      "D": "age of the tree"
+    },
+    "correct_answer": "A",
+    "explanation": "Biomass or cover better reflects ecological importance than head count."
+  }
+]

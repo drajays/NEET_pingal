@@ -1,0 +1,1419 @@
+[
+  {
+    "source_sentence": "Mendel studied 7 contrasting traits in pea for 7 years.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel's experiments used:",
+    "options": {
+      "A": "Random non-reproductive plants",
+      "B": "True-breeding pea lines with contrasting traits",
+      "C": "Only animal crosses",
+      "D": "Haploid pea only"
+    },
+    "correct_answer": "B",
+    "explanation": "True-breeding lines with 7 paired contrasting characters."
+  },
+  {
+    "source_sentence": "F1 monohybrid shows dominant phenotype only.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "In monohybrid cross Tt x Tt, F1 from Tt selfing shows F2 phenotypic ratio:",
+    "options": {
+      "A": "1:1",
+      "B": "3:1",
+      "C": "9:3:3:1",
+      "D": "1:2:1"
+    },
+    "correct_answer": "B",
+    "explanation": "Selfed heterozygote gives 3 dominant : 1 recessive phenotype."
+  },
+  {
+    "source_sentence": "F2 genotypic ratio 1:2:1 for monohybrid.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Genotypic ratio in F2 of monohybrid cross is:",
+    "options": {
+      "A": "3:1",
+      "B": "1:2:1",
+      "C": "9:3:3:1",
+      "D": "1:1:1:1"
+    },
+    "correct_answer": "B",
+    "explanation": "TT:Tt:tt = 1:2:1 genotypically."
+  },
+  {
+    "source_sentence": "Test cross: dominant phenotype x homozygous recessive.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Test cross is used to:",
+    "options": {
+      "A": "Identify genotype of dominant phenotype individual",
+      "B": "Create dihybrid always",
+      "C": "Induce mutation",
+      "D": "Determine sex"
+    },
+    "correct_answer": "A",
+    "explanation": "Cross with recessive parent reveals hidden genotype."
+  },
+  {
+    "source_sentence": "Test cross 1:1 ratio indicates heterozygous dominant.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "If test cross yields 50% dominant and 50% recessive offspring, parent was:",
+    "options": {
+      "A": "Homozygous dominant",
+      "B": "Heterozygous",
+      "C": "Haploid",
+      "D": "Triploid"
+    },
+    "correct_answer": "B",
+    "explanation": "Heterozygote gives 1:1 with recessive tester."
+  },
+  {
+    "source_sentence": "Dihybrid cross F2 ratio 9:3:3:1.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Typical dihybrid F2 phenotypic ratio is:",
+    "options": {
+      "A": "3:1",
+      "B": "9:3:3:1",
+      "C": "1:2:1",
+      "D": "1:1"
+    },
+    "correct_answer": "B",
+    "explanation": "Independent assortment of two genes → 9:3:3:1."
+  },
+  {
+    "source_sentence": "Law of independent assortment for two gene pairs.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Independent assortment means:",
+    "options": {
+      "A": "Genes on same chromosome never separate",
+      "B": "Segregation of one gene pair independent of another in dihybrid",
+      "C": "No segregation occurs",
+      "D": "Only mitochondrial inheritance"
+    },
+    "correct_answer": "B",
+    "explanation": "Mendel's II law: gene pairs assort independently during gamete formation."
+  },
+  {
+    "source_sentence": "Incomplete dominance: snapdragon pink F1.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Snapdragon Rr shows pink flowers because of:",
+    "options": {
+      "A": "Codominance of blood groups",
+      "B": "Incomplete dominance",
+      "C": "Linkage",
+      "D": "Sex linkage only"
+    },
+    "correct_answer": "B",
+    "explanation": "RR red, rr white, Rr pink—incomplete dominance."
+  },
+  {
+    "source_sentence": "Codominance: IA IB both expressed in AB blood group.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "AB blood group illustrates:",
+    "options": {
+      "A": "Incomplete dominance only",
+      "B": "Codominance",
+      "C": "Recessive epistasis",
+      "D": "Pleiotropy only"
+    },
+    "correct_answer": "B",
+    "explanation": "Both IA and IB expressed on RBC surface."
+  },
+  {
+    "source_sentence": "Multiple alleles: three I alleles in ABO.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "ABO blood group has how many alleles in population?",
+    "options": {
+      "A": "Two only",
+      "B": "Three (IA, IB, i)",
+      "C": "Four on Y chromosome",
+      "D": "One"
+    },
+    "correct_answer": "B",
+    "explanation": "Three alleles; individual carries two."
+  },
+  {
+    "source_sentence": "Morgan used Drosophila for linkage studies.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Thomas Hunt Morgan's work established:",
+    "options": {
+      "A": "DNA double helix",
+      "B": "Linkage and recombination on chromosomes",
+      "C": "Only mitochondrial DNA",
+      "D": "Apomixis"
+    },
+    "correct_answer": "B",
+    "explanation": "Morgan showed genes linked on same chromosome."
+  },
+  {
+    "source_sentence": "Recombination frequency maps gene distance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Higher recombination frequency between two genes indicates:",
+    "options": {
+      "A": "They are very close on chromosome",
+      "B": "They are farther apart / less tightly linked",
+      "C": "They are on different organisms",
+      "D": "No crossing over ever"
+    },
+    "correct_answer": "B",
+    "explanation": "More crossovers = greater map distance."
+  },
+  {
+    "source_sentence": "XY sex determination in humans.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Human male has chromosomal constitution:",
+    "options": {
+      "A": "XX",
+      "B": "XY",
+      "C": "XO only",
+      "D": "ZW"
+    },
+    "correct_answer": "B",
+    "explanation": "Male XY; female XX."
+  },
+  {
+    "source_sentence": "XO type in grasshopper; male XO female XX.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Grasshopper males are:",
+    "options": {
+      "A": "XY",
+      "B": "XO",
+      "C": "ZW",
+      "D": "YY"
+    },
+    "correct_answer": "B",
+    "explanation": "XO-XX mechanism: male XO, female XX."
+  },
+  {
+    "source_sentence": "ZW in birds: male ZZ female ZW.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "In birds, females typically have:",
+    "options": {
+      "A": "XY",
+      "B": "ZW",
+      "C": "XO",
+      "D": "XX only in males"
+    },
+    "correct_answer": "B",
+    "explanation": "ZW system: female ZW, male ZZ."
+  },
+  {
+    "source_sentence": "Honey bee haplodiploidy: male haploid from unfertilised egg.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Male honey bees develop from:",
+    "options": {
+      "A": "Fertilised eggs (diploid)",
+      "B": "Unfertilised eggs (haploid)",
+      "C": "Only queens nutritionally",
+      "D": "Somatic cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Haplodiploidy: males haploid (unfertilised), females diploid."
+  },
+  {
+    "source_sentence": "Down syndrome trisomy 21.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Down syndrome is caused by:",
+    "options": {
+      "A": "Monosomy X",
+      "B": "Trisomy of chromosome 21",
+      "C": "Deletion only",
+      "D": "Haplodiploidy"
+    },
+    "correct_answer": "B",
+    "explanation": "Extra chromosome 21 → Down syndrome."
+  },
+  {
+    "source_sentence": "Turner syndrome XO females.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Turner syndrome karyotype is:",
+    "options": {
+      "A": "XXY",
+      "B": "XO",
+      "C": "XYY",
+      "D": "XXYY"
+    },
+    "correct_answer": "B",
+    "explanation": "45,X — monosomy X in females."
+  },
+  {
+    "source_sentence": "Klinefelter XXY males.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Klinefelter syndrome has karyotype:",
+    "options": {
+      "A": "XO",
+      "B": "XXY",
+      "C": "XY only",
+      "D": "XXX"
+    },
+    "correct_answer": "B",
+    "explanation": "47,XXY male phenotype."
+  },
+  {
+    "source_sentence": "Sickle cell anemia point mutation in beta globin.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Sickle cell anaemia is:",
+    "options": {
+      "A": "Chromosomal aneuploidy",
+      "B": "Point mutation in beta globin chain",
+      "C": "Only infectious",
+      "D": "Codominant blood group"
+    },
+    "correct_answer": "B",
+    "explanation": "Single base change → HbS."
+  },
+  {
+    "source_sentence": "Law of segregation.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): Alleles segregate during gamete formation. Reason (R): Each gamete receives one allele of a pair. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R states segregation mechanism."
+  },
+  {
+    "source_sentence": "Test cross purpose.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): Test cross determines genotype. Reason (R): Recessive parent contributes only recessive gametes revealing hidden alleles. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains diagnostic logic."
+  },
+  {
+    "source_sentence": "Linkage reduces recombinants.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): Linked genes stay together more often. Reason (R): Physical proximity on same chromosome reduces crossing over between them. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains reduced recombination."
+  },
+  {
+    "source_sentence": "Honey bee males haploid.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): Drone bees are haploid. Reason (R): They develop from unfertilised eggs by parthenogenesis. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains haplodiploidy."
+  },
+  {
+    "source_sentence": "9:3:3:1 ratio.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): Dihybrid F2 shows 9:3:3:1. Reason (R): It derives from (3:1)(3:1) product rule under independent assortment. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains ratio origin."
+  },
+  {
+    "source_sentence": "Trap Mendel ratios.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Mendelian F2 ratios, which statement is INCORRECT?",
+    "options": {
+      "A": "Monohybrid F2 phenotype 3:1",
+      "B": "Monohybrid F2 genotype 1:2:1",
+      "C": "Dihybrid F2 always 1:1:1:1 phenotype",
+      "D": "Test cross can detect heterozygote"
+    },
+    "correct_answer": "C",
+    "explanation": "Dihybrid F2 is 9:3:3:1 not 1:1:1:1 phenotypically."
+  },
+  {
+    "source_sentence": "Trap dominance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "About dominance in Mendelian genetics, which statement is INCORRECT?",
+    "options": {
+      "A": "Dominance depends on gene product and phenotype examined",
+      "B": "T always means tall and d dwarf in any gene",
+      "C": "Recessive allele may produce non-functional enzyme",
+      "D": "Incomplete dominance gives intermediate phenotype"
+    },
+    "correct_answer": "B",
+    "explanation": "Use same letter case for alleles of one gene—not T/d mix."
+  },
+  {
+    "source_sentence": "Trap sex determination.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Concerning chromosomal sex determination, which statement is INCORRECT?",
+    "options": {
+      "A": "Human female is XX",
+      "B": "Bird female is ZW",
+      "C": "Grasshopper male is XY",
+      "D": "Honey bee male is haploid"
+    },
+    "correct_answer": "C",
+    "explanation": "Grasshopper male is XO not XY."
+  },
+  {
+    "source_sentence": "Trap linkage.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "About linkage and recombination, which statement is INCORRECT?",
+    "options": {
+      "A": "Linked genes on same chromosome",
+      "B": "All genes assort independently always",
+      "C": "Recombination due to crossing over",
+      "D": "Morgan studied Drosophila"
+    },
+    "correct_answer": "B",
+    "explanation": "Linked genes do NOT assort independently."
+  },
+  {
+    "source_sentence": "Trap blood groups.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding ABO blood group inheritance, which statement is INCORRECT?",
+    "options": {
+      "A": "IA IB are codominant",
+      "B": "i is recessive to IA and IB",
+      "C": "AB genotype has phenotype O",
+      "D": "Multiple alleles exist in population"
+    },
+    "correct_answer": "C",
+    "explanation": "IA IB → AB phenotype not O."
+  },
+  {
+    "source_sentence": "Calculation: Monohybrid Aa x Aa.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "What fraction of F2 is homozygous recessive?",
+    "options": {
+      "A": "1/4",
+      "B": "1/4",
+      "C": "1/2",
+      "D": "3/4"
+    },
+    "correct_answer": "A",
+    "explanation": "aa = 1/4 in 1:2:1 genotype."
+  },
+  {
+    "source_sentence": "Calculation: Test cross Aa x aa.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Fraction showing recessive phenotype?",
+    "options": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "1/3",
+      "D": "Zero"
+    },
+    "correct_answer": "A",
+    "explanation": "Aa x aa → 50% aa."
+  },
+  {
+    "source_sentence": "Calculation: Dihybrid YyRr self.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Fraction Y_R_ (both dominant)?",
+    "options": {
+      "A": "9/16",
+      "B": "3/16",
+      "C": "1/16",
+      "D": "4/16"
+    },
+    "correct_answer": "A",
+    "explanation": "9/16 in 9:3:3:1."
+  },
+  {
+    "source_sentence": "Calculation: Dihybrid YyRr self.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Fraction yyrr double recessive?",
+    "options": {
+      "A": "1/16",
+      "B": "9/16",
+      "C": "3/16",
+      "D": "4/16"
+    },
+    "correct_answer": "A",
+    "explanation": "1/16 double homozygous recessive."
+  },
+  {
+    "source_sentence": "Calculation: Incomplete dominance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Snapdragon Rr self: pink proportion?",
+    "options": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "3/4",
+      "D": "Zero"
+    },
+    "correct_answer": "A",
+    "explanation": "1 RR : 2 Rr : 1 rr → half pink."
+  },
+  {
+    "source_sentence": "Calculation: ABO IA i x IB i.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Chance of child with ii (O)?",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "Zero",
+      "D": "3/4"
+    },
+    "correct_answer": "A",
+    "explanation": "Cross gives 1/4 ii from Punnett."
+  },
+  {
+    "source_sentence": "Calculation: Linked genes 12% recombination.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Percent parental type gametes?",
+    "options": {
+      "A": "88%",
+      "B": "12%",
+      "C": "50%",
+      "D": "100%"
+    },
+    "correct_answer": "A",
+    "explanation": "Parental = 100% - recombinant %."
+  },
+  {
+    "source_sentence": "Mendel trait: Stem height.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel studied contrasting trait pair for Stem height:",
+    "options": {
+      "A": "Tall/dwarf",
+      "B": "Red/blue wings",
+      "C": "Blood group only",
+      "D": "XY/ZW"
+    },
+    "correct_answer": "A",
+    "explanation": "Stem height: Tall/dwarf; alleles like T/t."
+  },
+  {
+    "source_sentence": "Mendel trait: Flower colour.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel studied contrasting trait pair for Flower colour:",
+    "options": {
+      "A": "Violet/white",
+      "B": "Red/blue wings",
+      "C": "Blood group only",
+      "D": "XY/ZW"
+    },
+    "correct_answer": "A",
+    "explanation": "Flower colour: Violet/white; alleles like V/v."
+  },
+  {
+    "source_sentence": "Mendel trait: Flower position.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel studied contrasting trait pair for Flower position:",
+    "options": {
+      "A": "Axial/terminal",
+      "B": "Red/blue wings",
+      "C": "Blood group only",
+      "D": "XY/ZW"
+    },
+    "correct_answer": "A",
+    "explanation": "Flower position: Axial/terminal; alleles like A/a."
+  },
+  {
+    "source_sentence": "Mendel trait: Pod shape.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel studied contrasting trait pair for Pod shape:",
+    "options": {
+      "A": "Inflated/constricted",
+      "B": "Red/blue wings",
+      "C": "Blood group only",
+      "D": "XY/ZW"
+    },
+    "correct_answer": "A",
+    "explanation": "Pod shape: Inflated/constricted; alleles like I/i."
+  },
+  {
+    "source_sentence": "Mendel trait: Pod colour.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel studied contrasting trait pair for Pod colour:",
+    "options": {
+      "A": "Green/yellow",
+      "B": "Red/blue wings",
+      "C": "Blood group only",
+      "D": "XY/ZW"
+    },
+    "correct_answer": "A",
+    "explanation": "Pod colour: Green/yellow; alleles like G/g."
+  },
+  {
+    "source_sentence": "Mendel trait: Seed shape.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel studied contrasting trait pair for Seed shape:",
+    "options": {
+      "A": "Round/wrinkled",
+      "B": "Red/blue wings",
+      "C": "Blood group only",
+      "D": "XY/ZW"
+    },
+    "correct_answer": "A",
+    "explanation": "Seed shape: Round/wrinkled; alleles like R/r."
+  },
+  {
+    "source_sentence": "Mendel trait: Seed colour.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Mendel studied contrasting trait pair for Seed colour:",
+    "options": {
+      "A": "Yellow/green",
+      "B": "Red/blue wings",
+      "C": "Blood group only",
+      "D": "XY/ZW"
+    },
+    "correct_answer": "A",
+    "explanation": "Seed colour: Yellow/green; alleles like Y/y."
+  },
+  {
+    "source_sentence": "Genetic disorder: Down syndrome.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Down syndrome (Q1):",
+    "options": {
+      "A": "trisomy 21",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "47 chromosomes"
+  },
+  {
+    "source_sentence": "Genetic disorder: Turner.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Turner (Q2):",
+    "options": {
+      "A": "XO female",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "45,X"
+  },
+  {
+    "source_sentence": "Genetic disorder: Klinefelter.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Klinefelter (Q3):",
+    "options": {
+      "A": "XXY male",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "47,XXY"
+  },
+  {
+    "source_sentence": "Genetic disorder: Phenylketonuria.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Phenylketonuria (Q4):",
+    "options": {
+      "A": "autosomal recessive",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "metabolic disorder"
+  },
+  {
+    "source_sentence": "Genetic disorder: Thalassemia.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Thalassemia (Q5):",
+    "options": {
+      "A": "autosomal recessive",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "alpha/beta chain defect"
+  },
+  {
+    "source_sentence": "Genetic disorder: Haemophilia.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Haemophilia (Q6):",
+    "options": {
+      "A": "X-linked recessive",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "males more affected"
+  },
+  {
+    "source_sentence": "Genetic disorder: Colour blindness.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Colour blindness (Q7):",
+    "options": {
+      "A": "X-linked recessive",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "common in males"
+  },
+  {
+    "source_sentence": "Genetic disorder: Sickle cell.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Sickle cell (Q8):",
+    "options": {
+      "A": "point mutation",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "HbS glutamic acid to valine"
+  },
+  {
+    "source_sentence": "Genetic disorder: Mendelian disorder.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Mendelian disorder (Q9):",
+    "options": {
+      "A": "follows Mendel ratios",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "single gene"
+  },
+  {
+    "source_sentence": "Genetic disorder: Chromosomal disorder.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Regarding Chromosomal disorder (Q10):",
+    "options": {
+      "A": "aneuploidy/structural",
+      "B": "Caused by pollination failure",
+      "C": "Always dominant lethal in embryo",
+      "D": "Not inherited"
+    },
+    "correct_answer": "A",
+    "explanation": "many genes affected"
+  },
+  {
+    "source_sentence": "Morgan linkage: White eye mutation.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Select correct statement about White eye mutation (set 1):",
+    "options": {
+      "A": "sex-linked in Drosophila",
+      "B": "Unrelated to chromosomes",
+      "C": "Disproves Mendel entirely",
+      "D": "Only in pea plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Morgan's classic trait"
+  },
+  {
+    "source_sentence": "Morgan linkage: Linkage group.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Select correct statement about Linkage group (set 2):",
+    "options": {
+      "A": "genes on same chromosome",
+      "B": "Unrelated to chromosomes",
+      "C": "Disproves Mendel entirely",
+      "D": "Only in pea plants"
+    },
+    "correct_answer": "A",
+    "explanation": "violate independent assortment"
+  },
+  {
+    "source_sentence": "Morgan linkage: Crossing over.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Select correct statement about Crossing over (set 3):",
+    "options": {
+      "A": "exchange between non-sister chromatids",
+      "B": "Unrelated to chromosomes",
+      "C": "Disproves Mendel entirely",
+      "D": "Only in pea plants"
+    },
+    "correct_answer": "A",
+    "explanation": "produces recombinants"
+  },
+  {
+    "source_sentence": "Morgan linkage: Map unit (cM).",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Select correct statement about Map unit (cM) (set 4):",
+    "options": {
+      "A": "1% recombination",
+      "B": "Unrelated to chromosomes",
+      "C": "Disproves Mendel entirely",
+      "D": "Only in pea plants"
+    },
+    "correct_answer": "A",
+    "explanation": "centiMorgan"
+  },
+  {
+    "source_sentence": "Morgan linkage: Coupling vs repulsion.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Select correct statement about Coupling vs repulsion (set 5):",
+    "options": {
+      "A": "cis/trans configuration",
+      "B": "Unrelated to chromosomes",
+      "C": "Disproves Mendel entirely",
+      "D": "Only in pea plants"
+    },
+    "correct_answer": "A",
+    "explanation": "affects gamete types"
+  },
+  {
+    "source_sentence": "Morgan linkage: Sturtevant.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Select correct statement about Sturtevant (set 6):",
+    "options": {
+      "A": "genetic maps from recombination",
+      "B": "Unrelated to chromosomes",
+      "C": "Disproves Mendel entirely",
+      "D": "Only in pea plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Morgan's student"
+  },
+  {
+    "source_sentence": "Sex determination in Human.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Human (variant 1):",
+    "options": {
+      "A": "XX female XY male",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "XY system"
+  },
+  {
+    "source_sentence": "Sex determination in Drosophila.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Drosophila (variant 2):",
+    "options": {
+      "A": "XX female XY male",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "like humans"
+  },
+  {
+    "source_sentence": "Sex determination in Grasshopper.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Grasshopper (variant 3):",
+    "options": {
+      "A": "XX female XO male",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "XO system"
+  },
+  {
+    "source_sentence": "Sex determination in Birds.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Birds (variant 4):",
+    "options": {
+      "A": "ZW female ZZ male",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "ZW system"
+  },
+  {
+    "source_sentence": "Sex determination in Honey bee queen.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Honey bee queen (variant 5):",
+    "options": {
+      "A": "diploid from fertilised egg",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "female fertile"
+  },
+  {
+    "source_sentence": "Sex determination in Honey bee worker.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Honey bee worker (variant 6):",
+    "options": {
+      "A": "diploid female sterile usually",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "nutrition determines caste"
+  },
+  {
+    "source_sentence": "Sex determination in Honey bee drone.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Honey bee drone (variant 7):",
+    "options": {
+      "A": "haploid male",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "from unfertilised egg"
+  },
+  {
+    "source_sentence": "Sex determination in Haplodiploidy.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Correct for Haplodiploidy (variant 8):",
+    "options": {
+      "A": "males haploid females diploid",
+      "B": "Always ZW in all animals",
+      "C": "No chromosomal basis",
+      "D": "Male always XX"
+    },
+    "correct_answer": "A",
+    "explanation": "social Hymenoptera"
+  },
+  {
+    "source_sentence": "Application: Round yellow x wrinkled green F1 all round yellow.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "F1 genotype:",
+    "options": {
+      "A": "RrYy",
+      "B": "RRYY",
+      "C": "rryy",
+      "D": "Rryy only"
+    },
+    "correct_answer": "A",
+    "explanation": "Dominant traits in F1 → heterozygous dihybrid."
+  },
+  {
+    "source_sentence": "Application: Self RrYy. How many phenotypic classes?",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Number:",
+    "options": {
+      "A": "4",
+      "B": "9",
+      "C": "16 genotypic only",
+      "D": "1"
+    },
+    "correct_answer": "A",
+    "explanation": "Four phenotypes in 9:3:3:1."
+  },
+  {
+    "source_sentence": "Application: Homozygous dominant test cross all dominant.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Parent genotype was:",
+    "options": {
+      "A": "AA",
+      "B": "Aa",
+      "C": "aa",
+      "D": "Cannot tell"
+    },
+    "correct_answer": "A",
+    "explanation": "No recessive offspring → homozygous dominant."
+  },
+  {
+    "source_sentence": "Application: Pink snapdragon Rr self. Red:white:pink ratio?",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Phenotype ratio:",
+    "options": {
+      "A": "1:2:1",
+      "B": "3:1",
+      "C": "9:3:3:1",
+      "D": "1:1"
+    },
+    "correct_answer": "A",
+    "explanation": "Incomplete dominance 1 red:2 pink:1 white."
+  },
+  {
+    "source_sentence": "Application: Father A (IAIA) mother B (IBIB). Child blood group?",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Possible:",
+    "options": {
+      "A": "AB only",
+      "B": "O only",
+      "C": "A only",
+      "D": "B only"
+    },
+    "correct_answer": "A",
+    "explanation": "IA IB → AB offspring."
+  },
+  {
+    "source_sentence": "Application: Carrier heterozygous for recessive disease crosses normal.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Affected offspring probability:",
+    "options": {
+      "A": "0%",
+      "B": "25%",
+      "C": "50%",
+      "D": "100%"
+    },
+    "correct_answer": "A",
+    "explanation": "Aa x AA → no aa affected if normal is homozygous dominant."
+  },
+  {
+    "source_sentence": "Application: Two genes 50 cM apart.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Recombination frequency:",
+    "options": {
+      "A": "50%",
+      "B": "5%",
+      "C": "0%",
+      "D": "100% always parental"
+    },
+    "correct_answer": "A",
+    "explanation": "Map distance equals recombination percentage."
+  },
+  {
+    "source_sentence": "Incomplete dominance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): Snapdragon F1 is pink. Reason (R): Neither allele is completely dominant over the other. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains intermediate phenotype."
+  },
+  {
+    "source_sentence": "Multiple alleles.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): ABO has three alleles. Reason (R): An individual can have only two of these alleles. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains diploid limitation."
+  },
+  {
+    "source_sentence": "X-linked recessive.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Assertion (A): Haemophilia more common in males. Reason (R): Males have single X so one recessive allele expresses. Choose the correct option:",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "explanation": "Both true; R explains male prevalence."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 1.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 1)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 2.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 2)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 3.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 3)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 4.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 4)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 5.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 5)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 6.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 6)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 7.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 7)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 8.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 8)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 9.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 9)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 10.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 10)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 11.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 11)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 12.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 12)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 13.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 13)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 14.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 14)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 15.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 15)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 16.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 16)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 17.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 17)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 18.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 18)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 19.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 19)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 20.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 20)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 21.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 21)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 22.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 22)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 23.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 23)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 24.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 24)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 25.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 25)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 26.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 26)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 27.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 27)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 28.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 28)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 29.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 29)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Mendelian genetics concept set 30.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "Which follows Mendel's law of segregation (item 30)?",
+    "options": {
+      "A": "Allele pairs separate during gamete formation",
+      "B": "All genes on one chromosome always linked",
+      "C": "Environment determines allele identity",
+      "D": "Gametes are always diploid"
+    },
+    "correct_answer": "A",
+    "explanation": "Segregation: one allele per gamete."
+  },
+  {
+    "source_sentence": "Trap: Genotype vs phenotype.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation",
+    "question": "About Genotype vs phenotype, which statement is INCORRECT?",
+    "options": {
+      "A": "Dominant heterozygote looks like homozygote",
+      "B": "Phenotype always equals genotype visually",
+      "C": "Dominant heterozygote looks like homozygote",
+      "D": "Dominant heterozygote looks like homozygote"
+    },
+    "correct_answer": "B",
+    "explanation": "Correct: Dominant heterozygote looks like homozygote."
+  }
+]
