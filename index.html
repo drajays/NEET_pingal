@@ -225,13 +225,11 @@
               </div>
             </fieldset>
             <div class="meta-grid">
-              <label>Subject <input id="fSubject" type="text" list="subjectList" value="Biology" required /></label>
-              <label>Chapter <input id="fTopic" type="text" list="topicList" required /></label>
+              <label>Subject <select id="fSubject" required></select></label>
+              <label>Chapter <select id="fTopic" required></select></label>
               <label>Section <input id="fSubtopic" type="text" list="subtopicList" placeholder="Level I, Level II, Previous Years NEET..." /></label>
               <label>Tags <input id="fTags" type="text" /></label>
             </div>
-            <datalist id="subjectList"></datalist>
-            <datalist id="topicList"></datalist>
             <datalist id="subtopicList"></datalist>
             <div class="button-row">
               <button class="primary-btn" type="submit">Save</button>

@@ -56,7 +56,7 @@ const state = {
     selectedOption: null
   },
   bankSearch: '',
-  bankVisibleCount: 60,
+  bankVisibleCount: 25,
   bankRevealMode: (() => { try { return localStorage.getItem('neet-bank-reveal') || 'open'; } catch { return 'open'; } })(),
   search: { query: '', results: [], total: 0, activeIndex: 0, parsed: null },
   editingId: null,
@@ -125,8 +125,6 @@ const el = {
   fTopic: document.getElementById('fTopic'),
   fSubtopic: document.getElementById('fSubtopic'),
   fTags: document.getElementById('fTags'),
-  subjectList: document.getElementById('subjectList'),
-  topicList: document.getElementById('topicList'),
   subtopicList: document.getElementById('subtopicList'),
   cancelEditBtn: document.getElementById('cancelEditBtn'),
   bankSummary: document.getElementById('bankSummary'),
@@ -2265,10 +2263,21 @@ function renderChipGroup(container, values, selectedSet, groupKey) {
   }).join('');
 }
 
+// Build <option> markup for a select. Keeps the current value selectable even
+// if it isn't in the known list, and supports an optional leading placeholder.
+function optionTags(values, selected = '', placeholder = '') {
+  const list = selected && !values.includes(selected) ? [selected, ...values] : values;
+  const head = placeholder ? `<option value="">${escapeHtml(placeholder)}</option>` : '';
+  return head + list
+    .map(v => `<option value="${escapeHtml(v)}"${v === selected ? ' selected' : ''}>${escapeHtml(v)}</option>`)
+    .join('');
+}
+
 function updateDatalists() {
   const taxonomy = getTaxonomy();
-  el.subjectList.innerHTML = taxonomy.subjects.map(v => `<option value="${escapeHtml(v)}">`).join('');
-  el.topicList.innerHTML = taxonomy.topics.map(v => `<option value="${escapeHtml(v)}">`).join('');
+  const subjects = taxonomy.subjects.length ? taxonomy.subjects : ['Biology'];
+  el.fSubject.innerHTML = optionTags(subjects, el.fSubject.value || 'Biology');
+  el.fTopic.innerHTML = optionTags(taxonomy.topics, el.fTopic.value, 'Select chapter…');
   el.subtopicList.innerHTML = taxonomy.subtopics.map(v => `<option value="${escapeHtml(v)}">`).join('');
 }
 
@@ -2311,6 +2320,8 @@ function updateBankFilterUI() {
 
 function renderBankEditForm(q) {
   const letters = ['A', 'B', 'C', 'D'];
+  const taxonomy = getTaxonomy();
+  const subjects = taxonomy.subjects.length ? taxonomy.subjects : ['Biology'];
   return `
     <form class="inline-edit-form" data-edit-id="${q.id}">
       <label class="full-width">
@@ -2339,9 +2350,9 @@ function renderBankEditForm(q) {
       ${renderImageUploadFields(q.questionImage, q.explanationImage)}
       ${renderWhyWrongFieldsHtml(q.whyWrong, true)}
       <div class="inline-meta-grid">
-        <label>Subject <input type="text" name="subject" list="subjectList" value="${escapeHtml(q.subject)}" required /></label>
-        <label>Topic <input type="text" name="topic" list="topicList" value="${escapeHtml(q.topic)}" required /></label>
-        <label>Subtopic <input type="text" name="subtopic" list="subtopicList" value="${escapeHtml(q.subtopic)}" /></label>
+        <label>Subject <select name="subject" required>${optionTags(subjects, q.subject)}</select></label>
+        <label>Chapter <select name="topic" required>${optionTags(taxonomy.topics, q.topic, 'Select chapter…')}</select></label>
+        <label>Section <input type="text" name="subtopic" list="subtopicList" value="${escapeHtml(q.subtopic)}" placeholder="Level I, Level II…" /></label>
         <label>Tags <input type="text" name="tags" value="${escapeHtml(q.tags.join(', '))}" placeholder="Comma separated" /></label>
       </div>
       <div class="bank-actions">
@@ -2443,7 +2454,7 @@ function renderBank() {
   applyBankRevealMode();
 }
 
-const BANK_PAGE_SIZE = 60;
+const BANK_PAGE_SIZE = 25;
 let bankScrollObserver = null;
 
 // Auto-load the next page when the "Load more" sentinel nears the viewport,
