@@ -751,7 +751,26 @@ def parse_questions_block(chapter: str, block: str) -> Tuple[List[RawQuestion], 
 
 
 def lookup_answer(raw: RawQuestion, answers_by_section: Dict[str, Dict[int, str]]) -> Optional[str]:
-    return answers_by_section.get(raw.section, {}).get(raw.number)
+    # Direct hit in the question's own section table.
+    direct = answers_by_section.get(raw.section, {}).get(raw.number)
+    if direct:
+        return direct
+    # Fallback: Assertion-Reason (and some other) questions are numbered
+    # continuously with the chapter's master "practice" answer key, so their
+    # answers live there even though they were tagged a different section.
+    practice = answers_by_section.get("practice", {})
+    if raw.number in practice:
+        return practice[raw.number]
+    # Last resort: the number appears in exactly one section table.
+    hits = {
+        answer
+        for table in answers_by_section.values()
+        for number, answer in table.items()
+        if number == raw.number
+    }
+    if len(hits) == 1:
+        return next(iter(hits))
+    return None
 
 
 def finalize_question(
