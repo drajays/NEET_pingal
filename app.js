@@ -56,6 +56,7 @@ const state = {
     selectedOption: null
   },
   bankSearch: '',
+  bankReviewedOnly: false,
   bankVisibleCount: 25,
   bankRevealMode: (() => { try { return localStorage.getItem('neet-bank-reveal') || 'open'; } catch { return 'open'; } })(),
   search: { query: '', results: [], total: 0, activeIndex: 0, parsed: null },
@@ -132,6 +133,7 @@ const el = {
   bankStorageStatus: document.getElementById('bankStorageStatus'),
   bankSearch: document.getElementById('bankSearch'),
   bankRevealToggle: document.getElementById('bankRevealToggle'),
+  bankReviewedToggle: document.getElementById('bankReviewedToggle'),
   bankExportJsonBtn: document.getElementById('bankExportJsonBtn'),
   bankExportCsvBtn: document.getElementById('bankExportCsvBtn'),
   bankFilterSubjects: document.getElementById('bankFilterSubjects'),
@@ -2032,6 +2034,8 @@ function normaliseQuestion(raw) {
     topic: clean(raw.topic) || 'General',
     subtopic: clean(raw.subtopic || raw.chapter) || '',
     tags: parseTags(raw.tags),
+    reviewed: Boolean(raw.reviewed),
+    reviewedAt: raw.reviewedAt || raw.reviewed_at || null,
     createdAt: raw.createdAt || raw.created_at || Date.now(),
     updatedAt: raw.updatedAt || raw.updated_at || raw.createdAt || raw.created_at || Date.now()
   };
@@ -2063,6 +2067,8 @@ function toExportQuestion(raw) {
     topic: question.topic,
     subtopic: question.subtopic,
     tags: sanitizeTagsForExport(question.tags),
+    reviewed: question.reviewed,
+    reviewedAt: question.reviewedAt,
     createdAt: question.createdAt,
     updatedAt: question.updatedAt
   };
@@ -2231,7 +2237,8 @@ function getPracticePool(filters = state.selectedFilters) {
 }
 
 function getBankFilteredQuestions() {
-  const filtered = getFilteredQuestions(state.bankFilters);
+  let filtered = getFilteredQuestions(state.bankFilters);
+  if (state.bankReviewedOnly) filtered = filtered.filter(q => q.reviewed);
   const query = (state.bankSearch || '').trim();
   if (!query) return filtered;
   const { results } = NeetSearch.searchQuestions(filtered, query, { limit: filtered.length });
@@ -2410,8 +2417,9 @@ function renderBankCard(q) {
   }
 
   return `
-    <article class="bank-card" data-id="${q.id}">
+    <article class="bank-card${q.reviewed ? ' reviewed' : ''}" data-id="${q.id}">
       <div class="mcq-meta">
+        ${q.reviewed ? '<span class="badge reviewed-badge">✓ Reviewed</span>' : ''}
         <button type="button" class="badge clickable filter-badge" data-group="subjects" data-value="${escapeHtml(q.subject)}">${escapeHtml(q.subject)}</button>
         <button type="button" class="badge green clickable filter-badge" data-group="topics" data-value="${escapeHtml(q.topic)}">${escapeHtml(q.topic)}</button>
         ${q.subtopic ? `<button type="button" class="badge clickable filter-badge" data-group="subtopics" data-value="${escapeHtml(q.subtopic)}">${escapeHtml(q.subtopic)}</button>` : ''}
@@ -2434,6 +2442,7 @@ function renderBankCard(q) {
       </div>
       ${isAdmin() ? `
       <div class="bank-actions">
+        <button type="button" class="small review-btn ${q.reviewed ? 'primary-btn' : 'secondary-btn'}" data-id="${q.id}">${q.reviewed ? '✓ Reviewed' : 'Mark reviewed'}</button>
         <button type="button" class="secondary-btn small edit-btn" data-id="${q.id}">Edit</button>
         <button type="button" class="danger-btn small delete-btn" data-id="${q.id}">Delete</button>
       </div>` : ''}
@@ -2446,7 +2455,8 @@ function renderBank() {
   const filterActive = Object.values(state.bankFilters).some(set => set.size > 0);
   const filterNote = filterActive ? ' (filtered)' : '';
 
-  el.bankSummary.textContent = `${state.questions.length} total · showing ${filtered.length}${filterNote}`;
+  const reviewedCount = state.questions.reduce((n, q) => n + (q.reviewed ? 1 : 0), 0);
+  el.bankSummary.textContent = `${state.questions.length} total · ${reviewedCount} reviewed · showing ${filtered.length}${filterNote}`;
 
   if (!state.questions.length) {
     el.bankList.className = 'bank-list empty-state';
@@ -2610,7 +2620,13 @@ function upsertQuestion(data) {
   const existingIndex = state.questions.findIndex(q => q.id === question.id);
   question.updatedAt = Date.now();
   if (existingIndex >= 0) {
-    question.createdAt = state.questions[existingIndex].createdAt;
+    const prev = state.questions[existingIndex];
+    question.createdAt = prev.createdAt;
+    // Edits keep the existing review status unless explicitly changed.
+    if (data.reviewed === undefined) {
+      question.reviewed = prev.reviewed;
+      question.reviewedAt = prev.reviewedAt;
+    }
     state.questions[existingIndex] = question;
   } else {
     state.questions.unshift(question);
@@ -2620,6 +2636,19 @@ function upsertQuestion(data) {
   pushBankToGitHub({ silent: false });
   refreshUI();
   return true;
+}
+
+function toggleReviewed(id) {
+  if (!requireAdmin('mark questions reviewed')) return;
+  const q = state.questions.find(item => item.id === id);
+  if (!q) return;
+  q.reviewed = !q.reviewed;
+  q.reviewedAt = q.reviewed ? Date.now() : null;
+  q.updatedAt = Date.now();
+  saveQuestions();
+  pushBankToGitHub({ silent: true });
+  renderBank();
+  showToast(q.reviewed ? 'Marked as reviewed ✓' : 'Review mark removed');
 }
 
 async function deleteQuestion(id) {
@@ -3285,7 +3314,13 @@ function bindEvents() {
     const cancelBtn = event.target.closest('.cancel-inline-btn');
     const removeImageBtn = event.target.closest('.remove-image-btn');
     const showAnswerBtn = event.target.closest('.show-answer-btn');
+    const reviewBtn = event.target.closest('.review-btn');
     const loadMoreBtn = event.target.closest('#bankLoadMoreBtn');
+
+    if (reviewBtn) {
+      toggleReviewed(reviewBtn.dataset.id);
+      return;
+    }
 
     if (loadMoreBtn) {
       state.bankVisibleCount += BANK_PAGE_SIZE;
@@ -3346,6 +3381,14 @@ function bindEvents() {
         if (btn) btn.textContent = 'Show answer & explanation';
       });
       applyBankRevealMode();
+    });
+  }
+  if (el.bankReviewedToggle) {
+    el.bankReviewedToggle.addEventListener('click', () => {
+      state.bankReviewedOnly = !state.bankReviewedOnly;
+      el.bankReviewedToggle.classList.toggle('active', state.bankReviewedOnly);
+      resetBankView();
+      renderBank();
     });
   }
   el.resetAllBtn.addEventListener('click', resetAllData);
