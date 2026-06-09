@@ -173,6 +173,242 @@
           "html": "<p>Taxonomic studies of plants, animals and other organisms are useful in <strong>agriculture, forestry, industry</strong> and in knowing our <strong>bio-resources and their diversity</strong> — helping us identify useful and harmful organisms (but <strong>not</strong> fields such as astrology). The basics of taxonomy — identification, naming and classification — are universally governed by <strong>international codes</strong>, and every organism, by the binomial system, gets a two-word scientific name and occupies a definite <strong>position in the classification system</strong>. Despite ~1.7–1.8 million described organisms, a large number still remain unknown.</p>"
         }
       ]
+    },
+    {
+      "id": "bio11-ch02",
+      "class": 11,
+      "chapterNo": 2,
+      "title": "Biological Classification",
+      "topic": "Biological Classification",
+      "intro": "NCERT Class XI Chapter 2 rebuilt to cover every concept tested in the bank: the history of classification, Whittaker's Five Kingdom system, and the detailed biology of Monera, Protista, Fungi, Plantae and Animalia, plus the acellular entities — viruses, viroids, prions and lichens.",
+      "sections": [
+        {
+          "id": "bc-history",
+          "level": 2,
+          "heading": "1. History & need for classification",
+          "html": "<p>Early classification was driven by use. <strong>Aristotle</strong> was the first to attempt a more <strong>scientific basis</strong>, dividing plants into trees, shrubs and herbs and animals into those with red blood (RBC) and those without.</p><p><strong>Two-kingdom system</strong> (Linnaeus) — Plantae and Animalia — was used long but was <strong>inadequate</strong>: it did not distinguish eukaryotes from prokaryotes, unicellular from multicellular, or photosynthetic (green algae) from non-photosynthetic (fungi). Characters such as cell structure, nature of cell wall, mode of nutrition, habitat, methods of reproduction and evolutionary relationships were later used to build better systems.</p>"
+        },
+        {
+          "id": "bc-five-kingdom",
+          "level": 2,
+          "heading": "2. Five Kingdom Classification (Whittaker, 1969)",
+          "html": "<p><strong>R. H. Whittaker (1969)</strong> proposed the <strong>Five Kingdoms</strong>: <strong>Monera, Protista, Fungi, Plantae and Animalia</strong>. The main criteria were: <strong>cell structure</strong> (prokaryotic vs eukaryotic), <strong>body organisation</strong>, <strong>mode of nutrition</strong> (autotrophic / heterotrophic — absorptive or ingestive), <strong>reproduction</strong> and <strong>phylogenetic relationships</strong>.</p><table class=\"notes-table\"><thead><tr><th>Character</th><th>Monera</th><th>Protista</th><th>Fungi</th><th>Plantae</th><th>Animalia</th></tr></thead><tbody><tr><td>Cell type</td><td>Prokaryotic</td><td>Eukaryotic</td><td>Eukaryotic</td><td>Eukaryotic</td><td>Eukaryotic</td></tr><tr><td>Cell wall</td><td>Non-cellulosic (polysaccharide + amino acid)</td><td>Present in some</td><td>Present (chitin)</td><td>Present (cellulose)</td><td>Absent</td></tr><tr><td>Nuclear membrane</td><td>Absent</td><td>Present</td><td>Present</td><td>Present</td><td>Present</td></tr><tr><td>Body organisation</td><td>Cellular</td><td>Cellular</td><td>Multicellular / loose tissue</td><td>Tissue / organ</td><td>Tissue / organ / organ-system</td></tr><tr><td>Nutrition</td><td>Autotrophic & heterotrophic</td><td>Autotrophic & heterotrophic</td><td>Heterotrophic (saprophytic/parasitic)</td><td>Autotrophic (photosynthetic)</td><td>Heterotrophic (holozoic/saprophytic)</td></tr></tbody></table><p>Limitation: each kingdom is still heterogeneous — e.g. Monera and Protista lump together very diverse organisms with/without cell walls and different nutrition. A separate <strong>Kingdom Fungi</strong> and the assembly of all prokaryotes in <strong>Monera</strong> were major improvements.</p>"
+        },
+        {
+          "id": "bc-monera",
+          "level": 2,
+          "heading": "3. Kingdom Monera (bacteria)",
+          "html": "<p>All <strong>prokaryotes</strong> are placed in Monera. Bacteria are the <strong>most abundant</strong> micro-organisms, found almost everywhere. By shape: <strong>Coccus</strong> (spherical), <strong>Bacillus</strong> (rod), <strong>Vibrio</strong> (comma), <strong>Spirillum</strong> (spiral).</p>"
+        },
+        {
+          "id": "bc-bacteria-structure",
+          "level": 3,
+          "heading": "3.1 Bacterial cell structure",
+          "html": "<ul><li><strong>Cell wall</strong> — made of peptidoglycan; determines shape and Gram reaction (Gram +ve vs Gram −ve). Mycoplasma lack a cell wall (hence <strong>pleomorphic</strong>).</li><li><strong>Glycocalyx</strong> — outer sticky layer; a thick tough one is a <strong>capsule</strong>, a loose one is a <strong>slime layer</strong>.</li><li><strong>Flagella</strong> — for motility; <strong>fimbriae</strong> — small bristles that help attach to rocks/host tissue; <strong>pili</strong> — for conjugation.</li><li><strong>Mesosomes</strong> — infoldings of the plasma membrane that perform respiration (mitochondria-like roles); aid cell wall formation, DNA replication and secretion.</li><li><strong>Chromatophores</strong> — pigment-bearing membranous extensions in some photosynthetic bacteria/cyanobacteria.</li><li>A single circular <strong>nucleoid</strong> (no nuclear membrane), 70S <strong>ribosomes</strong>, and often extra-chromosomal <strong>plasmids</strong>.</li></ul>"
+        },
+        {
+          "id": "bc-bacteria-nutrition",
+          "level": 3,
+          "heading": "3.2 Bacterial nutrition & reproduction",
+          "html": "<p><strong>Autotrophic</strong> bacteria are <strong>photosynthetic</strong> or <strong>chemosynthetic</strong>. <strong>Heterotrophic</strong> bacteria are the most abundant — important as decomposers, in curd/antibiotic/nitrogen-fixation, but some are pathogens.</p><p>Reproduction is mainly by <strong>binary fission</strong>; under stress they form <strong>spores</strong>. They also show a primitive <strong>DNA transfer</strong> (conjugation/transformation/transduction). The bacterial <strong>growth curve</strong> has four phases: <strong>lag → log (exponential) → stationary → decline</strong>.</p>"
+        },
+        {
+          "id": "bc-archaebacteria",
+          "level": 3,
+          "heading": "3.3 Archaebacteria",
+          "html": "<p><strong>Archaebacteria</strong> live in the most <strong>harsh habitats</strong> thanks to a different <strong>cell wall structure</strong> (branched-chain lipids in the membrane). Three groups: <strong>halophiles</strong> (extreme salt), <strong>thermoacidophiles</strong> (hot acidic springs, pH≈2), and <strong>methanogens</strong> — which live in the gut of ruminants and produce <strong>methane (biogas)</strong> from dung. Hyperthermophiles of acidic habitats span <strong>eubacteria and archaea</strong>.</p>"
+        },
+        {
+          "id": "bc-cyanobacteria",
+          "level": 3,
+          "heading": "3.4 Cyanobacteria (blue-green algae)",
+          "html": "<p><strong>Cyanobacteria</strong> (= blue-green algae, BGA) are photosynthetic prokaryotes with chlorophyll <em>a</em>; they carry out <strong>oxygenic photosynthesis</strong> (e.g. <em>Oscillatoria</em>, <em>Nostoc</em>, <em>Anabaena</em>). Colonies are surrounded by a <strong>gelatinous sheath</strong>. Some fix atmospheric N₂ in specialised cells called <strong>heterocysts</strong>. Excess growth in polluted water causes <strong>algal blooms</strong>.</p>"
+        },
+        {
+          "id": "bc-mycoplasma",
+          "level": 3,
+          "heading": "3.5 Mycoplasma",
+          "html": "<p><strong>Mycoplasma</strong> are the <strong>smallest living cells</strong> known. They <strong>lack a cell wall</strong> (so are pleomorphic), can <strong>survive without oxygen</strong>, and many are pathogenic to plants and animals.</p>"
+        },
+        {
+          "id": "bc-protista",
+          "level": 2,
+          "heading": "4. Kingdom Protista",
+          "html": "<p>All single-celled <strong>eukaryotes</strong> are placed in Protista — a kingdom that forms a <strong>link</strong> between plants, animals and fungi. Members are primarily <strong>aquatic</strong>. It unites organisms once placed in different kingdoms (e.g. <em>Chlamydomonas</em>/<em>Chlorella</em> with <em>Paramoecium</em>/<em>Amoeba</em>).</p>"
+        },
+        {
+          "id": "bc-chrysophytes",
+          "level": 3,
+          "heading": "4.1 Chrysophytes (diatoms & desmids)",
+          "html": "<p>Include <strong>diatoms</strong> and golden algae (desmids). Cell walls form two overlapping <strong>siliceous shells</strong> that fit like a soap-box; the indestructible walls accumulate as <strong>diatomaceous earth</strong>. Diatoms are the <strong>chief producers in the oceans</strong>.</p>"
+        },
+        {
+          "id": "bc-dinoflagellates",
+          "level": 3,
+          "heading": "4.2 Dinoflagellates",
+          "html": "<p>Mostly marine and photosynthetic; appear yellow, green, brown, blue or red. Rapid multiplication of red dinoflagellates (e.g. <strong><em>Gonyaulax</em></strong>) causes a <strong>red tide</strong>; their toxins can kill fish. They have two flagella and stiff cellulose plates on the wall.</p>"
+        },
+        {
+          "id": "bc-euglenoids",
+          "level": 3,
+          "heading": "4.3 Euglenoids",
+          "html": "<p>Fresh-water organisms (e.g. <em>Euglena</em>) with a protein-rich flexible <strong>pellicle</strong> instead of a cell wall. They are <strong>photosynthetic autotrophs in sunlight</strong> but turn <strong>heterotrophic</strong> in its absence (mixotrophic) — a plant-animal link.</p>"
+        },
+        {
+          "id": "bc-slime-moulds",
+          "level": 3,
+          "heading": "4.4 Slime moulds",
+          "html": "<p><strong>Saprophytic</strong> protists. Under suitable conditions the body (plasmodium) grows large; under unfavourable conditions it forms fruiting bodies with <strong>spores</strong> that have <strong>true walls</strong>, are <strong>extremely resistant</strong> and survive for long periods.</p>"
+        },
+        {
+          "id": "bc-protozoans",
+          "level": 3,
+          "heading": "4.5 Protozoans",
+          "html": "<p>All <strong>heterotrophic</strong> — predators or parasites, believed to be primitive relatives of animals. Four groups: <strong>Amoeboid</strong> (e.g. <em>Amoeba</em>, <em>Entamoeba</em> — uses pseudopodia; <em>Amoeba</em> has a contractile vacuole for osmoregulation), <strong>Flagellated</strong> (e.g. <em>Trypanosoma</em>), <strong>Ciliated</strong> (e.g. <em>Paramoecium</em>), and <strong>Sporozoans</strong> (e.g. <em>Plasmodium</em>).</p>"
+        },
+        {
+          "id": "bc-fungi",
+          "level": 2,
+          "heading": "5. Kingdom Fungi",
+          "html": "<p>Heterotrophic <strong>eukaryotes</strong> (except yeast, which is unicellular). The body is a network of thread-like <strong>hyphae</strong> = <strong>mycelium</strong>; hyphae may be <strong>septate</strong> or <strong>aseptate/coenocytic</strong>. Cell walls contain <strong>chitin</strong> and polysaccharides. Nutrition is <strong>saprophytic</strong>, <strong>parasitic</strong> or <strong>symbiotic</strong> (lichens, mycorrhiza). Reproduction is by spores: <strong>asexual</strong> (conidia, sporangiospores, zoospores) and <strong>sexual</strong> (oospores, ascospores, basidiospores). Sexual cycle: plasmogamy → karyogamy → meiosis; in many fungi compatible <strong>hyphae fuse</strong> before nuclei fuse, giving a <strong>dikaryotic (n+n)</strong> stage.</p>"
+        },
+        {
+          "id": "bc-phycomycetes",
+          "level": 3,
+          "heading": "5.1 Phycomycetes",
+          "html": "<p>Found in aquatic/damp places and on decaying wood; mycelium is <strong>aseptate and coenocytic</strong>. Asexual spores (zoospores/aplanospores) form in sporangia; sexual spore is the <strong>zygospore</strong>. Examples: <em>Mucor</em>, <em>Rhizopus</em> (bread mould), <em>Albugo</em>.</p>"
+        },
+        {
+          "id": "bc-ascomycetes",
+          "level": 3,
+          "heading": "5.2 Ascomycetes (sac fungi)",
+          "html": "<p>Mostly multicellular (e.g. <em>Penicillium</em>) or unicellular (yeast, <em>Saccharomyces</em>); mycelium branched and septate. Sexual spores = <strong>ascospores</strong> produced inside sac-like <strong>asci</strong> arranged in fruiting bodies called <strong>ascocarps</strong>. <em>Penicillium</em> is a source of <strong>antibiotics</strong>; <em>Neurospora</em> is used in genetics; some are edible (morels, truffles).</p>"
+        },
+        {
+          "id": "bc-basidiomycetes",
+          "level": 3,
+          "heading": "5.3 Basidiomycetes (club fungi)",
+          "html": "<p>Mushrooms, bracket fungi, puffballs; also smuts and rusts. Mycelium is <strong>branched and septate</strong>. Sexual spores = <strong>basidiospores</strong> borne externally on club-shaped <strong>basidia</strong>; fruiting body = <strong>basidiocarp</strong>. No asexual spores; vegetative reproduction common. Example: <em>Agaricus</em>, <em>Ustilago</em>, <em>Puccinia</em>.</p>"
+        },
+        {
+          "id": "bc-deuteromycetes",
+          "level": 3,
+          "heading": "5.4 Deuteromycetes (imperfect fungi)",
+          "html": "<p>The 'imperfect fungi' — only the <strong>asexual / vegetative</strong> phase is known. Many are <strong>decomposers of litter</strong> that help in <strong>mineral cycling</strong>; some are parasites. Examples: <em>Alternaria</em>, <em>Colletotrichum</em>, <em>Trichoderma</em>.</p>"
+        },
+        {
+          "id": "bc-plantae",
+          "level": 2,
+          "heading": "6. Kingdom Plantae",
+          "html": "<p>Includes all <strong>eukaryotic, chlorophyll-containing</strong> organisms — algae, bryophytes, pteridophytes, gymnosperms and angiosperms. Cells have a <strong>cellulose</strong> cell wall and a large central vacuole. Mostly <strong>autotrophic</strong>, but some are <strong>insectivorous</strong> (Venus flytrap, <em>Nepenthes</em>) or <strong>parasitic</strong> (Cuscuta). The life cycle shows <strong>alternation of generations</strong> between a diploid sporophyte and a haploid gametophyte.</p>"
+        },
+        {
+          "id": "bc-animalia",
+          "level": 2,
+          "heading": "7. Kingdom Animalia",
+          "html": "<p><strong>Heterotrophic, eukaryotic, multicellular</strong> organisms <strong>without a cell wall</strong>. They have <strong>holozoic</strong> (ingestive) nutrition, store food as glycogen/fat, and most show tissue/organ/organ-system level organisation, sensory and neuromotor control, and locomotion. They reproduce mostly <strong>sexually</strong> and show embryological development.</p>"
+        },
+        {
+          "id": "bc-viruses",
+          "level": 2,
+          "heading": "8. Viruses",
+          "html": "<p>Viruses are <strong>non-cellular, obligate intracellular</strong> entities — inert (crystallisable) outside the host but able to replicate inside a living host. History: <strong>D. Ivanowsky</strong> discovered them; <strong>M.W. Beijerinck</strong> coined <em>contagium vivum fluidum</em> (infectious living fluid); <strong>W.M. Stanley</strong> showed a virus (TMV) could be <strong>crystallised</strong>.</p><p>A virus is essentially a <strong>nucleoprotein</strong>: genetic material (DNA <em>or</em> RNA, never both) enclosed in a protein coat called the <strong>capsid</strong> (made of <strong>capsomeres</strong>); some have an outer <strong>envelope</strong>. Plant viruses usually have <strong>ssRNA</strong>, animal viruses ss/dsRNA or dsDNA, and bacteriophages usually <strong>dsDNA</strong>. Viruses cause diseases such as mumps, smallpox, herpes, influenza and AIDS, and plant diseases (mosaic, leaf curling).</p>"
+        },
+        {
+          "id": "bc-viroids-prions",
+          "level": 2,
+          "heading": "9. Viroids & Prions",
+          "html": "<p><strong>Viroids</strong> — discovered by <strong>T.O. Diener</strong>; a <strong>free RNA</strong> of <strong>low molecular weight</strong> lacking a protein coat (caused potato spindle tuber disease).</p><p><strong>Prions</strong> — abnormally folded <strong>infectious proteins</strong> (no nucleic acid) causing diseases such as <strong>BSE (mad cow disease)</strong> and CJD.</p>"
+        },
+        {
+          "id": "bc-lichens",
+          "level": 2,
+          "heading": "10. Lichens",
+          "html": "<p><strong>Lichens</strong> are a <strong>symbiotic</strong> association between an <strong>alga (phycobiont)</strong> and a <strong>fungus (mycobiont)</strong>. The alga photosynthesises food; the fungus provides shelter, water and minerals. Lichens grow <strong>very slowly</strong> and are excellent <strong>pollution indicators</strong> — they do not grow in polluted (e.g. industrial) areas, so a lichen-free trunk signals high air pollution. (Compare <strong>mycorrhiza</strong>: a symbiosis between a fungus and the roots of higher plants.)</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch03",
+      "class": 11,
+      "chapterNo": 3,
+      "title": "Plant Kingdom",
+      "topic": "Plant Kingdom",
+      "intro": "NCERT Class XI Chapter 3 covering classification systems and the major plant groups — algae (green, brown, red), bryophytes, pteridophytes, gymnosperms and angiosperms — together with their reproduction and the life-cycle patterns (haplontic, diplontic, haplo-diplontic).",
+      "sections": [
+        {
+          "id": "pk-classification-systems",
+          "level": 2,
+          "heading": "1. Systems of classification",
+          "html": "<p>Plant classification has evolved through three kinds of systems:</p><ul><li><strong>Artificial systems</strong> (e.g. Linnaeus) — based on one or a few vegetative or sexual characters; gave equal weight to vegetative and sexual features (which can vary).</li><li><strong>Natural systems</strong> (Bentham &amp; Hooker) — based on natural affinities using all known characters (internal features like anatomy, embryology too).</li><li><strong>Phylogenetic systems</strong> — based on <strong>evolutionary relationships</strong>.</li></ul><p><strong>Numerical taxonomy</strong> uses computers and scores hundreds of characters; <strong>cytotaxonomy</strong> uses cytological information (chromosome number/structure); <strong>chemotaxonomy</strong> uses chemical constituents.</p>"
+        },
+        {
+          "id": "pk-algae",
+          "level": 2,
+          "heading": "2. Algae — general features",
+          "html": "<p><strong>Algae</strong> are chlorophyll-bearing, simple, thalloid, autotrophic and largely <strong>aquatic</strong> organisms. Reproduction is <strong>vegetative</strong> (fragmentation), <strong>asexual</strong> (zoospores) and <strong>sexual</strong> (isogamous, anisogamous or oogamous). They are divided into three classes by pigments, stored food, cell wall and flagella.</p><table class=\"notes-table\"><thead><tr><th>Class</th><th>Common name</th><th>Main pigments</th><th>Stored food</th></tr></thead><tbody><tr><td>Chlorophyceae</td><td>Green algae</td><td>Chlorophyll a, b</td><td>Starch</td></tr><tr><td>Phaeophyceae</td><td>Brown algae</td><td>Chlorophyll a, c, fucoxanthin</td><td>Laminarin, mannitol</td></tr><tr><td>Rhodophyceae</td><td>Red algae</td><td>Chlorophyll a, d, phycoerythrin (r-phycoerythrin)</td><td>Floridean starch</td></tr></tbody></table>"
+        },
+        {
+          "id": "pk-chlorophyceae",
+          "level": 3,
+          "heading": "2.1 Chlorophyceae (green algae)",
+          "html": "<p>Grass-green due to <strong>chlorophyll a and b</strong>. Cell wall has an inner cellulose layer; reserve food is <strong>starch</strong> stored in pyrenoids. Examples: <em>Chlamydomonas</em>, <em>Volvox</em>, <em>Ulothrix</em>, <em>Spirogyra</em>, <em>Chara</em>.</p>"
+        },
+        {
+          "id": "pk-phaeophyceae",
+          "level": 3,
+          "heading": "2.2 Phaeophyceae (brown algae)",
+          "html": "<p>Mostly marine; brown colour from <strong>fucoxanthin</strong>. Stored food is <strong>laminarin or mannitol</strong>; cell wall has cellulose and <strong>algin</strong>. Plant body may have a holdfast, stipe and frond. Examples: <em>Laminaria</em>, <em>Sargassum</em>, <em>Fucus</em>, <em>Ectocarpus</em>, <em>Dictyota</em>.</p>"
+        },
+        {
+          "id": "pk-rhodophyceae",
+          "level": 3,
+          "heading": "2.3 Rhodophyceae (red algae)",
+          "html": "<p>Mostly marine (greater depths); red colour from <strong>r-phycoerythrin</strong>. Stored food is <strong>floridean starch</strong>. Examples: <em>Polysiphonia</em>, <em>Porphyra</em>, <em>Gracilaria</em>, <em>Gelidium</em> (sources of agar).</p>"
+        },
+        {
+          "id": "pk-algae-economic",
+          "level": 3,
+          "heading": "2.4 Economic importance of algae",
+          "html": "<p>Algae carry out about <strong>half of the total CO₂ fixation (photosynthesis)</strong> on Earth and are primary producers. <strong>Agar</strong> (from <em>Gelidium</em>, <em>Gracilaria</em>) is used in cultures and food; <strong>algin</strong> (brown algae) and <strong>carrageenan</strong> (red algae) are commercial hydrocolloids; <em>Porphyra</em>, <em>Laminaria</em> and <em>Sargassum</em> are edible; <em>Chlorella</em> is a protein-rich food supplement.</p>"
+        },
+        {
+          "id": "pk-bryophytes",
+          "level": 2,
+          "heading": "3. Bryophytes",
+          "html": "<p>Bryophytes are the <strong>'amphibians of the plant kingdom'</strong> — they live on land but need water for sexual reproduction. The plant body is a <strong>gametophyte</strong> (more conspicuous), lacking true roots/stem/leaves (has rhizoids). The male sex organ is the <strong>antheridium</strong> (produces flagellated antherozoids); the female is the <strong>archegonium</strong> (flask-shaped, produces an egg). The zygote develops into a <strong>sporophyte</strong> that is attached to and partly dependent on the gametophyte and produces haploid spores by meiosis. Bryophytes help in soil formation and as <em>Sphagnum</em> (peat moss) provide fuel and packing material.</p>"
+        },
+        {
+          "id": "pk-liverworts-mosses",
+          "level": 3,
+          "heading": "3.1 Liverworts & Mosses",
+          "html": "<p><strong>Liverworts</strong> (e.g. <em>Marchantia</em>) have a flat, dorsiventral thallus; asexual reproduction by <strong>gemmae</strong> in gemma cups. <strong>Mosses</strong> (e.g. <em>Funaria</em>, <em>Sphagnum</em>, <em>Polytrichum</em>) have a protonema stage followed by a leafy gametophore; the moss sporophyte (foot, seta, capsule) is more elaborate than that of liverworts.</p>"
+        },
+        {
+          "id": "pk-pteridophytes",
+          "level": 2,
+          "heading": "4. Pteridophytes",
+          "html": "<p>Pteridophytes are the <strong>first terrestrial plants with vascular tissue</strong> (xylem and phloem). The dominant phase is the <strong>sporophyte</strong> (with true root, stem and leaves). Sporophylls bear sporangia that produce spores by meiosis; spores germinate into small, free-living <strong>prothallus (gametophyte)</strong>, which needs cool, damp, shady places and water for fertilisation. Most are <strong>homosporous</strong> (one kind of spore); a few (e.g. <em>Selaginella</em>, <em>Salvinia</em>) are <strong>heterosporous</strong> — producing microspores and megaspores — a precursor to the seed habit. Examples: <em>Selaginella</em>, <em>Equisetum</em>, <em>Pteris</em>, <em>Dryopteris</em>, <em>Lycopodium</em>.</p>"
+        },
+        {
+          "id": "pk-gymnosperms",
+          "level": 2,
+          "heading": "5. Gymnosperms",
+          "html": "<p>Gymnosperms bear <strong>naked seeds</strong> (ovules not enclosed in an ovary; seeds not covered by fruit). They are <strong>heterosporous</strong>, producing microspores (pollen) and megaspores. Male and female cones (strobili) bear microsporophylls and megasporophylls. The <strong>female gametophyte is retained on the parent</strong>, and pollination is direct (no water needed). Examples: <em>Cycas</em>, <em>Pinus</em>, <em>Ginkgo</em>, <em>Ephedra</em>. <em>Pinus</em> shows needle leaves; <em>Cycas</em> has coralloid roots with N₂-fixing cyanobacteria; the giant redwood <em>Sequoia</em> is among the tallest trees.</p>"
+        },
+        {
+          "id": "pk-angiosperms",
+          "level": 2,
+          "heading": "6. Angiosperms",
+          "html": "<p>In angiosperms (flowering plants) the seeds are <strong>enclosed in fruits</strong>. They range from tiny <em>Wolffia</em> to tall <em>Eucalyptus</em>. The flower bears stamens (male, producing pollen) and the pistil/carpel (female, with ovules in the ovary). They show <strong>double fertilisation</strong> and <strong>triple fusion</strong>, forming a diploid zygote and triploid endosperm. Angiosperms are divided into <strong>dicotyledons</strong> (two cotyledons, reticulate venation, tetra/pentamerous flowers) and <strong>monocotyledons</strong> (one cotyledon, parallel venation, trimerous flowers).</p>"
+        },
+        {
+          "id": "pk-life-cycles",
+          "level": 2,
+          "heading": "7. Plant life cycles & alternation of generations",
+          "html": "<p>Plants alternate between a haploid <strong>gametophyte</strong> (n, gamete-producing) and a diploid <strong>sporophyte</strong> (2n, spore-producing) — the <strong>alternation of generations</strong>. Three patterns:</p><ul><li><strong>Haplontic</strong> — dominant gametophyte; sporophyte is just the zygote (e.g. many algae, <em>Spirogyra</em>).</li><li><strong>Diplontic</strong> — dominant sporophyte; gametophyte highly reduced (e.g. seed plants — gymnosperms, angiosperms).</li><li><strong>Haplo-diplontic</strong> — both phases multicellular; <strong>bryophytes</strong> have a dominant gametophyte, while <strong>pteridophytes</strong> have a dominant sporophyte.</li></ul>"
+        }
+      ]
     }
   ]
 }
