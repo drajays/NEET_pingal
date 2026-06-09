@@ -649,6 +649,134 @@
           "html": "<p><strong>Secondary growth</strong> increases girth, mainly in dicot stems and roots. The <strong>vascular cambium</strong> forms a complete ring (interfascicular + intrafascicular cambium) and cuts off <strong>secondary xylem (wood)</strong> inward and <strong>secondary phloem</strong> outward. Spring/early wood (wide vessels) and autumn/late wood (narrow vessels) make <strong>annual rings</strong> used to estimate age. The <strong>cork cambium (phellogen)</strong> produces <strong>cork (phellem)</strong> outside and <strong>secondary cortex (phelloderm)</strong> inside — together the <strong>periderm</strong>; <strong>lenticels</strong> allow gaseous exchange. Old wood is dark, non-conducting <strong>heartwood</strong>; outer light <strong>sapwood</strong> conducts.</p>"
         }
       ]
+    },
+    {
+      "id": "bio11-ch07",
+      "class": 11,
+      "chapterNo": 7,
+      "title": "Structural Organisation in Animals",
+      "topic": "Structural Organization in Animals",
+      "intro": "NCERT Class XI Chapter 7: the four animal tissue types (epithelial, connective, muscular, neural) and the morphology and anatomy of three representative animals — earthworm, cockroach and frog.",
+      "sections": [
+        {
+          "id": "soa-epithelial",
+          "level": 2,
+          "heading": "1. Epithelial tissue",
+          "html": "<p>A single layer of closely packed cells resting on a <strong>basement membrane</strong>, with a free surface; it covers/lines body surfaces and cavities. <strong>Simple epithelium</strong> (one layer): <strong>squamous</strong> (flat — alveoli, blood-vessel walls; for diffusion), <strong>cuboidal</strong> (ducts, kidney tubules; secretion/absorption), <strong>columnar</strong> (stomach, intestine), and <strong>ciliated</strong> (bronchioles, oviduct; moves particles/mucus). <strong>Compound epithelium</strong> has many layers (skin, buccal cavity) for protection. <strong>Glandular epithelium</strong> forms exocrine (duct) and endocrine (ductless) glands. Cells are held by <strong>cell junctions</strong>: <strong>tight junctions</strong> (prevent leakage), <strong>adhering junctions</strong> (cement cells) and <strong>gap junctions</strong> (allow communication).</p>"
+        },
+        {
+          "id": "soa-connective",
+          "level": 2,
+          "heading": "2. Connective tissue",
+          "html": "<p>Most abundant and widely distributed; cells secrete fibres (collagen/elastin) in a <strong>matrix</strong>. <strong>Loose connective tissue</strong>: <strong>areolar</strong> (beneath skin, with fibroblasts, mast cells, macrophages) and <strong>adipose</strong> (stores fat). <strong>Dense connective tissue</strong>: dense <strong>regular</strong> (tendons — muscle to bone; ligaments — bone to bone) and dense <strong>irregular</strong> (skin). <strong>Specialised connective tissue</strong>: <strong>cartilage</strong> (matrix of chondroitin, cells in lacunae — chondrocytes), <strong>bone</strong> (hard calcium matrix, osteocytes in lacunae), and <strong>blood</strong> (fluid matrix = plasma; a vascular connective tissue).</p>"
+        },
+        {
+          "id": "soa-muscular",
+          "level": 2,
+          "heading": "3. Muscular tissue",
+          "html": "<p>Made of elongated muscle fibres (myocytes). <strong>Skeletal (striated/voluntary)</strong> muscle — attached to bones, striped, multinucleate, fatigues. <strong>Smooth (visceral/non-striated, involuntary)</strong> muscle — walls of internal organs (stomach, intestine, blood vessels), spindle-shaped, uninucleate. <strong>Cardiac</strong> muscle — only in the heart, striated but involuntary, branched, with <strong>intercalated discs</strong>; does not fatigue.</p>"
+        },
+        {
+          "id": "soa-neural",
+          "level": 2,
+          "heading": "4. Neural tissue",
+          "html": "<p><strong>Neurons</strong> are excitable cells (the unit of the nervous system) that receive and transmit impulses; supported by <strong>neuroglial cells</strong>. A neuron has a cell body, dendrites and an axon; when stimulated, a wave of disturbance (nerve impulse) is conducted along it.</p>"
+        },
+        {
+          "id": "soa-earthworm",
+          "level": 2,
+          "heading": "5. Earthworm (Pheretima)",
+          "html": "<p>A reddish-brown, segmented (metameric) annelid; a 'farmer's friend'. The dorsal side has a darker mid-dorsal line (blood vessel); the ventral side bears <strong>genital openings</strong>. The first segment is the peristomium with an overhanging <strong>prostomium</strong>; segments 14–16 form a glandular band, the <strong>clitellum</strong> (dividing the body into pre-clitellar, clitellar and post-clitellar regions). Locomotion uses S-shaped <strong>setae</strong>. They are <strong>hermaphrodite</strong> (testes in segments 10–11, ovaries in 12–13) but show cross-fertilisation. The alimentary canal runs straight (mouth → pharynx → oesophagus → gizzard → stomach → intestine → anus); typhlosole increases absorption. Excretion by <strong>nephridia</strong>; closed circulatory system; respiration through moist skin.</p>"
+        },
+        {
+          "id": "soa-cockroach",
+          "level": 2,
+          "heading": "6. Cockroach (Periplaneta)",
+          "html": "<p>A brown-black arthropod; body divided into <strong>head, thorax and abdomen</strong> covered by a chitinous exoskeleton of sclerites (tergites dorsal, sternites ventral). Head bears compound eyes and antennae; three thoracic segments each bear a pair of legs (two pairs of wings on meso- and metathorax). Abdomen has 10 segments; males bear <strong>anal styles</strong> (females lack them). Digestion: mouthparts (mandibles) → crop (storage) → <strong>gizzard/proventriculus</strong> (grinding, with chitinous teeth); <strong>hepatic caeca</strong> secrete enzymes. <strong>Open circulatory system</strong> with a 13-chambered heart; respiration via <strong>tracheae</strong> opening through spiracles; excretion by <strong>Malpighian tubules</strong>. Blood is colourless (haemolymph). Sexes separate, sexually dimorphic.</p>"
+        },
+        {
+          "id": "soa-frog",
+          "level": 2,
+          "heading": "7. Frog (Rana tigrina)",
+          "html": "<p>A cold-blooded (poikilothermic) amphibian showing <strong>camouflage</strong> and aestivation/hibernation. Skin is moist and naked for cutaneous respiration; respires also by buccal cavity and lungs. Body is head + trunk (no neck/tail in adult). <strong>Three-chambered heart</strong> (two atria, one ventricle) with single circulation portal systems (hepatic and renal portal). Digestive, respiratory, circulatory, excretory (mesonephric kidney), nervous and reproductive systems are well developed. Sexes are separate; <strong>males</strong> have vocal sacs and copulatory pads; fertilisation is external and development indirect (tadpole → metamorphosis).</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch08",
+      "class": 11,
+      "chapterNo": 8,
+      "title": "Cell: The Unit of Life",
+      "topic": "Cell: The Unit of Life",
+      "intro": "NCERT Class XI Chapter 8: the cell theory, the distinction between prokaryotic and eukaryotic cells, and the structure and function of every cell organelle — membrane, wall, endomembrane system, mitochondria, plastids, ribosomes, cytoskeleton and nucleus.",
+      "sections": [
+        {
+          "id": "cell-theory",
+          "level": 2,
+          "heading": "1. Cell theory & overview",
+          "html": "<p>The cell is the basic structural and functional unit of life. <strong>Robert Hooke</strong> first saw dead cells (cork); <strong>Leeuwenhoek</strong> saw live cells. The <strong>cell theory</strong> — all living organisms are made of cells and cell products — was given by <strong>Schleiden (plants) and Schwann (animals)</strong>, and extended by <strong>Rudolf Virchow</strong> with <em>Omnis cellula-e cellula</em> (all cells arise from pre-existing cells). Cells vary in size (the smallest are <em>Mycoplasma</em>, ~0.3 µm; the largest cell is an ostrich egg) and shape (disc-like RBCs, branched neurons, long fibres).</p>"
+        },
+        {
+          "id": "cell-prokaryotic",
+          "level": 2,
+          "heading": "2. Prokaryotic cells",
+          "html": "<p>Found in bacteria, cyanobacteria, mycoplasma and PPLO. They lack a membrane-bound nucleus and organelles. The genetic material is a single circular DNA (<strong>nucleoid</strong>, no nuclear membrane), often with extra <strong>plasmids</strong>. The cell envelope has a glycocalyx, a <strong>cell wall</strong> and plasma membrane; the Gram stain divides them into Gram-positive and Gram-negative. <strong>Mesosomes</strong> (membrane infoldings) aid respiration, secretion and DNA replication; some have <strong>chromatophores</strong> for photosynthesis. Ribosomes are <strong>70S</strong>; motile forms have flagella; <strong>pili and fimbriae</strong> are surface structures. <strong>Inclusion bodies</strong> store reserve material.</p>"
+        },
+        {
+          "id": "cell-membrane",
+          "level": 2,
+          "heading": "3. Cell (plasma) membrane",
+          "html": "<p>Described by the <strong>fluid mosaic model</strong> of <strong>Singer &amp; Nicolson (1972)</strong>: a bilayer of <strong>phospholipids</strong> with proteins (integral and peripheral) floating in it; the quasi-fluid lipid allows lateral movement (membrane fluidity). It is <strong>selectively permeable</strong>. Transport: <strong>passive</strong> (diffusion, osmosis — no energy, down the gradient) and <strong>active</strong> (against the gradient, using ATP, e.g. the Na⁺/K⁺ pump). Polar molecules need carrier proteins.</p>"
+        },
+        {
+          "id": "cell-wall",
+          "level": 2,
+          "heading": "4. Cell wall",
+          "html": "<p>A non-living rigid outer layer of plant/fungal cells giving shape and protection. The plant cell wall has a <strong>middle lamella</strong> (calcium pectate, cements cells), a <strong>primary wall</strong> (cellulose) and, in mature cells, a <strong>secondary wall</strong>. Adjacent cells are connected by <strong>plasmodesmata</strong>. Algae have cellulose, galactans and minerals; fungi have <strong>chitin</strong>.</p>"
+        },
+        {
+          "id": "cell-endomembrane",
+          "level": 2,
+          "heading": "5. Endomembrane system (ER, Golgi, lysosomes, vacuoles)",
+          "html": "<ul><li><strong>Endoplasmic reticulum</strong> — network of tubules. <strong>Rough ER (RER)</strong> bears ribosomes and makes/secretes proteins; <strong>Smooth ER (SER)</strong> lacks ribosomes and makes lipids/steroids.</li><li><strong>Golgi apparatus</strong> — stacked cisternae; packages, modifies and dispatches materials (glycosylation, glycolipid/glycoprotein formation); the cis (forming) face faces the ER, the trans (maturing) face the membrane.</li><li><strong>Lysosomes</strong> — Golgi-derived vesicles rich in <strong>hydrolytic (digestive) enzymes</strong> active at acidic pH; the cell's 'suicide bags'.</li><li><strong>Vacuoles</strong> — membrane (tonoplast)-bound; the large plant vacuole stores sap and maintains turgor; contractile vacuoles in protists do osmoregulation.</li></ul>"
+        },
+        {
+          "id": "cell-mitochondria",
+          "level": 2,
+          "heading": "6. Mitochondria",
+          "html": "<p>The <strong>'powerhouse of the cell'</strong> — site of aerobic respiration producing <strong>ATP</strong>. Double-membraned: the inner membrane is folded into <strong>cristae</strong> bearing F₁ (oxysome) particles; the inner space is the <strong>matrix</strong> (contains enzymes of the Krebs cycle, circular DNA and 70S ribosomes — so mitochondria are semi-autonomous and self-replicating).</p>"
+        },
+        {
+          "id": "cell-plastids",
+          "level": 2,
+          "heading": "7. Plastids",
+          "html": "<p>Found in plant cells. <strong>Chloroplasts</strong> (green, with chlorophyll) carry out photosynthesis — double membrane, with stacked <strong>thylakoids (grana)</strong> embedded in the <strong>stroma</strong> (which holds enzymes, circular DNA and 70S ribosomes). <strong>Chromoplasts</strong> contain carotenoid pigments (yellow/orange/red). <strong>Leucoplasts</strong> are colourless storage plastids: amyloplasts (starch), elaioplasts (oils/fats), aleuroplasts (proteins).</p>"
+        },
+        {
+          "id": "cell-ribosomes",
+          "level": 2,
+          "heading": "8. Ribosomes",
+          "html": "<p>Non-membranous granules of <strong>rRNA and protein</strong> — the site of <strong>protein synthesis</strong>. Eukaryotic ribosomes are <strong>80S</strong> (60S + 40S subunits); prokaryotic and those of mitochondria/chloroplasts are <strong>70S</strong> (50S + 30S). They occur free in the cytoplasm or attached to the RER; several on one mRNA form a <strong>polysome</strong>.</p>"
+        },
+        {
+          "id": "cell-cytoskeleton",
+          "level": 2,
+          "heading": "9. Cytoskeleton, cilia, flagella & centrosome",
+          "html": "<p>The <strong>cytoskeleton</strong> (microtubules, microfilaments, intermediate filaments) gives shape, support and enables movement. <strong>Cilia and flagella</strong> are membrane-covered projections with a <strong>9 + 2</strong> microtubule arrangement (axoneme) arising from a basal body; cilia move fluids, flagella move the cell. The <strong>centrosome</strong> has two <strong>centrioles</strong> with a <strong>9 + 0 (9 triplets, no centre)</strong> cartwheel arrangement; centrioles form the basal bodies and the spindle fibres during division.</p>"
+        },
+        {
+          "id": "cell-nucleus",
+          "level": 2,
+          "heading": "10. Nucleus",
+          "html": "<p>The control centre, bounded by a double <strong>nuclear envelope</strong> with <strong>nuclear pores</strong> and continuous with the ER. It contains <strong>nucleoplasm</strong>, one or more <strong>nucleoli</strong> (sites of rRNA synthesis/ribosome assembly) and <strong>chromatin</strong> (DNA + histone proteins) that condenses into <strong>chromosomes</strong> during division. A chromosome has a <strong>centromere</strong> with <strong>kinetochores</strong>; by centromere position chromosomes are metacentric, sub-metacentric, acrocentric or telocentric; a satellite chromosome bears a secondary constriction.</p>"
+        },
+        {
+          "id": "cell-microbodies",
+          "level": 2,
+          "heading": "11. Microbodies",
+          "html": "<p><strong>Microbodies</strong> are tiny membrane-bound vesicles containing enzymes, present in plant and animal cells — e.g. <strong>peroxisomes</strong> (photorespiration, H₂O₂ breakdown) and <strong>glyoxysomes</strong> (fat-rich germinating seeds).</p>"
+        }
+      ]
     }
   ]
 }
