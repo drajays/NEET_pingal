@@ -409,6 +409,124 @@
           "html": "<p>Plants alternate between a haploid <strong>gametophyte</strong> (n, gamete-producing) and a diploid <strong>sporophyte</strong> (2n, spore-producing) — the <strong>alternation of generations</strong>. Three patterns:</p><ul><li><strong>Haplontic</strong> — dominant gametophyte; sporophyte is just the zygote (e.g. many algae, <em>Spirogyra</em>).</li><li><strong>Diplontic</strong> — dominant sporophyte; gametophyte highly reduced (e.g. seed plants — gymnosperms, angiosperms).</li><li><strong>Haplo-diplontic</strong> — both phases multicellular; <strong>bryophytes</strong> have a dominant gametophyte, while <strong>pteridophytes</strong> have a dominant sporophyte.</li></ul>"
         }
       ]
+    },
+    {
+      "id": "bio11-ch04",
+      "class": 11,
+      "chapterNo": 4,
+      "title": "Animal Kingdom",
+      "topic": "Animal Classification",
+      "intro": "NCERT Class XI Chapter 4 (Animal Kingdom): the basis of animal classification followed by the diagnostic features and examples of every major phylum from Porifera to Chordata, including the vertebrate classes.",
+      "sections": [
+        {
+          "id": "ak-basis",
+          "level": 2,
+          "heading": "1. Basis of classification",
+          "html": "<p>Despite their diversity, animals are grouped using a few fundamental features:</p><ul><li><strong>Levels of organisation</strong> — cellular (Porifera), tissue (Coelenterata, Ctenophora), organ, and organ-system (Platyhelminthes onward).</li><li><strong>Symmetry</strong> — asymmetrical, <strong>radial</strong> (Coelenterata, Ctenophora, adult echinoderms) or <strong>bilateral</strong> (most others).</li><li><strong>Germ layers</strong> — <strong>diploblastic</strong> (ectoderm + endoderm, with mesoglea: Coelenterata) or <strong>triploblastic</strong> (ecto-, meso-, endoderm).</li><li><strong>Coelom</strong> — body cavity lined by mesoderm: <strong>coelomate</strong> (Annelida → Chordata), <strong>pseudocoelomate</strong> (Aschelminthes) or <strong>acoelomate</strong> (Platyhelminthes).</li><li><strong>Segmentation</strong> — metameric segmentation (Annelida onward).</li><li><strong>Notochord</strong> — present in chordates (a mesoderm-derived rod); animals without it are non-chordates.</li></ul>"
+        },
+        {
+          "id": "ak-porifera",
+          "level": 2,
+          "heading": "2. Porifera (sponges)",
+          "html": "<p>Pore-bearing, mostly marine, asymmetrical animals at the <strong>cellular level</strong> of organisation. Water enters through minute pores (<strong>ostia</strong>) into the central cavity (spongocoel) and exits via the <strong>osculum</strong>; flow is driven by collar cells (<strong>choanocytes</strong>). They have a water-transport (canal) system and a skeleton of spicules/spongin; reproduction is asexual (budding) and sexual; <strong>hermaphrodite</strong>, with internal fertilisation and indirect development. Examples: <em>Sycon</em>, <em>Spongilla</em> (freshwater), <em>Euspongia</em> (bath sponge).</p>"
+        },
+        {
+          "id": "ak-coelenterata",
+          "level": 2,
+          "heading": "3. Coelenterata (Cnidaria)",
+          "html": "<p>Aquatic, mostly marine, <strong>radially symmetrical, diploblastic</strong>, tissue-level animals. They bear stinging cells (<strong>cnidoblasts/nematocysts</strong>) on tentacles used for anchorage, defence and capturing prey. They have a central <strong>gastrovascular cavity</strong> with a single opening. Two body forms: sessile <strong>polyp</strong> (e.g. <em>Hydra</em>, sea anemone) and free-swimming <strong>medusa</strong> (jellyfish); forms with both show <strong>metagenesis</strong> (alternation of generations). Corals (e.g. <em>Meandrina</em>) secrete CaCO₃ skeletons. Examples: <em>Hydra</em>, <em>Adamsia</em> (sea anemone), <em>Aurelia</em> (jellyfish), <em>Physalia</em>.</p>"
+        },
+        {
+          "id": "ak-ctenophora",
+          "level": 2,
+          "heading": "4. Ctenophora (sea walnuts/comb jellies)",
+          "html": "<p>Exclusively <strong>marine</strong>, <strong>diploblastic</strong>, radially symmetrical, tissue-level animals with eight external rows of ciliated <strong>comb plates</strong> for locomotion. They show <strong>bioluminescence</strong>. Fertilisation is external with indirect development. Examples: <em>Pleurobrachia</em>, <em>Ctenoplana</em>.</p>"
+        },
+        {
+          "id": "ak-platyhelminthes",
+          "level": 2,
+          "heading": "5. Platyhelminthes (flatworms)",
+          "html": "<p>Dorso-ventrally flattened, <strong>bilaterally symmetrical, triploblastic, acoelomate</strong>, organ-system level animals; mostly endoparasites. Parasitic forms have <strong>hooks and suckers</strong>; osmoregulation/excretion by <strong>flame cells</strong>. Examples: <em>Taenia</em> (tapeworm), <em>Fasciola</em> (liver fluke, internal fertilisation), <em>Planaria</em> (high regeneration), <em>Schistosoma</em>.</p>"
+        },
+        {
+          "id": "ak-aschelminthes",
+          "level": 2,
+          "heading": "6. Aschelminthes (roundworms / Nematoda)",
+          "html": "<p>Cylindrical, <strong>bilaterally symmetrical, triploblastic, pseudocoelomate</strong>, organ-system level worms; free-living or parasitic. Sexes are separate (dioecious) and <strong>females are longer than males</strong>; often sexually dimorphic. Examples: <em>Ascaris</em> (roundworm), <em>Wuchereria</em> (filaria), <em>Ancylostoma</em> (hookworm).</p>"
+        },
+        {
+          "id": "ak-annelida",
+          "level": 2,
+          "heading": "7. Annelida",
+          "html": "<p>Aquatic or terrestrial, <strong>bilaterally symmetrical, triploblastic</strong>, organ-system level, and the <strong>first true coelomates</strong>. They show <strong>metameric segmentation</strong> and a closed circulatory system; locomotion by setae or <strong>parapodia</strong>. Examples: <em>Nereis</em> (dioecious, parapodia), <em>Pheretima</em> (earthworm), <em>Hirudinaria</em> (leech).</p>"
+        },
+        {
+          "id": "ak-arthropoda",
+          "level": 2,
+          "heading": "8. Arthropoda",
+          "html": "<p>The <strong>largest phylum</strong>; triploblastic, coelomate, organ-system level animals with a <strong>chitinous exoskeleton</strong> and <strong>jointed appendages</strong>. Body is divided into head, thorax and abdomen (head + thorax may fuse into a cephalothorax, e.g. in crustaceans). They have <strong>compound eyes</strong>, an open circulatory system, and respire by gills, book gills/lungs or tracheae; excretion via <strong>Malpighian tubules</strong>. Examples: <em>Apis</em> (honey bee), <em>Bombyx</em> (silkworm), <em>Anopheles/Culex/Aedes</em> (mosquito vectors), <em>Locusta</em>, <em>Limulus</em> (king crab, a living fossil), scorpion, prawn.</p>"
+        },
+        {
+          "id": "ak-mollusca",
+          "level": 2,
+          "heading": "9. Mollusca",
+          "html": "<p>Second largest phylum; <strong>bilaterally symmetrical, triploblastic, coelomate</strong>, unsegmented soft body usually covered by a <strong>calcareous shell</strong>. Body has a head, muscular foot and visceral hump covered by a mantle; the mantle cavity has feather-like gills and a rasping <strong>radula</strong>. Respiratory pigment is <strong>haemocyanin</strong> (copper-based). <strong>Cephalopods</strong> (e.g. <em>Octopus</em>, <em>Loligo</em>) have eyes resembling vertebrate eyes. Examples: <em>Pila</em> (apple snail), <em>Pinctada</em> (pearl oyster), <em>Sepia</em>, <em>Chiton</em>.</p>"
+        },
+        {
+          "id": "ak-echinodermata",
+          "level": 2,
+          "heading": "10. Echinodermata",
+          "html": "<p>Exclusively <strong>marine</strong>; triploblastic, coelomate. Adults show <strong>radial symmetry</strong> (larvae are bilateral), with an endoskeleton of calcareous ossicles (spiny skin) and a unique <strong>water vascular system</strong> with tube feet for locomotion, capture and transport. Sexes separate; development indirect. Examples: <em>Asterias</em> (starfish), <em>Echinus</em> (sea urchin), <em>Cucumaria</em> (sea cucumber), <em>Antedon</em>.</p>"
+        },
+        {
+          "id": "ak-hemichordata",
+          "level": 2,
+          "heading": "11. Hemichordata",
+          "html": "<p>Marine, worm-like, bilaterally symmetrical, triploblastic, coelomate animals with a body of proboscis, collar and trunk. They have a rudimentary structure (stomochord) in the collar — formerly considered a notochord — so they are a link between non-chordates and chordates. Example: <em>Balanoglossus</em>, <em>Saccoglossus</em>.</p>"
+        },
+        {
+          "id": "ak-chordata",
+          "level": 2,
+          "heading": "12. Chordata — fundamental features & protochordates",
+          "html": "<p>Chordates share four <strong>fundamental characters</strong>: a <strong>notochord</strong>, a <strong>dorsal hollow nerve cord</strong>, <strong>paired pharyngeal gill slits</strong>, and a post-anal tail (with a closed circulatory system). Chordata has three subphyla:</p><ul><li><strong>Urochordata (Tunicata)</strong> — notochord only in the larval tail (e.g. <em>Ascidia</em>, <em>Salpa</em>, <em>Doliolum</em>).</li><li><strong>Cephalochordata</strong> — notochord extends head to tail and persists (e.g. <em>Branchiostoma/Amphioxus</em>, the lancelet).</li><li><strong>Vertebrata</strong> — notochord replaced by a vertebral column; have a ventral heart, kidneys and paired appendages.</li></ul><p>(All vertebrates are chordates, but not all chordates are vertebrates.)</p>"
+        },
+        {
+          "id": "ak-cyclostomata",
+          "level": 2,
+          "heading": "13. Cyclostomata (jawless fishes)",
+          "html": "<p>Jawless (Agnatha) vertebrates with a circular sucking mouth, no scales or paired fins, and a cartilaginous skeleton. Many are <strong>ectoparasites</strong> on fishes. They are marine but migrate to fresh water to spawn. Examples: <em>Petromyzon</em> (lamprey), <em>Myxine</em> (hagfish).</p>"
+        },
+        {
+          "id": "ak-pisces",
+          "level": 2,
+          "heading": "14. Pisces (fishes)",
+          "html": "<p>Aquatic, gill-breathing, cold-blooded vertebrates with fins; the study of fishes is <strong>ichthyology</strong>. Two classes:</p><ul><li><strong>Chondrichthyes</strong> — cartilaginous fishes; marine; mouth <strong>ventral</strong>; gill slits without an operculum; placoid scales; males bear <strong>claspers</strong> on pelvic fins; internal fertilisation; mostly oviparous. Examples: <em>Scoliodon</em> (dogfish), <em>Pristis</em> (sawfish), <em>Trygon</em> (sting ray), <em>Torpedo</em>.</li><li><strong>Osteichthyes</strong> — bony fishes (marine and freshwater); mouth terminal; gills covered by an <strong>operculum</strong>; cycloid/ctenoid scales; air bladder regulates buoyancy; mostly oviparous, external fertilisation. Examples: <em>Labeo</em> (rohu), <em>Hippocampus</em> (sea horse), <em>Catla</em>, <em>Exocoetus</em> (flying fish), <em>Clarias</em>.</li></ul>"
+        },
+        {
+          "id": "ak-amphibia",
+          "level": 2,
+          "heading": "15. Amphibia",
+          "html": "<p>Cold-blooded tetrapods that live both on land and in water; skin is moist and <strong>without scales</strong>; respire by gills, lungs and skin. Heart is three-chambered; mostly oviparous with external fertilisation and indirect development. Examples: <em>Rana</em> (frog), <em>Bufo</em> (toad), <em>Hyla</em> (tree frog), <em>Salamandra</em>, <em>Ichthyophis</em> (limbless caecilian).</p>"
+        },
+        {
+          "id": "ak-reptilia",
+          "level": 2,
+          "heading": "16. Reptilia",
+          "html": "<p>Creeping, cold-blooded tetrapods with a body covered by <strong>dry, scaly skin</strong> (epidermal scales); respire by lungs; heart usually <strong>three-chambered</strong> (four-chambered in crocodiles). They are largely terrestrial, lay <strong>shelled eggs on land</strong> (internal fertilisation, oviparous). Some snakes are poisonous (cobra, krait, viper). Examples: <em>Chelone</em> (turtle), <em>Testudo</em> (tortoise), <em>Chameleon</em>, <em>Calotes</em> (garden lizard), <em>Naja</em> (cobra), <em>Crocodilus</em>.</p>"
+        },
+        {
+          "id": "ak-aves",
+          "level": 2,
+          "heading": "17. Aves (birds)",
+          "html": "<p><strong>Warm-blooded (homoiothermous)</strong> vertebrates adapted for flight: body covered with <strong>feathers</strong>, forelimbs modified into <strong>wings</strong>, a beak without teeth, and <strong>pneumatic (hollow) bones</strong>. The heart is <strong>four-chambered</strong>; lungs have air sacs; they are oviparous. Examples: <em>Corvus</em> (crow), <em>Columba</em> (pigeon), <em>Psittacula</em> (parrot), <em>Struthio</em> (ostrich), <em>Pavo</em> (peacock), penguin (<em>Aptenodytes</em>).</p>"
+        },
+        {
+          "id": "ak-mammalia",
+          "level": 2,
+          "heading": "18. Mammalia",
+          "html": "<p><strong>Warm-blooded</strong> vertebrates with <strong>mammary glands</strong> (milk), <strong>hair/body fur</strong>, external ears (pinnae), a muscular diaphragm and a <strong>four-chambered heart</strong>; most are viviparous. Reproductive types: <strong>oviparous (egg-laying)</strong> — <em>Ornithorhynchus</em> (platypus), <em>Echidna</em>; <strong>marsupials</strong> — <em>Macropus</em> (kangaroo); <strong>placental</strong> — most others. <strong>Bats and whales are mammals</strong> (whales bear young and feed milk; bats are the only truly flying mammals). Examples: <em>Homo</em> (man), <em>Panthera</em>, <em>Balaenoptera</em> (blue whale), <em>Pteropus</em> (flying fox).</p>"
+        }
+      ]
     }
   ]
 }
