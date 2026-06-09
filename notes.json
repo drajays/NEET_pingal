@@ -777,6 +777,98 @@
           "html": "<p><strong>Microbodies</strong> are tiny membrane-bound vesicles containing enzymes, present in plant and animal cells — e.g. <strong>peroxisomes</strong> (photorespiration, H₂O₂ breakdown) and <strong>glyoxysomes</strong> (fat-rich germinating seeds).</p>"
         }
       ]
+    },
+    {
+      "id": "bio11-ch09",
+      "class": 11,
+      "chapterNo": 9,
+      "title": "Biomolecules",
+      "topic": "Biomolecules",
+      "intro": "NCERT Class XI Chapter 9: the chemical constituents of living cells — amino acids, proteins, carbohydrates, lipids and nucleic acids — and a detailed look at enzymes and the metabolic state of the cell.",
+      "sections": [
+        {
+          "id": "bm-overview",
+          "level": 2,
+          "heading": "1. Analysis & types of biomolecules",
+          "html": "<p>Chemical analysis: an <strong>acid-soluble pool</strong> of <strong>micromolecules</strong> (MW < 1000 Da — amino acids, sugars, nucleotides) and an <strong>acid-insoluble fraction</strong> of <strong>macromolecules</strong> (proteins, nucleic acids, polysaccharides; lipids stay in this fraction though small). <strong>Primary metabolites</strong> (amino acids, sugars) have direct roles in physiology; <strong>secondary metabolites</strong> (alkaloids, rubber, pigments, drugs) have ecological/commercial roles. By mass in a cell, <strong>water is most abundant</strong>; among macromolecules <strong>proteins</strong> are the most abundant, and overall <strong>carbohydrates</strong> are abundant in the biosphere (cellulose).</p>"
+        },
+        {
+          "id": "bm-amino-acids",
+          "level": 2,
+          "heading": "2. Amino acids",
+          "html": "<p>Amino acids are substituted methanes with an <strong>amino (–NH₂)</strong> group, a <strong>carboxyl (–COOH)</strong> group, an H and a variable <strong>R group</strong> on the same α-carbon. About <strong>20</strong> occur in proteins; based on R they are acidic (glutamic acid), basic (lysine), neutral, aromatic, etc. They are <strong>zwitterionic</strong> (ionisable, so charge changes with pH). Nine are <strong>essential</strong> (must be taken in diet).</p>"
+        },
+        {
+          "id": "bm-proteins",
+          "level": 2,
+          "heading": "3. Proteins",
+          "html": "<p>Proteins are <strong>polypeptides</strong> — amino acids linked by <strong>peptide bonds</strong>. Levels of structure: <strong>primary</strong> (sequence), <strong>secondary</strong> (helix/sheet), <strong>tertiary</strong> (3-D folding), and <strong>quaternary</strong> (assembly of subunits, e.g. haemoglobin's four chains). <strong>Collagen</strong> is the most abundant protein in the animal world; <strong>RuBisCO</strong> is the most abundant protein in the whole biosphere. Proteins act as enzymes, transporters (GLUT-4), antibodies, hormones, receptors and structural elements.</p>"
+        },
+        {
+          "id": "bm-carbohydrates",
+          "level": 2,
+          "heading": "4. Carbohydrates",
+          "html": "<p>Polyhydroxy aldehydes/ketones. <strong>Monosaccharides</strong> (glucose, fructose, ribose) cannot be hydrolysed; <strong>disaccharides</strong> (sucrose, lactose, maltose) and <strong>polysaccharides</strong> form on linking by <strong>glycosidic bonds</strong>. Storage polysaccharides: <strong>starch</strong> (plants — forms a helix that gives a blue colour with iodine) and <strong>glycogen</strong> (animals); structural: <strong>cellulose</strong> (plant cell wall, no helices), chitin and inulin (fructose polymer).</p>"
+        },
+        {
+          "id": "bm-lipids",
+          "level": 2,
+          "heading": "5. Lipids",
+          "html": "<p>Generally water-insoluble. <strong>Fatty acids</strong> (e.g. palmitic, arachidonic) may be <strong>saturated</strong> or <strong>unsaturated</strong>. <strong>Glycerides</strong> (fats and oils) are esters of glycerol with fatty acids; oils have a low melting point (liquid in winter, e.g. gingelly oil). <strong>Phospholipids</strong> (lecithin) have a phosphate group and are key membrane lipids.</p>"
+        },
+        {
+          "id": "bm-nucleic-acids",
+          "level": 2,
+          "heading": "6. Nucleic acids",
+          "html": "<p>Polymers of <strong>nucleotides</strong>; each nucleotide = a nitrogenous base + a pentose sugar (ribose/deoxyribose) + a phosphate. Bases: <strong>purines</strong> (adenine, guanine) and <strong>pyrimidines</strong> (cytosine, thymine in DNA / uracil in RNA). Nucleotides join through <strong>3′–5′ phosphodiester bonds</strong>. DNA and RNA are the genetic/expression molecules (detailed in Ch 6, Class XII).</p>"
+        },
+        {
+          "id": "bm-enzymes",
+          "level": 2,
+          "heading": "7. Enzymes",
+          "html": "<p>Enzymes are biological <strong>catalysts</strong> (almost all proteins; some RNAs are <strong>ribozymes</strong>). They have an <strong>active site</strong> into which the substrate fits (the substrate forms an <strong>enzyme–substrate complex</strong>); they greatly <strong>lower the activation energy</strong>. Properties: highly <strong>specific</strong>, reusable, and sensitive to <strong>temperature and pH</strong> (each has an optimum; high temperature denatures them). Activity is also affected by substrate concentration and inhibitors (competitive inhibition, e.g. malonate on succinic dehydrogenase). Classified into six classes: <strong>oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases</strong>. Many need <strong>cofactors</strong>: prosthetic groups, <strong>coenzymes</strong> (often vitamin-derived, e.g. NAD/FAD) and metal ion <strong>activators</strong>; the protein part alone is the <strong>apoenzyme</strong>, and with cofactor the active <strong>holoenzyme</strong>.</p>"
+        },
+        {
+          "id": "bm-metabolism",
+          "level": 2,
+          "heading": "8. Metabolism & the living state",
+          "html": "<p>Thousands of <strong>metabolic reactions</strong> occur in the cell, organised into <strong>pathways</strong> (anabolic — build-up, use energy; catabolic — break-down, release energy). Metabolites are constantly interconverted (a <strong>dynamic state</strong>) and pooled (the <strong>metabolic pool</strong>). The living state is a non-equilibrium <strong>steady state</strong> maintained by the continuous flow of metabolism — work is possible only because the system is not at equilibrium.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch10",
+      "class": 11,
+      "chapterNo": 10,
+      "title": "Cell Cycle and Cell Division",
+      "topic": "Cell Cycle and Cell Division",
+      "intro": "NCERT Class XI Chapter 10: the phases of the cell cycle, mitosis (equational division) and meiosis (reductional division), and the significance of each.",
+      "sections": [
+        {
+          "id": "cc-cell-cycle",
+          "level": 2,
+          "heading": "1. The cell cycle",
+          "html": "<p>The cell cycle is the sequence of events between two divisions. In a typical human cell (~24 h) it has two broad phases: <strong>interphase</strong> (the long preparatory phase) and the <strong>M phase</strong> (division). Interphase = <strong>G₁</strong> (cell grows, metabolically active), <strong>S</strong> (DNA <strong>replication</strong> — DNA doubles but chromosome number stays the same; centriole also duplicates) and <strong>G₂</strong> (growth, preparation for mitosis). Non-dividing cells exit into a quiescent <strong>G₀</strong> stage. In animal cells division uses a <strong>centriolar spindle</strong>; plants lack centrioles.</p>"
+        },
+        {
+          "id": "cc-mitosis",
+          "level": 2,
+          "heading": "2. Mitosis (M phase)",
+          "html": "<p><strong>Mitosis</strong> is <strong>equational</strong> — the daughter cells get the <strong>same chromosome number</strong> as the parent. It occurs in somatic cells. <strong>Karyokinesis</strong> (nuclear division) has four stages:</p><ul><li><strong>Prophase</strong> — chromosomes condense (each with two chromatids joined at the centromere); spindle begins to form; nuclear envelope and nucleolus disappear.</li><li><strong>Metaphase</strong> — chromosomes align at the <strong>equatorial (metaphase) plate</strong>; spindle fibres attach to kinetochores. Best stage to study chromosome morphology.</li><li><strong>Anaphase</strong> — centromeres split and <strong>sister chromatids move to opposite poles</strong>.</li><li><strong>Telophase</strong> — chromosomes decondense; nuclear envelope and nucleolus reappear.</li></ul><p><strong>Cytokinesis</strong> (cytoplasmic division) follows: a <strong>cleavage furrow</strong> in animal cells, a <strong>cell plate</strong> forming from centre outward in plant cells. Mitosis enables growth, repair and cell replacement, keeping the genome constant.</p>"
+        },
+        {
+          "id": "cc-meiosis",
+          "level": 2,
+          "heading": "3. Meiosis",
+          "html": "<p><strong>Meiosis</strong> is <strong>reductional</strong> — two successive divisions (meiosis I and II) with DNA replicated only once, giving <strong>four haploid</strong> cells from one diploid cell; it occurs in germ cells and ensures gamete/spore formation. <strong>Meiosis I</strong> separates homologous chromosomes; <strong>Meiosis II</strong> is mitosis-like (separates sister chromatids).</p><p><strong>Prophase I</strong> is long, with five sub-stages: <strong>Leptotene</strong> (chromosomes condense) → <strong>Zygotene</strong> (<strong>synapsis</strong>: homologous chromosomes pair forming bivalents/synaptonemal complex) → <strong>Pachytene</strong> (<strong>crossing over</strong> — recombination between non-sister chromatids, catalysed by recombination nodules) → <strong>Diplotene</strong> (homologues separate but stay joined at <strong>chiasmata</strong>) → <strong>Diakinesis</strong> (terminalisation of chiasmata, nuclear envelope breaks down). In <strong>Metaphase I</strong> bivalents align; in <strong>Anaphase I</strong> homologous chromosomes (not chromatids) separate.</p>"
+        },
+        {
+          "id": "cc-significance",
+          "level": 2,
+          "heading": "4. Significance of meiosis",
+          "html": "<p>Meiosis <strong>halves the chromosome number</strong>, so fertilisation restores the diploid number across generations (genome stability of a species). <strong>Crossing over and the random assortment</strong> of homologous chromosomes generate <strong>genetic variation</strong> — the raw material for evolution.</p>"
+        }
+      ]
     }
   ]
 }
