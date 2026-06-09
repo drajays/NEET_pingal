@@ -973,6 +973,1646 @@
           "html": "<p>Complete aerobic oxidation of one glucose yields a net of about <strong>36–38 ATP</strong>. Respiration is an <strong>amphibolic pathway</strong> — it both breaks down (catabolic) and provides intermediates for the synthesis (anabolic) of fats, amino acids, etc. Fats are broken to acetyl-CoA, proteins to keto acids before entering respiration. (Aerobic respiration is far more efficient than fermentation.)</p>"
         }
       ]
+    },
+    {
+      "id": "bio11-ch14",
+      "class": 11,
+      "chapterNo": 14,
+      "title": "Breathing and Exchange of Gases",
+      "topic": "Breathing and Exchange of Gases",
+      "intro": "NCERT Class XI Chapter 14: respiratory organs, the mechanism of breathing, exchange and transport of O₂ and CO₂, regulation of respiration, and disorders of the respiratory system.",
+      "sections": [
+        {
+          "id": "br-overview",
+          "level": 2,
+          "heading": "1. Overview & steps of respiration",
+          "html": "<p><strong>Breathing</strong> (pulmonary ventilation) is the exchange of atmospheric O₂ with alveolar CO₂. Respiration in animals involves: (i) <strong>breathing</strong> — inspiration and expiration; (ii) <strong>diffusion</strong> of O₂ and CO₂ across the alveolar membrane; (iii) <strong>transport</strong> of gases by blood; (iv) <strong>tissue exchange</strong>; (v) <strong>cellular respiration</strong> (Ch 12). Lower invertebrates exchange gases by simple diffusion; earthworms use the moist cuticle; insects use <strong>tracheae</strong>; aquatic forms use <strong>gills</strong>; terrestrial vertebrates use <strong>lungs</strong>. Amphibians also respire through moist skin (<strong>cutaneous respiration</strong>).</p>"
+        },
+        {
+          "id": "br-respiratory-organs",
+          "level": 2,
+          "heading": "2. Human respiratory system",
+          "html": "<p>Air enters through <strong>external nostrils → nasal chamber → pharynx → larynx</strong> (cartilaginous sound box; <strong>epiglottis</strong> covers glottis during swallowing) → <strong>trachea</strong> (incomplete cartilaginous rings) → right/left <strong>primary bronchi</strong> (at 5th thoracic vertebra) → secondary/tertiary bronchi → <strong>bronchioles</strong> → thin vascular <strong>alveoli</strong> (site of gas exchange). The <strong>conducting part</strong> (nostrils to terminal bronchioles) warms, humidifies and filters air; the <strong>exchange part</strong> (alveoli and ducts) is where diffusion occurs. Lungs lie in the airtight <strong>thoracic cavity</strong> (vertebral column, sternum, ribs, <strong>diaphragm</strong>), covered by double-layered <strong>pleura</strong> with pleural fluid reducing friction.</p>"
+        },
+        {
+          "id": "br-mechanism",
+          "level": 2,
+          "heading": "3. Mechanism of breathing",
+          "html": "<p><strong>Inspiration</strong>: contraction of the <strong>diaphragm</strong> (increases thoracic volume antero-posteriorly) and <strong>external intercostal muscles</strong> (lift ribs/sternum, dorso-ventral axis) → thoracic and pulmonary volume increase → <strong>intrapulmonary pressure falls below atmospheric</strong> → air flows in. <strong>Expiration</strong>: relaxation of diaphragm and intercostals → thoracic volume decreases → intrapulmonary pressure rises above atmospheric → air expelled. Forced breathing uses abdominal muscles. Average rate: <strong>12–16 breaths/min</strong>. A <strong>spirometer</strong> measures pulmonary volumes.</p>"
+        },
+        {
+          "id": "br-volumes",
+          "level": 2,
+          "heading": "4. Respiratory volumes & capacities",
+          "html": "<ul><li><strong>Tidal Volume (TV)</strong> — air inspired/expired per normal breath (~500 mL).</li><li><strong>IRV</strong> — extra inspired forcibly (~2500–3000 mL).</li><li><strong>ERV</strong> — extra expired forcibly (~1000–1100 mL).</li><li><strong>RV</strong> — air left after forced expiration (~1100–1200 mL).</li><li><strong>IC</strong> = TV + IRV; <strong>EC</strong> = TV + ERV.</li><li><strong>FRC</strong> = ERV + RV (after normal expiration).</li><li><strong>VC</strong> = ERV + TV + IRV (max breath in/out).</li><li><strong>TLC</strong> = VC + RV (total lung capacity).</li></ul>"
+        },
+        {
+          "id": "br-exchange",
+          "level": 2,
+          "heading": "5. Exchange of gases",
+          "html": "<p>Exchange at alveoli and tissues occurs by <strong>simple diffusion</strong> down partial-pressure gradients. <strong>Partial pressure</strong> (pO₂, pCO₂) drives movement: O₂ from alveoli (pO₂ ~104 mm Hg) to deoxygenated blood (~40) to tissues; CO₂ in the opposite direction. <strong>CO₂ is 20–25× more soluble</strong> than O₂, so more diffuses per unit gradient. The <strong>diffusion membrane</strong> = alveolar squamous epithelium + basement membrane + capillary endothelium (&lt;1 mm thick). Rate depends on gradient, solubility and membrane thickness.</p>"
+        },
+        {
+          "id": "br-transport-o2",
+          "level": 2,
+          "heading": "6. Transport of oxygen",
+          "html": "<p>~<strong>97% of O₂</strong> is carried by RBCs bound to <strong>haemoglobin</strong> (oxyhaemoglobin, reversible; max 4 O₂ per Hb); ~3% dissolved in plasma. Binding depends on pO₂, pCO₂, H⁺ and temperature. The <strong>oxygen dissociation curve</strong> (sigmoid) shows % saturation vs pO₂. At alveoli (high pO₂, low pCO₂, low H⁺, lower T) Hb loads O₂; at tissues (low pO₂, high pCO₂, high H⁺, higher T) O₂ is released. Every 100 mL oxygenated blood delivers ~<strong>5 mL O₂</strong> to tissues.</p>"
+        },
+        {
+          "id": "br-transport-co2",
+          "level": 2,
+          "heading": "7. Transport of carbon dioxide",
+          "html": "<p>CO₂ transport: ~<strong>70% as bicarbonate</strong> (HCO₃⁻, via <strong>carbonic anhydrase</strong>: CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻); ~20–25% as <strong>carbamino-haemoglobin</strong>; ~7% dissolved. At tissues (high pCO₂) CO₂ enters blood → bicarbonate; at alveoli (low pCO₂) reaction reverses → CO₂ released. The <strong>chloride shift</strong> balances ionic charge. ~100 mL deoxygenated blood delivers ~<strong>4 mL CO₂</strong> to alveoli.</p>"
+        },
+        {
+          "id": "br-regulation",
+          "level": 2,
+          "heading": "8. Regulation of respiration",
+          "html": "<p>The <strong>respiratory rhythm centre</strong> in the medulla sets the basic breathing pattern. The <strong>pneumotaxic centre</strong> in the pons moderates it (shortens inspiration). A <strong>chemosensitive area</strong> near the rhythm centre responds to ↑CO₂ and H⁺. <strong>Peripheral chemoreceptors</strong> in the aortic arch and carotid artery also detect CO₂/H⁺ changes. O₂ plays a minor role in normal regulation. Neural control allows breathing to match tissue demands (e.g. exercise, altitude).</p>"
+        },
+        {
+          "id": "br-disorders",
+          "level": 2,
+          "heading": "9. Disorders of the respiratory system",
+          "html": "<ul><li><strong>Asthma</strong> — bronchi/bronchiole inflammation → wheezing, difficulty breathing.</li><li><strong>Emphysema</strong> — alveolar wall damage (often smoking) → reduced respiratory surface.</li><li><strong>Occupational respiratory disorders</strong> — dust (grinding, stone-breaking) → inflammation, fibrosis; workers need protective masks.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch15",
+      "class": 11,
+      "chapterNo": 15,
+      "title": "Body Fluids and Circulation",
+      "topic": "Body Fluids and Circulation",
+      "intro": "NCERT Class XI Chapter 15: blood and lymph, circulatory pathways, the human heart and cardiac cycle, double circulation, regulation of cardiac activity, and disorders of the circulatory system.",
+      "sections": [
+        {
+          "id": "bf-overview",
+          "level": 2,
+          "heading": "1. Overview — body fluids & circulation",
+          "html": "<p>Higher animals transport nutrients, O₂ and wastes via specialised fluids. <strong>Blood</strong> is the main body fluid; <strong>lymph</strong> (tissue fluid) assists transport. Circulation may be <strong>open</strong> (arthropods, molluscs — blood into sinuses) or <strong>closed</strong> (annelids, chordates — blood in vessels). All vertebrates have a muscular chambered heart; pattern varies from 2-chambered (fish) to 4-chambered (birds, mammals).</p>"
+        },
+        {
+          "id": "bf-plasma",
+          "level": 2,
+          "heading": "2. Plasma",
+          "html": "<p><strong>Plasma</strong> is straw-coloured, viscous (~55% of blood); ~90–92% water, 6–8% proteins (<strong>fibrinogen</strong> — clotting; <strong>globulins</strong> — defence; <strong>albumin</strong> — osmotic balance). Contains minerals (Na⁺, Ca²⁺, Mg²⁺, HCO₃⁻, Cl⁻), glucose, amino acids, lipids and inactive clotting factors. <strong>Serum</strong> = plasma without clotting factors.</p>"
+        },
+        {
+          "id": "bf-formed-elements",
+          "level": 2,
+          "heading": "3. Formed elements",
+          "html": "<p>~45% of blood. <strong>RBCs (erythrocytes)</strong> — most abundant (~5–5.5 million/mm³), biconcave, enucleate in mammals, contain <strong>haemoglobin</strong> (12–16 g/100 mL), lifespan ~120 days, destroyed in spleen. <strong>WBCs (leucocytes)</strong> — ~6000–8000/mm³; <strong>granulocytes</strong> (neutrophils 60–65%, eosinophils 2–3%, basophils 0.5–1%) and <strong>agranulocytes</strong> (lymphocytes 20–25%, monocytes 6–8%). <strong>Platelets (thrombocytes)</strong> — 1.5–3.5 lakh/mm³, fragments from megakaryocytes, essential for clotting.</p>"
+        },
+        {
+          "id": "bf-blood-groups",
+          "level": 2,
+          "heading": "4. Blood groups (ABO & Rh)",
+          "html": "<p><strong>ABO</strong> — based on A/B antigens on RBCs and anti-A/anti-B antibodies in plasma: A (anti-B), B (anti-A), AB (no antibodies, <strong>universal recipient</strong>), O (anti-A,B; <strong>universal donor</strong>). <strong>Rh</strong> — Rh antigen on RBCs (~80% Rh⁺). Rh⁻ exposed to Rh⁺ blood forms anti-Rh antibodies. <strong>Erythroblastosis foetalis</strong> — Rh⁻ mother, Rh⁺ foetus in subsequent pregnancies; prevented by anti-Rh after first delivery.</p>"
+        },
+        {
+          "id": "bf-coagulation",
+          "level": 2,
+          "heading": "5. Coagulation of blood",
+          "html": "<p>Injury triggers clotting to prevent blood loss. A <strong>clot (coagulum)</strong> is a fibrin mesh trapping damaged cells. <strong>Thrombokinase</strong> activates <strong>prothrombin → thrombin</strong>, which converts <strong>fibrinogen → fibrin</strong> (cascade process). Platelets and tissue factors initiate the cascade. <strong>Ca²⁺</strong> is essential.</p>"
+        },
+        {
+          "id": "bf-lymph",
+          "level": 2,
+          "heading": "6. Lymph (tissue fluid)",
+          "html": "<p>As blood passes through capillaries, water and small solutes leave into intercellular spaces → <strong>tissue/interstitial fluid</strong> (same mineral distribution as plasma, minus most proteins). The <strong>lymphatic system</strong> collects this as <strong>lymph</strong> (colourless, with lymphocytes) and returns it to major veins. Lymph carries nutrients, hormones; <strong>lacteals</strong> in intestinal villi absorb fats.</p>"
+        },
+        {
+          "id": "bf-circulatory-pathways",
+          "level": 2,
+          "heading": "7. Circulatory pathways",
+          "html": "<p><strong>Fish</strong> — 2-chambered heart, single circulation (heart → gills → body → heart). <strong>Amphibians/reptiles</strong> (except crocodile) — 3-chambered, incomplete double circulation (mixed blood in single ventricle). <strong>Crocodiles, birds, mammals</strong> — 4-chambered, <strong>complete double circulation</strong> (no mixing). Closed system allows precise flow regulation.</p>"
+        },
+        {
+          "id": "bf-human-heart",
+          "level": 2,
+          "heading": "8. Human heart & conduction system",
+          "html": "<p>Mesodermal, fist-sized, in thoracic cavity between lungs, tilted left, in <strong>pericardium</strong>. Four chambers: right/left <strong>atria</strong> (upper), right/left <strong>ventricles</strong> (lower, thicker walls). <strong>Tricuspid</strong> (RA→RV), <strong>bicuspid/mitral</strong> (LA→LV), <strong>semilunar</strong> valves (RV→pulmonary artery, LV→aorta) ensure one-way flow. <strong>Nodal tissue</strong>: <strong>SAN</strong> (pacemaker, 70–75 impulses/min) → <strong>AVN</strong> → <strong>AV bundle (Bundle of His)</strong> → <strong>Purkinje fibres</strong>. Heart is <strong>myogenic</strong> (autoexcitable).</p>"
+        },
+        {
+          "id": "bf-cardiac-cycle",
+          "level": 2,
+          "heading": "9. Cardiac cycle",
+          "html": "<p>Sequential systole and diastole (~0.8 s, ~72 cycles/min). <strong>Joint diastole</strong> → SAN fires → <strong>atrial systole</strong> (~30% extra filling) → <strong>ventricular systole</strong> (AV valves close — 'lub'; semilunar open → blood to pulmonary artery/aorta) → ventricular diastole (semilunar close — 'dub'). <strong>Stroke volume</strong> ~70 mL; <strong>cardiac output</strong> = stroke volume × heart rate ≈ 5 L/min.</p>"
+        },
+        {
+          "id": "bf-ecg",
+          "level": 2,
+          "heading": "10. Electrocardiogram (ECG)",
+          "html": "<p>Graphical record of heart's electrical activity. <strong>P wave</strong> — atrial depolarisation; <strong>QRS complex</strong> — ventricular depolarisation/contraction onset; <strong>T wave</strong> — ventricular repolarisation. Heart rate = QRS complexes per minute. Deviations indicate abnormalities.</p>"
+        },
+        {
+          "id": "bf-double-circulation",
+          "level": 2,
+          "heading": "11. Double circulation & blood vessels",
+          "html": "<p><strong>Pulmonary circulation</strong>: RV → pulmonary artery → lungs (O₂ pickup) → pulmonary veins → LA. <strong>Systemic circulation</strong>: LV → aorta → tissues → vena cava → RA. Vessels have three layers: tunica intima, media, externa. <strong>Hepatic portal system</strong> — intestine → liver → systemic circulation. <strong>Coronary circulation</strong> supplies cardiac muscle.</p>"
+        },
+        {
+          "id": "bf-regulation",
+          "level": 2,
+          "heading": "12. Regulation of cardiac activity",
+          "html": "<p>Intrinsic (nodal tissue) plus neural/hormonal modulation. Medullary cardiac centre via <strong>ANS</strong>: <strong>sympathetic</strong> ↑rate and contractility; <strong>parasympathetic</strong> (vagus) ↓rate and conduction. <strong>Adrenal medullary hormones</strong> (adrenaline/noradrenaline) increase cardiac output.</p>"
+        },
+        {
+          "id": "bf-disorders",
+          "level": 2,
+          "heading": "13. Disorders of circulatory system",
+          "html": "<ul><li><strong>Hypertension</strong> — BP persistently &gt;140/90 mm Hg.</li><li><strong>CAD/atherosclerosis</strong> — arterial plaque narrows coronary vessels.</li><li><strong>Angina</strong> — chest pain from insufficient O₂ to heart muscle.</li><li><strong>Heart failure</strong> — heart cannot pump effectively (≠ cardiac arrest or heart attack).</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch16",
+      "class": 11,
+      "chapterNo": 16,
+      "title": "Excretory Products and Their Elimination",
+      "topic": "Products and Their Elimination",
+      "intro": "NCERT Class XI Chapter 16: nitrogenous waste excretion, the human excretory system, urine formation, counter-current mechanism, regulation of kidney function, and disorders.",
+      "sections": [
+        {
+          "id": "ex-overview",
+          "level": 2,
+          "heading": "1. Overview — excretion & nitrogenous wastes",
+          "html": "<p>Metabolism produces wastes (ammonia, urea, uric acid, CO₂, ions) that must be eliminated. Major nitrogenous wastes: <strong>ammonia</strong> (most toxic, needs much water — <strong>ammonotelic</strong>: bony fishes, aquatic amphibians/insects), <strong>urea</strong> (<strong>ureotelic</strong>: mammals, terrestrial amphibians, marine fishes), <strong>uric acid</strong> (<strong>uricotelic</strong>: reptiles, birds, insects, land snails — minimal water loss).</p>"
+        },
+        {
+          "id": "ex-excretory-structures",
+          "level": 2,
+          "heading": "2. Excretory structures in animals",
+          "html": "<p><strong>Protonephridia/flame cells</strong> — Platyhelminthes, rotifers, Amphioxus (osmoregulation). <strong>Nephridia</strong> — annelids (earthworm). <strong>Malpighian tubules</strong> — insects. <strong>Antennal/green glands</strong> — crustaceans. <strong>Kidneys</strong> — vertebrate excretory organs.</p>"
+        },
+        {
+          "id": "ex-human-system",
+          "level": 2,
+          "heading": "3. Human excretory system",
+          "html": "<p>Pair of <strong>kidneys</strong> (bean-shaped, 10–12 × 5–7 × 2–3 cm, ~120–170 g), <strong>ureters</strong>, <strong>urinary bladder</strong>, <strong>urethra</strong>. Kidney: <strong>hilum</strong> (ureter, vessels, nerves), <strong>renal pelvis</strong> with calyces, outer <strong>cortex</strong>, inner <strong>medulla</strong> (pyramids), <strong>Columns of Bertini</strong>. ~1 million <strong>nephrons</strong> per kidney.</p>"
+        },
+        {
+          "id": "ex-nephron",
+          "level": 2,
+          "heading": "4. Nephron structure",
+          "html": "<p>Functional unit: <strong>glomerulus</strong> (afferent → efferent arteriole capillary tuft) + <strong>Bowman's capsule</strong> = <strong>Malpighian/renal corpuscle</strong>. Tubule: <strong>PCT</strong> → <strong>Henle's loop</strong> (descending + ascending) → <strong>DCT</strong> → <strong>collecting duct</strong> → renal pelvis. <strong>Cortical nephrons</strong> (short loop); <strong>juxtamedullary nephrons</strong> (long loop into medulla). <strong>Peritubular capillaries</strong> and <strong>vasa recta</strong> (U-shaped, parallel to Henle's loop) surround tubules.</p>"
+        },
+        {
+          "id": "ex-urine-formation",
+          "level": 2,
+          "heading": "5. Urine formation",
+          "html": "<p>Three processes: <strong>glomerular filtration</strong> (ultrafiltration through endothelium, basement membrane, podocyte slits; proteins retained; <strong>GFR</strong> ~125 mL/min ≈ 180 L/day), <strong>reabsorption</strong> (~99% of filtrate returned) and <strong>tubular secretion</strong> (H⁺, K⁺, NH₃). <strong>JGA</strong> (juxtaglomerular apparatus) regulates GFR via renin when flow/pressure falls.</p>"
+        },
+        {
+          "id": "ex-tubules",
+          "level": 2,
+          "heading": "6. Function of nephron segments",
+          "html": "<p><strong>PCT</strong> — brush border; reabsorbs ~70–80% water, electrolytes, all glucose/amino acids; secretes H⁺, NH₃. <strong>Henle's loop</strong> — descending limb permeable to water; ascending impermeable to water, transports electrolytes (builds medullary osmolarity). <strong>DCT</strong> — conditional Na⁺/water reabsorption; H⁺/K⁺/NH₃ secretion. <strong>Collecting duct</strong> — water reabsorption (concentrated urine), urea recycling, pH/ionic balance.</p>"
+        },
+        {
+          "id": "ex-counter-current",
+          "level": 2,
+          "heading": "7. Counter-current mechanism",
+          "html": "<p>Opposing flow in Henle's loop limbs and vasa recta creates a medullary osmolarity gradient (300 → ~1200 mOsmol L⁻¹) via NaCl and urea transport. Enables collecting duct to produce urine <strong>~4× concentrated</strong> over initial filtrate — vital water conservation.</p>"
+        },
+        {
+          "id": "ex-regulation",
+          "level": 2,
+          "heading": "8. Regulation of kidney function",
+          "html": "<p><strong>ADH/vasopressin</strong> (hypothalamus, osmoreceptors) — ↑water reabsorption in distal tubule/collecting duct. <strong>Renin-angiotensin-aldosterone</strong> (JGA) — renin → angiotensin II (vasoconstriction, ↑GFR) → aldosterone (↑Na⁺/water reabsorption). <strong>ANF</strong> (atria, ↑blood volume) — vasodilation, opposes RAAS. Together maintain blood volume, pressure and osmolarity.</p>"
+        },
+        {
+          "id": "ex-micturition",
+          "level": 2,
+          "heading": "9. Micturition",
+          "html": "<p>Urine stored in bladder until ~200–300 mL stretches walls → stretch receptors → CNS → motor signals → bladder smooth muscle contracts, urethral sphincter relaxes → <strong>micturition</strong> (<strong>micturition reflex</strong>; voluntary override in adults). Normal output ~1–1.5 L/day; urine slightly acidic (pH ~6), ~25–30 g urea/day.</p>"
+        },
+        {
+          "id": "ex-other-organs",
+          "level": 2,
+          "heading": "10. Role of other organs in excretion",
+          "html": "<p><strong>Lungs</strong> — CO₂ (~200 mL/min) and water vapour. <strong>Liver</strong> — bile pigments (bilirubin, biliverdin), cholesterol, steroids, drugs. <strong>Skin</strong> — sweat (NaCl, urea, lactic acid); sebaceous glands (sebum: sterols, waxes). Small nitrogenous wastes in saliva.</p>"
+        },
+        {
+          "id": "ex-disorders",
+          "level": 2,
+          "heading": "11. Disorders of excretory system",
+          "html": "<ul><li><strong>Uraemia</strong> — urea accumulation; treated by <strong>haemodialysis</strong> (artificial kidney) or <strong>kidney transplant</strong>.</li><li><strong>Renal calculi</strong> — kidney stones (oxalates, etc.).</li><li><strong>Glomerulonephritis</strong> — glomerular inflammation.</li><li><strong>Glycosuria/ketonuria</strong> — diagnostic of diabetes mellitus.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch17",
+      "class": 11,
+      "chapterNo": 17,
+      "title": "Locomotion and Movement",
+      "topic": "Locomotion and Movement",
+      "intro": "NCERT Class XI Chapter 17: types of movement, muscle structure and contraction, the skeletal system, joints, and disorders of the muscular and skeletal systems.",
+      "sections": [
+        {
+          "id": "lm-overview",
+          "level": 2,
+          "heading": "1. Movement & locomotion",
+          "html": "<p>Living organisms show diverse movements. Human cells exhibit <strong>amoeboid</strong> (macrophages, leucocytes), <strong>ciliary</strong> (trachea, oviduct) and <strong>muscular</strong> movements. <strong>Locomotion</strong> is voluntary movement changing body position (walking, running, swimming). All locomotion involves movement but not vice versa. Locomotion aids food, shelter, mate and escape.</p>"
+        },
+        {
+          "id": "lm-muscle-types",
+          "level": 2,
+          "heading": "2. Types of muscles",
+          "html": "<p>Muscle (~40–50% body weight) — mesodermal, excitable, contractile, extensible, elastic. <strong>Skeletal (striated, voluntary)</strong> — attached to skeleton, striped, multinucleate. <strong>Smooth (visceral, non-striated, involuntary)</strong> — hollow organs (GI tract, vessels), spindle-shaped, uninucleate. <strong>Cardiac</strong> — heart only, striated, branched, involuntary, intercalated discs.</p>"
+        },
+        {
+          "id": "lm-muscle-structure",
+          "level": 2,
+          "heading": "3. Skeletal muscle structure",
+          "html": "<p>Muscle → <strong>fascicles</strong> (bundles) → <strong>muscle fibres</strong> (syncytium: sarcolemma, multinucleate sarcoplasm, rich <strong>sarcoplasmic reticulum</strong> storing Ca²⁺). Each fibre has parallel <strong>myofibrils</strong> with alternating dark <strong>A bands</strong> (myosin) and light <strong>I bands</strong> (actin). <strong>Z line</strong> bisects each I band. <strong>Sarcomere</strong> = region between two Z lines (functional contractile unit). <strong>H zone</strong> = central thick-filament only region.</p>"
+        },
+        {
+          "id": "lm-contractile-proteins",
+          "level": 2,
+          "heading": "4. Contractile proteins",
+          "html": "<p><strong>Actin (thin)</strong> — F-actin (polymer of G-actin) + tropomyosin + troponin (troponin masks myosin-binding sites at rest). <strong>Myosin (thick)</strong> — polymer of <strong>meromyosins</strong> (HMM head with ATPase + actin-binding sites; LMM tail). Cross-bridges form between myosin heads and actin during contraction.</p>"
+        },
+        {
+          "id": "lm-contraction",
+          "level": 2,
+          "heading": "5. Mechanism of muscle contraction",
+          "html": "<p><strong>Sliding filament theory</strong>: CNS → motor neuron → <strong>neuromuscular junction</strong> (ACh release) → action potential in sarcolemma → Ca²⁺ from SR → Ca²⁺ binds troponin → actin sites exposed → myosin cross-bridges (ATP hydrolysis) pull actin → sarcomere shortens (I band and H zone shrink; A band unchanged). Ca²⁺ pumped back → relaxation. Repeated stimulation → lactic acid → <strong>fatigue</strong>. <strong>Red fibres</strong> (myoglobin-rich, aerobic); <strong>white fibres</strong> (less myoglobin, anaerobic).</p>"
+        },
+        {
+          "id": "lm-skeletal-system",
+          "level": 2,
+          "heading": "6. Skeletal system overview",
+          "html": "<p><strong>206 bones</strong> and cartilages — specialised connective tissue (bone: hard Ca²⁺ matrix; cartilage: pliable chondroitin matrix). Two divisions: <strong>axial</strong> (80 bones) and <strong>appendicular</strong>. Supports movement, protects organs, provides muscle attachment.</p>"
+        },
+        {
+          "id": "lm-axial-skeleton",
+          "level": 2,
+          "heading": "7. Axial skeleton",
+          "html": "<p><strong>Skull</strong> (22 bones: 8 cranial + 14 facial), <strong>hyoid</strong>, 3 <strong>ear ossicles</strong>/ear (malleus, incus, stapes), <strong>vertebral column</strong> (26 vertebrae: 7 cervical, 12 thoracic, 5 lumbar, 1 sacral fused, 1 coccygeal fused; atlas articulates with occipital condyles — <strong>dicondylic skull</strong>), <strong>sternum</strong>, <strong>12 pairs of ribs</strong> (7 true, 3 false/vertebrochondral, 2 floating) forming <strong>rib cage</strong>.</p>"
+        },
+        {
+          "id": "lm-appendicular",
+          "level": 2,
+          "heading": "8. Appendicular skeleton & girdles",
+          "html": "<p>Each limb = 30 bones. <strong>Forelimb</strong>: humerus, radius, ulna, 8 carpals, 5 metacarpals, 14 phalanges. <strong>Hindlimb</strong>: femur (longest bone), tibia, fibula, patella, 7 tarsals, 5 metatarsals, 14 phalanges. <strong>Pectoral girdle</strong> — scapula + clavicle (glenoid cavity with humerus). <strong>Pelvic girdle</strong> — two coxal bones (ilium, ischium, pubis fused; acetabulum with femur); pubic symphysis ventrally.</p>"
+        },
+        {
+          "id": "lm-joints",
+          "level": 2,
+          "heading": "9. Joints",
+          "html": "<p>Points of contact between bones/cartilage; muscles act through joints as levers. <strong>Fibrous</strong> — immovable (skull sutures). <strong>Cartilaginous</strong> — limited movement (intervertebral discs). <strong>Synovial</strong> — fluid-filled cavity, freely movable: ball-and-socket (shoulder), hinge (knee, elbow), pivot (atlas-axis), gliding (carpals), saddle (thumb carpometacarpal).</p>"
+        },
+        {
+          "id": "lm-disorders",
+          "level": 2,
+          "heading": "10. Disorders of muscular & skeletal system",
+          "html": "<ul><li><strong>Myasthenia gravis</strong> — autoimmune neuromuscular junction disorder.</li><li><strong>Muscular dystrophy</strong> — progressive skeletal muscle degeneration.</li><li><strong>Tetany</strong> — rapid spasms from low Ca²⁺.</li><li><strong>Arthritis</strong> — joint inflammation.</li><li><strong>Osteoporosis</strong> — age-related bone mass loss (↓estrogen).</li><li><strong>Gout</strong> — uric acid crystals in joints.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch18",
+      "class": 11,
+      "chapterNo": 18,
+      "title": "Neural Control and Co-ordination",
+      "topic": "Neural Control and Co-ordination",
+      "intro": "NCERT Class XI Chapter 18: neural coordination — the human nervous system (CNS and PNS), neuron structure, resting and action potentials, synaptic transmission, and the forebrain, midbrain and hindbrain.",
+      "sections": [
+        {
+          "id": "nc-overview",
+          "level": 2,
+          "heading": "1. Neural system & coordination",
+          "html": "<p>Organs must be <strong>coordinated</strong> so their activities complement one another (e.g. during exercise: muscles, lungs, heart and kidneys work together). The <strong>neural system</strong> gives rapid point-to-point connections; the <strong>endocrine system</strong> gives slower chemical integration via hormones. Neurons are highly specialised cells that detect, receive and transmit stimuli. Organisation is simple in lower invertebrates (e.g. <em>Hydra</em> — a nerve net); better in insects (brain + ganglia); most developed in vertebrates.</p>"
+        },
+        {
+          "id": "nc-human-system",
+          "level": 2,
+          "heading": "2. Human neural system (CNS & PNS)",
+          "html": "<p><strong>CNS</strong> — brain + spinal cord (information processing and control). <strong>PNS</strong> — all nerves linked to the CNS. Nerve fibres: <strong>afferent</strong> (sensory → CNS) and <strong>efferent</strong> (CNS → effectors). PNS divisions: <strong>somatic</strong> (to skeletal muscles) and <strong>autonomic</strong> (to involuntary organs/smooth muscle) — further split into <strong>sympathetic</strong> and <strong>parasympathetic</strong>. The <strong>visceral nervous system</strong> is the PNS component linking viscera and CNS.</p>"
+        },
+        {
+          "id": "nc-neuron-structure",
+          "level": 2,
+          "heading": "3. Neuron — structure & types",
+          "html": "<p>A neuron has a <strong>cell body</strong> (with <strong>Nissl's granules</strong>), <strong>dendrites</strong> (conduct impulses toward the cell body) and an <strong>axon</strong> (conducts away; ends in synaptic knobs with neurotransmitter vesicles). Types by processes: <strong>multipolar</strong> (one axon, ≥2 dendrites — cerebral cortex), <strong>bipolar</strong> (one each — retina), <strong>unipolar</strong> (one process — embryonic). Axons may be <strong>myelinated</strong> or <strong>non-myelinated</strong>.</p>"
+        },
+        {
+          "id": "nc-myelination",
+          "level": 2,
+          "heading": "4. Myelinated & non-myelinated fibres",
+          "html": "<p><strong>Myelinated</strong> fibres are wrapped by <strong>Schwann cells</strong> forming a myelin sheath; gaps between sheaths are <strong>nodes of Ranvier</strong> (saltatory conduction). Found in spinal and cranial nerves. <strong>Non-myelinated</strong> fibres have Schwann cells without a myelin sheath — common in autonomic and somatic systems. Myelination greatly speeds impulse conduction.</p>"
+        },
+        {
+          "id": "nc-membrane-potential",
+          "level": 2,
+          "heading": "5. Resting & action potentials",
+          "html": "<p>At rest the axonal membrane is more permeable to <strong>K⁺</strong> than <strong>Na⁺</strong>; the <strong>Na⁺/K⁺ pump</strong> (3 Na⁺ out, 2 K⁺ in) maintains ionic gradients — outer surface positive, inner negative → <strong>resting potential</strong> (~−70 mV). A stimulus opens Na⁺ channels → rapid Na⁺ influx → <strong>depolarisation</strong> → <strong>action potential</strong> (nerve impulse). Local currents depolarise adjacent regions; K⁺ efflux restores resting potential (<strong>repolarisation</strong>). Includes absolute/relative refractory periods.</p>"
+        },
+        {
+          "id": "nc-synapse",
+          "level": 2,
+          "heading": "6. Synaptic transmission",
+          "html": "<p>Impulses pass between neurons at <strong>synapses</strong> (pre- and post-synaptic membranes, optionally separated by a <strong>synaptic cleft</strong>). <strong>Electrical synapses</strong> — membranes very close, direct current flow; always faster but rare. <strong>Chemical synapses</strong> — neurotransmitters released from synaptic vesicles bind post-synaptic receptors, opening ion channels → excitatory or inhibitory post-synaptic potentials.</p>"
+        },
+        {
+          "id": "nc-brain-overview",
+          "level": 2,
+          "heading": "7. Brain — protection & major divisions",
+          "html": "<p>The brain is protected by the skull and <strong>cranial meninges</strong>: outer <strong>dura mater</strong>, thin <strong>arachnoid</strong>, inner <strong>pia mater</strong> (on brain tissue). Three major parts: <strong>forebrain</strong>, <strong>midbrain</strong>, <strong>hindbrain</strong>. The <strong>brain stem</strong> (midbrain + pons + medulla) connects brain to spinal cord. Controls voluntary movement, balance, vital organs, thermoregulation, hunger/thirst, circadian rhythms, endocrine glands, behaviour, vision, hearing, speech, memory and emotions.</p>"
+        },
+        {
+          "id": "nc-forebrain",
+          "level": 2,
+          "heading": "8. Forebrain",
+          "html": "<p>Comprises <strong>cerebrum</strong>, <strong>thalamus</strong> and <strong>hypothalamus</strong>. Cerebrum — two hemispheres linked by <strong>corpus callosum</strong>; outer <strong>cerebral cortex</strong> (grey matter — motor, sensory and association areas) over inner white matter (myelinated tracts). Thalamus — major sensory/motor relay. Hypothalamus — body temperature, eating/drinking, neurosecretory cells releasing hypothalamic hormones. <strong>Limbic system</strong> (with hypothalamus) — emotion, motivation, sexual behaviour.</p>"
+        },
+        {
+          "id": "nc-midbrain-hindbrain",
+          "level": 2,
+          "heading": "9. Midbrain & hindbrain",
+          "html": "<p><strong>Midbrain</strong> — between thalamus/hypothalamus and pons; <strong>cerebral aqueduct</strong> passes through it; dorsal <strong>corpora quadrigemina</strong> (four lobes) integrate visual, tactile and auditory inputs. <strong>Hindbrain</strong> — <strong>pons</strong> (fibre tracts linking brain regions), <strong>cerebellum</strong> (convoluted surface; coordinates balance/movement using vestibular and auditory input) and <strong>medulla oblongata</strong> (connected to spinal cord; centres for respiration, cardiovascular reflexes and gastric secretions).</p>"
+        },
+        {
+          "id": "nc-reflex",
+          "level": 2,
+          "heading": "10. Reflex action",
+          "html": "<p>A <strong>reflex</strong> is a rapid, involuntary response to a stimulus via a reflex arc (receptor → sensory neuron → integration centre in CNS → motor neuron → effector). Spinal reflexes (e.g. knee-jerk, withdrawal reflex) bypass conscious brain processing for speed. The simplest reflex arc involves one sensory and one motor neuron (monosynaptic).</p>"
+        },
+        {
+          "id": "nc-eye",
+          "level": 2,
+          "heading": "11. Eye & vision",
+          "html": "<p>The eyeball wall layers (inside → out): retina, choroid, sclera. <strong>Retina</strong> has <strong>rods</strong> (dim light) and <strong>cones</strong> (colour/bright light); contains bipolar neurons. <strong>Iris</strong> controls pupil diameter; <strong>lens</strong> focuses light (held by suspensory ligament/Zonule of Zinn). <strong>Rhodopsin</strong> (visual purple) in rods needs vitamin A. <strong>Cornea</strong> and lens refract light; vitreous chamber filled with vitreous humour.</p>"
+        },
+        {
+          "id": "nc-ear",
+          "level": 2,
+          "heading": "12. Ear & hearing",
+          "html": "<p>Ear: <strong>outer</strong> (pinna, ear canal, tympanic membrane), <strong>middle</strong> (ossicles — malleus, incus, stapes linking tympanum to oval window) and <strong>inner</strong> (bony labyrinth with perilymph; membranous labyrinth with endolymph). <strong>Cochlea</strong> — organ of Corti and sound reception. <strong>Vestibular apparatus</strong> — semicircular canals (angular acceleration) and utricle/saccule with <strong>otolith organs/maculae</strong> (gravity/linear acceleration). Scala vestibuli and scala tympani filled with perilymph.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch19",
+      "class": 11,
+      "chapterNo": 19,
+      "title": "Chemical Coordination and Integration",
+      "topic": "Co-ordination and Integration",
+      "intro": "NCERT Class XI Chapter 19: chemical coordination through hormones — the human endocrine glands (hypothalamus–pituitary axis, thyroid, adrenals, pancreas, gonads and others), hormones of heart/kidney/GI tract, and mechanisms of hormone action.",
+      "sections": [
+        {
+          "id": "cc-overview",
+          "level": 2,
+          "heading": "1. Endocrine glands & hormones",
+          "html": "<p><strong>Endocrine glands</strong> are ductless; their secretions (<strong>hormones</strong>) are non-nutrient intercellular messengers produced in trace amounts. Contrast <strong>exocrine glands</strong> (with ducts). The neural system gives fast, short-lived coordination; hormones give slower, sustained regulation. Major endocrine organs: hypothalamus, pituitary, pineal, thyroid, parathyroid, thymus, adrenal, pancreas and gonads; heart, kidney and GI tract also secrete hormones.</p>"
+        },
+        {
+          "id": "cc-hypothalamus-pituitary",
+          "level": 2,
+          "heading": "2. Hypothalamus & pituitary",
+          "html": "<p><strong>Hypothalamus</strong> neurosecretory nuclei release <strong>releasing</strong> and <strong>inhibiting</strong> hormones (via hypothalamo-hypophyseal portal system) to control the anterior pituitary; directly regulates posterior pituitary. <strong>Pituitary</strong> in sella turcica: <strong>adenohypophysis</strong> (pars distalis + pars intermedia) and <strong>neurohypophysis</strong> (pars nervosa). Anterior hormones: GH, PRL, TSH, ACTH, LH, FSH, MSH. Posterior stores/releases <strong>oxytocin</strong> and <strong>vasopressin (ADH)</strong> made in hypothalamus. GH excess → gigantism/acromegaly; deficiency → dwarfism. ADH deficiency → diabetes insipidus.</p>"
+        },
+        {
+          "id": "cc-pineal-thyroid",
+          "level": 2,
+          "heading": "3. Pineal & thyroid glands",
+          "html": "<p><strong>Pineal</strong> (dorsal forebrain) secretes <strong>melatonin</strong> — regulates circadian rhythms (sleep–wake, body temperature, menstrual cycle). <strong>Thyroid</strong> — two lobes + isthmus; follicles secrete <strong>T₃</strong> and <strong>T₄</strong> (need dietary iodine). Regulate BMR, growth/CNS development, erythropoiesis and carbohydrate/protein/fat metabolism. Also secretes <strong>thyrocalcitonin (TCT)</strong> lowering blood Ca²⁺. Iodine deficiency → goitre/cretinism; excess → hyperthyroidism (Graves'/exophthalmic goitre).</p>"
+        },
+        {
+          "id": "cc-parathyroid-thymus",
+          "level": 2,
+          "heading": "4. Parathyroid & thymus",
+          "html": "<p><strong>Parathyroid</strong> (four glands on thyroid posterior) secretes <strong>PTH</strong> — raises blood Ca²⁺ via bone resorption, renal reabsorption and intestinal absorption (hypercalcemic; works with TCT). <strong>Thymus</strong> (behind sternum) secretes <strong>thymosins</strong> — T-lymphocyte differentiation (cell-mediated immunity) and antibody production (humoral immunity). Thymus degenerates with age → weaker immunity in the elderly.</p>"
+        },
+        {
+          "id": "cc-adrenal",
+          "level": 2,
+          "heading": "5. Adrenal gland",
+          "html": "<p>One gland above each kidney. <strong>Adrenal medulla</strong> — <strong>adrenaline/epinephrine</strong> and <strong>noradrenaline/norepinephrine</strong> (catecholamines; emergency/fight-or-flight hormones: alertness, pupil dilation, sweating, ↑ heart rate/respiration, glycogenolysis). <strong>Adrenal cortex</strong> zones: zona glomerulosa (<strong>mineralocorticoids</strong> — aldosterone, Na⁺ reabsorption), zona fasciculata/reticularis (<strong>glucocorticoids</strong> — cortisol: gluconeogenesis, anti-inflammatory) plus small androgens. Cortex underproduction → Addison's disease.</p>"
+        },
+        {
+          "id": "cc-pancreas",
+          "level": 2,
+          "heading": "6. Pancreas (endocrine)",
+          "html": "<p>Composite gland — exocrine (digestive enzymes) + endocrine <strong>Islets of Langerhans</strong> (α and β cells). <strong>Glucagon</strong> (α) — hyperglycemic: glycogenolysis and gluconeogenesis in liver. <strong>Insulin</strong> (β) — hypoglycemic: enhances glucose uptake/utilisation and glycogenesis in hepatocytes and adipocytes. Together maintain glucose homeostasis. Prolonged hyperglycemia → <strong>diabetes mellitus</strong> (treated with insulin).</p>"
+        },
+        {
+          "id": "cc-gonads",
+          "level": 2,
+          "heading": "7. Testis & ovary",
+          "html": "<p><strong>Testis</strong> (scrotum) — Leydig cells secrete <strong>androgens/testosterone</strong>: male accessory sex organ development, secondary sexual characters, spermatogenesis, libido, anabolic effects. <strong>Ovary</strong> — growing follicles secrete <strong>estrogens</strong> (secondary sex characters, follicle growth, mammary development); post-ovulation <strong>corpus luteum</strong> secretes <strong>progesterone</strong> (pregnancy maintenance, mammary alveoli and milk secretion).</p>"
+        },
+        {
+          "id": "cc-gi-heart-kidney",
+          "level": 2,
+          "heading": "8. Heart, kidney & GI hormones",
+          "html": "<p><strong>Heart</strong> atria — <strong>ANF</strong> (atrial natriuretic factor) lowers blood pressure (vasodilation). <strong>Kidney</strong> juxtaglomerular cells — <strong>erythropoietin</strong> stimulates RBC formation. <strong>GI tract</strong> endocrine cells: <strong>gastrin</strong> (HCl/pepsinogen), <strong>secretin</strong> (pancreatic H₂O/HCO₃⁻), <strong>CCK</strong> (pancreatic enzymes + bile), <strong>GIP</strong> (inhibits gastric secretion/motility).</p>"
+        },
+        {
+          "id": "cc-mechanism",
+          "level": 2,
+          "heading": "9. Mechanism of hormone action",
+          "html": "<p>Hormones bind specific <strong>receptors</strong> on target cells. <strong>Membrane-bound receptors</strong> (peptide/protein hormones, catecholamines) generate <strong>second messengers</strong> (cAMP, IP₃, Ca²⁺). <strong>Intracellular/nuclear receptors</strong> (steroids, thyroid hormones) enter the cell and regulate gene expression. Hormone classes: peptides, steroids, iodothyronines and amino-acid derivatives (e.g. epinephrine). One receptor per hormone — high specificity.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch-transport",
+      "class": 11,
+      "chapterNo": 11,
+      "title": "Transport in Plants",
+      "topic": "Transport in Plants",
+      "intro": "NCERT Class XI Chapter 11: how water and minerals move through plant cells, tissues and the whole plant — diffusion, osmosis, water potential, pathways in roots, root pressure, the cohesion–tension theory of xylem sap ascent, transpiration and phloem translocation.",
+      "sections": [
+        {
+          "id": "tp-overview",
+          "level": 2,
+          "heading": "1. Transport at different levels",
+          "html": "<p>Plants are less mobile than animals and need a <strong>specialised system for uptake, transport and storage of water, nutrients and photosynthates</strong>. Transport occurs at three levels: (i) <strong>cell to cell</strong> — short distances across membranes and through plasmodesmata; (ii) <strong>tissue level</strong> — movement through vascular tissues; (iii) <strong>whole plant</strong> — long-distance transport in xylem and phloem. Water and minerals absorbed by roots move upward through the <strong>xylem</strong>; organic solutes (mainly sucrose) are translocated through the <strong>phloem</strong> from source to sink.</p>"
+        },
+        {
+          "id": "tp-diffusion-osmosis",
+          "level": 2,
+          "heading": "2. Diffusion, facilitated diffusion & osmosis",
+          "html": "<p><strong>Diffusion</strong> is the passive movement of substances along a concentration gradient — gases and small lipophilic molecules cross membranes directly. <strong>Facilitated diffusion</strong> uses membrane <strong>channel and carrier proteins</strong> (no ATP); it is faster than simple diffusion and shows saturation kinetics. <strong>Osmosis</strong> is the diffusion of water across a <strong>semi-permeable membrane</strong>. In a hypotonic solution cells swell (may burst in animal cells); in hypertonic solution they shrink (<strong>exosmosis</strong> — excessive fertiliser can cause water stress this way); in isotonic solution there is no net water movement.</p>"
+        },
+        {
+          "id": "tp-water-potential",
+          "level": 2,
+          "heading": "3. Water potential (Ψ)",
+          "html": "<p><strong>Water potential (Ψ)</strong> is the potential energy of water per unit volume relative to pure water. <strong>Pure water at standard temperature has Ψ = 0</strong> (the reference). Solute lowers Ψ (<strong>solute potential Ψ<sub>s</sub></strong>, always negative); pressure raises Ψ (<strong>pressure potential Ψ<sub>p</sub></strong>). Ψ = Ψ<sub>p</sub> + Ψ<sub>s</sub>. Water moves from a region of <strong>higher (less negative) Ψ</strong> to <strong>lower (more negative) Ψ</strong>. In a flaccid plant cell Ψ<sub>p</sub> ≈ 0; in a turgid cell Ψ<sub>p</sub> is positive.</p>"
+        },
+        {
+          "id": "tp-imbibition",
+          "level": 2,
+          "heading": "4. Imbibition",
+          "html": "<p><strong>Imbibition</strong> is the swelling of solid colloids when they absorb water — a type of diffusion where water is adsorbed with a <strong>large increase in volume</strong> and development of imbibition pressure. Classic examples: <strong>dry seeds and wood</strong> absorbing water (prehistoric man used swelling wood to split rocks). Imbibition requires hydrophilic colloids and a water potential gradient.</p>"
+        },
+        {
+          "id": "tp-active-transport",
+          "level": 2,
+          "heading": "5. Active transport & mineral uptake",
+          "html": "<p><strong>Active transport</strong> moves ions/molecules <strong>against a concentration gradient</strong> using ATP and carrier proteins. Plant roots absorb mineral ions from soil; uptake is selective and can be inhibited by <strong>anaerobic conditions</strong> (lack of ATP). Membrane proteins for facilitated diffusion and active transport show <strong>enzyme-like properties</strong>: saturation, specificity and sensitivity to inhibitors.</p>"
+        },
+        {
+          "id": "tp-pathways",
+          "level": 2,
+          "heading": "6. Apoplastic & symplastic pathways",
+          "html": "<p>Water in roots can move by two pathways: <strong>Apoplastic</strong> — through cell walls and intercellular spaces (does not cross living membranes until the <strong>Casparian strip</strong> of the endodermis blocks further apoplastic movement); <strong>Symplastic</strong> — through cytoplasm via plasmodesmata, cell to cell. Most water in roots ultimately enters the xylem via the symplast after crossing endodermal cells.</p>"
+        },
+        {
+          "id": "tp-root-pressure",
+          "level": 2,
+          "heading": "7. Root pressure & guttation",
+          "html": "<p><strong>Root pressure</strong> is the positive pressure developed in xylem when ions are actively pumped into the stele and water follows osmotically — it can push water a few metres and is seen when transpiration is low. <strong>Guttation</strong> (water droplets at leaf margins through hydathodes) is caused by <strong>root pressure</strong>, not transpiration. Root pressure alone cannot account for water rise in tall trees.</p>"
+        },
+        {
+          "id": "tp-xylem",
+          "level": 2,
+          "heading": "8. Xylem transport & cohesion–tension",
+          "html": "<p>Water rises in xylem mainly by the <strong>transpiration pull</strong> (cohesion–tension theory): evaporation from leaves creates tension; the continuous water column is pulled upward. The <strong>cohesive</strong> and <strong>adhesive</strong> properties of water maintain the column. <strong>Transpiration pull and root pressure</strong> act as pulling and pushing forces respectively. In rooted plants xylem transport of water and minerals is essentially <strong>unidirectional (upward)</strong>.</p>"
+        },
+        {
+          "id": "tp-transpiration",
+          "level": 2,
+          "heading": "9. Transpiration",
+          "html": "<p><strong>Transpiration</strong> is loss of water vapour from aerial parts, mainly through <strong>stomata</strong> (also cuticle and lenticels). Guard cells regulate stomatal aperture. Factors affecting rate: light, temperature, humidity, wind and available soil water. Adaptations to reduce water loss include sunken stomata, thick cuticle and C₄/Kranz anatomy. At higher altitude (lower atmospheric pressure) transpiration rate increases. Plants obtain most carbon from the <strong>atmosphere (CO₂)</strong>, not soil.</p>"
+        },
+        {
+          "id": "tp-phloem",
+          "level": 2,
+          "heading": "10. Phloem translocation",
+          "html": "<p>Organic solutes (mainly <strong>sucrose</strong>) are translocated through <strong>sieve tube members</strong> from <strong>source</strong> (photosynthetic leaves, storage organs) to <strong>sink</strong> (roots, fruits, growing tips). Source and sink can <strong>reverse</strong> seasonally (e.g. tap root as source in early spring). The <strong>pressure-flow (mass-flow) hypothesis</strong> explains translocation: loading at source raises Ψ, unloading at sink lowers it, generating bulk flow. <strong>P-proteins</strong> and companion cells support sieve-tube function.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch-mineral",
+      "class": 11,
+      "chapterNo": 12,
+      "title": "Mineral Nutrition",
+      "topic": "Mineral Nutrition",
+      "intro": "NCERT Class XI Chapter 12: essential mineral elements, criteria of essentiality, macro- and micronutrients, deficiency symptoms, the nitrogen cycle, biological nitrogen fixation and hydroponics.",
+      "sections": [
+        {
+          "id": "mn-overview",
+          "level": 2,
+          "heading": "1. Essential mineral elements",
+          "html": "<p>Plants obtain minerals from soil solution. Of ~105 known elements, <strong>17 are essential</strong> for plant growth. They are classified by <strong>quantitative requirement</strong>: <strong>macronutrients</strong> (C, H, O, N, P, K, Ca, Mg, S — needed in large amounts) and <strong>micronutrients</strong> (Fe, Mn, Cu, Mo, B, Zn, Cl, Ni — needed in traces). Structural elements of the cell are <strong>C, H, O, N</strong>; <strong>P</strong> is required for all phosphorylation reactions.</p>"
+        },
+        {
+          "id": "mn-criteria",
+          "level": 2,
+          "heading": "2. Criteria of essentiality & critical concentration",
+          "html": "<p>Arnon and Stout criteria: (i) essential for completing life cycle; (ii) requirement is specific, not replaceable; (iii) directly involved in metabolism. <strong>Critical concentration</strong> is the concentration of an essential element below which plant growth is retarded — deficiency symptoms appear first in <strong>younger or older tissues</strong> depending on whether the element is <strong>mobile or immobile</strong> (e.g. <strong>Ca, S, Fe are not remobilised</strong>; N, P, K are).</p>"
+        },
+        {
+          "id": "mn-hydroponics",
+          "level": 2,
+          "heading": "3. Hydroponics",
+          "html": "<p><strong>Hydroponics</strong> (solution culture) — growing plants in nutrient solution without soil — was demonstrated by <strong>Julius von Sachs (1860)</strong>. A balanced nutrient solution contains all essential elements in proper proportion. Used to identify essential elements and study deficiency; commercially used for vegetables and flowers.</p>"
+        },
+        {
+          "id": "mn-absorption",
+          "level": 2,
+          "heading": "4. Mineral absorption & soil",
+          "html": "<p>Soil supplies minerals, anchors roots and holds water. Mineral ions are absorbed mainly by root epidermal cells — <strong>active transport</strong> (needs ATP); absorption is <strong>inhibited in anaerobic conditions</strong>. <strong>Calcium</strong> affects permeability of the plasma membrane. Toxic concentration of minerals causes damage; excess of one element can induce deficiency of another.</p>"
+        },
+        {
+          "id": "mn-macronutrients",
+          "level": 2,
+          "heading": "5. Macronutrients — functions & deficiency",
+          "html": "<ul><li><strong>Nitrogen</strong> — component of proteins, nucleic acids, chlorophyll; deficiency → chlorosis, stunted growth.</li><li><strong>Phosphorus</strong> — nucleic acids, ATP, membrane lipids; deficiency → purple/reddish leaves, poor root growth.</li><li><strong>Potassium</strong> — enzyme activation, stomatal opening, ion balance; deficiency → yellowing of leaf margins.</li><li><strong>Calcium</strong> — cell wall (middle lamella), membrane stability; not remobilised.</li><li><strong>Magnesium</strong> — central atom of chlorophyll; activates many enzymes.</li><li><strong>Sulphur</strong> — constituent of amino acids (cysteine, methionine); deficiency causes chlorosis.</li></ul>"
+        },
+        {
+          "id": "mn-micronutrients",
+          "level": 2,
+          "heading": "6. Micronutrients — functions & deficiency",
+          "html": "<ul><li><strong>Iron (Fe)</strong> — chlorophyll synthesis (not a constituent); deficiency → interveinal chlorosis.</li><li><strong>Manganese (Mn)</strong> — photolysis of water in PS II; deficiency → grey spots of oats.</li><li><strong>Zinc (Zn)</strong> — auxin synthesis; deficiency → rosette habit, little leaves.</li><li><strong>Copper (Cu)</strong> — component of plastocyanin and cytochrome oxidase.</li><li><strong>Boron (B)</strong> — pollen germination, cell wall synthesis.</li><li><strong>Molybdenum (Mo)</strong> — essential for nitrogen fixation and nitrate reduction.</li><li><strong>Chlorine (Cl)</strong> — water splitting in photosynthesis.</li></ul>"
+        },
+        {
+          "id": "mn-nitrogen-cycle",
+          "level": 2,
+          "heading": "7. Nitrogen cycle",
+          "html": "<p>Atmospheric N₂ is fixed, assimilated by plants, passed through food chains, returned by decomposition and <strong>denitrification</strong>. Steps: <strong>nitrogen fixation</strong> → <strong>ammonification</strong> → <strong>nitrification</strong> (NH₃ → NO₂⁻ → NO₃⁻) → uptake → <strong>denitrification</strong> (NO₃⁻ back to N₂). Industrial and biological fixation replenish usable nitrogen.</p>"
+        },
+        {
+          "id": "mn-biological-fixation",
+          "level": 2,
+          "heading": "8. Biological nitrogen fixation",
+          "html": "<p><strong>Rhizobium</strong> (and related genera) forms <strong>root nodules</strong> on legumes (groundnut, soybean). <strong>Leg-haemoglobin</strong> (pink pigment) protects <strong>nitrogenase</strong> from O₂. <strong>Nitrogenase</strong> (Mo, Fe, protein cofactor — not Mg) reduces N₂ to <strong>ammonia</strong> (first stable product in legumes). Free-living fixers include <em>Azotobacter</em>, <em>Anabaena</em>. Nitrogenase may need low O₂ (anaerobic conditions in nodules).</p>"
+        },
+        {
+          "id": "mn-special-modes",
+          "level": 2,
+          "heading": "9. Special nutritional modes",
+          "html": "<p><strong>Insectivorous plants</strong> (e.g. pitcher plant, Venus flytrap) grow in nitrogen-deficient soil and trap insects for nutrition — an example of <strong>nutritional adaptation</strong>. <strong>Mycorrhiza</strong> — symbiotic association of fungi with roots — helps absorb phosphorus and other minerals. Delay in flowering can occur due to deficiency of N, P or K.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch13",
+      "class": 11,
+      "chapterNo": 13,
+      "title": "Plant Growth and Development",
+      "topic": "Plant Growth and Development",
+      "intro": "NCERT Class XI Chapter 13: growth (meristems, phases, growth rates), differentiation, dedifferentiation, development and plasticity, the five plant growth regulators (auxins, gibberellins, cytokinins, ethylene, ABA), and photoperiodism/vernalisation.",
+      "sections": [
+        {
+          "id": "pgd-overview",
+          "level": 2,
+          "heading": "1. Growth — definition & measurement",
+          "html": "<p><strong>Growth</strong> is an irreversible permanent increase in size/mass/number of cells, accompanied by anabolic and catabolic metabolism. At the cellular level growth is principally an <strong>increase in protoplasm</strong>. It is measured by fresh/dry weight, length, area, volume or cell number. Growth requires <strong>water</strong> (turgor for cell enlargement), <strong>oxygen</strong>, nutrients and optimum temperature.</p>"
+        },
+        {
+          "id": "pgd-meristems",
+          "level": 2,
+          "heading": "2. Meristems & indeterminate growth",
+          "html": "<p>Plant growth is generally <strong>indeterminate</strong> — meristems retain dividing capacity throughout life (<strong>open form of growth</strong>). <strong>Root and shoot apical meristems</strong> give primary growth (elongation); <strong>lateral meristems</strong> (vascular cambium, cork cambium) give secondary growth (girth). A maize root apex can produce &gt;17,500 cells/hour.</p>"
+        },
+        {
+          "id": "pgd-phases",
+          "level": 2,
+          "heading": "3. Phases of growth",
+          "html": "<p>Three phases along a root/shoot axis: <strong>meristematic</strong> (dividing, thin walls, dense protoplasm) → <strong>elongation</strong> (vacuolation, cell enlargement) → <strong>maturation</strong> (wall thickening, differentiation). Slow initial growth = <strong>lag phase</strong>; rapid exponential increase = <strong>log phase</strong>; slowing = <strong>senescent phase</strong>.</p>"
+        },
+        {
+          "id": "pgd-growth-rates",
+          "level": 2,
+          "heading": "4. Growth rates & curves",
+          "html": "<p><strong>Arithmetic growth</strong>: one daughter cell continues dividing (e.g. root elongating at constant rate; L<sub>t</sub> = L₀ + rt). <strong>Geometric growth</strong>: both progeny divide (exponential; W₁ = W₀e<sup>rt</sup>). Plotted against time → <strong>sigmoid (S) curve</strong> (lag → log → stationary). <strong>Absolute growth rate</strong> = total growth per unit time; <strong>relative growth rate</strong> = growth per unit initial size.</p>"
+        },
+        {
+          "id": "pgd-differentiation",
+          "level": 2,
+          "heading": "5. Differentiation, dedifferentiation & redifferentiation",
+          "html": "<p><strong>Differentiation</strong> — cells mature structurally/functionally (e.g. tracheary elements lose protoplasm, develop lignified secondary walls). <strong>Dedifferentiation</strong> — differentiated cells regain division capacity (e.g. interfascicular cambium from parenchyma). <strong>Redifferentiation</strong> — dedifferentiated cells mature again. Differentiation in plants is <strong>open</strong> — same meristem gives different tissues depending on position.</p>"
+        },
+        {
+          "id": "pgd-development",
+          "level": 2,
+          "heading": "6. Development & plasticity",
+          "html": "<p><strong>Development</strong> includes all changes from germination to senescence — broadly <strong>growth + differentiation</strong>. <strong>Plasticity</strong> allows different pathways in response to environment (e.g. <strong>heterophylly</strong> in cotton, coriander, larkspur; buttercup leaves differ in air vs water). Intrinsic factors include <strong>plant growth regulators</strong>; extrinsic include light, temperature, water, nutrition.</p>"
+        },
+        {
+          "id": "pgd-pgr-overview",
+          "level": 2,
+          "heading": "7. Plant growth regulators — overview",
+          "html": "<p><strong>PGRs (phytohormones)</strong> are small molecules: auxins (indole compounds), gibberellins (terpenes), cytokinins (adenine derivatives), ABA (carotenoid derivative), ethylene (gas). Promoters (auxin, GA, cytokinin) stimulate division/enlargement/flowering; inhibitors (ABA, ethylene) regulate dormancy, abscission, stress. Discovery milestones: Darwin (phototropism/coleoptile tip), Went (auxin), Kurosawa (gibberellin), Skoog/Miller (kinetin), Cousins (ethylene).</p>"
+        },
+        {
+          "id": "pgd-auxins",
+          "level": 2,
+          "heading": "8. Auxins",
+          "html": "<p>Natural: <strong>IAA, IBA</strong>; synthetic: <strong>NAA, 2,4-D</strong>. Synthesised at shoot/root apices. Effects: cell elongation, <strong>apical dominance</strong> (removal of shoot tip → lateral buds grow — used in tea hedges), rooting of cuttings, <strong>parthenocarpy</strong> (tomato), prevent early fruit/leaf drop, promote abscission of older leaves, xylem differentiation, <strong>herbicide</strong> (2,4-D kills dicot weeds, not mature monocots). Highest auxin concentration in <strong>growing tips</strong>.</p>"
+        },
+        {
+          "id": "pgd-gibberellins",
+          "level": 2,
+          "heading": "9. Gibberellins",
+          "html": "<p>Over 100 GAs (GA₁, GA₃…); <strong>GA₃</strong> most studied; all acidic. Effects: stem/axis elongation (grape stalks, <strong>sugarcane yield</strong> ↑ ~20 t/acre), <strong>bolting</strong> in rosette plants (beet, cabbage), overcome seed dormancy, delay senescence, speed up malting in brewing, hasten maturity of conifers, elongate apple fruits. ABA is often antagonistic to GA.</p>"
+        },
+        {
+          "id": "pgd-cytokinins",
+          "level": 2,
+          "heading": "10. Cytokinins",
+          "html": "<p>Discovered as <strong>kinetin</strong> from herring sperm DNA; natural forms include <strong>zeatin</strong> (corn kernels, coconut milk). Promote <strong>cytokinesis</strong>, new leaves, chloroplast development, lateral shoot growth, adventitious buds; <strong>overcome apical dominance</strong>; <strong>delay leaf senescence</strong> via nutrient mobilisation. Used in tissue culture with auxin.</p>"
+        },
+        {
+          "id": "pgd-ethylene",
+          "level": 2,
+          "heading": "11. Ethylene",
+          "html": "<p>Gaseous PGR from ripening/senescing tissues. Promotes <strong>fruit ripening</strong> (respiratory climacteric), senescence and abscission, breaks seed/bud dormancy, horizontal growth of seedlings, <strong>root hair formation</strong> (increases absorption surface), flowering in mango/pineapple. Commercial source: <strong>ethephon</strong>. Ripe fruit releases ethylene → hastens ripening of nearby unripe fruit.</p>"
+        },
+        {
+          "id": "pgd-aba",
+          "level": 2,
+          "heading": "12. Abscisic acid (ABA)",
+          "html": "<p>Growth inhibitor; discovered as inhibitor-B/abscission II/dormin. <strong>Stress hormone</strong> — stimulates <strong>stomatal closure</strong>, induces seed dormancy (withstands desiccation), promotes abscission, inhibits germination. Seed dormancy is largely due to ABA. Antagonistic to gibberellins in many processes.</p>"
+        },
+        {
+          "id": "pgd-photoperiod",
+          "level": 2,
+          "heading": "13. Photoperiodism & vernalisation",
+          "html": "<p><strong>Photoperiodism</strong> (Garner &amp; Allard) — effect of day/night length on flowering. <strong>Short-day plants</strong> flower when day length &lt; critical period (uninterrupted long night); <strong>long-day plants</strong> when day &gt; critical; <strong>day-neutral</strong> (tomato, maize) flower in any photoperiod. Perceived in <strong>leaves</strong> via <strong>phytochrome</strong> (chromoprotein; P<sub>R</sub> ⇌ P<sub>FR</sub>). <strong>Vernalisation</strong> — low-temperature treatment promoting flowering. A <strong>defoliated plant</strong> cannot respond to photoperiod.</p>"
+        },
+        {
+          "id": "pgd-tropisms",
+          "level": 2,
+          "heading": "14. Plant movements & seed dormancy",
+          "html": "<p><strong>Phototropism</strong> — growth toward light (Darwin coleoptile experiments). <strong>Thigmotropism</strong> — coiling of pea tendrils around support. <strong>Seed dormancy</strong> — viable seeds fail to germinate despite favourable conditions (hard/impermeable seed coat, ABA); overcome by <strong>scarification</strong> or GA treatment. Germination requires favourable temperature, water, oxygen.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch-digestion",
+      "class": 11,
+      "chapterNo": 16,
+      "title": "Digestion and Absorption",
+      "topic": "Digestion and Absorption",
+      "intro": "NCERT Class XI Chapter 16: the human alimentary canal, digestion of carbohydrates, proteins and fats, the role of liver, pancreas and intestinal juice, absorption in the small intestine and assimilation of nutrients.",
+      "sections": [
+        {
+          "id": "da-overview",
+          "level": 2,
+          "heading": "1. Digestion — overview & alimentary canal",
+          "html": "<p><strong>Digestion</strong> converts complex food into simple absorbable forms. The <strong>alimentary canal</strong> is a continuous muscular tube: mouth → buccal cavity → pharynx → oesophagus → stomach → small intestine → large intestine → rectum → <strong>anus</strong> (posterior opening). Wall layers: <strong>mucosa, submucosa, muscularis, serosa</strong>. The canal and associated glands (salivary, liver, pancreas) form the digestive system.</p>"
+        },
+        {
+          "id": "da-mouth",
+          "level": 2,
+          "heading": "2. Buccal cavity & teeth",
+          "html": "<p>The mouth has teeth, tongue and salivary glands. Teeth cut and masticate food; <strong>enamel</strong> is the hardest substance in the vertebrate body. Normal adult human <strong>dental formula</strong>: I 2/2, C 1/1, PM 2/2, M 3/3 (2123/2123). Saliva contains <strong>salivary amylase (ptyalin)</strong> — begins starch digestion (~30% hydrolysed in mouth); lysozyme acts antibacterial.</p>"
+        },
+        {
+          "id": "da-pharynx",
+          "level": 2,
+          "heading": "3. Pharynx & oesophagus",
+          "html": "<p>The <strong>pharynx</strong> is the common passage for food and air; the glottis (respiratory) and gullet (oesophageal opening) are guarded during swallowing. The <strong>oesophagus</strong> conducts food to the stomach by <strong>peristalsis</strong>. No digestion occurs here.</p>"
+        },
+        {
+          "id": "da-stomach",
+          "level": 2,
+          "heading": "4. Stomach & gastric digestion",
+          "html": "<p>J-shaped expandable organ. <strong>Gastric glands</strong> secrete HCl, pepsinogen, mucus, intrinsic factor. <strong>Parietal (oxyntic) cells</strong> → HCl; <strong>chief (peptic) cells</strong> → pepsinogen (activated to pepsin by HCl). HCl kills bacteria, acidifies food, activates pepsin. Mucus and <strong>bicarbonate</strong> protect the mucosa from concentrated HCl. <strong>Gastrin</strong> stimulates gastric secretion; <strong>enterogastrone</strong> inhibits it when chyme enters duodenum.</p>"
+        },
+        {
+          "id": "da-liver-bile",
+          "level": 2,
+          "heading": "5. Liver, gall bladder & bile",
+          "html": "<p>The <strong>liver</strong> is the largest gland; hepatic cells secrete <strong>bile</strong> stored in the <strong>gall bladder</strong>. Bile has <strong>bile salts, bile pigments</strong> (bilirubin/biliverdin — give yellow colour to stools in breast-fed infants) and <strong>no digestive enzymes</strong>. Bile <strong>emulsifies fats</strong> (increases surface area for lipase action) and neutralises acidic chyme. Bile juice is essential for fat digestion.</p>"
+        },
+        {
+          "id": "da-pancreas",
+          "level": 2,
+          "heading": "6. Pancreas & pancreatic juice",
+          "html": "<p>Exocrine pancreas secretes <strong>pancreatic juice</strong> into the duodenum via the pancreatic duct. Contains <strong>trypsinogen, chymotrypsinogen, procarboxypeptidase, pancreatic amylase, lipase, nucleases</strong>. <strong>Enterokinase</strong> of intestinal juice activates trypsinogen → trypsin (which activates other zymogens). Pancreatic juice is alkaline (HCO₃⁻).</p>"
+        },
+        {
+          "id": "da-small-intestine",
+          "level": 2,
+          "heading": "7. Small intestine — structure",
+          "html": "<p>Longest part of the alimentary canal (duodenum, jejunum, ileum). Inner surface has <strong>circular folds, villi and microvilli</strong> to increase absorption area. <strong>Crypts of Lieberkühn</strong> (simple tubular glands) secrete intestinal juice. Brunner's glands (duodenum) secrete alkaline mucus. The ileum is the main site of <strong>absorption</strong> and completion of digestion.</p>"
+        },
+        {
+          "id": "da-intestinal-juice",
+          "level": 2,
+          "heading": "8. Succus entericus (intestinal juice)",
+          "html": "<p><strong>Succus entericus</strong> contains many enzymes: <strong>enterokinase, aminopeptidases, dipeptidases, maltase, lactase, sucrase, lipase, nucleotidases</strong>. <strong>Carboxypeptidase</strong> requires <strong>zinc</strong>. Final digestion of peptides, disaccharides and nucleotides occurs here. Nucleases are present in pancreatic juice, not typically listed as absent from succus entericus in the same way.</p>"
+        },
+        {
+          "id": "da-digestion",
+          "level": 2,
+          "heading": "9. Digestion of biomolecules",
+          "html": "<ul><li><strong>Carbohydrates</strong>: starch → maltose (salivary &amp; pancreatic amylase) → glucose (disaccharidases).</li><li><strong>Proteins</strong>: pepsin in stomach → peptides; trypsin/chymotrypsin in intestine → smaller peptides → amino acids (peptidases).</li><li><strong>Fats</strong>: emulsified by bile → digested by lipase to fatty acids + monoglycerides.</li><li><strong>Nucleic acids</strong>: pancreatic nucleases → nucleotides → nucleosides/nitrogenous bases.</li></ul>"
+        },
+        {
+          "id": "da-absorption",
+          "level": 2,
+          "heading": "10. Absorption & transport",
+          "html": "<p><strong>Absorption</strong> — end products pass through intestinal mucosa into blood/lymph. Monosaccharides, amino acids, Na⁺ and other electrolytes via <strong>active transport</strong>; fatty acids and glycerol → chylomicrons → <strong>lymph (lacteals)</strong>. Water moves by osmosis following solute absorption. Fat-soluble vitamins (A, D, E, K) with fats; water-soluble via blood. <strong>Vitamin B₁₂</strong> richest in liver/Spirulina; some B vitamins synthesised by gut bacteria.</p>"
+        },
+        {
+          "id": "da-large-intestine",
+          "level": 2,
+          "heading": "11. Large intestine & egestion",
+          "html": "<p>Colon reabsorbs water and electrolytes; hosts beneficial bacteria (vitamin synthesis, gas production). Faeces consist of undigested residue, bacteria, bile pigments. <strong>Appendix</strong> is a vestigial lymphoid organ. Parasites of intestine include tapeworm, roundworm, pinworm.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch01",
+      "class": 12,
+      "chapterNo": 1,
+      "title": "Reproduction in Organisms",
+      "topic": "Reproduction in Organisms",
+      "intro": "NCERT Class XII Unit VI Chapter 1: why organisms reproduce, life spans, asexual modes (fission, budding, fragmentation, spores, vegetative propagation) and the essentials of sexual reproduction — meiosis, gametes, fertilisation, zygote formation, and reproductive strategies in plants and animals.",
+      "sections": [
+        {
+          "id": "ro-overview",
+          "level": 2,
+          "heading": "1. Reproduction — why and how",
+          "html": "<p><strong>Reproduction</strong> enables continuity of the species by producing progeny similar to parents. It is <strong>not a defining property of life</strong> (many organisms do not reproduce yet are living), but it is essential for species survival. Organisms reproduce by <strong>asexual</strong> (single parent, no gamete fusion) or <strong>sexual</strong> (two parents/gametes fuse) methods. <strong>Juvenile phase</strong> precedes reproductive maturity; <strong>senescence</strong> follows. Reproductive events are seasonal in many plants and animals (photoperiod-sensitive breeders).</p>"
+        },
+        {
+          "id": "ro-lifespan",
+          "level": 2,
+          "heading": "2. Life span",
+          "html": "<p>Every organism has a characteristic <strong>life span</strong> — the period from birth to natural death. It varies enormously: bacteria minutes to hours; insects days to weeks; rice ~1 year; butterfly ~1–2 weeks; crow ~15 years; dog ~10–13 years; cat ~15–20 years; elephant ~60–90 years; tortoise ~100–150 years; peepal/Banyan tree hundreds of years. Life span is not correlated with body size.</p>"
+        },
+        {
+          "id": "ro-asexual",
+          "level": 2,
+          "heading": "3. Asexual reproduction",
+          "html": "<p><strong>Asexual reproduction</strong> — offspring from a single parent without meiosis/fertilisation; progeny are <strong>genetically identical (clones)</strong>. Common modes:</p><ul><li><strong>Binary fission</strong> — Amoeba, bacteria, Paramoecium (parent divides into two).</li><li><strong>Budding</strong> — yeast, Hydra, sponges (outgrowth detaches).</li><li><strong>Fragmentation</strong> — fungi, filamentous algae, protonema of mosses.</li><li><strong>Spores</strong> — <strong>Zoospores</strong> (motile, flagellated, in Chlamydomonas); <strong>conidia</strong> (Penicillium); <strong>gemmules</strong> (sponges); <strong>bulbils</strong> (Agave).</li></ul><p>In <strong>unicellular organisms</strong> growth and reproduction are synonymous. Asexual reproduction is <strong>fast and simple</strong> but produces little variation.</p>"
+        },
+        {
+          "id": "ro-vegetative",
+          "level": 2,
+          "heading": "4. Vegetative propagation",
+          "html": "<p><strong>Vegetative propagation</strong> in plants — new plants from vegetative parts (asexual, used in horticulture):</p><ul><li><strong>Rhizome</strong> — banana, ginger, turmeric.</li><li><strong>Tuber</strong> — potato (eyes = buds).</li><li><strong>Bulb</strong> — onion, garlic.</li><li><strong>Offset</strong> — water hyacinth (<em>Eichhornia</em>).</li><li><strong>Runner/stolon</strong> — grass, strawberry (not water hyacinth).</li><li><strong>Adventitious buds</strong> — notches on <em>Bryophyllum</em> leaves; bulbils on <em>Agave</em>.</li></ul><p><strong>Water hyacinth</strong> ('Terror of Bengal') — fastest-spreading aquatic weed; clogs water bodies, kills fish by deoxygenation. <strong>Parthenocarpic</strong> fruits (e.g. banana) develop without fertilisation.</p>"
+        },
+        {
+          "id": "ro-sexual-basics",
+          "level": 2,
+          "heading": "5. Sexual reproduction — events & meiosis",
+          "html": "<p><strong>Sexual reproduction</strong> involves: (i) pre-fertilisation (gametogenesis), (ii) <strong>fertilisation/syngamy</strong> (fusion of gametes → zygote), (iii) post-fertilisation (embryogenesis). <strong>Gametes</strong> are usually <strong>haploid</strong>; formed from diploid <strong>meiocytes</strong> by <strong>meiosis</strong> (reduces chromosome number by half). <strong>Syngamy</strong> restores diploidy in the zygote. The most critical event is <strong>fertilisation</strong>. Offspring show <strong>more variation</strong> than asexual progeny because gametes from two parents combine qualitatively different genetic material.</p><p><strong>Haploid</strong> parental body: most fungi and some algae (e.g. Volvox, Chlamydomonas). <strong>Diploid</strong> dominant: gymnosperms, angiosperms, most animals. <strong>Ophioglossum</strong> (a fern) has the highest chromosome number among plants tested in NEET contexts.</p>"
+        },
+        {
+          "id": "ro-fertilisation-modes",
+          "level": 2,
+          "heading": "6. Fertilisation strategies in animals",
+          "html": "<p><strong>External fertilisation</strong> — gametes released in water; needs moist environment (most fishes, amphibians). <strong>Internal fertilisation</strong> — fusion inside the female body (reptiles, birds, mammals); associated with <strong>oviparity</strong> (egg-laying: reptiles, birds), <strong>viviparity</strong> (live birth: most mammals including humans), or <strong>ovoviviparity</strong> (egg retained in body: some sharks, lizards). <strong>Oviparous</strong> examples: frog, lizard, bird; <strong>viviparous</strong>: human, cow, dog, horse, whale. Humans are <strong>continuous breeders</strong> (reproductively active throughout adult life).</p>"
+        },
+        {
+          "id": "ro-plants-reproduction",
+          "level": 2,
+          "heading": "7. Sexual reproduction in plants — special cases",
+          "html": "<ul><li><strong>Monoecious</strong> — male and female flowers on same plant (cucurbits, coconut, castor, maize); prevents autogamy but not geitonogamy.</li><li><strong>Dioecious</strong> — male and female on separate plants (papaya, date palm, cannabis); prevents both autogamy and geitonogamy.</li><li><strong>Bamboo</strong> — gregarious flowering once in 12–120 years, then dies.</li><li><strong>Strobilanthus kunthiana</strong> (Neelakurinji) — flowers once in 12 years.</li><li>In <strong>bryophytes and pteridophytes</strong> male gametes are motile and need <strong>water</strong> for transfer.</li><li><strong>Chara</strong> — oogonium (female) upper, antheridium (male) lower on same plant.</li><li>After fertilisation in angiosperms: <strong>ovule → seed</strong>; <strong>ovary → fruit (pericarp)</strong>; <strong>integuments → seed coat</strong> (not pericarp).</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch02",
+      "class": 12,
+      "chapterNo": 2,
+      "title": "Sexual Reproduction in Flowering Plants",
+      "topic": "Reproduction in Flowering Plant",
+      "intro": "NCERT Class XII Chapter 1 (Unit VI): flower structure, microsporogenesis and megasporogenesis, pollination and its agents, pollen–pistil interaction, double fertilisation, post-fertilisation development of endosperm, embryo, seed and fruit, and apomixis/polyembryony.",
+      "sections": [
+        {
+          "id": "srfp-overview",
+          "level": 2,
+          "heading": "1. Flower — seat of sexual reproduction",
+          "html": "<p>All flowering plants (<strong>angiosperms</strong>) reproduce sexually. The <strong>flower</strong> bears <strong>androecium</strong> (stamens = male) and <strong>gynoecium</strong> (pistil = female). Flowers convey human sentiments (love, grief, etc.) and have ornamental/social value (<strong>floriculture</strong>). Male gametophyte develops in the <strong>pollen grain</strong>; female gametophyte in the <strong>embryo sac</strong> inside the ovule.</p>"
+        },
+        {
+          "id": "srfp-anther-pollen",
+          "level": 2,
+          "heading": "2. Stamen, anther & pollen grain",
+          "html": "<p>A stamen = <strong>filament</strong> + <strong>anther</strong>. Typical anther is <strong>bilobed, dithecous, tetrasporangiate</strong> (4 microsporangia). Wall layers: <strong>epidermis, endothecium, middle layers, tapetum</strong> (innermost; nourishes pollen; often binucleate). <strong>Microsporogenesis</strong>: PMC → meiosis → microspore tetrad → pollen grains.</p><p><strong>Pollen grain</strong> (male gametophyte): <strong>exine</strong> (sporopollenin, resistant; <strong>germ pores</strong>) + <strong>intine</strong> (cellulose/pectin). At shedding: <strong>2-celled</strong> (vegetative + generative) in &gt;60% species, or <strong>3-celled</strong> (vegetative + 2 male gametes). Rice pollen viable ~<strong>30 min</strong>; some Rosaceae/Leguminosae months. Stored in liquid N₂ as <strong>pollen banks</strong>. Parthenium causes pollen allergy. Pollen is rich in nutrients (supplements).</p>"
+        },
+        {
+          "id": "srfp-pistil-embryosac",
+          "level": 2,
+          "heading": "3. Pistil, ovule & embryo sac",
+          "html": "<p>Pistil = <strong>stigma + style + ovary</strong>. Ovary has locule/placenta bearing <strong>ovules</strong>. Ovule: <strong>funicle, hilum, integuments, micropyle, chalaza, nucellus, embryo sac</strong>. <strong>Megasporogenesis</strong>: MMC → meiosis → 4 megaspores; usually <strong>monosporic</strong> (one functional). Embryo sac development: free nuclear divisions → <strong>8-nucleate, 7-celled</strong> at maturity:</p><ul><li><strong>Egg apparatus</strong> (micropylar): 2 <strong>synergids</strong> (with <strong>filiform apparatus</strong>) + 1 <strong>egg</strong>.</li><li><strong>Antipodals</strong> (3) at chalaza.</li><li><strong>Central cell</strong> with 2 <strong>polar nuclei</strong>.</li></ul>"
+        },
+        {
+          "id": "srfp-pollination",
+          "level": 2,
+          "heading": "4. Pollination — types & agents",
+          "html": "<p><strong>Pollination</strong> = transfer of pollen from anther to stigma.</p><ul><li><strong>Autogamy</strong> — same flower. <strong>Cleistogamous</strong> flowers (Viola, Oxalis, Commelina) never open; assured self-pollination.</li><li><strong>Geitonogamy</strong> — another flower, same plant (genetically like autogamy).</li><li><strong>Xenogamy</strong> — different plant; only true cross-pollination.</li></ul><p><strong>Agents</strong>: wind (<strong>anemophily</strong> — coconut, maize, grass; light non-sticky pollen, feathery stigma), water (<strong>hydrophily</strong> — Vallisneria, Hydrilla, Zostera; ~30 genera), animals (<strong>entomophily</strong> — large, colourful, fragrant, nectar; cucumber needs insects). <strong>Emasculation + bagging</strong> for artificial hybridisation of bisexual flowers.</p>"
+        },
+        {
+          "id": "srfp-outbreeding",
+          "level": 2,
+          "heading": "5. Outbreeding devices & self-incompatibility",
+          "html": "<p>To avoid <strong>inbreeding depression</strong>, plants evolved: (i) pollen release and stigma receptivity not synchronised; (ii) anther and stigma at different positions; (iii) <strong>self-incompatibility</strong> (genetic — inhibits pollen germination/tube growth); (iv) <strong>unisexual flowers</strong> (monoecious or dioecious). <strong>Unisexuality</strong> prevents autogamy but not geitonogamy; <strong>dioecy</strong> prevents both. Emasculation not needed in unisexual female flowers.</p>"
+        },
+        {
+          "id": "srfp-pollen-pistil",
+          "level": 2,
+          "heading": "6. Pollen–pistil interaction",
+          "html": "<p>Stigma recognises compatible vs incompatible pollen (chemical dialogue). Compatible pollen germinates on stigma → <strong>pollen tube</strong> grows through style → enters ovule via <strong>micropyle</strong> → penetrates a synergid via <strong>filiform apparatus</strong>. If pollen shed at 2-celled stage, generative cell divides in the tube. Events from pollen deposition to tube entry = <strong>pollen–pistil interaction</strong>. Rejection illustrates self-/interspecific incompatibility.</p>"
+        },
+        {
+          "id": "srfp-double-fert",
+          "level": 2,
+          "heading": "7. Double fertilisation",
+          "html": "<p>Unique to <strong>angiosperms</strong>. Two fusions in embryo sac:</p><ul><li><strong>Syngamy</strong> — one male gamete + egg → <strong>diploid zygote</strong>.</li><li><strong>Triple fusion</strong> — other male gamete + 2 polar nuclei → <strong>triploid PEN</strong> (primary endosperm nucleus).</li></ul><p>PEN → primary endosperm cell → <strong>endosperm</strong>; zygote → <strong>embryo</strong>. <strong>Double fertilisation</strong> = syngamy + triple fusion.</p>"
+        },
+        {
+          "id": "srfp-post-fert",
+          "level": 2,
+          "heading": "8. Post-fertilisation — endosperm, embryo, seed & fruit",
+          "html": "<p><strong>Endosperm</strong> develops before embryo (nutrition). Free-nuclear endosperm → cellular; tender <strong>coconut water</strong> = free-nuclear endosperm; white kernel = cellular. Non-albuminous (pea, groundnut — endosperm used up) vs albuminous (wheat, maize, castor — persistent endosperm/perisperm).</p><p><strong>Embryo</strong>: proembryo → globular → heart-shaped → mature. Dicot: epicotyl (plumule), hypocotyl, radicle, 2 cotyledons. Monocot grass: <strong>scutellum</strong>, coleoptile, coleorhiza.</p><p><strong>Seed</strong> = fertilised ovule (testa/tegmen from integuments; micropyle pore). <strong>Fruit</strong> = mature ovary (pericarp). <strong>False fruits</strong> (apple, strawberry — thalamus contributes). <strong>Parthenocarpic</strong> fruits (banana) without fertilisation.</p>"
+        },
+        {
+          "id": "srfp-apomixis",
+          "level": 2,
+          "heading": "9. Apomixis & polyembryony",
+          "html": "<p><strong>Apomixis</strong> — seed formation <strong>without fertilisation</strong> (asexual mimicry; grasses, Asteraceae, Citrus, Mango). Diploid egg or nucellar cells form embryos directly. <strong>Polyembryony</strong> — &gt;1 embryo per seed (Citrus, Mango — nucellar embryos). Apomictic embryos are <strong>clones</strong>. Useful for fixing hybrid characters without yearly hybrid seed production.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch03",
+      "class": 12,
+      "chapterNo": 3,
+      "title": "Human Reproduction",
+      "topic": "Human Reproduction",
+      "intro": "NCERT Class XII Chapter 2: male and female reproductive systems, gametogenesis, the menstrual cycle, fertilisation and implantation, pregnancy and embryonic development, parturition and lactation.",
+      "sections": [
+        {
+          "id": "hr-overview",
+          "level": 2,
+          "heading": "1. Overview of human reproduction",
+          "html": "<p>Humans are <strong>sexually reproducing, viviparous</strong> mammals. Events: <strong>gametogenesis</strong> → <strong>insemination</strong> → <strong>fertilisation</strong> (ampulla of oviduct) → <strong>cleavage</strong> → <strong>blastocyst</strong> → <strong>implantation</strong> → <strong>gestation</strong> (~9 months) → <strong>parturition</strong> → <strong>lactation</strong>. Spermatogenesis continues in old age; oogenesis ceases at ~50 years (<strong>menopause</strong>).</p>"
+        },
+        {
+          "id": "hr-male",
+          "level": 2,
+          "heading": "2. Male reproductive system",
+          "html": "<p><strong>Testes</strong> in <strong>scrotum</strong> (2–2.5°C below body temp). Each testis ~250 <strong>testicular lobules</strong> with <strong>seminiferous tubules</strong> (spermatogonia + <strong>Sertoli cells</strong>) and interstitial <strong>Leydig cells</strong> (androgens). Ducts: rete testis → vasa efferentia → <strong>epididymis</strong> → <strong>vas deferens</strong> → ejaculatory duct → urethra. Accessory glands: <strong>seminal vesicles, prostate, bulbourethral (Cowper's)</strong> — <strong>seminal plasma</strong> rich in <strong>fructose, calcium, enzymes</strong>. <strong>Penis</strong> with glans and foreskin. LH stimulates Leydig cells; FSH acts on Sertoli cells.</p>"
+        },
+        {
+          "id": "hr-female",
+          "level": 2,
+          "heading": "3. Female reproductive system",
+          "html": "<p><strong>Ovaries</strong> (2–4 cm; cortex + medulla) produce ova and ovarian hormones. <strong>Oviducts</strong> (10–12 cm): infundibulum with <strong>fimbriae</strong> → ampulla (fertilisation site) → isthmus. <strong>Uterus</strong>: perimetrium, myometrium, <strong>endometrium</strong> (cyclical). Opens to vagina via <strong>cervix/cervical canal</strong> (birth canal with vagina). External genitalia: mons pubis, labia majora/minora, hymen (unreliable virginity indicator), <strong>clitoris</strong> (junction of labia minora). <strong>Mammary glands</strong>: 15–20 lobes, alveoli, lactiferous ducts.</p>"
+        },
+        {
+          "id": "hr-spermatogenesis",
+          "level": 2,
+          "heading": "4. Spermatogenesis & sperm structure",
+          "html": "<p><strong>Spermatogonia</strong> (diploid, 46 ch.) → mitosis → primary spermatocytes → meiosis I → secondary spermatocytes (23) → meiosis II → <strong>spermatids</strong> (23) → <strong>spermiogenesis</strong> → spermatozoa; released by <strong>spermiation</strong>. Triggered at puberty by ↑<strong>GnRH</strong> → LH + FSH.</p><p><strong>Sperm</strong>: head (<strong>acrosome</strong> with enzymes + haploid nucleus), neck, middle piece (mitochondria for motility), tail. ~200–300 million/ejaculate; fertility needs ≥60% normal morphology, ≥40% motility. Viable up to ~<strong>48–72 h</strong> in female tract.</p>"
+        },
+        {
+          "id": "hr-oogenesis",
+          "level": 2,
+          "heading": "5. Oogenesis & folliculogenesis",
+          "html": "<p><strong>Oogonia</strong> form in fetal ovary; arrest at prophase I as <strong>primary oocytes</strong>. At birth ~2 million; at puberty ~60,000–80,000 <strong>primary follicles</strong>. Maturation: primary follicle → secondary → tertiary (antrum; <strong>theca interna/externa</strong>) → <strong>Graafian follicle</strong>. Primary oocyte completes meiosis I → <strong>secondary oocyte</strong> + 1st polar body; meiosis II completes after sperm entry. <strong>Ovulation</strong> releases secondary oocyte with <strong>zona pellucida</strong> and <strong>corona radiata</strong>.</p>"
+        },
+        {
+          "id": "hr-menstrual",
+          "level": 2,
+          "heading": "6. Menstrual cycle",
+          "html": "<p>In female primates; begins at <strong>menarche</strong>; ~<strong>28/29 days</strong>. Phases: (1) <strong>Menstrual</strong> (3–5 days) — endometrial breakdown if no fertilisation. (2) <strong>Follicular/proliferative</strong> — follicles grow, estrogen from follicles rebuilds endometrium. (3) <strong>Ovulatory</strong> (~day <strong>14</strong>) — <strong>LH surge</strong> ruptures Graafian follicle. (4) <strong>Luteal/secretory</strong> — <strong>corpus luteum</strong> secretes <strong>progesterone</strong> (maintains endometrium for implantation). Without fertilisation, corpus luteum degenerates → menstruation. Cycle ceases in <strong>pregnancy</strong> and at <strong>menopause</strong> (~50 years).</p>"
+        },
+        {
+          "id": "hr-fertilization",
+          "level": 2,
+          "heading": "7. Fertilisation, cleavage & implantation",
+          "html": "<p>Fertilisation in <strong>ampulla</strong> of oviduct (requires simultaneous transport of sperm and ovum). Sperm binds <strong>zona pellucida</strong>; acrosome enzymes aid entry; <strong>polyspermy block</strong>. Secondary oocyte completes meiosis II → ovum; pronuclei fuse → <strong>diploid zygote (46)</strong>. <strong>Sex determined by sperm</strong> (X or Y); ovum always X.</p><p>Cleavage in isthmus: 2 → 4 → 8 … <strong>blastomeres</strong>; 8–16 cell = <strong>morula</strong> → <strong>blastocyst</strong> (<strong>trophoblast</strong> + inner cell mass). <strong>Implantation</strong> in endometrium → pregnancy.</p>"
+        },
+        {
+          "id": "hr-pregnancy",
+          "level": 2,
+          "heading": "8. Pregnancy & embryonic development",
+          "html": "<p><strong>Placenta</strong> — chorionic villi + uterine tissue; connected by <strong>umbilical cord</strong>; exchange of O₂/nutrients/wastes; endocrine organ (hCG, hPL, estrogens, progestogens). <strong>Relaxin</strong> from ovary in late pregnancy.</p><p>Germ layers from inner cell mass: <strong>ectoderm, mesoderm, endoderm</strong>. Timeline: heart ~1 month; limbs by 2 months; organ systems by <strong>12 weeks</strong> (1st trimester); first foetal movements ~5th month; eyelids separate ~24 weeks. Gestation ~<strong>9 months</strong>.</p>"
+        },
+        {
+          "id": "hr-parturition",
+          "level": 2,
+          "heading": "9. Parturition & lactation",
+          "html": "<p><strong>Parturition</strong> — expulsion of foetus via birth canal (cervix + vagina). Induced by foetal-placental signals → <strong>foetal ejection reflex</strong> → <strong>oxytocin</strong> (positive feedback on uterine contractions). <strong>Placenta</strong> expelled after baby. <strong>Lactation</strong> — mammary glands produce milk; initial secretion = <strong>colostrum</strong> (antibodies for newborn immunity). Breast-feeding recommended early months.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch04",
+      "class": 12,
+      "chapterNo": 4,
+      "title": "Reproductive Health",
+      "topic": "Reproductive Health",
+      "intro": "NCERT Class XII Chapter 3: WHO definition of reproductive health, India's RCH programmes, population stabilisation, contraceptive methods, MTP, sexually transmitted infections, and infertility with assisted reproductive technologies.",
+      "sections": [
+        {
+          "id": "rh-overview",
+          "level": 2,
+          "heading": "1. Reproductive health & RCH programmes",
+          "html": "<p><strong>Reproductive health</strong> (WHO) = total well-being in all aspects of reproduction — physical, emotional, behavioural, social. India initiated <strong>family planning (1951)</strong> and now <strong>Reproductive and Child Health Care (RCH)</strong> programmes: awareness (adolescence, safe sex, STDs/AIDS), medical care (pregnancy, delivery, contraception, infertility), statutory ban on <strong>amniocentesis for sex determination</strong>. <strong>CDRI</strong> (Lucknow) developed <strong>Saheli</strong> (non-steroidal oral contraceptive). <strong>WHO</strong> = World Health Organization.</p>"
+        },
+        {
+          "id": "rh-population",
+          "level": 2,
+          "heading": "2. Population explosion & birth control goals",
+          "html": "<p>World population: ~2 billion (1900) → ~6 billion (2000) → <strong>7.2 billion (2011)</strong>. India: ~350 million (1947) → ~1 billion (2000) → <strong>1.2+ billion (2011)</strong>; growth rate &lt;2%. Causes: ↓death rate/MMR/IMR, more people in reproductive age. Strategies: <strong>Hum Do Hamare Do</strong>, raising marriageable age (female <strong>18</strong>, male <strong>21</strong>), incentives for small families, contraception.</p>"
+        },
+        {
+          "id": "rh-natural-barrier",
+          "level": 2,
+          "heading": "3. Natural & barrier contraception",
+          "html": "<p><strong>Natural/traditional</strong>: <strong>periodic abstinence</strong> (avoid coitus days <strong>10–17</strong>, fertile period); <strong>coitus interruptus</strong> (withdrawal); <strong>lactational amenorrhea</strong> (effective up to <strong>6 months</strong> of intense lactation — suppresses gonadotropins). No side effects but higher failure rates.</p><p><strong>Barrier</strong>: <strong>condoms</strong> (Nirodh — male; female condom covers vagina/cervix); diaphragms, cervical caps, vaults + spermicidal jellies. Prevent semen entry; also protect against <strong>STIs/AIDS</strong>.</p>"
+        },
+        {
+          "id": "rh-iud-oral",
+          "level": 2,
+          "heading": "4. IUDs, oral pills & injectables",
+          "html": "<p><strong>IUDs</strong> (Lippes loop; copper — <strong>CuT, Cu7, Multiload 375</strong>; hormone — <strong>Progestasert, LNG-20</strong>): inserted in uterus; ↑phagocytosis of sperm; Cu²⁺ suppresses sperm motility; hormone IUDs make uterus unsuitable for implantation and cervix hostile to sperm. Ideal for spacing/delaying pregnancy.</p><p><strong>Oral pills</strong>: progestogen or progestogen–estrogen, 21 days + 7-day gap; inhibit ovulation, alter cervical mucus. <strong>Saheli</strong> — once-a-week, non-steroidal. <strong>Injectables/implants</strong> (Figure 3.3). <strong>Emergency contraception</strong> within <strong>72 h</strong> of coitus.</p>"
+        },
+        {
+          "id": "rh-surgical",
+          "level": 2,
+          "heading": "5. Surgical sterilisation",
+          "html": "<p><strong>Sterilisation</strong> — terminal method blocking gamete transport. <strong>Vasectomy</strong> (male): small part of <strong>vas deferens</strong> tied/removed via scrotal incision. <strong>Tubectomy</strong> (female): part of <strong>fallopian tube</strong> tied/removed. Highly effective; <strong>poor reversibility</strong>. Does <strong>not</strong> stop gamete formation.</p>"
+        },
+        {
+          "id": "rh-mtp",
+          "level": 2,
+          "heading": "6. Medical Termination of Pregnancy (MTP)",
+          "html": "<p><strong>MTP</strong> — intentional termination before full term; legalised in India <strong>1971</strong>. ~<strong>45–50 million</strong>/year worldwide. Safest in <strong>first trimester (≤12 weeks)</strong>; one registered practitioner's opinion sufficient within 12 weeks; <strong>two practitioners</strong> for 12–24 weeks (Amendment Act 2017). Misuse of <strong>amniocentesis + MTP for female foeticide</strong> is illegal. Second trimester abortions riskier.</p>"
+        },
+        {
+          "id": "rh-std",
+          "level": 2,
+          "heading": "7. Sexually transmitted infections (STIs)",
+          "html": "<p><strong>STIs/RTIs/VD</strong>: Gonorrhoea (<em>Neisseria</em>), Syphilis (<em>Treponema</em>), Genital herpes, Chlamydia, Genital warts (HPV), Trichomoniasis, Hepatitis-B, <strong>HIV/AIDS</strong>. High incidence in age group <strong>15–24</strong>. Prevention: avoid unknown/multiple partners; <strong>condoms</strong>; early treatment. Hepatitis-B, herpes, HIV not fully curable. Complications: PID, infertility, still birth, ectopic pregnancy. Females often asymptomatic early.</p>"
+        },
+        {
+          "id": "rh-infertility",
+          "level": 2,
+          "heading": "8. Infertility & assisted reproductive technology (ART)",
+          "html": "<p><strong>Infertility</strong> — unable to conceive after <strong>2 years</strong> of unprotected cohabitation; male and female causes both common. <strong>ART</strong>:</p><ul><li><strong>IVF + ET</strong> ('test tube baby') — zygote/early embryo (≤8 blastomeres) transferred to uterus (<strong>IUT</strong>) or <strong>ZIFT</strong> (zygote to fallopian tube).</li><li><strong>GIFT</strong> — ovum + sperm transferred to fallopian tube (requires functional tubes).</li><li><strong>ICSI</strong> — sperm injected into ovum.</li><li><strong>AI/IUI</strong> — artificial insemination (semen into vagina or uterus).</li></ul><p>Legal <strong>adoption</strong> is also encouraged. Infertility clinics diagnose and treat reproductive disorders.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch05",
+      "class": 12,
+      "chapterNo": 5,
+      "title": "Principles of Inheritance and Variation",
+      "topic": "Principles of Inheritance and Variation",
+      "intro": "NCERT Class XII Chapter 4: Mendel's laws, monohybrid and dihybrid crosses, chromosomal theory, linkage, sex determination, mutation, and Mendelian and chromosomal genetic disorders.",
+      "sections": [
+        {
+          "id": "inh-overview",
+          "level": 2,
+          "heading": "1. Genetics — inheritance & variation",
+          "html": "<p><strong>Genetics</strong> deals with <strong>inheritance</strong> (transmission of characters from parents to offspring) and <strong>variation</strong> (differences among progeny). Characters are controlled by <strong>genes</strong> (Mendel's 'factors') — units of inheritance on chromosomes. <strong>Alleles</strong> are alternate forms of a gene. <strong>Genotype</strong> = genetic constitution; <strong>phenotype</strong> = observable expression.</p>"
+        },
+        {
+          "id": "inh-mendel",
+          "level": 2,
+          "heading": "2. Mendel's laws & pea experiments",
+          "html": "<p><strong>Gregor Mendel</strong> (1856–1863) studied garden pea (<em>Pisum</em>) with <strong>7 contrasting trait pairs</strong> (tall/dwarf, round/wrinkled seeds, yellow/green seeds, etc.) using <strong>true-breeding</strong> lines and artificial cross-pollination. He applied statistics and proposed: <strong>Law of Dominance</strong> (one allele masks the other in heterozygote) and <strong>Law of Segregation</strong> (alleles separate during gamete formation). Rediscovered in 1900 by de Vries, Correns and Tschermak.</p>"
+        },
+        {
+          "id": "inh-one-gene",
+          "level": 2,
+          "heading": "3. Inheritance of one gene",
+          "html": "<p><strong>Monohybrid cross</strong> (Tt × tt or TT × tt): F₁ all dominant phenotype; F₂ phenotypic ratio <strong>3:1</strong>, genotypic <strong>1:2:1</strong>. <strong>Homozygous</strong> (TT, tt) vs <strong>heterozygous</strong> (Tt). <strong>Punnett square</strong> (Reginald Punnett) predicts genotypes. <strong>Test cross</strong> = dominant individual × recessive homozygote to determine genotype.</p><p><strong>Incomplete dominance</strong> — F₁ intermediate (snapdragon pink RR × rr). <strong>Co-dominance</strong> — both alleles expressed (AB blood group: I<sup>A</sup> and I<sup>B</sup>). <strong>Multiple alleles</strong> — &gt;2 alleles in population (ABO: I<sup>A</sup>, I<sup>B</sup>, i). Dominance depends on gene product and phenotype examined.</p>"
+        },
+        {
+          "id": "inh-two-gene",
+          "level": 2,
+          "heading": "4. Inheritance of two genes & chromosomal theory",
+          "html": "<p><strong>Dihybrid cross</strong> (RRYY × rryy): F₁ RrYy; selfing gives F₂ ratio <strong>9:3:3:1</strong> — <strong>Law of Independent Assortment</strong> (segregation of one gene pair independent of another). <strong>Chromosomal theory</strong> (Sutton &amp; Boveri, 1902): genes on chromosomes; chromosome behaviour in meiosis parallels Mendelian segregation. <strong>Thomas Hunt Morgan</strong> used <em>Drosophila melanogaster</em> to verify the theory.</p>"
+        },
+        {
+          "id": "inh-linkage",
+          "level": 2,
+          "heading": "5. Linkage & recombination",
+          "html": "<p>Genes on the <strong>same chromosome</strong> show <strong>linkage</strong> (tend to stay together); <strong>recombination</strong> = non-parental combinations. Morgan's dihybrid crosses on X-linked genes deviated from 9:3:3:1. Tightly linked genes show low recombination (white–yellow 1.3%); loosely linked show more (white–miniature 37.2%). <strong>Alfred Sturtevant</strong> used recombination frequency to map gene positions.</p>"
+        },
+        {
+          "id": "inh-polygenic",
+          "level": 2,
+          "heading": "6. Polygenic inheritance",
+          "html": "<p><strong>Polygenic traits</strong> — controlled by <strong>three or more genes</strong> with additive effects; show continuous variation (human height, skin colour). Environment also influences phenotype. Each dominant allele contributes incrementally to the trait.</p>"
+        },
+        {
+          "id": "inh-pleiotropy",
+          "level": 2,
+          "heading": "7. Pleiotropy",
+          "html": "<p><strong>Pleiotropy</strong> — one gene affects <strong>multiple phenotypes</strong> (often via metabolic pathways). Example: <strong>phenylketonuria</strong> (mutation in phenylalanine hydroxylase) → mental retardation + reduced pigmentation.</p>"
+        },
+        {
+          "id": "inh-sex-determination",
+          "level": 2,
+          "heading": "8. Sex determination",
+          "html": "<p><strong>XO type</strong> (grasshopper): males XO, females XX. <strong>XY type</strong> (humans, Drosophila): males XY, females XX — <strong>male heterogamety</strong>. <strong>ZW type</strong> (birds): females ZW, males ZZ — <strong>female heterogamety</strong>. Human sex determined by <strong>sperm</strong> (X or Y); 50% probability each pregnancy.</p><p><strong>Honey bee</strong> — <strong>haplodiploid</strong>: fertilised egg → female (diploid, 32 ch.); unfertilised → male drone (haploid, 16 ch.) by parthenogenesis. Drones have no father, cannot have sons.</p>"
+        },
+        {
+          "id": "inh-mutation",
+          "level": 2,
+          "heading": "9. Mutation",
+          "html": "<p><strong>Mutation</strong> — alteration of DNA sequence → genotype/phenotype change. <strong>Point mutation</strong> — single base pair change (sickle cell: GAG→GUG in β-globin). <strong>Chromosomal aberrations</strong> — deletion, duplication, insertion; common in cancer. <strong>Mutagens</strong>: UV radiation, chemicals.</p>"
+        },
+        {
+          "id": "inh-genetic-disorders",
+          "level": 2,
+          "heading": "10. Genetic disorders & pedigree analysis",
+          "html": "<p><strong>Pedigree analysis</strong> traces inheritance across generations. <strong>Mendelian disorders</strong> (single gene): haemophilia (X-linked recessive), colour blindness (X-linked recessive), sickle-cell anaemia (autosomal recessive; Hb<sup>S</sup>Hb<sup>S</sup>; Glu→Val at β-6), phenylketonuria (autosomal recessive), thalassemia (α/β globin), cystic fibrosis.</p><p><strong>Chromosomal disorders</strong>: <strong>Down's syndrome</strong> (trisomy 21), <strong>Turner's</strong> (45, X0), <strong>Klinefelter's</strong> (47, XXY). <strong>Aneuploidy</strong> = gain/loss of chromosome(s); <strong>polyploidy</strong> = whole set gain (common in plants).</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch06",
+      "class": 12,
+      "chapterNo": 6,
+      "title": "Molecular Basis of Inheritance",
+      "topic": "Molecular Basis of Inheritance",
+      "intro": "NCERT Class XII Chapter 5: DNA structure and packaging, the search for genetic material, replication, transcription, genetic code, translation, gene regulation, Human Genome Project and DNA fingerprinting.",
+      "sections": [
+        {
+          "id": "mbi-overview",
+          "level": 2,
+          "heading": "1. Overview — DNA as genetic material",
+          "html": "<p><strong>DNA</strong> (deoxyribonucleic acid) is the genetic material in most organisms; <strong>RNA</strong> in some viruses. <strong>Central dogma</strong> (Crick): DNA → RNA → Protein. Nucleotides join via <strong>3′–5′ phosphodiester bonds</strong>; polynucleotide has 5′ and 3′ ends.</p>"
+        },
+        {
+          "id": "mbi-dna-structure",
+          "level": 2,
+          "heading": "2. DNA structure & packaging",
+          "html": "<p><strong>Watson &amp; Crick (1953)</strong> double helix: antiparallel strands, <strong>A=T</strong> (2 H-bonds), <strong>G≡C</strong> (3 H-bonds), pitch 3.4 nm, ~10 bp/turn. <strong>Chargaff's rules</strong>: A=T, G=C. Human haploid DNA ~3.3×10⁹ bp; E. coli ~4.6×10⁶ bp.</p><p><strong>Packaging</strong>: prokaryotes — nucleoid; eukaryotes — <strong>histone octamer</strong> + DNA = <strong>nucleosome</strong> ('beads-on-string') → chromatin → chromosomes. <strong>Euchromatin</strong> (transcriptionally active) vs <strong>heterochromatin</strong> (inactive). <strong>NHC proteins</strong> help higher-order coiling.</p>"
+        },
+        {
+          "id": "mbi-genetic-material",
+          "level": 2,
+          "heading": "3. Search for genetic material",
+          "html": "<p><strong>Griffith (1928)</strong> — <em>S. pneumoniae</em> transformation: heat-killed S (smooth/virulent) + live R (rough) → mice die; 'transforming principle'. <strong>Avery, MacLeod &amp; McCarty</strong> — DNA causes transformation. <strong>Hershey &amp; Chase (1952)</strong> — bacteriophage: <strong>³²P-DNA</strong> entered bacteria, <strong>³⁵S-protein</strong> did not → DNA is genetic material. DNA must replicate, be stable, mutate, and express Mendelian characters.</p>"
+        },
+        {
+          "id": "mbi-rna-world",
+          "level": 2,
+          "heading": "4. RNA world",
+          "html": "<p><strong>RNA</strong> was likely the first genetic material — also catalytic (<strong>ribozymes</strong>). RNA is more reactive (2′-OH); <strong>DNA evolved</strong> for stable storage (thymine replaces uracil; double-stranded with repair). TMV and QB phage use RNA as genetic material.</p>"
+        },
+        {
+          "id": "mbi-replication",
+          "level": 2,
+          "heading": "5. DNA replication",
+          "html": "<p><strong>Semiconservative</strong> (Watson-Crick): each daughter DNA has one parental + one new strand. Proved by <strong>Meselson &amp; Stahl</strong> (¹⁵N/¹⁴N in E. coli) and Taylor (radioactive thymidine in <em>Vicia faba</em>).</p><p><strong>DNA-dependent DNA polymerase</strong> synthesises 5′→3′ at <strong>replication fork</strong>. Leading strand continuous; lagging strand discontinuous (<strong>Okazaki fragments</strong>, joined by <strong>DNA ligase</strong>). Requires <strong>origin of replication</strong> (vectors provide ori for rDNA).</p>"
+        },
+        {
+          "id": "mbi-transcription",
+          "level": 2,
+          "heading": "6. Transcription",
+          "html": "<p><strong>Transcription</strong> — DNA → RNA (complementarity; A pairs with U). Only one strand (template 3′→5′) copied per transcription unit: <strong>promoter</strong> – <strong>structural gene</strong> – <strong>terminator</strong>. Coding strand (5′→3′) has same sequence as RNA (T for U).</p><p>Bacterial RNAs: <strong>mRNA, tRNA, rRNA</strong> (one RNA polymerase). Eukaryotes: split genes — <strong>exons</strong> (expressed) + <strong>introns</strong> (spliced out); monocistronic vs bacterial polycistronic.</p>"
+        },
+        {
+          "id": "mbi-genetic-code",
+          "level": 2,
+          "heading": "7. Genetic code",
+          "html": "<p><strong>Genetic code</strong> — triplet codons on mRNA specify amino acids. Properties: <strong>triplet, unambiguous, degenerate, universal</strong> (minor exceptions), non-overlapping, commaless. <strong>Start codon</strong> AUG (Met); <strong>stop codons</strong> UAA, UAG, UGA. Deciphered by Nirenberg, Khorana, Ochoa.</p>"
+        },
+        {
+          "id": "mbi-translation",
+          "level": 2,
+          "heading": "8. Translation",
+          "html": "<p><strong>Translation</strong> — mRNA → protein at <strong>ribosomes</strong>. tRNA has <strong>anticodon</strong>; amino acid attached at 3′ end. Initiation, elongation, termination. Ribosome = rRNA + proteins; reads mRNA 5′→3′. Polysome = several ribosomes on one mRNA.</p>"
+        },
+        {
+          "id": "mbi-regulation",
+          "level": 2,
+          "heading": "9. Regulation of gene expression",
+          "html": "<p>In bacteria, gene expression regulated so proteins are made only when needed. <strong>Lac operon</strong> (Jacob &amp; Monod) in E. coli: structural genes (z, y, a) for lactose metabolism; <strong>operator</strong>, <strong>promoter</strong>, <strong>regulator</strong> (repressor). Lactose = inducer. Positive and negative regulation. Eukaryotes: transcription factors, enhancers, silencers, chromatin modification.</p>"
+        },
+        {
+          "id": "mbi-hgp",
+          "level": 2,
+          "heading": "10. Human Genome Project",
+          "html": "<p><strong>HGP</strong> — international effort to sequence entire human genome (~3 billion bp). Goals: identify all genes, determine sequences, store in databases, address ethical/legal/social issues. <strong>Bioinformatics</strong> — analyse sequence data. <strong>DNA polymorphism</strong> — basis for genetic diversity.</p>"
+        },
+        {
+          "id": "mbi-fingerprinting",
+          "level": 2,
+          "heading": "11. DNA fingerprinting",
+          "html": "<p><strong>DNA fingerprinting</strong> (DNA profiling) — identifies individuals by <strong>VNTR</strong> or <strong>STR</strong> repeats (Southern blot / PCR). Applications: forensic science, paternity/maternity disputes, pedigree analysis, wildlife conservation. DNA from blood, hair, saliva, sperm.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch07",
+      "class": 12,
+      "chapterNo": 7,
+      "title": "Evolution",
+      "topic": "Evolution",
+      "intro": "NCERT Class XII Chapter 6: origin of life, Darwinian evolution, evidences, adaptive radiation, Hardy-Weinberg principle, geological history of life, and human evolution.",
+      "sections": [
+        {
+          "id": "evo-overview",
+          "level": 2,
+          "heading": "1. Evolutionary biology — overview",
+          "html": "<p><strong>Evolution</strong> — change in allele frequencies over generations; origin and diversification of life. <strong>Evolutionary biology</strong> studies history of life on Earth. Earth ~4.5 billion years old; universe ~13.8 billion years.</p>"
+        },
+        {
+          "id": "evo-origin-life",
+          "level": 2,
+          "heading": "2. Origin of life",
+          "html": "<p><strong>Big Bang</strong> → galaxies → solar system. Early Earth: reducing atmosphere (CH₄, NH₃, water vapour). <strong>Panspermia</strong> — life from space (rejected as sole explanation). <strong>Spontaneous generation</strong> disproved by <strong>Pasteur</strong>.</p><p><strong>Oparin &amp; Haldane</strong> — chemical evolution preceded life. <strong>Miller-Urey (1953)</strong> — amino acids from CH₄, H₂, NH₃, H₂O + electric discharge. First self-replicating macromolecules ~3 bya; first cells ~2000 mya.</p>"
+        },
+        {
+          "id": "evo-darwin",
+          "level": 2,
+          "heading": "3. Theories of evolution — Darwin & Lamarck",
+          "html": "<p><strong>Special creation</strong> challenged in 19th century. <strong>Charles Darwin</strong> (HMS Beagle voyage) — gradual evolution, common ancestry, extinctions. <strong>Natural selection</strong>: variation exists; better-adapted individuals leave more progeny (reproductive fitness). <strong>Alfred Wallace</strong> independently proposed similar theory.</p><p><strong>Lamarck</strong> — use and disuse of organs (e.g. giraffe neck); not accepted. <strong>de Vries</strong> — <strong>mutations</strong> cause saltation (sudden large change).</p>"
+        },
+        {
+          "id": "evo-evidence",
+          "level": 2,
+          "heading": "4. Evidences for evolution",
+          "html": "<p><strong>Paleontological</strong> — fossils in sedimentary rocks; extinct forms (dinosaurs). <strong>Comparative anatomy</strong>: <strong>homologous</strong> organs (divergent evolution — whale/bat/human forelimbs) vs <strong>analogous</strong> (convergent — wings of butterfly and bird). <strong>Embryology</strong> — von Baer over Haeckel. <strong>Biochemical</strong> — protein/gene sequence similarities.</p><p><strong>Industrial melanism</strong> (England): pre-industrial white moths on lichen-covered trees; post-industrial dark moths on sooty trunks — natural selection. <strong>Anthropogenic selection</strong> — antibiotic/herbicide resistance.</p>"
+        },
+        {
+          "id": "evo-adaptive-radiation",
+          "level": 2,
+          "heading": "5. Adaptive radiation",
+          "html": "<p><strong>Adaptive radiation</strong> — rapid evolution of many species from a common ancestor into different habitats. <strong>Darwin's finches</strong> (Galapagos) — varied beaks from seed-eating ancestor. <strong>Australian marsupials</strong> — diversified on isolated continent. <strong>Convergent evolution</strong> — placental wolf vs Tasmanian wolf marsupial.</p>"
+        },
+        {
+          "id": "evo-biological",
+          "level": 2,
+          "heading": "6. Biological evolution & fitness",
+          "html": "<p>Evolution by natural selection in cellular life. <strong>Fitness</strong> = reproductive success; must have <strong>genetic basis</strong>. <strong>Branching descent</strong> + natural selection = Darwinian theory. Variation from mutation, recombination, gene flow, genetic drift.</p>"
+        },
+        {
+          "id": "evo-mechanism",
+          "level": 2,
+          "heading": "7. Mechanism of evolution",
+          "html": "<p><strong>Natural selection</strong> acts on heritable variation. Limited resources → competition → differential survival/reproduction. <strong>Speciation</strong> when populations diverge. Selection types: <strong>stabilising</strong>, <strong>directional</strong>, <strong>disruptive</strong>. Evolution is stochastic, not directed.</p>"
+        },
+        {
+          "id": "evo-hardy-weinberg",
+          "level": 2,
+          "heading": "8. Hardy-Weinberg principle",
+          "html": "<p>Allele frequencies stable across generations in ideal population: <strong>p² + 2pq + q² = 1</strong> (p + q = 1). <strong>Genetic equilibrium</strong> disturbed by: gene migration/flow, genetic drift, mutation, recombination, natural selection. <strong>Founder effect</strong> — new population from small group. Genetic drift may cause speciation.</p>"
+        },
+        {
+          "id": "evo-geological",
+          "level": 2,
+          "heading": "9. Geological time scale & life's history",
+          "html": "<p>~2000 mya first cells; 500 mya invertebrates; 350 mya jawless fish; 320 mya plants on land; <strong>lobefins → amphibians</strong>; reptiles with amniotic eggs; <strong>dinosaurs</strong> dominant, extinct ~65 mya; <strong>mammals</strong> diversified; <strong>coelacanth</strong> 'living fossil'. Continental drift affected distribution (South American marsupials).</p>"
+        },
+        {
+          "id": "evo-human",
+          "level": 2,
+          "heading": "10. Origin & evolution of man",
+          "html": "<p>Primates: <strong>Dryopithecus</strong> (ape-like), <strong>Ramapithecus</strong> (man-like). ~3–4 mya hominids in Africa. <strong>Australopithecus</strong> — upright, ~4 ft. <strong>Homo habilis</strong> (650–800 cc brain). <strong>Homo erectus</strong> (~900 cc, Java). <strong>Neanderthal</strong> (1400 cc). <strong>Homo sapiens</strong> in Africa; ice age 75,000–10,000 ya. Cave art Bhimbetka (MP) ~18,000 ya.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch08",
+      "class": 12,
+      "chapterNo": 8,
+      "title": "Human Health and Disease",
+      "topic": "Human Health and Disease",
+      "intro": "NCERT Class XII Chapter 7: common infectious diseases, immunity and vaccination, AIDS, cancer, and drug/alcohol/tobacco abuse with prevention strategies.",
+      "sections": [
+        {
+          "id": "hhd-overview",
+          "level": 2,
+          "heading": "1. Health — definition & determinants",
+          "html": "<p><strong>Health</strong> (WHO) = complete physical, mental and social well-being — not merely absence of disease. Affected by <strong>genetic disorders</strong>, <strong>infections</strong> and <strong>life style</strong> (diet, hygiene, exercise, habits). Balanced diet, personal/public hygiene, yoga, vaccination and vector control promote health.</p>"
+        },
+        {
+          "id": "hhd-common-diseases",
+          "level": 2,
+          "heading": "2. Common diseases in humans",
+          "html": "<p><strong>Typhoid</strong> — <em>Salmonella typhi</em>; Widal test; high fever, constipation. <strong>Pneumonia</strong> — <em>Streptococcus pneumoniae</em>, <em>H. influenzae</em>; alveoli fill with fluid. <strong>Common cold</strong> — rhinoviruses. <strong>Malaria</strong> — <em>Plasmodium</em> (P. vivax, P. malariae, P. falciparum malignant); Anopheles vector; sporozoites → liver → RBCs → haemozoin → fever cycles.</p><p><strong>Amoebiasis</strong> — <em>E. histolytica</em>; housefly carrier. <strong>Ascariasis</strong> — <em>Ascaris</em>; <strong>Filariasis/elephantiasis</strong> — <em>Wuchereria</em>; mosquito vector. <strong>Ringworm</strong> — <em>Microsporum, Trichophyton, Epidermophyton</em> fungi. Prevention: hygiene, safe water, vector control, vaccines (smallpox eradicated).</p>"
+        },
+        {
+          "id": "hhd-immunity",
+          "level": 2,
+          "heading": "3. Immunity",
+          "html": "<p><strong>Innate immunity</strong> (non-specific): physical (skin, mucus), physiological (stomach acid, tears), cellular (PMNL, macrophages, NK cells), cytokine (interferons).</p><p><strong>Acquired immunity</strong> (specific, memory): <strong>B-lymphocytes</strong> → antibodies (IgG, IgA, IgM, IgE); humoral response. <strong>T-lymphocytes</strong> → CMI; graft rejection (self vs non-self). <strong>Active immunity</strong> — body makes antibodies (vaccination). <strong>Passive</strong> — ready-made (colostrum IgA, maternal via placenta, antitoxin).</p><p><strong>Allergy</strong> — IgE, histamine (mast cells). <strong>Autoimmunity</strong> — rheumatoid arthritis. Lymphoid organs: bone marrow, thymus (primary); spleen, lymph nodes, MALT (secondary).</p>"
+        },
+        {
+          "id": "hhd-aids",
+          "level": 2,
+          "heading": "4. AIDS",
+          "html": "<p><strong>AIDS</strong> — Acquired Immuno Deficiency Syndrome; caused by <strong>HIV</strong> (retrovirus, RNA genome, reverse transcriptase). Transmission: sexual contact, contaminated blood, shared needles, mother-to-child via placenta. <strong>Not</strong> spread by casual touch. HIV destroys <strong>helper T-lymphocytes</strong> → opportunistic infections. Diagnosis: <strong>ELISA</strong>. Prevention: NACO/WHO programmes, safe blood, disposable needles, condoms, awareness. No complete cure; antiretroviral drugs prolong life.</p>"
+        },
+        {
+          "id": "hhd-cancer",
+          "level": 2,
+          "heading": "5. Cancer",
+          "html": "<p><strong>Cancer</strong> — uncontrolled cell division; loss of <strong>contact inhibition</strong>. <strong>Benign</strong> tumours localised; <strong>malignant</strong> invade tissues and <strong>metastasise</strong> via blood. Causes: carcinogens (UV, X-rays, tobacco smoke), <strong>oncogenic viruses</strong>, proto-oncogenes. Detection: biopsy, histopathology, radiography, CT, MRI. Treatment: surgery, radiotherapy, chemotherapy, immunotherapy (α-interferon).</p>"
+        },
+        {
+          "id": "hhd-drugs",
+          "level": 2,
+          "heading": "6. Drugs, alcohol & tobacco abuse",
+          "html": "<p><strong>Opioids</strong> — heroin (diacetylmorphine from poppy <em>Papaver somniferum</em>). <strong>Cannabinoids</strong> — <em>Cannabis sativa</em> (marijuana, hashish, ganja). <strong>Cocaine</strong> — <em>Erythroxylum coca</em>; blocks dopamine transport. <strong>Tobacco</strong> — nicotine; cancers of lung, bladder, throat; CO reduces O₂ binding.</p><p><strong>Adolescence</strong> (12–18 yr) vulnerable — curiosity, peer pressure, academic stress. <strong>Addiction</strong> vs <strong>dependence</strong> (withdrawal syndrome). IV drug use → AIDS, Hepatitis B. <strong>Doping</strong> — anabolic steroids. Prevention: parental support, counselling, early detection, de-addiction programmes.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch09",
+      "class": 12,
+      "chapterNo": 9,
+      "title": "Strategies for Enhancement in Food Production",
+      "topic": "Strategies for Enhancement in Food Production",
+      "intro": "NCERT Class XII Unit VI Chapter 9: plant breeding and tissue culture, single cell protein and biofortification, and animal husbandry — dairy, poultry, apiculture, aquaculture and controlled breeding.",
+      "sections": [
+        {
+          "id": "sfp-overview",
+          "level": 2,
+          "heading": "1. Food production — overview",
+          "html": "<p>With a growing human population, <strong>enhancement of food production</strong> is essential. Strategies include <strong>plant breeding</strong>, <strong>tissue culture</strong>, <strong>animal husbandry</strong> (dairy, poultry, fisheries, apiculture) and microbial foods (<strong>SCP</strong>). In India agriculture accounts for ~<strong>14% of GDP</strong> and employs ~<strong>50% of the population</strong>. Good breeds should be high-yielding, disease-resistant, tolerant to climatic stress and have better quality products. A shift from grain to meat diet increases cereal demand (~<strong>3–10 kg grain per kg meat</strong>).</p>"
+        },
+        {
+          "id": "sfp-plant-breeding",
+          "level": 2,
+          "heading": "2. Plant breeding",
+          "html": "<p><strong>Plant breeding</strong> manipulates plant species for superior crops. Steps: (i) collection of <strong>germplasm</strong> (entire collection of diverse alleles — the <strong>gene pool</strong>); (ii) evaluation and selection of parents; (iii) <strong>hybridization</strong> of selected parents; (iv) selection and testing of superior <strong>recombinants</strong>; (v) testing, release and <strong>commercialisation</strong> of new cultivars. <strong>Emasculation</strong> (removal of anthers) and <strong>bagging</strong> (covering emasculated flower) prevent unwanted pollination in cross-pollinated crops. Self-pollination for several generations yields <strong>pure lines</strong>. <strong>Mutation breeding</strong> uses physical/chemical mutagens. The <strong>Green Revolution</strong> (1960s–70s) — high-yielding, disease-resistant <strong>wheat and rice</strong> via plant breeding — was led globally by <strong>Norman Borlaug</strong> and in India by <strong>M. S. Swaminathan</strong>. Indian varieties: wheat (<strong>HL-21, Sonalika, Kalyan Sona</strong>); rice (<strong>IR-8, Jaya, Ratna</strong>); sugarcane (<em>Saccharum barberi</em> × <em>S. officinarum</em>); millets; <strong>Pusa</strong> varieties (e.g. <strong>Pusa Gaurav</strong> — mustard; <strong>Pusa Komal</strong> — cowpea; <strong>Pusa Sadabahar</strong> — chilli); <strong>Himgiri</strong> (wheat — leaf/stripe rust resistant).</p>"
+        },
+        {
+          "id": "sfp-tissue-culture",
+          "level": 2,
+          "heading": "3. Tissue culture & micropropagation",
+          "html": "<p><strong>Tissue culture</strong> regenerates whole plants from explants on nutrient medium under aseptic conditions. <strong>Totipotency</strong> — capacity of a cell to generate a whole plant. <strong>Micropropagation</strong> (clonal propagation) produces thousands of identical plants from shoot tips/meristems — virus-free plants (e.g. banana, potato, sugarcane). Steps: explant → <strong>callus</strong> → shoot/root induction → hardening → field transfer. <strong>Somaclonal variation</strong> — genetic variation among tissue-culture-derived plants. <strong>Anther culture</strong> → haploid plants; <strong>embryo rescue</strong> saves weak interspecific hybrids; <strong>protoplast fusion</strong> → somatic hybrids (e.g. <strong>Pomato</strong> = potato + tomato). <strong>Cryopreservation</strong> stores germplasm at −196 °C (liquid N₂). Hormones: <strong>auxin + cytokinin</strong> ratio controls organogenesis.</p>"
+        },
+        {
+          "id": "sfp-heterosis",
+          "level": 2,
+          "heading": "4. Heterosis & hybrid seeds",
+          "html": "<p><strong>Heterosis (hybrid vigour)</strong> — superior performance of <strong>F₁ hybrids</strong> over parents in yield, growth, uniformity and disease resistance. Commercial hybrid seed production: develop <strong>inbred lines</strong> by repeated self-pollination → cross two inbreds → <strong>single cross hybrid</strong>; <strong>double cross</strong> and <strong>triple cross</strong> hybrids use more parental lines for greater vigour but lower uniformity. Hybrid seeds must be purchased each season (F₂ segregates). Examples: maize, rice, sorghum hybrid varieties (e.g. <strong>P-1542</strong>).</p>"
+        },
+        {
+          "id": "sfp-biofortification",
+          "level": 2,
+          "heading": "5. Biofortification",
+          "html": "<p><strong>Biofortification</strong> breeds crops with higher levels of vitamins, minerals, proteins or healthier oils — sustainable remedy for <strong>hidden hunger</strong> (micronutrient deficiency: iron, vitamin A, iodine, zinc). Targets: <strong>protein quality</strong> (lysine, tryptophan in maize/wheat); <strong>micronutrients</strong> (iron, vitamin A); oil quality. Examples: <strong>Atlas 66</strong> (wheat, high protein); <strong>Golden rice</strong> (β-carotene / vitamin A precursor); iron-rich varieties. Distinct from fortification (adding nutrients during processing).</p>"
+        },
+        {
+          "id": "sfp-scp",
+          "level": 2,
+          "heading": "6. Single cell protein (SCP)",
+          "html": "<p><strong>Single cell protein (SCP)</strong> — microbial biomass (bacteria, yeasts, algae, filamentous fungi) grown on industrial/agricultural waste, harvested and used as food/rich protein supplement. Advantages: rapid biomass production, independent of land, uses waste substrates. Sources: <strong>Spirulina</strong> (alga, 60% protein, on wastewater); <strong>Methylophilus methylotrophus</strong> (bacterium, 43% protein, on methanol); <strong>Fusarium</strong> (fungus, <em>Pruteen</em>, on glucose); <strong>Candida utilis</strong> (yeast, on molasses). SCP can reduce pressure on agricultural land for protein.</p>"
+        },
+        {
+          "id": "sfp-animal-breeding",
+          "level": 2,
+          "heading": "7. Animal breeding & husbandry",
+          "html": "<p><strong>Animal husbandry</strong> — care and breeding of livestock (cattle, sheep, goat, poultry, pig) for food, fibre and labour. Breeding aims: increased milk/meat/egg production, disease resistance, quality. Methods: <strong>inbreeding</strong> (closely related animals — exposes harmful recessives, reduces fertility; used to develop pure lines); <strong>outbreeding</strong> — out-crossing (same breed, unrelated), cross-breeding (superior breeds, e.g. <strong>Hissardale</strong> = Bikaneri × Marino sheep), interspecific hybridization (<strong>mule</strong> = horse × donkey, sterile). <strong>MOET</strong> (Multiple Ovulation Embryo Transfer): FSH → superovulation → AI → non-surgical recovery at 8-cell stage → embryo transfer to surrogates — rapid multiplication of elite cows. <strong>Artificial insemination</strong> (AI) uses proven sire semen. Castrated bull → docile <strong>bullock</strong> for farm work.</p>"
+        },
+        {
+          "id": "sfp-apiculture",
+          "level": 2,
+          "heading": "8. Apiculture (bee-keeping)",
+          "html": "<p><strong>Apiculture</strong> — maintenance of honeybee hives for honey and wax. Species: <strong>Apis indica</strong> (common Indian), <strong>A. dorsata</strong> (rock bee), <strong>A. florae</strong> (little bee), <strong>A. mellifera</strong> (Italian, high yield). Products: <strong>honey</strong> (fructose/glucose, minerals, enzymes), <strong>bee wax</strong>, <strong>propolis</strong>, <strong>royal jelly</strong>. Bee-keeping needs: knowledge of nature/habits of bees, suitable location, catching/swarming, management during flowering. Hives in crop fields during flowering increase <strong>pollination</strong> and crop yield. Worker bees live ~6 weeks (busy season) to months (winter).</p>"
+        },
+        {
+          "id": "sfp-aquaculture",
+          "level": 2,
+          "heading": "9. Fisheries & aquaculture",
+          "html": "<p><strong>Fisheries</strong> — industry dealing with catching, processing and selling fish/shellfish. <strong>Aquaculture (pisciculture)</strong> — rearing fish in confined water bodies. Freshwater fishes: <strong>Catla</strong> (surface feeder), <strong>Rohu</strong> (column feeder), <strong>Mrigal</strong> (bottom feeder), common carp, grass carp, silver carp. Marine: <strong>Hilsa</strong>, pomfret, mackerel. Composite fish culture stocks 5–6 compatible species with different feeding niches for high yield without competition. <strong>Prawn/fish culture</strong> integrated with rice paddies in some systems. <strong>Common carp</strong> introduced to India by foreigners.</p>"
+        },
+        {
+          "id": "sfp-dairy-poultry",
+          "level": 2,
+          "heading": "10. Dairy & poultry management",
+          "html": "<p><strong>Dairy farm management</strong> — processes for improved milk yield and quality: selection of high-yielding <strong>milch breeds</strong> (<strong>Sahiwal, Red Sindhi</strong> — indigenous; <strong>Holstein-Friesian, Jersey</strong> — exotic; cross-breeds for hybrid vigour), proper housing, feeding, hygiene, veterinary care, <strong>AI</strong> with superior bulls, record-keeping. <strong>Poultry</strong> — domesticated fowl for eggs and meat. <strong>Broilers</strong> (meat, fast growth) and <strong>layers</strong> (egg production). Breeds: <strong>Leghorn, Rhode Island Red, Aseel (Aisha)</strong>. Management: breed selection, disease-free stock, balanced feed, hygiene, temperature control. Infected birds culled; <strong>bird flu</strong> not transmitted by properly cooked chicken/eggs (&gt;100 °C).</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch10",
+      "class": 12,
+      "chapterNo": 10,
+      "title": "Microbes in Human Welfare",
+      "topic": "Microbes in Human Welfare",
+      "intro": "NCERT Class XII Chapter 8: useful microbes in household products, industrial fermentations, sewage treatment, biogas, biocontrol agents and biofertilisers.",
+      "sections": [
+        {
+          "id": "mhw-overview",
+          "level": 2,
+          "heading": "1. Microbes — diversity & overview",
+          "html": "<p><strong>Microbes</strong> (bacteria, fungi, protozoa, viruses, viroids, prions) are ubiquitous — soil, water, air, thermal vents, deep soil, snow. <strong>Prions</strong> are <strong>proteinaceous</strong> infectious agents. Bacteria and fungi grow on nutritive media as visible <strong>colonies</strong>. Most microbes are useful; some cause disease (Ch. 7). This chapter covers household, industrial, environmental and agricultural applications.</p>"
+        },
+        {
+          "id": "mhw-household",
+          "level": 2,
+          "heading": "2. Microbes in household products",
+          "html": "<p><strong>Curd</strong> — <strong>Lactobacillus</strong> (LAB) ferments milk → lactic acid coagulates proteins; improves <strong>vitamin B₁₂</strong>; LAB in stomach check pathogens. <strong>Dosa/idli/bread</strong> — bacterial/yeast fermentation; <strong>CO₂</strong> puffs dough (<strong>Saccharomyces cerevisiae</strong> = baker's/brewer's yeast). <strong>Toddy</strong> — palm sap fermentation. <strong>Cheese</strong> — microbes give texture/flavour (<strong>Propionibacterium shermanii</strong> → CO₂ holes in Swiss cheese; fungi ripen Roquefort).</p>"
+        },
+        {
+          "id": "mhw-industrial",
+          "level": 2,
+          "heading": "3. Microbes in industrial products",
+          "html": "<p>Large-scale production in <strong>fermentors</strong>. <strong>Beverages</strong> — S. cerevisiae ferments malted cereals/fruit juices → ethanol; wine/beer without distillation; whisky/brandy/rum with distillation. <strong>Antibiotics</strong> — chemical substances from microbes killing/inhibiting other microbes (<em>anti</em> + <em>bio</em>); <strong>Penicillin</strong> — Fleming (<em>Penicillium notatum</em>); Chain &amp; Florey (Nobel 1945); treated WW-II wounds. <strong>Organic acids</strong>: citric (<em>Aspergillus niger</em>), acetic (<em>Acetobacter aceti</em>), butyric (<em>Clostridium butylicum</em>), lactic (<em>Lactobacillus</em>). <strong>Enzymes/bioactives</strong>: lipases (detergents), pectinases/proteases (juice clarification), <strong>streptokinase</strong> (clot buster), <strong>cyclosporin A</strong> (<em>Trichoderma polysporum</em> — immunosuppressant), <strong>statins</strong> (<em>Monascus purpureus</em> — cholesterol lowering).</p>"
+        },
+        {
+          "id": "mhw-sewage",
+          "level": 2,
+          "heading": "4. Microbes in sewage treatment",
+          "html": "<p><strong>Sewage</strong> = municipal wastewater with organic matter and pathogens. <strong>Primary treatment</strong> — filtration + sedimentation → primary sludge + effluent. <strong>Secondary (biological) treatment</strong> — aerobic microbes in aeration tanks form <strong>flocs</strong>, consume organic matter → ↓<strong>BOD</strong> (biochemical oxygen demand = O₂ needed to oxidise organic matter in 1 L water). Effluent → settling tank → <strong>activated sludge</strong> (part recycled as inoculum). Remaining sludge → <strong>anaerobic digesters</strong> → <strong>biogas</strong> (CH₄, H₂S, CO₂). <strong>Ganga/Yamuna Action Plans</strong> — more STPs. Untreated sewage pollutes rivers.</p>"
+        },
+        {
+          "id": "mhw-biogas",
+          "level": 2,
+          "heading": "5. Microbes in biogas production",
+          "html": "<p><strong>Biogas</strong> — predominantly <strong>methane</strong> from anaerobic microbial degradation. <strong>Methanogens</strong> (e.g. <strong>Methanobacterium</strong>) on cellulosic material in anaerobic sludge and cattle <strong>rumen</strong> (break cellulose; humans cannot digest cellulose). <strong>Gobar gas</strong> plant — cattle dung slurry in concrete tank; floating cover rises with gas; spent slurry = fertiliser. Developed by <strong>IARI</strong> and <strong>KVIC</strong>.</p>"
+        },
+        {
+          "id": "mhw-biocontrol",
+          "level": 2,
+          "heading": "6. Microbes as biocontrol agents",
+          "html": "<p><strong>Biocontrol</strong> — biological control of pests/diseases; reduces toxic pesticides. Organic farming maintains predator–prey balance. <strong>Bacillus thuringiensis (Bt)</strong> — dried spores sprayed; toxin activated in alkaline insect gut → pores in midgut → death; <strong>Bt-cotton</strong> has Bt toxin genes. <strong>Trichoderma</strong> — free-living fungus, biocontrol of plant pathogens. <strong>Baculoviruses</strong> (Nucleopolyhedrovirus) — species-specific insecticides, safe for plants/mammals/birds/fish/non-target insects; useful in <strong>IPM</strong>. <strong>Ladybird</strong> (aphids), <strong>dragonflies</strong> (mosquitoes).</p>"
+        },
+        {
+          "id": "mhw-biofertiliser",
+          "level": 2,
+          "heading": "7. Microbes as biofertilisers",
+          "html": "<p><strong>Biofertilisers</strong> enrich soil nutrients organically. <strong>Rhizobium</strong> — nodules on legume roots fix N₂. <strong>Azospirillum, Azotobacter</strong> — free-living N-fixers. <strong>Mycorrhiza</strong> (<em>Glomus</em>) — fungus aids P uptake; resistance to pathogens, salinity, drought. <strong>Cyanobacteria</strong> (<em>Anabaena, Nostoc, Oscillatoria</em>) — N-fixation in paddy fields; add organic matter. Commercial biofertilisers reduce chemical fertiliser dependence.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch11",
+      "class": 12,
+      "chapterNo": 11,
+      "title": "Biotechnology: Principles and Processes",
+      "topic": "Biotechnology Principles and Processes",
+      "intro": "NCERT Class XII Chapter 9: genetic engineering and bioprocess engineering — restriction enzymes, vectors, host transformation, PCR, rDNA construction, bioreactors and downstream processing.",
+      "sections": [
+        {
+          "id": "btp-overview",
+          "level": 2,
+          "heading": "1. Principles of biotechnology",
+          "html": "<p><strong>Biotechnology</strong> — use of live organisms/enzymes for useful products. Modern biotech rests on (i) <strong>genetic engineering</strong> (alter DNA/RNA, change phenotype) and (ii) <strong>bioprocess engineering</strong> (sterile large-scale manufacture). Alien DNA needs <strong>origin of replication (ori)</strong> to multiply — <strong>cloning</strong>. First rDNA: Cohen &amp; Boyer (1972) — antibiotic resistance gene + <em>Salmonella</em> plasmid → <em>E. coli</em>. Three steps: identify DNA, introduce into host, maintain/transfer to progeny.</p>"
+        },
+        {
+          "id": "btp-restriction",
+          "level": 2,
+          "heading": "2. Restriction enzymes & gel electrophoresis",
+          "html": "<p><strong>Restriction endonucleases</strong> ('molecular scissors') cut DNA at specific <strong>recognition sequences</strong> (often <strong>palindromes</strong>, e.g. 5′-GAATTC-3′ for <strong>EcoRI</strong>). Naming: genus + species + strain + order (EcoRI from <em>E. coli</em> RY13). <strong>Sticky ends</strong> facilitate ligation. <strong>Exonucleases</strong> cut ends; <strong>endonucleases</strong> cut within. Fragments separated by <strong>agarose gel electrophoresis</strong> (DNA → anode); stained with <strong>ethidium bromide</strong> under UV; bands <strong>eluted</strong> for cloning.</p>"
+        },
+        {
+          "id": "btp-vectors",
+          "level": 2,
+          "heading": "3. Cloning vectors",
+          "html": "<p><strong>Plasmids</strong> and <strong>bacteriophages</strong> replicate independently. Vector features: (i) <strong>ori</strong> — copy number control; (ii) <strong>selectable marker</strong> — antibiotic resistance (amp<sup>R</sup>, tet<sup>R</sup>, kan<sup>R</sup>, chloramphenicol) to identify transformants; (iii) <strong>cloning sites</strong> — preferably single restriction site (e.g. <strong>pBR322</strong> — insertional inactivation of tet<sup>R</sup>, transformants grow on ampicillin not tetracycline); <strong>β-galactosidase insertional inactivation</strong> — blue/white colony selection. Plant vectors: modified <strong>Ti plasmid</strong> of <em>Agrobacterium tumefaciens</em>; animal: disarmed <strong>retroviruses</strong>.</p>"
+        },
+        {
+          "id": "btp-host",
+          "level": 2,
+          "heading": "4. Competent host & gene delivery",
+          "html": "<p>DNA is hydrophilic — needs delivery methods. <strong>Transformation</strong> — <em>E. coli</em> made competent with <strong>Ca²⁺</strong>, ice → <strong>42 °C heat shock</strong> → ice. Alternatives: <strong>microinjection</strong> (animal nucleus), <strong>biolistics/gene gun</strong> (plant cells — gold/tungsten particles), <strong>disarmed pathogen vectors</strong> (Agrobacterium, retrovirus).</p>"
+        },
+        {
+          "id": "btp-processes",
+          "level": 2,
+          "heading": "5. rDNA technology steps",
+          "html": "<p>Sequence: isolate DNA (lysozyme/cellulase/chitinase; RNase, protease; ethanol precipitation) → restrict → isolate fragment → <strong>DNA ligase</strong> ligation → transfer to host → culture → extract product. <strong>PCR</strong> — denaturation, primer annealing, extension with <strong>Taq polymerase</strong> (<em>Thermus aquaticus</em>, thermostable); amplifies DNA in vitro. Selection via selectable markers on transformants.</p>"
+        },
+        {
+          "id": "btp-bioreactor",
+          "level": 2,
+          "heading": "6. Bioreactors & downstream processing",
+          "html": "<p><strong>Recombinant protein</strong> from heterologous host. Large-scale: <strong>bioreactors</strong> (100–1000 L) with agitator, O₂ delivery, foam/pH/temperature control, sampling ports; <strong>sparged stirred-tank</strong> types. <strong>Continuous culture</strong> maintains log phase for higher yield. <strong>Downstream processing</strong> — separation, purification, formulation, preservatives, clinical trials, quality control after biosynthetic stage.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch12",
+      "class": 12,
+      "chapterNo": 12,
+      "title": "Biotechnology and its Applications",
+      "topic": "Biotechnology and Its Application",
+      "intro": "NCERT Class XII Chapter 10: GM crops, RNAi, recombinant therapeutics, gene therapy, molecular diagnosis, transgenic animals, and ethical/regulatory issues including biopiracy.",
+      "sections": [
+        {
+          "id": "bta-overview",
+          "level": 2,
+          "heading": "1. Biotechnology applications — overview",
+          "html": "<p>Biotech applications: <strong>therapeutics, diagnostics, GM agriculture, processed food, bioremediation, waste treatment, energy</strong>. Three research areas: improved catalyst (microbe/enzyme), optimal engineering conditions, downstream purification.</p>"
+        },
+        {
+          "id": "bta-agriculture",
+          "level": 2,
+          "heading": "2. Applications in agriculture",
+          "html": "<p>Food options: agrochemical, organic, or <strong>GM crop</strong> agriculture. <strong>Tissue culture</strong> — <strong>totipotency</strong>; <strong>micropropagation</strong> → <strong>somaclones</strong>; virus-free plants from <strong>meristem</strong>; <strong>somatic hybridisation</strong> (protoplast fusion). <strong>GMO/GM plants</strong> — abiotic stress tolerance, pest resistance, ↓post-harvest loss, ↑mineral efficiency, enhanced nutrition (<strong>Golden Rice</strong> — vit A).</p><p><strong>Bt cotton</strong> — <em>Bacillus thuringiensis</em> <strong>cry</strong> genes (cryIAc, cryIIAb for bollworms; cryIAb for corn borer); protoxin activated in alkaline insect gut. <strong>RNAi</strong> — dsRNA silences specific mRNA; used against nematode <em>Meloidegyne incognitia</em> in tobacco via Agrobacterium vectors (sense + antisense RNA).</p>"
+        },
+        {
+          "id": "bta-medicine",
+          "level": 2,
+          "heading": "3. Applications in medicine",
+          "html": "<p><strong>Genetically engineered insulin</strong> — Eli Lilly (1983): separate A and B chain genes in <em>E. coli</em>, combined by disulphide bonds; identical to human insulin; not orally active (digested). Earlier from cattle/pig pancreas caused allergy. <strong>Gene therapy</strong> — insert functional genes; first clinical case 1990 — <strong>ADA deficiency</strong> (adenosine deaminase); lymphocyte culture + retroviral ADA cDNA; permanent cure needs early embryonic gene transfer. <strong>Molecular diagnosis</strong> — <strong>PCR</strong> (HIV, cancer mutations), <strong>ELISA</strong> (antigen–antibody), probe hybridisation/autoradiography.</p>"
+        },
+        {
+          "id": "bta-transgenic",
+          "level": 2,
+          "heading": "4. Transgenic animals",
+          "html": "<p><strong>Transgenic animals</strong> — extra foreign gene expressed. Uses: study gene regulation/development; <strong>disease models</strong> (cancer, cystic fibrosis, Alzheimer's); biological products (<strong>Rosie</strong> cow — human α-lactalbumin milk; α-1-antitrypsin for emphysema); <strong>vaccine safety</strong> testing (polio in mice); <strong>toxicity/safety testing</strong>. &gt;95% transgenic animals are mice.</p>"
+        },
+        {
+          "id": "bta-ethics",
+          "level": 2,
+          "heading": "5. Ethical issues & biopiracy",
+          "html": "<p>GM organisms need regulation — <strong>GEAC</strong> (Genetic Engineering Approval Committee, India). <strong>Biopiracy</strong> — unauthorised use of bio-resources/traditional knowledge (Basmati rice US patent 1997; turmeric, neem patent attempts). <strong>Indian Patents Bill</strong> amendments address traditional knowledge. Ethical concerns: unpredictable ecosystem effects, patent equity between developed (rich, low biodiversity) and developing (biodiversity-rich) nations. Rio Convention on Biological Diversity (1992); Johannesburg Summit 2002.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch13",
+      "class": 12,
+      "chapterNo": 13,
+      "title": "Organisms and Populations",
+      "topic": "Organisms and Populations",
+      "intro": "NCERT Class XII Chapter 11: ecology at organism and population levels — abiotic adaptations, population attributes, growth models, and interspecific interactions.",
+      "sections": [
+        {
+          "id": "op-overview",
+          "level": 2,
+          "heading": "1. Ecology — organisms & populations",
+          "html": "<p><strong>Ecology</strong> studies interactions among organisms and with the <strong>abiotic</strong> environment at levels: organisms, <strong>populations</strong>, communities, biomes. A <strong>population</strong> = individuals of a species in a defined area sharing resources and potentially interbreeding. Natural selection operates at population level.</p>"
+        },
+        {
+          "id": "op-organism",
+          "level": 2,
+          "heading": "2. Organism & abiotic factors",
+          "html": "<p>Organisms respond to <strong>temperature, water, light, soil</strong>. <strong>Homeostasis</strong> — steady internal environment. <strong>Conformers</strong> vs <strong>regulators</strong> (e.g. birds/mammals thermoregulate). <strong>Eurythermal/stenothermal</strong> (temperature); <strong>euryhaline/stenohaline</strong> (salinity). <strong>Aestivation</strong> (summer) and <strong>hibernation</strong> (winter) avoid stress. <strong>Migration</strong> — long-distance movement. <strong>Altitude sickness</strong> — low O₂, nausea, fatigue. Desert plants: sunken stomata, thick cuticle, C₄/CAM pathways; kangaroo rat meets water needs through internal fat oxidation.</p>"
+        },
+        {
+          "id": "op-attributes",
+          "level": 2,
+          "heading": "3. Population attributes",
+          "html": "<p>Population-level attributes: <strong>birth rate, death rate, sex ratio, age distribution</strong>. <strong>Age pyramid</strong> shape → growing/stable/declining population. <strong>Population density (N)</strong> — numbers, biomass or % cover (banyan vs Parthenium). Indirect measures: fish per trap, pug marks, fecal pellets.</p>"
+        },
+        {
+          "id": "op-growth",
+          "level": 2,
+          "heading": "4. Population growth",
+          "html": "<p>Density change: N<sub>t+1</sub> = N<sub>t</sub> + [(B+I)−(D+E)]. <strong>Exponential growth</strong> (unlimited resources): dN/dt = rN; N<sub>t</sub> = N₀e<sup>rt</sup>; <strong>intrinsic rate of natural increase (r)</strong>; J-shaped curve. <strong>Logistic growth</strong>: dN/dt = rN((K−N)/K); <strong>carrying capacity (K)</strong>; sigmoid curve; more realistic. <strong>Life history</strong> — semelparity (bamboo, salmon) vs iteroparity; many small vs few large offspring.</p>"
+        },
+        {
+          "id": "op-interactions",
+          "level": 2,
+          "heading": "5. Interspecific interactions",
+          "html": "<p><strong>Mutualism (+/+)</strong> — lichens, mycorrhiza, fig–wasp, orchid–bee pollination. <strong>Competition (−/−)</strong> — Gause's competitive exclusion (resources limiting); <strong>resource partitioning</strong> (warblers); competitive release; interference competition. <strong>Predation (+/−)</strong> — energy transfer, prey regulation, biological control; prickly pear–moth (Australia); predator prudence; prey defences (camouflage, toxins, Monarch butterfly). <strong>Parasitism (+/−)</strong> — host-specific coevolution; ectoparasites (lice, ticks, Cuscuta) vs endoparasites; brood parasitism (cuckoo/koel). <strong>Commensalism (+/0)</strong> — orchid on mango, cattle egret. <strong>Amensalism (−/0)</strong>.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch14",
+      "class": 12,
+      "chapterNo": 14,
+      "title": "Ecosystem",
+      "topic": "Ecosystem",
+      "intro": "NCERT Class XII Chapter 12: ecosystem structure and function — productivity, decomposition, energy flow, nutrient cycling, ecological pyramids and succession.",
+      "sections": [
+        {
+          "id": "eco-overview",
+          "level": 2,
+          "heading": "1. Ecosystem — structure & function",
+          "html": "<p>An <strong>ecosystem</strong> = biotic + abiotic components functioning as a unit. Types: terrestrial (forest, grassland, desert) and aquatic (pond, lake, wetland, river, estuary). Components: <strong>species composition, stratification</strong>. Four functional aspects: <strong>productivity, decomposition, energy flow, nutrient cycling</strong>. Pond example: phytoplankton producers, zooplankton consumers, fungi/bacteria decomposers.</p>"
+        },
+        {
+          "id": "eco-productivity",
+          "level": 2,
+          "heading": "2. Productivity",
+          "html": "<p><strong>Primary production</strong> — biomass/organic matter per unit area/time by plants. <strong>GPP</strong> (gross) − <strong>R</strong> (respiration) = <strong>NPP</strong> (net, available to heterotrophs). <strong>Secondary productivity</strong> — new organic matter by consumers. Global NPP ≈ 170 billion tons; oceans 55 billion (70% area but lower productivity — light/nutrient limitation).</p>"
+        },
+        {
+          "id": "eco-decomposition",
+          "level": 2,
+          "heading": "3. Decomposition",
+          "html": "<p><strong>Detritus</strong> (dead leaves, bark, faeces) → <strong>decomposers</strong> (bacteria, fungi). Steps: <strong>fragmentation</strong> (detritivores/earthworms), <strong>leaching</strong>, <strong>catabolism</strong>, <strong>humification</strong> (humus — colloidal, slow decomposition, nutrient reservoir), <strong>mineralisation</strong>. Rate depends on detritus chemistry (lignin/chitin slow; N/sugars fast) and climate (warm moist favours decomposition).</p>"
+        },
+        {
+          "id": "eco-energy",
+          "level": 2,
+          "heading": "4. Energy flow & food chains",
+          "html": "<p>Sun → &lt;50% <strong>PAR</strong>; plants capture 2–10% PAR. <strong>Unidirectional energy flow</strong>. <strong>Grazing food chain (GFC)</strong>: producers → herbivores → carnivores. <strong>Detritus food chain (DFC)</strong>: dead organic matter → decomposers (saprotrophs); major route in terrestrial ecosystems. <strong>Food web</strong> — interconnected chains. <strong>Trophic levels</strong>; <strong>standing crop</strong> (biomass/numbers per unit area). <strong>10% law</strong> — ~10% energy transferred between trophic levels; limits GFC length.</p>"
+        },
+        {
+          "id": "eco-pyramids",
+          "level": 2,
+          "heading": "5. Ecological pyramids",
+          "html": "<p>Pyramids of <strong>number, biomass, energy</strong> (producers at base, top consumers at apex). Usually upright on land; <strong>inverted biomass pyramid</strong> in sea (phytoplankton &lt; zooplankton biomass). <strong>Energy pyramid always upright</strong> — energy lost as heat at each step. Limitations: no omnivory/multiple trophic levels; ignores saprophytes; single-chain assumption.</p>"
+        },
+        {
+          "id": "eco-succession",
+          "level": 2,
+          "heading": "6. Ecological succession",
+          "html": "<p><strong>Succession</strong> — orderly sequential change in species composition in a given area. <strong>Primary succession</strong> — bare/inorganic substrate (new lava, rocks). <strong>Secondary succession</strong> — previously colonised but disturbed (abandoned farmland). <strong>Pioneer species</strong> → intermediate → climax community. <strong>Hydrarch succession</strong> in water → mesic conditions; <strong>xerarch</strong> on bare rock → forest. Succession leads to stable climax near equilibrium with environment.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch15",
+      "class": 12,
+      "chapterNo": 15,
+      "title": "Biodiversity and Conservation",
+      "topic": "Biodiversity and Conservation",
+      "intro": "NCERT Class XII Chapter 13: levels and patterns of biodiversity, importance, loss causes, and in situ/ex situ conservation strategies including hotspots and protected areas.",
+      "sections": [
+        {
+          "id": "bdc-overview",
+          "level": 2,
+          "heading": "1. Biodiversity — levels & global patterns",
+          "html": "<p><strong>Biodiversity</strong> (Edward Wilson) = diversity at all biological levels: <strong>genetic</strong> (Rauvolfia strains, 50,000 rice varieties), <strong>species</strong> (Western Ghats amphibians), <strong>ecological</strong> (India's deserts, forests, mangroves). ~1.5 million species described; estimate ~7 million total. &gt;70% animals (70% insects); fungi &gt; vertebrates combined. India: 2.4% land, <strong>8.1% species</strong> — one of <strong>12 mega-diversity</strong> countries (~45,000 plants, ~90,000 animals recorded).</p>"
+        },
+        {
+          "id": "bdc-patterns",
+          "level": 2,
+          "heading": "2. Patterns of biodiversity",
+          "html": "<p><strong>Latitudinal gradient</strong> — highest diversity in tropics (23.5°N–23.5°S); Colombia 1400 bird spp. vs Greenland 56. Amazon greatest diversity. Reasons: long undisturbed evolution time, less seasonality, more solar energy → productivity. <strong>Species–area relationship</strong>: log S = log C + Z log A; Z ≈ 0.1–0.2 (regional), 0.6–1.2 (continents). <strong>Rivet popper hypothesis</strong> (Paul Ehrlich) — species loss erodes ecosystem function like removing rivets from an aircraft.</p>"
+        },
+        {
+          "id": "bdc-importance",
+          "level": 2,
+          "heading": "3. Importance of species diversity",
+          "html": "<p>Rich biodiversity → stable, productive, invasion-resistant ecosystems (Tilman's experiments). <strong>Why conserve?</strong> Narrowly utilitarian (food, drugs — 25% market drugs plant-derived), broadly utilitarian (ecosystem services: Amazon 20% O₂, pollination), ethical (intrinsic value). <strong>Sixth extinction</strong> — 100–1000× pre-human rates; human-driven.</p>"
+        },
+        {
+          "id": "bdc-loss",
+          "level": 2,
+          "heading": "4. Loss of biodiversity",
+          "html": "<p><strong>Evil Quartet</strong> causes: (i) <strong>habitat loss &amp; fragmentation</strong> (tropical rainforests 14%→6%); (ii) <strong>over-exploitation</strong> (Steller's sea cow, passenger pigeon); (iii) <strong>alien species invasions</strong> (Nile perch in Lake Victoria, Parthenium, Lantana, water hyacinth, African catfish <em>Clarias gariepinus</em>); (iv) <strong>co-extinctions</strong>. IUCN Red List: 15,500+ threatened; amphibians especially vulnerable. Five past mass extinctions; current rates unprecedented.</p>"
+        },
+        {
+          "id": "bdc-conservation",
+          "level": 2,
+          "heading": "5. Biodiversity conservation",
+          "html": "<p><strong>In situ</strong> — conserve whole ecosystem (save forest to save tiger). <strong>Biodiversity hotspots</strong> — 34 worldwide (&lt;2% land, high endemism); India: <strong>Western Ghats-Sri Lanka, Himalaya, Indo-Burma</strong>. Protected: 14 biosphere reserves, 90 national parks, 448 sanctuaries; <strong>sacred groves</strong> (Meghalaya, Rajasthan, MP). <strong>Ex situ</strong> — zoos, botanical gardens, <strong>cryopreservation</strong>, IVF, tissue culture, <strong>seed banks</strong>. Rio Earth Summit 1992 (CBD); Johannesburg 2002 pledge to reduce biodiversity loss by 2010.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio12-ch16",
+      "class": 12,
+      "chapterNo": 16,
+      "title": "Environmental Issues",
+      "topic": "Environmental Issues",
+      "intro": "NCERT Class XII Chapter 16: air and water pollution, solid waste, agrochemical effects, radiation, global warming, ozone depletion, deforestation and control measures.",
+      "sections": [
+        {
+          "id": "ei-overview",
+          "level": 2,
+          "heading": "1. Pollution — overview",
+          "html": "<p><strong>Pollution</strong> — undesirable change in physical, chemical or biological characteristics of air, land or water harming life. Control requires understanding causes and effects. Major issues: air, water, soil, noise, radiation; linked to industrialisation and population growth.</p>"
+        },
+        {
+          "id": "ei-air",
+          "level": 2,
+          "heading": "2. Air pollution & acid rain",
+          "html": "<p>Air pollutants: CO, CO₂, SO₂, NO<sub>x</sub>, hydrocarbons, particulates. <strong>Automobile exhaust</strong> — major source; <strong>catalytic converters</strong> use Pt-Pd-Rh to convert unburnt hydrocarbons to CO₂/H₂O and CO to CO₂; unleaded petrol required. <strong>BS-IV/Bharat Stage</strong> emission norms. <strong>ESP</strong> removes ~99% particulate matter from thermal plant exhaust. <strong>Acid rain</strong> (pH &lt;5.6) — SO₂/NO<sub>x</sub> → H₂SO₄/HNO₃; damages monuments, aquatic life. <strong>Smog</strong> — classical (SO₂+smoke) and photochemical (PAN, acrolein, formaldehyde).</p>"
+        },
+        {
+          "id": "ei-water",
+          "level": 2,
+          "heading": "3. Water pollution & eutrophication",
+          "html": "<p><strong>BOD</strong> measures organic pollution — high BOD = highly polluted water. <strong>E. coli</strong> indicator of faecal contamination. <strong>Eutrophication</strong> — nutrient enrichment (nitrates/phosphates from fertilisers) → algal bloom → O₂ depletion → fish kill. <strong>Biomagnification</strong> — ↑toxicant concentration at successive trophic levels (DDT highest in fish-eating birds). <strong>Water hyacinth</strong> (Eichhornia) introduced in India chokes water bodies. <strong>Arsenic</strong> in groundwater (West Bengal). <strong>Ganga Action Plan</strong> — pollution abatement.</p>"
+        },
+        {
+          "id": "ei-waste",
+          "level": 2,
+          "heading": "4. Solid waste & agrochemicals",
+          "html": "<p><strong>E-waste</strong> — discarded computers/electronics; valuable metals (Cu, Fe, Si) but toxic substances (Be, Cd, Hg, Pb); recycling in developing countries hazardous. <strong>Sanitary landfills</strong>, <strong>incineration</strong>, <strong>composting</strong>. <strong>Integrated Pest Management (IPM)</strong> — biocontrol, pheromones, sterile males; reduces pesticide load. <strong>Organic farming</strong> — no synthetic chemicals. <strong>Green manure, compost, biofertilisers</strong>. <strong>Rachel Carson</strong> — <em>Silent Spring</em> (DDT awareness).</p>"
+        },
+        {
+          "id": "ei-radiation",
+          "level": 2,
+          "heading": "5. Radioactive waste",
+          "html": "<p><strong>Nuclear energy</strong> — low CO₂ but produces radioactive waste. Disposal: deep underground burial in steel containers lined with concrete; must prevent leakage into biosphere for thousands of years. Radiation causes mutations, cancer; <strong>Hiroshima/Nagasaki</strong> and Chernobyl effects documented.</p>"
+        },
+        {
+          "id": "ei-greenhouse",
+          "level": 2,
+          "heading": "6. Greenhouse effect & global warming",
+          "html": "<p><strong>Greenhouse gases</strong> (CO₂, CH₄, N₂O, CFCs, water vapour) trap outgoing IR radiation → <strong>global warming</strong>. CO₂ and CH₄ contribute most. Without CO₂, Earth's surface would be ~30 °C colder. Effects: climate change, sea-level rise, glacier melt, species migration/extinction. <strong>Kyoto Protocol</strong> (1997) — binding emission cuts for developed nations.</p>"
+        },
+        {
+          "id": "ei-ozone",
+          "level": 2,
+          "heading": "7. Ozone depletion",
+          "html": "<p><strong>Good ozone</strong> in <strong>stratosphere</strong> (ozonosphere) shields UV-B. <strong>Bad ozone</strong> in troposphere — pollutant. <strong>CFCs</strong> (refrigerants, aerosols) release Cl in stratosphere → catalytic ozone destruction. <strong>Montreal Protocol</strong> (1987) — phase out ozone-depleting substances. Ozone hole over Antarctica. UV-B damages DNA, causes skin cancer, cataracts, immunosuppression.</p>"
+        },
+        {
+          "id": "ei-deforestation",
+          "level": 2,
+          "heading": "8. Deforestation & Chipko",
+          "html": "<p><strong>Deforestation</strong> — conversion of forest to non-forest; causes soil erosion, floods, desertification, ↓biodiversity, climate change. <strong>Reforestation</strong> restores degraded forests. <strong>Chipko Movement</strong> (1974) — Garhwal Himalaya; Amrita Devi and villagers hugged trees to prevent felling; inspired eco-feminist forest conservation.</p>"
+        }
+      ]
     }
   ]
 }
