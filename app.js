@@ -1225,7 +1225,7 @@ async function saveFlagAdminEdit(form) {
     option_d: formData.get('option_d'),
     answer: formData.get('answer'),
     explanation: formData.get('explanation'),
-    subject: formData.get('subject') || 'Chemistry',
+    subject: formData.get('subject') || 'Biology',
     topic: formData.get('topic'),
     subtopic: formData.get('subtopic'),
     tags: formData.get('tags'),
@@ -1550,34 +1550,54 @@ function buildExportEnvelope() {
 
 const sampleQuestions = [
   {
-    question: 'What is the hybridisation and geometry of methane (CH₄)?',
-    options: ['sp², trigonal planar', 'sp³, tetrahedral', 'sp, linear', 'dsp², square planar'],
+    question: 'Which enzyme is secreted by the pancreas as trypsinogen and activated in the duodenum?',
+    options: ['Pepsin', 'Trypsin', 'Lipase', 'Amylase'],
     answer: 'B',
-    explanation: 'Methane has sp³ hybridisation with tetrahedral geometry and bond angle ~109.5°.',
-    subject: 'Chemistry',
-    topic: '14. Chemical Bonding and Molecular Structure',
-    subtopic: 'Level I',
-    tags: ['Level I']
+    explanation: 'Trypsin is secreted as inactive trypsinogen and activated by enterokinase in the duodenum.',
+    subject: 'Biology',
+    topic: 'Human Physiology',
+    subtopic: 'Digestion',
+    tags: ['NCERT', 'Enzymes']
   },
   {
-    question: 'The molarity of pure water is:',
-    options: ['5.55 M', '55.55 M', '2 M', '1/18 M'],
+    question: 'Crossing over occurs during which stage of meiosis?',
+    options: ['Leptotene', 'Pachytene', 'Diplotene', 'Metaphase I'],
     answer: 'B',
-    explanation: 'Molarity of pure water = 1000/18 ≈ 55.55 M.',
-    subject: 'Chemistry',
-    topic: '1. Some Basic Concepts of Chemistry',
-    subtopic: 'Level I',
-    tags: ['Level I']
+    explanation: 'Crossing over is the exchange of genetic material between non-sister chromatids during pachytene.',
+    subject: 'Biology',
+    topic: 'Cell Biology',
+    subtopic: 'Cell Cycle',
+    tags: ['Important', 'Meiosis']
   },
   {
-    question: 'Which of the following has the highest ionisation enthalpy?',
-    options: ['Na', 'Mg', 'Al', 'Si'],
+    question: 'Which one of the following is true for fungi?',
+    options: ['They lack a rigid cell wall.', 'They are heterotrophs.', 'They lack nuclear membrane.', 'They are phagotrophs.'],
     answer: 'B',
-    explanation: 'Mg has a stable filled 3s² configuration giving it higher IE than Al.',
-    subject: 'Chemistry',
-    topic: '13. Classification of Elements and Periodicity in Properties',
-    subtopic: 'Level I',
-    tags: ['Level I']
+    explanation: 'Fungi are achlorophyllous, heterotrophic, spore-forming, non-vascular, eukaryotic organisms which contain chitin in their cell walls.',
+    subject: 'Biology',
+    topic: 'Biological Classification',
+    subtopic: '',
+    tags: ['NEET', 'Basics']
+  },
+  {
+    question: 'The common characteristics between tomato and potato will be maximum at the level of their',
+    options: ['family', 'order', 'division', 'genus'],
+    answer: 'A',
+    explanation: 'Potato (Solanum tuberosum) and tomato (Lycopersicum esculentum) both belong to family Solanaceae (the potato family), so they share maximum common characteristics at the family level.',
+    subject: 'Biology',
+    topic: 'The Living World',
+    subtopic: 'Taxonomy',
+    tags: ['NEET', 'Taxonomy']
+  },
+  {
+    question: 'In a Mendelian dihybrid cross, the phenotypic ratio in F2 generation is:',
+    options: ['3:1', '1:2:1', '9:3:3:1', '1:1:1:1'],
+    answer: 'C',
+    explanation: 'Independent assortment of two gene pairs gives a 9:3:3:1 phenotypic ratio.',
+    subject: 'Biology',
+    topic: 'Genetics',
+    subtopic: 'Mendelism',
+    tags: ['PYQ', 'Ratio']
   }
 ];
 
