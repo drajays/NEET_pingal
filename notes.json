@@ -1,0 +1,178 @@
+{
+  "app": "NEET MCQ Practice",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "bio11-ch01",
+      "class": 11,
+      "chapterNo": 1,
+      "title": "The Living World",
+      "topic": "Living World",
+      "intro": "These notes rebuild NCERT Class XI Chapter 1 from every concept tested in the question bank. Read them top to bottom and you should be able to answer all the chapter's MCQs. Each heading has a stable id so individual MCQs can later be linked to the exact section they test.",
+      "sections": [
+        {
+          "id": "lw-what-is-life",
+          "level": 2,
+          "heading": "1. What does 'living' mean?",
+          "html": "<p>The question <em>“What is life?”</em> hides <strong>two questions</strong>:</p><ul><li>a <strong>technical question</strong> — what distinguishes the <strong>living from the non-living</strong>;</li><li>a <strong>philosophical question</strong> — what is the <strong>purpose of life</strong>.</li></ul><p>As scientists we deal only with the technical question; the philosophical one (purpose of life) lies <strong>outside the scope</strong> of scientific inquiry. So biology defines life through a set of <strong>defining characteristics</strong>: growth, reproduction, metabolism, cellular organisation, consciousness/response to stimuli, and the ability to self-replicate, evolve and self-regulate while interacting with the environment.</p><p>Living organisms can be <strong>unexceptionally distinguished</strong> from non-living things by their ability to <strong>sense their surroundings and respond to stimuli</strong> (physical, chemical or biological) — this responsiveness, together with self-consciousness in humans, is the most defining attribute.</p>"
+        },
+        {
+          "id": "lw-growth",
+          "level": 3,
+          "heading": "1.1 Growth",
+          "html": "<p><strong>Growth</strong> = irreversible increase in mass and in the number of cells. Its <strong>twin characteristics</strong> are (i) increase in <strong>mass</strong> and (ii) increase in <strong>number of cells</strong>.</p><ul><li>In <strong>plants</strong>, growth by cell division continues <strong>throughout life</strong> (growth is said to be <strong>open</strong>).</li><li>In <strong>animals</strong>, growth by cell division occurs <strong>only up to a certain age</strong>.</li><li>In <strong>living organisms growth is from inside</strong> (intrinsic), by addition of material and cell division.</li><li>Non-living objects (mountains, boulders, sand mounds) can also “grow” — but only by <strong>accumulation of material on the surface (from outside)</strong>. A dead body does not grow.</li></ul><p>Because non-living things also increase in size, <strong>growth cannot be taken as a defining property of living organisms</strong>. In <strong>unicellular organisms</strong> (e.g. <em>Amoeba</em>, bacteria) growth — increase in number of cells — is <strong>synonymous with reproduction</strong>. In higher plants and animals, growth and reproduction are <strong>mutually exclusive</strong> events.</p>"
+        },
+        {
+          "id": "lw-reproduction",
+          "level": 3,
+          "heading": "1.2 Reproduction",
+          "html": "<p><strong>Reproduction</strong> = production of progeny possessing features more or less similar to the parents. Modes seen in the living world include:</p><ul><li><strong>Budding</strong> — <em>Hydra</em>, yeast, and sponges.</li><li><strong>Fragmentation</strong> — <strong>fungi, filamentous algae, and the protonema of mosses</strong> multiply by fragmentation.</li><li><strong>Regeneration / true regeneration</strong> — <em>Planaria</em> regenerates a whole organism from a fragment.</li><li>In <strong>unicellular organisms</strong>, reproduction is <strong>synonymous with growth</strong> (cell division increases the number of individuals).</li></ul><p>Reproduction is <strong>not an all-inclusive defining property</strong>, because many organisms <strong>do not reproduce</strong> (e.g. mules, sterile worker bees, infertile human couples) yet are clearly living. Hence reproduction alone cannot define life.</p>"
+        },
+        {
+          "id": "lw-metabolism",
+          "level": 3,
+          "heading": "1.3 Metabolism",
+          "html": "<p><strong>Metabolism</strong> = the <strong>sum total of all the chemical reactions</strong> occurring in the body. It includes <strong>anabolism</strong> (build-up reactions) and <strong>catabolism</strong> (break-down reactions).</p><ul><li>All living organisms — <strong>plants, animals, fungi and microbes</strong> — exhibit metabolism; it powers growth, development and functioning.</li><li><strong>No non-living object exhibits metabolism.</strong> Metabolism is therefore a strong defining feature of life.</li><li>Metabolic reactions can be carried out <strong>outside the body in cell-free systems</strong> (e.g. in a test tube). Such an isolated reaction is a <strong>surrogate</strong> — it is <strong>neither living nor non-living</strong>.</li></ul>"
+        },
+        {
+          "id": "lw-cellular-organisation",
+          "level": 3,
+          "heading": "1.4 Cellular organisation & consciousness",
+          "html": "<p><strong>Cellular organisation</strong> of the body is the defining feature of life forms. Properties at each level are the result of <strong>interactions among the lower-level components</strong>:</p><ul><li>Properties of <strong>cellular organelles</strong> are <strong>not present</strong> in their molecular constituents but arise from interactions among them.</li><li>Properties of <strong>tissues</strong> arise from interactions among constituent <strong>cells</strong> (they are not present in the isolated cells).</li><li>Properties of <strong>organs</strong> arise from interactions among constituent <strong>tissues</strong>.</li></ul><p><strong>Consciousness / response to stimuli</strong> is the defining property of living organisms. All organisms — from prokaryotes to the most complex — <strong>sense and respond to environmental cues</strong> (light, water, temperature, other organisms, pollutants). <strong>Photoperiod</strong> affects reproduction in seasonal breeders, both plants and animals. All organisms <strong>handle chemicals</strong> entering their bodies. <strong>Humans</strong> are the only organism with <strong>self-consciousness</strong> (awareness of self). Thus living organisms are self-replicating, evolving, self-regulating interactive systems capable of responding to external stimuli.</p>"
+        },
+        {
+          "id": "lw-diversity",
+          "level": 2,
+          "heading": "2. Diversity in the living world",
+          "html": "<p>The living world is enormously diverse. Wherever we look — a small area, a dense forest, an ocean, a desert, a cold mountain, a freshwater lake, or a hot spring — we find living organisms, many of them <strong>microscopic and invisible to the naked eye</strong>. Increasing the area of observation steadily increases the <strong>number and variety</strong> of organisms seen.</p><p>Each distinct kind of plant, animal or organism represents a <strong>species</strong>. The <strong>number and types of organisms present on Earth</strong> is called <strong>biodiversity</strong>. About <strong>1.7–1.8 million</strong> species are currently <strong>known and described</strong>, and this number keeps <strong>increasing</strong> as new and old areas are explored — a large number of organisms still remain <strong>unknown</strong>.</p>"
+        },
+        {
+          "id": "lw-nomenclature",
+          "level": 3,
+          "heading": "2.1 Need for naming — Nomenclature",
+          "html": "<p><strong>Local (common/vernacular) names</strong> vary from place to place, even within one country, causing confusion. To allow biologists everywhere to refer to an organism by the <strong>same name</strong>, names are standardised — this process is called <strong>nomenclature</strong>.</p><p>Nomenclature is possible only when the organism has first been correctly <strong>described and identified</strong> (identification precedes naming). Scientific naming is governed by international codes:</p><ul><li><strong>ICBN</strong> — International Code for Botanical Nomenclature (for <strong>plants</strong>).</li><li><strong>ICZN</strong> — International Code of Zoological Nomenclature (for <strong>animals</strong>).</li></ul><p>Scientific names ensure each organism has <strong>one unique name</strong> not used for any other known organism, and that a proper description lets biologists worldwide arrive at the <strong>same name</strong>.</p>"
+        },
+        {
+          "id": "lw-binomial",
+          "level": 3,
+          "heading": "2.2 Binomial nomenclature",
+          "html": "<p><strong>Binomial nomenclature</strong> — a two-word naming system — was given by <strong>Carolus Linnaeus</strong> and is used by biologists all over the world because the two-word format is convenient. Linnaeus published it in <em>Systema Naturae</em> (and later <em>Species Plantarum</em>).</p><p>Each scientific name has two components: the <strong>generic name (genus)</strong> first, and the <strong>specific epithet (species)</strong> second. Universal rules of writing:</p><ul><li>Biological names are generally in <strong>Latin</strong> or are <strong>Latinised</strong>, irrespective of where the organism comes from (Latin is a 'dead' language, so spellings do not change with time). Names can <strong>not</strong> be written in any other language.</li><li>When printed, names are in <strong>italics</strong>; when handwritten, the two words are <strong>underlined separately</strong>.</li><li>The <strong>genus</strong> begins with a <strong>capital letter</strong>; the <strong>specific epithet</strong> with a <strong>small letter</strong>.</li><li>The <strong>author's name</strong>, often abbreviated, is written after the specific epithet (e.g. <em>Mangifera indica</em> Linn., where Linn. = Linnaeus first described the species).</li></ul><h4 style=\"margin:0.6rem 0 0.3rem\">Scientific names to remember</h4><ul><li>Mango — <em>Mangifera indica</em> · Potato — <em>Solanum tuberosum</em> · Makoi/black nightshade — <em>Solanum nigrum</em> · Brinjal — <em>Solanum melongena</em> · Wheat — <em>Triticum aestivum</em></li><li>Man — <em>Homo sapiens</em> · Housefly — <em>Musca domestica</em> · Lion — <em>Panthera leo</em> · Tiger — <em>Panthera tigris</em> · Leopard — <em>Panthera pardus</em> · Cat — <em>Felis domesticus</em></li></ul>"
+        },
+        {
+          "id": "lw-classification",
+          "level": 2,
+          "heading": "3. Classification, taxa & taxonomy",
+          "html": "<p><strong>Classification</strong> is the process by which organisms are grouped into convenient <strong>categories</strong> based on easily observable characters (and on similarities and dissimilarities). These categories — e.g. 'Dogs', 'Mammals', 'Plants', 'Wheat' — are scientifically called <strong>taxa</strong> (singular: <strong>taxon</strong>). A taxon can indicate categories at <strong>very different levels</strong> (from a broad group like Plants to a narrow one like Wheat).</p><p><strong>Taxonomy</strong> is the science of classifying organisms into taxa on the basis of their characteristics. Its <strong>four basic processes</strong> are: <strong>characterisation, identification, classification and nomenclature</strong>. Modern taxonomic studies use external and internal <strong>structure, cell structure, development process and ecological information</strong> (not the commercial value of the organism). The <strong>earliest classifications</strong> were based on the <strong>uses</strong> of organisms (food, clothing, shelter).</p>"
+        },
+        {
+          "id": "lw-systematics",
+          "level": 3,
+          "heading": "3.1 Taxonomy vs Systematics",
+          "html": "<p>Interest in the <strong>relationships</strong> among different kinds of organisms led to the branch called <strong>systematics</strong>. The word comes from the Latin <em>systema</em> (systematic arrangement of organisms); Linnaeus used <em>Systema Naturae</em> as the title of his work.</p><ul><li>The scope of systematics was later <strong>enlarged</strong> to include identification, nomenclature and classification.</li><li>Unlike early utility-based taxonomy, <strong>systematics also takes into account the evolutionary relationships</strong> between organisms — giving it a <strong>broader scope than taxonomy alone</strong>.</li><li><strong>Biosystematics</strong> classifies organisms on the basis of their evolutionary history, establishing phylogeny using data from many fields (anatomy, ecology, physiology, biochemistry, etc.).</li></ul>"
+        },
+        {
+          "id": "lw-taxonomic-categories",
+          "level": 2,
+          "heading": "4. Taxonomic categories & hierarchy",
+          "html": "<p>Classification is not a single step but involves a <strong>hierarchy of steps</strong>, each step (rank) representing a <strong>category</strong>. All categories together form the <strong>taxonomic hierarchy</strong>, and each category — being a unit of classification — is called a <strong>taxon</strong>. Taxonomic categories are <strong>distinct biological entities</strong>, not merely morphological aggregates.</p><p>The <strong>seven obligate categories</strong>, from lowest to highest, are: <strong>Species → Genus → Family → Order → Class → Phylum/Division → Kingdom</strong>. (Figure 1.1 shows them in ascending order, starting with species.) Sub-categories (sub-genus, sub-species, etc.) were introduced for more precise placement.</p><p><strong>Key rule:</strong> as we move <strong>from species up to kingdom</strong>, the number of <strong>common characteristics decreases</strong>, and it becomes <strong>more difficult</strong> to determine relationships among taxa at the same level. Members of a <strong>lower</strong> taxon share <strong>more</strong> characters than members of a higher taxon.</p>"
+        },
+        {
+          "id": "lw-species",
+          "level": 3,
+          "heading": "4.1 Species",
+          "html": "<p><strong>Species</strong> is the <strong>basic / lowest unit</strong> of classification — a group of individual organisms with <strong>fundamental similarities</strong> whose members can <strong>interbreed and produce fertile offspring</strong> (biological species concept, defined by <strong>Ernst Mayr</strong>, the 'Darwin of the 20th century'). All other categories are defined in relation to species. Closely related species are distinguished by <strong>distinct morphological differences</strong>.</p><p>Examples (the specific epithet is the species name): <em>indica</em> in <em>Mangifera indica</em>, <em>tuberosum</em> in <em>Solanum tuberosum</em>, <em>leo</em> in <em>Panthera leo</em>.</p>"
+        },
+        {
+          "id": "lw-genus",
+          "level": 3,
+          "heading": "4.2 Genus",
+          "html": "<p>A <strong>genus</strong> is an <strong>aggregate of closely related species</strong> — species that share more characters in common with one another than with species of other genera. A single genus may contain one or more species.</p><ul><li><em>Solanum</em> includes potato (<em>S. tuberosum</em>), brinjal (<em>S. melongena</em>) and makoi (<em>S. nigrum</em>).</li><li><em>Panthera</em> includes lion (<em>P. leo</em>), leopard (<em>P. pardus</em>) and tiger (<em>P. tigris</em>); whereas the domestic cat is placed in genus <em>Felis</em>.</li></ul>"
+        },
+        {
+          "id": "lw-family",
+          "level": 3,
+          "heading": "4.3 Family",
+          "html": "<p>A <strong>family</strong> is a group of related genera and has <strong>still fewer similarities</strong> than genus and species. <strong>Plant families</strong> are characterised on the basis of both <strong>vegetative and reproductive (floral) features</strong>.</p><ul><li>Plant family endings: <strong>-aceae</strong>. e.g. <strong>Solanaceae</strong> (genera <em>Solanum, Petunia, Datura</em>), Convolvulaceae, Poaceae, Anacardiaceae, Liliaceae.</li><li>Animal family endings: <strong>-idae</strong>. e.g. <strong>Felidae</strong> (genera <em>Panthera, Felis</em>), <strong>Canidae</strong> (dogs), Muscidae (housefly), Hominidae (man).</li><li>Cats → family <strong>Felidae</strong>; Dogs → family <strong>Canidae</strong>.</li></ul>"
+        },
+        {
+          "id": "lw-order",
+          "level": 3,
+          "heading": "4.4 Order",
+          "html": "<p>An <strong>order</strong> is a higher category that <strong>assembles families</strong> sharing a few similar characters; these characters are fewer than those shared by genera within a family. Orders are identified using <strong>aggregates of characters</strong>.</p><ul><li>Plant order <strong>Polymoniales</strong> includes families <strong>Solanaceae and Convolvulaceae</strong> (grouped mainly on <strong>floral characters</strong>).</li><li>Animal order <strong>Carnivora</strong> includes families <strong>Felidae and Canidae</strong> (tiger, cat, dog).</li><li>Order <strong>Primata</strong> includes monkey, gorilla and gibbon; order <strong>Diptera</strong> includes the housefly.</li></ul>"
+        },
+        {
+          "id": "lw-class",
+          "level": 3,
+          "heading": "4.5 Class",
+          "html": "<p>A <strong>class</strong> groups related <strong>orders</strong>. For example, class <strong>Mammalia</strong> contains orders <strong>Primata, Carnivora</strong> and others (so monkey, tiger and dog are all mammals but lie in different orders). The housefly belongs to class <strong>Insecta</strong>, whose members typically have <strong>three pairs of jointed legs</strong> in the thoracic region.</p>"
+        },
+        {
+          "id": "lw-phylum-division",
+          "level": 3,
+          "heading": "4.6 Phylum / Division",
+          "html": "<p>Related <strong>classes</strong> are grouped into the next higher category: <strong>Phylum</strong> for animals and <strong>Division</strong> for plants (so the plant equivalent of an animal phylum is a division). The term <strong>phylum</strong> was given by <strong>Cuvier</strong>.</p><ul><li><strong>Phylum Chordata</strong> — animals with a <strong>notochord</strong> and a <strong>dorsal hollow neural (nerve) cord</strong> (e.g. fishes, amphibians, reptiles, birds, mammals — including man). Arthropods, by contrast, have a <strong>ventral</strong> nerve cord.</li><li>Housefly belongs to <strong>phylum Arthropoda</strong> (an invertebrate).</li></ul>"
+        },
+        {
+          "id": "lw-kingdom",
+          "level": 3,
+          "heading": "4.7 Kingdom",
+          "html": "<p><strong>Kingdom</strong> is the <strong>highest</strong> category in this hierarchy. All animals are placed in <strong>Kingdom Animalia</strong> and all plants (from various divisions) in <strong>Kingdom Plantae</strong>.</p>"
+        },
+        {
+          "id": "lw-table-1-1",
+          "level": 3,
+          "heading": "4.8 Worked classifications (NCERT Table 1.1)",
+          "html": "<table class=\"notes-table\"><thead><tr><th>Category</th><th>Man</th><th>Housefly</th><th>Mango</th><th>Wheat</th></tr></thead><tbody><tr><td><strong>Species</strong></td><td>sapiens</td><td>domestica</td><td>indica</td><td>aestivum</td></tr><tr><td><strong>Genus</strong></td><td>Homo</td><td>Musca</td><td>Mangifera</td><td>Triticum</td></tr><tr><td><strong>Family</strong></td><td>Hominidae</td><td>Muscidae</td><td>Anacardiaceae</td><td>Poaceae</td></tr><tr><td><strong>Order</strong></td><td>Primata</td><td>Diptera</td><td>Sapindales</td><td>Poales</td></tr><tr><td><strong>Class</strong></td><td>Mammalia</td><td>Insecta</td><td>Dicotyledonae</td><td>Monocotyledonae</td></tr><tr><td><strong>Phylum / Division</strong></td><td>Chordata</td><td>Arthropoda</td><td>Angiospermae</td><td>Angiospermae</td></tr></tbody></table><p style=\"margin-top:0.5rem\"><strong>Reading the table:</strong> Man and housefly are animals (use phylum); mango and wheat are plants (use division). Mango and wheat differ at every rank below division but <strong>share the same division (Angiospermae)</strong>; mango is a <strong>dicot</strong>, wheat a <strong>monocot</strong>. Man (Chordata) and housefly (Arthropoda) differ from phylum downward. Within genus <em>Musca</em>, the generic name 'Musca' is shared by all its species; only the specific epithet changes.</p>"
+        },
+        {
+          "id": "lw-aids",
+          "level": 2,
+          "heading": "5. Taxonomical aids",
+          "html": "<p><strong>Taxonomical aids</strong> are the techniques, procedures and stored information used for the identification, classification and study of organisms. The prime source of taxonomic study is the <strong>collection of actual specimens</strong>.</p>"
+        },
+        {
+          "id": "lw-herbarium",
+          "level": 3,
+          "heading": "5.1 Herbarium",
+          "html": "<p>A <strong>herbarium</strong> is a store of <strong>dried, pressed and preserved plant specimens</strong> mounted on sheets, identified and arranged according to an accepted classification. The <strong>herbarium sheet label</strong> carries the <strong>scientific name, family, common/vernacular name, locality (place of collection), date of collection, collection number and the collector's name</strong> — but <strong>not the height of the plant</strong>. Herbaria serve as quick referral systems. The <strong>Indian Botanical Garden (IBG)</strong> is at <strong>Howrah</strong>.</p>"
+        },
+        {
+          "id": "lw-botanical-gardens",
+          "level": 3,
+          "heading": "5.2 Botanical gardens",
+          "html": "<p><strong>Botanical gardens</strong> maintain collections of <strong>living plants</strong> for reference; each plant is labelled with its botanical name and family. They allow <strong>ex situ conservation</strong> of germplasm and hold collections of <strong>endemic and exotic</strong> species. Famous examples: <strong>Kew (England)</strong> and the <strong>National Botanical Research Institute (NBRI), Lucknow</strong>.</p>"
+        },
+        {
+          "id": "lw-museums",
+          "level": 3,
+          "heading": "5.3 Museums",
+          "html": "<p><strong>Museums</strong> have collections of <strong>preserved plant and animal specimens</strong> for study and reference. Animals are kept as <strong>preserved specimens in jars/containers</strong> (in preservative solutions), as <strong>dry insect collections</strong> after killing and pinning, or as <strong>stuffed/skeleton</strong> specimens for larger animals. (Insects are killed and pinned, not pressed.)</p>"
+        },
+        {
+          "id": "lw-zoological-parks",
+          "level": 3,
+          "heading": "5.4 Zoological parks",
+          "html": "<p><strong>Zoological parks (zoos)</strong> are places where <strong>wild animals</strong> are kept in protected conditions resembling their natural habitats, so we can study their food habits and behaviour and conserve them. The single-horned (Indian) rhinoceros is a natural inhabitant of <strong>Kaziranga National Park, Assam</strong>.</p>"
+        },
+        {
+          "id": "lw-keys",
+          "level": 3,
+          "heading": "5.5 Keys",
+          "html": "<p>A <strong>key</strong> is an analytical aid for <strong>identification</strong> based on <strong>contrasting characters</strong>. Keys are <strong>dichotomous</strong> — at each step they offer two contrasting choices, and each pair of contrasting characters is called a <strong>couplet</strong>; each statement in a couplet is a <strong>lead</strong>. Separate keys are used for each taxonomic category. Keys are used in the preparation of <strong>flora, manuals and monographs</strong>.</p>"
+        },
+        {
+          "id": "lw-flora-manuals-monographs",
+          "level": 3,
+          "heading": "5.6 Flora, Manuals, Monographs & Catalogues",
+          "html": "<ul><li><strong>Flora</strong> — contains the actual account of <strong>habitat and distribution</strong> of plants of a <strong>given area</strong>; provides an index to the plant species of that area.</li><li><strong>Manuals</strong> — provide information for the <strong>identification of names of species</strong> found in an area.</li><li><strong>Monographs</strong> — contain information on <strong>any one taxon</strong> (a single complete group).</li><li><strong>Catalogue</strong> — a record/list used alongside the above.</li></ul><p>Bentham and Hooker's <em>Genera Plantarum</em> is a classic monograph-style work providing keys for the identification of natural orders and genera.</p>"
+        },
+        {
+          "id": "lw-importance",
+          "level": 2,
+          "heading": "6. Why taxonomy matters",
+          "html": "<p>Taxonomic studies of plants, animals and other organisms are useful in <strong>agriculture, forestry, industry</strong> and in knowing our <strong>bio-resources and their diversity</strong> — helping us identify useful and harmful organisms (but <strong>not</strong> fields such as astrology). The basics of taxonomy — identification, naming and classification — are universally governed by <strong>international codes</strong>, and every organism, by the binomial system, gets a two-word scientific name and occupies a definite <strong>position in the classification system</strong>. Despite ~1.7–1.8 million described organisms, a large number still remain unknown.</p>"
+        }
+      ]
+    }
+  ]
+}

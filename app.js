@@ -32,6 +32,8 @@ function getAdminPin() {
 
 const state = {
   questions: [],
+  notes: [],
+  selectedNoteChapterId: '',
   activeTab: 'dashboard',
   selectedChapter: '',
   auditFilter: 'all',
@@ -79,6 +81,7 @@ const el = {
   menuToggle: document.getElementById('menuToggle'),
   dashboardView: document.getElementById('dashboardView'),
   chaptersView: document.getElementById('chaptersView'),
+  notesView: document.getElementById('notesView'),
   chapterDetail: document.getElementById('chapterDetail'),
   revisionView: document.getElementById('revisionView'),
   auditView: document.getElementById('auditView'),
@@ -1375,6 +1378,34 @@ async function loadQuestionsAsync() {
     return questions;
   } catch {
     return [];
+  }
+}
+
+// Chapter notes are static study content (not per-student), so we just fetch
+// notes.json. Try the local copy first; fall back to the same host as the
+// remote bank (e.g. GitHub raw) so deployed builds work too.
+async function loadNotesAsync() {
+  const config = getAppConfig();
+  const candidates = ['notes.json'];
+  const bankUrl = clean(config.remoteBankUrl);
+  if (bankUrl && bankUrl.includes('bank.json')) {
+    candidates.push(bankUrl.replace('bank.json', 'notes.json'));
+  }
+  for (const url of candidates) {
+    try {
+      const response = await fetch(`${url}${url.includes('?') ? '&' : '?'}t=${Date.now()}`, {
+        cache: 'no-store'
+      });
+      if (!response.ok) continue;
+      const data = await response.json();
+      const chapters = Array.isArray(data) ? data : (data.chapters || []);
+      if (chapters.length) {
+        state.notes = chapters;
+        return;
+      }
+    } catch {
+      // try next candidate
+    }
   }
 }
 
@@ -3165,9 +3196,18 @@ function bindEvents() {
     el.menuToggle.addEventListener('click', () => el.sidebar.classList.toggle('open'));
   }
 
-  [el.dashboardView, el.chaptersView, el.revisionView, el.auditView, el.practiceResults].forEach(view => {
+  [el.dashboardView, el.chaptersView, el.notesView, el.revisionView, el.auditView, el.practiceResults].forEach(view => {
     if (view) view.addEventListener('click', handleViewAction);
   });
+
+  if (el.notesView) {
+    el.notesView.addEventListener('change', event => {
+      const select = event.target.closest('#notesChapterSelect');
+      if (!select) return;
+      state.selectedNoteChapterId = select.value;
+      if (window.NeetViews) NeetViews.renderNotes();
+    });
+  }
 
   if (el.chaptersView) {
     el.chaptersView.addEventListener('click', event => {
@@ -3508,6 +3548,7 @@ async function init() {
   });
 
   state.questions = await loadQuestionsAsync();
+  await loadNotesAsync();
   await loadProgressAsync();
   await loadFlagsAsync();
 

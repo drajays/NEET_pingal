@@ -476,10 +476,84 @@
     }
   }
 
+  /** Chapter Notes — readable study notes built from the bank, with a chapter
+   *  picker and a jump-to-section outline. Section ids are stable so MCQs can
+   *  later be linked to the exact section they test. */
+  function renderNotes() {
+    const el = deps.el;
+    if (!el.notesView) return;
+
+    const chapters = deps.state.notes || [];
+    if (!chapters.length) {
+      el.notesView.innerHTML = '<div class="empty-card"><h3>No chapter notes yet</h3><p>Notes are being prepared. Check back soon.</p></div>';
+      return;
+    }
+
+    const selectedId = deps.state.selectedNoteChapterId
+      || (deps.state.selectedNoteChapterId = chapters[0].id);
+    const chapter = chapters.find(c => c.id === selectedId) || chapters[0];
+
+    const mcqCount = (deps.state.questions || []).filter(
+      q => q.topic === chapter.topic
+    ).length;
+
+    const options = chapters.map(c =>
+      `<option value="${esc(c.id)}"${c.id === chapter.id ? ' selected' : ''}>Class ${c.class} · Ch ${c.chapterNo} — ${esc(c.title)}</option>`
+    ).join('');
+
+    const outline = chapter.sections
+      .filter(s => s.level === 2)
+      .map(s => `<a class="notes-outline-link" href="#note-${esc(s.id)}">${esc(s.heading)}</a>`)
+      .join('');
+
+    const body = chapter.sections.map(section => {
+      const tag = section.level === 2 ? 'h2' : section.level === 3 ? 'h3' : 'h4';
+      const cls = section.level === 2 ? 'notes-h2' : 'notes-h3';
+      // section.html is trusted author content from notes.json (not user input).
+      return `
+        <section class="notes-section" id="note-${esc(section.id)}" data-section-id="${esc(section.id)}">
+          <${tag} class="${cls}">${esc(section.heading)}</${tag}>
+          <div class="notes-prose">${section.html || ''}</div>
+        </section>`;
+    }).join('');
+
+    el.notesView.innerHTML = `
+      <div class="view-hero compact">
+        <div>
+          <p class="eyebrow-dark">Chapter notes</p>
+          <h2>${esc(chapter.title)}</h2>
+          <p class="lead">Read these notes to answer every MCQ in this chapter. ${mcqCount} linked MCQs in the bank.</p>
+        </div>
+        <button type="button" class="primary-btn" data-action="practice-chapter" data-chapter="${esc(chapter.topic)}">Practice this chapter</button>
+      </div>
+
+      <div class="notes-toolbar">
+        <label class="notes-chapter-pick">Chapter
+          <select id="notesChapterSelect">${options}</select>
+        </label>
+      </div>
+
+      <div class="notes-layout">
+        <aside class="notes-outline" aria-label="Section outline">
+          <p class="notes-outline-title">On this page</p>
+          ${outline}
+        </aside>
+        <article class="notes-doc">
+          ${chapter.intro ? `<p class="notes-intro">${esc(chapter.intro)}</p>` : ''}
+          ${body}
+          <div class="notes-foot">
+            <button type="button" class="primary-btn" data-action="practice-chapter" data-chapter="${esc(chapter.topic)}">Practice ${esc(chapter.title)} (${mcqCount} MCQs)</button>
+          </div>
+        </article>
+      </div>
+    `;
+  }
+
   function refreshActiveView() {
     const tab = deps.state.activeTab;
     if (tab === 'dashboard') renderDashboard();
     else if (tab === 'chapters') renderChapters();
+    else if (tab === 'notes') renderNotes();
     else if (tab === 'revision') renderRevision();
     else if (tab === 'audit') renderAudit();
   }
@@ -489,6 +563,7 @@
     renderDashboard,
     renderChapters,
     renderChapterDetail,
+    renderNotes,
     renderRevision,
     renderAudit,
     refreshActiveView
