@@ -123,6 +123,7 @@ const el = {
   fWhyWrongD: document.getElementById('fWhyWrongD'),
   fSubject: document.getElementById('fSubject'),
   fTopic: document.getElementById('fTopic'),
+  fTopicOther: document.getElementById('fTopicOther'),
   fSubtopic: document.getElementById('fSubtopic'),
   fTags: document.getElementById('fTags'),
   subtopicList: document.getElementById('subtopicList'),
@@ -2263,21 +2264,43 @@ function renderChipGroup(container, values, selectedSet, groupKey) {
   }).join('');
 }
 
+const OTHER_OPTION = '__other__';
+
 // Build <option> markup for a select. Keeps the current value selectable even
-// if it isn't in the known list, and supports an optional leading placeholder.
-function optionTags(values, selected = '', placeholder = '') {
+// if it isn't in the known list, and supports an optional leading placeholder
+// plus an optional trailing "Other…" entry for adding a brand-new value.
+function optionTags(values, selected = '', placeholder = '', allowOther = false) {
   const list = selected && !values.includes(selected) ? [selected, ...values] : values;
   const head = placeholder ? `<option value="">${escapeHtml(placeholder)}</option>` : '';
-  return head + list
+  const body = list
     .map(v => `<option value="${escapeHtml(v)}"${v === selected ? ' selected' : ''}>${escapeHtml(v)}</option>`)
     .join('');
+  const tail = allowOther ? `<option value="${OTHER_OPTION}">➕ Other (new chapter)…</option>` : '';
+  return head + body + tail;
+}
+
+// Reveal/hide the free-text "new chapter" box paired with a chapter <select>.
+function toggleOtherChapter(select) {
+  const input = select.closest('label')?.querySelector('.other-chapter-input');
+  if (!input) return;
+  const isOther = select.value === OTHER_OPTION;
+  input.classList.toggle('hidden', !isOther);
+  input.required = isOther;
+  if (isOther) input.focus();
+  else input.value = '';
+}
+
+// Resolve a chapter value, preferring the typed name when "Other…" is chosen.
+function resolveChapterValue(select, otherInput) {
+  if (select.value === OTHER_OPTION) return (otherInput?.value || '').trim();
+  return select.value;
 }
 
 function updateDatalists() {
   const taxonomy = getTaxonomy();
   const subjects = taxonomy.subjects.length ? taxonomy.subjects : ['Biology'];
   el.fSubject.innerHTML = optionTags(subjects, el.fSubject.value || 'Biology');
-  el.fTopic.innerHTML = optionTags(taxonomy.topics, el.fTopic.value, 'Select chapter…');
+  el.fTopic.innerHTML = optionTags(taxonomy.topics, el.fTopic.value, 'Select chapter…', true);
   el.subtopicList.innerHTML = taxonomy.subtopics.map(v => `<option value="${escapeHtml(v)}">`).join('');
 }
 
@@ -2351,7 +2374,10 @@ function renderBankEditForm(q) {
       ${renderWhyWrongFieldsHtml(q.whyWrong, true)}
       <div class="inline-meta-grid">
         <label>Subject <select name="subject" required>${optionTags(subjects, q.subject)}</select></label>
-        <label>Chapter <select name="topic" required>${optionTags(taxonomy.topics, q.topic, 'Select chapter…')}</select></label>
+        <label>Chapter
+          <select name="topic" required>${optionTags(taxonomy.topics, q.topic, 'Select chapter…', true)}</select>
+          <input type="text" name="topic_other" class="other-chapter-input hidden" placeholder="New chapter name" />
+        </label>
         <label>Section <input type="text" name="subtopic" list="subtopicList" value="${escapeHtml(q.subtopic)}" placeholder="Level I, Level II…" /></label>
         <label>Tags <input type="text" name="tags" value="${escapeHtml(q.tags.join(', '))}" placeholder="Comma separated" /></label>
       </div>
@@ -2506,6 +2532,9 @@ function resetForm() {
   setImagePreview(el.fExplanationImageData, el.fExplanationImagePreviewWrap, el.fExplanationImagePreview, '');
   el.fQuestionImageFile.value = '';
   el.fExplanationImageFile.value = '';
+  el.fTopicOther.value = '';
+  el.fTopicOther.required = false;
+  el.fTopicOther.classList.add('hidden');
   el.formMode.textContent = 'Fill in the question, four options, and classification fields.';
   el.cancelEditBtn.classList.add('hidden');
 }
@@ -2543,6 +2572,8 @@ function saveInlineEdit(form) {
 
   const formData = new FormData(form);
   state.editingId = null;
+  let topic = formData.get('topic');
+  if (topic === OTHER_OPTION) topic = (formData.get('topic_other') || '').trim();
   const success = upsertQuestion({
     id,
     question: formData.get('question'),
@@ -2556,7 +2587,7 @@ function saveInlineEdit(form) {
     questionImage: formData.get('question_image'),
     explanationImage: formData.get('explanation_image'),
     subject: formData.get('subject'),
-    topic: formData.get('topic'),
+    topic,
     subtopic: formData.get('subtopic'),
     tags: formData.get('tags'),
     createdAt: existing.createdAt
@@ -3218,7 +3249,7 @@ function bindEvents() {
       questionImage: el.fQuestionImageData.value,
       explanationImage: el.fExplanationImageData.value,
       subject: el.fSubject.value,
-      topic: el.fTopic.value,
+      topic: resolveChapterValue(el.fTopic, el.fTopicOther),
       subtopic: el.fSubtopic.value,
       tags: el.fTags.value
     });
@@ -3229,6 +3260,7 @@ function bindEvents() {
   });
 
   el.cancelEditBtn.addEventListener('click', resetForm);
+  el.fTopic.addEventListener('change', () => toggleOtherChapter(el.fTopic));
   let bankSearchTimer = null;
   el.bankSearch.addEventListener('input', event => {
     state.bankSearch = event.target.value;
@@ -3241,7 +3273,9 @@ function bindEvents() {
 
   el.bankList.addEventListener('change', event => {
     const imageInput = event.target.closest('.image-file-input');
-    if (imageInput) handleInlineImageChange(imageInput);
+    if (imageInput) { handleInlineImageChange(imageInput); return; }
+    const topicSelect = event.target.closest('select[name="topic"]');
+    if (topicSelect) toggleOtherChapter(topicSelect);
   });
 
   el.bankList.addEventListener('click', event => {

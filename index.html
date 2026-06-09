@@ -226,7 +226,10 @@
             </fieldset>
             <div class="meta-grid">
               <label>Subject <select id="fSubject" required></select></label>
-              <label>Chapter <select id="fTopic" required></select></label>
+              <label>Chapter
+                <select id="fTopic" required></select>
+                <input id="fTopicOther" type="text" class="other-chapter-input hidden" placeholder="New chapter name" />
+              </label>
               <label>Section <input id="fSubtopic" type="text" list="subtopicList" placeholder="Level I, Level II, Previous Years NEET..." /></label>
               <label>Tags <input id="fTags" type="text" /></label>
             </div>

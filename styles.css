@@ -604,6 +604,7 @@ textarea, input[type="text"], input[type="number"], input[type="search"], input[
   padding: 18px 0 6px;
 }
 .bank-load-more .muted { font-size: 0.85rem; opacity: 0.7; }
+.other-chapter-input { margin-top: 8px; width: 100%; }
 .bank-card, .empty-state, .empty-card {
   border: 1px solid var(--border);
   border-radius: var(--radius);
