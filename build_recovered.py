@@ -28,6 +28,11 @@ ar = [d for d in DROPPED
       if d["reason"] == "missing_answer" and d["stem"].strip().lower().startswith("assertion")]
 assert len(ar) == len(AR_ANSWERS) == 60, (len(ar), len(AR_ANSWERS))
 
+AR_DISCLAIMER = (
+    "[Answer key auto-suggested by AI — the source did not print an answer "
+    "for this Assertion-Reason question. Admin: please verify and edit if incorrect.]"
+)
+
 recovered = []
 for raw, ans in zip(ar, AR_ANSWERS):
     recovered.append({
@@ -35,7 +40,7 @@ for raw, ans in zip(ar, AR_ANSWERS):
         "question": raw["stem"],
         **AR_OPTIONS,
         "answer": ans,
-        "explanation": "",
+        "explanation": AR_DISCLAIMER,
         "subject": "Biology",
         "topic": raw["chapter"],
         "subtopic": "Assertion-Reason",
