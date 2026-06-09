@@ -1,0 +1,43 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble web assets
+        run: |
+          mkdir -p _site
+          cp index.html app.js styles.css config.js bank.json _site/
+          cp -r js vendor _site/
+          # Optional small runtime files
+          [ -f progress.json ] && cp progress.json _site/ || true
+          [ -f flags.json ]    && cp flags.json    _site/ || true
+          [ -f bio_classsif.png ] && cp bio_classsif.png _site/ || true
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - uses: actions/deploy-pages@v4
+        id: deployment
