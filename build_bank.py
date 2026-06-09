@@ -108,6 +108,7 @@ def main() -> int:
     sources = [
         root / "pearson_biology_vol1.json",
         root / "pearson_biology_vol2.json",
+        root / "recovered_questions.json",
     ]
     extra_csv = root / "neet_biology_questions.csv"
     output = root / "bank.json"
