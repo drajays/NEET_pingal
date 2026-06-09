@@ -4,6 +4,7 @@ const PROGRESS_KEY = 'neet-student-progress-v1';
 const FLAGS_KEY = 'neet-answer-flags-v1';
 const ACTIVE_STUDENT_KEY = 'neet-active-student-v1';
 const ADMIN_SESSION_KEY = 'neet-admin-session-v1';
+const NOTES_EDITS_KEY = 'neet-notes-edits-v1';
 const IDB_NAME = 'neet-mcq-db';
 const IDB_VERSION = 1;
 const IDB_STORE = 'bank';
@@ -34,6 +35,8 @@ const state = {
   questions: [],
   notes: [],
   noteLinks: {},
+  noteEdits: {},
+  editingNoteId: '',
   selectedNoteChapterId: '',
   activeTab: 'dashboard',
   selectedChapter: '',
@@ -364,6 +367,7 @@ function applyRoleUI() {
   }
 
   renderBank();
+  if (state.activeTab === 'notes' && window.NeetViews) NeetViews.renderNotes();
   renderStudentSelectors();
   updateProgressSyncUI();
   updateFlagBadge();
@@ -1492,6 +1496,147 @@ function findNoteSection(sectionId) {
     if (section) return { section, chapter };
   }
   return null;
+}
+
+// ── Notes editing (admin) ─────────────────────────────────────────────────────
+// Edits are stored as overrides keyed by `${chapterId}::${sectionId}` (and
+// `${chapterId}::__intro__` for the chapter intro), overlaid on the fetched
+// notes.json so new chapters/sections from the file still appear.
+const NOTE_INTRO_ID = '__intro__';
+
+function noteEditKey(chapterId, sectionId) {
+  return `${chapterId}::${sectionId}`;
+}
+
+async function loadNoteEditsAsync() {
+  try {
+    const saved = await idbGet(NOTES_EDITS_KEY);
+    if (saved && typeof saved === 'object') state.noteEdits = saved;
+  } catch {
+    // no local edits yet
+  }
+}
+
+async function persistNoteEdits() {
+  try { await idbSet(NOTES_EDITS_KEY, state.noteEdits); } catch {}
+}
+
+// Return a deep-ish copy of state.notes with admin overrides applied.
+function getEditedNotes() {
+  return (state.notes || []).map(chapter => {
+    const introOverride = state.noteEdits[noteEditKey(chapter.id, NOTE_INTRO_ID)];
+    return {
+      ...chapter,
+      intro: introOverride != null ? introOverride : chapter.intro,
+      sections: (chapter.sections || []).map(section => {
+        const ov = state.noteEdits[noteEditKey(chapter.id, section.id)];
+        return ov ? { ...section, heading: ov.heading, html: ov.html } : section;
+      })
+    };
+  });
+}
+
+function startEditNote(noteId) {
+  if (!requireAdmin('edit chapter notes')) return;
+  state.editingNoteId = noteId;
+  if (window.NeetViews) NeetViews.renderNotes();
+  const card = el.notesView.querySelector('.note-edit-form');
+  card?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+function cancelEditNote() {
+  state.editingNoteId = '';
+  if (window.NeetViews) NeetViews.renderNotes();
+}
+
+async function saveEditNote(form) {
+  if (!requireAdmin('edit chapter notes')) return;
+  const chapterId = form.dataset.chapterId;
+  const sectionId = form.dataset.sectionId;
+  const key = noteEditKey(chapterId, sectionId);
+  if (sectionId === NOTE_INTRO_ID) {
+    state.noteEdits[key] = (form.querySelector('[name="html"]').value || '').trim();
+  } else {
+    state.noteEdits[key] = {
+      heading: (form.querySelector('[name="heading"]').value || '').trim(),
+      html: (form.querySelector('[name="html"]').value || '').trim()
+    };
+  }
+  state.editingNoteId = '';
+  await persistNoteEdits();
+  if (window.NeetViews) NeetViews.renderNotes();
+  showToastSuccess('Notes updated on this device. Use “Download notes.json” or “Push” to share.');
+}
+
+async function resetEditNote(noteId) {
+  if (!requireAdmin('edit chapter notes')) return;
+  delete state.noteEdits[noteId];
+  state.editingNoteId = '';
+  await persistNoteEdits();
+  if (window.NeetViews) NeetViews.renderNotes();
+  showToast('Reverted to the published text.');
+}
+
+async function resetAllNoteEdits() {
+  if (!requireAdmin('edit chapter notes')) return;
+  if (!confirm('Discard ALL local notes edits and revert to the published notes.json?')) return;
+  state.noteEdits = {};
+  state.editingNoteId = '';
+  await persistNoteEdits();
+  if (window.NeetViews) NeetViews.renderNotes();
+  showToast('All local notes edits cleared.');
+}
+
+function buildNotesEnvelope() {
+  return {
+    app: getAppConfig().appName || 'NEET MCQ Practice',
+    version: 1,
+    chapters: getEditedNotes()
+  };
+}
+
+function downloadEditedNotes() {
+  if (!requireAdmin('export notes')) return;
+  download('notes.json', JSON.stringify(buildNotesEnvelope(), null, 2), 'application/json');
+  showToast('Downloaded notes.json — commit it to the repo to publish for everyone.');
+}
+
+async function pushNotesToGitHub() {
+  if (!requireAdmin('publish notes')) return;
+  const token = getGithubToken();
+  if (!token) {
+    showToastWarning('No GitHub token saved. Add one in Import/Export → GitHub auto-sync, then push.');
+    return;
+  }
+  const cfg = getAppConfig();
+  const repo = cfg.githubRepo || 'drajays/NEET_pingal';
+  const path = 'notes.json';
+  const branch = cfg.githubBranch || 'main';
+  showToast('Pushing notes.json to GitHub…');
+  try {
+    const shaRes = await fetch(
+      `https://api.github.com/repos/${repo}/contents/${path}?ref=${branch}`,
+      { headers: { Authorization: `token ${token}`, Accept: 'application/vnd.github.v3+json' } }
+    );
+    const sha = shaRes.ok ? (await shaRes.json()).sha : undefined;
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(buildNotesEnvelope(), null, 2))));
+    const res = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
+      method: 'PUT',
+      headers: {
+        Authorization: `token ${token}`,
+        Accept: 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ message: 'chore: update notes.json via app', content, sha, branch })
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.message || `GitHub API ${res.status}`);
+    }
+    showToastSuccess('Notes pushed to GitHub ✓');
+  } catch (err) {
+    showToastError(`Notes push failed: ${err.message}`);
+  }
 }
 
 // "Read this in the notes" link shown under a practice answer.
@@ -3301,6 +3446,26 @@ function bindEvents() {
       state.selectedNoteChapterId = select.value;
       if (window.NeetViews) NeetViews.renderNotes();
     });
+
+    // Admin notes-editing actions.
+    el.notesView.addEventListener('click', event => {
+      const btn = event.target.closest('[data-note-action]');
+      if (!btn) return;
+      const action = btn.dataset.noteAction;
+      if (action === 'edit') startEditNote(btn.dataset.noteId);
+      else if (action === 'cancel') cancelEditNote();
+      else if (action === 'reset') resetEditNote(btn.dataset.noteId);
+      else if (action === 'download') downloadEditedNotes();
+      else if (action === 'reset-all') resetAllNoteEdits();
+      else if (action === 'push') pushNotesToGitHub();
+    });
+
+    el.notesView.addEventListener('submit', event => {
+      const form = event.target.closest('.note-edit-form');
+      if (!form) return;
+      event.preventDefault();
+      saveEditNote(form);
+    });
   }
 
   if (el.chaptersView) {
@@ -3644,12 +3809,15 @@ async function init() {
     getAuditLog: getAuditLogForStudent,
     getCoachInsights: getCoachInsightsForStudent,
     populateStudentSelect,
-    noteSectionIdForQuestion
+    noteSectionIdForQuestion,
+    getEditedNotes,
+    isAdmin
   });
 
   state.questions = await loadQuestionsAsync();
   await loadNotesAsync();
   await loadNoteLinksAsync();
+  await loadNoteEditsAsync();
   await loadProgressAsync();
   await loadFlagsAsync();
 

@@ -483,15 +483,21 @@
     const el = deps.el;
     if (!el.notesView) return;
 
-    const chapters = deps.state.notes || [];
+    // Use edited notes (admin overrides applied) so changes show immediately.
+    const chapters = deps.getEditedNotes ? deps.getEditedNotes() : (deps.state.notes || []);
     if (!chapters.length) {
       el.notesView.innerHTML = '<div class="empty-card"><h3>No chapter notes yet</h3><p>Notes are being prepared. Check back soon.</p></div>';
       return;
     }
 
+    const admin = !!(deps.isAdmin && deps.isAdmin());
+    const editingId = deps.state.editingNoteId || '';
+    const edits = deps.state.noteEdits || {};
+
     const selectedId = deps.state.selectedNoteChapterId
       || (deps.state.selectedNoteChapterId = chapters[0].id);
     const chapter = chapters.find(c => c.id === selectedId) || chapters[0];
+    const keyOf = sid => `${chapter.id}::${sid}`;
 
     const chapterQuestions = (deps.state.questions || []).filter(
       q => q.topic === chapter.topic
@@ -516,6 +522,27 @@
       .map(s => `<a class="notes-outline-link" href="#note-${esc(s.id)}">${esc(s.heading)}</a>`)
       .join('');
 
+    // Edit form for one section (or the intro when sectionId === '__intro__').
+    const editFormHtml = (sectionId, heading, html, withHeading) => `
+      <form class="note-edit-form" data-chapter-id="${esc(chapter.id)}" data-section-id="${esc(sectionId)}">
+        ${withHeading ? `<label class="note-edit-label">Heading
+          <input type="text" name="heading" class="note-edit-heading" value="${esc(heading)}" />
+        </label>` : ''}
+        <label class="note-edit-label">${withHeading ? 'Content (HTML)' : 'Intro text'}
+          <textarea name="html" class="note-edit-area" rows="${withHeading ? 12 : 4}">${esc(html)}</textarea>
+        </label>
+        <div class="note-edit-actions">
+          <button type="submit" class="primary-btn small">Save</button>
+          <button type="button" class="secondary-btn small" data-note-action="cancel">Cancel</button>
+          ${edits[keyOf(sectionId)] != null ? `<button type="button" class="ghost-btn small" data-note-action="reset" data-note-id="${esc(keyOf(sectionId))}">Revert to published</button>` : ''}
+        </div>
+      </form>`;
+
+    const editBtn = sectionId =>
+      `<button type="button" class="note-edit-btn" data-note-action="edit" data-note-id="${esc(keyOf(sectionId))}" title="Edit this section">✎ Edit</button>`;
+    const editedTag = sectionId =>
+      edits[keyOf(sectionId)] != null ? '<span class="note-edited-tag" title="Edited on this device">edited</span>' : '';
+
     const body = chapter.sections.map(section => {
       const tag = section.level === 2 ? 'h2' : section.level === 3 ? 'h3' : 'h4';
       const cls = section.level === 2 ? 'notes-h2' : 'notes-h3';
@@ -523,16 +550,39 @@
       const badge = n
         ? `<button type="button" class="notes-mcq-badge" data-action="practice-note-section" data-section="${esc(section.id)}" title="Practice the ${n} MCQs linked to this section">${n} MCQ${n === 1 ? '' : 's'} ▸</button>`
         : '';
+
+      if (admin && editingId === keyOf(section.id)) {
+        return `<section class="notes-section editing" id="note-${esc(section.id)}">
+          ${editFormHtml(section.id, section.heading, section.html || '', true)}
+        </section>`;
+      }
       // section.html is trusted author content from notes.json (not user input).
       return `
         <section class="notes-section" id="note-${esc(section.id)}" data-section-id="${esc(section.id)}">
           <div class="notes-section-head">
-            <${tag} class="${cls}">${esc(section.heading)}</${tag}>
-            ${badge}
+            <${tag} class="${cls}">${esc(section.heading)} ${editedTag(section.id)}</${tag}>
+            <span class="notes-section-tools">${badge}${admin ? editBtn(section.id) : ''}</span>
           </div>
           <div class="notes-prose">${section.html || ''}</div>
         </section>`;
     }).join('');
+
+    const introBlock = (admin && editingId === keyOf('__intro__'))
+      ? editFormHtml('__intro__', '', chapter.intro || '', false)
+      : (chapter.intro || admin)
+        ? `<div class="notes-intro-row">
+             <p class="notes-intro">${esc(chapter.intro || '')} ${editedTag('__intro__')}</p>
+             ${admin ? editBtn('__intro__') : ''}
+           </div>`
+        : '';
+
+    const adminBar = admin ? `
+      <div class="notes-admin-bar">
+        <span class="notes-admin-label">Admin · editing</span>
+        <button type="button" class="secondary-btn small" data-note-action="download">⬇ Download notes.json</button>
+        <button type="button" class="secondary-btn small" data-note-action="push">⬆ Push to GitHub</button>
+        <button type="button" class="ghost-btn small" data-note-action="reset-all">Reset all edits</button>
+      </div>` : '';
 
     el.notesView.innerHTML = `
       <div class="view-hero compact">
@@ -550,13 +600,15 @@
         </label>
       </div>
 
+      ${adminBar}
+
       <div class="notes-layout">
         <aside class="notes-outline" aria-label="Section outline">
           <p class="notes-outline-title">On this page</p>
           ${outline}
         </aside>
         <article class="notes-doc">
-          ${chapter.intro ? `<p class="notes-intro">${esc(chapter.intro)}</p>` : ''}
+          ${introBlock}
           ${body}
           <div class="notes-foot">
             <button type="button" class="primary-btn" data-action="practice-chapter" data-chapter="${esc(chapter.topic)}">Practice ${esc(chapter.title)} (${mcqCount} MCQs)</button>

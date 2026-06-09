@@ -1493,6 +1493,44 @@ textarea:focus {
 }
 .note-link-btn:hover { background: var(--primary); color: #fff; border-color: var(--primary); }
 
+/* Notes editing (admin) */
+.notes-admin-bar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem;
+  margin: 0 0 1rem; padding: 0.6rem 0.8rem;
+  background: var(--surface-2); border: 1px dashed var(--primary); border-radius: var(--radius);
+}
+.notes-admin-label {
+  font-size: 0.74rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--primary); margin-right: auto;
+}
+.notes-section-tools { display: inline-flex; align-items: center; gap: 0.4rem; flex: none; }
+.note-edit-btn {
+  cursor: pointer; white-space: nowrap; background: var(--surface);
+  color: var(--muted); border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 0.2rem 0.55rem; font: inherit; font-size: 0.74rem; font-weight: 700;
+}
+.note-edit-btn:hover { color: var(--primary); border-color: var(--primary); }
+.note-edited-tag {
+  font-size: 0.62rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em;
+  color: var(--warning); border: 1px solid var(--warning); border-radius: 999px;
+  padding: 0.02rem 0.4rem; vertical-align: middle;
+}
+.notes-intro-row { display: flex; align-items: flex-start; gap: 0.6rem; }
+.notes-intro-row .notes-intro { flex: 1; }
+
+.note-edit-form {
+  display: flex; flex-direction: column; gap: 0.7rem;
+  background: var(--surface-2); border: 1px solid var(--primary);
+  border-radius: var(--radius); padding: 1rem;
+}
+.note-edit-label { display: flex; flex-direction: column; gap: 0.3rem; font-weight: 700; font-size: 0.82rem; color: var(--muted); }
+.note-edit-heading, .note-edit-area {
+  font: inherit; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 0.5rem 0.6rem;
+}
+.note-edit-area { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.85rem; line-height: 1.5; resize: vertical; }
+.note-edit-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+
 @media (max-width: 860px) {
   .notes-layout { grid-template-columns: 1fr; }
   .notes-outline { position: static; flex-flow: row wrap; }
