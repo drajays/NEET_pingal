@@ -869,6 +869,110 @@
           "html": "<p>Meiosis <strong>halves the chromosome number</strong>, so fertilisation restores the diploid number across generations (genome stability of a species). <strong>Crossing over and the random assortment</strong> of homologous chromosomes generate <strong>genetic variation</strong> — the raw material for evolution.</p>"
         }
       ]
+    },
+    {
+      "id": "bio11-ch11",
+      "class": 11,
+      "chapterNo": 11,
+      "title": "Photosynthesis in Higher Plants",
+      "topic": "Photosynthesis in Higher Plants",
+      "intro": "NCERT Class XI Chapter 11: how green plants make food — the early experiments, photosynthetic pigments, the light reaction and photophosphorylation, the Calvin (C3) cycle, the C4 pathway, photorespiration and the factors that limit photosynthesis.",
+      "sections": [
+        {
+          "id": "ps-overview",
+          "level": 2,
+          "heading": "1. Site & early experiments",
+          "html": "<p>Photosynthesis occurs in the <strong>chloroplast</strong> (mainly in mesophyll cells); the membrane (thylakoid) system carries out the <strong>light reaction</strong> and the <strong>stroma</strong> the dark (biosynthetic) reactions. Landmark experiments: <strong>Joseph Priestley</strong> (plants purify air — O₂); <strong>Ingenhousz</strong> (light and green parts needed); <strong>Julius von Sachs</strong> (glucose/starch produced in chloroplasts); <strong>T.W. Engelmann</strong> (action spectrum using <em>Cladophora</em> + aerobic bacteria — red and blue light most effective); <strong>Cornelius van Niel</strong> (the O₂ released comes from <strong>water</strong>, not CO₂).</p>"
+        },
+        {
+          "id": "ps-pigments",
+          "level": 2,
+          "heading": "2. Photosynthetic pigments",
+          "html": "<p>Pigments in the thylakoids: <strong>chlorophyll a</strong> (the chief/primary pigment, bright/blue-green), <strong>chlorophyll b</strong>, <strong>xanthophylls</strong> and <strong>carotenoids</strong> (accessory/antenna pigments that also protect chlorophyll a from photo-oxidation). The <strong>absorption spectrum</strong> shows maxima in the <strong>blue and red</strong> regions; the <strong>action spectrum</strong> of photosynthesis closely follows the absorption spectrum of chlorophyll a, confirming it as the main pigment.</p>"
+        },
+        {
+          "id": "ps-light-reaction",
+          "level": 2,
+          "heading": "3. Light reaction (photochemical phase)",
+          "html": "<p>In the thylakoids, light is absorbed by two <strong>photosystems</strong> — <strong>PS I</strong> (reaction centre <strong>P700</strong>) and <strong>PS II</strong> (P680). In non-cyclic flow electrons pass PS II → cytochrome → PS I → <strong>NADP⁺</strong> (the Z-scheme), forming <strong>NADPH</strong>. <strong>PS II splits water (photolysis)</strong> on the inner thylakoid side, releasing <strong>O₂</strong>, protons and electrons; this is the source of evolved oxygen. So the light reaction yields <strong>ATP, NADPH and O₂</strong>.</p>"
+        },
+        {
+          "id": "ps-photophosphorylation",
+          "level": 2,
+          "heading": "4. Photophosphorylation & chemiosmosis",
+          "html": "<p>ATP synthesis in light is <strong>photophosphorylation</strong>. <strong>Non-cyclic</strong> (both PS I and PS II) produces ATP + NADPH + O₂; <strong>cyclic</strong> (only PS I, electrons cycle back) produces <strong>only ATP</strong> (occurs in stroma lamellae / when only PS I is active or NADP⁺ is unavailable). ATP forms by <strong>chemiosmosis</strong>: a proton gradient builds across the thylakoid membrane (protons accumulate in the lumen) and flows out through <strong>ATP synthase (CF₀–CF₁)</strong>.</p>"
+        },
+        {
+          "id": "ps-calvin-cycle",
+          "level": 2,
+          "heading": "5. Calvin cycle (C3 pathway)",
+          "html": "<p>The dark reaction (biosynthetic phase) fixes CO₂ in the <strong>stroma</strong> using ATP and NADPH. The Calvin cycle has three stages: <strong>Carboxylation</strong> — CO₂ + the 5-C acceptor <strong>RuBP</strong> → two 3-C <strong>3-PGA</strong> molecules, catalysed by <strong>RuBisCO</strong> (the first stable product is 3-PGA, a 3-carbon acid → 'C3'); <strong>Reduction</strong> — PGA → G3P (triose phosphate), using ATP and NADPH; <strong>Regeneration</strong> — RuBP is regenerated (uses ATP). To make one glucose, the cycle turns <strong>6 times</strong>, using 18 ATP and 12 NADPH.</p>"
+        },
+        {
+          "id": "ps-c4-pathway",
+          "level": 2,
+          "heading": "6. C4 pathway",
+          "html": "<p><strong>C4 plants</strong> (e.g. maize, sugarcane, sorghum) show special <strong>Kranz anatomy</strong> — large, chloroplast-rich <strong>bundle-sheath cells</strong> around the vascular bundles. The primary CO₂ acceptor is <strong>PEP</strong> (3-C) and the enzyme is <strong>PEP carboxylase</strong> in mesophyll cells; the first product is the 4-C acid <strong>OAA</strong> (→ malate). Malate releases CO₂ in bundle-sheath cells, where the Calvin cycle then runs — concentrating CO₂ around RuBisCO. C4 plants are more efficient, lack photorespiration, and tolerate higher temperatures.</p>"
+        },
+        {
+          "id": "ps-photorespiration",
+          "level": 2,
+          "heading": "7. Photorespiration",
+          "html": "<p><strong>RuBisCO</strong> has affinity for both CO₂ and O₂. When O₂ is high, it acts as an <strong>oxygenase</strong>: RuBP + O₂ → one PGA + one 2-C <strong>phosphoglycolate</strong> (the C2 cycle). Photorespiration <strong>does not produce ATP, NADPH or sugar</strong> — it is a wasteful process in C3 plants. C4 plants avoid it by keeping CO₂ high around RuBisCO.</p>"
+        },
+        {
+          "id": "ps-factors",
+          "level": 2,
+          "heading": "8. Factors affecting photosynthesis",
+          "html": "<p>Rate depends on <strong>light, CO₂, temperature</strong> (external) and chlorophyll/leaf factors (internal). <strong>Blackman's Law of Limiting Factors</strong>: when several factors affect a process, the rate is set by the factor in shortest supply (the limiting factor). For most C3 plants under field light, <strong>CO₂ is the major limiting factor</strong>; light saturation occurs at ~10% of full sunlight.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch12",
+      "class": 11,
+      "chapterNo": 12,
+      "title": "Respiration in Plants",
+      "topic": "Respiration in Plants",
+      "intro": "NCERT Class XI Chapter 12: how cells release energy from food — glycolysis, fermentation, the Krebs cycle, the electron transport chain and oxidative phosphorylation, and the energetics (ATP yield, RQ, amphibolic pathway).",
+      "sections": [
+        {
+          "id": "rs-overview",
+          "level": 2,
+          "heading": "1. Cellular respiration — overview",
+          "html": "<p>Cells break C–C bonds of respiratory substrates in a controlled, stepwise oxidation to release energy stored as <strong>ATP</strong>. The common substrate is <strong>glucose</strong>; fats, proteins and organic acids can also be respired. Respiration may be <strong>aerobic</strong> (needs O₂, complete oxidation) or <strong>anaerobic</strong> (no O₂, incomplete). The <strong>Respiratory Quotient (RQ)</strong> = CO₂ released / O₂ consumed — 1 for carbohydrates, <1 for fats (~0.7), >1 for organic acids.</p>"
+        },
+        {
+          "id": "rs-glycolysis",
+          "level": 2,
+          "heading": "2. Glycolysis (EMP pathway)",
+          "html": "<p>The <strong>Embden–Meyerhof–Parnas (EMP)</strong> pathway occurs in the <strong>cytoplasm</strong> and is common to aerobic and anaerobic respiration. One <strong>glucose (6-C)</strong> is converted to <strong>two pyruvate (3-C)</strong>. Net gain: <strong>2 ATP</strong> (substrate-level) and <strong>2 NADH</strong>. It is the first step of glucose breakdown in all living organisms.</p>"
+        },
+        {
+          "id": "rs-fermentation",
+          "level": 2,
+          "heading": "3. Fermentation (anaerobic respiration)",
+          "html": "<p>Without O₂, pyruvate is incompletely oxidised to regenerate NAD⁺. <strong>Alcoholic fermentation</strong> (yeast) → ethanol + CO₂ (enzymes pyruvate decarboxylase, alcohol dehydrogenase). <strong>Lactic acid fermentation</strong> (some bacteria, exercising muscle) → lactic acid. Fermentation yields <strong>less than 7%</strong> of glucose's energy (only the 2 ATP of glycolysis) and is hazardous (alcohol/acid build-up).</p>"
+        },
+        {
+          "id": "rs-krebs",
+          "level": 2,
+          "heading": "4. Krebs cycle (TCA / citric acid cycle)",
+          "html": "<p>In aerobic respiration, pyruvate enters the <strong>mitochondrial matrix</strong> and is oxidatively decarboxylated to <strong>acetyl-CoA</strong> (by pyruvate dehydrogenase, giving 1 NADH + 1 CO₂). Acetyl-CoA (2-C) combines with <strong>OAA</strong> (4-C) to form <strong>citrate</strong> (6-C), starting the <strong>Krebs cycle</strong>. Per pyruvate the cycle yields <strong>3 NADH, 1 FADH₂, 1 ATP (GTP)</strong> and releases 2 CO₂; OAA is regenerated.</p>"
+        },
+        {
+          "id": "rs-etc",
+          "level": 2,
+          "heading": "5. Electron transport chain & oxidative phosphorylation",
+          "html": "<p>NADH and FADH₂ are oxidised in the <strong>inner mitochondrial membrane</strong> through complexes I–IV (with ubiquinone and cytochrome c); electrons finally reduce <strong>O₂ to water</strong> (the terminal acceptor, via complex IV / cytochrome oxidase). The energy pumps protons to build a gradient that drives <strong>ATP synthase (F₀–F₁, complex V)</strong> — this is <strong>oxidative phosphorylation</strong> (chemiosmosis). Each <strong>NADH ≈ 3 ATP</strong> and each <strong>FADH₂ ≈ 2 ATP</strong>.</p>"
+        },
+        {
+          "id": "rs-energetics",
+          "level": 2,
+          "heading": "6. Energetics & amphibolic pathway",
+          "html": "<p>Complete aerobic oxidation of one glucose yields a net of about <strong>36–38 ATP</strong>. Respiration is an <strong>amphibolic pathway</strong> — it both breaks down (catabolic) and provides intermediates for the synthesis (anabolic) of fats, amino acids, etc. Fats are broken to acetyl-CoA, proteins to keto acids before entering respiration. (Aerobic respiration is far more efficient than fermentation.)</p>"
+        }
+      ]
     }
   ]
 }
