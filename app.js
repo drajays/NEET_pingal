@@ -56,6 +56,7 @@ const state = {
     selectedOption: null
   },
   bankSearch: '',
+  bankVisibleCount: 60,
   bankRevealMode: (() => { try { return localStorage.getItem('neet-bank-reveal') || 'open'; } catch { return 'open'; } })(),
   search: { query: '', results: [], total: 0, activeIndex: 0, parsed: null },
   editingId: null,
@@ -2246,6 +2247,7 @@ function toggleFilterValue(filters, group, value) {
 
 function applyQuickFilter(group, value) {
   toggleFilterValue(state.bankFilters, group, value);
+  resetBankView();
   updateBankFilterUI();
   renderBank();
   el.bankList.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -2426,9 +2428,41 @@ function renderBank() {
   }
 
   el.bankList.className = 'bank-list';
-  el.bankList.innerHTML = filtered.map(q => renderBankCard(q)).join('');
+  const visible = filtered.slice(0, state.bankVisibleCount);
+  let html = visible.map(q => renderBankCard(q)).join('');
+  if (filtered.length > visible.length) {
+    const remaining = filtered.length - visible.length;
+    html += `<div class="bank-load-more" id="bankLoadMore">
+        <button type="button" class="secondary-btn" id="bankLoadMoreBtn">Load ${Math.min(BANK_PAGE_SIZE, remaining)} more</button>
+        <span class="muted">Showing ${visible.length} of ${filtered.length}</span>
+      </div>`;
+  }
+  el.bankList.innerHTML = html;
+  observeBankSentinel();
   updateBankFilterUI();
   applyBankRevealMode();
+}
+
+const BANK_PAGE_SIZE = 60;
+let bankScrollObserver = null;
+
+// Auto-load the next page when the "Load more" sentinel nears the viewport,
+// so long lists scroll smoothly instead of rendering 10k+ cards at once.
+function observeBankSentinel() {
+  if (bankScrollObserver) bankScrollObserver.disconnect();
+  const sentinel = document.getElementById('bankLoadMore');
+  if (!sentinel || typeof IntersectionObserver === 'undefined') return;
+  bankScrollObserver = new IntersectionObserver(entries => {
+    if (entries.some(entry => entry.isIntersecting)) {
+      state.bankVisibleCount += BANK_PAGE_SIZE;
+      renderBank();
+    }
+  }, { rootMargin: '600px' });
+  bankScrollObserver.observe(sentinel);
+}
+
+function resetBankView() {
+  state.bankVisibleCount = BANK_PAGE_SIZE;
 }
 
 function applyBankRevealMode() {
@@ -2566,6 +2600,7 @@ function clearFilters() {
 
 function clearBankFilters() {
   Object.values(state.bankFilters).forEach(set => set.clear());
+  resetBankView();
   updateBankFilterUI();
   renderBank();
 }
@@ -3091,6 +3126,7 @@ function bindEvents() {
       const chip = event.target.closest('.chip');
       if (!chip || chip.classList.contains('empty-chip')) return;
       toggleFilterValue(state.bankFilters, chip.dataset.group, chip.dataset.value);
+      resetBankView();
       updateBankFilterUI();
       renderBank();
     });
@@ -3182,9 +3218,12 @@ function bindEvents() {
   });
 
   el.cancelEditBtn.addEventListener('click', resetForm);
+  let bankSearchTimer = null;
   el.bankSearch.addEventListener('input', event => {
     state.bankSearch = event.target.value;
-    renderBank();
+    resetBankView();
+    clearTimeout(bankSearchTimer);
+    bankSearchTimer = setTimeout(renderBank, 160);
   });
 
   bindSearchPalette();
@@ -3201,6 +3240,13 @@ function bindEvents() {
     const cancelBtn = event.target.closest('.cancel-inline-btn');
     const removeImageBtn = event.target.closest('.remove-image-btn');
     const showAnswerBtn = event.target.closest('.show-answer-btn');
+    const loadMoreBtn = event.target.closest('#bankLoadMoreBtn');
+
+    if (loadMoreBtn) {
+      state.bankVisibleCount += BANK_PAGE_SIZE;
+      renderBank();
+      return;
+    }
 
     if (removeImageBtn) {
       handleInlineImageRemove(removeImageBtn);

@@ -596,6 +596,14 @@ textarea, input[type="text"], input[type="number"], input[type="search"], input[
 }
 
 .bank-list { display: grid; gap: 14px; margin-top: 20px; }
+.bank-load-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 18px 0 6px;
+}
+.bank-load-more .muted { font-size: 0.85rem; opacity: 0.7; }
 .bank-card, .empty-state, .empty-card {
   border: 1px solid var(--border);
   border-radius: var(--radius);
