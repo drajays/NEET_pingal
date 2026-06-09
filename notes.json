@@ -527,6 +527,128 @@
           "html": "<p><strong>Warm-blooded</strong> vertebrates with <strong>mammary glands</strong> (milk), <strong>hair/body fur</strong>, external ears (pinnae), a muscular diaphragm and a <strong>four-chambered heart</strong>; most are viviparous. Reproductive types: <strong>oviparous (egg-laying)</strong> — <em>Ornithorhynchus</em> (platypus), <em>Echidna</em>; <strong>marsupials</strong> — <em>Macropus</em> (kangaroo); <strong>placental</strong> — most others. <strong>Bats and whales are mammals</strong> (whales bear young and feed milk; bats are the only truly flying mammals). Examples: <em>Homo</em> (man), <em>Panthera</em>, <em>Balaenoptera</em> (blue whale), <em>Pteropus</em> (flying fox).</p>"
         }
       ]
+    },
+    {
+      "id": "bio11-ch05",
+      "class": 11,
+      "chapterNo": 5,
+      "title": "Morphology of Flowering Plants",
+      "topic": "Plant Morphology",
+      "intro": "NCERT Class XI Chapter 5: the external form of flowering plants — root, stem and leaf and their modifications, inflorescence, the parts of a flower (symmetry, aestivation, placentation), fruit and seed, the floral formula/diagram, and the semi-technical description of three important families.",
+      "sections": [
+        {
+          "id": "pm-root",
+          "level": 2,
+          "heading": "1. The root",
+          "html": "<p>The root is the underground, non-green, positively geotropic part. <strong>Tap root</strong> (from radicle) is typical of dicots; <strong>fibrous roots</strong> are typical of monocots; <strong>adventitious roots</strong> arise from parts other than the radicle (e.g. grass, banyan). Regions of the root: <strong>root cap</strong>, region of meristematic activity, region of elongation, and region of maturation (bearing root hairs).</p><p><strong>Modifications:</strong> storage — <em>fusiform</em> (radish), <em>conical</em> (carrot), <em>napiform</em> (turnip), tuberous (sweet potato); <strong>prop roots</strong> (banyan), <strong>stilt roots</strong> (maize, sugarcane), <strong>pneumatophores</strong> (respiratory roots of <em>Rhizophora</em>), and nodulated roots (legumes).</p>"
+        },
+        {
+          "id": "pm-stem",
+          "level": 2,
+          "heading": "2. The stem",
+          "html": "<p>The stem develops from the plumule, bears nodes and internodes, buds, and is generally positively phototropic. <strong>Modifications:</strong> underground food storage — <strong>rhizome</strong> (ginger), <strong>tuber</strong> (potato, with 'eyes'), <strong>corm</strong> (Colocasia), <strong>bulb</strong> (onion); <strong>stem tendrils</strong> (cucumber, grapevine) for climbing; <strong>thorns</strong> (Citrus, Bougainvillea) for protection; <strong>phylloclades</strong> (Opuntia) and offsets/runners/stolons for vegetative spread.</p>"
+        },
+        {
+          "id": "pm-leaf",
+          "level": 2,
+          "heading": "3. The leaf",
+          "html": "<p>The leaf is a lateral, flattened outgrowth of the stem borne at a node; it has a leaf base, petiole and lamina. <strong>Venation</strong>: <strong>reticulate</strong> (dicots) vs <strong>parallel</strong> (monocots). <strong>Types</strong>: <strong>simple</strong> vs <strong>compound</strong> (pinnately compound — neem; palmately compound — silk cotton). <strong>Phyllotaxy</strong> (arrangement on stem): alternate (china rose, mustard, sunflower), opposite (Calotropis), whorled (Alstonia). <strong>Modifications</strong>: tendrils (pea), spines (cactus), phyllode (Australian acacia), pitcher (Nepenthes), storage (onion fleshy leaves).</p>"
+        },
+        {
+          "id": "pm-inflorescence",
+          "level": 2,
+          "heading": "4. Inflorescence",
+          "html": "<p>The arrangement of flowers on the floral axis. <strong>Racemose</strong> — main axis continues to grow, flowers borne laterally in acropetal order (younger at top), e.g. mustard, radish. <strong>Cymose</strong> — main axis terminates in a flower, so growth is limited, flowers in basipetal order, e.g. <em>Solanum</em>, jasmine.</p>"
+        },
+        {
+          "id": "pm-flower",
+          "level": 2,
+          "heading": "5. The flower — parts, symmetry & aestivation",
+          "html": "<p>A flower is a modified shoot with four whorls on the thalamus: <strong>calyx</strong> (sepals), <strong>corolla</strong> (petals), <strong>androecium</strong> (stamens — male) and <strong>gynoecium</strong> (carpels — female). A flower with all four whorls is <strong>complete</strong>; with both androecium and gynoecium it is <strong>bisexual</strong>.</p><p><strong>Symmetry</strong>: <strong>actinomorphic</strong> (radial — mustard, chilli), <strong>zygomorphic</strong> (bilateral — pea, gulmohur) or asymmetric (canna). Position of floral parts w.r.t. ovary: <strong>hypogynous</strong> (superior ovary), <strong>perigynous</strong>, <strong>epigynous</strong> (inferior ovary). <strong>Aestivation</strong> (arrangement of sepals/petals in bud): <strong>valvate</strong> (Calotropis), <strong>twisted</strong> (china rose), <strong>imbricate</strong> (Cassia, gulmohur) and <strong>vexillary</strong> (pea — five petals: standard, two wings, two keel).</p>"
+        },
+        {
+          "id": "pm-placentation",
+          "level": 2,
+          "heading": "6. Placentation",
+          "html": "<p>The arrangement of ovules on the placenta within the ovary: <strong>marginal</strong> (pea), <strong>axile</strong> (china rose, tomato, lemon), <strong>parietal</strong> (mustard, Argemone), <strong>free central</strong> (Dianthus, Primrose) and <strong>basal</strong> (sunflower, marigold).</p>"
+        },
+        {
+          "id": "pm-fruit-seed",
+          "level": 2,
+          "heading": "7. Fruit & seed",
+          "html": "<p>The <strong>fruit</strong> is the mature ovary; a fruit formed from the ovary alone is <strong>true</strong>, while a <strong>false fruit</strong> develops from the thalamus too (e.g. apple). <strong>Parthenocarpic</strong> fruits form without fertilisation (banana). A fruit has pericarp (epicarp, mesocarp, endocarp) and seed(s); in a <strong>drupe</strong> (mango, coconut) the endocarp is stony. A <strong>seed</strong> has seed coat(s) and an embryo (radicle, plumule, cotyledon[s]) — dicot seeds have two cotyledons, monocot seeds (maize) one cotyledon with endosperm.</p>"
+        },
+        {
+          "id": "pm-floral-formula",
+          "level": 2,
+          "heading": "8. Floral formula & diagram",
+          "html": "<p>A <strong>floral formula</strong> represents a flower with symbols: ⊕ actinomorphic, % zygomorphic; ♂ male, ♀ female, ⚥ bisexual; K = calyx, C = corolla, P = perianth, A = androecium, G = gynoecium; superscript number = parts; brackets = fusion; line above G = inferior ovary, line below = superior ovary. The <strong>floral diagram</strong> shows the number, arrangement and aestivation of parts as seen in a cross-section, with the mother axis marked.</p>"
+        },
+        {
+          "id": "pm-families",
+          "level": 2,
+          "heading": "9. Important families",
+          "html": "<ul><li><strong>Fabaceae (Papilionoideae)</strong> — e.g. pea, gram, bean. Zygomorphic, bisexual flowers; <strong>vexillary aestivation</strong>; stamens (9)+1 (<strong>diadelphous</strong>); superior ovary, <strong>marginal placentation</strong>; fruit a legume. Source of pulses, oil, dyes (indigo).</li><li><strong>Solanaceae</strong> — e.g. potato, tomato, brinjal, tobacco. Actinomorphic, bisexual; calyx and corolla 5, valvate; stamens 5 epipetalous; bicarpellary, syncarpous, superior ovary with <strong>axile placentation</strong>, placenta swollen; fruit a berry/capsule.</li><li><strong>Liliaceae</strong> — e.g. lily, onion, garlic, <em>Aloe</em>. Monocot; flowers trimerous, actinomorphic; <strong>perianth</strong> of 3+3 tepals; 6 stamens; tricarpellary, syncarpous, superior ovary, axile placentation; fruit a capsule/berry.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "bio11-ch06",
+      "class": 11,
+      "chapterNo": 6,
+      "title": "Anatomy of Flowering Plants",
+      "topic": "Anatomy of Flowering Plants",
+      "intro": "NCERT Class XI Chapter 6: the internal structure of flowering plants — meristematic and permanent tissues, the three tissue systems, the anatomy of dicot vs monocot roots, stems and leaves, and secondary growth.",
+      "sections": [
+        {
+          "id": "an-meristem",
+          "level": 2,
+          "heading": "1. Meristematic tissues",
+          "html": "<p><strong>Meristems</strong> are groups of actively dividing cells. <strong>Apical meristems</strong> occur at root and shoot tips (primary growth, increase in length). <strong>Intercalary meristems</strong> lie at the base of internodes/leaves (also primary). <strong>Lateral meristems</strong> (<strong>vascular cambium</strong> and <strong>cork cambium</strong>) are cylindrical and add to girth (secondary growth). Cells cut off by meristems mature into permanent tissues (differentiation).</p>"
+        },
+        {
+          "id": "an-simple-tissue",
+          "level": 2,
+          "heading": "2. Simple permanent tissues",
+          "html": "<ul><li><strong>Parenchyma</strong> — living, thin-walled, isodiametric cells; perform photosynthesis, storage and secretion (chlorenchyma if chloroplast-bearing; aerenchyma stores air in hydrophytes).</li><li><strong>Collenchyma</strong> — living cells with <strong>cellulose/pectin thickening at the corners</strong>; give mechanical support and flexibility to growing organs (e.g. petioles, dicot stems).</li><li><strong>Sclerenchyma</strong> — dead cells with thick <strong>lignified</strong> walls; provide mechanical strength. Two types: long, pointed <strong>fibres</strong> and variously shaped <strong>sclereids</strong> (stone cells of guava/pear).</li></ul>"
+        },
+        {
+          "id": "an-complex-tissue",
+          "level": 2,
+          "heading": "3. Complex permanent tissues (xylem & phloem)",
+          "html": "<p><strong>Xylem</strong> conducts water and minerals upward and gives support; elements: <strong>tracheids</strong>, <strong>vessels</strong>, xylem fibres (all dead) and living <strong>xylem parenchyma</strong>. <strong>Phloem</strong> conducts food (sugars); elements: <strong>sieve tube elements</strong>, <strong>companion cells</strong>, phloem parenchyma and phloem fibres. In gymnosperms vessels are absent in xylem and companion cells/sieve tubes are absent in phloem (replaced by albuminous cells and sieve cells). Protoxylem matures first; metaxylem later. In roots xylem and phloem are on different radii (<strong>exarch</strong>, radial); in stems they form joint bundles.</p>"
+        },
+        {
+          "id": "an-tissue-systems",
+          "level": 2,
+          "heading": "4. The three tissue systems",
+          "html": "<ul><li><strong>Epidermal tissue system</strong> — the outer protective layer: epidermis (one layer), cuticle, <strong>stomata</strong> (guarded by bean-shaped guard cells in dicots, dumb-bell shaped in grasses) and epidermal appendages (root hairs, trichomes).</li><li><strong>Ground tissue system</strong> — all cells except epidermis and vascular bundles: cortex, endodermis, pericycle, pith and medullary rays (mostly parenchyma).</li><li><strong>Vascular tissue system</strong> — the vascular bundles (xylem + phloem). <strong>Radial</strong> in roots; <strong>conjoint</strong> in stems. Conjoint bundles are <strong>open</strong> (cambium present → secondary growth, dicot stem) or <strong>closed</strong> (no cambium, monocot stem).</li></ul>"
+        },
+        {
+          "id": "an-dicot-monocot-root",
+          "level": 2,
+          "heading": "5. Dicot vs monocot root",
+          "html": "<p>Both have epidermis (epiblema with root hairs), cortex, endodermis with <strong>Casparian strips</strong>, pericycle and radial vascular bundles with <strong>exarch protoxylem</strong>. <strong>Dicot root</strong>: usually <strong>2–4 (di- to tetrarch)</strong> xylem groups, with a small pith and a cambium that appears later (secondary growth). <strong>Monocot root</strong>: <strong>polyarch</strong> (many xylem bundles), large well-developed pith, <strong>no secondary growth</strong>.</p>"
+        },
+        {
+          "id": "an-dicot-monocot-stem",
+          "level": 2,
+          "heading": "6. Dicot vs monocot stem",
+          "html": "<p><strong>Dicot stem</strong>: vascular bundles arranged in a <strong>ring</strong>, <strong>conjoint, collateral, open</strong> (with cambium), endarch protoxylem; well-differentiated cortex, endodermis (starch sheath), pericycle and pith. <strong>Monocot stem</strong>: vascular bundles <strong>scattered</strong> in ground tissue, conjoint, collateral and <strong>closed</strong> (no cambium, no secondary growth); bundles surrounded by a sclerenchymatous bundle sheath; ground tissue not differentiated; often a water-containing cavity in the protoxylem.</p>"
+        },
+        {
+          "id": "an-leaf-anatomy",
+          "level": 2,
+          "heading": "7. Leaf anatomy (dorsiventral vs isobilateral)",
+          "html": "<p><strong>Dorsiventral (dicot) leaf</strong>: mesophyll differentiated into upper <strong>palisade</strong> and lower <strong>spongy</strong> parenchyma; stomata mainly on the lower surface. <strong>Isobilateral (monocot) leaf</strong>: mesophyll not differentiated; stomata on both surfaces; some epidermal cells enlarge into <strong>bulliform cells</strong> that roll the leaf to reduce water loss. Vascular bundles lie in the veins (larger in midrib).</p>"
+        },
+        {
+          "id": "an-secondary-growth",
+          "level": 2,
+          "heading": "8. Secondary growth",
+          "html": "<p><strong>Secondary growth</strong> increases girth, mainly in dicot stems and roots. The <strong>vascular cambium</strong> forms a complete ring (interfascicular + intrafascicular cambium) and cuts off <strong>secondary xylem (wood)</strong> inward and <strong>secondary phloem</strong> outward. Spring/early wood (wide vessels) and autumn/late wood (narrow vessels) make <strong>annual rings</strong> used to estimate age. The <strong>cork cambium (phellogen)</strong> produces <strong>cork (phellem)</strong> outside and <strong>secondary cortex (phelloderm)</strong> inside — together the <strong>periderm</strong>; <strong>lenticels</strong> allow gaseous exchange. Old wood is dark, non-conducting <strong>heartwood</strong>; outer light <strong>sapwood</strong> conducts.</p>"
+        }
+      ]
     }
   ]
 }
