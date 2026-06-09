@@ -1,0 +1,85 @@
+{
+  "book": "NCERT Class 12 Biology",
+  "total_chapters": 13,
+  "total_mcqs": 1333,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Sexual Reproduction in Flowering Plants",
+      "mcq_file": "chapter_01_sexual_reproduction_in_flowering_plants_mcqs.json",
+      "mcq_count": 110
+    },
+    {
+      "chapter_number": 2,
+      "title": "Human Reproduction",
+      "mcq_file": "chapter_02_human_reproduction_mcqs.json",
+      "mcq_count": 108
+    },
+    {
+      "chapter_number": 3,
+      "title": "Reproductive Health",
+      "mcq_file": "chapter_03_reproductive_health_mcqs.json",
+      "mcq_count": 100
+    },
+    {
+      "chapter_number": 4,
+      "title": "Principles of Inheritance and Variation",
+      "mcq_file": "chapter_04_principles_of_inheritance_and_variation_mcqs.json",
+      "mcq_count": 126
+    },
+    {
+      "chapter_number": 5,
+      "title": "Molecular Basis of Inheritance",
+      "mcq_file": "chapter_05_molecular_basis_of_inheritance_mcqs.json",
+      "mcq_count": 131
+    },
+    {
+      "chapter_number": 6,
+      "title": "Evolution",
+      "mcq_file": "chapter_06_evolution_mcqs.json",
+      "mcq_count": 100
+    },
+    {
+      "chapter_number": 7,
+      "title": "Human Health and Disease",
+      "mcq_file": "chapter_07_human_health_and_disease_mcqs.json",
+      "mcq_count": 111
+    },
+    {
+      "chapter_number": 8,
+      "title": "Microbes in Human Welfare",
+      "mcq_file": "chapter_08_microbes_in_human_welfare_mcqs.json",
+      "mcq_count": 90
+    },
+    {
+      "chapter_number": 9,
+      "title": "Biotechnology: Principles and Processes",
+      "mcq_file": "chapter_09_biotechnology_principles_and_processes_mcqs.json",
+      "mcq_count": 99
+    },
+    {
+      "chapter_number": 10,
+      "title": "Biotechnology and its Applications",
+      "mcq_file": "chapter_10_biotechnology_and_its_applications_mcqs.json",
+      "mcq_count": 100
+    },
+    {
+      "chapter_number": 11,
+      "title": "Organisms and Populations",
+      "mcq_file": "chapter_11_organisms_and_populations_mcqs.json",
+      "mcq_count": 100
+    },
+    {
+      "chapter_number": 12,
+      "title": "Ecosystem",
+      "mcq_file": "chapter_12_ecosystem_mcqs.json",
+      "mcq_count": 76
+    },
+    {
+      "chapter_number": 13,
+      "title": "Biodiversity and Conservation",
+      "mcq_file": "chapter_13_biodiversity_and_conservation_mcqs.json",
+      "mcq_count": 82
+    }
+  ]
+}

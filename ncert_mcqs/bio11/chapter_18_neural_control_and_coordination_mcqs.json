@@ -1,0 +1,1302 @@
+[
+  {
+    "source_sentence": "Coordination is the process through which two or more organs interact and complement the functions of one another.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Coordination in the body is best defined as:",
+    "options": {
+      "A": "Independent functioning of organs without interaction",
+      "B": "The process through which two or more organs interact and complement each other's functions",
+      "C": "Hormonal regulation of metabolism only",
+      "D": "Transmission of nerve impulses along myelinated fibres only"
+    },
+    "correct_answer": "B",
+    "explanation": "Coordination involves interaction among organs so their functions complement one another."
+  },
+  {
+    "source_sentence": "When we do physical exercises, the energy demand is increased for maintaining an increased muscular activity.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "During physical exercise, energy demand increases primarily to support:",
+    "options": {
+      "A": "Decreased muscular activity",
+      "B": "Increased muscular activity",
+      "C": "Reduced heart rate",
+      "D": "Lower oxygen consumption"
+    },
+    "correct_answer": "B",
+    "explanation": "Exercise raises muscular activity, which increases the body's energy demand."
+  },
+  {
+    "source_sentence": "The increased supply of oxygen necessitates an increase in the rate of respiration, heart beat and increased blood flow via blood vessels.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Increased oxygen supply during exercise necessitates:",
+    "options": {
+      "A": "Decreased respiration and heart beat",
+      "B": "Increased rate of respiration, heart beat and blood flow",
+      "C": "Only increased kidney filtration",
+      "D": "Reduced blood flow through vessels"
+    },
+    "correct_answer": "B",
+    "explanation": "Greater oxygen demand during exercise raises respiration, heart rate and blood flow."
+  },
+  {
+    "source_sentence": "When physical exercise is stopped, the activities of nerves, lungs, heart and kidney gradually return to their normal conditions.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "After physical exercise stops, the activities of nerves, lungs, heart and kidney:",
+    "options": {
+      "A": "Remain permanently elevated",
+      "B": "Gradually return to normal conditions",
+      "C": "Shut down completely",
+      "D": "Are unaffected by exercise"
+    },
+    "correct_answer": "B",
+    "explanation": "Organ activities are coordinated during exercise and gradually normalize when exercise ends."
+  },
+  {
+    "source_sentence": "In our body the neural system and the endocrine system jointly coordinate and integrate all the activities of the organs so that they function in a synchronised fashion.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Which two systems jointly coordinate and integrate organ activities in the human body?",
+    "options": {
+      "A": "Digestive and excretory systems",
+      "B": "Neural and endocrine systems",
+      "C": "Muscular and skeletal systems",
+      "D": "Circulatory and lymphatic systems"
+    },
+    "correct_answer": "B",
+    "explanation": "The neural and endocrine systems work together to synchronise organ functions."
+  },
+  {
+    "source_sentence": "The neural system provides an organised network of point-to-point connections for a quick coordination.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The neural system provides coordination through:",
+    "options": {
+      "A": "Chemical messengers transported in blood",
+      "B": "An organised network of point-to-point connections",
+      "C": "Diffusion of hormones across membranes",
+      "D": "Passive transport of ions only"
+    },
+    "correct_answer": "B",
+    "explanation": "Neural coordination relies on direct point-to-point connections for rapid signalling."
+  },
+  {
+    "source_sentence": "The endocrine system provides chemical integration through hormones.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Chemical integration in the body is primarily provided by:",
+    "options": {
+      "A": "The neural system via synapses",
+      "B": "The endocrine system through hormones",
+      "C": "The skeletal system through bones",
+      "D": "The integumentary system through skin"
+    },
+    "correct_answer": "B",
+    "explanation": "The endocrine system integrates body functions chemically using hormones."
+  },
+  {
+    "source_sentence": "The neural system of all animals is composed of highly specialised cells called neurons which can detect, receive and transmit different kinds of stimuli.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Neurons are specialised cells that can:",
+    "options": {
+      "A": "Only secrete hormones into blood",
+      "B": "Detect, receive and transmit different kinds of stimuli",
+      "C": "Produce antibodies against pathogens",
+      "D": "Store glycogen for energy"
+    },
+    "correct_answer": "B",
+    "explanation": "Neurons detect, receive and transmit stimuli as the functional units of the neural system."
+  },
+  {
+    "source_sentence": "In Hydra it is composed of a network of neurons.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The neural organisation in Hydra consists of:",
+    "options": {
+      "A": "A highly developed brain with ganglia",
+      "B": "A network of neurons",
+      "C": "Only myelinated cranial nerves",
+      "D": "A central spinal cord without neurons"
+    },
+    "correct_answer": "B",
+    "explanation": "Hydra has a simple neural system composed of a network of neurons."
+  },
+  {
+    "source_sentence": "The neural system is better organised in insects, where a brain is present along with a number of ganglia and neural tissues.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "In insects, the neural system includes:",
+    "options": {
+      "A": "Only a diffuse network without a brain",
+      "B": "A brain along with ganglia and neural tissues",
+      "C": "A cerebrum and corpus callosum",
+      "D": "No ganglia or neural tissues"
+    },
+    "correct_answer": "B",
+    "explanation": "Insects have a better organised neural system with a brain, ganglia and neural tissues."
+  },
+  {
+    "source_sentence": "The vertebrates have a more developed neural system.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Compared to lower invertebrates, vertebrates possess:",
+    "options": {
+      "A": "A less developed neural system",
+      "B": "A more developed neural system",
+      "C": "No neurons at all",
+      "D": "Only electrical synapses"
+    },
+    "correct_answer": "B",
+    "explanation": "Vertebrates have a comparatively more developed neural system."
+  },
+  {
+    "source_sentence": "The human neural system is divided into two parts: (i) the central neural system (CNS) (ii) the peripheral neural system (PNS)",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The human neural system is divided into:",
+    "options": {
+      "A": "Somatic and visceral systems only",
+      "B": "Central neural system (CNS) and peripheral neural system (PNS)",
+      "C": "Sympathetic and parasympathetic systems only",
+      "D": "Forebrain and hindbrain only"
+    },
+    "correct_answer": "B",
+    "explanation": "The human neural system has two main divisions: CNS and PNS."
+  },
+  {
+    "source_sentence": "The CNS includes the brain and the spinal cord and is the site of information processing and control.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The central neural system (CNS) includes:",
+    "options": {
+      "A": "All peripheral nerves only",
+      "B": "The brain and spinal cord",
+      "C": "Only autonomic ganglia",
+      "D": "Cranial meninges without brain tissue"
+    },
+    "correct_answer": "B",
+    "explanation": "The CNS comprises the brain and spinal cord and processes information."
+  },
+  {
+    "source_sentence": "The PNS comprises of all the nerves of the body associated with the CNS (brain and spinal cord).",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The peripheral neural system (PNS) comprises:",
+    "options": {
+      "A": "Only the brain and spinal cord",
+      "B": "All nerves of the body associated with the CNS",
+      "C": "Only the cerebrum and cerebellum",
+      "D": "Hormone-secreting endocrine glands"
+    },
+    "correct_answer": "B",
+    "explanation": "The PNS includes all nerves connecting peripheral tissues with the CNS."
+  },
+  {
+    "source_sentence": "The afferent nerve fibres transmit impulses from tissues/organs to the CNS and the efferent fibres transmit regulatory impulses from the CNS to the concerned peripheral tissues/organs.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Afferent nerve fibres transmit impulses:",
+    "options": {
+      "A": "From the CNS to peripheral tissues",
+      "B": "From tissues/organs to the CNS",
+      "C": "Only between two neurons in the brain",
+      "D": "From muscles to muscles directly"
+    },
+    "correct_answer": "B",
+    "explanation": "Afferent fibres carry sensory impulses from periphery to the CNS."
+  },
+  {
+    "source_sentence": "The afferent nerve fibres transmit impulses from tissues/organs to the CNS and the efferent fibres transmit regulatory impulses from the CNS to the concerned peripheral tissues/organs.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Efferent nerve fibres transmit impulses:",
+    "options": {
+      "A": "From peripheral tissues to the CNS",
+      "B": "From the CNS to peripheral tissues/organs",
+      "C": "Only within the cerebellum",
+      "D": "From receptors to receptors"
+    },
+    "correct_answer": "B",
+    "explanation": "Efferent fibres carry regulatory motor impulses from the CNS to the periphery."
+  },
+  {
+    "source_sentence": "The somatic neural system relays impulses from the CNS to skeletal muscles while the autonomic neural system transmits impulses from the CNS to the involuntary organs and smooth muscles of the body.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The somatic neural system relays impulses from the CNS to:",
+    "options": {
+      "A": "Involuntary organs and smooth muscles",
+      "B": "Skeletal muscles",
+      "C": "Endocrine glands only",
+      "D": "The cerebral cortex only"
+    },
+    "correct_answer": "B",
+    "explanation": "The somatic system controls voluntary skeletal muscles."
+  },
+  {
+    "source_sentence": "The somatic neural system relays impulses from the CNS to skeletal muscles while the autonomic neural system transmits impulses from the CNS to the involuntary organs and smooth muscles of the body.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The autonomic neural system transmits impulses from the CNS to:",
+    "options": {
+      "A": "Skeletal muscles only",
+      "B": "Involuntary organs and smooth muscles",
+      "C": "Only the retina of the eye",
+      "D": "Bone marrow exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "The autonomic system innervates involuntary organs and smooth muscles."
+  },
+  {
+    "source_sentence": "The autonomic neural system is further classified into sympathetic neural system and parasympathetic neural system.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The autonomic neural system is subdivided into:",
+    "options": {
+      "A": "Afferent and efferent divisions",
+      "B": "Sympathetic and parasympathetic neural systems",
+      "C": "Cranial and spinal divisions only",
+      "D": "Forebrain and hindbrain divisions"
+    },
+    "correct_answer": "B",
+    "explanation": "The autonomic system has sympathetic and parasympathetic subdivisions."
+  },
+  {
+    "source_sentence": "Visceral nervous system is the part of the peripheral nervous system that comprises the whole complex of nerves, fibres, ganglia, and plexuses by which impulses travel from the central nervous system to the viscera and from the viscera to the central nervous system.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The visceral nervous system is:",
+    "options": {
+      "A": "Part of the CNS controlling the cerebrum",
+      "B": "Part of the PNS connecting CNS with viscera bidirectionally",
+      "C": "Limited to somatic control of skeletal muscles",
+      "D": "Found only in Hydra and lower invertebrates"
+    },
+    "correct_answer": "B",
+    "explanation": "The visceral nervous system is a PNS component linking CNS and internal organs."
+  },
+  {
+    "source_sentence": "A neuron is a microscopic structure composed of three major parts, namely, cell body, dendrites and axon.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "A neuron is composed of three major parts:",
+    "options": {
+      "A": "Nucleus, mitochondria and ribosomes",
+      "B": "Cell body, dendrites and axon",
+      "C": "Schwann cell, myelin and node of Ranvier only",
+      "D": "Synaptic cleft, vesicles and receptors only"
+    },
+    "correct_answer": "B",
+    "explanation": "The three main structural parts of a neuron are cell body, dendrites and axon."
+  },
+  {
+    "source_sentence": "The cell body contains cytoplasm with typical cell organelles and certain granular bodies called Nissl's granules.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Granular bodies present in the neuronal cell body are called:",
+    "options": {
+      "A": "Golgi bodies",
+      "B": "Nissl's granules",
+      "C": "Synaptic vesicles",
+      "D": "Nodes of Ranvier"
+    },
+    "correct_answer": "B",
+    "explanation": "Nissl's granules are characteristic granular bodies in the neuronal cell body."
+  },
+  {
+    "source_sentence": "These fibres transmit impulses towards the cell body.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Dendrites transmit nerve impulses:",
+    "options": {
+      "A": "Away from the cell body",
+      "B": "Towards the cell body",
+      "C": "Only across electrical synapses",
+      "D": "Only along myelinated axons"
+    },
+    "correct_answer": "B",
+    "explanation": "Dendrites carry impulses toward the neuronal cell body."
+  },
+  {
+    "source_sentence": "The axon is a long fibre, the distal end of which is branched.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The axon of a neuron is characterised by:",
+    "options": {
+      "A": "Short repeatedly branching fibres projecting from the cell body",
+      "B": "A long fibre with a branched distal end",
+      "C": "Absence of any branching at the terminal",
+      "D": "Presence of Nissl's granules along its entire length"
+    },
+    "correct_answer": "B",
+    "explanation": "The axon is a long fibre that branches at its distal end."
+  },
+  {
+    "source_sentence": "Each branch terminates as a bulb-like structure called synaptic knob which possess synaptic vesicles containing chemicals called neurotransmitters.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The bulb-like structure at the axon terminal containing neurotransmitters is called:",
+    "options": {
+      "A": "Node of Ranvier",
+      "B": "Synaptic knob",
+      "C": "Corpus callosum",
+      "D": "Nissl's granule"
+    },
+    "correct_answer": "B",
+    "explanation": "Axon branches end in synaptic knobs that store neurotransmitters in vesicles."
+  },
+  {
+    "source_sentence": "The axons transmit nerve impulses away from the cell body to a synapse or to a neuro-muscular junction.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Axons transmit nerve impulses:",
+    "options": {
+      "A": "Towards the cell body only",
+      "B": "Away from the cell body to a synapse or neuromuscular junction",
+      "C": "Only within the dendrites",
+      "D": "From post-synaptic to pre-synaptic neuron"
+    },
+    "correct_answer": "B",
+    "explanation": "Axons conduct impulses away from the cell body to synapses or neuromuscular junctions."
+  },
+  {
+    "source_sentence": "multipolar (with one axon and two or more dendrites; found in the cerebral cortex)",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Multipolar neurons are characterised by:",
+    "options": {
+      "A": "One axon and one dendrite; found in retina",
+      "B": "One axon and two or more dendrites; found in cerebral cortex",
+      "C": "Cell body with one axon only; found in embryonic stage",
+      "D": "No axon and multiple dendrites"
+    },
+    "correct_answer": "B",
+    "explanation": "Multipolar neurons have one axon and two or more dendrites and occur in the cerebral cortex."
+  },
+  {
+    "source_sentence": "bipolar (with one axon and one dendrite, found in the retina of eye)",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Bipolar neurons are found in:",
+    "options": {
+      "A": "Cerebral cortex",
+      "B": "Retina of the eye",
+      "C": "Embryonic stage only",
+      "D": "Spinal cord exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Bipolar neurons have one axon and one dendrite and are found in the retina."
+  },
+  {
+    "source_sentence": "unipolar (cell body with one axon only; found usually in the embryonic stage)",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Unipolar neurons are typically found:",
+    "options": {
+      "A": "In the cerebral cortex of adults",
+      "B": "In the retina of the eye",
+      "C": "Usually in the embryonic stage",
+      "D": "Only in the cerebellum"
+    },
+    "correct_answer": "C",
+    "explanation": "Unipolar neurons have a cell body with one axon and are usually seen in embryos."
+  },
+  {
+    "source_sentence": "The myelinated nerve fibres are enveloped with Schwann cells, which form a myelin sheath around the axon.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Myelinated nerve fibres are enveloped by:",
+    "options": {
+      "A": "Schwann cells forming a myelin sheath",
+      "B": "Pia mater forming a myelin sheath",
+      "C": "Neurosecretory cells of hypothalamus",
+      "D": "Nodes of Ranvier without Schwann cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Schwann cells wrap around axons to form the myelin sheath in myelinated fibres."
+  },
+  {
+    "source_sentence": "The gaps between two adjacent myelin sheaths are called nodes of Ranvier.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Gaps between adjacent myelin sheaths on an axon are called:",
+    "options": {
+      "A": "Synaptic clefts",
+      "B": "Nodes of Ranvier",
+      "C": "Nissl's granules",
+      "D": "Corpora quadrigemina"
+    },
+    "correct_answer": "B",
+    "explanation": "Nodes of Ranvier are the unmyelinated gaps between successive myelin segments."
+  },
+  {
+    "source_sentence": "Myelinated nerve fibres are found in spinal and cranial nerves.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Myelinated nerve fibres are commonly found in:",
+    "options": {
+      "A": "Spinal and cranial nerves",
+      "B": "Only autonomic ganglia of insects",
+      "C": "Dendrites of all neurons",
+      "D": "Synaptic cleft only"
+    },
+    "correct_answer": "A",
+    "explanation": "Spinal and cranial nerves contain myelinated nerve fibres."
+  },
+  {
+    "source_sentence": "Unmyelinated nerve fibre is enclosed by a Schwann cell that does not form a myelin sheath around the axon, and is commonly found in autonomous and the somatic neural systems.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Unmyelinated nerve fibres are commonly found in:",
+    "options": {
+      "A": "Spinal and cranial nerves only",
+      "B": "Autonomic and somatic neural systems",
+      "C": "Cerebral cortex grey matter only",
+      "D": "Corpus callosum exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Unmyelinated fibres, enclosed by Schwann cells without myelin, occur in autonomic and somatic systems."
+  },
+  {
+    "source_sentence": "Neurons are excitable cells because their membranes are in a polarised state.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Neurons are excitable cells because their membranes are:",
+    "options": {
+      "A": "Completely depolarised at rest",
+      "B": "In a polarised state",
+      "C": "Impermeable to all ions",
+      "D": "Devoid of ion channels"
+    },
+    "correct_answer": "B",
+    "explanation": "Polarisation of the neural membrane makes neurons excitable."
+  },
+  {
+    "source_sentence": "These ion channels are selectively permeable to different ions.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Ion channels on the neural membrane are:",
+    "options": {
+      "A": "Equally permeable to all substances",
+      "B": "Selectively permeable to different ions",
+      "C": "Permeable only to neurotransmitters",
+      "D": "Absent during impulse conduction"
+    },
+    "correct_answer": "B",
+    "explanation": "Neural membrane ion channels show selective permeability to specific ions."
+  },
+  {
+    "source_sentence": "When a neuron is not conducting any impulse, i.e., resting, the axonal membrane is comparatively more permeable to potassium ions (K⁺) and nearly impermeable to sodium ions (Na⁺).",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "In a resting neuron, the axonal membrane is:",
+    "options": {
+      "A": "More permeable to Na⁺ and impermeable to K⁺",
+      "B": "More permeable to K⁺ and nearly impermeable to Na⁺",
+      "C": "Equally permeable to Na⁺ and K⁺",
+      "D": "Impermeable to both Na⁺ and K⁺"
+    },
+    "correct_answer": "B",
+    "explanation": "At rest, the axonal membrane favours K⁺ permeability over Na⁺."
+  },
+  {
+    "source_sentence": "Similarly, the membrane is impermeable to negatively charged proteins present in the axoplasm.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "At rest, the axonal membrane is impermeable to:",
+    "options": {
+      "A": "Potassium ions",
+      "B": "Negatively charged proteins in the axoplasm",
+      "C": "Sodium ions only during depolarisation",
+      "D": "Neurotransmitters in synaptic vesicles"
+    },
+    "correct_answer": "B",
+    "explanation": "Negatively charged axoplasmic proteins cannot cross the resting membrane."
+  },
+  {
+    "source_sentence": "Consequently, the axoplasm inside the axon contains high concentration of K⁺ and negatively charged proteins and low concentration of Na⁺.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The axoplasm inside a resting axon contains:",
+    "options": {
+      "A": "High Na⁺ and low K⁺",
+      "B": "High K⁺ and negatively charged proteins, low Na⁺",
+      "C": "Equal Na⁺ and K⁺ concentrations",
+      "D": "High Na⁺ and no proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Resting axoplasm is rich in K⁺ and anionic proteins and poor in Na⁺."
+  },
+  {
+    "source_sentence": "In contrast, the fluid outside the axon contains a low concentration of K⁺, a high concentration of Na⁺ and thus form a concentration gradient.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Extracellular fluid surrounding a resting axon has:",
+    "options": {
+      "A": "High K⁺ and low Na⁺",
+      "B": "Low K⁺ and high Na⁺",
+      "C": "Equal ionic concentrations as axoplasm",
+      "D": "No sodium or potassium ions"
+    },
+    "correct_answer": "B",
+    "explanation": "The outside fluid is low in K⁺ and high in Na⁺, creating an ionic gradient."
+  },
+  {
+    "source_sentence": "These ionic gradients across the resting membrane are maintained by the active transport of ions by the sodium-potassium pump which transports 3 Na⁺ outwards for 2 K⁺ into the cell.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The sodium-potassium pump transports:",
+    "options": {
+      "A": "2 Na⁺ out and 3 K⁺ in",
+      "B": "3 Na⁺ out and 2 K⁺ in",
+      "C": "Equal Na⁺ and K⁺ in both directions",
+      "D": "Only K⁺ out of the cell"
+    },
+    "correct_answer": "B",
+    "explanation": "The Na⁺-K⁺ pump actively moves 3 Na⁺ out for every 2 K⁺ in."
+  },
+  {
+    "source_sentence": "As a result, the outer surface of the axonal membrane possesses a positive charge while its inner surface becomes negatively charged and, therefore is, polarised.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "In a polarised resting axonal membrane:",
+    "options": {
+      "A": "The outer surface is negative and inner surface positive",
+      "B": "The outer surface is positive and inner surface negative",
+      "C": "Both surfaces carry equal positive charges",
+      "D": "Both surfaces are electrically neutral"
+    },
+    "correct_answer": "B",
+    "explanation": "Resting polarisation gives the outer membrane surface a positive charge and the inner surface a negative charge."
+  },
+  {
+    "source_sentence": "The electrical potential difference across the resting plasma membrane is called as the resting potential.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The electrical potential difference across the resting neural membrane is called:",
+    "options": {
+      "A": "Action potential",
+      "B": "Resting potential",
+      "C": "Receptor potential",
+      "D": "Synaptic potential only"
+    },
+    "correct_answer": "B",
+    "explanation": "The resting potential is the voltage difference across a non-conducting neural membrane."
+  },
+  {
+    "source_sentence": "When a stimulus is applied at a site (Figure 18.2 e.g., point A) on the polarised membrane, the membrane at the site A becomes freely permeable to Na⁺.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "When a stimulus is applied to a polarised axonal membrane, the stimulated site becomes:",
+    "options": {
+      "A": "Impermeable to all ions",
+      "B": "Freely permeable to Na⁺",
+      "C": "Permeable only to negatively charged proteins",
+      "D": "Permeable only to neurotransmitters"
+    },
+    "correct_answer": "B",
+    "explanation": "Stimulation increases Na⁺ permeability at the site of excitation."
+  },
+  {
+    "source_sentence": "This leads to a rapid influx of Na⁺ followed by the reversal of the polarity at that site, i.e., the outer surface of the membrane becomes negatively charged and the inner side becomes positively charged.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Rapid Na⁺ influx during excitation causes:",
+    "options": {
+      "A": "Maintenance of resting polarity",
+      "B": "Reversal of polarity with negative outer and positive inner surface",
+      "C": "Permanent loss of all membrane potential",
+      "D": "Increased K⁺ influx before Na⁺ entry"
+    },
+    "correct_answer": "B",
+    "explanation": "Na⁺ influx reverses membrane polarity at the site of stimulation."
+  },
+  {
+    "source_sentence": "The polarity of the membrane at the site A is thus reversed and hence depolarised.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Reversal of membrane polarity at the site of stimulation is termed:",
+    "options": {
+      "A": "Repolarisation",
+      "B": "Depolarisation",
+      "C": "Hyperpolarisation only",
+      "D": "Synaptic inhibition"
+    },
+    "correct_answer": "B",
+    "explanation": "Polarity reversal at an excited site is called depolarisation."
+  },
+  {
+    "source_sentence": "The electrical potential difference across the plasma membrane at the site A is called the action potential, which is in fact termed as a nerve impulse.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "A nerve impulse is equivalent to:",
+    "options": {
+      "A": "Resting potential",
+      "B": "Action potential",
+      "C": "Gradual hyperpolarisation without depolarisation",
+      "D": "Binding of neurotransmitter to receptor"
+    },
+    "correct_answer": "B",
+    "explanation": "The action potential at an excited site constitutes the nerve impulse."
+  },
+  {
+    "source_sentence": "As a result, a current flows on the inner surface from site A to site B. On the outer surface current flows from site B to site A (Figure 18.2) to complete the circuit of current flow.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "During impulse conduction along an axon, local current flows:",
+    "options": {
+      "A": "On inner surface from depolarised to adjacent polarised region; on outer surface in opposite direction",
+      "B": "Only within the synaptic cleft",
+      "C": "Only through the myelin sheath",
+      "D": "From dendrites to cell body only"
+    },
+    "correct_answer": "A",
+    "explanation": "Inner current flows ahead from the depolarised site; outer current returns to complete the circuit."
+  },
+  {
+    "source_sentence": "Thus, the impulse (action potential) generated at site A arrives at site B. The sequence is repeated along the length of the axon and consequently the impulse is conducted.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Nerve impulse conduction along an axon occurs by:",
+    "options": {
+      "A": "A single depolarisation at the cell body only",
+      "B": "Repeated generation of action potentials along the axon length",
+      "C": "Diffusion of neurotransmitters through the axoplasm",
+      "D": "Passive flow of hormones in blood"
+    },
+    "correct_answer": "B",
+    "explanation": "Impulses propagate as successive action potentials generated along the axon."
+  },
+  {
+    "source_sentence": "The rise in the stimulus-induced permeability to Na⁺ is extremely short-lived.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Stimulus-induced increase in Na⁺ permeability of the axonal membrane is:",
+    "options": {
+      "A": "Permanent until the neuron dies",
+      "B": "Extremely short-lived",
+      "C": "Absent during action potential formation",
+      "D": "Longer than K⁺ permeability changes"
+    },
+    "correct_answer": "B",
+    "explanation": "Increased Na⁺ permeability during excitation lasts only briefly."
+  },
+  {
+    "source_sentence": "It is quickly followed by a rise in permeability to K⁺. Within a fraction of a second, K⁺ diffuses outside the membrane and restores the resting potential of the membrane at the site of excitation and the fibre becomes once more responsive to further stimulation.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Restoration of resting potential after excitation involves:",
+    "options": {
+      "A": "Continued Na⁺ influx",
+      "B": "Increased K⁺ permeability and K⁺ efflux",
+      "C": "Permanent closure of all ion channels",
+      "D": "Release of neurotransmitters into axoplasm"
+    },
+    "correct_answer": "B",
+    "explanation": "K⁺ efflux following increased K⁺ permeability repolarises the membrane to resting potential."
+  },
+  {
+    "source_sentence": "A nerve impulse is transmitted from one neuron to another through junctions called synapses.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Transmission of a nerve impulse from one neuron to another occurs through:",
+    "options": {
+      "A": "Nodes of Ranvier",
+      "B": "Synapses",
+      "C": "Corpus callosum only",
+      "D": "Cerebral aqueduct"
+    },
+    "correct_answer": "B",
+    "explanation": "Synapses are the junctions between neurons for impulse transmission."
+  },
+  {
+    "source_sentence": "A synapse is formed by the membranes of a pre-synaptic neuron and a post-synaptic neuron, which may or may not be separated by a gap called synaptic cleft.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "A synapse is formed by:",
+    "options": {
+      "A": "Two post-synaptic neurons only",
+      "B": "Pre-synaptic and post-synaptic neuronal membranes, optionally separated by synaptic cleft",
+      "C": "Myelin sheaths of adjacent axons",
+      "D": "Dendrites of the same neuron fused together"
+    },
+    "correct_answer": "B",
+    "explanation": "Synapses involve pre- and post-synaptic membranes with or without a synaptic cleft."
+  },
+  {
+    "source_sentence": "There are two types of synapses, namely, electrical synapses and chemical synapses.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The two types of synapses are:",
+    "options": {
+      "A": "Excitatory and inhibitory only",
+      "B": "Electrical and chemical synapses",
+      "C": "Afferent and efferent synapses",
+      "D": "Myelinated and non-myelinated synapses"
+    },
+    "correct_answer": "B",
+    "explanation": "Synapses are classified as electrical or chemical based on transmission mechanism."
+  },
+  {
+    "source_sentence": "At electrical synapses, the membranes of pre- and post-synaptic neurons are in very close proximity. Electrical current can flow directly from one neuron into the other across these synapses.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "At electrical synapses, impulse transmission occurs by:",
+    "options": {
+      "A": "Release and diffusion of neurotransmitters",
+      "B": "Direct flow of electrical current between closely apposed membranes",
+      "C": "Hormonal signalling through blood",
+      "D": "Active transport of Na⁺ across synaptic cleft"
+    },
+    "correct_answer": "B",
+    "explanation": "Electrical synapses allow direct current flow between adjacent neurons."
+  },
+  {
+    "source_sentence": "Impulse transmission across an electrical synapse is always faster than that across a chemical synapse.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Compared to chemical synapses, electrical synapses transmit impulses:",
+    "options": {
+      "A": "More slowly",
+      "B": "Always faster",
+      "C": "At the same speed",
+      "D": "Only in one direction via hormones"
+    },
+    "correct_answer": "B",
+    "explanation": "Direct electrical coupling makes transmission at electrical synapses faster."
+  },
+  {
+    "source_sentence": "Electrical synapses are rare in our system.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Electrical synapses in the human neural system are:",
+    "options": {
+      "A": "The most common type",
+      "B": "Rare",
+      "C": "Found only in the cerebellum",
+      "D": "Absent in all vertebrates"
+    },
+    "correct_answer": "B",
+    "explanation": "Electrical synapses occur infrequently in the human nervous system."
+  },
+  {
+    "source_sentence": "At a chemical synapse, the membranes of the pre- and post-synaptic neurons are separated by a fluid-filled space called synaptic cleft.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "At a chemical synapse, pre- and post-synaptic membranes are separated by:",
+    "options": {
+      "A": "A myelin sheath",
+      "B": "A fluid-filled synaptic cleft",
+      "C": "Direct membrane fusion without any gap",
+      "D": "The corpus callosum"
+    },
+    "correct_answer": "B",
+    "explanation": "Chemical synapses have a fluid-filled synaptic cleft between neuronal membranes."
+  },
+  {
+    "source_sentence": "Chemicals called neurotransmitters are involved in the transmission of impulses at these synapses.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Chemicals involved in transmission at chemical synapses are called:",
+    "options": {
+      "A": "Hormones",
+      "B": "Neurotransmitters",
+      "C": "Enzymes of gastric secretion",
+      "D": "Nissl's granules"
+    },
+    "correct_answer": "B",
+    "explanation": "Neurotransmitters mediate chemical synaptic transmission."
+  },
+  {
+    "source_sentence": "When an impulse (action potential) arrives at the axon terminal, it stimulates the movement of the synaptic vesicles towards the membrane where they fuse with the plasma membrane and release their neurotransmitters in the synaptic cleft.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Arrival of an action potential at the axon terminal causes:",
+    "options": {
+      "A": "Immediate closure of all ion channels permanently",
+      "B": "Synaptic vesicles to move, fuse with membrane and release neurotransmitters",
+      "C": "Direct electrical current flow without vesicle movement",
+      "D": "Breakdown of the myelin sheath"
+    },
+    "correct_answer": "B",
+    "explanation": "Action potentials trigger vesicle fusion and neurotransmitter release into the cleft."
+  },
+  {
+    "source_sentence": "The released neurotransmitters bind to their specific receptors, present on the post-synaptic membrane.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Released neurotransmitters in a chemical synapse bind to:",
+    "options": {
+      "A": "Receptors on the pre-synaptic membrane only",
+      "B": "Specific receptors on the post-synaptic membrane",
+      "C": "Myelin sheath of the axon",
+      "D": "Nissl's granules in dendrites"
+    },
+    "correct_answer": "B",
+    "explanation": "Neurotransmitters act on specific receptors located on the post-synaptic membrane."
+  },
+  {
+    "source_sentence": "This binding opens ion channels allowing the entry of ions which can generate a new potential in the post-synaptic neuron. The new potential developed may be either excitatory or inhibitory.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Binding of neurotransmitters to post-synaptic receptors can generate:",
+    "options": {
+      "A": "Only excitatory potentials",
+      "B": "Either excitatory or inhibitory potentials",
+      "C": "Only permanent depolarisation",
+      "D": "Hormones that enter the bloodstream"
+    },
+    "correct_answer": "B",
+    "explanation": "Post-synaptic receptor activation may produce excitatory or inhibitory potentials."
+  },
+  {
+    "source_sentence": "The brain is the central information processing organ of our body, and acts as the 'command and control system'.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The brain functions as:",
+    "options": {
+      "A": "Only a storage organ for neurotransmitters",
+      "B": "The central information processing organ and command and control system",
+      "C": "A passive protective structure inside the skull",
+      "D": "An endocrine gland secreting thyroid hormones"
+    },
+    "correct_answer": "B",
+    "explanation": "The brain processes information and acts as the body's command and control centre."
+  },
+  {
+    "source_sentence": "It controls the voluntary movements, balance of the body, functioning of vital involuntary organs (e.g., lungs, heart, kidneys, etc.), thermoregulation, hunger and thirst, circadian (24-hour) rhythms of our body, activities of several endocrine glands and human behaviour.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Which of the following is NOT controlled by the brain according to NCERT?",
+    "options": {
+      "A": "Voluntary movements and body balance",
+      "B": "Thermoregulation, hunger and thirst",
+      "C": "Circadian rhythms and endocrine gland activities",
+      "D": "Independent synthesis of all blood proteins without neural input"
+    },
+    "correct_answer": "D",
+    "explanation": "The brain controls movement, balance, involuntary organs, thermoregulation, hunger, thirst, rhythms, endocrine activity and behaviour."
+  },
+  {
+    "source_sentence": "It is also the site for processing of vision, hearing, speech, memory, intelligence, emotions and thoughts.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Sensory and cognitive processing in the brain includes:",
+    "options": {
+      "A": "Only motor coordination",
+      "B": "Vision, hearing, speech, memory, intelligence, emotions and thoughts",
+      "C": "Only gastric secretions",
+      "D": "Only reflex control of respiration"
+    },
+    "correct_answer": "B",
+    "explanation": "The brain processes sensory inputs and higher functions like speech, memory and emotions."
+  },
+  {
+    "source_sentence": "The human brain is well protected by the skull. Inside the skull, the brain is covered by cranial meninges consisting of an outer layer called dura mater, a very thin middle layer called arachnoid and an inner layer (which is in contact with the brain tissue) called pia mater.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The cranial meninges from outer to inner consist of:",
+    "options": {
+      "A": "Pia mater, arachnoid, dura mater",
+      "B": "Dura mater, arachnoid, pia mater",
+      "C": "Arachnoid, dura mater, pia mater",
+      "D": "Dura mater, pia mater, arachnoid"
+    },
+    "correct_answer": "B",
+    "explanation": "Cranial meninges are dura mater (outer), arachnoid (middle) and pia mater (inner)."
+  },
+  {
+    "source_sentence": "The brain can be divided into three major parts: (i) forebrain, (ii) midbrain, and (iii) hindbrain (Figure 18.4).",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The three major parts of the human brain are:",
+    "options": {
+      "A": "Cerebrum, cerebellum and medulla only",
+      "B": "Forebrain, midbrain and hindbrain",
+      "C": "Thalamus, hypothalamus and pons only",
+      "D": "Grey matter, white matter and meninges"
+    },
+    "correct_answer": "B",
+    "explanation": "The brain is divided into forebrain, midbrain and hindbrain."
+  },
+  {
+    "source_sentence": "The forebrain consists of cerebrum, thalamus and hypothalamus (Figure 18.4).",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The forebrain consists of:",
+    "options": {
+      "A": "Pons, cerebellum and medulla",
+      "B": "Cerebrum, thalamus and hypothalamus",
+      "C": "Corpus callosum and spinal cord only",
+      "D": "Midbrain and hindbrain"
+    },
+    "correct_answer": "B",
+    "explanation": "Forebrain components are cerebrum, thalamus and hypothalamus."
+  },
+  {
+    "source_sentence": "Cerebrum forms the major part of the human brain.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Which part forms the major portion of the human brain?",
+    "options": {
+      "A": "Medulla oblongata",
+      "B": "Cerebrum",
+      "C": "Pons",
+      "D": "Corpus callosum alone"
+    },
+    "correct_answer": "B",
+    "explanation": "The cerebrum constitutes the largest part of the human brain."
+  },
+  {
+    "source_sentence": "A deep cleft divides the cerebrum longitudinally into two halves, which are termed as the left and right cerebral hemispheres.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The cerebrum is divided longitudinally into:",
+    "options": {
+      "A": "Anterior and posterior lobes only",
+      "B": "Left and right cerebral hemispheres",
+      "C": "Dorsal and ventral ganglia",
+      "D": "Grey and white meninges"
+    },
+    "correct_answer": "B",
+    "explanation": "A deep cleft separates the cerebrum into left and right cerebral hemispheres."
+  },
+  {
+    "source_sentence": "The hemispheres are connected by a tract of nerve fibres called corpus callosum.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The left and right cerebral hemispheres are connected by:",
+    "options": {
+      "A": "Corpus callosum",
+      "B": "Cerebral aqueduct",
+      "C": "Synaptic cleft",
+      "D": "Nodes of Ranvier"
+    },
+    "correct_answer": "A",
+    "explanation": "Corpus callosum is the tract of nerve fibres connecting the cerebral hemispheres."
+  },
+  {
+    "source_sentence": "The layer of cells which covers the cerebral hemisphere is called cerebral cortex and is thrown into prominent folds.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The layer of cells covering the cerebral hemisphere with prominent folds is:",
+    "options": {
+      "A": "White matter",
+      "B": "Cerebral cortex",
+      "C": "Pia mater",
+      "D": "Corpus callosum"
+    },
+    "correct_answer": "B",
+    "explanation": "The folded cell layer covering cerebral hemispheres is the cerebral cortex."
+  },
+  {
+    "source_sentence": "The cerebral cortex is referred to as the grey matter due to its greyish appearance. The neuron cell bodies are concentrated here giving the colour.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The cerebral cortex appears grey because:",
+    "options": {
+      "A": "It contains myelinated nerve fibres only",
+      "B": "Neuron cell bodies are concentrated there",
+      "C": "It lacks any neurons",
+      "D": "It is covered only by dura mater"
+    },
+    "correct_answer": "B",
+    "explanation": "Concentration of neuronal cell bodies gives the cortex its grey appearance."
+  },
+  {
+    "source_sentence": "The cerebral cortex contains motor areas, sensory areas and large regions that are neither clearly sensory nor motor in function.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The cerebral cortex contains:",
+    "options": {
+      "A": "Only motor areas",
+      "B": "Motor areas, sensory areas and association areas",
+      "C": "Only white matter tracts",
+      "D": "Only hypothalamic neurosecretory cells"
+    },
+    "correct_answer": "B",
+    "explanation": "The cortex has motor, sensory and association regions."
+  },
+  {
+    "source_sentence": "These regions called as the association areas are responsible for complex functions like intersensory associations, memory and communication.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Association areas of the cerebral cortex are responsible for:",
+    "options": {
+      "A": "Only basic reflexes of the spinal cord",
+      "B": "Intersensory associations, memory and communication",
+      "C": "Secretion of hypothalamic hormones only",
+      "D": "Formation of myelin sheath"
+    },
+    "correct_answer": "B",
+    "explanation": "Association areas integrate senses and support memory and communication."
+  },
+  {
+    "source_sentence": "Fibres of the tracts are covered with the myelin sheath, which constitute the inner part of cerebral hemisphere. They give an opaque white appearance to the layer and, hence, is called the white matter.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "White matter of the cerebral hemisphere consists of:",
+    "options": {
+      "A": "Unmyelinated dendrites only",
+      "B": "Myelinated nerve fibres forming tracts",
+      "C": "Neuronal cell bodies without fibres",
+      "D": "Synaptic vesicles and clefts"
+    },
+    "correct_answer": "B",
+    "explanation": "Myelinated tract fibres in the inner cerebrum constitute white matter."
+  },
+  {
+    "source_sentence": "The cerebrum wraps around a structure called thalamus, which is a major coordinating centre for sensory and motor signaling.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The thalamus functions as:",
+    "options": {
+      "A": "A centre controlling only gastric secretions",
+      "B": "A major coordinating centre for sensory and motor signalling",
+      "C": "The site of myelin synthesis in Schwann cells",
+      "D": "A structure connecting only the two cerebral hemispheres"
+    },
+    "correct_answer": "B",
+    "explanation": "The thalamus coordinates sensory and motor signals as the cerebrum wraps around it."
+  },
+  {
+    "source_sentence": "Another very important part of the brain called hypothalamus lies at the base of the thalamus.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The hypothalamus is located:",
+    "options": {
+      "A": "At the base of the thalamus",
+      "B": "Inside the cerebellum",
+      "C": "Within the spinal cord",
+      "D": "On the outer surface of dura mater"
+    },
+    "correct_answer": "A",
+    "explanation": "The hypothalamus lies at the base of the thalamus."
+  },
+  {
+    "source_sentence": "The hypothalamus contains a number of centres which control body temperature, urge for eating and drinking.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The hypothalamus controls:",
+    "options": {
+      "A": "Only voluntary skeletal muscle contraction",
+      "B": "Body temperature and urges for eating and drinking",
+      "C": "Only visual reception in the retina",
+      "D": "Myelination of cranial nerves only"
+    },
+    "correct_answer": "B",
+    "explanation": "Hypothalamic centres regulate temperature, hunger and thirst."
+  },
+  {
+    "source_sentence": "It also contains several groups of neurosecretory cells, which secrete hormones called hypothalamic hormones.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Neurosecretory cells of the hypothalamus secrete:",
+    "options": {
+      "A": "Neurotransmitters into synaptic cleft only",
+      "B": "Hypothalamic hormones",
+      "C": "Digestive enzymes into the stomach",
+      "D": "Myelin proteins for axons"
+    },
+    "correct_answer": "B",
+    "explanation": "Hypothalamic neurosecretory cells release hypothalamic hormones."
+  },
+  {
+    "source_sentence": "The inner parts of cerebral hemispheres and a group of associated deep structures like amygdala, hippocampus, etc., form a complex structure called the limbic lobe or limbic system.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The limbic system includes deep structures such as:",
+    "options": {
+      "A": "Amygdala and hippocampus",
+      "B": "Nodes of Ranvier and Schwann cells",
+      "C": "Dura mater and arachnoid",
+      "D": "Pons and medulla only"
+    },
+    "correct_answer": "A",
+    "explanation": "Amygdala and hippocampus are among deep structures forming the limbic system."
+  },
+  {
+    "source_sentence": "Along with the hypothalamus, it is involved in the regulation of sexual behaviour, expression of emotional reactions (e.g., excitement, pleasure, rage and fear), and motivation.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The limbic system along with hypothalamus is involved in:",
+    "options": {
+      "A": "Only respiration and cardiovascular reflexes",
+      "B": "Sexual behaviour, emotional reactions and motivation",
+      "C": "Myelination of peripheral nerves only",
+      "D": "Synthesis of Nissl's granules"
+    },
+    "correct_answer": "B",
+    "explanation": "Limbic system and hypothalamus regulate sexuality, emotions and motivation."
+  },
+  {
+    "source_sentence": "The midbrain is located between the thalamus/hypothalamus of the forebrain and pons of the hindbrain.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The midbrain is located between:",
+    "options": {
+      "A": "Cerebrum and cerebellum only",
+      "B": "Thalamus/hypothalamus of forebrain and pons of hindbrain",
+      "C": "Spinal cord and medulla only",
+      "D": "Dura mater and pia mater"
+    },
+    "correct_answer": "B",
+    "explanation": "The midbrain lies between forebrain (thalamus/hypothalamus) and hindbrain (pons)."
+  },
+  {
+    "source_sentence": "A canal called the cerebral aqueduct passes through the midbrain.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The canal passing through the midbrain is:",
+    "options": {
+      "A": "Synaptic cleft",
+      "B": "Cerebral aqueduct",
+      "C": "Corpus callosum",
+      "D": "Spinal canal only"
+    },
+    "correct_answer": "B",
+    "explanation": "The cerebral aqueduct traverses the midbrain."
+  },
+  {
+    "source_sentence": "The dorsal portion of the midbrain consists mainly of four round swellings (lobes) called corpora quadrigemina.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Four round swellings on the dorsal midbrain are called:",
+    "options": {
+      "A": "Nissl's granules",
+      "B": "Corpora quadrigemina",
+      "C": "Nodes of Ranvier",
+      "D": "Synaptic knobs"
+    },
+    "correct_answer": "B",
+    "explanation": "Corpora quadrigemina are four dorsal midbrain swellings."
+  },
+  {
+    "source_sentence": "The hindbrain comprises pons, cerebellum and medulla (also called the medulla oblongata).",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The hindbrain comprises:",
+    "options": {
+      "A": "Cerebrum, thalamus and hypothalamus",
+      "B": "Pons, cerebellum and medulla oblongata",
+      "C": "Corpus callosum and cerebral aqueduct only",
+      "D": "Amygdala and hippocampus only"
+    },
+    "correct_answer": "B",
+    "explanation": "Hindbrain parts are pons, cerebellum and medulla oblongata."
+  },
+  {
+    "source_sentence": "Pons consists of fibre tracts that interconnect different regions of the brain.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The pons primarily consists of:",
+    "options": {
+      "A": "Neuronal cell bodies forming grey matter cortex",
+      "B": "Fibre tracts interconnecting different brain regions",
+      "C": "Synaptic vesicles and neurotransmitters only",
+      "D": "Schwann cells forming myelin in peripheral nerves"
+    },
+    "correct_answer": "B",
+    "explanation": "Pons contains fibre tracts linking various brain areas."
+  },
+  {
+    "source_sentence": "Cerebellum has very convoluted surface in order to provide the additional space for many more neurons.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The cerebellum has a highly convoluted surface to:",
+    "options": {
+      "A": "Reduce the total number of neurons",
+      "B": "Provide additional space for more neurons",
+      "C": "Prevent any sensory input from reaching the brain",
+      "D": "Store cerebrospinal fluid exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Cerebellar convolutions increase surface area for accommodating more neurons."
+  },
+  {
+    "source_sentence": "The medulla of the brain is connected to the spinal cord.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The medulla oblongata is connected to:",
+    "options": {
+      "A": "The retina of the eye",
+      "B": "The spinal cord",
+      "C": "The corpus callosum only",
+      "D": "Peripheral Schwann cells directly"
+    },
+    "correct_answer": "B",
+    "explanation": "The medulla connects the brain to the spinal cord."
+  },
+  {
+    "source_sentence": "The medulla contains centres which control respiration, cardiovascular reflexes and gastric secretions.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Centres in the medulla oblongata control:",
+    "options": {
+      "A": "Only vision and hearing",
+      "B": "Respiration, cardiovascular reflexes and gastric secretions",
+      "C": "Only voluntary skeletal muscle movement",
+      "D": "Only hormone synthesis in thyroid"
+    },
+    "correct_answer": "B",
+    "explanation": "Medullary centres regulate breathing, cardiovascular reflexes and gastric secretion."
+  },
+  {
+    "source_sentence": "Three major regions make up the brain stem; mid brain, pons and medulla oblongata. Brain stem forms the connections between the brain and spinal cord.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The brain stem is composed of:",
+    "options": {
+      "A": "Cerebrum, thalamus and hypothalamus",
+      "B": "Midbrain, pons and medulla oblongata",
+      "C": "Corpus callosum and cerebral cortex",
+      "D": "Amygdala, hippocampus and cerebellum"
+    },
+    "correct_answer": "B",
+    "explanation": "Brain stem includes midbrain, pons and medulla and links brain with spinal cord."
+  },
+  {
+    "source_sentence": "The neural system coordinates and integrates functions as well as metabolic and homeostatic activities of all the organs.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The neural system coordinates and integrates:",
+    "options": {
+      "A": "Only skeletal muscle movement",
+      "B": "Organ functions and metabolic and homeostatic activities",
+      "C": "Only hormone secretion from gonads",
+      "D": "Only digestion in the gastrointestinal tract"
+    },
+    "correct_answer": "B",
+    "explanation": "The neural system integrates organ functions and maintains metabolic and homeostatic balance."
+  },
+  {
+    "source_sentence": "The nerve impulse is conducted along the axon membrane in the form of a wave of depolarisation and repolarisation.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Nerve impulse conduction along the axon occurs as:",
+    "options": {
+      "A": "A continuous hormone wave in blood",
+      "B": "A wave of depolarisation and repolarisation",
+      "C": "Permanent depolarisation without repolarisation",
+      "D": "Diffusion of proteins through myelin only"
+    },
+    "correct_answer": "B",
+    "explanation": "Impulses propagate as sequential depolarisation and repolarisation along the axon."
+  },
+  {
+    "source_sentence": "Inner parts of cerebral hemispheres and a group of associated deep structures form a complex structure called limbic system which is concerned with olfaction, autonomic responses, regulation of sexual behaviour, expression of emotional reactions, and motivation.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The limbic system is concerned with:",
+    "options": {
+      "A": "Only myelination of peripheral nerves",
+      "B": "Olfaction, autonomic responses, sexual behaviour, emotions and motivation",
+      "C": "Only sodium-potassium pump activity",
+      "D": "Only formation of synaptic vesicles"
+    },
+    "correct_answer": "B",
+    "explanation": "Limbic system roles include smell, autonomic responses, sexuality, emotions and motivation."
+  },
+  {
+    "source_sentence": "The midbrain receives and integrates visual, tactile and auditory inputs.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The midbrain receives and integrates:",
+    "options": {
+      "A": "Only olfactory inputs",
+      "B": "Visual, tactile and auditory inputs",
+      "C": "Only gustatory inputs from tongue",
+      "D": "Only proprioceptive input from cerebellum"
+    },
+    "correct_answer": "B",
+    "explanation": "Midbrain integrates visual, tactile (touch) and auditory sensory inputs."
+  },
+  {
+    "source_sentence": "The cerebellum integrates information received from the semicircular canals of the ear and the auditory system.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "The cerebellum integrates sensory information from:",
+    "options": {
+      "A": "Retina and olfactory epithelium only",
+      "B": "Semicircular canals of the ear and the auditory system",
+      "C": "Skin tactile receptors only",
+      "D": "Taste buds on the tongue exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Cerebellum processes input from vestibular (semicircular canal) and auditory systems for balance and coordination."
+  },
+  {
+    "source_sentence": "contain Nissl's granules and are called dendrites.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Dendrites of a neuron characteristically contain:",
+    "options": {
+      "A": "Synaptic vesicles with neurotransmitters",
+      "B": "Nissl's granules",
+      "C": "Myelin sheath formed by Schwann cells",
+      "D": "Only nodes of Ranvier"
+    },
+    "correct_answer": "B",
+    "explanation": "Like the cell body, dendrites contain Nissl's granules."
+  },
+  {
+    "source_sentence": "Transmission of an impulse across electrical synapses is very similar to impulse conduction along a single axon.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Impulse transmission across electrical synapses is similar to:",
+    "options": {
+      "A": "Hormone action on nuclear receptors",
+      "B": "Impulse conduction along a single axon",
+      "C": "Release of neurotransmitters into synaptic cleft",
+      "D": "Active transport by sodium-potassium pump"
+    },
+    "correct_answer": "B",
+    "explanation": "Electrical synapses transmit impulses similarly to conduction along a continuous axon."
+  },
+  {
+    "source_sentence": "The CNS consists of the brain and spiral cord.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "According to the NCERT summary, the CNS consists of:",
+    "options": {
+      "A": "Brain and spinal cord",
+      "B": "Only peripheral nerves",
+      "C": "Only autonomic ganglia",
+      "D": "Brain and cranial meninges only"
+    },
+    "correct_answer": "A",
+    "explanation": "The CNS comprises the brain and spinal cord."
+  },
+  {
+    "source_sentence": "A very important part of the forebrain called hypothalamus controls the body temperature, eating and drinking.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Which forebrain structure controls body temperature, eating and drinking?",
+    "options": {
+      "A": "Thalamus",
+      "B": "Hypothalamus",
+      "C": "Cerebellum",
+      "D": "Pons"
+    },
+    "correct_answer": "B",
+    "explanation": "The hypothalamus regulates temperature, hunger and thirst."
+  },
+  {
+    "source_sentence": "Neurons, the functional units of neural system are excitable cells due to a differential concentration gradient of ions across the membrane.",
+    "chapter": "Chapter 18: Neural Control and Coordination",
+    "question": "Neurons are excitable chiefly because of:",
+    "options": {
+      "A": "Absence of any ions in axoplasm",
+      "B": "A differential concentration gradient of ions across the membrane",
+      "C": "Permanent depolarisation of the dendrites",
+      "D": "Continuous release of hypothalamic hormones"
+    },
+    "correct_answer": "B",
+    "explanation": "Ion concentration differences across the neural membrane make neurons excitable."
+  }
+]

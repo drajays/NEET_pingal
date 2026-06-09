@@ -1,0 +1,1198 @@
+[
+  {
+    "source_sentence": "All organisms, even the largest, start their life from a single cell.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "All organisms, even the largest, start their life from:",
+    "options": {
+      "A": "A tissue",
+      "B": "A single cell",
+      "C": "An organ",
+      "D": "A zygote only in animals"
+    },
+    "correct_answer": "B",
+    "explanation": "Every organism begins life from a single cell that grows and divides."
+  },
+  {
+    "source_sentence": "Growth and reproduction are characteristics of cells, indeed of all living organisms.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Which characteristics are shared by cells and all living organisms?",
+    "options": {
+      "A": "Growth and reproduction",
+      "B": "Photosynthesis and respiration",
+      "C": "Locomotion and digestion",
+      "D": "Hibernation and migration"
+    },
+    "correct_answer": "A",
+    "explanation": "Growth and reproduction are fundamental characteristics of cells and all living organisms."
+  },
+  {
+    "source_sentence": "All cells reproduce by dividing into two, with each parental cell giving rise to two daughter cells each time they divide.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "How many daughter cells does each parental cell produce during one division?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correct_answer": "B",
+    "explanation": "Each cell division produces two daughter cells from one parental cell."
+  },
+  {
+    "source_sentence": "During the division of a cell, DNA replication and cell growth also take place.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Besides cell division, which processes occur during the cell cycle?",
+    "options": {
+      "A": "DNA replication and cell growth",
+      "B": "Only protein degradation",
+      "C": "Only respiration",
+      "D": "Only photosynthesis"
+    },
+    "correct_answer": "A",
+    "explanation": "Cell division is coordinated with DNA replication and cell growth."
+  },
+  {
+    "source_sentence": "The sequence of events by which a cell duplicates its genome, synthesises the other constituents of the cell and eventually divides into two daughter cells is termed cell cycle.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The cell cycle is defined as the sequence of events by which a cell:",
+    "options": {
+      "A": "Only grows in size",
+      "B": "Duplicates its genome, synthesises cell constituents, and divides into two daughter cells",
+      "C": "Forms gametes only",
+      "D": "Undergoes only DNA replication"
+    },
+    "correct_answer": "B",
+    "explanation": "The cell cycle includes genome duplication, synthesis of cellular components, and division."
+  },
+  {
+    "source_sentence": "Although cell growth (in terms of cytoplasmic increase) is a continuous process, DNA synthesis occurs only during one specific stage in the cell cycle.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "When does DNA synthesis occur in the cell cycle?",
+    "options": {
+      "A": "Continuously throughout the cycle",
+      "B": "Only during one specific stage",
+      "C": "Only during M phase",
+      "D": "Only during G0 phase"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA synthesis is restricted to a single specific stage, unlike continuous cytoplasmic growth."
+  },
+  {
+    "source_sentence": "These events are themselves under genetic control.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The events of the cell cycle are controlled by:",
+    "options": {
+      "A": "Environmental temperature alone",
+      "B": "Genetic control",
+      "C": "Random chance",
+      "D": "Light intensity only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cell cycle events including division and DNA distribution are under genetic control."
+  },
+  {
+    "source_sentence": "These cells divide once in approximately every 24 hours.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "What is the approximate duration of the cell cycle in human cells in culture?",
+    "options": {
+      "A": "90 minutes",
+      "B": "12 hours",
+      "C": "24 hours",
+      "D": "48 hours"
+    },
+    "correct_answer": "C",
+    "explanation": "Human cells in culture typically complete one cell cycle in about 24 hours."
+  },
+  {
+    "source_sentence": "However, this duration of cell cycle can vary from organism to organism and also from cell type to cell type.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The duration of the cell cycle varies with:",
+    "options": {
+      "A": "Organism and cell type",
+      "B": "Only the season",
+      "C": "Only the pH of medium",
+      "D": "Only the age of the scientist"
+    },
+    "correct_answer": "A",
+    "explanation": "Cell cycle length differs among organisms and among different cell types."
+  },
+  {
+    "source_sentence": "Yeast for example, can progress through the cell cycle in only about 90 minutes.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "How long does the cell cycle take in yeast?",
+    "options": {
+      "A": "About 90 minutes",
+      "B": "About 24 hours",
+      "C": "About 7 days",
+      "D": "About 30 seconds"
+    },
+    "correct_answer": "A",
+    "explanation": "Yeast completes its cell cycle in approximately 90 minutes."
+  },
+  {
+    "source_sentence": "The cell cycle is divided into two basic phases: Interphase and M Phase (Mitosis phase).",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The two basic phases of the cell cycle are:",
+    "options": {
+      "A": "G1 and G2",
+      "B": "Interphase and M phase",
+      "C": "Prophase and telophase",
+      "D": "Meiosis I and meiosis II"
+    },
+    "correct_answer": "B",
+    "explanation": "The cell cycle consists of interphase and M (mitosis) phase."
+  },
+  {
+    "source_sentence": "The M Phase represents the phase when the actual cell division or mitosis occurs and the interphase represents the phase between two successive M phases.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Interphase represents:",
+    "options": {
+      "A": "The phase of actual mitosis",
+      "B": "The phase between two successive M phases",
+      "C": "The phase of meiosis only",
+      "D": "The permanent resting state of all cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Interphase is the interval between two consecutive M phases."
+  },
+  {
+    "source_sentence": "In the 24 hour average duration of cell cycle of a human cell, cell division proper lasts for only about an hour.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In a typical 24-hour human cell cycle, how long does cell division (M phase) last?",
+    "options": {
+      "A": "About 1 hour",
+      "B": "About 12 hours",
+      "C": "About 23 hours",
+      "D": "About 24 hours"
+    },
+    "correct_answer": "A",
+    "explanation": "Actual cell division in human cells lasts only about one hour of the 24-hour cycle."
+  },
+  {
+    "source_sentence": "The interphase lasts more than 95% of the duration of cell cycle.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Approximately what fraction of the cell cycle is occupied by interphase?",
+    "options": {
+      "A": "Less than 5%",
+      "B": "About 50%",
+      "C": "More than 95%",
+      "D": "Exactly 75%"
+    },
+    "correct_answer": "C",
+    "explanation": "Interphase accounts for more than 95% of the total cell cycle duration."
+  },
+  {
+    "source_sentence": "The M Phase starts with the nuclear division, corresponding to the separation of daughter chromosomes (karyokinesis) and usually ends with division of cytoplasm (cytokinesis).",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "M phase begins with karyokinesis and usually ends with:",
+    "options": {
+      "A": "DNA replication",
+      "B": "Cytokinesis",
+      "C": "Crossing over",
+      "D": "Synapsis"
+    },
+    "correct_answer": "B",
+    "explanation": "M phase starts with nuclear division (karyokinesis) and typically ends with cytoplasmic division (cytokinesis)."
+  },
+  {
+    "source_sentence": "The interphase, though called the resting phase, is the time during which the cell is preparing for division by undergoing both cell growth and DNA replication in an orderly manner.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Interphase is best described as a period when the cell:",
+    "options": {
+      "A": "Is completely inactive",
+      "B": "Prepares for division through growth and DNA replication",
+      "C": "Undergoes only cytokinesis",
+      "D": "Loses all metabolic activity"
+    },
+    "correct_answer": "B",
+    "explanation": "Despite being called resting phase, interphase involves active preparation including growth and DNA replication."
+  },
+  {
+    "source_sentence": "The interphase is divided into three further phases: G1 phase (Gap 1), S phase (Synthesis), G2 phase (Gap 2).",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The three sub-phases of interphase are:",
+    "options": {
+      "A": "Prophase, metaphase, anaphase",
+      "B": "G1, S, and G2",
+      "C": "Leptotene, zygotene, pachytene",
+      "D": "Karyokinesis, cytokinesis, synapsis"
+    },
+    "correct_answer": "B",
+    "explanation": "Interphase is subdivided into G1, S (synthesis), and G2 phases."
+  },
+  {
+    "source_sentence": "G1 phase corresponds to the interval between mitosis and initiation of DNA replication.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "G1 phase corresponds to the interval between:",
+    "options": {
+      "A": "S phase and G2 phase",
+      "B": "Mitosis and initiation of DNA replication",
+      "C": "Meiosis I and meiosis II",
+      "D": "Prophase and metaphase"
+    },
+    "correct_answer": "B",
+    "explanation": "G1 is the gap between the end of mitosis and the start of DNA replication."
+  },
+  {
+    "source_sentence": "During G1 phase, the cell is metabolically active and continuously grows but does not replicate its DNA.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During G1 phase, the cell:",
+    "options": {
+      "A": "Replicates DNA actively",
+      "B": "Is metabolically active and grows but does not replicate DNA",
+      "C": "Undergoes cytokinesis",
+      "D": "Forms bivalents"
+    },
+    "correct_answer": "B",
+    "explanation": "G1 cells are metabolically active and grow without replicating DNA."
+  },
+  {
+    "source_sentence": "S or synthesis phase marks the period during which DNA synthesis or replication takes place.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During which phase does DNA synthesis or replication occur?",
+    "options": {
+      "A": "G1 phase",
+      "B": "S phase",
+      "C": "G2 phase only",
+      "D": "M phase"
+    },
+    "correct_answer": "B",
+    "explanation": "S (synthesis) phase is when DNA replication takes place."
+  },
+  {
+    "source_sentence": "During this time the amount of DNA per cell doubles. If the initial amount of DNA is denoted as 2C then it increases to 4C.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "If a cell has 2C DNA at the start of S phase, what is the DNA content after S phase?",
+    "options": {
+      "A": "C",
+      "B": "2C",
+      "C": "4C",
+      "D": "8C"
+    },
+    "correct_answer": "C",
+    "explanation": "DNA content doubles during S phase from 2C to 4C."
+  },
+  {
+    "source_sentence": "However, there is no increase in the chromosome number; if the cell had diploid or 2n number of chromosomes at G1, even after S phase the number of chromosomes remains the same, i.e., 2n.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "After S phase, the chromosome number in a diploid cell:",
+    "options": {
+      "A": "Doubles from n to 2n",
+      "B": "Remains 2n",
+      "C": "Becomes haploid (n)",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA amount doubles during S phase but chromosome number stays 2n because chromosomes remain as replicated pairs."
+  },
+  {
+    "source_sentence": "In animal cells, during the S phase, DNA replication begins in the nucleus, and the centriole duplicates in the cytoplasm.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In animal cells during S phase:",
+    "options": {
+      "A": "Only cytokinesis occurs",
+      "B": "DNA replicates in the nucleus and centrioles duplicate in the cytoplasm",
+      "C": "Only cell wall forms",
+      "D": "Homologous chromosomes pair"
+    },
+    "correct_answer": "B",
+    "explanation": "S phase in animal cells involves nuclear DNA replication and centriole duplication in the cytoplasm."
+  },
+  {
+    "source_sentence": "During the G2 phase, proteins are synthesised in preparation for mitosis while cell growth continues.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During G2 phase:",
+    "options": {
+      "A": "DNA replication occurs",
+      "B": "Proteins are synthesised for mitosis and cell growth continues",
+      "C": "Homologous chromosomes separate",
+      "D": "Crossing over occurs"
+    },
+    "correct_answer": "B",
+    "explanation": "G2 involves protein synthesis for upcoming mitosis along with continued cell growth."
+  },
+  {
+    "source_sentence": "It has 16 chromosomes in each cell.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Onion root tip cells have how many chromosomes per cell?",
+    "options": {
+      "A": "8",
+      "B": "16",
+      "C": "23",
+      "D": "46"
+    },
+    "correct_answer": "B",
+    "explanation": "Each onion root tip cell contains 16 chromosomes."
+  },
+  {
+    "source_sentence": "Can you tell how many chromosomes will the cell have at G1 phase, after S phase, and after M phase?",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In onion root tip cells (2n = 16), how many chromosomes are present after M phase?",
+    "options": {
+      "A": "8",
+      "B": "16",
+      "C": "32",
+      "D": "64"
+    },
+    "correct_answer": "B",
+    "explanation": "After mitosis, daughter cells retain the diploid chromosome number of 16."
+  },
+  {
+    "source_sentence": "Also, what will be the DNA content of the cells at G1, after S and at G2, if the content after M phase is 2C?",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "If DNA content after M phase is 2C, what is the DNA content at G2?",
+    "options": {
+      "A": "C",
+      "B": "2C",
+      "C": "4C",
+      "D": "8C"
+    },
+    "correct_answer": "C",
+    "explanation": "After S phase DNA doubles to 4C, and G2 maintains 4C until mitosis."
+  },
+  {
+    "source_sentence": "Some cells in the adult animals do not appear to exhibit division (e.g., heart cells) and many other cells divide only occasionally.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Which adult animal cells typically do not divide?",
+    "options": {
+      "A": "Skin cells",
+      "B": "Heart cells",
+      "C": "Blood cells",
+      "D": "Gut lining cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Heart cells in adult animals generally do not undergo cell division."
+  },
+  {
+    "source_sentence": "These cells that do not divide further exit G1 phase to enter an inactive stage called quiescent stage (G0) of the cell cycle.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Cells that permanently leave the division cycle enter:",
+    "options": {
+      "A": "S phase",
+      "B": "G0 (quiescent stage)",
+      "C": "M phase",
+      "D": "Prophase I"
+    },
+    "correct_answer": "B",
+    "explanation": "Non-dividing cells exit G1 and enter the quiescent G0 stage."
+  },
+  {
+    "source_sentence": "Cells in this stage remain metabolically active but no longer proliferate unless called on to do so depending on the requirement of the organism.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Cells in G0 phase are:",
+    "options": {
+      "A": "Metabolically inactive",
+      "B": "Metabolically active but non-proliferating unless re-stimulated",
+      "C": "Undergoing meiosis",
+      "D": "Always dividing"
+    },
+    "correct_answer": "B",
+    "explanation": "G0 cells remain metabolically active but do not proliferate unless needed."
+  },
+  {
+    "source_sentence": "In animals, mitotic cell division is only seen in the diploid somatic cells. However, there are few exceptions to this where haploid cells divide by mitosis, for example, male honey bees.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In animals, mitosis usually occurs in diploid somatic cells. Which is an exception where haploid cells divide by mitosis?",
+    "options": {
+      "A": "Human liver cells",
+      "B": "Male honey bees",
+      "C": "Frog erythrocytes",
+      "D": "Plant meristem"
+    },
+    "correct_answer": "B",
+    "explanation": "Male honey bees are an exception where haploid cells undergo mitotic division in animals."
+  },
+  {
+    "source_sentence": "Against this, the plants can show mitotic divisions in both haploid and diploid cells.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In plants, mitotic division can occur in:",
+    "options": {
+      "A": "Only diploid cells",
+      "B": "Both haploid and diploid cells",
+      "C": "Only haploid cells",
+      "D": "Neither haploid nor diploid cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Plants can undergo mitosis in both haploid and diploid cells."
+  },
+  {
+    "source_sentence": "Since the number of chromosomes in the parent and progeny cells is the same, it is also called as equational division.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Mitosis is called equational division because:",
+    "options": {
+      "A": "It halves the chromosome number",
+      "B": "Parent and daughter cells have the same chromosome number",
+      "C": "It produces four daughter cells",
+      "D": "It involves crossing over"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitosis is equational because chromosome number remains the same in parent and progeny."
+  },
+  {
+    "source_sentence": "Karyokinesis involves following four stages: Prophase, Metaphase, Anaphase, Telophase.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The four stages of karyokinesis in mitosis are:",
+    "options": {
+      "A": "G1, S, G2, M",
+      "B": "Prophase, metaphase, anaphase, telophase",
+      "C": "Leptotene, zygotene, pachytene, diplotene",
+      "D": "Meiosis I, meiosis II, interkinesis, cytokinesis"
+    },
+    "correct_answer": "B",
+    "explanation": "Karyokinesis proceeds through prophase, metaphase, anaphase, and telophase."
+  },
+  {
+    "source_sentence": "It is very essential to understand that cell division is a progressive process and very clear-cut lines cannot be drawn between various stages.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Regarding stages of mitosis, it is important to note that:",
+    "options": {
+      "A": "Each stage is completely independent with sharp boundaries",
+      "B": "Cell division is a progressive process without clear-cut boundaries between stages",
+      "C": "Only prophase and telophase occur",
+      "D": "Stages occur in random order"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitosis is continuous; distinct stage boundaries are for convenience of study."
+  },
+  {
+    "source_sentence": "Prophase which is the first stage of karyokinesis of mitosis follows the S and G2 phases of interphase.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Prophase of mitosis follows:",
+    "options": {
+      "A": "G0 phase only",
+      "B": "S and G2 phases of interphase",
+      "C": "Telophase of previous division only",
+      "D": "Meiosis II"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitotic prophase begins after completion of S and G2 phases."
+  },
+  {
+    "source_sentence": "Prophase is marked by the initiation of condensation of chromosomal material.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Prophase is marked by:",
+    "options": {
+      "A": "Decondensation of chromosomes",
+      "B": "Initiation of condensation of chromosomal material",
+      "C": "Formation of cell plate",
+      "D": "Separation of homologous chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "Chromosomal condensation begins in prophase."
+  },
+  {
+    "source_sentence": "The centrosome, which had undergone duplication during S phase of interphase, now begins to move towards opposite poles of the cell.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During prophase, the duplicated centrosome:",
+    "options": {
+      "A": "Disappears permanently",
+      "B": "Moves towards opposite poles of the cell",
+      "C": "Forms the nucleolus",
+      "D": "Undergoes crossing over"
+    },
+    "correct_answer": "B",
+    "explanation": "Duplicated centrosomes migrate to opposite poles during prophase."
+  },
+  {
+    "source_sentence": "Chromosomes are seen to be composed of two chromatids attached together at the centromere.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Mitotic chromosomes in prophase consist of:",
+    "options": {
+      "A": "Single chromatid without centromere",
+      "B": "Two chromatids attached at the centromere",
+      "C": "Four chromatids in a bivalent",
+      "D": "Only DNA without protein"
+    },
+    "correct_answer": "B",
+    "explanation": "Each mitotic chromosome has two sister chromatids joined at the centromere."
+  },
+  {
+    "source_sentence": "Each centrosome radiates out microtubules called asters. The two asters together with spindle fibres forms mitotic apparatus.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Microtubules radiating from centrosomes are called:",
+    "options": {
+      "A": "Kinetochores",
+      "B": "Asters",
+      "C": "Chiasmata",
+      "D": "Bivalents"
+    },
+    "correct_answer": "B",
+    "explanation": "Centrosomes radiate microtubules known as asters, which form part of the mitotic apparatus."
+  },
+  {
+    "source_sentence": "Cells at the end of prophase, when viewed under the microscope, do not show golgi complexes, endoplasmic reticulum, nucleolus and the nuclear envelope.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "At the end of prophase, which structures are not visible under the microscope?",
+    "options": {
+      "A": "Chromosomes and spindle",
+      "B": "Golgi, ER, nucleolus, and nuclear envelope",
+      "C": "Centrioles and asters only",
+      "D": "Cell wall and vacuole"
+    },
+    "correct_answer": "B",
+    "explanation": "Golgi complexes, ER, nucleolus, and nuclear envelope disappear by late prophase."
+  },
+  {
+    "source_sentence": "The complete disintegration of the nuclear envelope marks the start of the second phase of mitosis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Complete disintegration of the nuclear envelope marks the beginning of:",
+    "options": {
+      "A": "Prophase",
+      "B": "Metaphase",
+      "C": "Anaphase",
+      "D": "Telophase"
+    },
+    "correct_answer": "B",
+    "explanation": "Metaphase begins when the nuclear envelope fully disintegrates."
+  },
+  {
+    "source_sentence": "This then, is the stage at which morphology of chromosomes is most easily studied.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "At which stage is chromosome morphology most easily studied?",
+    "options": {
+      "A": "Prophase",
+      "B": "Metaphase",
+      "C": "Telophase",
+      "D": "G1 phase"
+    },
+    "correct_answer": "B",
+    "explanation": "Chromosomes are fully condensed and clearly visible at metaphase."
+  },
+  {
+    "source_sentence": "Small disc-shaped structures at the surface of the centromeres are called kinetochores.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Disc-shaped structures at the surface of centromeres are called:",
+    "options": {
+      "A": "Centrioles",
+      "B": "Kinetochores",
+      "C": "Chiasmata",
+      "D": "Synaptonemal complexes"
+    },
+    "correct_answer": "B",
+    "explanation": "Kinetochores are disc-shaped structures on centromeres where spindle fibres attach."
+  },
+  {
+    "source_sentence": "The plane of alignment of the chromosomes at metaphase is referred to as the metaphase plate.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The equatorial plane where chromosomes align during metaphase is called:",
+    "options": {
+      "A": "Cell plate",
+      "B": "Metaphase plate",
+      "C": "Middle lamella",
+      "D": "Synaptonemal complex"
+    },
+    "correct_answer": "B",
+    "explanation": "Chromosomes align at the metaphase plate (equatorial plate) during metaphase."
+  },
+  {
+    "source_sentence": "At the onset of anaphase, each chromosome arranged at the metaphase plate is split simultaneously and the two daughter chromatids begin their migration towards the two opposite poles.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Anaphase begins when:",
+    "options": {
+      "A": "Homologous chromosomes pair",
+      "B": "Centromeres split and sister chromatids move to opposite poles",
+      "C": "Nuclear envelope reforms",
+      "D": "DNA replication starts"
+    },
+    "correct_answer": "B",
+    "explanation": "Anaphase starts with splitting of centromeres and movement of chromatids to opposite poles."
+  },
+  {
+    "source_sentence": "As each chromosome moves away from the equatorial plate, the centromere of each chromosome remains directed towards the pole and hence at the leading edge, with the arms of the chromosome trailing behind.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During anaphase, chromosomes move to poles with:",
+    "options": {
+      "A": "Arms leading and centromere trailing",
+      "B": "Centromere leading and arms trailing",
+      "C": "Random orientation",
+      "D": "No movement at all"
+    },
+    "correct_answer": "B",
+    "explanation": "Centromeres lead toward the poles while chromosome arms trail behind during anaphase."
+  },
+  {
+    "source_sentence": "At the beginning of the final stage of karyokinesis, i.e., telophase, the chromosomes that have reached their respective poles decondense and lose their individuality.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During telophase, chromosomes at the poles:",
+    "options": {
+      "A": "Become more condensed",
+      "B": "Decondense and lose their individuality",
+      "C": "Pair as bivalents",
+      "D": "Undergo crossing over"
+    },
+    "correct_answer": "B",
+    "explanation": "Telophase chromosomes decondense and are no longer individually distinct."
+  },
+  {
+    "source_sentence": "Nuclear envelope develops around the chromosome clusters at each pole forming two daughter nuclei.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During telophase:",
+    "options": {
+      "A": "Nuclear envelope breaks down",
+      "B": "Nuclear envelope re-forms around chromosome clusters at each pole",
+      "C": "Homologous chromosomes separate",
+      "D": "Spindle fibres attach to kinetochores for the first time"
+    },
+    "correct_answer": "B",
+    "explanation": "Telophase includes reformation of the nuclear envelope around each set of chromosomes."
+  },
+  {
+    "source_sentence": "Nucleolus, golgi complex and ER reform.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Which structures reappear during telophase?",
+    "options": {
+      "A": "Only mitochondria",
+      "B": "Nucleolus, Golgi complex, and ER",
+      "C": "Only cell plate",
+      "D": "Synaptonemal complex"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleolus, Golgi complex, and endoplasmic reticulum reform in telophase."
+  },
+  {
+    "source_sentence": "In an animal cell, this is achieved by the appearance of a furrow in the plasma membrane.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Cytokinesis in animal cells occurs by:",
+    "options": {
+      "A": "Formation of a cell plate",
+      "B": "Appearance of a furrow in the plasma membrane",
+      "C": "Budding",
+      "D": "Binary fission without membrane change"
+    },
+    "correct_answer": "B",
+    "explanation": "Animal cell cytokinesis involves a deepening furrow in the plasma membrane."
+  },
+  {
+    "source_sentence": "In plant cells, wall formation starts in the centre of the cell and grows outward to meet the existing lateral walls.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Cytokinesis in plant cells involves:",
+    "options": {
+      "A": "Cleavage furrow formation",
+      "B": "Wall formation starting at the centre and growing outward",
+      "C": "No new wall formation",
+      "D": "Only nuclear division"
+    },
+    "correct_answer": "B",
+    "explanation": "Plant cytokinesis begins centrally with new wall material growing outward."
+  },
+  {
+    "source_sentence": "The formation of the new cell wall begins with the formation of a simple precursor, called the cell-plate that represents the middle lamella between the walls of two adjacent cells.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The cell plate in plant cytokinesis represents:",
+    "options": {
+      "A": "The spindle equator",
+      "B": "The middle lamella between walls of adjacent cells",
+      "C": "The nuclear envelope",
+      "D": "The kinetochore region"
+    },
+    "correct_answer": "B",
+    "explanation": "The cell plate is the precursor of the middle lamella between daughter cell walls."
+  },
+  {
+    "source_sentence": "In some organisms karyokinesis is not followed by cytokinesis as a result of which multinucleate condition arises leading to the formation of syncytium (e.g., liquid endosperm in coconut).",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "When karyokinesis is not followed by cytokinesis, the resulting condition is called:",
+    "options": {
+      "A": "Haploidy",
+      "B": "Syncytium (multinucleate condition)",
+      "C": "Diploidy",
+      "D": "Interkinesis"
+    },
+    "correct_answer": "B",
+    "explanation": "Absence of cytokinesis after karyokinesis produces a syncytium, as in coconut liquid endosperm."
+  },
+  {
+    "source_sentence": "Mitosis usually results in the production of diploid daughter cells with identical genetic complement.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Mitosis typically produces daughter cells that are:",
+    "options": {
+      "A": "Haploid and genetically different",
+      "B": "Diploid with identical genetic complement",
+      "C": "Four in number and haploid",
+      "D": "Always multinucleate"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitosis yields diploid daughter cells genetically identical to the parent."
+  },
+  {
+    "source_sentence": "The growth of multicellular organisms is due to mitosis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Growth of multicellular organisms is primarily due to:",
+    "options": {
+      "A": "Meiosis only",
+      "B": "Mitosis",
+      "C": "Fertilisation only",
+      "D": "Apoptosis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitotic divisions increase cell number and drive growth in multicellular organisms."
+  },
+  {
+    "source_sentence": "Cell growth results in disturbing the ratio between the nucleus and the cytoplasm. It therefore becomes essential for the cell to divide to restore the nucleo-cytoplasmic ratio.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Why must growing cells divide?",
+    "options": {
+      "A": "To reduce DNA content permanently",
+      "B": "To restore the nucleo-cytoplasmic ratio",
+      "C": "To form gametes",
+      "D": "To eliminate mitochondria"
+    },
+    "correct_answer": "B",
+    "explanation": "Division restores the balance between nuclear and cytoplasmic volume disturbed by growth."
+  },
+  {
+    "source_sentence": "The cells of the upper layer of the epidermis, cells of the lining of the gut, and blood cells are being constantly replaced.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Mitosis is important for cell replacement in:",
+    "options": {
+      "A": "Only plant roots",
+      "B": "Epidermis, gut lining, and blood cells",
+      "C": "Only neurons that never divide",
+      "D": "Only gametes"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitosis constantly replaces cells in epidermis, gut lining, and blood."
+  },
+  {
+    "source_sentence": "Mitotic divisions in the meristematic tissues – the apical and the lateral cambium, result in a continuous growth of plants throughout their life.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Continuous growth of plants throughout life is due to mitosis in:",
+    "options": {
+      "A": "Permanent tissues only",
+      "B": "Apical and lateral cambium (meristematic tissues)",
+      "C": "Xylem vessels only",
+      "D": "Epidermal cork only"
+    },
+    "correct_answer": "B",
+    "explanation": "Meristematic tissues like apical and lateral cambium divide mitotically for continuous plant growth."
+  },
+  {
+    "source_sentence": "The production of offspring by sexual reproduction includes the fusion of two gametes, each with a complete haploid set of chromosomes.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In sexual reproduction, fusion of gametes involves cells each carrying:",
+    "options": {
+      "A": "A diploid set of chromosomes",
+      "B": "A complete haploid set of chromosomes",
+      "C": "No chromosomes",
+      "D": "Four sets of chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "Each gamete contributes one haploid set of chromosomes during fertilisation."
+  },
+  {
+    "source_sentence": "This specialised kind of cell division that reduces the chromosome number by half results in the production of haploid daughter cells. This kind of division is called meiosis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Meiosis is defined as cell division that:",
+    "options": {
+      "A": "Doubles chromosome number",
+      "B": "Reduces chromosome number by half to produce haploid daughter cells",
+      "C": "Produces identical diploid cells",
+      "D": "Occurs only in haploid cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis halves chromosome number, producing haploid daughter cells."
+  },
+  {
+    "source_sentence": "Meiosis ensures the production of haploid phase in the life cycle of sexually reproducing organisms whereas fertilisation restores the diploid phase.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Meiosis and fertilisation together ensure:",
+    "options": {
+      "A": "Permanent haploidy",
+      "B": "Alternation between haploid gametes and restored diploid zygote",
+      "C": "No change in chromosome number ever",
+      "D": "Only asexual reproduction"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis produces haploid gametes; fertilisation restores the diploid state."
+  },
+  {
+    "source_sentence": "Meiosis involves two sequential cycles of nuclear and cell division called meiosis I and meiosis II but only a single cycle of DNA replication.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "How many rounds of DNA replication occur during meiosis?",
+    "options": {
+      "A": "None",
+      "B": "One",
+      "C": "Two",
+      "D": "Four"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis has two nuclear divisions but only one DNA replication cycle."
+  },
+  {
+    "source_sentence": "Meiosis I is initiated after the parental chromosomes have replicated to produce identical sister chromatids at the S phase.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Meiosis I begins after:",
+    "options": {
+      "A": "No DNA replication",
+      "B": "DNA replication in S phase producing sister chromatids",
+      "C": "Fertilisation",
+      "D": "Cytokinesis of meiosis II"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis I starts after S phase when chromosomes consist of sister chromatids."
+  },
+  {
+    "source_sentence": "Meiosis involves pairing of homologous chromosomes and recombination between non-sister chromatids of homologous chromosomes.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Unique features of meiosis include:",
+    "options": {
+      "A": "No chromosome pairing",
+      "B": "Pairing of homologous chromosomes and recombination between non-sister chromatids",
+      "C": "Only equational division",
+      "D": "Absence of spindle fibres"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis involves synapsis of homologues and crossing over between non-sister chromatids."
+  },
+  {
+    "source_sentence": "Four haploid cells are formed at the end of meiosis II.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The final product of meiosis II is:",
+    "options": {
+      "A": "Two diploid cells",
+      "B": "Four haploid cells",
+      "C": "One diploid cell",
+      "D": "Eight haploid cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis II completes with four haploid daughter cells."
+  },
+  {
+    "source_sentence": "Prophase of the first meiotic division is typically longer and more complex when compared to prophase of mitosis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Prophase I of meiosis compared to mitotic prophase is:",
+    "options": {
+      "A": "Shorter and simpler",
+      "B": "Longer and more complex",
+      "C": "Identical in duration and events",
+      "D": "Absent in all organisms"
+    },
+    "correct_answer": "B",
+    "explanation": "Prophase I is notably longer and more complex than mitotic prophase."
+  },
+  {
+    "source_sentence": "It has been further subdivided into the following five phases based on chromosomal behaviour, i.e., Leptotene, Zygotene, Pachytene, Diplotene and Diakinesis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Prophase I is subdivided into:",
+    "options": {
+      "A": "Prophase, metaphase, anaphase, telophase",
+      "B": "Leptotene, zygotene, pachytene, diplotene, and diakinesis",
+      "C": "G1, S, G2, M",
+      "D": "Interkinesis stages only"
+    },
+    "correct_answer": "B",
+    "explanation": "Prophase I has five substages: leptotene through diakinesis."
+  },
+  {
+    "source_sentence": "During leptotene stage the chromosomes become gradually visible under the light microscope.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During leptotene:",
+    "options": {
+      "A": "Homologous chromosomes separate",
+      "B": "Chromosomes gradually become visible and continue compacting",
+      "C": "Crossing over is completed",
+      "D": "Nuclear envelope reforms"
+    },
+    "correct_answer": "B",
+    "explanation": "Leptotene is marked by gradual visibility and compaction of chromosomes."
+  },
+  {
+    "source_sentence": "During this stage, chromosomes start pairing together and this process of association is called synapsis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Pairing of homologous chromosomes during zygotene is called:",
+    "options": {
+      "A": "Synapsis",
+      "B": "Cytokinesis",
+      "C": "Terminalisation",
+      "D": "Karyokinesis"
+    },
+    "correct_answer": "A",
+    "explanation": "Synapsis is the pairing of homologous chromosomes during zygotene."
+  },
+  {
+    "source_sentence": "Electron micrographs of this stage, indicate that chromosome synapsis is accompanied by the formation of complex structure called synaptonemal complex.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Synapsis is accompanied by formation of:",
+    "options": {
+      "A": "Cell plate",
+      "B": "Synaptonemal complex",
+      "C": "Cleavage furrow",
+      "D": "Middle lamella only"
+    },
+    "correct_answer": "B",
+    "explanation": "The synaptonemal complex forms during synapsis of homologous chromosomes."
+  },
+  {
+    "source_sentence": "The complex formed by a pair of synapsed homologous chromosomes is called a bivalent or a tetrad.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "A pair of synapsed homologous chromosomes is called:",
+    "options": {
+      "A": "Univalent",
+      "B": "Bivalent or tetrad",
+      "C": "Kinetochore",
+      "D": "Aster"
+    },
+    "correct_answer": "B",
+    "explanation": "Synapsed homologous chromosomes form a bivalent (tetrad)."
+  },
+  {
+    "source_sentence": "During this stage, the four chromatids of each bivalent chromosomes become distinct and clearly appear as tetrads.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During pachytene, each bivalent clearly shows:",
+    "options": {
+      "A": "Two chromatids only",
+      "B": "Four distinct chromatids (tetrad)",
+      "C": "No chromatids",
+      "D": "Only one chromatid"
+    },
+    "correct_answer": "B",
+    "explanation": "Pachytene tetrads consist of four distinct chromatids."
+  },
+  {
+    "source_sentence": "This stage is characterised by the appearance of recombination nodules, the sites at which crossing over occurs between non-sister chromatids of the homologous chromosomes.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Recombination nodules appear during:",
+    "options": {
+      "A": "Leptotene",
+      "B": "Pachytene",
+      "C": "Telophase II",
+      "D": "G2 phase"
+    },
+    "correct_answer": "B",
+    "explanation": "Recombination nodules marking crossing-over sites appear in pachytene."
+  },
+  {
+    "source_sentence": "Crossing over is the exchange of genetic material between two homologous chromosomes.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Crossing over involves exchange of genetic material between:",
+    "options": {
+      "A": "Sister chromatids of the same chromosome",
+      "B": "Non-sister chromatids of homologous chromosomes",
+      "C": "Any two non-homologous chromosomes only",
+      "D": "Centrioles"
+    },
+    "correct_answer": "B",
+    "explanation": "Crossing over exchanges genetic material between non-sister chromatids of homologues."
+  },
+  {
+    "source_sentence": "Crossing over is also an enzyme-mediated process and the enzyme involved is called recombinase.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "The enzyme involved in crossing over is:",
+    "options": {
+      "A": "DNA polymerase",
+      "B": "Recombinase",
+      "C": "Amylase",
+      "D": "Catalase"
+    },
+    "correct_answer": "B",
+    "explanation": "Crossing over is mediated by the enzyme recombinase."
+  },
+  {
+    "source_sentence": "The beginning of diplotene is recognised by the dissolution of the synaptonemal complex and the tendency of the recombined homologous chromosomes of the bivalents to separate from each other except at the sites of crossovers. These X-shaped structures, are called chiasmata.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "X-shaped structures visible at crossover sites during diplotene are called:",
+    "options": {
+      "A": "Kinetochores",
+      "B": "Chiasmata",
+      "C": "Asters",
+      "D": "Centrioles"
+    },
+    "correct_answer": "B",
+    "explanation": "Chiasmata are X-shaped structures where homologues remain joined after crossing over."
+  },
+  {
+    "source_sentence": "The final stage of meiotic prophase I is diakinesis. This is marked by terminalisation of chiasmata.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Diakinesis is marked by:",
+    "options": {
+      "A": "Synapsis initiation",
+      "B": "Terminalisation of chiasmata",
+      "C": "DNA replication",
+      "D": "Formation of cell plate"
+    },
+    "correct_answer": "B",
+    "explanation": "Diakinesis features terminalisation of chiasmata and full chromosome condensation."
+  },
+  {
+    "source_sentence": "By the end of diakinesis, the nucleolus disappears and the nuclear envelope also breaks down. Diakinesis represents transition to metaphase.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "By the end of diakinesis:",
+    "options": {
+      "A": "Nuclear envelope reforms and nucleolus appears",
+      "B": "Nucleolus disappears and nuclear envelope breaks down",
+      "C": "Crossing over begins",
+      "D": "Sister chromatids separate"
+    },
+    "correct_answer": "B",
+    "explanation": "Diakinesis ends with disappearance of nucleolus and breakdown of nuclear envelope."
+  },
+  {
+    "source_sentence": "The bivalent chromosomes align on the equatorial plate.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During metaphase I:",
+    "options": {
+      "A": "Sister chromatids align individually",
+      "B": "Bivalent chromosomes align on the equatorial plate",
+      "C": "Homologous chromosomes are in G0",
+      "D": "Only one chromosome moves to a pole"
+    },
+    "correct_answer": "B",
+    "explanation": "Metaphase I features alignment of bivalents at the equatorial plate."
+  },
+  {
+    "source_sentence": "The microtubules from the opposite poles of the spindle attach to the kinetochore of homologous chromosomes.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In metaphase I, spindle microtubules attach to kinetochores of:",
+    "options": {
+      "A": "Sister chromatids only",
+      "B": "Homologous chromosomes",
+      "C": "Centrioles only",
+      "D": "Cell plate"
+    },
+    "correct_answer": "B",
+    "explanation": "Spindle fibres attach to kinetochores of homologous chromosomes in metaphase I."
+  },
+  {
+    "source_sentence": "The homologous chromosomes separate, while sister chromatids remain associated at their centromeres.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "During anaphase I:",
+    "options": {
+      "A": "Sister chromatids separate",
+      "B": "Homologous chromosomes separate; sister chromatids remain joined",
+      "C": "DNA replicates",
+      "D": "Synapsis occurs"
+    },
+    "correct_answer": "B",
+    "explanation": "Anaphase I separates homologues while sister chromatids stay attached."
+  },
+  {
+    "source_sentence": "The nuclear membrane and nucleolus reappear, cytokinesis follows and this is called as dyad of cells.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "After telophase I and cytokinesis, the resulting two cells are called:",
+    "options": {
+      "A": "Tetrad",
+      "B": "Dyad",
+      "C": "Syncytium",
+      "D": "Bivalent"
+    },
+    "correct_answer": "B",
+    "explanation": "Two cells formed after meiosis I constitute a dyad."
+  },
+  {
+    "source_sentence": "The stage between the two meiotic divisions is called interkinesis and is generally short lived. There is no replication of DNA during interkinesis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Interkinesis between meiosis I and II is characterised by:",
+    "options": {
+      "A": "DNA replication",
+      "B": "Short duration with no DNA replication",
+      "C": "Crossing over",
+      "D": "Synapsis of homologues"
+    },
+    "correct_answer": "B",
+    "explanation": "Interkinesis is brief and lacks DNA replication."
+  },
+  {
+    "source_sentence": "In contrast to meiosis I, meiosis II resembles a normal mitosis.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Meiosis II most closely resembles:",
+    "options": {
+      "A": "Interphase",
+      "B": "Normal mitosis",
+      "C": "Prophase I only",
+      "D": "G0 phase"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis II events parallel those of mitosis."
+  },
+  {
+    "source_sentence": "During anaphase II the sister chromatids separate.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Sister chromatids separate during:",
+    "options": {
+      "A": "Anaphase I",
+      "B": "Anaphase II",
+      "C": "Prophase I",
+      "D": "G1 phase"
+    },
+    "correct_answer": "B",
+    "explanation": "Separation of sister chromatids occurs in anaphase II."
+  },
+  {
+    "source_sentence": "Meiosis ends with telophase II, in which the two groups of chromosomes once again get enclosed by a nuclear envelope; cytokinesis follows resulting in the formation of tetrad of cells i.e., four haploid daughter cells.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "At the end of meiosis, cytokinesis produces:",
+    "options": {
+      "A": "Two diploid cells (dyad)",
+      "B": "Four haploid daughter cells (tetrad of cells)",
+      "C": "One polyploid cell",
+      "D": "Eight diploid cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Telophase II and cytokinesis yield four haploid cells."
+  },
+  {
+    "source_sentence": "Meiosis is the mechanism by which conservation of specific chromosome number of each species is achieved across generations in sexually reproducing organisms.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Meiosis helps conserve chromosome number across generations by:",
+    "options": {
+      "A": "Doubling chromosomes in gametes",
+      "B": "Halving chromosome number in gametes so fertilisation restores the species number",
+      "C": "Preventing fertilisation",
+      "D": "Eliminating all genetic variation"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis halves chromosomes in gametes; fertilisation restores the diploid species number."
+  },
+  {
+    "source_sentence": "It also increases the genetic variability in the population of organisms from one generation to the next. Variations are very important for the process of evolution.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Besides maintaining chromosome number, meiosis:",
+    "options": {
+      "A": "Eliminates all variation",
+      "B": "Increases genetic variability important for evolution",
+      "C": "Prevents crossing over",
+      "D": "Produces only identical cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Crossing over and independent assortment in meiosis generate variation essential for evolution."
+  },
+  {
+    "source_sentence": "G1 phase is the period when the cell grows and carries out normal metabolism. Most of the organelle duplication also occurs during this phase.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Most organelle duplication occurs during:",
+    "options": {
+      "A": "G1 phase",
+      "B": "M phase only",
+      "C": "G0 only",
+      "D": "Anaphase I only"
+    },
+    "correct_answer": "A",
+    "explanation": "G1 is when the cell grows, carries out metabolism, and duplicates most organelles."
+  },
+  {
+    "source_sentence": "In contrast to mitosis, meiosis occurs in the diploid cells, which are destined to form gametes. It is called the reduction division since it reduces the chromosome number by half while making the gametes.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "Meiosis is called reduction division because it:",
+    "options": {
+      "A": "Reduces cytoplasm only",
+      "B": "Reduces chromosome number by half in cells destined to form gametes",
+      "C": "Reduces cell size without changing chromosomes",
+      "D": "Occurs only in haploid somatic cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Meiosis halves chromosome number during gamete formation."
+  },
+  {
+    "source_sentence": "During metaphase I the bivalents arrange on the equatorial plate. This is followed by anaphase I in which homologous chromosomes move to the opposite poles with both their chromatids.",
+    "chapter": "Chapter 10: Cell Cycle and Cell Division",
+    "question": "In anaphase I, each pole receives:",
+    "options": {
+      "A": "One chromatid from each homologue",
+      "B": "Half the chromosome number of the parent, with both chromatids of each homologue moving together",
+      "C": "All chromosomes of the cell",
+      "D": "No chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "Each pole gets half the parent's chromosomes, each still consisting of two sister chromatids after anaphase I."
+  }
+]

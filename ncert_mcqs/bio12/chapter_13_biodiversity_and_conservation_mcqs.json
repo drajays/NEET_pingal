@@ -1,0 +1,1068 @@
+[
+  {
+    "source_sentence": "Biodiversity is the term popularised by the sociobiologist Edward Wilson to describe the combined diversity at all the levels of biological organisation.",
+    "question": "The term 'biodiversity' was popularised by:",
+    "options": {
+      "A": "Charles Darwin",
+      "B": "Edward Wilson",
+      "C": "Robert May",
+      "D": "Alexander von Humboldt"
+    },
+    "correct_answer": "B",
+    "explanation": "Edward Wilson popularised the term biodiversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "In our biosphere immense diversity (or heterogeneity) exists not only at the species level but at all levels of biological organisation ranging from macromolecules within cells to biomes.",
+    "question": "Biodiversity exists at all levels of biological organisation from:",
+    "options": {
+      "A": "Species level only",
+      "B": "Macromolecules within cells to biomes",
+      "C": "Ecosystem level only",
+      "D": "Genus level only"
+    },
+    "correct_answer": "B",
+    "explanation": "Diversity spans all organisational levels from macromolecules to biomes.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Genetic diversity: A single species might show high diversity at the genetic level over its distributional range.",
+    "question": "Genetic diversity refers to:",
+    "options": {
+      "A": "Number of ecosystems in a country",
+      "B": "Genetic variation within a species over its distributional range",
+      "C": "Number of biomes on Earth",
+      "D": "Only species richness in a forest"
+    },
+    "correct_answer": "B",
+    "explanation": "Genetic diversity is variation at the genetic level within a species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The genetic variation shown by the medicinal plant Rauvolfia vomitoria growing in different Himalayan ranges might be in terms of the potency and concentration of the active chemical (reserpine) that the plant produces.",
+    "question": "Genetic diversity in Rauvolfia vomitoria may be reflected in:",
+    "options": {
+      "A": "Number of petals in flowers",
+      "B": "Potency and concentration of reserpine",
+      "C": "Colour of leaves only",
+      "D": "Height of plants only"
+    },
+    "correct_answer": "B",
+    "explanation": "Different Himalayan populations vary in reserpine potency and concentration.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+    "question": "India has more than how many genetically different strains of rice?",
+    "options": {
+      "A": "5,000",
+      "B": "10,000",
+      "C": "50,000",
+      "D": "1,000"
+    },
+    "correct_answer": "C",
+    "explanation": "India has over 50,000 genetically different rice strains and 1,000 mango varieties.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+    "question": "Species diversity refers to:",
+    "options": {
+      "A": "Variation within a single gene",
+      "B": "Diversity at the species level in a region",
+      "C": "Only genetic strains of crops",
+      "D": "Soil nutrient content"
+    },
+    "correct_answer": "B",
+    "explanation": "Species diversity is the variety of species in a given area.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Ecological diversity: At the ecosystem level, India, for instance, with its deserts, rain forests, mangroves, coral reefs, wetlands, estuaries, and alpine meadows has a greater ecosystem diversity than a Scandinavian country like Norway.",
+    "question": "Ecological diversity refers to diversity at the:",
+    "options": {
+      "A": "Genetic level",
+      "B": "Species level only",
+      "C": "Ecosystem level",
+      "D": "Cellular level only"
+    },
+    "correct_answer": "C",
+    "explanation": "Ecological diversity is the variety of ecosystems in a region.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "It has taken millions of years of evolution, to accumulate this rich diversity in nature, but we could lose all that wealth in less than two centuries if the present rates of species losses continue.",
+    "question": "At present rates of species loss, accumulated biodiversity could be lost in:",
+    "options": {
+      "A": "Less than two centuries",
+      "B": "More than 10,000 years",
+      "C": "Exactly one millennium",
+      "D": "Less than one decade only"
+    },
+    "correct_answer": "A",
+    "explanation": "Millions of years of accumulated diversity could be lost in under two centuries.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "According to the International Union for Conservation of Nature and Natural Resources (IUCN) (2004), the total number of plant and animal species described so far is slightly more than 1.5 million.",
+    "question": "According to IUCN (2004), described plant and animal species number slightly more than:",
+    "options": {
+      "A": "0.5 million",
+      "B": "1.5 million",
+      "C": "7 million",
+      "D": "50 million"
+    },
+    "correct_answer": "B",
+    "explanation": "IUCN 2004 records slightly over 1.5 million described species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million.",
+    "question": "Robert May's conservative estimate of global species diversity is about:",
+    "options": {
+      "A": "1.5 million",
+      "B": "7 million",
+      "C": "20 million",
+      "D": "50 million"
+    },
+    "correct_answer": "B",
+    "explanation": "Robert May estimates ~7 million species globally.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total.",
+    "question": "Of recorded species, animals comprise more than:",
+    "options": {
+      "A": "22%",
+      "B": "50%",
+      "C": "70%",
+      "D": "90%"
+    },
+    "correct_answer": "C",
+    "explanation": "Animals are >70% of recorded species; plants (incl. fungi etc.) ≤22%.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+    "question": "The most species-rich animal taxonomic group is:",
+    "options": {
+      "A": "Mammals",
+      "B": "Fishes",
+      "C": "Insects",
+      "D": "Birds"
+    },
+    "correct_answer": "C",
+    "explanation": "Insects make up >70% of all animal species recorded.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+    "question": "Fungi species worldwide outnumber the combined species of:",
+    "options": {
+      "A": "Insects and birds",
+      "B": "Fishes, amphibians, reptiles and mammals",
+      "C": "Only plants",
+      "D": "Only protists"
+    },
+    "correct_answer": "B",
+    "explanation": "Fungi species exceed combined fishes, amphibians, reptiles and mammals.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Although India has only 2.4 per cent of the world's land area, its share of the global species diversity is an impressive 8.1 per cent.",
+    "question": "India's share of global species diversity is approximately:",
+    "options": {
+      "A": "2.4%",
+      "B": "8.1%",
+      "C": "22%",
+      "D": "45%"
+    },
+    "correct_answer": "B",
+    "explanation": "India has 8.1% of global species diversity despite only 2.4% of land area.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "That is what makes our country one of the 12 mega diversity countries of the world.",
+    "question": "India is one of how many mega diversity countries of the world?",
+    "options": {
+      "A": "5",
+      "B": "12",
+      "C": "25",
+      "D": "34"
+    },
+    "correct_answer": "B",
+    "explanation": "India is among the 12 mega diversity countries.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Nearly 45,000 species of plants and twice as many of animals have been recorded from India.",
+    "question": "Approximately how many plant species have been recorded from India?",
+    "options": {
+      "A": "15,000",
+      "B": "45,000",
+      "C": "90,000",
+      "D": "1,50,000"
+    },
+    "correct_answer": "B",
+    "explanation": "About 45,000 plant species and roughly twice as many animal species are recorded from India.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "If we accept May's global estimates, only 22 per cent of the total species have been recorded so far.",
+    "question": "According to May's estimates, what percentage of total global species have been recorded?",
+    "options": {
+      "A": "8.1%",
+      "B": "22%",
+      "C": "50%",
+      "D": "78%"
+    },
+    "correct_answer": "B",
+    "explanation": "Only about 22% of estimated global species have been recorded so far.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "In general, species diversity decreases as we move away from the equator towards the poles.",
+    "question": "Species diversity generally:",
+    "options": {
+      "A": "Increases from equator to poles",
+      "B": "Decreases from equator towards poles",
+      "C": "Is uniform worldwide",
+      "D": "Is highest at the poles"
+    },
+    "correct_answer": "B",
+    "explanation": "Latitudinal gradient shows decreasing diversity from equator to poles.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Colombia located near the equator has nearly 1,400 species of birds while New York at 41°N has 105 species and Greenland at 71°N only 56 species.",
+    "question": "Which location has the highest bird species diversity among these?",
+    "options": {
+      "A": "Greenland (71°N)",
+      "B": "New York (41°N)",
+      "C": "Colombia (near equator)",
+      "D": "All have equal diversity"
+    },
+    "correct_answer": "C",
+    "explanation": "Colombia near the equator has ~1,400 bird species vs 105 in New York and 56 in Greenland.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "India, with much of its land area in the tropical latitudes, has more than 1,200 species of birds.",
+    "question": "India has more than how many species of birds?",
+    "options": {
+      "A": "500",
+      "B": "1,200",
+      "C": "1,400",
+      "D": "3,000"
+    },
+    "correct_answer": "B",
+    "explanation": "India has over 1,200 bird species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The largely tropical Amazonian rain forest in South America has the greatest biodiversity on earth—it is home to more than 40,000 species of plants.",
+    "question": "The Amazonian rainforest has more than how many plant species?",
+    "options": {
+      "A": "10,000",
+      "B": "40,000",
+      "C": "1,25,000",
+      "D": "2 million"
+    },
+    "correct_answer": "B",
+    "explanation": "Amazon rainforest hosts >40,000 plant species and exceptional overall biodiversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Speciation is generally a function of time, unlike temperate regions subjected to frequent glaciations in the past, tropical latitudes have remained relatively undisturbed for millions of years and thus, had a long evolutionary time for species diversification.",
+    "question": "Greater tropical diversity is partly explained by:",
+    "options": {
+      "A": "Frequent glaciations in tropics",
+      "B": "Long undisturbed evolutionary time in tropics",
+      "C": "Less solar energy in tropics",
+      "D": "Highly seasonal tropical climates"
+    },
+    "correct_answer": "B",
+    "explanation": "Tropics had long evolutionary time without frequent glaciations, promoting speciation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Tropical environments, unlike temperate ones, are less seasonal, relatively more constant and predictable. Such constant environments promote niche specialisation and lead to a greater species diversity.",
+    "question": "Constant and predictable tropical environments promote:",
+    "options": {
+      "A": "Reduced niche specialisation",
+      "B": "Niche specialisation and greater species diversity",
+      "C": "Mass extinctions",
+      "D": "Uniform low diversity"
+    },
+    "correct_answer": "B",
+    "explanation": "Stable tropical conditions favour niche specialisation and higher diversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "There is more solar energy available in the tropics, which contributes to higher productivity; this in turn might contribute indirectly to greater diversity.",
+    "question": "Higher tropical biodiversity may be indirectly linked to:",
+    "options": {
+      "A": "Lower solar energy",
+      "B": "Greater solar energy and higher productivity",
+      "C": "Absence of rain forests",
+      "D": "Polar climate conditions"
+    },
+    "correct_answer": "B",
+    "explanation": "More solar energy in tropics boosts productivity, indirectly supporting diversity.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Alexander von Humboldt observed that within a region species richness increased with increasing explored area, but only up to a limit.",
+    "question": "Alexander von Humboldt observed that species richness within a region:",
+    "options": {
+      "A": "Decreases with increasing area",
+      "B": "Increases with area up to a limit",
+      "C": "Is independent of area",
+      "D": "Is highest in smallest areas"
+    },
+    "correct_answer": "B",
+    "explanation": "Species richness increases with explored area within a region, up to a limit.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The relation between species richness and area for a wide variety of taxa turns out to be a rectangular hyperbola.",
+    "question": "Species-area relationship for various taxa is described as a:",
+    "options": {
+      "A": "Linear relationship on normal scale",
+      "B": "Rectangular hyperbola",
+      "C": "Parabola opening downward",
+      "D": "Random scatter with no pattern"
+    },
+    "correct_answer": "B",
+    "explanation": "Species richness vs area follows a rectangular hyperbola.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "On a logarithmic scale, the relationship is a straight line described by the equation log S = log C + Z log A.",
+    "question": "On a log scale, the species-area relationship becomes:",
+    "options": {
+      "A": "A curved hyperbola",
+      "B": "A straight line",
+      "C": "A circle",
+      "D": "Unrelated points"
+    },
+    "correct_answer": "B",
+    "explanation": "On log scale, species-area relationship is linear: log S = log C + Z log A.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Ecologists have discovered that the value of Z lies in the range of 0.1 to 0.2, regardless of the taxonomic group or the region.",
+    "question": "For species-area relationships within regions, the slope Z typically lies in the range:",
+    "options": {
+      "A": "0.1 to 0.2",
+      "B": "0.6 to 1.2",
+      "C": "2.0 to 3.0",
+      "D": "5.0 to 10.0"
+    },
+    "correct_answer": "A",
+    "explanation": "Within regions, Z slope values are typically 0.1–0.2 across taxa.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "But, if you analyse the species-area relationships among very large areas like the entire continents, you will find that the slope of the line to be much steeper (Z values in the range of 0.6 to 1.2).",
+    "question": "For very large areas like entire continents, Z values are typically:",
+    "options": {
+      "A": "0.1 to 0.2",
+      "B": "0.6 to 1.2",
+      "C": "0.01 to 0.05",
+      "D": "2.5 to 3.5"
+    },
+    "correct_answer": "B",
+    "explanation": "Continental-scale species-area relationships have steeper slopes (Z = 0.6–1.2).",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "For many decades, ecologists believed that communities with more species, generally, tend to be more stable than those with less species.",
+    "question": "Ecologists traditionally believed that communities with more species tend to be:",
+    "options": {
+      "A": "Less stable",
+      "B": "More stable",
+      "C": "Equally unstable",
+      "D": "Devoid of productivity"
+    },
+    "correct_answer": "B",
+    "explanation": "Higher species richness was traditionally associated with greater community stability.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "A stable community should not show too much variation in productivity from year to year; it must be either resistant or resilient to occasional disturbances.",
+    "question": "A stable biological community should:",
+    "options": {
+      "A": "Show high year-to-year productivity variation",
+      "B": "Be resistant or resilient to disturbances and show low productivity variation",
+      "C": "Be easily invaded by alien species",
+      "D": "Have only one species"
+    },
+    "correct_answer": "B",
+    "explanation": "Stability includes low productivity variation and resistance/resilience to disturbances.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Tilman found that plots with more species showed less year-to-year variation in total biomass.",
+    "question": "David Tilman's experiments showed that plots with more species had:",
+    "options": {
+      "A": "Greater year-to-year biomass variation",
+      "B": "Less year-to-year variation in total biomass",
+      "C": "No biomass at all",
+      "D": "Lower productivity always"
+    },
+    "correct_answer": "B",
+    "explanation": "Tilman found higher diversity plots showed less year-to-year biomass variation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "He also showed that in his experiments, increased diversity contributed to higher productivity.",
+    "question": "Tilman's experiments also indicated that increased diversity contributed to:",
+    "options": {
+      "A": "Lower productivity",
+      "B": "Higher productivity",
+      "C": "Complete ecosystem collapse",
+      "D": "Elimination of all species"
+    },
+    "correct_answer": "B",
+    "explanation": "Increased diversity was associated with higher productivity in Tilman's experiments.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "In an airplane (ecosystem) all parts are joined together using thousands of rivets (species). If every passenger travelling in it starts popping a rivet to take home (causing a species to become extinct), it may not affect flight safety initially.",
+    "question": "The 'rivet popper hypothesis' was proposed by:",
+    "options": {
+      "A": "Edward Wilson",
+      "B": "Paul Ehrlich",
+      "C": "Robert May",
+      "D": "David Tilman"
+    },
+    "correct_answer": "B",
+    "explanation": "Paul Ehrlich used the rivet popper analogy for species extinction.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Loss of rivets on the wings (key species that drive major ecosystem functions) is obviously a more serious threat to flight safety than loss of a few rivets on the seats or windows inside the plane.",
+    "question": "In the rivet popper hypothesis, loss of key species is analogous to loss of rivets on:",
+    "options": {
+      "A": "Seats inside the plane",
+      "B": "Windows inside the plane",
+      "C": "The wings of the plane",
+      "D": "The luggage compartment only"
+    },
+    "correct_answer": "C",
+    "explanation": "Loss of key ecosystem species (wing rivets) is more critical than minor species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The IUCN Red List (2004) documents the extinction of 784 species (including 338 vertebrates, 359 invertebrates and 87 plants) in the last 500 years.",
+    "question": "IUCN Red List (2004) documents how many species extinctions in the last 500 years?",
+    "options": {
+      "A": "27",
+      "B": "338",
+      "C": "784",
+      "D": "15,500"
+    },
+    "correct_answer": "C",
+    "explanation": "784 species extinctions documented in the last 500 years per IUCN Red List 2004.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The last twenty years alone have witnessed the disappearance of 27 species.",
+    "question": "How many species disappeared in the last twenty years alone according to the chapter?",
+    "options": {
+      "A": "7",
+      "B": "27",
+      "C": "87",
+      "D": "784"
+    },
+    "correct_answer": "B",
+    "explanation": "27 species disappeared in the last twenty years alone.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "More than 15,500 species world-wide are facing the threat of extinction.",
+    "question": "How many species worldwide currently face the threat of extinction?",
+    "options": {
+      "A": "784",
+      "B": "1,500",
+      "C": "More than 15,500",
+      "D": "45,000"
+    },
+    "correct_answer": "C",
+    "explanation": "Over 15,500 species worldwide face extinction threat.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Presently, 12 per cent of all bird species, 23 per cent of all mammal species, 32 per cent of all amphibian species and 31 per cent of all gymnosperm species in the world face the threat of extinction.",
+    "question": "What percentage of all amphibian species face extinction threat?",
+    "options": {
+      "A": "12%",
+      "B": "23%",
+      "C": "31%",
+      "D": "32%"
+    },
+    "correct_answer": "D",
+    "explanation": "32% of amphibian species face extinction threat; birds 12%, mammals 23%, gymnosperms 31%.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "During the long period (>3 billion years) since the origin and diversification of life on earth there were five episodes of mass extinction of species.",
+    "question": "How many episodes of mass extinction occurred before the current one?",
+    "options": {
+      "A": "Three",
+      "B": "Five",
+      "C": "Ten",
+      "D": "None"
+    },
+    "correct_answer": "B",
+    "explanation": "Five mass extinction episodes occurred over >3 billion years of life's history.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The current species extinction rates are estimated to be 100 to 1,000 times faster than in the pre-human times and our activities are responsible for the faster rates.",
+    "question": "Current species extinction rates are estimated to be faster than pre-human times by a factor of:",
+    "options": {
+      "A": "2 to 5 times",
+      "B": "100 to 1,000 times",
+      "C": "10,000 to 50,000 times",
+      "D": "They are slower than pre-human times"
+    },
+    "correct_answer": "B",
+    "explanation": "Current extinction rates are 100–1,000× faster than pre-human rates.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Ecologists warn that if the present trends continue, nearly half of all the species on earth might be wiped out within the next 100 years.",
+    "question": "If present trends continue, nearly what fraction of species might be wiped out in the next 100 years?",
+    "options": {
+      "A": "One tenth",
+      "B": "One quarter",
+      "C": "Nearly half",
+      "D": "All species"
+    },
+    "correct_answer": "C",
+    "explanation": "Ecologists warn nearly half of all species could be lost in the next 100 years.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "In general, loss of biodiversity in a region may lead to (a) decline in plant production, (b) lowered resistance to environmental perturbations such as drought and (c) increased variability in certain ecosystem processes.",
+    "question": "Loss of biodiversity in a region may lead to:",
+    "options": {
+      "A": "Increased resistance to drought",
+      "B": "Decline in plant production and lowered resistance to perturbations",
+      "C": "Decreased variability in ecosystem processes",
+      "D": "Guaranteed ecosystem stability"
+    },
+    "correct_answer": "B",
+    "explanation": "Biodiversity loss can reduce plant production and resistance to disturbances.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "There are four major causes ('The Evil Quartet' is the sobriquet used to describe them).",
+    "question": "The four major causes of biodiversity loss are collectively called:",
+    "options": {
+      "A": "The Big Five",
+      "B": "The Evil Quartet",
+      "C": "The Red List",
+      "D": "The Hotspot Theory"
+    },
+    "correct_answer": "B",
+    "explanation": "Habitat loss, over-exploitation, alien species and co-extinctions form the 'Evil Quartet'.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Habitat loss and fragmentation: This is the most important cause driving animals and plants to extinction.",
+    "question": "The most important cause driving species to extinction is:",
+    "options": {
+      "A": "Co-extinctions",
+      "B": "Habitat loss and fragmentation",
+      "C": "Natural glaciation",
+      "D": "Solar radiation changes"
+    },
+    "correct_answer": "B",
+    "explanation": "Habitat loss and fragmentation is the most important cause of extinction.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Once covering more than 14 per cent of the earth's land surface, these rain forests now cover no more than 6 per cent.",
+    "question": "Tropical rain forests once covered more than 14% of land but now cover:",
+    "options": {
+      "A": "More than 20%",
+      "B": "No more than 6%",
+      "C": "Exactly 14%",
+      "D": "About 50%"
+    },
+    "correct_answer": "B",
+    "explanation": "Tropical rain forests declined from >14% to ≤6% of land surface.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The Amazon rain forest harbouring probably millions of species is being cut and cleared for cultivating soya beans or for conversion to grasslands for raising beef cattle.",
+    "question": "The Amazon rainforest is being cleared primarily for:",
+    "options": {
+      "A": "Establishing national parks",
+      "B": "Soya bean cultivation and cattle grasslands",
+      "C": "Sacred groves",
+      "D": "Biosphere reserves only"
+    },
+    "correct_answer": "B",
+    "explanation": "Amazon forest is cleared for soya beans and cattle ranching grasslands.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Many species extinctions in the last 500 years (Steller's sea cow, passenger pigeon) were due to overexploitation by humans.",
+    "question": "Steller's sea cow and passenger pigeon extinctions were due to:",
+    "options": {
+      "A": "Habitat fragmentation only",
+      "B": "Over-exploitation by humans",
+      "C": "Natural mass extinction events",
+      "D": "Co-extinction with plants only"
+    },
+    "correct_answer": "B",
+    "explanation": "These extinctions resulted from human over-exploitation.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The Nile perch introduced into Lake Victoria in east Africa led eventually to the extinction of an ecologically unique assemblage of more than 200 species of cichlid fish in the lake.",
+    "question": "Introduction of Nile perch into Lake Victoria led to extinction of:",
+    "options": {
+      "A": "Amazon rainforest plants",
+      "B": "More than 200 cichlid fish species",
+      "C": "All bird species in India",
+      "D": "Gymnosperms worldwide"
+    },
+    "correct_answer": "B",
+    "explanation": "Nile perch invasion caused extinction of 200+ cichlid species in Lake Victoria.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Invasive weed species like carrot grass (Parthenium), Lantana and water hyacinth (Eicchornia).",
+    "question": "Which of the following is an invasive weed species mentioned in the chapter?",
+    "options": {
+      "A": "Mango",
+      "B": "Rauvolfia",
+      "C": "Parthenium (carrot grass)",
+      "D": "Rice"
+    },
+    "correct_answer": "C",
+    "explanation": "Parthenium, Lantana and water hyacinth are invasive weeds threatening native species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The recent illegal introduction of the African catfish Clarias gariepinus for aquaculture purposes is posing a threat to the indigenous catfishes in our rivers.",
+    "question": "Which alien species threatens indigenous catfishes in Indian rivers?",
+    "options": {
+      "A": "Nile perch",
+      "B": "African catfish Clarias gariepinus",
+      "C": "Passenger pigeon",
+      "D": "Steller's sea cow"
+    },
+    "correct_answer": "B",
+    "explanation": "Illegal introduction of African catfish Clarias gariepinus threatens native Indian catfishes.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "When a species becomes extinct, the plant and animal species associated with it in an obligatory way also become extinct.",
+    "question": "Co-extinction occurs when:",
+    "options": {
+      "A": "Unrelated species independently go extinct",
+      "B": "Species obligatorily associated with an extinct species also become extinct",
+      "C": "New species evolve rapidly",
+      "D": "Habitats expand in size"
+    },
+    "correct_answer": "B",
+    "explanation": "Co-extinction affects species obligatorily linked to an extinct host or partner.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "More than 25 per cent of the drugs currently sold in the market worldwide are derived from plants and 25,000 species of plants contribute to the traditional medicines used by native peoples around the world.",
+    "question": "More than what percentage of drugs currently sold worldwide are derived from plants?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "25%",
+      "D": "75%"
+    },
+    "correct_answer": "C",
+    "explanation": ">25% of marketed drugs are plant-derived; 25,000 plant species used in traditional medicine.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The narrowly utilitarian arguments for conserving biodiversity are obvious; humans derive countless direct economic benefits from nature.",
+    "question": "Narrowly utilitarian arguments for conservation emphasise:",
+    "options": {
+      "A": "Intrinsic value of all species",
+      "B": "Direct economic benefits humans derive from nature",
+      "C": "Only aesthetic pleasures",
+      "D": "Moral duty alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Narrow utilitarianism focuses on direct economic benefits like food, fibre and medicines.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The broadly utilitarian argument says that biodiversity plays a major role in many ecosystem services that nature provides.",
+    "question": "Broadly utilitarian conservation arguments emphasise:",
+    "options": {
+      "A": "Only pharmaceutical profits",
+      "B": "Ecosystem services like pollination and oxygen production",
+      "C": "Species extinction rates",
+      "D": "Taxonomic classification only"
+    },
+    "correct_answer": "B",
+    "explanation": "Broad utilitarianism highlights ecosystem services such as pollination and oxygen production.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The fast-dwindling Amazon forest is estimated to produce, through photosynthesis, 20 per cent of the total oxygen in the earth's atmosphere.",
+    "question": "The Amazon forest produces approximately what fraction of Earth's atmospheric oxygen?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "20%",
+      "D": "50%"
+    },
+    "correct_answer": "C",
+    "explanation": "Amazon forest contributes ~20% of Earth's atmospheric oxygen via photosynthesis.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The ethical argument for conserving biodiversity relates to what we owe to millions of plant, animal and microbe species with whom we share this planet.",
+    "question": "The ethical argument for biodiversity conservation emphasises:",
+    "options": {
+      "A": "Only economic profit",
+      "B": "Intrinsic value and moral duty toward all species",
+      "C": "Exclusively pharmaceutical research",
+      "D": "Elimination of invasive species only"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethical arguments stress intrinsic value and moral responsibility to all species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "When we conserve and protect the whole ecosystem, its biodiversity at all levels is protected - we save the entire forest to save the tiger. This approach is called in situ (on site) conservation.",
+    "question": "Conserving the entire ecosystem to protect species is called:",
+    "options": {
+      "A": "Ex situ conservation",
+      "B": "In situ conservation",
+      "C": "Cryopreservation",
+      "D": "Bioprospecting"
+    },
+    "correct_answer": "B",
+    "explanation": "In situ conservation protects species within their natural habitat/ecosystem.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "However, when there are situations where an animal or plant is endangered or threatened and needs urgent measures to save it from extinction, ex situ (off site) conservation is the desirable approach.",
+    "question": "Ex situ conservation is desirable when:",
+    "options": {
+      "A": "Entire ecosystems are intact",
+      "B": "Species are endangered and need urgent off-site protection",
+      "C": "No human intervention is needed",
+      "D": "Only sacred groves are available"
+    },
+    "correct_answer": "B",
+    "explanation": "Ex situ conservation is used for endangered species needing urgent off-site measures.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "They identified for maximum protection certain 'biodiversity hotspots' regions with very high levels of species richness and high degree of endemism.",
+    "question": "Biodiversity hotspots are regions with:",
+    "options": {
+      "A": "Low species richness and no endemism",
+      "B": "Very high species richness and high endemism",
+      "C": "Only agricultural land",
+      "D": "Uniform biodiversity globally"
+    },
+    "correct_answer": "B",
+    "explanation": "Hotspots have very high species richness and high endemism.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Initially 25 biodiversity hotspots were identified but subsequently nine more have been added to the list, bringing the total number of biodiversity hotspots in the world to 34.",
+    "question": "The total number of biodiversity hotspots in the world is:",
+    "options": {
+      "A": "12",
+      "B": "25",
+      "C": "34",
+      "D": "90"
+    },
+    "correct_answer": "C",
+    "explanation": "25 initial hotspots plus 9 more = 34 total biodiversity hotspots.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Three of these hotspots – Western Ghats and Sri Lanka, Indo-Burma and Himalaya – cover our country's exceptionally high biodiversity regions.",
+    "question": "Which of the following is a biodiversity hotspot covering India?",
+    "options": {
+      "A": "Amazon rainforest only",
+      "B": "Western Ghats and Sri Lanka",
+      "C": "Greenland",
+      "D": "Scandinavia"
+    },
+    "correct_answer": "B",
+    "explanation": "India's hotspots include Western Ghats-Sri Lanka, Indo-Burma and Himalaya.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Although all the biodiversity hotspots put together cover less than 2 per cent of the earth's land area, the number of species they collectively harbour is extremely high.",
+    "question": "Biodiversity hotspots collectively cover less than what percentage of Earth's land area?",
+    "options": {
+      "A": "2%",
+      "B": "8.1%",
+      "C": "14%",
+      "D": "50%"
+    },
+    "correct_answer": "A",
+    "explanation": "All hotspots together cover <2% of Earth's land but harbour extremely high species numbers.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Strict protection of these hotspots could reduce the ongoing mass extinctions by almost 30 per cent.",
+    "question": "Protecting biodiversity hotspots could reduce ongoing mass extinctions by approximately:",
+    "options": {
+      "A": "5%",
+      "B": "15%",
+      "C": "30%",
+      "D": "75%"
+    },
+    "correct_answer": "C",
+    "explanation": "Hotspot protection could reduce mass extinctions by almost 30%.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Zoological parks, botanical gardens and wildlife safari parks serve this purpose.",
+    "question": "Ex situ conservation includes:",
+    "options": {
+      "A": "National parks and sanctuaries",
+      "B": "Zoological parks, botanical gardens and wildlife safari parks",
+      "C": "Sacred groves only",
+      "D": "Amazon rainforest protection"
+    },
+    "correct_answer": "B",
+    "explanation": "Zoos, botanical gardens and safari parks are ex situ conservation facilities.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Now gametes of threatened species can be preserved in viable and fertile condition for long periods using cryopreservation techniques.",
+    "question": "Cryopreservation in ex situ conservation is used to preserve:",
+    "options": {
+      "A": "Only soil nutrients",
+      "B": "Gametes of threatened species in viable condition",
+      "C": "Only invasive species",
+      "D": "Fossil records"
+    },
+    "correct_answer": "B",
+    "explanation": "Cryopreservation stores gametes of threatened species for long periods.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Seeds of different genetic strains of commercially important plants can be kept for long periods in seed banks.",
+    "question": "Seed banks are used in ex situ conservation to store:",
+    "options": {
+      "A": "Animal gametes only",
+      "B": "Seeds of different genetic strains of commercially important plants",
+      "C": "Only rainforest timber",
+      "D": "Fossil specimens"
+    },
+    "correct_answer": "B",
+    "explanation": "Seed banks preserve seeds of genetically diverse commercially important plants.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "India now has 14 biosphere reserves, 90 national parks and 448 wildlife sanctuaries.",
+    "question": "How many biosphere reserves does India currently have?",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "34",
+      "D": "90"
+    },
+    "correct_answer": "B",
+    "explanation": "India has 14 biosphere reserves, 90 national parks and 448 wildlife sanctuaries.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Such sacred groves are found in Khasi and Jaintia Hills in Meghalaya, Aravalli Hills of Rajasthan, Western Ghat regions of Karnataka and Maharashtra and the Sarguja, Chanda and Bastar areas of Madhya Pradesh.",
+    "question": "Sacred groves in India are found in:",
+    "options": {
+      "A": "Only the Himalaya",
+      "B": "Khasi and Jaintia Hills, Aravalli Hills, Western Ghats and Bastar region among others",
+      "C": "Only coastal coral reefs",
+      "D": "Only urban botanical gardens"
+    },
+    "correct_answer": "B",
+    "explanation": "Sacred groves occur in Meghalaya, Rajasthan, Western Ghats, Madhya Pradesh and elsewhere.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "In Meghalaya, the sacred groves are the last refuges for a large number of rare and threatened plants.",
+    "question": "In Meghalaya, sacred groves serve as:",
+    "options": {
+      "A": "Commercial timber plantations",
+      "B": "Last refuges for rare and threatened plants",
+      "C": "Aquaculture centres",
+      "D": "Mining zones"
+    },
+    "correct_answer": "B",
+    "explanation": "Meghalaya's sacred groves protect many rare and threatened plant species.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "The historic Convention on Biological Diversity (\"The Earth Summit\") held in Rio de Janeiro in 1992, called upon all nations to take appropriate measures for conservation of biodiversity and sustainable utilisation of its benefits.",
+    "question": "The Convention on Biological Diversity was held in:",
+    "options": {
+      "A": "Johannesburg, 2002",
+      "B": "Rio de Janeiro, 1992",
+      "C": "New York, 2004",
+      "D": "Colombia, 1990"
+    },
+    "correct_answer": "B",
+    "explanation": "The Earth Summit (Convention on Biological Diversity) was held in Rio de Janeiro in 1992.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "In a follow-up, the World Summit on Sustainable Development held in 2002 in Johannesburg, South Africa, 190 countries pledged their commitment to achieve by 2010, a significant reduction in the current rate of biodiversity loss.",
+    "question": "The World Summit on Sustainable Development (2002) was held in:",
+    "options": {
+      "A": "Rio de Janeiro",
+      "B": "Johannesburg, South Africa",
+      "C": "New Delhi",
+      "D": "Colombia"
+    },
+    "correct_answer": "B",
+    "explanation": "190 countries met in Johannesburg in 2002 to pledge reduced biodiversity loss by 2010.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Since life originated on earth nearly 3.8 billion years ago, there had been enormous diversification of life forms on earth.",
+    "question": "Life originated on Earth approximately:",
+    "options": {
+      "A": "3.8 billion years ago",
+      "B": "500 million years ago",
+      "C": "65 million years ago",
+      "D": "1 million years ago"
+    },
+    "correct_answer": "A",
+    "explanation": "Life originated on Earth nearly 3.8 billion years ago.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "More than 1.5 million species have been recorded in the world, but there might still be nearly 6 million species on earth waiting to be discovered and named.",
+    "question": "The summary estimates nearly how many species may still await discovery?",
+    "options": {
+      "A": "1.5 million",
+      "B": "6 million",
+      "C": "45,000",
+      "D": "15,500"
+    },
+    "correct_answer": "B",
+    "explanation": "While 1.5 million are recorded, ~6 million may still await discovery per summary.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Nearly 700 species have become extinct in recent times and more than 15,500 species (of which > 650 are from India) currently face the threat of extinction.",
+    "question": "More than how many species from India currently face extinction threat?",
+    "options": {
+      "A": "100",
+      "B": "650",
+      "C": "1,200",
+      "D": "15,500"
+    },
+    "correct_answer": "B",
+    "explanation": "Over 650 Indian species are among the 15,500+ facing extinction threat.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Our country's in situ conservation efforts are reflected in its 14 biosphere reserves, 90 national parks, >450 wildlife sanctuaries and many sacred groves.",
+    "question": "India's in situ conservation efforts include all EXCEPT:",
+    "options": {
+      "A": "Biosphere reserves",
+      "B": "National parks",
+      "C": "Sacred groves",
+      "D": "Cryopreservation of gametes"
+    },
+    "correct_answer": "D",
+    "explanation": "Cryopreservation is ex situ; biosphere reserves, parks, sanctuaries and sacred groves are in situ.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Ex situ conservation methods include protective maintenance of threatened species in zoological parks and botanical gardens, in vitro fertilisation, tissue culture propagation and cryopreservation of gametes.",
+    "question": "Which is an ex situ conservation method?",
+    "options": {
+      "A": "Wildlife sanctuary",
+      "B": "National park",
+      "C": "Tissue culture propagation",
+      "D": "Sacred grove"
+    },
+    "correct_answer": "C",
+    "explanation": "Tissue culture, cryopreservation, zoos and botanical gardens are ex situ methods.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+    "question": "Species inventories are generally more complete in:",
+    "options": {
+      "A": "Tropical countries",
+      "B": "Temperate countries",
+      "C": "Polar regions",
+      "D": "Deep ocean trenches"
+    },
+    "correct_answer": "B",
+    "explanation": "Temperate regions have more complete species inventories than tropics.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Examples of recent extinctions include the dodo (Mauritius), quagga (Africa), thylacine (Australia), Steller's Sea Cow (Russia) and three subspecies (Bali, Javan, Caspian) of tiger.",
+    "question": "The dodo became extinct in:",
+    "options": {
+      "A": "Africa",
+      "B": "Mauritius",
+      "C": "Australia",
+      "D": "Russia"
+    },
+    "correct_answer": "B",
+    "explanation": "The dodo of Mauritius is among recent extinction examples cited.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Shows that extinctions across taxa are not random; some groups like amphibians appear to be more vulnerable to extinction.",
+    "question": "Which group appears particularly vulnerable to extinction?",
+    "options": {
+      "A": "Insects only",
+      "B": "Amphibians",
+      "C": "All groups equally",
+      "D": "Only gymnosperms"
+    },
+    "correct_answer": "B",
+    "explanation": "Extinctions are non-random; amphibians are especially vulnerable.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Bioprospecting (exploring molecular, genetic and species-level diversity for products of economic importance), nations endowed with rich biodiversity can expect to reap enormous benefits.",
+    "question": "Bioprospecting involves exploring biodiversity for:",
+    "options": {
+      "A": "Only recreational tourism",
+      "B": "Products of economic importance at molecular, genetic and species levels",
+      "C": "Habitat destruction",
+      "D": "Species extinction studies only"
+    },
+    "correct_answer": "B",
+    "explanation": "Bioprospecting searches biodiversity for economically valuable products.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  },
+  {
+    "source_sentence": "Biodiversity knows no political boundaries and its conservation is therefore a collective responsibility of all nations.",
+    "question": "Biodiversity conservation is:",
+    "options": {
+      "A": "The responsibility of tropical nations only",
+      "B": "A collective responsibility of all nations",
+      "C": "Unnecessary for developed countries",
+      "D": "Limited to ex situ methods only"
+    },
+    "correct_answer": "B",
+    "explanation": "Biodiversity crosses political boundaries; all nations share conservation responsibility.",
+    "chapter": "Chapter 13: Biodiversity and Conservation"
+  }
+]

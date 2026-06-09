@@ -1,0 +1,1315 @@
+[
+  {
+    "source_sentence": "Animals accumulate ammonia, urea, uric acid, carbon dioxide, water and ions like Na⁺, K⁺, Cl⁻, phosphate, sulphate, etc., either by metabolic activities or by other means like excess ingestion.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Which of the following substances may accumulate in animals and need to be eliminated?",
+    "options": {
+      "A": "Ammonia, urea, uric acid, CO₂, water and ions only",
+      "B": "Proteins and nucleic acids exclusively",
+      "C": "Only nitrogenous wastes from metabolism",
+      "D": "Ammonia, urea, uric acid, CO₂, water, Na⁺, K⁺, Cl⁻, phosphate and sulphate"
+    },
+    "correct_answer": "D",
+    "explanation": "Animals accumulate various metabolic and ingested wastes including nitrogenous compounds, gases, water and ions."
+  },
+  {
+    "source_sentence": "Ammonia is the most toxic form and requires large amount of water for its elimination, whereas uric acid, being the least toxic, can be removed with a minimum loss of water.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Among ammonia, urea and uric acid, which statement is correct regarding toxicity and water requirement?",
+    "options": {
+      "A": "Uric acid is most toxic and needs most water",
+      "B": "Ammonia is most toxic and needs large amounts of water; uric acid is least toxic with minimum water loss",
+      "C": "Urea is most toxic and ammonia needs least water",
+      "D": "All three have equal toxicity and water requirements"
+    },
+    "correct_answer": "B",
+    "explanation": "Ammonia is most toxic and water-demanding; uric acid is least toxic and conserves water."
+  },
+  {
+    "source_sentence": "The process of excreting ammonia is Ammonotelism.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The process of excreting ammonia as the primary nitrogenous waste is called:",
+    "options": {
+      "A": "Ureotelism",
+      "B": "Uricotelism",
+      "C": "Ammonotelism",
+      "D": "Osmoregulation"
+    },
+    "correct_answer": "C",
+    "explanation": "Excretion of ammonia is termed ammonotelism."
+  },
+  {
+    "source_sentence": "Many bony fishes, aquatic amphibians and aquatic insects are ammonotelic in nature.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Which group of animals is primarily ammonotelic?",
+    "options": {
+      "A": "Reptiles, birds and land snails",
+      "B": "Mammals and terrestrial amphibians",
+      "C": "Many bony fishes, aquatic amphibians and aquatic insects",
+      "D": "Marine fishes and desert reptiles only"
+    },
+    "correct_answer": "C",
+    "explanation": "Aquatic animals with abundant water commonly excrete ammonia directly."
+  },
+  {
+    "source_sentence": "Ammonia, as it is readily soluble, is generally excreted by diffusion across body surfaces or through gill surfaces (in fish) as ammonium ions.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "How is ammonia typically eliminated in fishes?",
+    "options": {
+      "A": "By active secretion into renal tubules only",
+      "B": "By conversion to uric acid in the liver",
+      "C": "By diffusion across body or gill surfaces as ammonium ions",
+      "D": "By storage in the urinary bladder as crystals"
+    },
+    "correct_answer": "C",
+    "explanation": "Soluble ammonia diffuses out through body or gill surfaces as ammonium ions."
+  },
+  {
+    "source_sentence": "Kidneys do not play any significant role in its removal.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "In ammonotelic animals, the kidneys:",
+    "options": {
+      "A": "Are the primary organs for ammonia removal",
+      "B": "Do not play any significant role in ammonia removal",
+      "C": "Convert ammonia to urea before excretion",
+      "D": "Store ammonia until it forms uric acid"
+    },
+    "correct_answer": "B",
+    "explanation": "In ammonotelic animals, ammonia is removed mainly by diffusion, not kidneys."
+  },
+  {
+    "source_sentence": "Terrestrial adaptation necessitated the production of lesser toxic nitrogenous wastes like urea and uric acid for conservation of water.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Why did terrestrial adaptation favour urea and uric acid over ammonia as nitrogenous wastes?",
+    "options": {
+      "A": "They are more toxic and easier to filter",
+      "B": "They are less toxic and help conserve water",
+      "C": "They require more water for elimination",
+      "D": "They can only be excreted through gills"
+    },
+    "correct_answer": "B",
+    "explanation": "Less toxic urea and uric acid allow water conservation on land."
+  },
+  {
+    "source_sentence": "Mammals, many terrestrial amphibians and marine fishes mainly excrete urea and are called ureotelic animals.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Ureotelic animals include:",
+    "options": {
+      "A": "Reptiles, birds and insects",
+      "B": "Bony fishes in freshwater only",
+      "C": "Mammals, many terrestrial amphibians and marine fishes",
+      "D": "Flatworms and earthworms"
+    },
+    "correct_answer": "C",
+    "explanation": "Mammals, terrestrial amphibians and marine fishes mainly excrete urea."
+  },
+  {
+    "source_sentence": "Ammonia produced by metabolism is converted into urea in the liver of these animals and released into the blood which is filtered and excreted out by the kidneys.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "In ureotelic animals, urea is formed in the _____ and excreted by the _____.",
+    "options": {
+      "A": "Kidneys; liver",
+      "B": "Liver; kidneys",
+      "C": "Lungs; skin",
+      "D": "Spleen; urinary bladder"
+    },
+    "correct_answer": "B",
+    "explanation": "The liver converts ammonia to urea; kidneys filter and excrete it."
+  },
+  {
+    "source_sentence": "Some amount of urea may be retained in the kidney matrix of some of these animals to maintain a desired osmolarity.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "In some ureotelic animals, urea retained in the kidney matrix helps to:",
+    "options": {
+      "A": "Increase ammonia toxicity",
+      "B": "Maintain desired osmolarity",
+      "C": "Prevent filtration in glomerulus",
+      "D": "Convert urea back to ammonia"
+    },
+    "correct_answer": "B",
+    "explanation": "Retained urea in kidney matrix aids osmolarity regulation."
+  },
+  {
+    "source_sentence": "Reptiles, birds, land snails and insects excrete nitrogenous wastes as uric acid in the form of pellet or paste with a minimum loss of water and are called uricotelic animals.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Uricotelic animals excrete nitrogenous waste as:",
+    "options": {
+      "A": "Dissolved ammonia through gills",
+      "B": "Urea in large volumes of dilute urine",
+      "C": "Uric acid as pellet or paste with minimum water loss",
+      "D": "Amino acids through Malpighian tubules only"
+    },
+    "correct_answer": "C",
+    "explanation": "Uricotelic animals excrete uric acid with minimal water loss."
+  },
+  {
+    "source_sentence": "Protonephridia or flame cells are the excretory structures in Platyhelminthes (Flatworms, e.g., Planaria), rotifers, some annelids and the cephalochordate – Amphioxus.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Flame cells or protonephridia are excretory structures found in:",
+    "options": {
+      "A": "Cockroaches and prawns",
+      "B": "Earthworms and leeches",
+      "C": "Flatworms, rotifers, some annelids and Amphioxus",
+      "D": "Vertebrates including humans"
+    },
+    "correct_answer": "C",
+    "explanation": "Protonephridia occur in flatworms, rotifers, some annelids and Amphioxus."
+  },
+  {
+    "source_sentence": "Protonephridia are primarily concerned with ionic and fluid volume regulation, i.e., osmoregulation.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The primary function of protonephridia is:",
+    "options": {
+      "A": "Digestion of proteins",
+      "B": "Osmoregulation (ionic and fluid volume regulation)",
+      "C": "Gas exchange",
+      "D": "Production of bile"
+    },
+    "correct_answer": "B",
+    "explanation": "Protonephridia mainly regulate ionic and fluid balance."
+  },
+  {
+    "source_sentence": "Nephridia are the tubular excretory structures of earthworms and other annelids.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Nephridia are the excretory structures of:",
+    "options": {
+      "A": "Insects such as cockroaches",
+      "B": "Crustaceans like prawns",
+      "C": "Earthworms and other annelids",
+      "D": "Flatworms like Planaria"
+    },
+    "correct_answer": "C",
+    "explanation": "Nephridia are tubular excretory organs of annelids."
+  },
+  {
+    "source_sentence": "Nephridia help to remove nitrogenous wastes and maintain a fluid and ionic balance.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Nephridia in annelids function to:",
+    "options": {
+      "A": "Produce uric acid pellets only",
+      "B": "Remove nitrogenous wastes and maintain fluid and ionic balance",
+      "C": "Filter blood through glomerulus",
+      "D": "Secrete bile for fat digestion"
+    },
+    "correct_answer": "B",
+    "explanation": "Nephridia eliminate nitrogenous wastes and help osmoregulation."
+  },
+  {
+    "source_sentence": "Malpighian tubules are the excretory structures of most of the insects including cockroaches.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Malpighian tubules serve as excretory structures in:",
+    "options": {
+      "A": "Earthworms",
+      "B": "Most insects including cockroaches",
+      "C": "Flatworms",
+      "D": "Marine fishes"
+    },
+    "correct_answer": "B",
+    "explanation": "Most insects, including cockroaches, have Malpighian tubules."
+  },
+  {
+    "source_sentence": "Malpighian tubules help in the removal of nitrogenous wastes and osmoregulation.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Malpighian tubules in insects help in:",
+    "options": {
+      "A": "Respiration and gas transport",
+      "B": "Removal of nitrogenous wastes and osmoregulation",
+      "C": "Circulation of haemolymph only",
+      "D": "Production of silk fibres"
+    },
+    "correct_answer": "B",
+    "explanation": "Malpighian tubules excrete nitrogenous wastes and aid osmoregulation."
+  },
+  {
+    "source_sentence": "Antennial glands or green glands perform the excretory function in crustaceans like prawns.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Antennal or green glands are excretory organs of:",
+    "options": {
+      "A": "Insects",
+      "B": "Annelids",
+      "C": "Crustaceans like prawns",
+      "D": "Birds"
+    },
+    "correct_answer": "C",
+    "explanation": "Green/antennal glands excrete wastes in crustaceans."
+  },
+  {
+    "source_sentence": "In most of the invertebrates, these structures are simple tubular forms whereas vertebrates have complex tubular organs called kidneys.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Vertebrate excretory organs are:",
+    "options": {
+      "A": "Simple tubular protonephridia",
+      "B": "Malpighian tubules",
+      "C": "Complex tubular organs called kidneys",
+      "D": "Green glands"
+    },
+    "correct_answer": "C",
+    "explanation": "Vertebrates possess complex tubular kidneys."
+  },
+  {
+    "source_sentence": "In humans, the excretory system consists of a pair of kidneys, one pair of ureters, a urinary bladder and a urethra.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The human excretory system consists of:",
+    "options": {
+      "A": "One kidney, one ureter, bladder and urethra",
+      "B": "A pair of kidneys, ureters, urinary bladder and urethra",
+      "C": "Kidneys, lungs and liver only",
+      "D": "Kidneys connected directly to urethra without ureters"
+    },
+    "correct_answer": "B",
+    "explanation": "Humans have paired kidneys and ureters, plus bladder and urethra."
+  },
+  {
+    "source_sentence": "Kidneys are reddish brown, bean shaped structures situated between the levels of last thoracic and third lumbar vertebra close to the dorsal inner wall of the abdominal cavity.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Human kidneys are located:",
+    "options": {
+      "A": "In the pelvic cavity below the bladder",
+      "B": "Between last thoracic and third lumbar vertebra, near dorsal abdominal wall",
+      "C": "In the thoracic cavity adjacent to the heart",
+      "D": "In the scrotum outside the abdominal cavity"
+    },
+    "correct_answer": "B",
+    "explanation": "Kidneys lie retroperitoneally between T12 and L3 vertebrae."
+  },
+  {
+    "source_sentence": "Each kidney of an adult human measures 10-12 cm in length, 5-7 cm in width, 2-3 cm in thickness with an average weight of 120-170 g.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The approximate dimensions and weight of an adult human kidney are:",
+    "options": {
+      "A": "5 cm length, 2 cm width, 50 g weight",
+      "B": "10-12 cm length, 5-7 cm width, 2-3 cm thickness, 120-170 g weight",
+      "C": "20 cm length, 10 cm width, 500 g weight",
+      "D": "8 cm length, 8 cm width, 300 g weight"
+    },
+    "correct_answer": "B",
+    "explanation": "Adult kidneys measure about 10-12 × 5-7 × 2-3 cm and weigh 120-170 g."
+  },
+  {
+    "source_sentence": "Towards the centre of the inner concave surface of the kidney is a notch called hilum through which ureter, blood vessels and nerves enter.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The hilum of the kidney is the site where enter:",
+    "options": {
+      "A": "Only lymphatic vessels",
+      "B": "Ureter, blood vessels and nerves",
+      "C": "Collecting ducts from nephrons only",
+      "D": "The urethra and bladder"
+    },
+    "correct_answer": "B",
+    "explanation": "Hilum is the entry/exit point for ureter, vessels and nerves."
+  },
+  {
+    "source_sentence": "Inner to the hilum is a broad funnel shaped space called the renal pelvis with projections called calyces.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The broad funnel-shaped space inner to the hilum with calyceal projections is the:",
+    "options": {
+      "A": "Renal cortex",
+      "B": "Renal pelvis",
+      "C": "Bowman's capsule",
+      "D": "Medullary pyramid base only"
+    },
+    "correct_answer": "B",
+    "explanation": "Renal pelvis is a funnel-shaped cavity with calyces."
+  },
+  {
+    "source_sentence": "Inside the kidney, there are two zones, an outer cortex and an inner medulla.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The two main zones of the kidney are:",
+    "options": {
+      "A": "Outer medulla and inner cortex",
+      "B": "Outer cortex and inner medulla",
+      "C": "Hilum and capsule only",
+      "D": "Pelvis and ureter"
+    },
+    "correct_answer": "B",
+    "explanation": "Kidney has outer cortex and inner medulla."
+  },
+  {
+    "source_sentence": "The medulla is divided into a few conical masses (medullary pyramids) projecting into the calyces.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Medullary pyramids are:",
+    "options": {
+      "A": "Outer cortical extensions into the capsule",
+      "B": "Conical masses in the medulla projecting into calyces",
+      "C": "Tufts of glomerular capillaries",
+      "D": "Branches of the renal artery only"
+    },
+    "correct_answer": "B",
+    "explanation": "Medullary pyramids are conical medullary structures opening into calyces."
+  },
+  {
+    "source_sentence": "The cortex extends in between the medullary pyramids as renal columns called Columns of Bertini.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Columns of Bertini are:",
+    "options": {
+      "A": "Medullary extensions into the cortex",
+      "B": "Cortical tissue extending between medullary pyramids",
+      "C": "Collecting ducts in the renal pelvis",
+      "D": "Capillary networks around PCT"
+    },
+    "correct_answer": "B",
+    "explanation": "Columns of Bertini are cortical columns between pyramids."
+  },
+  {
+    "source_sentence": "Each kidney has nearly one million complex tubular structures called nephrons, which are the functional units.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The functional unit of the kidney is:",
+    "options": {
+      "A": "The renal pelvis",
+      "B": "The nephron (nearly one million per kidney)",
+      "C": "The ureter",
+      "D": "The medullary pyramid"
+    },
+    "correct_answer": "B",
+    "explanation": "Each kidney contains about one million nephrons as functional units."
+  },
+  {
+    "source_sentence": "Each nephron has two parts – the glomerulus and the renal tubule.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "A nephron consists of:",
+    "options": {
+      "A": "Renal pelvis and ureter",
+      "B": "Glomerulus and renal tubule",
+      "C": "Cortex and medulla",
+      "D": "Afferent and efferent veins only"
+    },
+    "correct_answer": "B",
+    "explanation": "Each nephron has a glomerulus and a renal tubule."
+  },
+  {
+    "source_sentence": "Glomerulus is a tuft of capillaries formed by the afferent arteriole – a fine branch of renal artery.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The glomerulus is formed by:",
+    "options": {
+      "A": "A tuft of capillaries from the afferent arteriole (branch of renal artery)",
+      "B": "Venous capillaries from the renal vein",
+      "C": "Lymphatic vessels surrounding the tubule",
+      "D": "The efferent arteriole alone without capillaries"
+    },
+    "correct_answer": "A",
+    "explanation": "Afferent arteriole forms the glomerular capillary tuft."
+  },
+  {
+    "source_sentence": "The renal tubule begins with a double walled cup-like structure called Bowman's capsule, which encloses the glomerulus.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Bowman's capsule is:",
+    "options": {
+      "A": "A single-walled tube in the medulla",
+      "B": "A double-walled cup-like structure enclosing the glomerulus",
+      "C": "The collecting duct opening into calyces",
+      "D": "The outer tough capsule of the kidney"
+    },
+    "correct_answer": "B",
+    "explanation": "Bowman's capsule is a double-walled cup enclosing the glomerulus."
+  },
+  {
+    "source_sentence": "Glomerulus alongwith Bowman's capsule, is called the malpighian body or renal corpuscle.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The Malpighian body or renal corpuscle consists of:",
+    "options": {
+      "A": "PCT and DCT",
+      "B": "Glomerulus and Bowman's capsule",
+      "C": "Henle's loop and collecting duct",
+      "D": "Medullary pyramid and calyx"
+    },
+    "correct_answer": "B",
+    "explanation": "Renal corpuscle = glomerulus + Bowman's capsule."
+  },
+  {
+    "source_sentence": "A hairpin shaped Henle's loop is the next part of the tubule which has a descending and an ascending limb.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Henle's loop is characterised by:",
+    "options": {
+      "A": "A straight tube without bends",
+      "B": "A hairpin shape with descending and ascending limbs",
+      "C": "A cup enclosing capillaries",
+      "D": "Direct connection to the ureter"
+    },
+    "correct_answer": "B",
+    "explanation": "Henle's loop is hairpin-shaped with descending and ascending limbs."
+  },
+  {
+    "source_sentence": "The DCTs of many nephrons open into a straight tube called collecting duct, many of which converge and open into the renal pelvis through medullary pyramids in the calyces.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Collecting ducts ultimately open into the renal pelvis through:",
+    "options": {
+      "A": "Bowman's capsule",
+      "B": "Medullary pyramids in the calyces",
+      "C": "The hilum directly without calyces",
+      "D": "The urinary bladder without ureters"
+    },
+    "correct_answer": "B",
+    "explanation": "Collecting ducts drain via medullary pyramids into calyces and renal pelvis."
+  },
+  {
+    "source_sentence": "In majority of nephrons, the loop of Henle is too short and extends only very little into the medulla. Such nephrons are called cortical nephrons.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Cortical nephrons are characterised by:",
+    "options": {
+      "A": "A very long loop of Henle extending deep into medulla",
+      "B": "A short loop of Henle extending only slightly into medulla",
+      "C": "Absence of glomerulus",
+      "D": "Location entirely within the medulla"
+    },
+    "correct_answer": "B",
+    "explanation": "Most nephrons are cortical with short Henle's loops."
+  },
+  {
+    "source_sentence": "In some of the nephrons, the loop of Henle is very long and runs deep into the medulla. These nephrons are called juxta medullary nephrons.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Juxtamedullary nephrons have:",
+    "options": {
+      "A": "No loop of Henle",
+      "B": "A very long loop of Henle running deep into the medulla",
+      "C": "Only PCT without DCT",
+      "D": "Glomerulus in the medulla only"
+    },
+    "correct_answer": "B",
+    "explanation": "Juxtamedullary nephrons have long loops deep in the medulla."
+  },
+  {
+    "source_sentence": "The efferent arteriole emerging from the glomerulus forms a fine capillary network around the renal tubule called the peritubular capillaries.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Peritubular capillaries are formed by:",
+    "options": {
+      "A": "The afferent arteriole before the glomerulus",
+      "B": "The efferent arteriole forming a network around the renal tubule",
+      "C": "Branches of the renal vein only",
+      "D": "Lymphatic vessels around Bowman's capsule"
+    },
+    "correct_answer": "B",
+    "explanation": "Efferent arteriole gives rise to peritubular capillaries around tubules."
+  },
+  {
+    "source_sentence": "A minute vessel of this network runs parallel to the Henle's loop forming a 'U' shaped vasa recta. Vasa recta is absent or highly reduced in cortical nephrons.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Vasa recta are:",
+    "options": {
+      "A": "Absent in juxtamedullary nephrons",
+      "B": "U-shaped capillaries parallel to Henle's loop; absent or reduced in cortical nephrons",
+      "C": "Arteries supplying only the cortex",
+      "D": "Veins draining directly into the ureter"
+    },
+    "correct_answer": "B",
+    "explanation": "Vasa recta run parallel to Henle's loop and are reduced in cortical nephrons."
+  },
+  {
+    "source_sentence": "Urine formation involves three main processes namely, glomerular filtration, reabsorption and secretion, that takes place in different parts of the nephron.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The three main processes of urine formation are:",
+    "options": {
+      "A": "Digestion, absorption and assimilation",
+      "B": "Glomerular filtration, reabsorption and secretion",
+      "C": "Osmosis, diffusion and active transport only in bladder",
+      "D": "Micturition, dialysis and transplantation"
+    },
+    "correct_answer": "B",
+    "explanation": "Urine formation involves filtration, reabsorption and secretion."
+  },
+  {
+    "source_sentence": "On an average, 1100-1200 ml of blood is filtered by the kidneys per minute which constitute roughly 1/5th of the blood pumped out by each ventricle of the heart in a minute.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The kidneys filter approximately _____ ml of blood per minute, about _____ of ventricular output.",
+    "options": {
+      "A": "500 ml; one-tenth",
+      "B": "1100-1200 ml; one-fifth",
+      "C": "2000 ml; one-half",
+      "D": "125 ml; one-hundredth"
+    },
+    "correct_answer": "B",
+    "explanation": "Kidneys filter 1100-1200 ml blood/min, roughly one-fifth of cardiac output."
+  },
+  {
+    "source_sentence": "The glomerular capillary blood pressure causes filtration of blood through 3 layers, i.e., the endothelium of glomerular blood vessels, the epithelium of Bowman's capsule and a basement membrane between these two layers.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Glomerular filtration occurs through three layers:",
+    "options": {
+      "A": "Cortex, medulla and pelvis",
+      "B": "Glomerular endothelium, basement membrane and Bowman's capsule epithelium",
+      "C": "PCT epithelium, DCT epithelium and collecting duct",
+      "D": "Afferent arteriole wall, efferent arteriole wall and ureter"
+    },
+    "correct_answer": "B",
+    "explanation": "Filtration barrier has endothelium, basement membrane and podocyte epithelium."
+  },
+  {
+    "source_sentence": "The epithelial cells of Bowman's capsule called podocytes are arranged in an intricate manner so as to leave some minute spaces called filtration slits or slit pores.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Podocytes of Bowman's capsule form:",
+    "options": {
+      "A": "A solid impermeable barrier",
+      "B": "Filtration slits or slit pores between intricate cell arrangements",
+      "C": "The basement membrane alone",
+      "D": "The muscular wall of the ureter"
+    },
+    "correct_answer": "B",
+    "explanation": "Podocytes create filtration slits for ultrafiltration."
+  },
+  {
+    "source_sentence": "Blood is filtered so finely through these membranes, that almost all the constituents of the plasma except the proteins pass onto the lumen of the Bowman's capsule. Therefore, it is considered as a process of ultra filtration.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Glomerular filtration is called ultrafiltration because:",
+    "options": {
+      "A": "Only water passes; no solutes filter",
+      "B": "All plasma constituents except proteins pass into Bowman's capsule",
+      "C": "Only proteins are filtered into the capsule",
+      "D": "Blood cells and proteins both pass freely"
+    },
+    "correct_answer": "B",
+    "explanation": "Ultrafiltration allows all plasma solutes except proteins to pass."
+  },
+  {
+    "source_sentence": "GFR in a healthy individual is approximately 125 ml/minute, i.e., 180 litres per day!",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Glomerular filtration rate (GFR) in a healthy individual is approximately:",
+    "options": {
+      "A": "25 ml/minute (36 litres/day)",
+      "B": "125 ml/minute (180 litres/day)",
+      "C": "500 ml/minute (720 litres/day)",
+      "D": "1.5 ml/minute (2 litres/day)"
+    },
+    "correct_answer": "B",
+    "explanation": "Normal GFR is about 125 ml/min, totalling ~180 L filtrate per day."
+  },
+  {
+    "source_sentence": "JGA is a special sensitive region formed by cellular modifications in the distal convoluted tubule and the afferent arteriole at the location of their contact.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The juxtaglomerular apparatus (JGA) is formed at the contact between:",
+    "options": {
+      "A": "PCT and efferent arteriole",
+      "B": "DCT and afferent arteriole",
+      "C": "Collecting duct and renal vein",
+      "D": "Henle's loop and vasa recta only"
+    },
+    "correct_answer": "B",
+    "explanation": "JGA lies where DCT contacts the afferent arteriole."
+  },
+  {
+    "source_sentence": "A fall in GFR can activate the JG cells to release renin which can stimulate the glomerular blood flow and thereby the GFR back to normal.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "A fall in GFR causes JG cells to release renin, which:",
+    "options": {
+      "A": "Decreases glomerular blood flow further",
+      "B": "Stimulates glomerular blood flow and restores GFR toward normal",
+      "C": "Stops all filtration permanently",
+      "D": "Converts urea to uric acid in the liver"
+    },
+    "correct_answer": "B",
+    "explanation": "Renin release helps restore glomerular blood flow and GFR."
+  },
+  {
+    "source_sentence": "Nearly 99 per cent of the filtrate has to be reabsorbed by the renal tubules. This process is called reabsorption.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Approximately what percentage of glomerular filtrate is reabsorbed by renal tubules?",
+    "options": {
+      "A": "50 per cent",
+      "B": "75 per cent",
+      "C": "90 per cent",
+      "D": "99 per cent"
+    },
+    "correct_answer": "D",
+    "explanation": "About 99% of filtrate is reabsorbed; only ~1.5 L becomes urine."
+  },
+  {
+    "source_sentence": "substances like glucose, amino acids, Na⁺, etc., in the filtrate are reabsorbed actively whereas the nitrogenous wastes are absorbed by passive transport.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "During tubular reabsorption, glucose and amino acids are reabsorbed mainly by:",
+    "options": {
+      "A": "Passive transport only",
+      "B": "Active transport",
+      "C": "Facilitated diffusion without energy",
+      "D": "Not reabsorbed at all"
+    },
+    "correct_answer": "B",
+    "explanation": "Glucose, amino acids and Na⁺ are actively reabsorbed."
+  },
+  {
+    "source_sentence": "During urine formation, the tubular cells secrete substances like H⁺, K⁺ and ammonia into the filtrate.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Tubular secretion involves movement of which substances into the filtrate?",
+    "options": {
+      "A": "Glucose and amino acids only",
+      "B": "H⁺, K⁺ and ammonia",
+      "C": "Plasma proteins",
+      "D": "Erythrocytes and platelets"
+    },
+    "correct_answer": "B",
+    "explanation": "Tubular cells secrete H⁺, K⁺ and ammonia into filtrate."
+  },
+  {
+    "source_sentence": "PCT is lined by simple cuboidal brush border epithelium which increases the surface area for reabsorption.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The brush border epithelium of PCT serves to:",
+    "options": {
+      "A": "Decrease surface area for secretion",
+      "B": "Increase surface area for reabsorption",
+      "C": "Prevent all reabsorption of water",
+      "D": "Form the filtration barrier with podocytes"
+    },
+    "correct_answer": "B",
+    "explanation": "Brush border microvilli increase absorptive surface in PCT."
+  },
+  {
+    "source_sentence": "Nearly all of the essential nutrients, and 70-80 per cent of electrolytes and water are reabsorbed by this segment.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The proximal convoluted tubule reabsorbs:",
+    "options": {
+      "A": "No nutrients; only wastes",
+      "B": "Nearly all essential nutrients and 70-80% of electrolytes and water",
+      "C": "Only urea and uric acid",
+      "D": "Less than 10% of filtered water"
+    },
+    "correct_answer": "B",
+    "explanation": "PCT reabsorbs most nutrients and 70-80% of electrolytes and water."
+  },
+  {
+    "source_sentence": "PCT also helps to maintain the pH and ionic balance of the body fluids by selective secretion of hydrogen ions and ammonia into the filtrate and by absorption of HCO₃⁻ from it.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "PCT helps maintain pH balance by:",
+    "options": {
+      "A": "Absorbing H⁺ and secreting HCO₃⁻",
+      "B": "Secreting H⁺ and ammonia and absorbing HCO₃⁻",
+      "C": "Eliminating all bicarbonate in urine",
+      "D": "Converting urea to ammonia only"
+    },
+    "correct_answer": "B",
+    "explanation": "PCT secretes H⁺ and NH₃ while reabsorbing HCO₃⁻ for pH balance."
+  },
+  {
+    "source_sentence": "Reabsorption is minimum in its ascending limb. However, this region plays a significant role in the maintenance of high osmolarity of medullary interstitial fluid.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The ascending limb of Henle's loop:",
+    "options": {
+      "A": "Reabsorbs maximum water",
+      "B": "Has minimum reabsorption but helps maintain high medullary osmolarity",
+      "C": "Is highly permeable to water",
+      "D": "Does not transport electrolytes"
+    },
+    "correct_answer": "B",
+    "explanation": "Ascending limb has little reabsorption but builds medullary osmolarity."
+  },
+  {
+    "source_sentence": "The descending limb of loop of Henle is permeable to water but almost impermeable to electrolytes.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The descending limb of Henle's loop is:",
+    "options": {
+      "A": "Impermeable to water, permeable to electrolytes",
+      "B": "Permeable to water, almost impermeable to electrolytes",
+      "C": "Impermeable to both water and electrolytes",
+      "D": "Permeable only to proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Descending limb allows water out but not electrolytes."
+  },
+  {
+    "source_sentence": "The ascending limb is impermeable to water but allows transport of electrolytes actively or passively.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The ascending limb of Henle's loop is:",
+    "options": {
+      "A": "Permeable to water, impermeable to electrolytes",
+      "B": "Impermeable to water but allows electrolyte transport",
+      "C": "Permeable to both water and proteins",
+      "D": "The main site of glucose reabsorption"
+    },
+    "correct_answer": "B",
+    "explanation": "Ascending limb is water-impermeable but transports electrolytes."
+  },
+  {
+    "source_sentence": "Distal Convoluted Tubule (DCT): Conditional reabsorption of Na⁺ and water takes place in this segment.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Reabsorption of Na⁺ and water in the DCT is:",
+    "options": {
+      "A": "Always maximum regardless of hormones",
+      "B": "Conditional (regulated)",
+      "C": "Absent under all conditions",
+      "D": "Limited to urea only"
+    },
+    "correct_answer": "B",
+    "explanation": "DCT reabsorbs Na⁺ and water conditionally under hormonal control."
+  },
+  {
+    "source_sentence": "Large amounts of water could be reabsorbed from this region to produce a concentrated urine.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The collecting duct is important for urine concentration because:",
+    "options": {
+      "A": "It filters blood like the glomerulus",
+      "B": "Large amounts of water can be reabsorbed here to concentrate urine",
+      "C": "It is the only site of glomerular filtration",
+      "D": "It secretes all plasma proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Collecting duct reabsorbs water under ADH to concentrate urine."
+  },
+  {
+    "source_sentence": "This segment allows passage of small amounts of urea into the medullary interstitium to keep up the osmolarity.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The collecting duct contributes to medullary osmolarity by:",
+    "options": {
+      "A": "Blocking all urea movement",
+      "B": "Allowing small amounts of urea into medullary interstitium",
+      "C": "Secreting only glucose into interstitium",
+      "D": "Removing all NaCl from medulla"
+    },
+    "correct_answer": "B",
+    "explanation": "Some urea diffuses into medullary interstitium from collecting duct."
+  },
+  {
+    "source_sentence": "The flow of filtrate in the two limbs of Henle's loop is in opposite directions and thus forms a counter current.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Counter-current in Henle's loop refers to:",
+    "options": {
+      "A": "Filtrate flowing in the same direction in both limbs",
+      "B": "Filtrate flowing in opposite directions in the two limbs",
+      "C": "Blood flowing only through vasa recta",
+      "D": "Urine stored before micturition"
+    },
+    "correct_answer": "B",
+    "explanation": "Opposite flow in descending and ascending limbs creates counter-current."
+  },
+  {
+    "source_sentence": "from 300 mOsmolL⁻¹ in the cortex to about 1200 mOsmolL⁻¹ in the inner medulla.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The osmolarity gradient in the kidney interstitium ranges from approximately:",
+    "options": {
+      "A": "1200 mOsmol/L in cortex to 300 mOsmol/L in medulla",
+      "B": "300 mOsmol/L in cortex to 1200 mOsmol/L in inner medulla",
+      "C": "Equal 300 mOsmol/L throughout",
+      "D": "50 mOsmol/L in cortex to 50 mOsmol/L in medulla"
+    },
+    "correct_answer": "B",
+    "explanation": "Interstitial osmolarity rises from 300 (cortex) to 1200 mOsmol/L (inner medulla)."
+  },
+  {
+    "source_sentence": "This gradient is mainly caused by NaCl and urea.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The medullary osmolarity gradient is mainly established by:",
+    "options": {
+      "A": "Glucose and amino acids",
+      "B": "NaCl and urea",
+      "C": "Plasma proteins only",
+      "D": "Carbon dioxide and oxygen"
+    },
+    "correct_answer": "B",
+    "explanation": "NaCl and urea are chief solutes creating the medullary gradient."
+  },
+  {
+    "source_sentence": "The above described transport of substances facilitated by the special arrangement of Henle's loop and vasa recta is called the counter current mechanism.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The counter-current mechanism involves the coordinated function of:",
+    "options": {
+      "A": "Bowman's capsule and PCT only",
+      "B": "Henle's loop and vasa recta",
+      "C": "Urinary bladder and urethra",
+      "D": "Lungs and liver"
+    },
+    "correct_answer": "B",
+    "explanation": "Counter-current mechanism depends on Henle's loop and vasa recta arrangement."
+  },
+  {
+    "source_sentence": "Human kidneys can produce urine nearly four times concentrated than the initial filtrate formed.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Human kidneys can concentrate urine to approximately:",
+    "options": {
+      "A": "The same osmolarity as filtrate",
+      "B": "Four times the concentration of initial filtrate",
+      "C": "Ten times diluter than filtrate",
+      "D": "Half the concentration of plasma only"
+    },
+    "correct_answer": "B",
+    "explanation": "Human urine can be about four times more concentrated than initial filtrate."
+  },
+  {
+    "source_sentence": "The functioning of the kidneys is efficiently monitored and regulated by hormonal feedback mechanisms involving the hypothalamus, JGA and to a certain extent, the heart.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Kidney function is regulated by hormonal feedback involving:",
+    "options": {
+      "A": "Pancreas, thyroid and pituitary only",
+      "B": "Hypothalamus, JGA and to some extent the heart",
+      "C": "Skin and skeletal muscle only",
+      "D": "Adrenal medulla alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Hypothalamus, JGA and heart (ANF) regulate kidney function."
+  },
+  {
+    "source_sentence": "An excessive loss of fluid from the body can activate these receptors which stimulate the hypothalamus to release antidiuretic hormone (ADH) or vasopressin from the neurohypophysis.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Excessive fluid loss stimulates release of ADH (vasopressin) from:",
+    "options": {
+      "A": "Adrenal cortex",
+      "B": "Neurohypophysis (posterior pituitary), via hypothalamic stimulation",
+      "C": "Thyroid gland",
+      "D": "Renal cortex directly"
+    },
+    "correct_answer": "B",
+    "explanation": "Osmoreceptor activation leads to ADH release from neurohypophysis."
+  },
+  {
+    "source_sentence": "ADH facilitates water reabsorption from latter parts of the tubule, thereby preventing diuresis.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "ADH acts on the kidney by:",
+    "options": {
+      "A": "Promoting water loss and diuresis",
+      "B": "Facilitating water reabsorption from latter tubule parts, reducing urine volume",
+      "C": "Blocking all Na⁺ reabsorption",
+      "D": "Increasing glomerular filtration of proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "ADH promotes water reabsorption in distal nephron, antidiuresis."
+  },
+  {
+    "source_sentence": "ADH can also affect the kidney function by its constrictory effects on blood vessels. This causes an increase in blood pressure. An increase in blood pressure can increase the glomerular blood flow and thereby the GFR.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "ADH can indirectly increase GFR by:",
+    "options": {
+      "A": "Dilating all renal blood vessels",
+      "B": "Constricting blood vessels, raising blood pressure and glomerular blood flow",
+      "C": "Stopping renin release completely",
+      "D": "Blocking aldosterone synthesis"
+    },
+    "correct_answer": "B",
+    "explanation": "ADH vasoconstriction raises BP, which can increase GFR."
+  },
+  {
+    "source_sentence": "renin which converts angiotensinogen in blood to angiotensin I and further to angiotensin II.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Renin acts on _____ to ultimately form _____.",
+    "options": {
+      "A": "Angiotensin II; angiotensinogen",
+      "B": "Angiotensinogen; angiotensin I and then angiotensin II",
+      "C": "Aldosterone; cortisol",
+      "D": "ADH; oxytocin"
+    },
+    "correct_answer": "B",
+    "explanation": "Renin converts angiotensinogen to angiotensin I, then to angiotensin II."
+  },
+  {
+    "source_sentence": "Angiotensin II, being a powerful vasoconstrictor, increases the glomerular blood pressure and thereby GFR.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Angiotensin II increases GFR primarily by:",
+    "options": {
+      "A": "Vasodilation of afferent arteriole",
+      "B": "Acting as a powerful vasoconstrictor, raising glomerular blood pressure",
+      "C": "Decreasing blood volume",
+      "D": "Inhibiting aldosterone release"
+    },
+    "correct_answer": "B",
+    "explanation": "Angiotensin II is a vasoconstrictor that raises glomerular pressure and GFR."
+  },
+  {
+    "source_sentence": "Angiotensin II also activates the adrenal cortex to release Aldosterone. Aldosterone causes reabsorption of Na⁺ and water from the distal parts of the tubule.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Aldosterone, stimulated by angiotensin II, causes:",
+    "options": {
+      "A": "Secretion of Na⁺ into urine",
+      "B": "Reabsorption of Na⁺ and water from distal tubule parts",
+      "C": "Complete cessation of urine formation",
+      "D": "Conversion of urea to ammonia in PCT"
+    },
+    "correct_answer": "B",
+    "explanation": "Aldosterone promotes Na⁺ and water reabsorption in distal nephron."
+  },
+  {
+    "source_sentence": "An increase in blood flow to the atria of the heart can cause the release of Atrial Natriuretic Factor (ANF).",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Atrial Natriuretic Factor (ANF) is released when:",
+    "options": {
+      "A": "Blood flow to atria decreases",
+      "B": "Blood flow to atria increases",
+      "C": "GFR falls to zero",
+      "D": "ADH levels are highest"
+    },
+    "correct_answer": "B",
+    "explanation": "Increased atrial stretch from high blood flow triggers ANF release."
+  },
+  {
+    "source_sentence": "ANF can cause vasodilation (dilation of blood vessels) and thereby decrease the blood pressure. ANF mechanism, therefore, acts as a check on the renin-angiotensin mechanism.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "ANF opposes the renin-angiotensin system by:",
+    "options": {
+      "A": "Causing vasoconstriction and raising blood pressure",
+      "B": "Causing vasodilation and decreasing blood pressure",
+      "C": "Stimulating more renin release",
+      "D": "Increasing aldosterone secretion"
+    },
+    "correct_answer": "B",
+    "explanation": "ANF promotes vasodilation and lowers BP, countering renin-angiotensin."
+  },
+  {
+    "source_sentence": "Urine formed by the nephrons is ultimately carried to the urinary bladder where it is stored till a voluntary signal is given by the central nervous system (CNS).",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Urine is stored in the urinary bladder until:",
+    "options": {
+      "A": "Automatic emptying without neural control",
+      "B": "A voluntary signal from the CNS initiates release",
+      "C": "The kidneys stop producing filtrate",
+      "D": "ADH is completely absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Bladder stores urine until CNS-mediated voluntary voiding."
+  },
+  {
+    "source_sentence": "This signal is initiated by the stretching of the urinary bladder as it gets filled with urine.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The micturition reflex is initiated by:",
+    "options": {
+      "A": "Decreased bladder volume",
+      "B": "Stretching of the urinary bladder as it fills",
+      "C": "High ADH levels only",
+      "D": "Contraction of urethral sphincter alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Bladder distension triggers stretch receptors initiating micturition."
+  },
+  {
+    "source_sentence": "The CNS passes on motor messages to initiate the contraction of smooth muscles of the bladder and simultaneous relaxation of the urethral sphincter causing the release of urine.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "During micturition, the CNS causes:",
+    "options": {
+      "A": "Bladder relaxation and sphincter contraction",
+      "B": "Bladder smooth muscle contraction and urethral sphincter relaxation",
+      "C": "Kidney shutdown and ureter constriction",
+      "D": "Only passive dripping without muscle action"
+    },
+    "correct_answer": "B",
+    "explanation": "Voiding requires bladder contraction and sphincter relaxation."
+  },
+  {
+    "source_sentence": "The process of release of urine is called micturition and the neural mechanisms causing it is called the micturition reflex.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Micturition and micturition reflex respectively refer to:",
+    "options": {
+      "A": "Filtration of blood; JGA activity",
+      "B": "Release of urine; neural mechanism causing it",
+      "C": "Reabsorption of water; ADH action only",
+      "D": "Formation of urea; liver function"
+    },
+    "correct_answer": "B",
+    "explanation": "Micturition is urine release; micturition reflex is its neural control."
+  },
+  {
+    "source_sentence": "An adult human excretes, on an average, 1 to 1.5 litres of urine per day.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Average daily urine output in a healthy adult human is:",
+    "options": {
+      "A": "0.1 to 0.2 litres",
+      "B": "1 to 1.5 litres",
+      "C": "5 to 10 litres",
+      "D": "180 litres"
+    },
+    "correct_answer": "B",
+    "explanation": "Daily urine volume averages 1-1.5 litres despite ~180 L filtrate."
+  },
+  {
+    "source_sentence": "The urine formed is a light yellow coloured watery fluid which is slightly acidic (pH-6.0) and has a characteristic odour.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Normal human urine is typically:",
+    "options": {
+      "A": "Dark red, strongly alkaline (pH 9)",
+      "B": "Light yellow, slightly acidic (pH ~6.0), with characteristic odour",
+      "C": "Colourless and strongly basic (pH 8)",
+      "D": "Thick oily fluid without odour"
+    },
+    "correct_answer": "B",
+    "explanation": "Normal urine is light yellow, slightly acidic (~pH 6) with characteristic smell."
+  },
+  {
+    "source_sentence": "On an average, 25-30 gm of urea is excreted out per day.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Average daily urea excretion in humans is approximately:",
+    "options": {
+      "A": "1-2 g",
+      "B": "25-30 g",
+      "C": "100-150 g",
+      "D": "500 g"
+    },
+    "correct_answer": "B",
+    "explanation": "Humans excrete roughly 25-30 g urea per day."
+  },
+  {
+    "source_sentence": "presence of glucose (Glycosuria) and ketone bodies (Ketonuria) in urine are indicative of diabetes mellitus.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Glycosuria and ketonuria in urine may indicate:",
+    "options": {
+      "A": "Normal kidney function",
+      "B": "Diabetes mellitus",
+      "C": "Excessive water intake only",
+      "D": "High protein diet without metabolic disorder"
+    },
+    "correct_answer": "B",
+    "explanation": "Glucose and ketone bodies in urine suggest diabetes mellitus."
+  },
+  {
+    "source_sentence": "Our lungs remove large amounts of CO₂ (approximately 200mL/minute) and also significant quantities of water every day.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The lungs contribute to excretion by removing approximately:",
+    "options": {
+      "A": "200 mL CO₂ per minute and significant water daily",
+      "B": "Only urea in large amounts",
+      "C": "Bilirubin as primary waste",
+      "D": "No metabolic wastes"
+    },
+    "correct_answer": "A",
+    "explanation": "Lungs excrete ~200 mL CO₂/min and considerable water vapour."
+  },
+  {
+    "source_sentence": "Liver, the largest gland in our body, secretes bile-containing substances like bilirubin, biliverdin, cholesterol, degraded steroid hormones, vitamins and drugs.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The liver aids excretion by secreting bile containing:",
+    "options": {
+      "A": "Only digestive enzymes for proteins",
+      "B": "Bilirubin, biliverdin, cholesterol, degraded steroids, vitamins and drugs",
+      "C": "Urea and uric acid exclusively",
+      "D": "NaCl and lactic acid only"
+    },
+    "correct_answer": "B",
+    "explanation": "Bile carries various waste products including bilirubin and drug metabolites."
+  },
+  {
+    "source_sentence": "Sweat produced by the sweat glands is a watery fluid containing NaCl, small amounts of urea, lactic acid, etc.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Human sweat contains:",
+    "options": {
+      "A": "Only pure water without solutes",
+      "B": "NaCl, small amounts of urea, lactic acid, etc.",
+      "C": "Large amounts of uric acid pellets",
+      "D": "Bile pigments primarily"
+    },
+    "correct_answer": "B",
+    "explanation": "Sweat is a watery fluid with NaCl, urea and lactic acid among other solutes."
+  },
+  {
+    "source_sentence": "Though the primary function of sweat is to facilitate a cooling effect on the body surface, it also helps in the removal of some of the wastes mentioned above.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The primary function of sweat is:",
+    "options": {
+      "A": "Excretion of nitrogenous wastes as main role",
+      "B": "Cooling the body surface; also removes some wastes secondarily",
+      "C": "Production of sebum for skin protection",
+      "D": "Filtration of blood like glomerulus"
+    },
+    "correct_answer": "B",
+    "explanation": "Sweat mainly cools the body but also eliminates some wastes."
+  },
+  {
+    "source_sentence": "Sebaceous glands eliminate certain substances like sterols, hydrocarbons and waxes through sebum.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Sebaceous glands excrete substances such as:",
+    "options": {
+      "A": "Urea and ammonia primarily",
+      "B": "Sterols, hydrocarbons and waxes through sebum",
+      "C": "CO₂ and O₂",
+      "D": "Bile salts and bilirubin"
+    },
+    "correct_answer": "B",
+    "explanation": "Sebum carries sterols, hydrocarbons and waxes to the skin surface."
+  },
+  {
+    "source_sentence": "Malfunctioning of kidneys can lead to accumulation of urea in blood, a condition called uremia, which is highly harmful and may lead to kidney failure.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Uremia is:",
+    "options": {
+      "A": "Excess water in blood only",
+      "B": "Accumulation of urea in blood due to kidney malfunction",
+      "C": "Presence of glucose in urine",
+      "D": "Inflammation of urethra only"
+    },
+    "correct_answer": "B",
+    "explanation": "Uremia is dangerous urea buildup in blood from failed kidney function."
+  },
+  {
+    "source_sentence": "During the process of haemodialysis, the blood drained from a convenient artery is pumped into a dialysing unit after adding an anticoagulant like heparin.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "During haemodialysis, blood is drawn from an artery and:",
+    "options": {
+      "A": "Filtered directly in the liver without anticoagulant",
+      "B": "Pumped to a dialysing unit after adding anticoagulant like heparin",
+      "C": "Stored in the urinary bladder",
+      "D": "Mixed with concentrated urea solution"
+    },
+    "correct_answer": "B",
+    "explanation": "Arterial blood with heparin enters the artificial kidney unit."
+  },
+  {
+    "source_sentence": "The unit contains a coiled cellophane tube surrounded by a fluid (dialysing fluid) having the same composition as that of plasma except the nitrogenous wastes.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Dialysing fluid in haemodialysis has composition:",
+    "options": {
+      "A": "Identical to urine including all wastes",
+      "B": "Same as plasma except nitrogenous wastes are absent",
+      "C": "Pure distilled water only",
+      "D": "Higher urea than blood to draw wastes in"
+    },
+    "correct_answer": "B",
+    "explanation": "Dialysate matches plasma minus nitrogenous wastes for diffusion out."
+  },
+  {
+    "source_sentence": "The cleared blood is pumped back to the body through a vein after adding anti-heparin to it.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "After haemodialysis, cleared blood is returned to the body via a vein with:",
+    "options": {
+      "A": "Additional heparin to prevent clotting",
+      "B": "Anti-heparin added",
+      "C": "No modification",
+      "D": "Concentrated urea reinfusion"
+    },
+    "correct_answer": "B",
+    "explanation": "Anti-heparin is added before returning blood to reverse anticoagulation."
+  },
+  {
+    "source_sentence": "Kidney transplantation is the ultimate method in the correction of acute renal failures (kidney failure). A functioning kidney is used in transplantation from a donor, preferably a close relative, to minimise its chances of rejection by the immune system of the host.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Kidney transplantation for renal failure preferably uses a donor kidney from:",
+    "options": {
+      "A": "Any unrelated donor without tissue matching",
+      "B": "A close relative to minimise immune rejection",
+      "C": "An animal source routinely",
+      "D": "The patient's own failed kidney reimplanted"
+    },
+    "correct_answer": "B",
+    "explanation": "Close relative donors reduce likelihood of immune rejection."
+  },
+  {
+    "source_sentence": "Renal calculi: Stone or insoluble mass of crystallised salts (oxalates, etc.) formed within the kidney.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Renal calculi (kidney stones) are:",
+    "options": {
+      "A": "Inflammatory swellings of glomeruli",
+      "B": "Insoluble masses of crystallised salts like oxalates within the kidney",
+      "C": "Benign tumours of the ureter",
+      "D": "Accumulations of urea only in blood"
+    },
+    "correct_answer": "B",
+    "explanation": "Renal calculi are crystallised salt stones in the kidney."
+  },
+  {
+    "source_sentence": "Glomerulonephritis: Inflammation of glomeruli of kidney.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Glomerulonephritis is defined as:",
+    "options": {
+      "A": "Stone formation in renal pelvis",
+      "B": "Inflammation of the glomeruli of the kidney",
+      "C": "Excess ADH secretion",
+      "D": "Urea accumulation in blood without glomerular involvement"
+    },
+    "correct_answer": "B",
+    "explanation": "Glomerulonephritis is inflammation of kidney glomeruli."
+  },
+  {
+    "source_sentence": "The Malpighian corpuscle, PCT and DCT of the nephron are situated in the cortical region of the kidney whereas the loop of Henle dips into the medulla.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Which nephron parts are located in the cortical region?",
+    "options": {
+      "A": "Only Henle's loop and vasa recta",
+      "B": "Malpighian corpuscle, PCT and DCT",
+      "C": "Collecting duct only in medulla",
+      "D": "Entire nephron including all loops in cortex only"
+    },
+    "correct_answer": "B",
+    "explanation": "Renal corpuscle, PCT and DCT lie in cortex; Henle's loop enters medulla."
+  },
+  {
+    "source_sentence": "Tubular secretion is also an important step in urine formation as it helps in the maintenance of ionic and acid base balance of body fluids.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Tubular secretion is important because it helps maintain:",
+    "options": {
+      "A": "Only glucose concentration in filtrate",
+      "B": "Ionic and acid-base balance of body fluids",
+      "C": "Red blood cell count in urine",
+      "D": "Protein levels in glomerular filtrate"
+    },
+    "correct_answer": "B",
+    "explanation": "Secretion of ions and H⁺/NH₃ maintains acid-base and ionic balance."
+  },
+  {
+    "source_sentence": "Do you know that small amounts of nitrogenous wastes could be eliminated through saliva too?",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Besides kidneys, skin and lungs, small amounts of nitrogenous wastes may also be eliminated through:",
+    "options": {
+      "A": "Saliva",
+      "B": "Tears only",
+      "C": "Cerebrospinal fluid exclusively",
+      "D": "Bone matrix"
+    },
+    "correct_answer": "A",
+    "explanation": "Saliva can carry small quantities of nitrogenous wastes."
+  },
+  {
+    "source_sentence": "This complex mechanism is generally known as the Renin-Angiotensin mechanism.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The regulatory pathway involving renin, angiotensin II and aldosterone is called:",
+    "options": {
+      "A": "Counter-current mechanism",
+      "B": "Renin-angiotensin mechanism",
+      "C": "Micturition reflex",
+      "D": "Ultrafiltration mechanism"
+    },
+    "correct_answer": "B",
+    "explanation": "Renin-angiotensin-aldosterone system regulates BP and kidney function."
+  },
+  {
+    "source_sentence": "An increase in body fluid volume can switch off the osmoreceptors and suppress the ADH release to complete the feedback.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Increased body fluid volume leads to:",
+    "options": {
+      "A": "Increased ADH release and more water reabsorption",
+      "B": "Switching off osmoreceptors and suppressed ADH release",
+      "C": "Immediate kidney shutdown",
+      "D": "Maximum urine concentration always"
+    },
+    "correct_answer": "B",
+    "explanation": "High fluid volume inhibits osmoreceptors and reduces ADH secretion."
+  },
+  {
+    "source_sentence": "The porous cellophane membrane of the tube allows the passage of molecules based on concentration gradient. As nitrogenous wastes are absent in the dialysing fluid, these substances freely move out, thereby clearing the blood.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "In haemodialysis, nitrogenous wastes leave the blood because:",
+    "options": {
+      "A": "They are actively pumped into dialysate by heart",
+      "B": "They diffuse down concentration gradient through porous membrane into waste-free dialysate",
+      "C": "Cellophane membrane blocks all small molecules",
+      "D": "Dialysate contains higher urea than blood"
+    },
+    "correct_answer": "B",
+    "explanation": "Wastes diffuse out through cellophane into dialysate lacking those solutes."
+  },
+  {
+    "source_sentence": "Nature of nitrogenous wastes formed and their excretion vary among animals, mainly depending on the habitat (availability of water).",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The type of nitrogenous waste excreted by animals mainly depends on:",
+    "options": {
+      "A": "Body size only",
+      "B": "Habitat and availability of water",
+      "C": "Presence of feathers or scales only",
+      "D": "Number of nephrons exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Water availability in habitat shapes nitrogenous waste strategy."
+  },
+  {
+    "source_sentence": "Blood from the glomerulus is carried away by an efferent arteriole.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "Blood leaving the glomerulus passes into the:",
+    "options": {
+      "A": "Afferent arteriole",
+      "B": "Efferent arteriole",
+      "C": "Renal vein directly",
+      "D": "Bowman's capsule lumen as whole blood"
+    },
+    "correct_answer": "B",
+    "explanation": "Filtered blood exits glomerulus via efferent arteriole."
+  },
+  {
+    "source_sentence": "Collecting duct: This long duct extends from the cortex of the kidney to the inner parts of the medulla.",
+    "chapter": "Chapter 16: Excretory Products and Their Elimination",
+    "question": "The collecting duct extends:",
+    "options": {
+      "A": "Only within the renal cortex",
+      "B": "From cortex to inner parts of the medulla",
+      "C": "From bladder to urethra",
+      "D": "From glomerulus to afferent arteriole"
+    },
+    "correct_answer": "B",
+    "explanation": "Collecting ducts run from cortex deep into medulla."
+  }
+]

@@ -1,0 +1,990 @@
+[
+  {
+    "source_sentence": "An ecosystem can be visualised as a functional unit of nature, where living organisms interact among themselves and also with the surrounding physical environment.",
+    "question": "An ecosystem is best described as:",
+    "options": {
+      "A": "A purely physical environment without organisms",
+      "B": "A functional unit of nature where organisms interact with each other and the physical environment",
+      "C": "Only a collection of plant species",
+      "D": "A man-made laboratory setup"
+    },
+    "correct_answer": "B",
+    "explanation": "Ecosystems are functional units where biotic and abiotic components interact.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Ecosystem varies greatly in size from a small pond to a large forest or a sea.",
+    "question": "Regarding the size of ecosystems, which statement is correct?",
+    "options": {
+      "A": "All ecosystems are of equal size",
+      "B": "Ecosystems vary greatly from small ponds to large forests or seas",
+      "C": "Only aquatic ecosystems vary in size",
+      "D": "Terrestrial ecosystems are always smaller than aquatic ones"
+    },
+    "correct_answer": "B",
+    "explanation": "Ecosystems range from very small (pond) to very large (forest, sea).",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Many ecologists regard the entire biosphere as a global ecosystem, as a composite of all local ecosystems on Earth.",
+    "question": "The biosphere is regarded by many ecologists as:",
+    "options": {
+      "A": "A separate entity unrelated to local ecosystems",
+      "B": "A global ecosystem comprising all local ecosystems on Earth",
+      "C": "Only the atmospheric layer",
+      "D": "Exclusively terrestrial habitats"
+    },
+    "correct_answer": "B",
+    "explanation": "The biosphere is considered a composite global ecosystem of all local ecosystems.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Since this system is too much big and complex to be studied at one time, it is convenient to divide it into two basic categories, namely terrestrial and aquatic.",
+    "question": "Ecosystems are broadly divided into which two categories?",
+    "options": {
+      "A": "Marine and freshwater",
+      "B": "Terrestrial and aquatic",
+      "C": "Tropical and temperate",
+      "D": "Natural and artificial only"
+    },
+    "correct_answer": "B",
+    "explanation": "For study purposes, ecosystems are divided into terrestrial and aquatic categories.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Forest, grassland and desert are some examples of terrestrial ecosystems; pond, lake, wetland, river and estuary are some examples of aquatic ecosystems.",
+    "question": "Which of the following is an aquatic ecosystem?",
+    "options": {
+      "A": "Grassland",
+      "B": "Desert",
+      "C": "Estuary",
+      "D": "Forest"
+    },
+    "correct_answer": "C",
+    "explanation": "Pond, lake, wetland, river and estuary are aquatic; forest, grassland and desert are terrestrial.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Crop fields and an aquarium may also be considered as man-made ecosystems.",
+    "question": "Which of the following is mentioned as a man-made ecosystem?",
+    "options": {
+      "A": "Wetland",
+      "B": "Estuary",
+      "C": "Aquarium",
+      "D": "Grassland"
+    },
+    "correct_answer": "C",
+    "explanation": "Crop fields and aquariums are examples of man-made ecosystems.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Identification and enumeration of plant and animal species of an ecosystem gives its species composition.",
+    "question": "The identification and enumeration of plant and animal species of an ecosystem gives its:",
+    "options": {
+      "A": "Stratification",
+      "B": "Species composition",
+      "C": "Primary productivity",
+      "D": "Standing crop"
+    },
+    "correct_answer": "B",
+    "explanation": "Species composition refers to identifying and enumerating species in an ecosystem.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Vertical distribution of different species occupying different levels is called stratification.",
+    "question": "The vertical distribution of different species occupying different levels in an ecosystem is called:",
+    "options": {
+      "A": "Species composition",
+      "B": "Stratification",
+      "C": "Productivity",
+      "D": "Mineralisation"
+    },
+    "correct_answer": "B",
+    "explanation": "Stratification is the vertical layering of species in an ecosystem.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "For example, trees occupy top vertical strata or layer of a forest, shrubs the second and herbs and grasses occupy the bottom layers.",
+    "question": "In a forest ecosystem, which organisms typically occupy the bottom layers?",
+    "options": {
+      "A": "Trees",
+      "B": "Shrubs",
+      "C": "Herbs and grasses",
+      "D": "Top carnivores"
+    },
+    "correct_answer": "C",
+    "explanation": "Trees occupy the top layer, shrubs the second, and herbs/grasses the bottom layers.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The components of the ecosystem are seen to function as a unit when you consider the following aspects: (i) Productivity; (ii) Decomposition; (iii) Energy flow; and (iv) Nutrient cycling.",
+    "question": "Which of the following is NOT listed as a key functional aspect of an ecosystem?",
+    "options": {
+      "A": "Productivity",
+      "B": "Decomposition",
+      "C": "Energy flow",
+      "D": "Speciation"
+    },
+    "correct_answer": "D",
+    "explanation": "The four functional aspects are productivity, decomposition, energy flow and nutrient cycling.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "A pond is a shallow water body in which all the above mentioned four basic components of an ecosystem are well exhibited.",
+    "question": "Which aquatic example is used in NCERT to illustrate all four basic ecosystem components?",
+    "options": {
+      "A": "Ocean",
+      "B": "River",
+      "C": "Pond",
+      "D": "Estuary"
+    },
+    "correct_answer": "C",
+    "explanation": "A pond is described as a shallow, self-sustainable unit exhibiting all four components.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The abiotic component is the water with all the dissolved inorganic and organic substances and the rich soil deposit at the bottom of the pond.",
+    "question": "In a pond ecosystem, the abiotic component includes:",
+    "options": {
+      "A": "Only phytoplankton",
+      "B": "Water with dissolved substances and bottom soil deposits",
+      "C": "Only zooplankton",
+      "D": "Only decomposers"
+    },
+    "correct_answer": "B",
+    "explanation": "Abiotic components include water, dissolved materials and bottom soil deposits.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The autotrophic components include the phytoplankton, some algae and the floating, submerged and marginal plants found at the edges.",
+    "question": "Autotrophic components of a pond ecosystem include:",
+    "options": {
+      "A": "Zooplankton and fishes",
+      "B": "Phytoplankton, algae and aquatic plants",
+      "C": "Fungi and bacteria only",
+      "D": "Earthworms"
+    },
+    "correct_answer": "B",
+    "explanation": "Autotrophs in a pond include phytoplankton, algae and various aquatic plants.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The consumers are represented by the zooplankton, the free swimming and bottom dwelling forms.",
+    "question": "Consumers in a pond ecosystem are represented by:",
+    "options": {
+      "A": "Phytoplankton only",
+      "B": "Zooplankton and free-swimming and bottom-dwelling forms",
+      "C": "Only marginal plants",
+      "D": "Only bacteria"
+    },
+    "correct_answer": "B",
+    "explanation": "Consumers include zooplankton and various free-swimming and bottom-dwelling animals.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The decomposers are the fungi, bacteria and flagellates especially abundant in the bottom of the pond.",
+    "question": "Decomposers in a pond are especially abundant:",
+    "options": {
+      "A": "At the water surface only",
+      "B": "Among phytoplankton",
+      "C": "At the bottom of the pond",
+      "D": "Only among marginal plants"
+    },
+    "correct_answer": "C",
+    "explanation": "Fungi, bacteria and flagellates acting as decomposers are abundant at the pond bottom.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "There is unidirectional movement of energy towards the higher trophic levels and its dissipation and loss as heat to the environment.",
+    "question": "Energy movement in an ecosystem is:",
+    "options": {
+      "A": "Bidirectional between all trophic levels",
+      "B": "Unidirectional towards higher trophic levels with heat loss",
+      "C": "Cyclic with no energy loss",
+      "D": "Limited to decomposers only"
+    },
+    "correct_answer": "B",
+    "explanation": "Energy flows unidirectionally upward and is lost as heat at each step.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "A constant input of solar energy is the basic requirement for any ecosystem to function and sustain.",
+    "question": "The basic requirement for any ecosystem to function and sustain is:",
+    "options": {
+      "A": "Constant input of solar energy",
+      "B": "High rainfall only",
+      "C": "Absence of decomposers",
+      "D": "Large carnivore populations"
+    },
+    "correct_answer": "A",
+    "explanation": "Solar energy input is essential for ecosystem function and sustainability.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Primary production is defined as the amount of biomass or organic matter produced per unit area over a time period by plants during photosynthesis.",
+    "question": "Primary production is defined as:",
+    "options": {
+      "A": "Organic matter consumed by carnivores",
+      "B": "Biomass or organic matter produced per unit area per time by plants during photosynthesis",
+      "C": "Rate of decomposition of detritus",
+      "D": "Energy lost as heat"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary production is biomass/organic matter produced by plants via photosynthesis per unit area over time.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The rate of biomass production is called productivity.",
+    "question": "The rate of biomass production is called:",
+    "options": {
+      "A": "Standing crop",
+      "B": "Productivity",
+      "C": "Stratification",
+      "D": "Humification"
+    },
+    "correct_answer": "B",
+    "explanation": "Productivity specifically refers to the rate of biomass production.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "It can be divided into gross primary productivity (GPP) and net primary productivity (NPP).",
+    "question": "Primary productivity is divided into:",
+    "options": {
+      "A": "GPP and NPP",
+      "B": "GPP and secondary productivity only",
+      "C": "NPP and decomposition rate",
+      "D": "Standing crop and productivity"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary productivity splits into gross primary productivity (GPP) and net primary productivity (NPP).",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Gross primary productivity of an ecosystem is the rate of production of organic matter during photosynthesis.",
+    "question": "Gross primary productivity (GPP) is:",
+    "options": {
+      "A": "Biomass available to heterotrophs after respiration",
+      "B": "Rate of organic matter production during photosynthesis",
+      "C": "Rate of formation of organic matter by consumers",
+      "D": "Energy lost as heat at each trophic level"
+    },
+    "correct_answer": "B",
+    "explanation": "GPP is the rate of organic matter production during photosynthesis.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Gross primary productivity minus respiration losses (R), is the net primary productivity (NPP).",
+    "question": "Net primary productivity (NPP) equals:",
+    "options": {
+      "A": "GPP + R",
+      "B": "GPP − R",
+      "C": "GPP × R",
+      "D": "Secondary productivity − R"
+    },
+    "correct_answer": "B",
+    "explanation": "NPP = GPP − R, where R represents respiration losses.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Net primary productivity is the available biomass for the consumption to heterotrophs (herbivores and decomposers).",
+    "question": "Net primary productivity represents:",
+    "options": {
+      "A": "Total solar radiation received",
+      "B": "Biomass available for heterotroph consumption",
+      "C": "Energy trapped by carnivores",
+      "D": "Humus accumulated in soil"
+    },
+    "correct_answer": "B",
+    "explanation": "NPP is the biomass available to herbivores and decomposers.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Secondary productivity is defined as the rate of formation of new organic matter by consumers.",
+    "question": "Secondary productivity is:",
+    "options": {
+      "A": "Organic matter produced by plants during photosynthesis",
+      "B": "Rate of formation of new organic matter by consumers",
+      "C": "Rate of humus formation",
+      "D": "Total biomass of producers"
+    },
+    "correct_answer": "B",
+    "explanation": "Secondary productivity is new organic matter formed by consumers.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The annual net primary productivity of the whole biosphere is approximately 170 billion tons (dry weight) of organic matter.",
+    "question": "The annual net primary productivity of the whole biosphere is approximately:",
+    "options": {
+      "A": "55 billion tons",
+      "B": "170 billion tons (dry weight)",
+      "C": "500 billion tons",
+      "D": "10 billion tons"
+    },
+    "correct_answer": "B",
+    "explanation": "Global annual NPP is about 170 billion tons dry weight of organic matter.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Of this, despite occupying about 70 per cent of the surface, the productivity of the oceans are only 55 billion tons.",
+    "question": "Despite covering about 70% of Earth's surface, oceans contribute approximately how much to global NPP?",
+    "options": {
+      "A": "170 billion tons",
+      "B": "120 billion tons",
+      "C": "55 billion tons",
+      "D": "10 billion tons"
+    },
+    "correct_answer": "C",
+    "explanation": "Oceans occupy ~70% of surface but contribute only ~55 billion tons of NPP.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Primary productivity depends on the plant species inhabiting a particular area.",
+    "question": "Primary productivity depends on all of the following EXCEPT:",
+    "options": {
+      "A": "Plant species inhabiting the area",
+      "B": "Environmental factors and nutrient availability",
+      "C": "Photosynthetic capacity of plants",
+      "D": "Number of top carnivores"
+    },
+    "correct_answer": "D",
+    "explanation": "Primary productivity depends on plant species, environmental factors, nutrients and photosynthetic capacity—not carnivore numbers.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Detritivores (e.g., earthworm) break down detritus into smaller particles. This process is called fragmentation.",
+    "question": "The process by which detritivores like earthworms break detritus into smaller particles is called:",
+    "options": {
+      "A": "Leaching",
+      "B": "Fragmentation",
+      "C": "Humification",
+      "D": "Mineralisation"
+    },
+    "correct_answer": "B",
+    "explanation": "Fragmentation is the breakdown of detritus into smaller particles by detritivores.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "By the process of leaching, water-soluble inorganic nutrients go down into the soil horizon and get precipitated as unavailable salts.",
+    "question": "Leaching during decomposition involves:",
+    "options": {
+      "A": "Breakdown of detritus by earthworms",
+      "B": "Water-soluble inorganic nutrients moving down the soil and precipitating as unavailable salts",
+      "C": "Formation of humus",
+      "D": "Secretion of digestive enzymes by fungi"
+    },
+    "correct_answer": "B",
+    "explanation": "Leaching moves water-soluble nutrients into soil horizons where they may precipitate.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Bacterial and fungal enzymes degrade detritus into simpler inorganic substances. This process is called as catabolism.",
+    "question": "Degradation of detritus into simpler inorganic substances by bacterial and fungal enzymes is called:",
+    "options": {
+      "A": "Fragmentation",
+      "B": "Leaching",
+      "C": "Catabolism",
+      "D": "Stratification"
+    },
+    "correct_answer": "C",
+    "explanation": "Catabolism is enzymatic degradation of detritus into simpler inorganic substances.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Dead plant remains such as leaves, bark, flowers and dead remains of animals, including fecal matter, constitute detritus, which is the raw material for decomposition.",
+    "question": "Detritus, the raw material for decomposition, includes:",
+    "options": {
+      "A": "Only living plant roots",
+      "B": "Dead plant remains, dead animals and fecal matter",
+      "C": "Only dissolved gases",
+      "D": "Only humus"
+    },
+    "correct_answer": "B",
+    "explanation": "Detritus comprises dead plant parts, dead animals and fecal matter.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The important steps in the process of decomposition are fragmentation, leaching, catabolism, humification and mineralisation.",
+    "question": "Which is NOT a step in decomposition?",
+    "options": {
+      "A": "Humification",
+      "B": "Mineralisation",
+      "C": "Fragmentation",
+      "D": "Photosynthesis"
+    },
+    "correct_answer": "D",
+    "explanation": "Decomposition steps are fragmentation, leaching, catabolism, humification and mineralisation.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Humification leads to accumulation of a dark coloured amorphous substance called humus that is highly resistant to microbial action.",
+    "question": "Humus formed during humification is:",
+    "options": {
+      "A": "Easily and rapidly decomposed by microbes",
+      "B": "A dark amorphous substance highly resistant to microbial action",
+      "C": "Only water-soluble sugars",
+      "D": "The same as fresh detritus"
+    },
+    "correct_answer": "B",
+    "explanation": "Humus is dark, amorphous and highly resistant to microbial decomposition.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Being colloidal in nature it serves as a reservoir of nutrients.",
+    "question": "Humus serves as a reservoir of nutrients because it is:",
+    "options": {
+      "A": "Colloidal in nature",
+      "B": "Completely inorganic",
+      "C": "Rapidly mineralised",
+      "D": "Only found in aquatic ecosystems"
+    },
+    "correct_answer": "A",
+    "explanation": "Humus is colloidal and acts as a nutrient reservoir in soil.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The humus is further degraded by some microbes and release of inorganic nutrients occur by the process known as mineralisation.",
+    "question": "Release of inorganic nutrients from humus by microbial degradation is called:",
+    "options": {
+      "A": "Fragmentation",
+      "B": "Leaching",
+      "C": "Mineralisation",
+      "D": "Humification"
+    },
+    "correct_answer": "C",
+    "explanation": "Mineralisation releases inorganic nutrients from humus through microbial action.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Decomposition is largely an oxygen-requiring process.",
+    "question": "Decomposition is largely:",
+    "options": {
+      "A": "An oxygen-requiring process",
+      "B": "Independent of oxygen",
+      "C": "A purely photochemical process",
+      "D": "Limited to anaerobic bacteria only"
+    },
+    "correct_answer": "A",
+    "explanation": "Decomposition predominantly requires oxygen.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "In a particular climatic condition, decomposition rate is slower if detritus is rich in lignin and chitin, and quicker, if detritus is rich in nitrogen and water-soluble substances like sugars.",
+    "question": "Decomposition is slower when detritus is rich in:",
+    "options": {
+      "A": "Nitrogen and sugars",
+      "B": "Lignin and chitin",
+      "C": "Water-soluble substances",
+      "D": "Simple proteins only"
+    },
+    "correct_answer": "B",
+    "explanation": "Lignin and chitin slow decomposition; nitrogen and sugars speed it up.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Warm and moist environment favour decomposition whereas low temperature and anaerobiosis inhibit decomposition resulting in build up of organic materials.",
+    "question": "Build-up of organic materials in soil is favoured by:",
+    "options": {
+      "A": "Warm moist conditions",
+      "B": "Low temperature and anaerobiosis",
+      "C": "High nitrogen detritus",
+      "D": "Abundant earthworm activity"
+    },
+    "correct_answer": "B",
+    "explanation": "Low temperature and anaerobiosis inhibit decomposition, causing organic matter build-up.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Except for the deep sea hydro-thermal ecosystem, sun is the only source of energy for all ecosystems on Earth.",
+    "question": "For all ecosystems on Earth, the source of energy is the sun EXCEPT:",
+    "options": {
+      "A": "Forest ecosystems",
+      "B": "Pond ecosystems",
+      "C": "Deep sea hydro-thermal ecosystems",
+      "D": "Grassland ecosystems"
+    },
+    "correct_answer": "C",
+    "explanation": "Deep sea hydro-thermal ecosystems are the exception; otherwise sun is the sole energy source.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Of the incident solar radiation less than 50 per cent of it is photosynthetically active radiation (PAR).",
+    "question": "What fraction of incident solar radiation is photosynthetically active radiation (PAR)?",
+    "options": {
+      "A": "More than 90%",
+      "B": "Less than 50%",
+      "C": "Exactly 100%",
+      "D": "About 75%"
+    },
+    "correct_answer": "B",
+    "explanation": "Less than 50% of incident solar radiation constitutes PAR.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Plants capture only 2-10 per cent of the PAR and this small amount of energy sustains the entire living world.",
+    "question": "Plants capture what percentage of PAR?",
+    "options": {
+      "A": "50–70%",
+      "B": "2–10%",
+      "C": "25–30%",
+      "D": "90–95%"
+    },
+    "correct_answer": "B",
+    "explanation": "Only 2–10% of PAR is captured by plants, yet it sustains all life.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The green plant in the ecosystem are called producers.",
+    "question": "Green plants in an ecosystem are called:",
+    "options": {
+      "A": "Consumers",
+      "B": "Producers",
+      "C": "Decomposers",
+      "D": "Detritivores"
+    },
+    "correct_answer": "B",
+    "explanation": "Green plants are producers (autotrophs) in ecosystems.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "In a terrestrial ecosystem, major producers are herbaceous and woody plants.",
+    "question": "Major producers in a terrestrial ecosystem are:",
+    "options": {
+      "A": "Phytoplankton only",
+      "B": "Herbaceous and woody plants",
+      "C": "Zooplankton",
+      "D": "Fungi and bacteria"
+    },
+    "correct_answer": "B",
+    "explanation": "Terrestrial producers are mainly herbaceous and woody plants.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Likewise, producers in an aquatic ecosystem are various species like phytoplankton, algae and higher plants.",
+    "question": "Producers in an aquatic ecosystem include:",
+    "options": {
+      "A": "Only woody plants",
+      "B": "Phytoplankton, algae and higher aquatic plants",
+      "C": "Only carnivorous fishes",
+      "D": "Only earthworms"
+    },
+    "correct_answer": "B",
+    "explanation": "Aquatic producers include phytoplankton, algae and higher plants.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "All animals depend on plants (directly or indirectly) for their food needs. They are hence called consumers and also heterotrophs.",
+    "question": "Animals in ecosystems are called consumers because they:",
+    "options": {
+      "A": "Produce their own food by photosynthesis",
+      "B": "Depend on plants directly or indirectly for food",
+      "C": "Only decompose dead matter",
+      "D": "Fix atmospheric nitrogen"
+    },
+    "correct_answer": "B",
+    "explanation": "Consumers (heterotrophs) depend on producers for food directly or indirectly.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "If they feed on the producers, the plants, they are called primary consumers, and if the animals eat other animals which in turn eat the plants (or their produce) they are called secondary consumers.",
+    "question": "Animals that feed directly on producers are:",
+    "options": {
+      "A": "Primary consumers",
+      "B": "Secondary consumers",
+      "C": "Tertiary consumers",
+      "D": "Decomposers"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary consumers (herbivores) feed directly on producers.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Obviously the primary consumers will be herbivores.",
+    "question": "Primary consumers in an ecosystem are typically:",
+    "options": {
+      "A": "Carnivores",
+      "B": "Herbivores",
+      "C": "Decomposers",
+      "D": "Producers"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary consumers are herbivores feeding on plants.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Some common herbivores are insects, birds and mammals in terrestrial ecosystem and molluscs in aquatic ecosystem.",
+    "question": "Common herbivores in aquatic ecosystems include:",
+    "options": {
+      "A": "Insects and birds",
+      "B": "Molluscs",
+      "C": "Top carnivores only",
+      "D": "Fungi"
+    },
+    "correct_answer": "B",
+    "explanation": "Molluscs are common herbivores in aquatic ecosystems; insects, birds and mammals in terrestrial ones.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The detritus food chain (DFC) begins with dead organic matter.",
+    "question": "The detritus food chain (DFC) begins with:",
+    "options": {
+      "A": "Living green plants",
+      "B": "Dead organic matter",
+      "C": "Solar radiation",
+      "D": "Top carnivores"
+    },
+    "correct_answer": "B",
+    "explanation": "DFC starts with dead organic matter (detritus).",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "They are also known as saprotrophs (sapro: to decompose).",
+    "question": "Decomposers in the detritus food chain are also known as:",
+    "options": {
+      "A": "Autotrophs",
+      "B": "Saprotrophs",
+      "C": "Primary consumers",
+      "D": "Producers"
+    },
+    "correct_answer": "B",
+    "explanation": "Decomposers are saprotrophs (sapro = to decompose).",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "In an aquatic ecosystem, GFC is the major conduit for energy flow.",
+    "question": "In aquatic ecosystems, the major conduit for energy flow is:",
+    "options": {
+      "A": "Detritus food chain",
+      "B": "Grazing food chain (GFC)",
+      "C": "Only decomposers",
+      "D": "Nutrient cycling alone"
+    },
+    "correct_answer": "B",
+    "explanation": "In aquatic ecosystems, the grazing food chain is the major energy pathway.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "As against this, in a terrestrial ecosystem, a much larger fraction of energy flows through the detritus food chain than through the GFC.",
+    "question": "In terrestrial ecosystems, a larger fraction of energy flows through:",
+    "options": {
+      "A": "Grazing food chain only",
+      "B": "Detritus food chain compared to GFC",
+      "C": "Atmospheric nutrient cycling only",
+      "D": "Solar radiation directly to carnivores"
+    },
+    "correct_answer": "B",
+    "explanation": "Terrestrial ecosystems channel more energy through the detritus food chain.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "These natural interconnection of food chains make it a food web.",
+    "question": "Interconnected food chains in nature form a:",
+    "options": {
+      "A": "Food web",
+      "B": "Single linear chain only",
+      "C": "Ecological pyramid of energy only",
+      "D": "Standing crop"
+    },
+    "correct_answer": "A",
+    "explanation": "Interconnected food chains constitute a food web.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Producers belong to the first trophic level, herbivores (primary consumer) to the second and carnivores (secondary consumer) to the third.",
+    "question": "Herbivores occupy which trophic level?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "correct_answer": "B",
+    "explanation": "Producers are first level; herbivores (primary consumers) are second.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The important point to note is that the amount of energy decreases at successive trophic levels.",
+    "question": "At successive trophic levels, the amount of energy:",
+    "options": {
+      "A": "Increases progressively",
+      "B": "Remains constant",
+      "C": "Decreases",
+      "D": "Doubles at each level"
+    },
+    "correct_answer": "C",
+    "explanation": "Energy decreases at each successive trophic level.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Each trophic level has a certain mass of living material at a particular time called as the standing crop.",
+    "question": "The mass of living material at a trophic level at a given time is called:",
+    "options": {
+      "A": "Productivity",
+      "B": "Standing crop",
+      "C": "Detritus",
+      "D": "Humification"
+    },
+    "correct_answer": "B",
+    "explanation": "Standing crop is the biomass at a trophic level at a particular time.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The biomass of a species is expressed in terms of fresh or dry weight. Measurement of biomass in terms of dry weight is more accurate.",
+    "question": "Biomass measurement in terms of dry weight is preferred because:",
+    "options": {
+      "A": "It includes water content",
+      "B": "It is more accurate than fresh weight",
+      "C": "It always gives higher values",
+      "D": "It measures only decomposers"
+    },
+    "correct_answer": "B",
+    "explanation": "Dry weight measurement is more accurate as it excludes variable water content.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The number of trophic levels in the grazing food chain is restricted as the transfer of energy follows 10 per cent law – only 10 per cent of the energy is transferred to each trophic level from the lower trophic level.",
+    "question": "According to the 10 per cent law:",
+    "options": {
+      "A": "100% of energy transfers to the next trophic level",
+      "B": "Only 10% of energy transfers to each higher trophic level",
+      "C": "Energy increases by 10% at each level",
+      "D": "Only producers lose energy"
+    },
+    "correct_answer": "B",
+    "explanation": "Only about 10% of energy passes to the next trophic level.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The three types of ecological pyramids that are usually studied are (a) pyramid of number; (b) pyramid of biomass and (c) pyramid of energy.",
+    "question": "Which type of ecological pyramid is NOT usually studied?",
+    "options": {
+      "A": "Pyramid of number",
+      "B": "Pyramid of biomass",
+      "C": "Pyramid of energy",
+      "D": "Pyramid of habitat area"
+    },
+    "correct_answer": "D",
+    "explanation": "The three types studied are pyramids of number, biomass and energy.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The base of each pyramid represents the producers or the first trophic level while the apex represents tertiary or top level consumer.",
+    "question": "In ecological pyramids, the apex represents:",
+    "options": {
+      "A": "Producers",
+      "B": "Primary consumers",
+      "C": "Tertiary or top-level consumers",
+      "D": "Decomposers"
+    },
+    "correct_answer": "C",
+    "explanation": "The pyramid base is producers; the apex is tertiary/top-level consumers.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "In most ecosystems, all the pyramids, of number, of energy and biomass are upright, i.e., producers are more in number and biomass than the herbivores, and herbivores are more in number and biomass than the carnivores.",
+    "question": "In most ecosystems, pyramids of number, energy and biomass are:",
+    "options": {
+      "A": "Always inverted",
+      "B": "Upright with more producers than consumers",
+      "C": "Absent",
+      "D": "Equal at all trophic levels"
+    },
+    "correct_answer": "B",
+    "explanation": "Most pyramids are upright with producers exceeding herbivores and carnivores.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The pyramid of biomass in sea is generally inverted because the biomass of fishes far exceeds that of phytoplankton.",
+    "question": "The pyramid of biomass in the sea is generally inverted because:",
+    "options": {
+      "A": "Phytoplankton biomass exceeds fish biomass",
+      "B": "Fish biomass exceeds phytoplankton biomass despite phytoplankton being producers",
+      "C": "There are no producers in the sea",
+      "D": "Energy pyramids are always inverted"
+    },
+    "correct_answer": "B",
+    "explanation": "Small phytoplankton biomass supports larger fish biomass, inverting the biomass pyramid.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Pyramid of energy is always upright, can never be inverted, because when energy flows from a particular trophic level to the next trophic level, some energy is always lost as heat at each step.",
+    "question": "Pyramid of energy is always upright because:",
+    "options": {
+      "A": "Energy increases at higher trophic levels",
+      "B": "Energy is lost as heat at each trophic transfer",
+      "C": "Producers consume carnivores",
+      "D": "Decomposers add energy at the apex"
+    },
+    "correct_answer": "B",
+    "explanation": "Energy loss as heat at each step ensures the energy pyramid is always upright.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "However, there are certain limitations of ecological pyramids such as it does not take into account the same species belonging to two or more trophic levels.",
+    "question": "A limitation of ecological pyramids is that they:",
+    "options": {
+      "A": "Account for species at multiple trophic levels",
+      "B": "Do not account for species belonging to two or more trophic levels",
+      "C": "Always include saprophytes",
+      "D": "Accurately represent all food webs"
+    },
+    "correct_answer": "B",
+    "explanation": "Pyramids fail to account for species occupying multiple trophic levels.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Moreover, saprophytes are not given any place in ecological pyramids even though they play a vital role in the ecosystem.",
+    "question": "Which organisms are excluded from ecological pyramids despite their vital role?",
+    "options": {
+      "A": "Producers",
+      "B": "Herbivores",
+      "C": "Saprophytes/decomposers",
+      "D": "Primary carnivores"
+    },
+    "correct_answer": "C",
+    "explanation": "Saprophytes are not represented in ecological pyramids.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "A given species may occupy more than one trophic level in the same ecosystem at the same time; for example, a sparrow is a primary consumer when it eats seeds, fruits, peas, and a secondary consumer when it eats insects and worms.",
+    "question": "A sparrow eating seeds acts as a:",
+    "options": {
+      "A": "Producer",
+      "B": "Primary consumer",
+      "C": "Secondary consumer",
+      "D": "Decomposer"
+    },
+    "correct_answer": "B",
+    "explanation": "When eating seeds/fruits, sparrow is a primary consumer; when eating insects, secondary consumer.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Nutrient cycling is of two types—gaseous and sedimentary. Atmosphere or hydrosphere is the reservoir for the gaseous type of cycle (carbon), whereas Earth's crust is the reservoir for sedimentary type (phosphorus).",
+    "question": "Earth's crust serves as the reservoir for which type of nutrient cycle?",
+    "options": {
+      "A": "Gaseous cycle (e.g., carbon)",
+      "B": "Sedimentary cycle (e.g., phosphorus)",
+      "C": "Nitrogen cycle only",
+      "D": "Water cycle only"
+    },
+    "correct_answer": "B",
+    "explanation": "Sedimentary cycles like phosphorus use Earth's crust as reservoir; gaseous cycles use atmosphere/hydrosphere.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Products of ecosystem processes are named as ecosystem services, e.g., purification of air and water by forests.",
+    "question": "Purification of air and water by forests is an example of:",
+    "options": {
+      "A": "Primary productivity",
+      "B": "Ecosystem services",
+      "C": "Fragmentation",
+      "D": "Secondary productivity"
+    },
+    "correct_answer": "B",
+    "explanation": "Ecosystem services are beneficial products of ecosystem processes like air/water purification.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "An ecosystem is a structural and functional unit of nature and it comprises abiotic and biotic components.",
+    "question": "An ecosystem comprises:",
+    "options": {
+      "A": "Only biotic components",
+      "B": "Abiotic and biotic components",
+      "C": "Only abiotic components",
+      "D": "Only decomposers"
+    },
+    "correct_answer": "B",
+    "explanation": "Ecosystems have both abiotic (air, water, soil) and biotic (producers, consumers, decomposers) components.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Species composition and stratification are the two main structural features of an ecosystem.",
+    "question": "The two main structural features of an ecosystem are:",
+    "options": {
+      "A": "Productivity and decomposition",
+      "B": "Species composition and stratification",
+      "C": "GPP and NPP",
+      "D": "GFC and DFC"
+    },
+    "correct_answer": "B",
+    "explanation": "Structural features are species composition and stratification.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Energy flow is unidirectional. First, plants capture solar energy and then, food is transferred from the producers to decomposers.",
+    "question": "Energy flow in an ecosystem is:",
+    "options": {
+      "A": "Bidirectional between producers and consumers",
+      "B": "Unidirectional from producers through consumers to decomposers",
+      "C": "Absent in aquatic systems",
+      "D": "Cyclic with no loss"
+    },
+    "correct_answer": "B",
+    "explanation": "Energy flows unidirectionally from producers to consumers and decomposers.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "The storage and movement of nutrient elements through the various components of the ecosystem is called nutrient cycling; nutrients are repeatedly used through this process.",
+    "question": "Nutrient cycling refers to:",
+    "options": {
+      "A": "One-time use of nutrients with no reuse",
+      "B": "Storage and movement of nutrient elements through ecosystem components with repeated reuse",
+      "C": "Only energy transfer between trophic levels",
+      "D": "Formation of humus only"
+    },
+    "correct_answer": "B",
+    "explanation": "Nutrient cycling involves movement and repeated reuse of nutrients through ecosystem components.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Further, ecosystems are not exempt from the Second Law of thermodynamics. They need a constant supply of energy to synthesise the molecules they require, to counteract the universal tendency toward increasing disorderliness.",
+    "question": "Ecosystems require constant energy supply to counteract:",
+    "options": {
+      "A": "Increasing orderliness according to the Second Law",
+      "B": "The universal tendency toward increasing disorderliness",
+      "C": "Excessive nutrient cycling",
+      "D": "Overproduction by carnivores"
+    },
+    "correct_answer": "B",
+    "explanation": "Per the Second Law, ecosystems need energy input to counter increasing entropy/disorder.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Death of organism is the beginning of the detritus food chain/web.",
+    "question": "Death of an organism marks the beginning of:",
+    "options": {
+      "A": "Grazing food chain",
+      "B": "Detritus food chain/web",
+      "C": "Photosynthesis",
+      "D": "Primary productivity"
+    },
+    "correct_answer": "B",
+    "explanation": "Organism death initiates the detritus food chain/web.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "Temperature and soil moisture are the most important climatic factors that regulate decomposition through their effects on the activities of soil microbes.",
+    "question": "The most important climatic factors regulating decomposition are:",
+    "options": {
+      "A": "Wind speed and altitude",
+      "B": "Temperature and soil moisture",
+      "C": "Day length only",
+      "D": "Atmospheric pressure only"
+    },
+    "correct_answer": "B",
+    "explanation": "Temperature and soil moisture chiefly regulate decomposition via soil microbial activity.",
+    "chapter": "Chapter 12: Ecosystem"
+  },
+  {
+    "source_sentence": "It is important to note that all the above steps in decomposition operate simultaneously on the detritus.",
+    "question": "Steps of decomposition on detritus:",
+    "options": {
+      "A": "Occur one at a time in strict sequence",
+      "B": "Operate simultaneously on the detritus",
+      "C": "Occur only after complete mineralisation",
+      "D": "Require absence of decomposers"
+    },
+    "correct_answer": "B",
+    "explanation": "Fragmentation, leaching, catabolism, humification and mineralisation occur simultaneously.",
+    "chapter": "Chapter 12: Ecosystem"
+  }
+]

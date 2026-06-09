@@ -1,0 +1,1172 @@
+[
+  {
+    "source_sentence": "In multicellular animals, a group of similar cells alongwith intercellular substances perform a specific function. Such an organisation is called tissue.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "In multicellular animals, a group of similar cells along with intercellular substances performing a specific function is called:",
+    "options": {
+      "A": "Organ",
+      "B": "Tissue",
+      "C": "Organ system",
+      "D": "Cell aggregate"
+    },
+    "correct_answer": "B",
+    "explanation": "A tissue is a group of similar cells with intercellular substances performing a specific function."
+  },
+  {
+    "source_sentence": "You may be surprised to know that all complex animals consist of only four basic types of tissues.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "How many basic types of tissues are found in all complex animals?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "Five"
+    },
+    "correct_answer": "C",
+    "explanation": "All complex animals consist of only four basic types of tissues."
+  },
+  {
+    "source_sentence": "When two or more organs perform a common function by their physical and/or chemical interaction, they together form organ system.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Two or more organs performing a common function through physical and/or chemical interaction form:",
+    "options": {
+      "A": "A tissue",
+      "B": "An organ",
+      "C": "An organ system",
+      "D": "A cell colony"
+    },
+    "correct_answer": "C",
+    "explanation": "Organ systems form when organs interact to perform a common function."
+  },
+  {
+    "source_sentence": "Cells, tissues, organs and organ systems split up the work in a way that exhibits division of labour.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Division of labour in multicellular animals is achieved through:",
+    "options": {
+      "A": "Cells only",
+      "B": "Cells, tissues, organs and organ systems",
+      "C": "Organs only",
+      "D": "Tissues only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cells, tissues, organs and organ systems divide work for survival of the body."
+  },
+  {
+    "source_sentence": "A tissue is defined as group of cells along with intercellular substances performing one or more functions in the body.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "A tissue is defined as:",
+    "options": {
+      "A": "A single specialised cell",
+      "B": "Group of cells with intercellular substances performing one or more functions",
+      "C": "A group of organs",
+      "D": "Intercellular fluid only"
+    },
+    "correct_answer": "B",
+    "explanation": "Tissue = cells + intercellular substances performing body functions."
+  },
+  {
+    "source_sentence": "Epithelia are sheet like tissues lining the body's surface and its cavities, ducts and tubes.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Epithelial tissues are:",
+    "options": {
+      "A": "Solid masses deep inside organs",
+      "B": "Sheet-like tissues lining body surfaces, cavities, ducts and tubes",
+      "C": "Only found in plants",
+      "D": "Exclusively muscular"
+    },
+    "correct_answer": "B",
+    "explanation": "Epithelia are sheet-like linings of surfaces, cavities, ducts and tubes."
+  },
+  {
+    "source_sentence": "Epithelia have one free surface facing a body fluid or the outside environment.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "A characteristic feature of epithelial tissue is:",
+    "options": {
+      "A": "No free surface",
+      "B": "One free surface facing body fluid or outside environment",
+      "C": "Two free surfaces",
+      "D": "Absence of cell junctions"
+    },
+    "correct_answer": "B",
+    "explanation": "Epithelia have one free surface facing fluid or the environment."
+  },
+  {
+    "source_sentence": "For example, our heart consists of all the four types of tissues, i.e., epithelial, connective, muscular and neural.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "The human heart consists of which types of tissues?",
+    "options": {
+      "A": "Only muscular",
+      "B": "Epithelial and connective only",
+      "C": "Epithelial, connective, muscular and neural",
+      "D": "Only neural and epithelial"
+    },
+    "correct_answer": "C",
+    "explanation": "Heart contains all four basic tissue types."
+  },
+  {
+    "source_sentence": "Squamous epithelium is composed of a single thin layer of flattened cells with irregular boundaries.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Squamous epithelium is characterised by:",
+    "options": {
+      "A": "Cube-shaped cells in multiple layers",
+      "B": "Single thin layer of flattened cells with irregular boundaries",
+      "C": "Tall pillar-like cells",
+      "D": "Branched striated fibres"
+    },
+    "correct_answer": "B",
+    "explanation": "Squamous epithelium has flattened cells in a thin layer."
+  },
+  {
+    "source_sentence": "Cuboidal epithelium consists of a single layer of cube-like cells.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cuboidal epithelium consists of:",
+    "options": {
+      "A": "Flattened cells",
+      "B": "A single layer of cube-like cells",
+      "C": "Ciliated columnar cells",
+      "D": "Striated muscle fibres"
+    },
+    "correct_answer": "B",
+    "explanation": "Cuboidal epithelium has cube-like cells in one layer."
+  },
+  {
+    "source_sentence": "Columnar epithelium is characterised by tall pillar-like cells.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Columnar epithelium is characterised by:",
+    "options": {
+      "A": "Flat squamous cells",
+      "B": "Tall pillar-like cells",
+      "C": "Cube-shaped cells only",
+      "D": "Striated fibres"
+    },
+    "correct_answer": "B",
+    "explanation": "Columnar epithelium has tall pillar-like cells."
+  },
+  {
+    "source_sentence": "Glandular epithelium is specialised to secrete substances at the epithelial surface.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Glandular epithelium is specialised to:",
+    "options": {
+      "A": "Contract and relax",
+      "B": "Conduct nerve impulses",
+      "C": "Secrete substances at the epithelial surface",
+      "D": "Store fat only"
+    },
+    "correct_answer": "C",
+    "explanation": "Glandular epithelium secretes at the epithelial surface."
+  },
+  {
+    "source_sentence": "Areolar connective tissue is found between the skin and muscles, around blood vessels and nerves and in the bone marrow.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Areolar connective tissue is found:",
+    "options": {
+      "A": "Only in the brain",
+      "B": "Between skin and muscles, around vessels/nerves, and in bone marrow",
+      "C": "Only in tendons",
+      "D": "Only lining alimentary canal"
+    },
+    "correct_answer": "B",
+    "explanation": "Areolar tissue fills spaces between skin, muscles, vessels and nerves."
+  },
+  {
+    "source_sentence": "Dense regular connective tissue is present in tendons and ligaments.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Dense regular connective tissue is present in:",
+    "options": {
+      "A": "Lungs and liver",
+      "B": "Tendons and ligaments",
+      "C": "Kidney tubules",
+      "D": "Epidermis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Dense regular connective tissue forms tendons and ligaments."
+  },
+  {
+    "source_sentence": "Blood is a fluid connective tissue containing plasma, RBCs, WBCs and platelets.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Blood is classified as:",
+    "options": {
+      "A": "Epithelial tissue",
+      "B": "Fluid connective tissue",
+      "C": "Neural tissue",
+      "D": "Muscular tissue"
+    },
+    "correct_answer": "B",
+    "explanation": "Blood is fluid connective tissue."
+  },
+  {
+    "source_sentence": "Striated muscles are attached to bones and are also known as skeletal muscles.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Striated muscles attached to bones are also called:",
+    "options": {
+      "A": "Smooth muscles",
+      "B": "Cardiac muscles",
+      "C": "Skeletal muscles",
+      "D": "Visceral involuntary muscles"
+    },
+    "correct_answer": "C",
+    "explanation": "Striated muscles on bones are skeletal muscles."
+  },
+  {
+    "source_sentence": "Smooth muscles are present in the wall of internal organs and are involuntary.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Smooth muscles are:",
+    "options": {
+      "A": "Voluntary and striated",
+      "B": "Present in bone only",
+      "C": "In walls of internal organs; involuntary",
+      "D": "Only in the heart"
+    },
+    "correct_answer": "C",
+    "explanation": "Smooth muscles line internal organs and are involuntary."
+  },
+  {
+    "source_sentence": "Neurons are the structural and functional unit of neural tissue.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "The structural and functional unit of neural tissue is:",
+    "options": {
+      "A": "Neuroglia only",
+      "B": "Neuron",
+      "C": "Schwann cell only",
+      "D": "Axon terminal only"
+    },
+    "correct_answer": "B",
+    "explanation": "Neurons are units of neural tissue."
+  },
+  {
+    "source_sentence": "Such an organisation is essential for more efficient and better coordinated activities of millions of cells constituting an organism.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Organ and organ system organisation is essential for:",
+    "options": {
+      "A": "Reducing cell number",
+      "B": "Efficient, coordinated activities of millions of cells",
+      "C": "Eliminating tissues",
+      "D": "Single-cell function"
+    },
+    "correct_answer": "B",
+    "explanation": "Organisation enables efficient coordination among millions of cells."
+  },
+  {
+    "source_sentence": "This discernible trend is called evolutionary trend.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Increasing complexity in organs and organ systems is called:",
+    "options": {
+      "A": "Metamerism",
+      "B": "Evolutionary trend",
+      "C": "Mimicry",
+      "D": "Segmentation"
+    },
+    "correct_answer": "B",
+    "explanation": "Complexity trend in organs is an evolutionary trend."
+  },
+  {
+    "source_sentence": "Morphology refers to study of form or externally visible features.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Morphology refers to the study of:",
+    "options": {
+      "A": "Internal organs only",
+      "B": "Form or externally visible features",
+      "C": "Chemical composition only",
+      "D": "Cell organelles only"
+    },
+    "correct_answer": "B",
+    "explanation": "Morphology studies form and external features."
+  },
+  {
+    "source_sentence": "The word anatomy conventionally is used for the study of morphology of internal organs in the animals.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Anatomy conventionally refers to:",
+    "options": {
+      "A": "External appearance only",
+      "B": "Morphology of internal organs in animals",
+      "C": "Plant cell walls",
+      "D": "Soil organisms"
+    },
+    "correct_answer": "B",
+    "explanation": "Anatomy is internal organ morphology in animals."
+  },
+  {
+    "source_sentence": "You will learn the morphology and anatomy of frog representing vertebrates.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog is studied in this chapter as a representative of:",
+    "options": {
+      "A": "Invertebrates",
+      "B": "Vertebrates",
+      "C": "Arthropods",
+      "D": "Annelids"
+    },
+    "correct_answer": "B",
+    "explanation": "Frog represents vertebrates."
+  },
+  {
+    "source_sentence": "Pheretima posthuma is a common species of earthworm found in India.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "The common Indian earthworm species studied is:",
+    "options": {
+      "A": "Periplaneta americana",
+      "B": "Pheretima posthuma",
+      "C": "Rana tigrina",
+      "D": "Hirudinaria"
+    },
+    "correct_answer": "B",
+    "explanation": "Pheretima posthuma is the common Indian earthworm."
+  },
+  {
+    "source_sentence": "The body is covered by a thin non-cellular cuticle.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "The earthworm body is covered by:",
+    "options": {
+      "A": "Chitinous exoskeleton",
+      "B": "A thin non-cellular cuticle",
+      "C": "Scales",
+      "D": "Feathers"
+    },
+    "correct_answer": "B",
+    "explanation": "Earthworm has a thin non-cellular cuticle."
+  },
+  {
+    "source_sentence": "The body is divided into segments or metameres by grooves called annuli.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Earthworm segments are separated by grooves called:",
+    "options": {
+      "A": "Setae",
+      "B": "Annuli",
+      "C": "Nephridia",
+      "D": "Parapodia"
+    },
+    "correct_answer": "B",
+    "explanation": "Annuli separate metameres."
+  },
+  {
+    "source_sentence": "Setae are present in each segment except the first, last and clitellum.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Setae in earthworm are absent in:",
+    "options": {
+      "A": "All segments",
+      "B": "First, last and clitellum segments",
+      "C": "Only middle segments",
+      "D": "Only clitellum"
+    },
+    "correct_answer": "B",
+    "explanation": "Setae absent in first, last and clitellum segments."
+  },
+  {
+    "source_sentence": "Setae help in locomotion.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "The function of setae in earthworm is:",
+    "options": {
+      "A": "Respiration",
+      "B": "Excretion",
+      "C": "Locomotion",
+      "D": "Digestion"
+    },
+    "correct_answer": "C",
+    "explanation": "Setae aid locomotion."
+  },
+  {
+    "source_sentence": "The clitellum is a prominent dark band at segments 14-16.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Clitellum in earthworm is at segments:",
+    "options": {
+      "A": "1-3",
+      "B": "14-16",
+      "C": "20-22",
+      "D": "Last only"
+    },
+    "correct_answer": "B",
+    "explanation": "Clitellum is a dark band at segments 14-16."
+  },
+  {
+    "source_sentence": "Earthworms are hermaphrodites (bisexual) but cross-fertilisation occurs.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Earthworms are:",
+    "options": {
+      "A": "Dioecious",
+      "B": "Hermaphrodites with cross-fertilisation",
+      "C": "Parthenogenetic only",
+      "D": "Unisexual with external fertilisation in water"
+    },
+    "correct_answer": "B",
+    "explanation": "Earthworms are hermaphrodites; cross-fertilisation occurs."
+  },
+  {
+    "source_sentence": "A single female genital pore is present on the ventral side of the 14th segment.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Female genital pore in earthworm is on segment:",
+    "options": {
+      "A": "18th",
+      "B": "14th",
+      "C": "6th",
+      "D": "Last"
+    },
+    "correct_answer": "B",
+    "explanation": "Female genital pore on ventral 14th segment."
+  },
+  {
+    "source_sentence": "A pair of male genital pores are present on the ventral side of the 18th segment.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Male genital pores in earthworm are on segment:",
+    "options": {
+      "A": "14th",
+      "B": "18th",
+      "C": "6th",
+      "D": "1st"
+    },
+    "correct_answer": "B",
+    "explanation": "Male genital pores on ventral 18th segment."
+  },
+  {
+    "source_sentence": "A muscular gizzard helps in grinding the soil particles and humus.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "The gizzard in earthworm helps in:",
+    "options": {
+      "A": "Absorption",
+      "B": "Grinding soil particles and humus",
+      "C": "Respiration",
+      "D": "Excretion"
+    },
+    "correct_answer": "B",
+    "explanation": "Gizzard grinds soil and humus."
+  },
+  {
+    "source_sentence": "The intestine starts from the 15th segment and continues till the last segment.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Earthworm intestine starts from segment:",
+    "options": {
+      "A": "1st",
+      "B": "8th",
+      "C": "15th",
+      "D": "18th"
+    },
+    "correct_answer": "C",
+    "explanation": "Intestine begins at segment 15."
+  },
+  {
+    "source_sentence": "Typhlosole is a fold of the dorsal wall of the intestine that increases the absorptive area.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Typhlosole in earthworm:",
+    "options": {
+      "A": "Is an excretory organ",
+      "B": "Is a dorsal intestinal fold increasing absorptive area",
+      "C": "Is a respiratory structure",
+      "D": "Is a reproductive organ"
+    },
+    "correct_answer": "B",
+    "explanation": "Typhlosole increases intestinal absorptive area."
+  },
+  {
+    "source_sentence": "Earthworms respire through their moist cuticle by diffusion.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Earthworms respire through:",
+    "options": {
+      "A": "Lungs",
+      "B": "Tracheal tubes",
+      "C": "Moist cuticle by diffusion",
+      "D": "Gills"
+    },
+    "correct_answer": "C",
+    "explanation": "Respiration via moist cuticle by diffusion."
+  },
+  {
+    "source_sentence": "Earthworm has a closed type circulatory system consisting of blood vessels, capillaries and heart.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Earthworm circulatory system is:",
+    "options": {
+      "A": "Open without heart",
+      "B": "Closed with vessels, capillaries and heart",
+      "C": "Absent",
+      "D": "Lymphatic only"
+    },
+    "correct_answer": "B",
+    "explanation": "Closed circulatory system with hearts."
+  },
+  {
+    "source_sentence": "There are four pairs of hearts in earthworm.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "How many pairs of hearts are in earthworm?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Four",
+      "D": "Ten"
+    },
+    "correct_answer": "C",
+    "explanation": "Four pairs of hearts."
+  },
+  {
+    "source_sentence": "Nephridia are coiled tubules that regulate the volume and composition of body fluids.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Nephridia in earthworm:",
+    "options": {
+      "A": "Are respiratory organs",
+      "B": "Are coiled tubules regulating body fluid volume and composition",
+      "C": "Produce gametes",
+      "D": "Are sensory organs"
+    },
+    "correct_answer": "B",
+    "explanation": "Nephridia regulate fluids and excrete wastes."
+  },
+  {
+    "source_sentence": "Earthworm is ureotelic and excretes urea.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Earthworm nitrogenous excretion is:",
+    "options": {
+      "A": "Ammonotelic",
+      "B": "Ureotelic",
+      "C": "Uricotelic",
+      "D": "None"
+    },
+    "correct_answer": "B",
+    "explanation": "Earthworm excretes urea (ureotelic)."
+  },
+  {
+    "source_sentence": "Four pairs of spermathecal apertures are present on the ventral side between segments 5/6, 6/7, 7/8 and 8/9.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Spermathecal apertures in earthworm lie between segments:",
+    "options": {
+      "A": "14/15-16/17",
+      "B": "5/6, 6/7, 7/8 and 8/9",
+      "C": "1/2 only",
+      "D": "18/19 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Four pairs of spermathecal apertures between 5/6 to 8/9."
+  },
+  {
+    "source_sentence": "Periplaneta americana is the common species of cockroach.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "The common cockroach species studied is:",
+    "options": {
+      "A": "Pheretima posthuma",
+      "B": "Periplaneta americana",
+      "C": "Rana tigrina",
+      "D": "Apis indica"
+    },
+    "correct_answer": "B",
+    "explanation": "Periplaneta americana is the common cockroach."
+  },
+  {
+    "source_sentence": "The body of cockroach is segmented and divisible into three distinct regions — head, thorax and abdomen.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach body is divisible into:",
+    "options": {
+      "A": "Head and trunk only",
+      "B": "Head, thorax and abdomen",
+      "C": "Prosoma and opisthosoma",
+      "D": "Only metameres"
+    },
+    "correct_answer": "B",
+    "explanation": "Body: head, thorax, abdomen."
+  },
+  {
+    "source_sentence": "The entire body is covered by a hard chitinous exoskeleton.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach body is covered by:",
+    "options": {
+      "A": "Moist cuticle",
+      "B": "Hard chitinous exoskeleton",
+      "C": "Scales",
+      "D": "Skin with mucus"
+    },
+    "correct_answer": "B",
+    "explanation": "Hard chitinous exoskeleton covers the body."
+  },
+  {
+    "source_sentence": "The head is formed by the fusion of six segments.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach head forms by fusion of:",
+    "options": {
+      "A": "Three segments",
+      "B": "Six segments",
+      "C": "Ten segments",
+      "D": "One segment"
+    },
+    "correct_answer": "B",
+    "explanation": "Head from fusion of six segments."
+  },
+  {
+    "source_sentence": "A pair of compound eyes is present dorsally.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Compound eyes in cockroach are:",
+    "options": {
+      "A": "Ventral on thorax",
+      "B": "Dorsal on the head",
+      "C": "On abdomen",
+      "D": "Absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Compound eyes are dorsal on head."
+  },
+  {
+    "source_sentence": "The mouthparts consist of a labrum, a pair of mandibles, a pair of maxillae and a labium.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach mouthparts include:",
+    "options": {
+      "A": "Only mandibles",
+      "B": "Labrum, mandibles, maxillae and labium",
+      "C": "Proboscis only",
+      "D": "Bilobed tongue"
+    },
+    "correct_answer": "B",
+    "explanation": "Mouthparts: labrum, mandibles, maxillae, labium."
+  },
+  {
+    "source_sentence": "The thorax consists of three segments — prothorax, mesothorax and metathorax.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach thorax has:",
+    "options": {
+      "A": "Two segments",
+      "B": "Three segments (pro-, meso-, metathorax)",
+      "C": "Six segments",
+      "D": "Ten segments"
+    },
+    "correct_answer": "B",
+    "explanation": "Thorax: pro-, meso-, metathorax."
+  },
+  {
+    "source_sentence": "Forewings (tegmina) are opaque, dark and leathery.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Forewings (tegmina) of cockroach are:",
+    "options": {
+      "A": "Transparent and membranous",
+      "B": "Opaque, dark and leathery",
+      "C": "Absent",
+      "D": "For hearing"
+    },
+    "correct_answer": "B",
+    "explanation": "Tegmina are opaque, dark, leathery."
+  },
+  {
+    "source_sentence": "Hind wings are transparent, membranous and are used in flight.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Hind wings of cockroach are:",
+    "options": {
+      "A": "Leathery and opaque",
+      "B": "Transparent, membranous; used in flight",
+      "C": "Absent",
+      "D": "Modified halteres"
+    },
+    "correct_answer": "B",
+    "explanation": "Hind wings are membranous flight wings."
+  },
+  {
+    "source_sentence": "In females, the 7th sternum is boat-shaped and together with the 8th and 9th sterna forms a brood or genital pouch.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Brood pouch in female cockroach is formed by:",
+    "options": {
+      "A": "1st-2nd sterna",
+      "B": "7th sternum with 8th and 9th sterna",
+      "C": "10th segment only",
+      "D": "Thoracic segments"
+    },
+    "correct_answer": "B",
+    "explanation": "7th boat-shaped sternum + 8th/9th sterna = brood pouch."
+  },
+  {
+    "source_sentence": "The alimentary canal is divided into foregut, midgut and hindgut.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach alimentary canal is divided into:",
+    "options": {
+      "A": "Buccal cavity and stomach",
+      "B": "Foregut, midgut and hindgut",
+      "C": "Oesophagus and intestine only",
+      "D": "Pharynx and rectum only"
+    },
+    "correct_answer": "B",
+    "explanation": "Alimentary canal: foregut, midgut, hindgut."
+  },
+  {
+    "source_sentence": "A ring of 6-8 blind tubules called hepatic or gastric caeca is present at the junction of foregut and midgut.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Hepatic caeca in cockroach are at:",
+    "options": {
+      "A": "Midgut-hindgut junction",
+      "B": "Foregut-midgut junction",
+      "C": "Mouth",
+      "D": "Anus"
+    },
+    "correct_answer": "B",
+    "explanation": "6-8 hepatic caeca at foregut-midgut junction."
+  },
+  {
+    "source_sentence": "At the junction of midgut and hindgut is present another ring of 100-150 yellowish thin filaments called Malpighian tubules.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Malpighian tubules in cockroach are at:",
+    "options": {
+      "A": "Foregut-midgut junction",
+      "B": "Midgut-hindgut junction",
+      "C": "Pharynx-oesophagus",
+      "D": "Crop-gizzard"
+    },
+    "correct_answer": "B",
+    "explanation": "100-150 Malpighian tubules at midgut-hindgut junction."
+  },
+  {
+    "source_sentence": "Malpighian tubules help in removal of excretory products from haemolymph.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Malpighian tubules function in:",
+    "options": {
+      "A": "Protein digestion",
+      "B": "Removing excretory products from haemolymph",
+      "C": "Pumping blood",
+      "D": "Pulmonary gas exchange"
+    },
+    "correct_answer": "B",
+    "explanation": "Malpighian tubules excrete from haemolymph."
+  },
+  {
+    "source_sentence": "Cockroaches respire through a network of trachea opening on body surface by spiracles.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach respiration occurs through:",
+    "options": {
+      "A": "Moist cuticle only",
+      "B": "Tracheal network via spiracles",
+      "C": "Book lungs",
+      "D": "Skin and lungs"
+    },
+    "correct_answer": "B",
+    "explanation": "Tracheal system with spiracles."
+  },
+  {
+    "source_sentence": "Cockroach has an open type circulatory system with haemolymph.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach circulatory system is:",
+    "options": {
+      "A": "Closed with nucleated RBCs",
+      "B": "Open type with haemolymph",
+      "C": "Absent",
+      "D": "Lymphatic only"
+    },
+    "correct_answer": "B",
+    "explanation": "Open circulatory system; blood = haemolymph."
+  },
+  {
+    "source_sentence": "Cockroach is uricotelic and excretes nitrogenous wastes as uric acid.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach is:",
+    "options": {
+      "A": "Ammonotelic",
+      "B": "Ureotelic",
+      "C": "Uricotelic",
+      "D": "No nitrogen excretion"
+    },
+    "correct_answer": "C",
+    "explanation": "Cockroach excretes uric acid (uricotelic)."
+  },
+  {
+    "source_sentence": "The brain is represented by supra-oesophageal ganglion.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach brain is the:",
+    "options": {
+      "A": "Ventral nerve cord",
+      "B": "Supra-oesophageal ganglion",
+      "C": "Sub-oesophageal ganglion only",
+      "D": "Malpighian tubules"
+    },
+    "correct_answer": "B",
+    "explanation": "Brain = supra-oesophageal ganglion."
+  },
+  {
+    "source_sentence": "Cockroaches are dioecious and both sexes have well developed reproductive organs.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroaches are:",
+    "options": {
+      "A": "Hermaphrodites",
+      "B": "Dioecious with well developed reproductive organs",
+      "C": "Parthenogenetic only",
+      "D": "External fertilisation in water"
+    },
+    "correct_answer": "B",
+    "explanation": "Dioecious with developed reproductive organs."
+  },
+  {
+    "source_sentence": "In male cockroach, a pair of short thread-like anal styles is present.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Anal styles are present in:",
+    "options": {
+      "A": "Female only",
+      "B": "Male cockroach",
+      "C": "Both sexes equally",
+      "D": "Larva only"
+    },
+    "correct_answer": "B",
+    "explanation": "Males have anal styles."
+  },
+  {
+    "source_sentence": "Fertilisation in cockroach is internal.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Cockroach fertilisation is:",
+    "options": {
+      "A": "External in water",
+      "B": "Internal",
+      "C": "Absent",
+      "D": "Parthenogenesis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Internal fertilisation."
+  },
+  {
+    "source_sentence": "The fertilised eggs are encased in capsules called oothecae.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Fertilised cockroach eggs are in:",
+    "options": {
+      "A": "Silk cocoons",
+      "B": "Oothecae",
+      "C": "Clitellum secretions",
+      "D": "Water gel masses"
+    },
+    "correct_answer": "B",
+    "explanation": "Eggs encased in oothecae."
+  },
+  {
+    "source_sentence": "Frogs can live both on land and in freshwater and belong to class Amphibia of phylum Chordata.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frogs belong to:",
+    "options": {
+      "A": "Class Reptilia",
+      "B": "Class Amphibia, phylum Chordata",
+      "C": "Phylum Arthropoda",
+      "D": "Class Mammalia"
+    },
+    "correct_answer": "B",
+    "explanation": "Frogs: class Amphibia, phylum Chordata."
+  },
+  {
+    "source_sentence": "The most common species of frog found in India is Rana tigrina.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Common Indian frog species is:",
+    "options": {
+      "A": "Bufo only",
+      "B": "Rana tigrina",
+      "C": "Xenopus laevis",
+      "D": "Hyla arborea"
+    },
+    "correct_answer": "B",
+    "explanation": "Rana tigrina is the common Indian frog."
+  },
+  {
+    "source_sentence": "Such animals are called cold blooded or poikilotherms.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frogs are poikilotherms because body temperature:",
+    "options": {
+      "A": "Is always constant",
+      "B": "Varies with the environment",
+      "C": "Is always high",
+      "D": "Is regulated only by lungs"
+    },
+    "correct_answer": "B",
+    "explanation": "Poikilotherms: temperature varies with environment."
+  },
+  {
+    "source_sentence": "This protective coloration is called mimicry.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Protective colour change in frogs is called:",
+    "options": {
+      "A": "Hibernation",
+      "B": "Mimicry",
+      "C": "Metamorphosis",
+      "D": "Aestivation only"
+    },
+    "correct_answer": "B",
+    "explanation": "Camouflage colour change = mimicry."
+  },
+  {
+    "source_sentence": "This is known as summer sleep (aestivation) and winter sleep (hibernation) respectively.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Summer sleep in frogs is:",
+    "options": {
+      "A": "Hibernation",
+      "B": "Aestivation",
+      "C": "Metamorphosis",
+      "D": "Mimicry"
+    },
+    "correct_answer": "B",
+    "explanation": "Summer sleep = aestivation."
+  },
+  {
+    "source_sentence": "The frog never drinks water but absorb it through the skin.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frogs obtain water by:",
+    "options": {
+      "A": "Drinking through mouth",
+      "B": "Absorption through skin",
+      "C": "Only from food",
+      "D": "Respiratory tract"
+    },
+    "correct_answer": "B",
+    "explanation": "Water absorbed through skin."
+  },
+  {
+    "source_sentence": "Body of a frog is divisible into head and trunk. A neck and tail are absent.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog body division:",
+    "options": {
+      "A": "Head, neck, trunk",
+      "B": "Head and trunk; no neck or tail",
+      "C": "Thorax and abdomen only",
+      "D": "Head, thorax, abdomen"
+    },
+    "correct_answer": "B",
+    "explanation": "Head and trunk; neck and tail absent."
+  },
+  {
+    "source_sentence": "Eyes are bulged and covered by a nictitating membrane that protects them while in water.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Nictitating membrane protects frog:",
+    "options": {
+      "A": "Tympanum",
+      "B": "Eyes in water",
+      "C": "Skin",
+      "D": "Lungs"
+    },
+    "correct_answer": "B",
+    "explanation": "Protects eyes while in water."
+  },
+  {
+    "source_sentence": "Male frogs can be distinguished by the presence of sound producing vocal sacs and also a copulatory pad on the first digit of the fore limbs.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Male frogs are identified by:",
+    "options": {
+      "A": "Longer tail",
+      "B": "Vocal sacs and copulatory pad on first forelimb digit",
+      "C": "Webbed hind feet only",
+      "D": "Darker ventral skin"
+    },
+    "correct_answer": "B",
+    "explanation": "Males have vocal sacs and copulatory pads."
+  },
+  {
+    "source_sentence": "The alimentary canal is short because frogs are carnivores and hence the length of intestine is reduced.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog alimentary canal is short because frogs are:",
+    "options": {
+      "A": "Herbivores",
+      "B": "Carnivores with reduced intestine",
+      "C": "Filter feeders",
+      "D": "Non-digesting"
+    },
+    "correct_answer": "B",
+    "explanation": "Carnivorous diet → short canal."
+  },
+  {
+    "source_sentence": "Food is captured by the bilobed tongue.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog captures prey with:",
+    "options": {
+      "A": "Mandibles",
+      "B": "Bilobed tongue",
+      "C": "Vocal sacs",
+      "D": "Webbed feet"
+    },
+    "correct_answer": "B",
+    "explanation": "Bilobed tongue captures prey."
+  },
+  {
+    "source_sentence": "Bile emulsifies fat and pancreatic juices digest carbohydrates and proteins.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Bile in frog digestion:",
+    "options": {
+      "A": "Digests protein",
+      "B": "Emulsifies fat",
+      "C": "Digests starch only",
+      "D": "Neutralises only"
+    },
+    "correct_answer": "B",
+    "explanation": "Bile emulsifies fat."
+  },
+  {
+    "source_sentence": "In water, skin acts as aquatic respiratory organ (cutaneous respiration).",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "In water, frogs respire through:",
+    "options": {
+      "A": "Lungs only",
+      "B": "Skin (cutaneous respiration)",
+      "C": "Gills",
+      "D": "Trachea"
+    },
+    "correct_answer": "B",
+    "explanation": "Cutaneous respiration via skin in water."
+  },
+  {
+    "source_sentence": "On land, the buccal cavity, skin and lungs act as the respiratory organs.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "On land, frog respiratory organs include:",
+    "options": {
+      "A": "Lungs only",
+      "B": "Buccal cavity, skin and lungs",
+      "C": "Gills",
+      "D": "Spiracles"
+    },
+    "correct_answer": "B",
+    "explanation": "Land respiration: buccal cavity, skin, lungs."
+  },
+  {
+    "source_sentence": "During aestivation and hibernation gaseous exchange takes place through skin.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "During aestivation/hibernation, frog gas exchange is through:",
+    "options": {
+      "A": "Lungs only",
+      "B": "Skin",
+      "C": "Gills",
+      "D": "Buccal cavity only"
+    },
+    "correct_answer": "B",
+    "explanation": "Gas exchange via skin during aestivation/hibernation."
+  },
+  {
+    "source_sentence": "Heart has three chambers, two atria and one ventricle and is covered by a membrane called pericardium.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog heart has:",
+    "options": {
+      "A": "Two chambers",
+      "B": "Three chambers (2 atria, 1 ventricle) with pericardium",
+      "C": "Four chambers",
+      "D": "One atrium, two ventricles"
+    },
+    "correct_answer": "B",
+    "explanation": "3-chambered heart with pericardium."
+  },
+  {
+    "source_sentence": "The former is called hepatic portal system and the latter is called renal portal system.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Liver-intestine venous connection in frog is:",
+    "options": {
+      "A": "Renal portal system",
+      "B": "Hepatic portal system",
+      "C": "Pulmonary vein",
+      "D": "Lymphatic duct"
+    },
+    "correct_answer": "B",
+    "explanation": "Hepatic portal: liver-intestine; renal portal: kidney-lower body."
+  },
+  {
+    "source_sentence": "RBCs are nucleated and contain red coloured pigment namely haemoglobin.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog RBCs are:",
+    "options": {
+      "A": "Enucleated",
+      "B": "Nucleated with haemoglobin",
+      "C": "Absent",
+      "D": "Only in lymph"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleated RBCs with haemoglobin."
+  },
+  {
+    "source_sentence": "The frog excretes urea and thus is a ureotelic animal.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog is:",
+    "options": {
+      "A": "Ammonotelic",
+      "B": "Ureotelic",
+      "C": "Uricotelic",
+      "D": "No nitrogen excretion"
+    },
+    "correct_answer": "B",
+    "explanation": "Ureotelic — excretes urea."
+  },
+  {
+    "source_sentence": "In males the ureters act as urinogenital duct which opens into the cloaca.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Male frog ureters are:",
+    "options": {
+      "A": "Oviducts",
+      "B": "Urinogenital ducts opening into cloaca",
+      "C": "Bile ducts",
+      "D": "Absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Male ureters = urinogenital ducts."
+  },
+  {
+    "source_sentence": "There are ten pairs of cranial nerves arising from the brain.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Pairs of cranial nerves in frog:",
+    "options": {
+      "A": "Eight",
+      "B": "Ten",
+      "C": "Twelve",
+      "D": "Six"
+    },
+    "correct_answer": "B",
+    "explanation": "Ten pairs of cranial nerves."
+  },
+  {
+    "source_sentence": "Forebrain includes olfactory lobes, paired cerebral hemispheres and unpaired diencephalon.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog forebrain includes:",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Olfactory lobes, cerebral hemispheres, diencephalon",
+      "C": "Optic lobes only",
+      "D": "Spinal cord"
+    },
+    "correct_answer": "B",
+    "explanation": "Forebrain parts listed."
+  },
+  {
+    "source_sentence": "Hind-brain consists of cerebellum and medulla oblongata.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog hindbrain consists of:",
+    "options": {
+      "A": "Optic lobes",
+      "B": "Cerebellum and medulla oblongata",
+      "C": "Cerebral hemispheres",
+      "D": "Olfactory lobes"
+    },
+    "correct_answer": "B",
+    "explanation": "Hindbrain: cerebellum + medulla."
+  },
+  {
+    "source_sentence": "External ear is absent in frogs and only tympanum can be seen externally.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog external ear:",
+    "options": {
+      "A": "Well developed pinna",
+      "B": "Absent; tympanum visible externally",
+      "C": "Present as antenna",
+      "D": "Replaced by gills"
+    },
+    "correct_answer": "B",
+    "explanation": "No external ear; tympanum visible."
+  },
+  {
+    "source_sentence": "Vasa efferentia are 10-12 in number that arise from testes.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Vasa efferentia in male frog:",
+    "options": {
+      "A": "2 from ovaries",
+      "B": "10-12 from testes",
+      "C": "Open directly to cloaca",
+      "D": "Absent"
+    },
+    "correct_answer": "B",
+    "explanation": "10-12 vasa efferentia from testes."
+  },
+  {
+    "source_sentence": "Fertilisation is external and takes place in water.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog fertilisation is:",
+    "options": {
+      "A": "Internal on land",
+      "B": "External in water",
+      "C": "Internal in burrows",
+      "D": "Absent"
+    },
+    "correct_answer": "B",
+    "explanation": "External fertilisation in water."
+  },
+  {
+    "source_sentence": "Development involves a larval stage called tadpole. Tadpole undergoes metamorphosis to form the adult.",
+    "chapter": "Chapter 7: Structural Organisation in Animals",
+    "question": "Frog development includes:",
+    "options": {
+      "A": "Direct development",
+      "B": "Tadpole larva undergoing metamorphosis",
+      "C": "Nymph like insects",
+      "D": "Viviparity"
+    },
+    "correct_answer": "B",
+    "explanation": "Tadpole → metamorphosis → adult."
+  }
+]

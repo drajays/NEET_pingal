@@ -1,0 +1,1302 @@
+[
+  {
+    "source_sentence": "Evolutionary Biology is the study of history of life forms on earth.",
+    "question": "Evolutionary Biology is the study of:",
+    "options": {
+      "A": "Only fossil formation",
+      "B": "History of life forms on earth",
+      "C": "Only human anatomy",
+      "D": "Only genetic engineering"
+    },
+    "correct_answer": "B",
+    "explanation": "Evolutionary Biology examines the history and changes in life forms on earth over time.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The universe is very old – almost 13.8 billion years old.",
+    "question": "According to NCERT, the age of the universe is approximately:",
+    "options": {
+      "A": "4.5 billion years",
+      "B": "10 billion years",
+      "C": "13.8 billion years",
+      "D": "500 million years"
+    },
+    "correct_answer": "C",
+    "explanation": "The universe is estimated to be about 13.8 billion years old.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The Big Bang theory attempts to explain to us the origin of universe.",
+    "question": "The Big Bang theory explains:",
+    "options": {
+      "A": "Origin of species on earth",
+      "B": "Origin of the universe",
+      "C": "Formation of fossils only",
+      "D": "Mechanism of photosynthesis"
+    },
+    "correct_answer": "B",
+    "explanation": "The Big Bang theory describes the origin and early expansion of the universe.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "In the solar system of the milky way galaxy, earth was supposed to have been formed about 4.5 billion years back.",
+    "question": "Earth is believed to have formed approximately:",
+    "options": {
+      "A": "13.8 billion years ago",
+      "B": "4.5 billion years ago",
+      "C": "500 million years ago",
+      "D": "65 million years ago"
+    },
+    "correct_answer": "B",
+    "explanation": "Earth formed about 4.5 billion years ago in the solar system of the Milky Way galaxy.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "There was no atmosphere on early earth.",
+    "question": "The early earth initially lacked:",
+    "options": {
+      "A": "A molten core",
+      "B": "An atmosphere",
+      "C": "Gravitational force",
+      "D": "Rotation on its axis"
+    },
+    "correct_answer": "B",
+    "explanation": "Early earth had no atmosphere; gases were later released from the molten mass.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Water vapour, methane, carbondioxide and ammonia released from molten mass covered the surface.",
+    "question": "Gases released from the molten mass of early earth included:",
+    "options": {
+      "A": "Only oxygen and nitrogen",
+      "B": "Water vapour, methane, CO₂ and ammonia",
+      "C": "Only noble gases",
+      "D": "Only hydrogen and helium"
+    },
+    "correct_answer": "B",
+    "explanation": "Early earth's surface was covered by water vapour, methane, carbon dioxide and ammonia.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Oxygen combined with ammonia and methane to form water, CO₂ and others. The ozone layer was formed.",
+    "question": "Oxygen on early earth combined with ammonia and methane to form:",
+    "options": {
+      "A": "Only ozone",
+      "B": "Water, CO₂ and other compounds",
+      "C": "Only amino acids",
+      "D": "Only proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Oxygen reacted with ammonia and methane, forming water, CO₂ and other compounds; ozone layer also formed.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "As it cooled, the water vapor fell as rain, to fill all the depressions and form oceans.",
+    "question": "Oceans on earth were formed when:",
+    "options": {
+      "A": "Ice from comets alone deposited water",
+      "B": "Water vapour condensed as rain filling depressions",
+      "C": "Underground rivers emerged suddenly",
+      "D": "Volcanic lava solidified into water"
+    },
+    "correct_answer": "B",
+    "explanation": "Cooling caused water vapour to condense as rain, filling depressions to form oceans.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Life appeared 500 million years after the formation of earth, i.e., almost four billion years back.",
+    "question": "Life on earth appeared approximately:",
+    "options": {
+      "A": "500 million years after earth's formation",
+      "B": "Immediately with earth's formation",
+      "C": "1 billion years after earth's formation",
+      "D": "13.8 billion years ago"
+    },
+    "correct_answer": "A",
+    "explanation": "Life arose about 500 million years after earth formed, roughly 4 billion years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "'Panspermia' is still a favourite idea for some astronomers.",
+    "question": "Panspermia is the idea that:",
+    "options": {
+      "A": "Life arose only from decaying matter",
+      "B": "Life came to earth from outer space",
+      "C": "Life cannot exist on other planets",
+      "D": "All species were created at once"
+    },
+    "correct_answer": "B",
+    "explanation": "Panspermia proposes that life or its units (spores) were transferred to earth from elsewhere in space.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "For a long time it was also believed that life came out of decaying and rotting matter like straw, mud, etc. This was the theory of spontaneous generation.",
+    "question": "Spontaneous generation proposed that life arose from:",
+    "options": {
+      "A": "Pre-existing living cells only",
+      "B": "Decaying and rotting non-living matter",
+      "C": "Outer space exclusively",
+      "D": "Chemical reactions in stars"
+    },
+    "correct_answer": "B",
+    "explanation": "Spontaneous generation claimed life could arise from decaying matter like straw or mud.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Louis Pasteur by careful experimentation demonstrated that life comes only from pre-existing life.",
+    "question": "Louis Pasteur demonstrated through experiments that:",
+    "options": {
+      "A": "Life can arise from non-living matter",
+      "B": "Life comes only from pre-existing life",
+      "C": "Spontaneous generation is valid",
+      "D": "Life originated in outer space"
+    },
+    "correct_answer": "B",
+    "explanation": "Pasteur showed in sterilised flasks that life did not arise from killed yeast unless exposed to air with existing organisms.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Oparin of Russia and Haldane of England proposed that the first form of life could have come from pre-existing non-living organic molecules.",
+    "question": "Oparin and Haldane proposed that the first life forms arose from:",
+    "options": {
+      "A": "Fully formed cells from space",
+      "B": "Pre-existing non-living organic molecules",
+      "C": "Decaying plant matter only",
+      "D": "Spontaneous generation in mud"
+    },
+    "correct_answer": "B",
+    "explanation": "Oparin and Haldane suggested life originated from organic molecules via chemical evolution.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Formation of life was preceded by chemical evolution, i.e., formation of diverse organic molecules from inorganic constituents.",
+    "question": "Chemical evolution refers to:",
+    "options": {
+      "A": "Evolution of behaviour in animals",
+      "B": "Formation of diverse organic molecules from inorganic constituents",
+      "C": "Formation of fossils in rocks",
+      "D": "Natural selection in populations"
+    },
+    "correct_answer": "B",
+    "explanation": "Chemical evolution is the formation of organic molecules from inorganic materials before life appeared.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "In 1953, S.L. Miller, an American scientist created similar conditions in a laboratory scale.",
+    "question": "S.L. Miller's famous experiment on origin of life was conducted in:",
+    "options": {
+      "A": "1923",
+      "B": "1933",
+      "C": "1953",
+      "D": "1973"
+    },
+    "correct_answer": "C",
+    "explanation": "Stanley Miller performed his classic experiment simulating early earth conditions in 1953.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "He created electric discharge in a closed flask containing CH₄, H₂, NH₃ and water vapour at 800°C.",
+    "question": "Miller's experiment used all of the following EXCEPT:",
+    "options": {
+      "A": "CH₄",
+      "B": "H₂",
+      "C": "NH₃",
+      "D": "Free oxygen (O₂)"
+    },
+    "correct_answer": "D",
+    "explanation": "Miller used CH₄, H₂, NH₃ and water vapour with electric discharge; free O₂ was not part of the reducing atmosphere.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "He observed formation of amino acids.",
+    "question": "The primary organic molecules formed in Miller's experiment were:",
+    "options": {
+      "A": "Nucleic acids only",
+      "B": "Amino acids",
+      "C": "Complete living cells",
+      "D": "Only fats"
+    },
+    "correct_answer": "B",
+    "explanation": "Miller observed the formation of amino acids under simulated early earth conditions.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Analysis of meteorite content also revealed similar compounds indicating that similar processes are occurring elsewhere in space.",
+    "question": "Analysis of meteorite content supports chemical evolution because meteorites contain:",
+    "options": {
+      "A": "Living bacteria",
+      "B": "Similar organic compounds",
+      "C": "Only inorganic salts",
+      "D": "Fossilised dinosaurs"
+    },
+    "correct_answer": "B",
+    "explanation": "Meteorites contain organic compounds similar to those formed in Miller-type experiments, suggesting such processes occur in space.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "They would have been giant molecules (RNA, Protein, Polysaccharides, etc.).",
+    "question": "The first non-cellular life forms were likely:",
+    "options": {
+      "A": "Multicellular plants",
+      "B": "Giant molecules like RNA, proteins and polysaccharides",
+      "C": "Complex animals with bones",
+      "D": "Bacteria with cell walls only"
+    },
+    "correct_answer": "B",
+    "explanation": "Early non-cellular forms were giant macromolecules such as RNA, proteins and polysaccharides.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The first cellular form of life did not possibly originate till about 2000 million years ago.",
+    "question": "The first cellular forms of life probably originated about:",
+    "options": {
+      "A": "2000 million years ago",
+      "B": "500 million years ago",
+      "C": "65 million years ago",
+      "D": "15 million years ago"
+    },
+    "correct_answer": "A",
+    "explanation": "Cellular life is thought to have appeared around 2000 million (2 billion) years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "All life forms were in water environment only.",
+    "question": "The earliest life forms existed:",
+    "options": {
+      "A": "Only on land",
+      "B": "Only in water environment",
+      "C": "Only in air",
+      "D": "In deep space"
+    },
+    "correct_answer": "B",
+    "explanation": "All early life forms existed exclusively in aquatic environments.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "One, that all living organisms (species or types) that we see today were created as such.",
+    "question": "According to special creation theory, present-day organisms were:",
+    "options": {
+      "A": "Gradually evolved over billions of years",
+      "B": "Created as they are today",
+      "C": "Derived from a single bacterium",
+      "D": "Products of chemical evolution only"
+    },
+    "correct_answer": "B",
+    "explanation": "Special creation holds that all current species were created in their present form.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Three, that earth is about 4000 years old.",
+    "question": "Special creation theory estimated the age of earth as about:",
+    "options": {
+      "A": "4000 years",
+      "B": "4.5 billion years",
+      "C": "13.8 billion years",
+      "D": "500 million years"
+    },
+    "correct_answer": "A",
+    "explanation": "One connotation of special creation is that earth is only about 4000 years old.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Based on observations made during a sea voyage in a sail ship called H.M.S. Beagle round the world, Charles Darwin concluded...",
+    "question": "Darwin developed his ideas on evolution during a voyage on:",
+    "options": {
+      "A": "H.M.S. Victory",
+      "B": "H.M.S. Beagle",
+      "C": "H.M.S. Endeavour",
+      "D": "H.M.S. Challenger"
+    },
+    "correct_answer": "B",
+    "explanation": "Darwin's observations during the H.M.S. Beagle voyage around the world shaped his evolutionary theory.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Alfred Wallace, a naturalist who worked in Malay Archipelago had also come to similar conclusions around the same time.",
+    "question": "Alfred Wallace independently proposed ideas similar to Darwin while working in:",
+    "options": {
+      "A": "Galapagos Islands",
+      "B": "Malay Archipelago",
+      "C": "Australian outback",
+      "D": "Amazon rainforest"
+    },
+    "correct_answer": "B",
+    "explanation": "Wallace, working in the Malay Archipelago, reached conclusions parallel to Darwin's on natural selection.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "He called it natural selection and implied it as a mechanism of evolution.",
+    "question": "Darwin proposed natural selection as:",
+    "options": {
+      "A": "A mechanism of evolution",
+      "B": "A type of fossil",
+      "C": "A method of radioactive dating",
+      "D": "A form of genetic drift only"
+    },
+    "correct_answer": "A",
+    "explanation": "Natural selection is the mechanism by which better-adapted individuals survive and reproduce more.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The fitness, according to Darwin, refers ultimately and only to reproductive fitness.",
+    "question": "According to Darwin, fitness ultimately means:",
+    "options": {
+      "A": "Physical strength only",
+      "B": "Reproductive fitness",
+      "C": "Longest lifespan",
+      "D": "Largest body size"
+    },
+    "correct_answer": "B",
+    "explanation": "Darwinian fitness is measured by reproductive success—leaving more progeny than others.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The geological history of earth closely correlates with the biological history of earth.",
+    "question": "Geological history of earth:",
+    "options": {
+      "A": "Is unrelated to biological history",
+      "B": "Closely correlates with biological history",
+      "C": "Predates biological history by billions of years only",
+      "D": "Is studied only through DNA analysis"
+    },
+    "correct_answer": "B",
+    "explanation": "Fossil records in geological strata show that earth's geological and biological histories are closely linked.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Fossils are remains of hard parts of life-forms found in rocks.",
+    "question": "Fossils are:",
+    "options": {
+      "A": "Living organisms in caves",
+      "B": "Remains of hard parts of life-forms found in rocks",
+      "C": "Only footprints in sand",
+      "D": "Artificial replicas of organisms"
+    },
+    "correct_answer": "B",
+    "explanation": "Fossils are preserved remains or impressions of hard parts of ancient organisms in sedimentary rocks.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "A study of fossils in different sedimentary layers indicates the geological period in which they existed.",
+    "question": "Studying fossils in different sedimentary layers helps determine:",
+    "options": {
+      "A": "Only the colour of ancient organisms",
+      "B": "The geological period in which organisms existed",
+      "C": "Only modern species distribution",
+      "D": "The speed of light"
+    },
+    "correct_answer": "B",
+    "explanation": "Fossils in successive rock layers reveal when different life-forms existed on earth.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "All this is called paleontological evidence.",
+    "question": "Evidence for evolution from the study of fossils is called:",
+    "options": {
+      "A": "Embryological evidence",
+      "B": "Paleontological evidence",
+      "C": "Biochemical evidence only",
+      "D": "Analogous evidence"
+    },
+    "correct_answer": "B",
+    "explanation": "Paleontology—the study of fossils—provides direct evidence of extinct organisms and evolutionary change.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Embryological support for evolution was also proposed by Ernst Heckel based upon the observation of certain features during embryonic stage common to all vertebrates.",
+    "question": "Embryological support for evolution was proposed by:",
+    "options": {
+      "A": "Charles Darwin",
+      "B": "Ernst Haeckel",
+      "C": "Louis Pasteur",
+      "D": "Hugo de Vries"
+    },
+    "correct_answer": "B",
+    "explanation": "Ernst Haeckel noted common embryonic features among vertebrates as evidence for evolution.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "For example, the embryos of all vertebrates including human develop a row of vestigial gill slit just behind the head but it is a functional organ only in fish.",
+    "question": "Vestigial gill slits in vertebrate embryos are functional only in:",
+    "options": {
+      "A": "Humans",
+      "B": "Birds",
+      "C": "Fish",
+      "D": "Reptiles"
+    },
+    "correct_answer": "C",
+    "explanation": "All vertebrate embryos show gill slits, but only in fish do they develop into functional gills.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "However, this proposal was disapproved on careful study performed by Karl Ernst von Baer.",
+    "question": "Karl Ernst von Baer disapproved Haeckel's embryological theory because:",
+    "options": {
+      "A": "Embryos are identical to adults of other species",
+      "B": "Embryos never pass through the adult stages of other animals",
+      "C": "Vertebrate embryos have no similarities",
+      "D": "Only invertebrates show embryological evidence"
+    },
+    "correct_answer": "B",
+    "explanation": "von Baer showed that embryos do not recapitulate adult stages of other animals.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "This is divergent evolution and these structures are homologous. Homology indicates common ancestry.",
+    "question": "Homologous organs indicate:",
+    "options": {
+      "A": "Convergent evolution from different ancestors",
+      "B": "Common ancestry and divergent evolution",
+      "C": "No evolutionary relationship",
+      "D": "Identical functions in all species"
+    },
+    "correct_answer": "B",
+    "explanation": "Homologous structures share basic anatomy due to common ancestry but may perform different functions.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "In plants also, the thorn and tendrils of Bougainvillea and Cucurbita represent homology.",
+    "question": "An example of homology in plants is:",
+    "options": {
+      "A": "Wings of butterfly and bird",
+      "B": "Thorn of Bougainvillea and tendril of Cucurbita",
+      "C": "Eye of octopus and mammal",
+      "D": "Sweet potato and potato"
+    },
+    "correct_answer": "B",
+    "explanation": "Bougainvillea thorns and Cucurbita tendrils are homologous modified stems/branches.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Homology is based on divergent evolution whereas analogy refers to a situation exactly opposite.",
+    "question": "Homology is based on divergent evolution, while analogy results from:",
+    "options": {
+      "A": "Divergent evolution",
+      "B": "Convergent evolution",
+      "C": "No evolution",
+      "D": "Only genetic drift"
+    },
+    "correct_answer": "B",
+    "explanation": "Analogous structures arise through convergent evolution—different structures evolving for the same function.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Wings of butterfly and of birds look alike. They are not anatomically similar structures though they perform similar functions.",
+    "question": "Wings of butterflies and birds are:",
+    "options": {
+      "A": "Homologous organs",
+      "B": "Analogous organs",
+      "C": "Vestigial organs",
+      "D": "Identical in anatomy"
+    },
+    "correct_answer": "B",
+    "explanation": "Butterfly and bird wings perform similar functions but have different anatomical origins—they are analogous.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Other examples of analogy are the eye of the octopus and of mammals or the flippers of Penguins and Dolphins.",
+    "question": "Which pair represents analogous structures?",
+    "options": {
+      "A": "Forelimbs of whale and bat",
+      "B": "Eye of octopus and eye of mammals",
+      "C": "Heart of fish and heart of frog",
+      "D": "Thorn and tendril of Bougainvillea"
+    },
+    "correct_answer": "B",
+    "explanation": "Octopus and mammal eyes are structurally different but serve similar functions—an example of analogy.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Similarities in proteins and genes performing a given function among diverse organisms give clues to common ancestry.",
+    "question": "Biochemical similarities in proteins and genes among diverse organisms suggest:",
+    "options": {
+      "A": "No evolutionary relationship",
+      "B": "Common ancestry",
+      "C": "Only convergent evolution",
+      "D": "Spontaneous generation"
+    },
+    "correct_answer": "B",
+    "explanation": "Shared proteins and genes performing similar functions point to common ancestry, like structural homology.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "In a collection of moths made in 1850s, i.e., before industrialisation set in, it was observed that there were more white-winged moths on trees than dark-winged or melanised moths.",
+    "question": "Before industrialisation in England, the predominant moth on tree trunks was:",
+    "options": {
+      "A": "Dark-winged (melanic) moth",
+      "B": "White-winged moth",
+      "C": "Yellow-winged moth",
+      "D": "No moths were present"
+    },
+    "correct_answer": "B",
+    "explanation": "In the 1850s, white-winged moths outnumbered dark-winged moths on lichen-covered tree trunks.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "However, in the collection carried out from the same area, but after industrialisation, i.e., in 1920, there were more dark-winged moths.",
+    "question": "After industrialisation (by 1920), the predominant moth in the same English area was:",
+    "options": {
+      "A": "White-winged moth",
+      "B": "Dark-winged (melanic) moth",
+      "C": "Both equally common",
+      "D": "Neither type survived"
+    },
+    "correct_answer": "B",
+    "explanation": "Industrial soot darkened tree trunks, favouring melanic moths that were better camouflaged.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Do you know that lichens can be used as industrial pollution indicators? They will not grow in areas that are polluted.",
+    "question": "Lichens are useful as indicators of:",
+    "options": {
+      "A": "Soil fertility only",
+      "B": "Industrial pollution",
+      "C": "Ocean salinity",
+      "D": "Atmospheric oxygen level"
+    },
+    "correct_answer": "B",
+    "explanation": "Lichens are sensitive to air pollution and do not grow in polluted industrial areas.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "This showed that in a mixed population, those that can better adapt, survive and increase in population size. Remember that no variant is completely wiped out.",
+    "question": "Industrial melanism demonstrated that in a mixed population:",
+    "options": {
+      "A": "All variants are completely wiped out",
+      "B": "Better adapted variants survive and increase in number",
+      "C": "No natural selection occurs",
+      "D": "Only random mating occurs"
+    },
+    "correct_answer": "B",
+    "explanation": "Industrial melanism shows natural selection favouring better-camouflaged moths, though no variant is entirely eliminated.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "These are examples of evolution by anthropogenic action.",
+    "question": "Evolution of antibiotic-resistant bacteria is an example of:",
+    "options": {
+      "A": "Evolution by anthropogenic (human) action",
+      "B": "Special creation",
+      "C": "Panspermia",
+      "D": "Spontaneous generation"
+    },
+    "correct_answer": "A",
+    "explanation": "Human use of antibiotics, pesticides and herbicides drives rapid evolution of resistant organisms.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "This also tells us that evolution is not a directed process in the sense of determinism. It is a stochastic process based on chance events in nature and chance mutation in the organisms.",
+    "question": "Evolution is best described as:",
+    "options": {
+      "A": "A directed, predetermined process",
+      "B": "A stochastic process based on chance events and mutations",
+      "C": "A process that stops once humans appear",
+      "D": "Independent of natural selection"
+    },
+    "correct_answer": "B",
+    "explanation": "Evolution is not deterministic; it depends on chance events in nature and random mutations.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "small black birds later called Darwin's Finches amazed him.",
+    "question": "Small black birds that amazed Darwin on Galapagos Islands are called:",
+    "options": {
+      "A": "Wallace's finches",
+      "B": "Darwin's finches",
+      "C": "Australian finches",
+      "D": "Industrial moths"
+    },
+    "correct_answer": "B",
+    "explanation": "Darwin's finches on the Galapagos show diverse beak forms adapted to different diets.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "From the original seed-eating features, many other forms with altered beaks arose, enabling them to become insectivorous and vegetarian finches.",
+    "question": "Darwin's finches evolved from seed-eating ancestors into forms that were:",
+    "options": {
+      "A": "Only seed-eaters",
+      "B": "Insectivorous and vegetarian finches with altered beaks",
+      "C": "Aquatic mammals",
+      "D": "Flightless reptiles"
+    },
+    "correct_answer": "B",
+    "explanation": "Finch beaks diversified from seed-eating types to insectivorous and vegetarian forms.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Another example is Australian marsupials.",
+    "question": "Besides Darwin's finches, a classic example of adaptive radiation is:",
+    "options": {
+      "A": "Industrial moths of England",
+      "B": "Australian marsupials",
+      "C": "Miller's flask experiment",
+      "D": "Homo habilis fossils"
+    },
+    "correct_answer": "B",
+    "explanation": "Australian marsupials diversified from a common ancestral stock on the isolated continent.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "When more than one adaptive radiation appeared to have occurred in an isolated geographical area... one can call this convergent evolution.",
+    "question": "When adaptive radiations in isolated areas produce similar-looking forms, it is called:",
+    "options": {
+      "A": "Divergent evolution only",
+      "B": "Convergent evolution",
+      "C": "Genetic equilibrium",
+      "D": "Saltation"
+    },
+    "correct_answer": "B",
+    "explanation": "Convergent evolution occurs when unrelated lineages in different areas evolve similar features.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Placental mammals in Australia also exhibit adaptive radiation... Placental wolf and Tasmanian wolf-marsupial.",
+    "question": "Placental wolf of Australia and Tasmanian wolf (marsupial) illustrate:",
+    "options": {
+      "A": "Homology only",
+      "B": "Convergent evolution between placental and marsupial mammals",
+      "C": "Identical ancestry",
+      "D": "Spontaneous generation"
+    },
+    "correct_answer": "B",
+    "explanation": "These similar-looking predators evolved independently in placental and marsupial lineages—convergent evolution.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Evolution by natural selection, in a true sense would have started when cellular forms of life with differences in metabolic capability originated on earth.",
+    "question": "Evolution by natural selection in the true sense began with:",
+    "options": {
+      "A": "Origin of the universe",
+      "B": "Cellular forms of life with metabolic differences",
+      "C": "Appearance of modern humans only",
+      "D": "Formation of amino acids in Miller's flask"
+    },
+    "correct_answer": "B",
+    "explanation": "Natural selection requires heritable variation among reproducing cellular organisms.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Branching descent and natural selection are the two key concepts of Darwinian Theory of Evolution.",
+    "question": "The two key concepts of Darwinian theory of evolution are:",
+    "options": {
+      "A": "Mutation and genetic drift",
+      "B": "Branching descent and natural selection",
+      "C": "Use and disuse of organs",
+      "D": "Chemical evolution and panspermia"
+    },
+    "correct_answer": "B",
+    "explanation": "Darwin's theory rests on branching descent (common ancestry) and natural selection.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Even before Darwin, a French naturalist Lamarck had said that evolution of life forms had occurred but driven by use and disuse of organs.",
+    "question": "Lamarck proposed that evolution was driven by:",
+    "options": {
+      "A": "Natural selection",
+      "B": "Use and disuse of organs",
+      "C": "Genetic drift",
+      "D": "Hardy-Weinberg equilibrium"
+    },
+    "correct_answer": "B",
+    "explanation": "Lamarck believed organs strengthened or weakened by use/disuse and these acquired traits were inherited.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "In the first decade of twentieth century, Hugo deVries based on his work on evening primrose brought forth the idea of mutations.",
+    "question": "Hugo de Vries proposed the idea of mutations based on studies of:",
+    "options": {
+      "A": "Garden peas",
+      "B": "Evening primrose",
+      "C": "Galapagos finches",
+      "D": "Industrial moths"
+    },
+    "correct_answer": "B",
+    "explanation": "de Vries observed sudden large variations in evening primrose and called them mutations.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "He believed that it is mutation which causes evolution and not the minor variations (heritable) that Darwin talked about.",
+    "question": "de Vries believed evolution is caused by:",
+    "options": {
+      "A": "Only minor gradual variations",
+      "B": "Mutations (large sudden differences)",
+      "C": "Use and disuse of organs",
+      "D": "Special creation"
+    },
+    "correct_answer": "B",
+    "explanation": "de Vries argued that large sudden mutations, not small Darwinian variations, drive evolution.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Mutations are random and directionless while Darwinian variations are small and directional.",
+    "question": "Compared to Darwinian variations, mutations are:",
+    "options": {
+      "A": "Small and directional",
+      "B": "Random and directionless",
+      "C": "Always beneficial",
+      "D": "Never heritable"
+    },
+    "correct_answer": "B",
+    "explanation": "Mutations occur randomly without direction, unlike the small directional variations Darwin emphasised.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Evolution for Darwin was gradual while deVries believed mutation caused speciation and hence called it 'saltation' (single step large mutation).",
+    "question": "de Vries called speciation through large mutations:",
+    "options": {
+      "A": "Gradualism",
+      "B": "Saltation",
+      "C": "Adaptive radiation",
+      "D": "Genetic equilibrium"
+    },
+    "correct_answer": "B",
+    "explanation": "Saltation refers to sudden large mutational changes causing speciation in a single step.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "It is possible that the work of Thomas Malthus on populations influenced Darwin.",
+    "question": "Thomas Malthus's work on populations may have influenced:",
+    "options": {
+      "A": "Louis Pasteur",
+      "B": "Charles Darwin",
+      "C": "S.L. Miller",
+      "D": "Oparin and Haldane"
+    },
+    "correct_answer": "B",
+    "explanation": "Malthus's ideas on population growth and limited resources likely shaped Darwin's thinking on competition.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "natural resources are limited, populations are stable in size except for seasonal fluctuation, members of a population vary in characteristics.",
+    "question": "Observations underlying natural selection include all EXCEPT:",
+    "options": {
+      "A": "Natural resources are limited",
+      "B": "Populations are stable in size except seasonal fluctuation",
+      "C": "All individuals in a population are identical",
+      "D": "Most variations are inherited"
+    },
+    "correct_answer": "C",
+    "explanation": "Natural selection assumes inherited variation among individuals; no two individuals are exactly alike.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Hardy-Weinberg principle stated it using algebraic equations.",
+    "question": "The Hardy-Weinberg principle describes allele frequencies using:",
+    "options": {
+      "A": "Only fossil records",
+      "B": "Algebraic equations",
+      "C": "Embryological drawings",
+      "D": "Radioactive dating"
+    },
+    "correct_answer": "B",
+    "explanation": "Hardy and Weinberg used mathematical equations to describe stable allele frequencies in populations.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "allele frequencies in a population are stable and is constant from generation to generation.",
+    "question": "According to Hardy-Weinberg principle, allele frequencies in a population are:",
+    "options": {
+      "A": "Always changing every generation",
+      "B": "Stable and constant from generation to generation",
+      "C": "Zero for recessive alleles",
+      "D": "Equal to 0.5 always"
+    },
+    "correct_answer": "B",
+    "explanation": "In genetic equilibrium, allele frequencies remain unchanged across generations.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The gene pool (total genes and their alleles in a population) remains a constant. This is called genetic equilibrium.",
+    "question": "When the gene pool of a population remains constant, the population is in:",
+    "options": {
+      "A": "Genetic disequilibrium",
+      "B": "Genetic equilibrium",
+      "C": "Adaptive radiation",
+      "D": "Founder effect only"
+    },
+    "correct_answer": "B",
+    "explanation": "Genetic equilibrium means the total genes and alleles in a population remain stable over generations.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Sum total of all the allelic frequencies is 1.",
+    "question": "In Hardy-Weinberg equilibrium, the sum of all allelic frequencies is:",
+    "options": {
+      "A": "0",
+      "B": "0.5",
+      "C": "1",
+      "D": "2"
+    },
+    "correct_answer": "C",
+    "explanation": "Allele frequencies p and q for a gene with two alleles sum to 1 (p + q = 1).",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "When frequency measured, differs from expected values, the difference (direction) indicates the extent of evolutionary change.",
+    "question": "Deviation from Hardy-Weinberg expected frequencies indicates:",
+    "options": {
+      "A": "No evolutionary change",
+      "B": "Extent of evolutionary change",
+      "C": "Perfect genetic equilibrium",
+      "D": "Absence of alleles"
+    },
+    "correct_answer": "B",
+    "explanation": "Differences between observed and expected allele/genotype frequencies signal evolutionary change.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Five factors are known to affect Hardy-Weinberg equilibrium. These are gene migration or gene flow, genetic drift, mutation, genetic recombination and natural selection.",
+    "question": "Which factor does NOT disturb Hardy-Weinberg equilibrium?",
+    "options": {
+      "A": "Gene flow",
+      "B": "Genetic drift",
+      "C": "Random mating with no other forces",
+      "D": "Natural selection"
+    },
+    "correct_answer": "C",
+    "explanation": "Gene flow, genetic drift, mutation, recombination and natural selection all disturb equilibrium; ideal conditions maintain it.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "When migration of a section of population to another place and population occurs, gene frequencies change in the original as well as in the new population.",
+    "question": "Gene migration (gene flow) causes:",
+    "options": {
+      "A": "No change in allele frequencies",
+      "B": "Change in gene frequencies in both original and new populations",
+      "C": "Only mutation",
+      "D": "Complete genetic equilibrium"
+    },
+    "correct_answer": "B",
+    "explanation": "Migration adds alleles to the new population and removes them from the original, altering frequencies.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "If the same change occurs by chance, it is called genetic drift.",
+    "question": "Change in allele frequency occurring by chance is called:",
+    "options": {
+      "A": "Gene flow",
+      "B": "Genetic drift",
+      "C": "Natural selection only",
+      "D": "Chemical evolution"
+    },
+    "correct_answer": "B",
+    "explanation": "Genetic drift is random change in allele frequencies due to chance events in small populations.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The original drifted population becomes founders and the effect is called founder effect.",
+    "question": "When a small group migrates and establishes a new population with altered allele frequencies, it is called:",
+    "options": {
+      "A": "Industrial melanism",
+      "B": "Founder effect",
+      "C": "Adaptive radiation",
+      "D": "Saltation"
+    },
+    "correct_answer": "B",
+    "explanation": "Founder effect occurs when a small founding population carries a non-representative sample of alleles.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Natural selection can lead to stabilisation (in which more individuals acquire mean character value), directional change... or disruption.",
+    "question": "Natural selection that favours intermediate phenotypes and reduces extremes is:",
+    "options": {
+      "A": "Stabilising selection",
+      "B": "Directional selection",
+      "C": "Disruptive selection",
+      "D": "Saltation"
+    },
+    "correct_answer": "A",
+    "explanation": "Stabilising selection favours the mean character value and reduces variation at extremes.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "directional change (more individuals acquire value other than the mean character value)",
+    "question": "Natural selection that shifts the population mean toward one extreme is:",
+    "options": {
+      "A": "Stabilising selection",
+      "B": "Directional selection",
+      "C": "Disruptive selection",
+      "D": "Genetic equilibrium"
+    },
+    "correct_answer": "B",
+    "explanation": "Directional selection favours phenotypes at one end of the distribution, shifting the mean.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "disruption (more individuals acquire peripheral character value at both ends of the distribution curve)",
+    "question": "Natural selection favouring both extremes of a trait distribution is:",
+    "options": {
+      "A": "Stabilising selection",
+      "B": "Directional selection",
+      "C": "Disruptive selection",
+      "D": "Founder effect"
+    },
+    "correct_answer": "C",
+    "explanation": "Disruptive selection favours peripheral values at both ends, potentially splitting the population.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "About 2000 million years ago (mya) the first cellular forms of life appeared on earth.",
+    "question": "First cellular forms of life appeared on earth about:",
+    "options": {
+      "A": "500 mya",
+      "B": "2000 mya",
+      "C": "65 mya",
+      "D": "15 mya"
+    },
+    "correct_answer": "B",
+    "explanation": "Cellular life emerged approximately 2000 million years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Some of these cells had the ability to release O₂.",
+    "question": "Early cells that appeared about 2000 mya included some that could:",
+    "options": {
+      "A": "Release O₂",
+      "B": "Perform photosynthesis like modern trees only",
+      "C": "Live only on land",
+      "D": "Produce antibiotics"
+    },
+    "correct_answer": "A",
+    "explanation": "Some early cells could release oxygen, possibly through reactions similar to the light reaction of photosynthesis.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "By the time of 500 mya, invertebrates were formed and active.",
+    "question": "Invertebrates became active around:",
+    "options": {
+      "A": "500 mya",
+      "B": "350 mya",
+      "C": "65 mya",
+      "D": "2000 mya"
+    },
+    "correct_answer": "A",
+    "explanation": "Invertebrates had formed and were active by about 500 million years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Jawless fish probably evolved around 350 mya.",
+    "question": "Jawless fish probably evolved around:",
+    "options": {
+      "A": "500 mya",
+      "B": "350 mya",
+      "C": "200 mya",
+      "D": "65 mya"
+    },
+    "correct_answer": "B",
+    "explanation": "Jawless fish are believed to have evolved approximately 350 million years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "In 1938, a fish caught in South Africa happened to be a Coelacanth which was thought to be extinct.",
+    "question": "The Coelacanth, thought extinct, was rediscovered in:",
+    "options": {
+      "A": "1859 in England",
+      "B": "1938 in South Africa",
+      "C": "1953 in USA",
+      "D": "1891 in Java"
+    },
+    "correct_answer": "B",
+    "explanation": "A living Coelacanth was caught off South Africa in 1938, though it was believed extinct.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "These animals called lobefins evolved into the first amphibians that lived on both land and water.",
+    "question": "Lobefins (like Coelacanth) are believed to have evolved into:",
+    "options": {
+      "A": "First amphibians",
+      "B": "Modern birds directly",
+      "C": "Jawless fish",
+      "D": "Mammals directly"
+    },
+    "correct_answer": "A",
+    "explanation": "Lobefinned fish with stout fins evolved into the first amphibians living on both land and water.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The amphibians evolved into reptiles. They lay thick-shelled eggs which do not dry up in sun unlike those of amphibians.",
+    "question": "Reptiles differ from amphibians in laying:",
+    "options": {
+      "A": "Eggs in water only",
+      "B": "Thick-shelled eggs that do not dry in sun",
+      "C": "Live young only",
+      "D": "No eggs at all"
+    },
+    "correct_answer": "B",
+    "explanation": "Reptiles lay amniotic eggs with thick shells, allowing reproduction away from water.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Some of these land reptiles went back into water to evolve into fish like reptiles probably 200 mya (e.g. Ichthyosaurs).",
+    "question": "Ichthyosaurs were:",
+    "options": {
+      "A": "Land plants",
+      "B": "Fish-like reptiles that evolved from land reptiles about 200 mya",
+      "C": "Early mammals",
+      "D": "Jawless fish"
+    },
+    "correct_answer": "B",
+    "explanation": "Ichthyosaurs were marine reptiles that evolved when some land reptiles returned to water ~200 mya.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The biggest of them, i.e., Tyrannosaurus rex was about 20 feet in height and had huge fearsome dagger like teeth. About 65 mya, the dinosaurs suddenly disappeared from the earth.",
+    "question": "Dinosaurs disappeared from earth about:",
+    "options": {
+      "A": "200 mya",
+      "B": "65 mya",
+      "C": "350 mya",
+      "D": "15 mya"
+    },
+    "correct_answer": "B",
+    "explanation": "Dinosaurs, including Tyrannosaurus rex, went extinct around 65 million years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The first mammals were like shrews. Their fossils are small sized. Mammals were viviparous and protected their unborn young inside the mother's body.",
+    "question": "Early mammals were:",
+    "options": {
+      "A": "Large egg-laying reptiles",
+      "B": "Small shrew-like viviparous animals",
+      "C": "Aquatic jawless fish",
+      "D": "Giant ferns"
+    },
+    "correct_answer": "B",
+    "explanation": "First mammals resembled shrews, were small, viviparous and protected young inside the mother's body.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Due to continental drift, when South America joined North America, these animals were overridden by North American fauna.",
+    "question": "Unique South American mammals were replaced when:",
+    "options": {
+      "A": "Dinosaurs went extinct",
+      "B": "South America joined North America due to continental drift",
+      "C": "Humans arrived",
+      "D": "Ice age began"
+    },
+    "correct_answer": "B",
+    "explanation": "Continental drift brought South and North America together, allowing North American fauna to outcompete native mammals.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Due to the same continental drift pouched mammals of Australia survived because of lack of competition from any other mammal.",
+    "question": "Australian marsupials survived largely because:",
+    "options": {
+      "A": "They were the largest animals",
+      "B": "Isolation by continental drift reduced competition from other mammals",
+      "C": "They lived only in water",
+      "D": "They were not mammals"
+    },
+    "correct_answer": "B",
+    "explanation": "Australia's isolation allowed marsupials to diversify without competition from placental mammals.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "About 15 mya, primates called Dryopithecus and Ramapithecus were existing.",
+    "question": "Dryopithecus and Ramapithecus existed about:",
+    "options": {
+      "A": "65 mya",
+      "B": "15 mya",
+      "C": "3-4 mya",
+      "D": "500 mya"
+    },
+    "correct_answer": "B",
+    "explanation": "These ape-like primates lived approximately 15 million years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Ramapithecus was more man-like while Dryopithecus was more ape-like.",
+    "question": "Between Dryopithecus and Ramapithecus:",
+    "options": {
+      "A": "Dryopithecus was more man-like",
+      "B": "Ramapithecus was more man-like and Dryopithecus more ape-like",
+      "C": "Both were identical to modern humans",
+      "D": "Both were fish-like"
+    },
+    "correct_answer": "B",
+    "explanation": "Ramapithecus showed more human-like features; Dryopithecus was more ape-like.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "about 3-4 mya, man-like primates walked in eastern Africa.",
+    "question": "Man-like primates walking upright in eastern Africa appeared about:",
+    "options": {
+      "A": "15 mya",
+      "B": "3-4 mya",
+      "C": "65 mya",
+      "D": "500 mya"
+    },
+    "correct_answer": "B",
+    "explanation": "Fossil evidence suggests hominids walked upright in East Africa 3-4 million years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Two mya, Australopithecines probably lived in East African grasslands.",
+    "question": "Australopithecines probably lived in East African grasslands about:",
+    "options": {
+      "A": "2 mya",
+      "B": "15 mya",
+      "C": "500 mya",
+      "D": "10,000 years ago"
+    },
+    "correct_answer": "A",
+    "explanation": "Australopithecines inhabited East African grasslands around 2 million years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "This creature was called the first human-like being the hominid and was called Homo habilis. The brain capacities were between 650-800cc.",
+    "question": "Homo habilis had a brain capacity of approximately:",
+    "options": {
+      "A": "200-300 cc",
+      "B": "650-800 cc",
+      "C": "1400 cc",
+      "D": "1800 cc"
+    },
+    "correct_answer": "B",
+    "explanation": "Homo habilis, the first human-like hominid, had a brain volume of 650-800 cc.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Fossils discovered in Java in 1891 revealed the next stage, i.e., Homo erectus about 1.5 mya. Homo erectus had a large brain around 900cc.",
+    "question": "Homo erectus, discovered in Java (1891), had a brain capacity of about:",
+    "options": {
+      "A": "650 cc",
+      "B": "900 cc",
+      "C": "1400 cc",
+      "D": "200 cc"
+    },
+    "correct_answer": "B",
+    "explanation": "Homo erectus lived about 1.5 mya and had a brain capacity of approximately 900 cc.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Homo erectus probably ate meat.",
+    "question": "Compared to Homo habilis, Homo erectus:",
+    "options": {
+      "A": "Probably did not eat meat",
+      "B": "Probably ate meat",
+      "C": "Was a fish exclusively",
+      "D": "Had no brain"
+    },
+    "correct_answer": "B",
+    "explanation": "Homo erectus likely included meat in its diet, unlike earlier hominids.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "They used hides to protect their body and buried their dead.",
+    "question": "Neanderthals are known to have:",
+    "options": {
+      "A": "Only eaten fruit",
+      "B": "Used hides for protection and buried their dead",
+      "C": "Lived only in Africa",
+      "D": "Had no culture"
+    },
+    "correct_answer": "B",
+    "explanation": "Neanderthals used animal hides and practised burial of the dead.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Homo sapiens arose in Africa and moved across continents and developed into distinct races.",
+    "question": "Homo sapiens originated in:",
+    "options": {
+      "A": "Europe",
+      "B": "Africa",
+      "C": "Australia",
+      "D": "South America"
+    },
+    "correct_answer": "B",
+    "explanation": "Modern humans (Homo sapiens) arose in Africa and migrated to other continents.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "During ice age between 75,000-10,000 years ago modern Homo sapiens arose.",
+    "question": "Modern Homo sapiens arose during the ice age between:",
+    "options": {
+      "A": "1-2 million years ago",
+      "B": "75,000-10,000 years ago",
+      "C": "500 million years ago",
+      "D": "4.5 billion years ago"
+    },
+    "correct_answer": "B",
+    "explanation": "Modern Homo sapiens emerged during the ice age period of 75,000 to 10,000 years ago.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Pre-historic cave art developed about 18,000 years ago. One such cave paintings by Pre-historic humans can be seen at Bhimbetka rock shelter in Raisen district of Madhya Pradesh.",
+    "question": "Prehistoric cave art at Bhimbetka in Madhya Pradesh dates to about:",
+    "options": {
+      "A": "18,000 years ago",
+      "B": "1.5 million years ago",
+      "C": "65 million years ago",
+      "D": "4.5 billion years ago"
+    },
+    "correct_answer": "A",
+    "explanation": "Prehistoric cave paintings developed around 18,000 years ago; Bhimbetka is a famous Indian site.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Homology is accounted for by the idea of branching descent.",
+    "question": "Homology among organisms is explained by:",
+    "options": {
+      "A": "Convergent evolution only",
+      "B": "Branching descent from common ancestors",
+      "C": "Spontaneous generation",
+      "D": "Industrial melanism"
+    },
+    "correct_answer": "B",
+    "explanation": "Homologous structures arise through branching descent—divergence from common ancestral forms.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Hence, there must be a genetic basis for getting selected and to evolve.",
+    "question": "For natural selection to lead to evolution, variations must have:",
+    "options": {
+      "A": "No genetic basis",
+      "B": "A genetic basis and be heritable",
+      "C": "Only environmental origin",
+      "D": "Been acquired during lifetime only"
+    },
+    "correct_answer": "B",
+    "explanation": "Selectable traits must be inherited; there must be a genetic basis for evolution to occur.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "A critical analysis makes us believe that variation due to mutation or variation due to recombination during gametogenesis, or due to gene flow or genetic drift results in changed frequency of genes and alleles in future generation.",
+    "question": "Changed frequency of genes in future generations can result from:",
+    "options": {
+      "A": "Only fossilisation",
+      "B": "Mutation, recombination, gene flow or genetic drift",
+      "C": "Only use and disuse",
+      "D": "Only special creation"
+    },
+    "correct_answer": "B",
+    "explanation": "Mutation, recombination, gene flow and genetic drift all alter allele frequencies across generations.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "Whales, dolphins, seals and sea cows are some examples.",
+    "question": "Examples of mammals that live wholly in water include:",
+    "options": {
+      "A": "Crocodiles and turtles",
+      "B": "Whales, dolphins, seals and sea cows",
+      "C": "Sharks and rays",
+      "D": "Frogs and salamanders"
+    },
+    "correct_answer": "B",
+    "explanation": "Whales, dolphins, seals and sea cows are mammals fully adapted to aquatic life.",
+    "chapter": "Chapter 6: Evolution"
+  },
+  {
+    "source_sentence": "The skull of baby chimpanzee is more like adult human skull than adult chimpanzee skull",
+    "question": "Comparing skulls, a baby chimpanzee skull resembles:",
+    "options": {
+      "A": "Adult chimpanzee skull more than human skull",
+      "B": "Adult human skull more than adult chimpanzee skull",
+      "C": "Only reptile skulls",
+      "D": "No other skull"
+    },
+    "correct_answer": "B",
+    "explanation": "Ontogeny shows baby chimpanzee skull is more similar to adult human skull than to adult chimpanzee skull.",
+    "chapter": "Chapter 6: Evolution"
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "source_sentence": "Humans are sexually reproducing and viviparous.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Humans reproduce by which mode and type of birth?",
+    "options": {
+      "A": "Asexually and oviparous",
+      "B": "Sexually and viviparous",
+      "C": "Sexually and oviparous",
+      "D": "Asexually and viviparous"
+    },
+    "correct_answer": "B",
+    "explanation": "Humans are sexually reproducing and give birth to live young (viviparous)."
+  },
+  {
+    "source_sentence": "Formation and development of blastocyst and its attachment to the uterine wall (implantation), embryonic development (gestation) and delivery of the baby (parturition).",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Blastocyst attachment to the uterine wall is termed:",
+    "options": {
+      "A": "Gestation",
+      "B": "Implantation",
+      "C": "Parturition",
+      "D": "Ovulation"
+    },
+    "correct_answer": "B",
+    "explanation": "Attachment of the blastocyst to the uterine wall is called implantation."
+  },
+  {
+    "source_sentence": "These reproductive events occur after puberty.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Human reproductive events such as gametogenesis occur:",
+    "options": {
+      "A": "Before birth",
+      "B": "Only during infancy",
+      "C": "After puberty",
+      "D": "Only after menopause"
+    },
+    "correct_answer": "C",
+    "explanation": "Reproductive events in humans occur after attainment of puberty."
+  },
+  {
+    "source_sentence": "Sperm formation continues even in old men, but formation of ovum ceases in women around the age of fifty years.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Which statement about gamete formation in ageing humans is correct?",
+    "options": {
+      "A": "Both sperm and ovum formation cease at age 50",
+      "B": "Sperm formation continues in old men while ovum formation ceases around age 50 in women",
+      "C": "Ovum formation continues lifelong in women",
+      "D": "Sperm formation ceases at puberty in males"
+    },
+    "correct_answer": "B",
+    "explanation": "Spermatogenesis continues in old men, whereas oogenesis ceases around 50 years in women."
+  },
+  {
+    "source_sentence": "The male reproductive system is located in the pelvis region.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The male reproductive system is located in the:",
+    "options": {
+      "A": "Thoracic region",
+      "B": "Pelvis region",
+      "C": "Abdominal cavity only",
+      "D": "Cranial region"
+    },
+    "correct_answer": "B",
+    "explanation": "The male reproductive system is situated in the pelvis region."
+  },
+  {
+    "source_sentence": "The scrotum helps in maintaining the low temperature of the testes (2-2.5°C lower than the normal internal body temperature) necessary for spermatogenesis.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The scrotum maintains testicular temperature approximately:",
+    "options": {
+      "A": "2-2.5°C higher than body temperature",
+      "B": "Equal to body temperature",
+      "C": "2-2.5°C lower than normal internal body temperature",
+      "D": "10°C lower than body temperature"
+    },
+    "correct_answer": "C",
+    "explanation": "Scrotal temperature is 2-2.5°C below normal internal body temperature, essential for spermatogenesis."
+  },
+  {
+    "source_sentence": "In adults, each testis is oval in shape, with a length of about 4 to 5 cm and a width of about 2 to 3 cm.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Approximate adult dimensions of each testis are:",
+    "options": {
+      "A": "Length 2-3 cm, width 4-5 cm",
+      "B": "Length 4-5 cm, width 2-3 cm",
+      "C": "Length 6-7 cm, width 1-2 cm",
+      "D": "Length 10-12 cm, width 2-3 cm"
+    },
+    "correct_answer": "B",
+    "explanation": "Each adult testis is about 4-5 cm long and 2-3 cm wide."
+  },
+  {
+    "source_sentence": "Each testis has about 250 compartments called testicular lobules.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Each testis contains approximately how many testicular lobules?",
+    "options": {
+      "A": "50",
+      "B": "100",
+      "C": "250",
+      "D": "500"
+    },
+    "correct_answer": "C",
+    "explanation": "Each testis has about 250 testicular lobules."
+  },
+  {
+    "source_sentence": "Each lobule contains one to three highly coiled seminiferous tubules in which sperms are produced.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Each testicular lobule contains:",
+    "options": {
+      "A": "One to three seminiferous tubules",
+      "B": "Ten to fifteen seminiferous tubules",
+      "C": "Only Leydig cells",
+      "D": "Only Sertoli cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Each lobule has one to three highly coiled seminiferous tubules where sperms are produced."
+  },
+  {
+    "source_sentence": "Each seminiferous tubule is lined on its inside by two types of cells called male germ cells (spermatogonia) and Sertoli cells.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The inner lining of seminiferous tubules consists of:",
+    "options": {
+      "A": "Leydig cells and granulosa cells",
+      "B": "Spermatogonia and Sertoli cells",
+      "C": "Theca cells and oogonia",
+      "D": "Trophoblast and endoderm"
+    },
+    "correct_answer": "B",
+    "explanation": "Seminiferous tubules are lined by spermatogonia (male germ cells) and Sertoli cells."
+  },
+  {
+    "source_sentence": "The male germ cells undergo meiotic divisions finally leading to sperm formation, while Sertoli cells provide nutrition to the germ cells.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Sertoli cells in seminiferous tubules primarily:",
+    "options": {
+      "A": "Secrete androgens",
+      "B": "Provide nutrition to germ cells",
+      "C": "Produce oogonia",
+      "D": "Form the acrosome"
+    },
+    "correct_answer": "B",
+    "explanation": "Sertoli cells nourish the dividing male germ cells."
+  },
+  {
+    "source_sentence": "The regions outside the seminiferous tubules called interstitial spaces, contain small blood vessels and interstitial cells or Leydig cells.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Leydig cells are located in:",
+    "options": {
+      "A": "Inside seminiferous tubules",
+      "B": "Interstitial spaces outside seminiferous tubules",
+      "C": "Epididymis only",
+      "D": "Prostate gland"
+    },
+    "correct_answer": "B",
+    "explanation": "Leydig (interstitial) cells lie in interstitial spaces outside seminiferous tubules."
+  },
+  {
+    "source_sentence": "Leydig cells synthesise and secrete testicular hormones called androgens.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Androgens are synthesised and secreted by:",
+    "options": {
+      "A": "Sertoli cells",
+      "B": "Spermatogonia",
+      "C": "Leydig cells",
+      "D": "Granulosa cells"
+    },
+    "correct_answer": "C",
+    "explanation": "Leydig cells produce testicular androgens."
+  },
+  {
+    "source_sentence": "The male sex accessory ducts include rete testis, vasa efferentia, epididymis and vas deferens.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Which is NOT a male sex accessory duct?",
+    "options": {
+      "A": "Vas deferens",
+      "B": "Epididymis",
+      "C": "Rete testis",
+      "D": "Fallopian tube"
+    },
+    "correct_answer": "D",
+    "explanation": "Fallopian tubes are female accessory ducts; rete testis, vasa efferentia, epididymis and vas deferens are male."
+  },
+  {
+    "source_sentence": "The seminiferous tubules of the testis open into the vasa efferentia through rete testis.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Seminiferous tubules open into vasa efferentia via:",
+    "options": {
+      "A": "Rete testis",
+      "B": "Epididymis",
+      "C": "Urethra",
+      "D": "Ejaculatory duct"
+    },
+    "correct_answer": "A",
+    "explanation": "Seminiferous tubules drain into rete testis, which connects to vasa efferentia."
+  },
+  {
+    "source_sentence": "The vasa efferentia leave the testis and open into epididymis located along the posterior surface of each testis.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Vasa efferentia open into the epididymis located on the:",
+    "options": {
+      "A": "Anterior surface of testis",
+      "B": "Posterior surface of each testis",
+      "C": "Medial surface of ovary",
+      "D": "Urinary bladder"
+    },
+    "correct_answer": "B",
+    "explanation": "Vasa efferentia leave the testis and open into epididymis on the posterior testicular surface."
+  },
+  {
+    "source_sentence": "The epididymis leads to vas deferens that ascends to the abdomen and loops over the urinary bladder.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The vas deferens:",
+    "options": {
+      "A": "Descends directly into urethra without looping",
+      "B": "Ascends to abdomen and loops over the urinary bladder",
+      "C": "Connects testis to scrotum only",
+      "D": "Opens into seminiferous tubules"
+    },
+    "correct_answer": "B",
+    "explanation": "Epididymis leads to vas deferens which ascends and loops over the urinary bladder."
+  },
+  {
+    "source_sentence": "It receives a duct from seminal vesicle and opens into urethra as the ejaculatory duct.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The ejaculatory duct is formed by the union of vas deferens with a duct from the:",
+    "options": {
+      "A": "Prostate",
+      "B": "Bulbourethral gland",
+      "C": "Seminal vesicle",
+      "D": "Epididymis"
+    },
+    "correct_answer": "C",
+    "explanation": "Vas deferens receives a duct from the seminal vesicle and opens into urethra as ejaculatory duct."
+  },
+  {
+    "source_sentence": "These ducts store and transport the sperms from the testis to the outside through urethra.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Male accessory ducts primarily:",
+    "options": {
+      "A": "Produce androgens",
+      "B": "Store and transport sperms to outside via urethra",
+      "C": "Secrete milk",
+      "D": "Form the placenta"
+    },
+    "correct_answer": "B",
+    "explanation": "Accessory ducts store and transport sperms from testis to exterior through urethra."
+  },
+  {
+    "source_sentence": "The enlarged end of penis called the glans penis is covered by a loose fold of skin called foreskin.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The loose fold of skin covering the glans penis is the:",
+    "options": {
+      "A": "Foreskin",
+      "B": "Hymen",
+      "C": "Perimetrium",
+      "D": "Zona pellucida"
+    },
+    "correct_answer": "A",
+    "explanation": "Glans penis is covered by foreskin."
+  },
+  {
+    "source_sentence": "The male accessory glands include paired seminal vesicles, a prostate and paired bulbourethral glands.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Male accessory glands include:",
+    "options": {
+      "A": "Seminal vesicles, prostate and bulbourethral glands",
+      "B": "Ovaries and mammary glands",
+      "C": "Corpus luteum and antrum",
+      "D": "Chorionic villi and trophoblast"
+    },
+    "correct_answer": "A",
+    "explanation": "Male accessory glands are seminal vesicles, prostate and bulbourethral glands."
+  },
+  {
+    "source_sentence": "Secretions of these glands constitute the seminal plasma which is rich in fructose, calcium and certain enzymes.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Seminal plasma is rich in:",
+    "options": {
+      "A": "Fructose, calcium and certain enzymes",
+      "B": "Only antibodies",
+      "C": "Chlorophyll and starch",
+      "D": "Progesterone only"
+    },
+    "correct_answer": "A",
+    "explanation": "Seminal plasma contains fructose, calcium and enzymes from accessory gland secretions."
+  },
+  {
+    "source_sentence": "The secretions of bulbourethral glands also help in the lubrication of the penis.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Bulbourethral gland secretions help in:",
+    "options": {
+      "A": "Lubrication of the penis",
+      "B": "Ovum release",
+      "C": "Implantation",
+      "D": "Milk production"
+    },
+    "correct_answer": "A",
+    "explanation": "Bulbourethral gland secretions lubricate the penis."
+  },
+  {
+    "source_sentence": "Each ovary is covered by a thin epithelium which encloses the ovarian stroma. The stroma is divided into two zones – a peripheral cortex and an inner medulla.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Ovarian stroma is divided into:",
+    "options": {
+      "A": "Cortex (peripheral) and medulla (inner)",
+      "B": "Ectoderm and endoderm",
+      "C": "Perimetrium and myometrium",
+      "D": "Trophoblast and inner cell mass"
+    },
+    "correct_answer": "A",
+    "explanation": "Ovarian stroma has peripheral cortex and inner medulla."
+  },
+  {
+    "source_sentence": "The oviducts (fallopian tubes), uterus and vagina constitute the female accessory ducts.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Female accessory ducts include:",
+    "options": {
+      "A": "Oviducts, uterus and vagina",
+      "B": "Testes and epididymis",
+      "C": "Seminal vesicles and prostate",
+      "D": "Scrotum and penis"
+    },
+    "correct_answer": "A",
+    "explanation": "Oviducts, uterus and vagina are female accessory ducts."
+  },
+  {
+    "source_sentence": "Each fallopian tube is about 10-12 cm long and extends from the periphery of each ovary to the uterus.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Each fallopian tube is approximately:",
+    "options": {
+      "A": "2-4 cm long",
+      "B": "10-12 cm long",
+      "C": "20-25 cm long",
+      "D": "1 cm long"
+    },
+    "correct_answer": "B",
+    "explanation": "Each fallopian tube is about 10-12 cm long."
+  },
+  {
+    "source_sentence": "The part closer to the ovary is the funnel-shaped infundibulum. The edges of the infundibulum possess finger-like projections called fimbriae, which help in collection of the ovum after ovulation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Finger-like projections on the infundibulum that help collect the ovum are:",
+    "options": {
+      "A": "Fimbriae",
+      "B": "Cilia of cervix",
+      "C": "Chorionic villi",
+      "D": "Alveoli"
+    },
+    "correct_answer": "A",
+    "explanation": "Fimbriae on the infundibulum help collect the ovum after ovulation."
+  },
+  {
+    "source_sentence": "The infundibulum leads to a wider part of the oviduct called ampulla.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The wider part of the oviduct following the infundibulum is the:",
+    "options": {
+      "A": "Ampulla",
+      "B": "Isthmus",
+      "C": "Cervix",
+      "D": "Mons pubis"
+    },
+    "correct_answer": "A",
+    "explanation": "Infundibulum leads to the wider ampulla of the oviduct."
+  },
+  {
+    "source_sentence": "The last part of the oviduct, isthmus has a narrow lumen and it joins the uterus.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The narrow-lumen part of the oviduct joining the uterus is the:",
+    "options": {
+      "A": "Ampulla",
+      "B": "Isthmus",
+      "C": "Infundibulum",
+      "D": "Antrum"
+    },
+    "correct_answer": "B",
+    "explanation": "Isthmus is the narrow terminal part of the oviduct joining the uterus."
+  },
+  {
+    "source_sentence": "The uterus is single and it is also called womb. The shape of the uterus is like an inverted pear.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The uterus is also called the womb and is shaped like:",
+    "options": {
+      "A": "An inverted pear",
+      "B": "A sphere",
+      "C": "A cube",
+      "D": "A spiral tube"
+    },
+    "correct_answer": "A",
+    "explanation": "The uterus (womb) is pear-shaped (inverted pear)."
+  },
+  {
+    "source_sentence": "The uterus opens into vagina through a narrow cervix.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The uterus communicates with the vagina through the:",
+    "options": {
+      "A": "Cervix",
+      "B": "Infundibulum",
+      "C": "Ampulla",
+      "D": "Glans penis"
+    },
+    "correct_answer": "A",
+    "explanation": "Uterus opens into vagina via the narrow cervix."
+  },
+  {
+    "source_sentence": "The cavity of the cervix is called cervical canal which along with vagina forms the birth canal.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The birth canal is formed by:",
+    "options": {
+      "A": "Cervical canal and vagina",
+      "B": "Ampulla and isthmus",
+      "C": "Urethra and penis",
+      "D": "Scrotum and testis"
+    },
+    "correct_answer": "A",
+    "explanation": "Cervical canal plus vagina constitute the birth canal."
+  },
+  {
+    "source_sentence": "The wall of the uterus has three layers of tissue. The external thin membranous perimetrium, middle thick layer of smooth muscle, myometrium and inner glandular layer called endometrium.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The inner glandular layer lining the uterine cavity is:",
+    "options": {
+      "A": "Endometrium",
+      "B": "Myometrium",
+      "C": "Perimetrium",
+      "D": "Trophoblast"
+    },
+    "correct_answer": "A",
+    "explanation": "Endometrium is the inner glandular layer of the uterus."
+  },
+  {
+    "source_sentence": "The endometrium undergoes cyclical changes during menstrual cycle while the myometrium exhibits strong contraction during delivery of the baby.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Strong uterine contractions during childbirth involve primarily the:",
+    "options": {
+      "A": "Myometrium",
+      "B": "Perimetrium",
+      "C": "Endometrium only",
+      "D": "Hymen"
+    },
+    "correct_answer": "A",
+    "explanation": "Myometrium (middle smooth muscle layer) contracts strongly during delivery."
+  },
+  {
+    "source_sentence": "The female external genitalia include mons pubis, labia majora, labia minora, hymen and clitoris.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Which is NOT part of female external genitalia?",
+    "options": {
+      "A": "Clitoris",
+      "B": "Labia minora",
+      "C": "Hymen",
+      "D": "Cervix"
+    },
+    "correct_answer": "D",
+    "explanation": "Cervix is internal; external genitalia include mons pubis, labia majora/minora, hymen and clitoris."
+  },
+  {
+    "source_sentence": "The labia majora are fleshy folds of tissue, which extend down from the mons pubis and surround the vaginal opening.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Labia majora:",
+    "options": {
+      "A": "Extend from mons pubis and surround vaginal opening",
+      "B": "Lie above urethral opening only",
+      "C": "Form the birth canal",
+      "D": "Secrete androgens"
+    },
+    "correct_answer": "A",
+    "explanation": "Labia majora are fleshy folds extending from mons pubis around the vaginal opening."
+  },
+  {
+    "source_sentence": "The opening of the vagina is often covered partially by a membrane called hymen.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The vaginal opening is often partially covered by the:",
+    "options": {
+      "A": "Hymen",
+      "B": "Foreskin",
+      "C": "Zona pellucida",
+      "D": "Acrosome"
+    },
+    "correct_answer": "A",
+    "explanation": "Hymen is a membrane that often partially covers the vaginal opening."
+  },
+  {
+    "source_sentence": "The clitoris is a tiny finger-like structure which lies at the upper junction of the two labia minora above the urethral opening.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The clitoris lies:",
+    "options": {
+      "A": "At upper junction of labia minora above urethral opening",
+      "B": "Inside seminiferous tubules",
+      "C": "At posterior surface of testis",
+      "D": "In the cervical canal"
+    },
+    "correct_answer": "A",
+    "explanation": "Clitoris is a small structure at the upper junction of labia minora above the urethral opening."
+  },
+  {
+    "source_sentence": "In fact, the presence or absence of hymen is not a reliable indicator of virginity or sexual experience.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The hymen:",
+    "options": {
+      "A": "Is a reliable indicator of virginity",
+      "B": "Is not a reliable indicator of virginity or sexual experience",
+      "C": "Never breaks except during coitus",
+      "D": "Is absent in all adult women"
+    },
+    "correct_answer": "B",
+    "explanation": "Hymen presence or absence cannot reliably indicate virginity or sexual experience."
+  },
+  {
+    "source_sentence": "The glandular tissue of each breast is divided into 15-20 mammary lobes containing clusters of cells called alveoli.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Each breast glandular tissue is divided into:",
+    "options": {
+      "A": "15-20 mammary lobes with alveoli",
+      "B": "250 testicular lobules",
+      "C": "Three germ layers",
+      "D": "Two theca layers only"
+    },
+    "correct_answer": "A",
+    "explanation": "Each breast has 15-20 mammary lobes containing alveoli."
+  },
+  {
+    "source_sentence": "The alveoli open into mammary tubules. The tubules of each lobe join to form a mammary duct. Several mammary ducts join to form a wider mammary ampulla which is connected to lactiferous duct and opens at the nipple.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Milk is expressed during breastfeeding from the:",
+    "options": {
+      "A": "Nipple via lactiferous duct",
+      "B": "Cervical canal",
+      "C": "Urethral meatus",
+      "D": "Acrosome"
+    },
+    "correct_answer": "A",
+    "explanation": "Milk flows through mammary ducts and lactiferous duct to the nipple."
+  },
+  {
+    "source_sentence": "A primary spermatocyte completes the first meiotic division leading to formation of two equal, haploid cells called secondary spermatocytes, which have only 23 chromosomes each.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Secondary spermatocytes contain:",
+    "options": {
+      "A": "46 chromosomes",
+      "B": "23 chromosomes",
+      "C": "92 chromosomes",
+      "D": "12 chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "After meiosis I, secondary spermatocytes are haploid with 23 chromosomes each."
+  },
+  {
+    "source_sentence": "The secondary spermatocytes undergo the second meiotic division to produce four equal, haploid spermatids.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Meiosis II in spermatogenesis produces:",
+    "options": {
+      "A": "Two secondary spermatocytes",
+      "B": "Four haploid spermatids",
+      "C": "One diploid zygote",
+      "D": "Two polar bodies only"
+    },
+    "correct_answer": "B",
+    "explanation": "Secondary spermatocytes undergo meiosis II to form four haploid spermatids."
+  },
+  {
+    "source_sentence": "The spermatids are transformed into spermatozoa (sperms) by the process called spermiogenesis.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Transformation of spermatids into spermatozoa is called:",
+    "options": {
+      "A": "Spermiogenesis",
+      "B": "Oogenesis",
+      "C": "Cleavage",
+      "D": "Implantation"
+    },
+    "correct_answer": "A",
+    "explanation": "Spermatids become spermatozoa through spermiogenesis."
+  },
+  {
+    "source_sentence": "The increased levels of GnRH then acts at the anterior pituitary gland and stimulates secretion of two gonadotropins – luteinising hormone (LH) and follicle stimulating hormone (FSH).",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "GnRH stimulates the anterior pituitary to secrete:",
+    "options": {
+      "A": "LH and FSH",
+      "B": "Only insulin",
+      "C": "Only thyroxine",
+      "D": "Only adrenaline"
+    },
+    "correct_answer": "A",
+    "explanation": "GnRH stimulates LH and FSH secretion from anterior pituitary."
+  },
+  {
+    "source_sentence": "LH acts at the Leydig cells and stimulates synthesis and secretion of androgens. Androgens, in turn, stimulate the process of spermatogenesis.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "LH stimulates spermatogenesis indirectly by acting on:",
+    "options": {
+      "A": "Leydig cells to produce androgens",
+      "B": "Ovarian follicles to produce milk",
+      "C": "Trophoblast to form placenta",
+      "D": "Endometrium to menstruate"
+    },
+    "correct_answer": "A",
+    "explanation": "LH acts on Leydig cells; androgens then stimulate spermatogenesis."
+  },
+  {
+    "source_sentence": "FSH acts on the Sertoli cells and stimulates secretion of some factors which help in the process of spermiogenesis.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "FSH in males acts primarily on:",
+    "options": {
+      "A": "Sertoli cells",
+      "B": "Leydig cells",
+      "C": "Granulosa cells of ovary",
+      "D": "Corpus luteum"
+    },
+    "correct_answer": "A",
+    "explanation": "FSH acts on Sertoli cells, aiding spermiogenesis."
+  },
+  {
+    "source_sentence": "The sperm head contains an elongated haploid nucleus, the anterior portion of which is covered by a cap-like structure, acrosome.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The cap-like structure on the anterior sperm head is the:",
+    "options": {
+      "A": "Acrosome",
+      "B": "Foreskin",
+      "C": "Hymen",
+      "D": "Corpus luteum"
+    },
+    "correct_answer": "A",
+    "explanation": "Acrosome is a cap-like structure covering the anterior sperm head."
+  },
+  {
+    "source_sentence": "The acrosome is filled with enzymes that help fertilisation of the ovum.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Acrosomal enzymes help in:",
+    "options": {
+      "A": "Fertilisation of the ovum",
+      "B": "Milk secretion",
+      "C": "Uterine contraction only",
+      "D": "Spermatogonial mitosis"
+    },
+    "correct_answer": "A",
+    "explanation": "Acrosome enzymes facilitate fertilisation."
+  },
+  {
+    "source_sentence": "The middle piece possesses numerous mitochondria, which produce energy for the movement of tail that facilitate sperm motility essential for fertilisation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Mitochondria in the sperm middle piece provide energy for:",
+    "options": {
+      "A": "Tail movement and motility",
+      "B": "Ovum formation",
+      "C": "Placental hormone secretion",
+      "D": "Endometrial breakdown"
+    },
+    "correct_answer": "A",
+    "explanation": "Middle-piece mitochondria power tail motility needed for fertilisation."
+  },
+  {
+    "source_sentence": "The human male ejaculates about 200 to 300 million sperms during a coitus of which, for normal fertility, at least 60 per cent sperms must have normal shape and size and at least 40 per cent of them must show vigorous motility.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "For normal human male fertility, at least what percentage of ejaculated sperms must show vigorous motility?",
+    "options": {
+      "A": "10%",
+      "B": "25%",
+      "C": "40%",
+      "D": "80%"
+    },
+    "correct_answer": "C",
+    "explanation": "At least 40% of sperms must show vigorous motility for normal fertility."
+  },
+  {
+    "source_sentence": "Secretions of epididymis, vas deferens, seminal vesicle and prostate are essential for maturation and motility of sperms.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Sperm maturation and motility depend on secretions from:",
+    "options": {
+      "A": "Epididymis, vas deferens, seminal vesicle and prostate",
+      "B": "Ovaries only",
+      "C": "Mammary alveoli",
+      "D": "Chorionic villi only"
+    },
+    "correct_answer": "A",
+    "explanation": "Accessory duct and gland secretions are essential for sperm maturation and motility."
+  },
+  {
+    "source_sentence": "The functions of male sex accessory ducts and glands are maintained by the testicular hormones (androgens).",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Male accessory ducts and glands are maintained by:",
+    "options": {
+      "A": "Androgens",
+      "B": "Progesterone only",
+      "C": "hCG only",
+      "D": "Relaxin only"
+    },
+    "correct_answer": "A",
+    "explanation": "Testicular androgens maintain accessory duct and gland functions."
+  },
+  {
+    "source_sentence": "Oogenesis is initiated during the embryonic development stage when a couple of million gamete mother cells (oogonia) are formed within each fetal ovary; no more oogonia are formed and added after birth.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Oogonia are formed during embryonic development and:",
+    "options": {
+      "A": "No more oogonia are added after birth",
+      "B": "Millions more form after puberty",
+      "C": "Are formed only at menopause",
+      "D": "Are produced in the testis"
+    },
+    "correct_answer": "A",
+    "explanation": "Oogonia form in fetal ovary; no new oogonia are added after birth."
+  },
+  {
+    "source_sentence": "These cells start division and enter into prophase-I of the meiotic division and get temporarily arrested at that stage, called primary oocytes.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Primary oocytes are oogonia arrested at:",
+    "options": {
+      "A": "Prophase-I of meiosis",
+      "B": "Metaphase-II of mitosis",
+      "C": "Anaphase of cleavage",
+      "D": "G2 of spermatogenesis"
+    },
+    "correct_answer": "A",
+    "explanation": "Oogonia enter prophase-I and arrest as primary oocytes."
+  },
+  {
+    "source_sentence": "Therefore, at puberty only 60,000-80,000 primary follicles are left in each ovary.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "At puberty, approximately how many primary follicles remain in each ovary?",
+    "options": {
+      "A": "60,000-80,000",
+      "B": "2-4",
+      "C": "2 million",
+      "D": "250"
+    },
+    "correct_answer": "A",
+    "explanation": "Only 60,000-80,000 primary follicles remain per ovary at puberty."
+  },
+  {
+    "source_sentence": "The secondary follicle soon transforms into a tertiary follicle which is characterised by a fluid filled cavity called antrum.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The fluid-filled cavity in a tertiary follicle is the:",
+    "options": {
+      "A": "Antrum",
+      "B": "Cervical canal",
+      "C": "Birth canal",
+      "D": "Urethra"
+    },
+    "correct_answer": "A",
+    "explanation": "Tertiary follicles have a fluid-filled antrum."
+  },
+  {
+    "source_sentence": "The theca layer is organised into an inner theca interna and an outer theca externa.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The theca layer of developing follicles has:",
+    "options": {
+      "A": "Theca interna (inner) and theca externa (outer)",
+      "B": "Perimetrium and myometrium",
+      "C": "Ectoderm and mesoderm",
+      "D": "Trophoblast and endoderm"
+    },
+    "correct_answer": "A",
+    "explanation": "Theca is organised into inner theca interna and outer theca externa."
+  },
+  {
+    "source_sentence": "It is at this stage that the primary oocyte within the tertiary follicle grows in size and completes its first meiotic division. It is an unequal division resulting in the formation of a large haploid secondary oocyte and a tiny first polar body.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "First meiotic division of primary oocyte produces:",
+    "options": {
+      "A": "Secondary oocyte and first polar body",
+      "B": "Four equal spermatids",
+      "C": "Diploid zygote",
+      "D": "Two equal secondary spermatocytes"
+    },
+    "correct_answer": "A",
+    "explanation": "Unequal meiosis I yields a large secondary oocyte and tiny first polar body."
+  },
+  {
+    "source_sentence": "The secondary oocyte retains bulk of the nutrient rich cytoplasm of the primary oocyte.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The secondary oocyte retains:",
+    "options": {
+      "A": "Most nutrient-rich cytoplasm of the primary oocyte",
+      "B": "Only the nucleus without cytoplasm",
+      "C": "All 46 chromosomes in diploid form",
+      "D": "Only Y chromosome"
+    },
+    "correct_answer": "A",
+    "explanation": "Secondary oocyte retains bulk of nutrient-rich cytoplasm."
+  },
+  {
+    "source_sentence": "The tertiary follicle further changes into the mature follicle or Graafian follicle.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "A mature ovarian follicle ready for ovulation is the:",
+    "options": {
+      "A": "Graafian follicle",
+      "B": "Primary follicle only",
+      "C": "Corpus albicans",
+      "D": "Morula"
+    },
+    "correct_answer": "A",
+    "explanation": "Tertiary follicle matures into Graafian follicle."
+  },
+  {
+    "source_sentence": "The secondary oocyte forms a new membrane called zona pellucida surrounding it.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The membrane surrounding the secondary oocyte is:",
+    "options": {
+      "A": "Zona pellucida",
+      "B": "Hymen",
+      "C": "Foreskin",
+      "D": "Perimetrium"
+    },
+    "correct_answer": "A",
+    "explanation": "Secondary oocyte is surrounded by zona pellucida."
+  },
+  {
+    "source_sentence": "The Graafian follicle now ruptures to release the secondary oocyte (ovum) from the ovary by the process called ovulation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Release of secondary oocyte from ovary is called:",
+    "options": {
+      "A": "Ovulation",
+      "B": "Spermiation",
+      "C": "Implantation",
+      "D": "Menarche"
+    },
+    "correct_answer": "A",
+    "explanation": "Rupture of Graafian follicle releasing oocyte is ovulation."
+  },
+  {
+    "source_sentence": "The first menstruation begins at puberty and is called menarche.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The first menstruation at puberty is termed:",
+    "options": {
+      "A": "Menarche",
+      "B": "Menopause",
+      "C": "Ovulation",
+      "D": "Parturition"
+    },
+    "correct_answer": "A",
+    "explanation": "First menstruation at puberty is menarche."
+  },
+  {
+    "source_sentence": "In human females, menstruation is repeated at an average interval of about 28/29 days.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Average interval between menstrual cycles in human females is about:",
+    "options": {
+      "A": "7 days",
+      "B": "14 days",
+      "C": "28/29 days",
+      "D": "90 days"
+    },
+    "correct_answer": "C",
+    "explanation": "Menstrual cycle repeats at average interval of about 28-29 days."
+  },
+  {
+    "source_sentence": "The menstrual flow results due to breakdown of endometrial lining of the uterus and its blood vessels which forms liquid that comes out through vagina.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Menstrual flow results from breakdown of:",
+    "options": {
+      "A": "Endometrial lining and its blood vessels",
+      "B": "Seminiferous tubules",
+      "C": "Zona pellucida only",
+      "D": "Trophoblast only"
+    },
+    "correct_answer": "A",
+    "explanation": "Breakdown of endometrium and blood vessels produces menstrual flow."
+  },
+  {
+    "source_sentence": "The menstrual phase is followed by the follicular phase. During this phase, the primary follicles in the ovary grow to become a fully mature Graafian follicle and simultaneously the endometrium of uterus regenerates through proliferation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "During the follicular phase:",
+    "options": {
+      "A": "Primary follicles mature and endometrium regenerates",
+      "B": "Corpus luteum degenerates immediately",
+      "C": "Parturition occurs",
+      "D": "Spermatogenesis begins"
+    },
+    "correct_answer": "A",
+    "explanation": "Follicular phase involves follicle growth and endometrial proliferation."
+  },
+  {
+    "source_sentence": "The secretion of gonadotropins (LH and FSH) increases gradually during the follicular phase, and stimulates follicular development as well as secretion of estrogens by the growing follicles.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "During follicular phase, increasing LH and FSH stimulate:",
+    "options": {
+      "A": "Follicular development and estrogen secretion",
+      "B": "Only milk ejection",
+      "C": "Only sperm release",
+      "D": "Placental formation only"
+    },
+    "correct_answer": "A",
+    "explanation": "Rising LH/FSH promote follicle growth and estrogen secretion."
+  },
+  {
+    "source_sentence": "Both LH and FSH attain a peak level in the middle of cycle (about 14th day).",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "LH and FSH peak occurs around:",
+    "options": {
+      "A": "14th day of cycle",
+      "B": "1st day only",
+      "C": "28th day only",
+      "D": "Day 30 of pregnancy"
+    },
+    "correct_answer": "A",
+    "explanation": "LH and FSH peak around the 14th day (mid-cycle)."
+  },
+  {
+    "source_sentence": "Rapid secretion of LH leading to its maximum level during the mid-cycle called LH surge induces rupture of Graafian follicle and thereby the release of ovum (ovulation).",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Ovulation is induced by:",
+    "options": {
+      "A": "LH surge",
+      "B": "Decrease in all hormones",
+      "C": "Progesterone drop only",
+      "D": "Oxytocin before pregnancy"
+    },
+    "correct_answer": "A",
+    "explanation": "Mid-cycle LH surge triggers Graafian follicle rupture and ovulation."
+  },
+  {
+    "source_sentence": "The ovulation (ovulatory phase) is followed by the luteal phase during which the remaining parts of the Graafian follicle transform as the corpus luteum.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "After ovulation, the remaining follicle becomes the:",
+    "options": {
+      "A": "Corpus luteum",
+      "B": "Primary follicle",
+      "C": "Morula",
+      "D": "Blastocyst"
+    },
+    "correct_answer": "A",
+    "explanation": "Post-ovulation luteal phase forms corpus luteum from follicle remnants."
+  },
+  {
+    "source_sentence": "The corpus luteum secretes large amounts of progesterone which is essential for maintenance of the endometrium.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Corpus luteum primarily secretes:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Only androgens",
+      "C": "Only insulin",
+      "D": "Only thyroxine"
+    },
+    "correct_answer": "A",
+    "explanation": "Corpus luteum secretes progesterone to maintain endometrium."
+  },
+  {
+    "source_sentence": "Such an endometrium is necessary for implantation of the fertilised ovum and other events of pregnancy.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Progesterone-maintained endometrium is necessary for:",
+    "options": {
+      "A": "Implantation and pregnancy events",
+      "B": "Sperm production in ovary",
+      "C": "Ovum formation in testis",
+      "D": "Penile erection only"
+    },
+    "correct_answer": "A",
+    "explanation": "Progesterone-prepared endometrium supports implantation and pregnancy."
+  },
+  {
+    "source_sentence": "During pregnancy all events of the menstrual cycle stop and there is no menstruation.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "During pregnancy:",
+    "options": {
+      "A": "Menstrual cycle events cease and menstruation stops",
+      "B": "Ovulation occurs every 28 days",
+      "C": "Menstrual flow increases",
+      "D": "LH surge occurs monthly"
+    },
+    "correct_answer": "A",
+    "explanation": "Pregnancy halts the menstrual cycle and menstruation."
+  },
+  {
+    "source_sentence": "In the absence of fertilisation, the corpus luteum degenerates. This causes disintegration of the endometrium leading to menstruation, marking a new cycle.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "If fertilisation does not occur:",
+    "options": {
+      "A": "Corpus luteum degenerates and menstruation begins a new cycle",
+      "B": "Progesterone rises indefinitely",
+      "C": "Implantation still occurs",
+      "D": "Ovulation never happens again"
+    },
+    "correct_answer": "A",
+    "explanation": "Without fertilisation, corpus luteum degenerates, endometrium breaks down, and a new cycle starts."
+  },
+  {
+    "source_sentence": "In human beings, menstrual cycles ceases around 50 years of age; that is termed as menopause.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Cessation of menstrual cycles around age 50 is called:",
+    "options": {
+      "A": "Menopause",
+      "B": "Menarche",
+      "C": "Ovulation",
+      "D": "Lactation"
+    },
+    "correct_answer": "A",
+    "explanation": "Menopause is cessation of menstrual cycles around 50 years."
+  },
+  {
+    "source_sentence": "Cyclic menstruation is an indicator of normal reproductive phase and extends between menarche and menopause.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Cyclic menstruation indicates normal reproductive phase between:",
+    "options": {
+      "A": "Menarche and menopause",
+      "B": "Birth and puberty only",
+      "C": "Implantation and parturition only",
+      "D": "Spermatogenesis and spermiation"
+    },
+    "correct_answer": "A",
+    "explanation": "Regular menstruation marks the fertile period from menarche to menopause."
+  },
+  {
+    "source_sentence": "The motile sperms swim rapidly, pass through the cervix, enter into the uterus and finally reach the ampullary region of the fallopian tube.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Sperms reach the site of fertilisation in the:",
+    "options": {
+      "A": "Ampullary region of fallopian tube",
+      "B": "Scrotum",
+      "C": "Seminal vesicle",
+      "D": "Mons pubis"
+    },
+    "correct_answer": "A",
+    "explanation": "Motile sperms travel to the ampulla of the fallopian tube."
+  },
+  {
+    "source_sentence": "The ovum released by the ovary is also transported to the ampullary region where fertilisation takes place.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Fertilisation normally occurs in the:",
+    "options": {
+      "A": "Ampullary region of fallopian tube",
+      "B": "Ovary cortex",
+      "C": "Vagina",
+      "D": "Scrotum"
+    },
+    "correct_answer": "A",
+    "explanation": "Ovum and sperm meet in the ampullary region."
+  },
+  {
+    "source_sentence": "Fertilisation can only occur if the ovum and sperms are transported simultaneously to the ampullary region. This is the reason why not all copulations lead to fertilisation and pregnancy.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Not all copulations result in pregnancy because:",
+    "options": {
+      "A": "Ovum and sperms must reach ampulla simultaneously",
+      "B": "Fertilisation occurs in scrotum",
+      "C": "Only one sperm is ever produced",
+      "D": "Ovum is never released"
+    },
+    "correct_answer": "A",
+    "explanation": "Simultaneous transport of gametes to ampulla is required for fertilisation."
+  },
+  {
+    "source_sentence": "During fertilisation, a sperm comes in contact with the zona pellucida layer of the ovum and induces changes in the membrane that block the entry of additional sperms.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Contact with zona pellucida during fertilisation ensures:",
+    "options": {
+      "A": "Only one sperm fertilises the ovum",
+      "B": "Multiple sperms always enter",
+      "C": "Ovum completes meiosis I",
+      "D": "Implantation in tube"
+    },
+    "correct_answer": "A",
+    "explanation": "Zona pellucida changes block polyspermy, allowing one sperm to fertilise."
+  },
+  {
+    "source_sentence": "The secretions of the acrosome help the sperm enter into the cytoplasm of the ovum through the zona pellucida and the plasma membrane.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Acrosome secretions help sperm:",
+    "options": {
+      "A": "Penetrate zona pellucida and enter ovum cytoplasm",
+      "B": "Secrete progesterone",
+      "C": "Form corpus luteum",
+      "D": "Produce milk"
+    },
+    "correct_answer": "A",
+    "explanation": "Acrosomal enzymes help sperm penetrate zona pellucida and plasma membrane."
+  },
+  {
+    "source_sentence": "This induces the completion of the meiotic division of the secondary oocyte. The second meiotic division is also unequal and results in the formation of a second polar body and a haploid ovum (ootid).",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Fertilisation triggers completion of meiosis II in secondary oocyte, producing:",
+    "options": {
+      "A": "Ootid and second polar body",
+      "B": "Four spermatids",
+      "C": "Diploid primary oocyte",
+      "D": "Two secondary spermatocytes"
+    },
+    "correct_answer": "A",
+    "explanation": "Meiosis II yields haploid ootid and second polar body."
+  },
+  {
+    "source_sentence": "Hence, 50 per cent of sperms carry the X chromosome while the other 50 per cent carry the Y.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Approximately what percentage of human sperms carry Y chromosome?",
+    "options": {
+      "A": "50%",
+      "B": "100%",
+      "C": "0%",
+      "D": "25%"
+    },
+    "correct_answer": "A",
+    "explanation": "About 50% of sperms carry X and 50% carry Y."
+  },
+  {
+    "source_sentence": "After fusion of the male and female gametes the zygote would carry either XX or XY depending on whether the sperm carrying X or Y fertilised the ovum.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "A zygote with XY chromosomes will develop into a:",
+    "options": {
+      "A": "Male baby",
+      "B": "Female baby",
+      "C": "Twin ovum only",
+      "D": "Placenta"
+    },
+    "correct_answer": "A",
+    "explanation": "XY zygote develops into male; XX into female."
+  },
+  {
+    "source_sentence": "That is why, scientifically it is correct to say that the sex of the baby is determined by the father and not by the mother!",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Sex of the human baby is determined by:",
+    "options": {
+      "A": "The father (X or Y sperm)",
+      "B": "The mother (ova always X)",
+      "C": "Placenta only",
+      "D": "Corpus luteum"
+    },
+    "correct_answer": "A",
+    "explanation": "Father contributes X or Y sperm; mother always contributes X."
+  },
+  {
+    "source_sentence": "The morula continues to divide and transforms into blastocyst as it moves further into the uterus.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Morula transforms into blastocyst as it moves into the:",
+    "options": {
+      "A": "Uterus",
+      "B": "Scrotum",
+      "C": "Epididymis",
+      "D": "Seminal vesicle"
+    },
+    "correct_answer": "A",
+    "explanation": "Morula becomes blastocyst while moving into uterus."
+  },
+  {
+    "source_sentence": "The blastomeres in the blastocyst are arranged into an outer layer called trophoblast and an inner group of cells attached to trophoblast called the inner cell mass.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Blastocyst consists of:",
+    "options": {
+      "A": "Trophoblast (outer) and inner cell mass",
+      "B": "Only endometrium",
+      "C": "Spermatogonia and Leydig cells",
+      "D": "Fimbriae and ampulla"
+    },
+    "correct_answer": "A",
+    "explanation": "Blastocyst has outer trophoblast and inner cell mass."
+  },
+  {
+    "source_sentence": "The trophoblast layer then gets attached to the endometrium and the inner cell mass gets differentiated as the embryo.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "In blastocyst, the inner cell mass differentiates into the:",
+    "options": {
+      "A": "Embryo",
+      "B": "Seminal plasma",
+      "C": "Milk",
+      "D": "Androgens"
+    },
+    "correct_answer": "A",
+    "explanation": "Inner cell mass forms the embryo; trophoblast attaches to endometrium."
+  },
+  {
+    "source_sentence": "After implantation, finger-like projections appear on the trophoblast called chorionic villi which are surrounded by the uterine tissue and maternal blood.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Finger-like projections on trophoblast after implantation are:",
+    "options": {
+      "A": "Chorionic villi",
+      "B": "Fimbriae",
+      "C": "Fimbriae of penis",
+      "D": "Seminiferous tubules"
+    },
+    "correct_answer": "A",
+    "explanation": "Chorionic villi are finger-like trophoblast projections."
+  },
+  {
+    "source_sentence": "The chorionic villi and uterine tissue become interdigitated with each other and jointly form a structural and functional unit between developing embryo (foetus) and maternal body called placenta.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The placenta is formed by interdigitation of:",
+    "options": {
+      "A": "Chorionic villi and uterine tissue",
+      "B": "Sperm and acrosome only",
+      "C": "Labia majora and minora",
+      "D": "Rete testis and epididymis"
+    },
+    "correct_answer": "A",
+    "explanation": "Placenta forms from chorionic villi and uterine tissue interdigitation."
+  },
+  {
+    "source_sentence": "The placenta facilitate the supply of oxygen and nutrients to the embryo and also removal of carbon dioxide and excretory/waste materials produced by the embryo.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Functions of placenta include:",
+    "options": {
+      "A": "O2/nutrient supply and CO2/waste removal",
+      "B": "Sperm production",
+      "C": "Ovum meiosis I arrest",
+      "D": "Penile lubrication"
+    },
+    "correct_answer": "A",
+    "explanation": "Placenta exchanges O2, nutrients, CO2 and wastes between mother and embryo."
+  },
+  {
+    "source_sentence": "Let us remember that hCG, hPL and relaxin are produced in women only during pregnancy.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "hCG, hPL and relaxin are produced:",
+    "options": {
+      "A": "Only during pregnancy in women",
+      "B": "Throughout male life",
+      "C": "Only before puberty",
+      "D": "Only during menstruation in males"
+    },
+    "correct_answer": "A",
+    "explanation": "These hormones are pregnancy-specific in women."
+  },
+  {
+    "source_sentence": "Increased production of these hormones is essential for supporting the fetal growth, metabolic changes in the mother and maintenance of pregnancy.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Elevated pregnancy hormones support:",
+    "options": {
+      "A": "Fetal growth, maternal metabolic changes and pregnancy maintenance",
+      "B": "Only spermatogenesis",
+      "C": "Only ovulation in males",
+      "D": "Only menstrual flow increase"
+    },
+    "correct_answer": "A",
+    "explanation": "High hormone levels support fetal growth and maternal pregnancy physiology."
+  },
+  {
+    "source_sentence": "These three layers give rise to all tissues (organs) in adults.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "All adult tissues and organs arise from:",
+    "options": {
+      "A": "Ectoderm, mesoderm and endoderm",
+      "B": "Seminal plasma only",
+      "C": "Hymen only",
+      "D": "Corpus luteum only"
+    },
+    "correct_answer": "A",
+    "explanation": "Three germ layers give rise to all adult tissues and organs."
+  },
+  {
+    "source_sentence": "The inner cell mass contains certain cells called stem cells which have the potency to give rise to all the tissues and organs.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Stem cells in inner cell mass can:",
+    "options": {
+      "A": "Give rise to all tissues and organs",
+      "B": "Only produce androgens",
+      "C": "Only form sperm tails",
+      "D": "Only secrete progesterone"
+    },
+    "correct_answer": "A",
+    "explanation": "Inner cell mass stem cells are pluripotent for all tissues/organs."
+  },
+  {
+    "source_sentence": "In human beings, after one month of pregnancy, the embryo's heart is formed.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "After one month of pregnancy, the embryo's ___ is formed.",
+    "options": {
+      "A": "Heart",
+      "B": "External genital organs fully",
+      "C": "Eyelashes",
+      "D": "Placenta only at birth"
+    },
+    "correct_answer": "A",
+    "explanation": "Embryonic heart forms after about one month."
+  },
+  {
+    "source_sentence": "By the end of the second month of pregnancy, the foetus develops limbs and digits.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "By end of second month of pregnancy, foetus develops:",
+    "options": {
+      "A": "Limbs and digits",
+      "B": "Only chorionic villi",
+      "C": "Only Graafian follicle",
+      "D": "Only seminal vesicles"
+    },
+    "correct_answer": "A",
+    "explanation": "Limbs and digits appear by end of second month."
+  },
+  {
+    "source_sentence": "By the end of 12 weeks (first trimester), most of the major organ systems are formed, for example, the limbs and external genital organs are well-developed.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "By end of 12 weeks (first trimester):",
+    "options": {
+      "A": "Most major organ systems including limbs and external genitalia are formed",
+      "B": "Only zygote exists",
+      "C": "Parturition occurs",
+      "D": "Menopause begins"
+    },
+    "correct_answer": "A",
+    "explanation": "First trimester ends with most major organs including external genitalia formed."
+  },
+  {
+    "source_sentence": "The first movements of the foetus and appearance of hair on the head are usually observed during the fifth month.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "First foetal movements and head hair usually appear in:",
+    "options": {
+      "A": "Fifth month",
+      "B": "First week",
+      "C": "Ninth day",
+      "D": "Before implantation"
+    },
+    "correct_answer": "A",
+    "explanation": "Fifth month typically shows first movements and head hair."
+  },
+  {
+    "source_sentence": "By the end of about 24 weeks (end of second trimester), the body is covered with fine hair, eye-lids separate, and eyelashes are formed.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "By 24 weeks (end of second trimester):",
+    "options": {
+      "A": "Fine body hair, separated eyelids and eyelashes are present",
+      "B": "Only morula stage",
+      "C": "Only menarche occurs",
+      "D": "Only ovulation in testis"
+    },
+    "correct_answer": "A",
+    "explanation": "At 24 weeks, fine hair, separated eyelids and eyelashes form."
+  },
+  {
+    "source_sentence": "By the end of nine months of pregnancy, the foetus is fully developed and is ready for delivery.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "At nine months of pregnancy the foetus is:",
+    "options": {
+      "A": "Fully developed and ready for delivery",
+      "B": "Only a zygote",
+      "C": "Arrested at prophase-I",
+      "D": "Still in ampulla only"
+    },
+    "correct_answer": "A",
+    "explanation": "Nine-month foetus is fully developed and ready for birth."
+  },
+  {
+    "source_sentence": "The average duration of human pregnancy is about 9 months which is called the gestation period.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The gestation period in humans is about:",
+    "options": {
+      "A": "9 months",
+      "B": "2 days",
+      "C": "28 days",
+      "D": "18 months"
+    },
+    "correct_answer": "A",
+    "explanation": "Human gestation averages about nine months."
+  },
+  {
+    "source_sentence": "The signals for parturition originate from the fully developed foetus and the placenta which induce mild uterine contractions called foetal ejection reflex.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Foetal ejection reflex is triggered by signals from:",
+    "options": {
+      "A": "Fully developed foetus and placenta",
+      "B": "Scrotum and testis",
+      "C": "Seminal vesicle only",
+      "D": "Hymen only"
+    },
+    "correct_answer": "A",
+    "explanation": "Foetus and placenta initiate foetal ejection reflex."
+  },
+  {
+    "source_sentence": "Oxytocin acts on the uterine muscle and causes stronger uterine contractions, which in turn stimulates further secretion of oxytocin.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "During parturition, oxytocin causes:",
+    "options": {
+      "A": "Stronger uterine contractions in a positive feedback loop",
+      "B": "Ovum release from testis",
+      "C": "Sperm head formation",
+      "D": "Zona pellucida thickening only"
+    },
+    "correct_answer": "A",
+    "explanation": "Oxytocin strengthens contractions, stimulating more oxytocin release."
+  },
+  {
+    "source_sentence": "This leads to expulsion of the baby out of the uterus through the birth canal – parturition.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "The baby is expelled through the:",
+    "options": {
+      "A": "Birth canal",
+      "B": "Seminiferous tubule",
+      "C": "Acrosome",
+      "D": "Rete testis"
+    },
+    "correct_answer": "A",
+    "explanation": "Baby is expelled via birth canal during parturition."
+  },
+  {
+    "source_sentence": "Soon after the infant is delivered, the placenta is also expelled out of the uterus.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "After infant delivery:",
+    "options": {
+      "A": "Placenta is also expelled",
+      "B": "Ovary produces new oogonia",
+      "C": "Menarche occurs immediately",
+      "D": "Sperms are stored in uterus"
+    },
+    "correct_answer": "A",
+    "explanation": "Placenta is expelled shortly after the baby."
+  },
+  {
+    "source_sentence": "The milk produced during the initial few days of lactation is called colostrum which contains several antibodies absolutely essential to develop resistance for the new-born babies.",
+    "chapter": "Chapter 2: Human Reproduction",
+    "question": "Colostrum is important because it:",
+    "options": {
+      "A": "Contains antibodies essential for newborn resistance",
+      "B": "Contains only fructose for sperm",
+      "C": "Forms the placenta",
+      "D": "Triggers LH surge"
+    },
+    "correct_answer": "A",
+    "explanation": "Colostrum provides antibodies critical for newborn immunity."
+  }
+]

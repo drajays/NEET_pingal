@@ -1,0 +1,1302 @@
+[
+  {
+    "source_sentence": "The applications of biotechnology include therapeutics, diagnostics, genetically modified crops for agriculture, processed food, bioremediation, waste treatment, and energy production.",
+    "question": "Which of the following is NOT listed as an application of biotechnology in NCERT Class 12 Biology?",
+    "options": {
+      "A": "Therapeutics and diagnostics",
+      "B": "Genetically modified crops for agriculture",
+      "C": "Bioremediation and waste treatment",
+      "D": "Large-scale mining of fossil fuels"
+    },
+    "correct_answer": "D",
+    "explanation": "Biotechnology applications include therapeutics, diagnostics, GM crops, processed food, bioremediation, waste treatment, and energy production—not fossil fuel mining.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Three critical research areas of biotechnology are: (i) Providing the best catalyst in the form of improved organism usually a microbe or pure enzyme.",
+    "question": "One of the three critical research areas of biotechnology is providing the best catalyst in the form of:",
+    "options": {
+      "A": "Improved organism, usually a microbe or pure enzyme",
+      "B": "Synthetic chemical fertilizers only",
+      "C": "Mechanical harvesting equipment",
+      "D": "Conventional plant breeding alone"
+    },
+    "correct_answer": "A",
+    "explanation": "A critical research area is providing the best catalyst, usually an improved microbe or pure enzyme.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "(ii) Creating optimal conditions through engineering for a catalyst to act.",
+    "question": "Which critical research area of biotechnology involves creating optimal conditions through engineering for a catalyst to act?",
+    "options": {
+      "A": "Downstream processing",
+      "B": "Process engineering for catalyst action",
+      "C": "Conventional cross-breeding",
+      "D": "Soil erosion control"
+    },
+    "correct_answer": "B",
+    "explanation": "Creating optimal engineered conditions for a catalyst to act is one of the three critical biotechnology research areas.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "(iii) Downstream processing technologies to purify the protein/organic compound.",
+    "question": "Downstream processing technologies in biotechnology are used to:",
+    "options": {
+      "A": "Purify the protein or organic compound",
+      "B": "Increase soil fertility directly",
+      "C": "Generate random mutations in crops",
+      "D": "Replace all chemical pesticides"
+    },
+    "correct_answer": "A",
+    "explanation": "Downstream processing technologies purify the protein or organic compound produced by biotechnological processes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Let us take a look at the three options that can be thought for increasing food production (i) agro-chemical based agriculture; (ii) organic agriculture; and (iii) genetically engineered crop-based agriculture.",
+    "question": "Which of the following is one of the three options considered for increasing food production?",
+    "options": {
+      "A": "Genetically engineered crop-based agriculture",
+      "B": "Complete elimination of all fertilizers",
+      "C": "Exclusive reliance on wild harvesting",
+      "D": "Abandonment of all crop breeding"
+    },
+    "correct_answer": "A",
+    "explanation": "The three options are agro-chemical based agriculture, organic agriculture, and genetically engineered crop-based agriculture.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The Green Revolution succeeded in tripling the food supply but yet it was not enough to feed the growing human population.",
+    "question": "Regarding the Green Revolution, the chapter states that it:",
+    "options": {
+      "A": "Failed to increase food supply at all",
+      "B": "Tripled the food supply but was still insufficient for the growing population",
+      "C": "Eliminated the need for pesticides entirely",
+      "D": "Made agrochemicals affordable for all developing-world farmers"
+    },
+    "correct_answer": "B",
+    "explanation": "The Green Revolution tripled food supply but was not enough to feed the growing human population.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Increased yields have partly been due to the use of improved crop varieties, but mainly due to the use of better management practices and use of agrochemicals (fertilisers and pesticides).",
+    "question": "Increased crop yields during the Green Revolution were mainly due to:",
+    "options": {
+      "A": "Better management practices and use of agrochemicals",
+      "B": "Complete replacement of crops with GM varieties only",
+      "C": "Elimination of all fertilizers and pesticides",
+      "D": "Exclusive use of organic farming methods"
+    },
+    "correct_answer": "A",
+    "explanation": "Yields increased partly from improved varieties but mainly from better management and agrochemical use.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "However, for farmers in the developing world, agrochemicals are often too expensive, and further increases in yield with existing varieties are not possible using conventional breeding.",
+    "question": "Why is conventional breeding alone insufficient for further yield increases in developing countries?",
+    "options": {
+      "A": "Agrochemicals are often too expensive and conventional breeding cannot further improve existing varieties sufficiently",
+      "B": "Conventional breeding has no role in crop improvement",
+      "C": "All developing countries have banned agrochemicals",
+      "D": "Existing crop varieties have unlimited yield potential through breeding alone"
+    },
+    "correct_answer": "A",
+    "explanation": "Agrochemicals are costly for developing-world farmers, and conventional breeding cannot achieve further sufficient yield gains with existing varieties.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "As traditional breeding techniques failed to keep pace with demand and to provide sufficiently fast and efficient systems for crop improvement, another technology called tissue culture got developed.",
+    "question": "Tissue culture technology was developed because:",
+    "options": {
+      "A": "Traditional breeding could not keep pace with demand for fast, efficient crop improvement",
+      "B": "All plants naturally resist tissue culture",
+      "C": "Agrochemicals became completely unavailable worldwide",
+      "D": "Micropropagation was discovered in ancient times"
+    },
+    "correct_answer": "A",
+    "explanation": "Tissue culture emerged when traditional breeding failed to provide sufficiently fast and efficient crop improvement systems.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "It was learnt by scientists, during 1950s, that whole plants could be regenerated from explants, i.e., any part of a plant taken out and grown in a test tube, under sterile conditions in special nutrient media.",
+    "question": "An explant in plant tissue culture refers to:",
+    "options": {
+      "A": "Any part of a plant taken out and grown in vitro under sterile conditions",
+      "B": "Only the root tip of a seedling",
+      "C": "A bacterial colony on agar",
+      "D": "A whole plant grown only in soil"
+    },
+    "correct_answer": "A",
+    "explanation": "An explant is any plant part removed and cultured in a test tube under sterile conditions in nutrient media.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "This capacity to generate a whole plant from any cell/explant is called totipotency.",
+    "question": "The ability of a plant cell or explant to regenerate into a whole plant is called:",
+    "options": {
+      "A": "Totipotency",
+      "B": "Plasmolysis",
+      "C": "Apomixis",
+      "D": "Vernalisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Totipotency is the capacity to generate a whole plant from any cell or explant.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The nutrient medium must provide a carbon source such as sucrose and also inorganic salts, vitamins, amino acids and growth regulators like auxins, cytokines etc.",
+    "question": "Which of the following must be provided in the nutrient medium for in vitro propagation of plant explants?",
+    "options": {
+      "A": "Sucrose, inorganic salts, vitamins, amino acids, and growth regulators",
+      "B": "Only distilled water",
+      "C": "Soil and compost only",
+      "D": "Herbicides and fungicides exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "The medium must supply a carbon source (sucrose), inorganic salts, vitamins, amino acids, and growth regulators like auxins and cytokinins.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "This method of producing thousands of plants through tissue culture is called micro-propagation.",
+    "question": "The production of thousands of plants through tissue culture is called:",
+    "options": {
+      "A": "Micro-propagation",
+      "B": "Somatic hybridisation",
+      "C": "RNA interference",
+      "D": "Downstream processing"
+    },
+    "correct_answer": "A",
+    "explanation": "Micro-propagation is the tissue culture method used to produce thousands of plants in short durations.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Each of these plants will be genetically identical to the original plant from which they were grown, i.e., they are somaclones.",
+    "question": "Plants produced by micro-propagation that are genetically identical to the original plant are called:",
+    "options": {
+      "A": "Somaclones",
+      "B": "Somatic hybrids",
+      "C": "Transgenic animals",
+      "D": "GMO bacteria only"
+    },
+    "correct_answer": "A",
+    "explanation": "Micro-propagated plants genetically identical to the parent are termed somaclones.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Many important food plants like tomato, banana, apple, etc., have been produced on commercial scale using this method.",
+    "question": "Which food plants have been commercially produced using micro-propagation according to the chapter?",
+    "options": {
+      "A": "Tomato, banana, and apple",
+      "B": "Only wheat and rice",
+      "C": "Only sugarcane and cotton",
+      "D": "Only ornamental flowers"
+    },
+    "correct_answer": "A",
+    "explanation": "Tomato, banana, apple, and other important food plants have been commercially micro-propagated.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Even if the plant is infected with a virus, the meristem (apical and axillary) is free of virus.",
+    "question": "Why is the meristem used to obtain virus-free plants from infected plants?",
+    "options": {
+      "A": "Meristem (apical and axillary) is free of virus even when the rest of the plant is infected",
+      "B": "Meristem contains the highest concentration of virus",
+      "C": "Meristem cannot be cultured in vitro",
+      "D": "Viruses infect only root tissues, not shoots"
+    },
+    "correct_answer": "A",
+    "explanation": "Apical and axillary meristems are virus-free even in infected plants, allowing recovery of healthy plants through in vitro culture.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Scientists have succeeded in culturing meristems of banana, sugarcane, potato, etc.",
+    "question": "Meristem culture for virus-free plants has succeeded in:",
+    "options": {
+      "A": "Banana, sugarcane, and potato",
+      "B": "Only animals like cattle",
+      "C": "Only marine algae",
+      "D": "Only coniferous trees exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "Meristems of banana, sugarcane, potato, and other plants have been successfully cultured to obtain virus-free plants.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Isolated protoplasts from two different varieties of plants – each having a desirable character – can be fused to get hybrid protoplasts, which can be further grown to form a new plant.",
+    "question": "Somatic hybridisation involves:",
+    "options": {
+      "A": "Fusion of protoplasts from two plant varieties followed by regeneration of a new plant",
+      "B": "Cross-pollination between two flowering plants in the field only",
+      "C": "Introduction of Bt toxin gene into cotton",
+      "D": "Production of insulin in E. coli"
+    },
+    "correct_answer": "A",
+    "explanation": "Somatic hybridisation fuses isolated protoplasts from two varieties, each with a desirable trait, to form a new hybrid plant.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "These hybrids are called somatic hybrids while the process is called somatic hybridisation.",
+    "question": "Hybrids produced by fusion of plant protoplasts are called:",
+    "options": {
+      "A": "Somatic hybrids",
+      "B": "Somaclones",
+      "C": "Transgenic bacteria",
+      "D": "Cry proteins"
+    },
+    "correct_answer": "A",
+    "explanation": "Plants from fused protoplasts are somatic hybrids; the process is somatic hybridisation.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Plants, bacteria, fungi and animals whose genes have been altered by manipulation are called Genetically Modified Organisms (GMO).",
+    "question": "Genetically Modified Organisms (GMOs) are:",
+    "options": {
+      "A": "Plants, bacteria, fungi, or animals whose genes have been altered by manipulation",
+      "B": "Only naturally occurring wild species",
+      "C": "Organisms produced solely by conventional breeding without gene manipulation",
+      "D": "Only viruses used as vectors"
+    },
+    "correct_answer": "A",
+    "explanation": "GMOs are plants, bacteria, fungi, or animals whose genes have been deliberately altered through genetic manipulation.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Genetic modification has: (i) made crops more tolerant to abiotic stresses (cold, drought, salt, heat).",
+    "question": "One benefit of genetic modification of crops is:",
+    "options": {
+      "A": "Increased tolerance to abiotic stresses like cold, drought, salt, and heat",
+      "B": "Complete elimination of all plant diseases",
+      "C": "Removal of all nutritional content from food",
+      "D": "Mandatory increase in pesticide use"
+    },
+    "correct_answer": "A",
+    "explanation": "GM crops can be made more tolerant to abiotic stresses including cold, drought, salt, and heat.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "(ii) reduced reliance on chemical pesticides (pest-resistant crops).",
+    "question": "Pest-resistant GM crops help to:",
+    "options": {
+      "A": "Reduce reliance on chemical pesticides",
+      "B": "Increase mandatory pesticide spraying",
+      "C": "Eliminate all need for fertilizers",
+      "D": "Prevent all abiotic stress damage"
+    },
+    "correct_answer": "A",
+    "explanation": "Pest-resistant GM crops reduce dependence on chemical pesticides.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "(iii) helped to reduce post harvest losses.",
+    "question": "Genetic modification of crops can help to:",
+    "options": {
+      "A": "Reduce post-harvest losses",
+      "B": "Increase post-harvest spoilage only",
+      "C": "Eliminate the need for any storage",
+      "D": "Prevent tissue culture propagation"
+    },
+    "correct_answer": "A",
+    "explanation": "GM crops can help reduce losses after harvest.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Some strains of Bacillus thuringiensis produce proteins that kill certain insects such as lepidopterans (tobacco budworm, armyworm), coleopterans (beetles) and dipterans (flies, mosquitoes).",
+    "question": "Bt proteins from Bacillus thuringiensis can kill insects belonging to which groups?",
+    "options": {
+      "A": "Lepidopterans, coleopterans, and dipterans",
+      "B": "Only mammals",
+      "C": "Only nematodes parasitising humans",
+      "D": "Only bacteria"
+    },
+    "correct_answer": "A",
+    "explanation": "Some Bt strains produce proteins lethal to lepidopterans, coleopterans, and dipterans.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "B. thuringiensis forms protein crystals during a particular phase of their growth. These crystals contain a toxic insecticidal protein.",
+    "question": "During a particular growth phase, Bacillus thuringiensis forms:",
+    "options": {
+      "A": "Protein crystals containing toxic insecticidal protein",
+      "B": "Lipid droplets without any protein",
+      "C": "Only cellulose cell walls",
+      "D": "Human insulin chains"
+    },
+    "correct_answer": "A",
+    "explanation": "B. thuringiensis produces protein crystals containing insecticidal toxin during a specific growth phase.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Actually, the Bt toxin protein exist as inactive protoxins but once an insect ingests the inactive toxin, it is converted into an active form of toxin due to the alkaline pH of the gut which solubilizes the crystals.",
+    "question": "Crystals of Bt toxin produced by some bacteria do not kill the bacteria themselves because:",
+    "options": {
+      "A": "The toxin exists as inactive protoxin",
+      "B": "Bacteria are resistant to all proteins",
+      "C": "The toxin is always in active form inside bacteria",
+      "D": "Bacteria enclose toxin in a special sac that insects digest"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt toxin exists as inactive protoxin in bacteria; it becomes active only after ingestion and alkaline solubilisation in the insect gut.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The activated toxin binds to the surface of midgut epithelial cells and creates pores that cause cell swelling and lysis and eventually cause death of the insect.",
+    "question": "How does activated Bt toxin kill insects?",
+    "options": {
+      "A": "It binds midgut epithelial cells, forms pores, causes swelling and lysis leading to death",
+      "B": "It blocks photosynthesis in plant leaves",
+      "C": "It denatures all plant DNA",
+      "D": "It prevents insulin secretion in insects"
+    },
+    "correct_answer": "A",
+    "explanation": "Activated Bt toxin binds midgut epithelial cells, creates pores, and causes cell swelling, lysis, and insect death.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "(iv) increased efficiency of mineral usage by plants (this prevents early exhaustion of fertility of soil).",
+    "question": "GM crops with increased efficiency of mineral usage help to:",
+    "options": {
+      "A": "Prevent early exhaustion of soil fertility",
+      "B": "Deplete soil minerals faster",
+      "C": "Eliminate all need for minerals",
+      "D": "Block nitrogen fixation completely"
+    },
+    "correct_answer": "A",
+    "explanation": "More efficient mineral use by GM plants helps prevent premature depletion of soil fertility.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "(v) enhanced nutritional value of food, e.g., golden rice, i.e., Vitamin 'A' enriched rice.",
+    "question": "Golden rice is an example of GM crop with:",
+    "options": {
+      "A": "Enhanced nutritional value — Vitamin A enriched rice",
+      "B": "Resistance to all bacterial diseases only",
+      "C": "Production of human insulin in grains",
+      "D": "Complete elimination of all carbohydrates"
+    },
+    "correct_answer": "A",
+    "explanation": "Golden rice is Vitamin A-enriched rice, illustrating enhanced nutritional value through genetic modification.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Bt toxin is produced by a bacterium called Bacillus thuringiensis (Bt for short). Bt toxin gene has been cloned from the bacteria and been expressed in plants to provide resistance to insects without the need for insecticides; in effect created a bio-pesticide.",
+    "question": "Expression of the Bt toxin gene in crop plants creates:",
+    "options": {
+      "A": "Insect resistance without need for insecticides — a bio-pesticide",
+      "B": "Dependence on more chemical insecticides",
+      "C": "Resistance to all viruses only",
+      "D": "Production of human growth hormone in leaves"
+    },
+    "correct_answer": "A",
+    "explanation": "Cloning and expressing the Bt toxin gene in plants provides insect resistance and acts as a bio-pesticide.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Examples are Bt cotton, Bt corn, rice, tomato, potato and soyabean etc.",
+    "question": "Which of the following is an example of a Bt crop mentioned in the chapter?",
+    "options": {
+      "A": "Bt cotton",
+      "B": "Bt cattle",
+      "C": "Bt yeast only",
+      "D": "Bt human lymphocytes"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt cotton, Bt corn, rice, tomato, potato, and soybean are examples of Bt crops.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The choice of genes depends upon the crop and the targeted pest, as most Bt toxins are insect-group specific.",
+    "question": "Why is the choice of Bt toxin gene specific for each crop and pest?",
+    "options": {
+      "A": "Most Bt toxins are insect-group specific",
+      "B": "All Bt toxins kill every organism equally",
+      "C": "Bt genes cannot be cloned",
+      "D": "Bt toxins work only in bacteria, not plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt toxin genes are selected based on crop and target pest because most Bt toxins are specific to particular insect groups.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The proteins encoded by the genes cryIAc and cryIIAb control the cotton bollworms, that of cryIAb controls corn borer.",
+    "question": "Which Cry proteins control cotton bollworms?",
+    "options": {
+      "A": "CryIAc and CryIIAb",
+      "B": "CryIAb only",
+      "C": "CryIII only",
+      "D": "Insulin A and B chains"
+    },
+    "correct_answer": "A",
+    "explanation": "CryIAc and CryIIAb proteins control cotton bollworms; CryIAb controls corn borer.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "A nematode Meloidegyne incognitia infects the roots of tobacco plants and causes a great reduction in yield.",
+    "question": "Meloidegyne incognitia is a nematode that:",
+    "options": {
+      "A": "Infects tobacco roots and greatly reduces yield",
+      "B": "Produces Bt toxin in cotton",
+      "C": "Is used to make human insulin",
+      "D": "Is a transgenic cow producing alpha-lactalbumin"
+    },
+    "correct_answer": "A",
+    "explanation": "Meloidegyne incognitia parasitises tobacco roots and causes significant yield reduction.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "RNAi takes place in all eukaryotic organisms as a method of cellular defense.",
+    "question": "RNA interference (RNAi) occurs in:",
+    "options": {
+      "A": "All eukaryotic organisms as a cellular defense method",
+      "B": "Only prokaryotes",
+      "C": "Only viruses",
+      "D": "Only GM bacteria in laboratories"
+    },
+    "correct_answer": "A",
+    "explanation": "RNAi is a method of cellular defense present in all eukaryotic organisms.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "This method involves silencing of a specific mRNA due to a complementary dsRNA molecule that binds to and prevents translation of the mRNA (silencing).",
+    "question": "RNA interference silences a specific mRNA by:",
+    "options": {
+      "A": "Complementary dsRNA binding and preventing translation",
+      "B": "Directly deleting the gene from chromosomes",
+      "C": "Increasing transcription of the target gene",
+      "D": "Converting mRNA into DNA permanently"
+    },
+    "correct_answer": "A",
+    "explanation": "RNAi uses complementary dsRNA that binds target mRNA and prevents its translation, thereby silencing it.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Using Agrobacterium vectors, nematode-specific genes were introduced into the host plant.",
+    "question": "In the nematode resistance strategy for tobacco, genes were introduced into the host plant using:",
+    "options": {
+      "A": "Agrobacterium vectors",
+      "B": "Direct insulin injection",
+      "C": "Bone marrow transplantation",
+      "D": "ELISA kits only"
+    },
+    "correct_answer": "A",
+    "explanation": "Nematode-specific genes were introduced into the host plant using Agrobacterium vectors.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The introduction of DNA was such that it produced both sense and anti-sense RNA in the host cells. These two RNA's being complementary to each other formed a double stranded (dsRNA) that initiated RNAi.",
+    "question": "How was dsRNA formed in transgenic plants for nematode resistance?",
+    "options": {
+      "A": "Sense and anti-sense RNA transcribed from introduced DNA formed complementary dsRNA",
+      "B": "Bt toxin crystals were sprayed on roots",
+      "C": "Meristem was removed and cultured",
+      "D": "Protoplasts of tobacco and potato were fused"
+    },
+    "correct_answer": "A",
+    "explanation": "Introduced DNA produced sense and anti-sense RNA that paired to form dsRNA, triggering RNAi.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The consequence was that the parasite could not survive in a transgenic host expressing specific interfering RNA. The transgenic plant therefore got itself protected from the parasite.",
+    "question": "The outcome of RNAi-based nematode resistance in transgenic tobacco is that:",
+    "options": {
+      "A": "The nematode parasite cannot survive in the transgenic host",
+      "B": "The plant becomes more susceptible to nematodes",
+      "C": "The nematode produces more Bt toxin",
+      "D": "The plant loses totipotency"
+    },
+    "correct_answer": "A",
+    "explanation": "Silencing nematode-specific mRNA prevents parasite survival, protecting the transgenic plant.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The recombinant DNA technological processes have made immense impact in the area of healthcare by enabling mass production of safe and more effective therapeutic drugs.",
+    "question": "Recombinant DNA technology has impacted healthcare mainly by enabling:",
+    "options": {
+      "A": "Mass production of safe and more effective therapeutic drugs",
+      "B": "Complete elimination of all diseases",
+      "C": "Exclusive use of animal-derived insulin only",
+      "D": "Ban on all genetic engineering in medicine"
+    },
+    "correct_answer": "A",
+    "explanation": "rDNA technology enables large-scale production of safer, more effective therapeutic drugs.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Further, the recombinant therapeutics do not induce unwanted immunological responses as is common in case of similar products isolated from non-human sources.",
+    "question": "Recombinant therapeutics are preferred over products from non-human sources because they:",
+    "options": {
+      "A": "Do not induce unwanted immunological responses as commonly seen with non-human products",
+      "B": "Always cause stronger allergic reactions",
+      "C": "Are structurally unrelated to human proteins",
+      "D": "Cannot be mass produced"
+    },
+    "correct_answer": "A",
+    "explanation": "Recombinant therapeutics match human proteins and avoid the immunological reactions common with non-human isolates.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "At present, about 30 recombinant therapeutics have been approved for human-use the world over. In India, 12 of these are presently being marketed.",
+    "question": "Approximately how many recombinant therapeutics are approved worldwide, and how many are marketed in India?",
+    "options": {
+      "A": "About 30 worldwide; 12 in India",
+      "B": "About 12 worldwide; 30 in India",
+      "C": "Only 1 worldwide; none in India",
+      "D": "Over 500 worldwide; 200 in India"
+    },
+    "correct_answer": "A",
+    "explanation": "About 30 recombinant therapeutics are approved globally; 12 are marketed in India.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Insulin used for diabetes was earlier extracted from pancreas of slaughtered cattle and pigs.",
+    "question": "Before recombinant DNA technology, insulin for diabetes was obtained from:",
+    "options": {
+      "A": "Pancreas of slaughtered cattle and pigs",
+      "B": "Genetically modified cotton seeds",
+      "C": "Culture of tobacco meristems",
+      "D": "Transgenic cow milk only"
+    },
+    "correct_answer": "A",
+    "explanation": "Insulin was earlier extracted from the pancreas of slaughtered cattle and pigs.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Insulin from an animal source, though caused some patients to develop allergy or other types of reactions to the foreign protein.",
+    "question": "A problem with animal-derived insulin was that:",
+    "options": {
+      "A": "Some patients developed allergy or reactions to the foreign protein",
+      "B": "It was identical to human insulin in all patients",
+      "C": "It could never be administered by injection",
+      "D": "It contained no polypeptide chains"
+    },
+    "correct_answer": "A",
+    "explanation": "Animal insulin, being a foreign protein, caused allergies and other reactions in some patients.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Insulin consists of two short polypeptide chains: chain A and chain B, that are linked together by disulphide bridges.",
+    "question": "Mature human insulin consists of:",
+    "options": {
+      "A": "Chains A and B linked by disulphide bridges",
+      "B": "A single polypeptide with no disulphide bonds",
+      "C": "Only the C peptide",
+      "D": "Three chains named X, Y, and Z"
+    },
+    "correct_answer": "A",
+    "explanation": "Insulin has two short polypeptide chains, A and B, connected by disulphide bridges.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "In mammals, including humans, insulin is synthesised as a pro-hormone which contains an extra stretch called the C peptide.",
+    "question": "In mammals, insulin is initially synthesised as:",
+    "options": {
+      "A": "A pro-hormone containing an extra C peptide stretch",
+      "B": "Mature insulin with only A and B chains from the start",
+      "C": "A lipid hormone without peptides",
+      "D": "A single amino acid"
+    },
+    "correct_answer": "A",
+    "explanation": "Insulin is made first as a pro-hormone that includes an extra C peptide region.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "This C peptide is not present in the mature insulin and is removed during maturation into insulin.",
+    "question": "Regarding the C peptide in insulin biosynthesis:",
+    "options": {
+      "A": "It is removed during maturation and is absent from mature insulin",
+      "B": "It remains permanently in functional insulin",
+      "C": "It replaces chain B in mature insulin",
+      "D": "It is added after insulin is secreted"
+    },
+    "correct_answer": "A",
+    "explanation": "The C peptide is cleaved off during maturation and is not present in functional insulin.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "In 1983, Eli Lilly an American company prepared two DNA sequences corresponding to A and B, chains of human insulin and introduced them in plasmids of E. coli to produce insulin chains.",
+    "question": "In 1983, Eli Lilly produced human insulin chains by:",
+    "options": {
+      "A": "Introducing DNA sequences for A and B chains into E. coli plasmids",
+      "B": "Extracting insulin only from pig pancreas",
+      "C": "Culturing tobacco meristems in vitro",
+      "D": "Fusing tomato and potato protoplasts"
+    },
+    "correct_answer": "A",
+    "explanation": "Eli Lilly cloned A and B chain DNA sequences into E. coli plasmids to produce insulin chains.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Chains A and B were produced separately, extracted and combined by creating disulfide bonds to form human insulin.",
+    "question": "How was mature human insulin obtained from recombinant A and B chains?",
+    "options": {
+      "A": "Chains were produced separately and combined by creating disulphide bonds",
+      "B": "Chains were orally administered to patients directly",
+      "C": "C peptide was permanently fused to chain A",
+      "D": "Chains were obtained only from Rosie the transgenic cow"
+    },
+    "correct_answer": "A",
+    "explanation": "A and B chains were made separately in E. coli, then joined by disulphide bonds to form insulin.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Gene therapy is a collection of methods that allows correction of a gene defect that has been diagnosed in a child/embryo.",
+    "question": "Gene therapy is best defined as:",
+    "options": {
+      "A": "Methods to correct a diagnosed gene defect by inserting genes into cells and tissues",
+      "B": "Use of chemical pesticides on GM crops",
+      "C": "Production of somaclones through tissue culture",
+      "D": "Patenting of Basmati rice varieties"
+    },
+    "correct_answer": "A",
+    "explanation": "Gene therapy corrects diagnosed genetic defects by delivering functional genes into a patient's cells and tissues.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Correction of a genetic defect involves delivery of a normal gene into the individual or embryo to take over the function of and compensate for the non-functional gene.",
+    "question": "Correction of a genetic defect through gene therapy involves:",
+    "options": {
+      "A": "Delivering a normal gene to compensate for a non-functional gene",
+      "B": "Removing all chromosomes from the patient",
+      "C": "Silencing all mRNA in the body",
+      "D": "Spraying Bt toxin on affected tissues"
+    },
+    "correct_answer": "A",
+    "explanation": "A normal gene is delivered to take over the function of the defective gene.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The first clinical gene therapy was given in 1990 to a 4-year old girl with adenosine deaminase (ADA) deficiency.",
+    "question": "The first clinical gene therapy (1990) was administered to a child with:",
+    "options": {
+      "A": "Adenosine deaminase (ADA) deficiency",
+      "B": "Cystic fibrosis only",
+      "C": "Diabetes mellitus only",
+      "D": "Cotton bollworm infestation"
+    },
+    "correct_answer": "A",
+    "explanation": "The first clinical gene therapy in 1990 treated a 4-year-old girl with ADA deficiency.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "This enzyme is crucial for the immune system to function. The disorder is caused due to the deletion of the gene for adenosine deaminase.",
+    "question": "ADA deficiency affects the immune system because:",
+    "options": {
+      "A": "Adenosine deaminase enzyme is crucial for immune function and its gene is deleted in the disorder",
+      "B": "ADA enzyme digests Bt toxin in the gut",
+      "C": "ADA is the C peptide of insulin",
+      "D": "ADA gene produces Cry proteins"
+    },
+    "correct_answer": "A",
+    "explanation": "ADA is essential for immune function; the disorder results from deletion of the ADA gene.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "In some children ADA deficiency can be cured by bone marrow transplantation; in others it can be treated by enzyme replacement therapy, in which functional ADA is given to the patient by injection.",
+    "question": "Conventional treatments for ADA deficiency include:",
+    "options": {
+      "A": "Bone marrow transplantation and enzyme replacement therapy by injection",
+      "B": "Only oral insulin administration",
+      "C": "Only meristem culture of tobacco",
+      "D": "Only RNAi with Agrobacterium"
+    },
+    "correct_answer": "A",
+    "explanation": "ADA deficiency may be treated by bone marrow transplant or enzyme replacement with injected functional ADA.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "But the problem with both of these approaches that they are not completely curative.",
+    "question": "Bone marrow transplantation and enzyme replacement therapy for ADA deficiency are:",
+    "options": {
+      "A": "Not completely curative",
+      "B": "Always permanently curative in every case",
+      "C": "Unrelated to ADA deficiency",
+      "D": "Preferred over all forms of gene therapy in every case without limitation"
+    },
+    "correct_answer": "A",
+    "explanation": "Neither bone marrow transplant nor enzyme replacement is completely curative for ADA deficiency.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "A functional ADA cDNA (using a retroviral vector) is then introduced into these lymphocytes, which are subsequently returned to the patient.",
+    "question": "In ADA gene therapy, functional ADA cDNA is introduced into lymphocytes using:",
+    "options": {
+      "A": "A retroviral vector",
+      "B": "Bt protein crystals",
+      "C": "Agrobacterium infection of roots only",
+      "D": "Direct spraying on cotton bolls"
+    },
+    "correct_answer": "A",
+    "explanation": "Functional ADA cDNA is delivered into cultured lymphocytes via a retroviral vector before returning them to the patient.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "However, as these cells are not immortal, the patient requires periodic infusion of such genetically engineered lymphocytes.",
+    "question": "Why do ADA gene therapy patients need periodic infusion of engineered lymphocytes?",
+    "options": {
+      "A": "The lymphocytes are not immortal and must be replenished",
+      "B": "Retroviral vectors destroy all red blood cells immediately",
+      "C": "Engineered lymphocytes produce Bt toxin",
+      "D": "Lymphocytes cannot be grown in culture"
+    },
+    "correct_answer": "A",
+    "explanation": "Engineered lymphocytes are not immortal, so patients need repeated infusions.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "However, if the gene isolate from marrow cells producing ADA is introduced into cells at early embryonic stages, it could be a permanent cure.",
+    "question": "A potentially permanent cure for ADA deficiency would involve:",
+    "options": {
+      "A": "Introducing the ADA gene into cells at early embryonic stages",
+      "B": "Spraying pesticides on bone marrow",
+      "C": "Culturing meristems of infected plants",
+      "D": "Using only ELISA for detection"
+    },
+    "correct_answer": "A",
+    "explanation": "Introducing the ADA gene at early embryonic stages could provide a permanent cure.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Recombinant DNA technology, Polymerase Chain Reaction (PCR) and Enzyme Linked Immuno-sorbent Assay (ELISA) are some of the techniques that serve the purpose of early diagnosis.",
+    "question": "Techniques used for early molecular diagnosis include:",
+    "options": {
+      "A": "rDNA technology, PCR, and ELISA",
+      "B": "Only conventional urine colour analysis",
+      "C": "Only tissue culture and micropropagation",
+      "D": "Only somatic hybridisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Early diagnosis uses rDNA technology, PCR, and ELISA among other molecular methods.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "However, very low concentration of a bacteria or virus (at a time when the symptoms of the disease are not yet visible) can be detected by amplification of their nucleic acid by PCR.",
+    "question": "PCR allows early detection of pathogens because it:",
+    "options": {
+      "A": "Amplifies nucleic acids even when pathogen concentration is very low and symptoms are absent",
+      "B": "Works only after symptoms are severe",
+      "C": "Detects only antibodies, never nucleic acids",
+      "D": "Can be used only for plant nematodes"
+    },
+    "correct_answer": "A",
+    "explanation": "PCR amplifies pathogen nucleic acids, enabling detection before visible symptoms when concentrations are very low.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "PCR is now routinely used to detect HIV in suspected AIDS patients.",
+    "question": "PCR is routinely used to detect:",
+    "options": {
+      "A": "HIV in suspected AIDS patients",
+      "B": "Only vitamin content in golden rice",
+      "C": "Only Bt toxin crystals in bacteria",
+      "D": "Only patent status of Basmati rice"
+    },
+    "correct_answer": "A",
+    "explanation": "PCR is routinely employed to detect HIV in suspected AIDS cases.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "It is being used to detect mutations in genes in suspected cancer patients too.",
+    "question": "Besides HIV detection, PCR is also used to:",
+    "options": {
+      "A": "Detect gene mutations in suspected cancer patients",
+      "B": "Produce disulphide bonds in insulin",
+      "C": "Fuse tomato and potato protoplasts",
+      "D": "Grant patents on turmeric"
+    },
+    "correct_answer": "A",
+    "explanation": "PCR helps detect mutations in genes of suspected cancer patients.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "A single stranded DNA or RNA, tagged with a radioactive molecule (probe) is allowed to hybridise to its complementary DNA in a clone of cells followed by detection using autoradiography.",
+    "question": "In probe-based mutation detection, a radioactive single-stranded DNA or RNA probe:",
+    "options": {
+      "A": "Hybridises to complementary DNA and is detected by autoradiography",
+      "B": "Digests all mRNA in the cell",
+      "C": "Produces Bt toxin in midgut cells",
+      "D": "Replaces PCR entirely"
+    },
+    "correct_answer": "A",
+    "explanation": "A labelled probe hybridises to complementary DNA; autoradiography reveals which clones carry the target sequence.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The clone having the mutated gene will hence not appear on the photographic film, because the probe will not have complementarity with the mutated gene.",
+    "question": "In autoradiography-based gene detection, a clone with a mutated gene:",
+    "options": {
+      "A": "Will not appear on the film because the probe lacks complementarity with the mutation",
+      "B": "Will show the brightest signal on the film",
+      "C": "Cannot exist in any cell culture",
+      "D": "Always produces more Bt toxin"
+    },
+    "correct_answer": "A",
+    "explanation": "Mutated sequences fail to hybridise with the normal probe and therefore do not show on autoradiography.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "ELISA is based on the principle of antigen-antibody interaction.",
+    "question": "ELISA is based on the principle of:",
+    "options": {
+      "A": "Antigen-antibody interaction",
+      "B": "RNA interference only",
+      "C": "Somatic hybridisation of protoplasts",
+      "D": "Totipotency of plant cells"
+    },
+    "correct_answer": "A",
+    "explanation": "ELISA detects infections using specific antigen-antibody interactions.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Infection by pathogen can be detected by the presence of antigens (proteins, glycoproteins, etc.) or by detecting the antibodies synthesised against the pathogen.",
+    "question": "ELISA can detect infection by identifying:",
+    "options": {
+      "A": "Pathogen antigens or antibodies produced against the pathogen",
+      "B": "Only plant growth regulators",
+      "C": "Only disulphide bridges in insulin",
+      "D": "Only Cry gene sequences in cotton"
+    },
+    "correct_answer": "A",
+    "explanation": "ELISA detects either pathogen antigens or host antibodies against the pathogen.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Animals that have had their DNA manipulated to possess and express an extra (foreign) gene are known as transgenic animals.",
+    "question": "Transgenic animals are those that:",
+    "options": {
+      "A": "Have manipulated DNA to possess and express an extra foreign gene",
+      "B": "Are produced only by natural mating without any DNA manipulation",
+      "C": "Are identical somaclones from tissue culture",
+      "D": "Are bacteria producing only Bt toxin"
+    },
+    "correct_answer": "A",
+    "explanation": "Transgenic animals carry and express an introduced foreign gene in their manipulated DNA.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Transgenic rats, rabbits, pigs, sheep, cows and fish have been produced, although over 95 per cent of all existing transgenic animals are mice.",
+    "question": "Which statement about transgenic animals is correct?",
+    "options": {
+      "A": "Over 95% of existing transgenic animals are mice, though rats, rabbits, pigs, sheep, cows, and fish have also been produced",
+      "B": "Only fish have been made transgenic",
+      "C": "No transgenic mice exist",
+      "D": "Transgenic animals cannot include cows or sheep"
+    },
+    "correct_answer": "A",
+    "explanation": "Many species are transgenic, but over 95% of all transgenic animals are mice.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Transgenic animals can be specifically designed to allow the study of how genes are regulated, and how they affect the normal functions of the body and its development.",
+    "question": "One reason for producing transgenic animals is to:",
+    "options": {
+      "A": "Study gene regulation and effects on normal body functions and development",
+      "B": "Eliminate all ethical concerns about biotechnology",
+      "C": "Replace all tissue culture methods",
+      "D": "Patent traditional rice varieties"
+    },
+    "correct_answer": "A",
+    "explanation": "Transgenic animals help study how genes are regulated and how they influence development and physiology.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Many transgenic animals are designed to increase our understanding of how genes contribute to the development of disease. These are specially made to serve as models for human diseases.",
+    "question": "Transgenic animal models of human disease are created to:",
+    "options": {
+      "A": "Increase understanding of how genes contribute to disease and enable investigation of new treatments",
+      "B": "Produce Bt cotton commercially",
+      "C": "Replace PCR in all diagnostic labs",
+      "D": "Eliminate the need for any vaccines"
+    },
+    "correct_answer": "A",
+    "explanation": "Disease-model transgenic animals help study genetic contributions to disease and test new treatments.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Today transgenic models exist for many human diseases such as cancer, cystic fibrosis, rheumatoid arthritis and Alzheimer's.",
+    "question": "Transgenic models exist for human diseases including:",
+    "options": {
+      "A": "Cancer, cystic fibrosis, rheumatoid arthritis, and Alzheimer's",
+      "B": "Only cotton bollworm infestation",
+      "C": "Only vitamin A deficiency in rice",
+      "D": "Only biopiracy disputes"
+    },
+    "correct_answer": "A",
+    "explanation": "Transgenic models are available for cancer, cystic fibrosis, rheumatoid arthritis, Alzheimer's, and other diseases.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Transgenic animals that produce useful biological products can be created by the introduction of the portion of DNA (or genes) which codes for a particular product such as human protein (α-1-antitrypsin) used to treat emphysema.",
+    "question": "Transgenic animals can be engineered to produce biological products such as:",
+    "options": {
+      "A": "Human α-1-antitrypsin used to treat emphysema",
+      "B": "Bt toxin crystals for insect midgut pores only in plants",
+      "C": "Only somatic hybrid seeds of tomato-potato",
+      "D": "Only radioactive probes for autoradiography"
+    },
+    "correct_answer": "A",
+    "explanation": "Transgenic animals can express human proteins like α-1-antitrypsin for treating emphysema.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Similar attempts are being made for treatment of phenylketonuria (PKU) and cystic fibrosis.",
+    "question": "Besides emphysema, transgenic animal research for biological products includes efforts for:",
+    "options": {
+      "A": "Phenylketonuria (PKU) and cystic fibrosis",
+      "B": "Only nematode infection of tobacco",
+      "C": "Only Green Revolution wheat yields",
+      "D": "Only patenting of neem"
+    },
+    "correct_answer": "A",
+    "explanation": "Similar transgenic approaches are being developed for PKU and cystic fibrosis treatments.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "In 1997, the first transgenic cow, Rosie, produced human protein-enriched milk (2.4 grams per litre). The milk contained the human alpha-lactalbumin and was nutritionally a more balanced product for human babies than natural cow-milk.",
+    "question": "Rosie, the first transgenic cow (1997), produced milk containing:",
+    "options": {
+      "A": "Human alpha-lactalbumin — 2.4 g/L — nutritionally more balanced for human babies",
+      "B": "Bt CryIAc protein for pest control",
+      "C": "Only C peptide of insulin",
+      "D": "Nematode-specific dsRNA"
+    },
+    "correct_answer": "A",
+    "explanation": "Rosie produced milk with 2.4 g/L human alpha-lactalbumin, better suited nutritionally for human infants.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Transgenic mice are being developed for use in testing the safety of vaccines before they are used on humans.",
+    "question": "Transgenic mice are being developed to:",
+    "options": {
+      "A": "Test vaccine safety before human use",
+      "B": "Replace all insulin production in bacteria",
+      "C": "Culture virus-free banana meristems",
+      "D": "Approve GM crops through GEAC"
+    },
+    "correct_answer": "A",
+    "explanation": "Transgenic mice are used to evaluate vaccine safety prior to human administration.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Transgenic mice are being used to test the safety of the polio vaccine. If successful and found to be reliable, they could replace the use of monkeys to test the safety of batches of the vaccine.",
+    "question": "Successful use of transgenic mice for polio vaccine safety testing could:",
+    "options": {
+      "A": "Replace monkeys for testing vaccine batch safety",
+      "B": "Eliminate the need for any vaccines",
+      "C": "Prevent all gene therapy research",
+      "D": "Stop production of recombinant insulin"
+    },
+    "correct_answer": "A",
+    "explanation": "Reliable transgenic mouse testing could replace monkeys in polio vaccine safety testing.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Transgenic animals are made that carry genes which make them more sensitive to toxic substances than non-transgenic animals. They are then exposed to the toxic substances and the effects studied.",
+    "question": "In chemical safety testing, transgenic animals are modified to be:",
+    "options": {
+      "A": "More sensitive to toxic substances than non-transgenic animals",
+      "B": "Completely immune to all toxins",
+      "C": "Unable to express any foreign genes",
+      "D": "Resistant to all vaccines"
+    },
+    "correct_answer": "A",
+    "explanation": "Toxicity testing uses transgenic animals made hypersensitive to toxic substances for faster, detectable responses.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Toxicity testing in such animals will allow us to obtain results in less time.",
+    "question": "An advantage of toxicity testing using sensitive transgenic animals is:",
+    "options": {
+      "A": "Results can be obtained in less time",
+      "B": "No ethical standards are needed",
+      "C": "All drugs become safe automatically",
+      "D": "PCR is no longer required for diagnosis"
+    },
+    "correct_answer": "A",
+    "explanation": "Hypersensitive transgenic animals yield toxicity test results more quickly.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The manipulation of living organisms by the human race cannot go on any further, without regulation.",
+    "question": "According to the chapter, manipulation of living organisms requires:",
+    "options": {
+      "A": "Regulation and ethical standards",
+      "B": "Complete absence of any government oversight",
+      "C": "Unlimited patenting of all bio-resources",
+      "D": "Elimination of all GM research"
+    },
+    "correct_answer": "A",
+    "explanation": "The text emphasises that continued manipulation of living organisms must be regulated.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Genetic modification of organisms can have unpredictable results when such organisms are introduced into the ecosystem.",
+    "question": "A biological concern about releasing genetically modified organisms into ecosystems is that:",
+    "options": {
+      "A": "Effects can be unpredictable",
+      "B": "GM organisms always remain confined to laboratories",
+      "C": "Ecosystems cannot be affected by any organism",
+      "D": "All GM organisms instantly die outside labs"
+    },
+    "correct_answer": "A",
+    "explanation": "Introducing GMOs into ecosystems may have unpredictable biological consequences.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Therefore, the Indian Government has set up organisations such as GEAC (Genetic Engineering Approval Committee), which will make decisions regarding the validity of GM research and the safety of introducing GM-organisms for public services.",
+    "question": "GEAC (Genetic Engineering Approval Committee) in India is responsible for:",
+    "options": {
+      "A": "Decisions on validity of GM research and safety of introducing GM organisms for public services",
+      "B": "Mass production of insulin in patients' homes",
+      "C": "Micropropagation of all food plants commercially",
+      "D": "Issuing patents on Basmati rice in the USA"
+    },
+    "correct_answer": "A",
+    "explanation": "GEAC evaluates GM research validity and safety before GM organisms are introduced for public services.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "There is growing public anger that certain companies are being granted patents for products and technologies that make use of the genetic materials, plants and other biological resources that have long been identified, developed and used by farmers and indigenous people of a specific region/country.",
+    "question": "Public anger over patents in biotechnology relates to:",
+    "options": {
+      "A": "Companies patenting genetic materials and bio-resources long used by farmers and indigenous people",
+      "B": "Free sharing of all GM crop technologies without restriction",
+      "C": "Ban on all recombinant therapeutics in India",
+      "D": "Mandatory use of only animal insulin"
+    },
+    "correct_answer": "A",
+    "explanation": "Concern arises when patents are granted on biological resources traditionally developed and used by local communities.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "There are an estimated 200,000 varieties of rice in India alone.",
+    "question": "Approximately how many varieties of rice exist in India according to the chapter?",
+    "options": {
+      "A": "About 200,000",
+      "B": "About 27",
+      "C": "Only 12",
+      "D": "Fewer than 100"
+    },
+    "correct_answer": "A",
+    "explanation": "India alone has an estimated 200,000 rice varieties, reflecting rich biodiversity.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Basmati rice is distinct for its unique aroma and flavour and 27 documented varieties of Basmati are grown in India.",
+    "question": "How many documented varieties of Basmati rice are grown in India?",
+    "options": {
+      "A": "27",
+      "B": "200,000",
+      "C": "12",
+      "D": "1"
+    },
+    "correct_answer": "A",
+    "explanation": "India grows 27 documented Basmati varieties known for unique aroma and flavour.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "In 1997, an American company got patent rights on Basmati rice through the US Patent and Trademark Office.",
+    "question": "In 1997, an American company obtained patent rights on Basmati rice through:",
+    "options": {
+      "A": "The US Patent and Trademark Office",
+      "B": "GEAC in India",
+      "C": "Eli Lilly for insulin production",
+      "D": "The World Health Organization exclusively"
+    },
+    "correct_answer": "A",
+    "explanation": "In 1997 a US company secured Basmati-related patent rights via the US Patent and Trademark Office.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Indian Basmati was crossed with semi-dwarf varieties and claimed as an invention or a novelty.",
+    "question": "The patented 'new' Basmati variety was derived by:",
+    "options": {
+      "A": "Crossing Indian Basmati with semi-dwarf varieties and claiming it as a novel invention",
+      "B": "Natural evolution without human intervention",
+      "C": "RNAi silencing of nematode genes",
+      "D": "Producing insulin chains in E. coli"
+    },
+    "correct_answer": "A",
+    "explanation": "The company crossed Indian farmers' Basmati with semi-dwarf types and claimed the result as a new invention.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The patent extends to functional equivalents, implying that other people selling Basmati rice could be restricted by the patent.",
+    "question": "The Basmati patent controversy was serious because the patent:",
+    "options": {
+      "A": "Extended to functional equivalents, potentially restricting others from selling Basmati rice",
+      "B": "Applied only to laboratory mice",
+      "C": "Banned all rice cultivation in India",
+      "D": "Required all diabetics to use animal insulin"
+    },
+    "correct_answer": "A",
+    "explanation": "Extension to functional equivalents meant the patent could restrict others from selling Basmati rice.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Several attempts have also been made to patent uses, products and processes based on Indian traditional herbal medicines, e.g., turmeric neem.",
+    "question": "Examples of Indian traditional knowledge targeted by foreign patent attempts include:",
+    "options": {
+      "A": "Turmeric and neem",
+      "B": "Bt cotton and Cry proteins",
+      "C": "E. coli plasmids and retroviral vectors",
+      "D": "Rosie the transgenic cow only"
+    },
+    "correct_answer": "A",
+    "explanation": "Patent attempts have been made on turmeric, neem, and other traditional Indian herbal medicines.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The Indian Parliament has recently cleared the second amendment of the Indian Patents Bill, that takes such issues into consideration.",
+    "question": "To address patent-related bioresource issues, the Indian Parliament:",
+    "options": {
+      "A": "Cleared the second amendment of the Indian Patents Bill",
+      "B": "Banned all rice cultivation",
+      "C": "Eliminated GEAC",
+      "D": "Stopped all gene therapy research"
+    },
+    "correct_answer": "A",
+    "explanation": "The second amendment of the Indian Patents Bill was cleared to address concerns about patents on traditional bio-resources.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Biopiracy is the term used to refer to the use of bio-resources by multinational companies and other organisations without proper authorisation from the countries and people concerned without compensatory payment.",
+    "question": "Biopiracy refers to:",
+    "options": {
+      "A": "Use of bio-resources without proper authorisation or compensatory payment to concerned countries and people",
+      "B": "Legal sharing of GM technology with farmers",
+      "C": "Production of recombinant insulin in bacteria",
+      "D": "Use of PCR for early HIV detection"
+    },
+    "correct_answer": "A",
+    "explanation": "Biopiracy is unauthorised commercial use of bio-resources without compensation to the source country or communities.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Most of the industrialised nations are rich financially but poor in biodiversity and traditional knowledge. In contrast the developing and the underdeveloped world is rich in biodiversity and traditional knowledge related to bio-resources.",
+    "question": "Regarding biodiversity and traditional knowledge, industrialised nations are generally:",
+    "options": {
+      "A": "Financially rich but poor in biodiversity and traditional knowledge",
+      "B": "Rich in both finances and biodiversity compared to all developing nations",
+      "C": "Devoid of any biotechnology industry",
+      "D": "The sole owners of all rice varieties worldwide"
+    },
+    "correct_answer": "A",
+    "explanation": "Industrialised nations tend to be financially wealthy but biodiversity-poor, unlike many developing countries.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Traditional knowledge related to bio-resources can be exploited to develop modern applications and can also be used to save time, effort and expenditure during their commercialisation.",
+    "question": "Traditional knowledge related to bio-resources can help in commercialisation by:",
+    "options": {
+      "A": "Saving time, effort, and expenditure in developing modern applications",
+      "B": "Preventing all modern biotechnology research",
+      "C": "Eliminating the need for any patents globally",
+      "D": "Blocking tissue culture entirely"
+    },
+    "correct_answer": "A",
+    "explanation": "Traditional knowledge can guide development of modern applications and reduce commercialisation costs and time.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Therefore, some nations are developing laws to prevent such unauthorised exploitation of their bio-resources and traditional knowledge.",
+    "question": "Some nations are developing laws to:",
+    "options": {
+      "A": "Prevent unauthorised exploitation of their bio-resources and traditional knowledge",
+      "B": "Mandate biopiracy by multinational companies",
+      "C": "Eliminate all transgenic animal research",
+      "D": "Stop production of all recombinant therapeutics"
+    },
+    "correct_answer": "A",
+    "explanation": "Laws are being developed to protect bio-resources and traditional knowledge from unauthorised exploitation.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Techniques of tissue culture and somatic hybridisation offer vast potential for manipulation of plants in vitro to produce new varieties.",
+    "question": "According to the chapter summary, tissue culture and somatic hybridisation:",
+    "options": {
+      "A": "Offer vast potential for in vitro plant manipulation to produce new varieties",
+      "B": "Are unrelated to plant biotechnology",
+      "C": "Replace all need for gene therapy",
+      "D": "Are used only for patent disputes"
+    },
+    "correct_answer": "A",
+    "explanation": "Tissue culture and somatic hybridisation enable extensive in vitro plant manipulation for new varieties.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Human insulin is made in bacteria yet its structure is absolutely identical to that of the natural molecule.",
+    "question": "Recombinant human insulin produced in bacteria:",
+    "options": {
+      "A": "Has a structure absolutely identical to natural human insulin",
+      "B": "Differs completely from natural insulin in sequence",
+      "C": "Contains the C peptide in the final product",
+      "D": "Always causes immune reactions unlike natural insulin"
+    },
+    "correct_answer": "A",
+    "explanation": "Bacterially produced recombinant human insulin is structurally identical to the natural hormone.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Viruses that attack their hosts and introduce their genetic material into the host cell as part of their replication cycle are used as vectors to transfer healthy genes.",
+    "question": "In gene therapy, viruses are used as vectors because they:",
+    "options": {
+      "A": "Introduce their genetic material into host cells during their replication cycle",
+      "B": "Produce Bt toxin in plant leaves",
+      "C": "Cannot carry any foreign DNA",
+      "D": "Are always destroyed before contacting cells"
+    },
+    "correct_answer": "A",
+    "explanation": "Viruses naturally deliver genetic material into host cells and are engineered as vectors for therapeutic genes.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "The source of this complementary RNA could be from an infection by viruses having RNA genomes or mobile genetic elements (transposons) that replicate via an RNA intermediate.",
+    "question": "In natural RNAi, the source of complementary RNA may be:",
+    "options": {
+      "A": "RNA viruses or transposons replicating via an RNA intermediate",
+      "B": "Only bacterial cell walls",
+      "C": "Only disulphide bridges in insulin",
+      "D": "Only Basmati rice patents"
+    },
+    "correct_answer": "A",
+    "explanation": "Complementary RNA triggering RNAi may originate from RNA viruses or transposons that replicate through RNA.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Scientists have even isolated single cells from plants and after digesting their cell walls have been able to isolate naked protoplasts (surrounded by plasma membranes).",
+    "question": "Plant protoplasts are:",
+    "options": {
+      "A": "Plant cells without cell walls, surrounded only by plasma membrane",
+      "B": "Whole virus-free meristems",
+      "C": "Bt toxin crystals from bacteria",
+      "D": "Mature insulin A and B chains"
+    },
+    "correct_answer": "A",
+    "explanation": "Protoplasts are isolated plant cells whose walls have been removed, leaving the plasma membrane.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "Well, this has been achieved – resulting in formation of tomato; unfortunately this plant did not have all the desired combination of characteristics for its commercial utilisation.",
+    "question": "The tomato-potato somatic hybrid (often called 'tomato') failed commercially because:",
+    "options": {
+      "A": "It did not have all the desired combination of characteristics",
+      "B": "Protoplast fusion is theoretically impossible",
+      "C": "It produced too much human insulin",
+      "D": "It was immediately patented as Basmati"
+    },
+    "correct_answer": "A",
+    "explanation": "Although tomato-potato protoplast fusion was achieved, the hybrid lacked the full desired trait combination for commercial use.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  },
+  {
+    "source_sentence": "By introducing genes from other species that alter the formation of this factor and studying the biological effects that result, information is obtained about the biological role of the factor in the body.",
+    "question": "Introducing genes from other species to alter insulin-like growth factor formation in transgenic animals helps study:",
+    "options": {
+      "A": "The biological role of the factor in growth and development",
+      "B": "Only patent laws for turmeric",
+      "C": "Only Bt toxin activation in insect guts",
+      "D": "Only post-harvest losses in rice"
+    },
+    "correct_answer": "A",
+    "explanation": "Altering growth factor formation via transgenic approaches reveals the factor's biological role in the body.",
+    "chapter": "Chapter 10: Biotechnology and its Applications"
+  }
+]

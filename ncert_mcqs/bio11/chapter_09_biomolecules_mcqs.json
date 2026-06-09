@@ -1,0 +1,1523 @@
+[
+  {
+    "source_sentence": "If the same analysis is performed on a piece of earth's crust as an example of non-living matter, we obtain a similar list.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "When elemental analysis is performed on living tissue versus earth's crust, what is found qualitatively?",
+    "options": {
+      "A": "Living tissue lacks several elements found in earth's crust",
+      "B": "All elements present in earth's crust are also present in living tissue",
+      "C": "Living tissue contains entirely different elements",
+      "D": "Earth's crust contains carbon compounds absent in living tissue"
+    },
+    "correct_answer": "B",
+    "explanation": "Qualitatively, the same elements appear in both living and non-living matter."
+  },
+  {
+    "source_sentence": "However, a closer examination reveals that the relative abundance of carbon and hydrogen with respect to other elements is higher in any living organism than in earth's crust.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Compared to earth's crust, living organisms show relatively higher abundance of:",
+    "options": {
+      "A": "Silicon and calcium",
+      "B": "Carbon and hydrogen",
+      "C": "Oxygen only",
+      "D": "Sodium and magnesium"
+    },
+    "correct_answer": "B",
+    "explanation": "Carbon and hydrogen are proportionally more abundant in living organisms."
+  },
+  {
+    "source_sentence": "Carbon (C) 0.03 earth's crust, 18.5 human body",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "According to Table 9.1, what is the approximate percentage by weight of carbon in the human body?",
+    "options": {
+      "A": "0.03",
+      "B": "3.3",
+      "C": "18.5",
+      "D": "65.0"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 9.1 lists carbon at 18.5% in the human body."
+  },
+  {
+    "source_sentence": "Oxygen (O) 46.6 earth's crust, 65.0 human body",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which element is the most abundant by weight in the human body according to Table 9.1?",
+    "options": {
+      "A": "Carbon",
+      "B": "Hydrogen",
+      "C": "Oxygen",
+      "D": "Nitrogen"
+    },
+    "correct_answer": "C",
+    "explanation": "Oxygen accounts for 65% by weight in the human body."
+  },
+  {
+    "source_sentence": "Silicon (Si) 27.7 earth's crust, negligible human body",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Silicon is abundant in earth's crust (27.7%) but in the human body it is:",
+    "options": {
+      "A": "Second most abundant",
+      "B": "About 9.5%",
+      "C": "Negligible",
+      "D": "Equal to calcium"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 9.1 shows silicon as negligible in the human body."
+  },
+  {
+    "source_sentence": "We can take any living tissue and grind it in trichloroacetic acid (Cl3CCOOH) using a mortar and a pestle.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Living tissue is ground in which acid to separate biomolecular fractions?",
+    "options": {
+      "A": "Hydrochloric acid",
+      "B": "Trichloroacetic acid",
+      "C": "Sulphuric acid",
+      "D": "Acetic acid"
+    },
+    "correct_answer": "B",
+    "explanation": "Trichloroacetic acid (Cl3CCOOH) is used to grind living tissue."
+  },
+  {
+    "source_sentence": "One is called the filtrate or more technically, the acid-soluble pool, and the second, the retentate or the acid-insoluble fraction.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The filtrate obtained after straining tissue slurry in TCA is called the:",
+    "options": {
+      "A": "Acid-insoluble fraction",
+      "B": "Ash fraction",
+      "C": "Acid-soluble pool",
+      "D": "Retentate"
+    },
+    "correct_answer": "C",
+    "explanation": "The filtrate is the acid-soluble pool."
+  },
+  {
+    "source_sentence": "The retentate or the acid-insoluble fraction.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The retentate obtained after TCA treatment of living tissue is the:",
+    "options": {
+      "A": "Acid-soluble pool",
+      "B": "Acid-insoluble fraction",
+      "C": "Cytoplasmic filtrate",
+      "D": "Ash residue"
+    },
+    "correct_answer": "B",
+    "explanation": "The retentate is the acid-insoluble fraction."
+  },
+  {
+    "source_sentence": "All the carbon compounds that we get from living tissues can be called 'biomolecules'.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Carbon compounds obtained from living tissues are collectively called:",
+    "options": {
+      "A": "Metabolites only",
+      "B": "Biomolecules",
+      "C": "Macromolecules only",
+      "D": "Inorganic constituents"
+    },
+    "correct_answer": "B",
+    "explanation": "Carbon compounds from living tissues are biomolecules."
+  },
+  {
+    "source_sentence": "One weighs a small amount of a living tissue and dry it. All the water, evaporates. The remaining material gives dry weight.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Dry weight of a tissue is obtained after:",
+    "options": {
+      "A": "Burning the tissue completely",
+      "B": "Evaporation of water from wet weight",
+      "C": "TCA extraction",
+      "D": "Ash formation"
+    },
+    "correct_answer": "B",
+    "explanation": "Dry weight remains after water evaporates from wet weight."
+  },
+  {
+    "source_sentence": "If the tissue is fully burnt, all the carbon compounds are oxidised to gaseous form and are removed. What is remaining is called 'ash'.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "After complete burning of living tissue, the remaining inorganic residue is called:",
+    "options": {
+      "A": "Dry weight",
+      "B": "Wet weight",
+      "C": "Ash",
+      "D": "Retentate"
+    },
+    "correct_answer": "C",
+    "explanation": "Ash contains inorganic elements after carbon compounds are oxidised."
+  },
+  {
+    "source_sentence": "This ash contains inorganic elements (like calcium, magnesium etc).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Ash obtained from burnt living tissue contains:",
+    "options": {
+      "A": "Only organic carbon compounds",
+      "B": "Inorganic elements like calcium and magnesium",
+      "C": "Only water",
+      "D": "Proteins and nucleic acids"
+    },
+    "correct_answer": "B",
+    "explanation": "Ash contains inorganic elements such as calcium and magnesium."
+  },
+  {
+    "source_sentence": "Sodium Na+, Potassium K+, Calcium Ca++, Magnesium Mg++",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which of the following correctly represents calcium as an inorganic constituent of living tissues (Table 9.2)?",
+    "options": {
+      "A": "Ca+",
+      "B": "Ca++",
+      "C": "Ca3+",
+      "D": "Ca−"
+    },
+    "correct_answer": "B",
+    "explanation": "Calcium occurs as Ca++ in living tissues."
+  },
+  {
+    "source_sentence": "Compounds NaCl, CaCO3, PO4 3-, SO4 2-",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which inorganic compound listed in Table 9.2 is a phosphate?",
+    "options": {
+      "A": "NaCl",
+      "B": "CaCO3",
+      "C": "PO4 3-",
+      "D": "SO4 2-"
+    },
+    "correct_answer": "C",
+    "explanation": "PO4 3- is the phosphate ion listed in Table 9.2."
+  },
+  {
+    "source_sentence": "Amino acids are organic compounds containing an amino group and an acidic group as substituents on the same carbon i.e., the α-carbon.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Amino acids have amino and carboxyl groups attached to the same carbon called:",
+    "options": {
+      "A": "β-carbon",
+      "B": "α-carbon",
+      "C": "γ-carbon",
+      "D": "R-carbon"
+    },
+    "correct_answer": "B",
+    "explanation": "Both functional groups are on the α-carbon."
+  },
+  {
+    "source_sentence": "They are substituted methanes. There are four substituent groups occupying the four valency positions.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The four substituents on the α-carbon of an amino acid include hydrogen, carboxyl, amino and:",
+    "options": {
+      "A": "Phosphate group",
+      "B": "R group",
+      "C": "Hydroxyl group",
+      "D": "Methyl group only"
+    },
+    "correct_answer": "B",
+    "explanation": "The fourth substituent is the variable R group."
+  },
+  {
+    "source_sentence": "However, those which occur in proteins are only of twenty types.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "How many types of amino acids occur in proteins?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "20",
+      "D": "100"
+    },
+    "correct_answer": "C",
+    "explanation": "Proteins contain 20 types of amino acids."
+  },
+  {
+    "source_sentence": "The R group in these proteinaceous amino acids could be a hydrogen (the amino acid is called glycine), a methyl group (alanine), hydroxy methyl (serine), etc.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which amino acid has hydrogen as its R group?",
+    "options": {
+      "A": "Alanine",
+      "B": "Serine",
+      "C": "Glycine",
+      "D": "Valine"
+    },
+    "correct_answer": "C",
+    "explanation": "Glycine has H as the R group."
+  },
+  {
+    "source_sentence": "Based on number of amino and carboxyl groups, there are acidic (e.g., glutamic acid), basic (lysine) and neutral (valine) amino acids.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lysine is classified as which type of amino acid?",
+    "options": {
+      "A": "Acidic",
+      "B": "Basic",
+      "C": "Neutral",
+      "D": "Aromatic"
+    },
+    "correct_answer": "B",
+    "explanation": "Lysine is a basic amino acid."
+  },
+  {
+    "source_sentence": "Similarly, there are aromatic amino acids (tyrosine, phenylalanine, tryptophan).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which of the following is an aromatic amino acid?",
+    "options": {
+      "A": "Valine",
+      "B": "Alanine",
+      "C": "Tryptophan",
+      "D": "Glycine"
+    },
+    "correct_answer": "C",
+    "explanation": "Tryptophan is an aromatic amino acid."
+  },
+  {
+    "source_sentence": "A particular property of amino acids is the ionizable nature of –NH2 and –COOH groups.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The structure of amino acids in solution changes with pH because:",
+    "options": {
+      "A": "R group is always charged",
+      "B": "–NH2 and –COOH groups are ionizable",
+      "C": "Amino acids are insoluble",
+      "D": "Peptide bonds break at different pH"
+    },
+    "correct_answer": "B",
+    "explanation": "Ionizable amino and carboxyl groups change structure with pH."
+  },
+  {
+    "source_sentence": "Lipids are generally water insoluble.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lipids are generally:",
+    "options": {
+      "A": "Water soluble",
+      "B": "Water insoluble",
+      "C": "Only found in acid-soluble pool",
+      "D": "Homopolymers of glucose"
+    },
+    "correct_answer": "B",
+    "explanation": "Lipids are generally water insoluble."
+  },
+  {
+    "source_sentence": "A fatty acid has a carboxyl group attached to an R group.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A fatty acid consists of:",
+    "options": {
+      "A": "Amino group and R group",
+      "B": "Carboxyl group and R group",
+      "C": "Phosphate and glycerol",
+      "D": "Sugar and base"
+    },
+    "correct_answer": "B",
+    "explanation": "Fatty acids have a carboxyl group attached to an R group."
+  },
+  {
+    "source_sentence": "For example, palmitic acid has 16 carbons including carboxyl carbon.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Palmitic acid contains how many carbon atoms including the carboxyl carbon?",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "20"
+    },
+    "correct_answer": "B",
+    "explanation": "Palmitic acid has 16 carbons including carboxyl carbon."
+  },
+  {
+    "source_sentence": "Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Fatty acids containing one or more C=C double bonds are:",
+    "options": {
+      "A": "Saturated",
+      "B": "Unsaturated",
+      "C": "Phospholipids",
+      "D": "Sterols"
+    },
+    "correct_answer": "B",
+    "explanation": "Unsaturated fatty acids have C=C double bonds."
+  },
+  {
+    "source_sentence": "They can be then monoglycerides, diglycerides and triglycerides.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "When fatty acids are esterified to glycerol, the products may include:",
+    "options": {
+      "A": "Only monoglycerides",
+      "B": "Monoglycerides, diglycerides and triglycerides",
+      "C": "Only phospholipids",
+      "D": "Only nucleotides"
+    },
+    "correct_answer": "B",
+    "explanation": "Glycerides can be mono-, di-, or triglycerides."
+  },
+  {
+    "source_sentence": "These are also called fats and oils based on melting point. Oils have lower melting point.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Oils differ from fats primarily in their:",
+    "options": {
+      "A": "Absence of fatty acids",
+      "B": "Lower melting point",
+      "C": "Higher protein content",
+      "D": "Presence of phosphate only"
+    },
+    "correct_answer": "B",
+    "explanation": "Oils have lower melting points than fats."
+  },
+  {
+    "source_sentence": "Some lipids have phosphorous and a phosphorylated organic compound in them. These are phospholipids.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Phospholipids contain, in addition to glycerol and fatty acids:",
+    "options": {
+      "A": "Only nitrogen bases",
+      "B": "Phosphorus and a phosphorylated organic compound",
+      "C": "Only amino acids",
+      "D": "Ribose sugar only"
+    },
+    "correct_answer": "B",
+    "explanation": "Phospholipids contain phosphorus and a phosphorylated organic compound."
+  },
+  {
+    "source_sentence": "They are found in cell membrane. Lecithin is one example.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lecithin is an example of:",
+    "options": {
+      "A": "Triglyceride",
+      "B": "Phospholipid",
+      "C": "Nucleotide",
+      "D": "Polysaccharide"
+    },
+    "correct_answer": "B",
+    "explanation": "Lecithin is a phospholipid found in cell membranes."
+  },
+  {
+    "source_sentence": "Some of these are nitrogen bases – adenine, guanine, cytosine, uracil, and thymine.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Which of the following is NOT a nitrogen base found in living organisms?",
+    "options": {
+      "A": "Adenine",
+      "B": "Uracil",
+      "C": "Ribose",
+      "D": "Thymine"
+    },
+    "correct_answer": "C",
+    "explanation": "Ribose is a sugar, not a nitrogen base."
+  },
+  {
+    "source_sentence": "When found attached to a sugar, they are called nucleosides.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A nitrogen base attached to a sugar is called a:",
+    "options": {
+      "A": "Nucleotide",
+      "B": "Nucleoside",
+      "C": "Amino acid",
+      "D": "Fatty acid"
+    },
+    "correct_answer": "B",
+    "explanation": "Base + sugar = nucleoside."
+  },
+  {
+    "source_sentence": "If a phosphate group is also found esterified to the sugar they are called nucleotides.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A nucleotide consists of:",
+    "options": {
+      "A": "Base only",
+      "B": "Base and sugar only",
+      "C": "Base, sugar and phosphate",
+      "D": "Sugar and phosphate only"
+    },
+    "correct_answer": "C",
+    "explanation": "Nucleotides have base, sugar and phosphate."
+  },
+  {
+    "source_sentence": "Nucleic acids like DNA and RNA consist of nucleotides only. DNA and RNA function as genetic material.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "DNA and RNA are composed of:",
+    "options": {
+      "A": "Amino acids",
+      "B": "Monosaccharides only",
+      "C": "Nucleotides",
+      "D": "Fatty acids"
+    },
+    "correct_answer": "C",
+    "explanation": "Nucleic acids consist of nucleotides and serve as genetic material."
+  },
+  {
+    "source_sentence": "These are primary metabolites.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Amino acids, sugars and similar compounds found in animal tissues are:",
+    "options": {
+      "A": "Secondary metabolites",
+      "B": "Primary metabolites",
+      "C": "Inorganic ash",
+      "D": "Competitive inhibitors"
+    },
+    "correct_answer": "B",
+    "explanation": "Common cellular compounds are primary metabolites."
+  },
+  {
+    "source_sentence": "However, when one analyses plant, fungal and microbial cells, one would see thousands of compounds other than these primary metabolites, e.g. alkaloids, flavonoids, rubber, essential oils, antibiotics.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Alkaloids, flavonoids and rubber found in plants are examples of:",
+    "options": {
+      "A": "Primary metabolites",
+      "B": "Secondary metabolites",
+      "C": "Inorganic ions",
+      "D": "Micromolecules only"
+    },
+    "correct_answer": "B",
+    "explanation": "These are secondary metabolites."
+  },
+  {
+    "source_sentence": "Toxins: Abrin, Ricin",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Ricin is an example of:",
+    "options": {
+      "A": "Essential oil",
+      "B": "Toxin (secondary metabolite)",
+      "C": "Primary metabolite",
+      "D": "Co-enzyme"
+    },
+    "correct_answer": "B",
+    "explanation": "Ricin is listed as a toxin in Table 9.3."
+  },
+  {
+    "source_sentence": "While primary metabolites have identifiable functions and play known roles in normal physiological processes, we do not at the moment, understand the role or functions of all the 'secondary metabolites' in host organisms.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Primary metabolites differ from secondary metabolites in that primary metabolites:",
+    "options": {
+      "A": "Are found only in animals",
+      "B": "Have identifiable functions in normal physiology",
+      "C": "Are always toxic",
+      "D": "Have molecular weight above 10,000 Da only"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary metabolites have known physiological roles."
+  },
+  {
+    "source_sentence": "They have molecular weights ranging from 18 to around 800 daltons (Da) approximately.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Compounds in the acid-soluble pool have molecular weights approximately in the range:",
+    "options": {
+      "A": "18 to 800 Da",
+      "B": "1000 to 5000 Da",
+      "C": "10,000 Da and above",
+      "D": "Above 50,000 Da"
+    },
+    "correct_answer": "A",
+    "explanation": "Acid-soluble compounds range from about 18 to 800 Da."
+  },
+  {
+    "source_sentence": "The acid insoluble fraction, has only four types of organic compounds i.e., proteins, nucleic acids, polysaccharides and lipids.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The acid-insoluble fraction contains how many major types of organic compounds?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "Six"
+    },
+    "correct_answer": "C",
+    "explanation": "Four types: proteins, nucleic acids, polysaccharides and lipids."
+  },
+  {
+    "source_sentence": "Those which have molecular weights less than one thousand daltons and are usually referred to as micromolecules or simply biomolecules while those which are found in the acid insoluble fraction are called macromolecules or biomacromolecules.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Biomolecules with molecular weight less than 1000 Da are called:",
+    "options": {
+      "A": "Biomacromolecules",
+      "B": "Micromolecules",
+      "C": "Ash constituents",
+      "D": "Secondary metabolites only"
+    },
+    "correct_answer": "B",
+    "explanation": "Small biomolecules (<1000 Da) are micromolecules."
+  },
+  {
+    "source_sentence": "These classes of compounds with the exception of lipids, have molecular weights in the range of ten thousand daltons and above.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Proteins, nucleic acids and polysaccharides typically have molecular weights:",
+    "options": {
+      "A": "Below 800 Da",
+      "B": "Around 1000 Da",
+      "C": "Ten thousand daltons and above",
+      "D": "Exactly 500 Da"
+    },
+    "correct_answer": "C",
+    "explanation": "These macromolecules exceed about 10,000 Da."
+  },
+  {
+    "source_sentence": "When we grind a tissue, we are disrupting the cell structure. Cell membrane and other membranes are broken into pieces, and form vesicles which are not water soluble.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lipids appear in the acid-insoluble fraction because:",
+    "options": {
+      "A": "They always exceed 10,000 Da",
+      "B": "Membrane fragments form water-insoluble vesicles upon grinding",
+      "C": "They are covalently bound to proteins only",
+      "D": "TCA precipitates all lipids chemically"
+    },
+    "correct_answer": "B",
+    "explanation": "Broken membranes form insoluble vesicles that separate with the retentate."
+  },
+  {
+    "source_sentence": "Lipids are not strictly macromolecules.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lipids are classified in the macromolecular fraction but they are:",
+    "options": {
+      "A": "True polymers of nucleotides",
+      "B": "Not strictly macromolecules",
+      "C": "Always above 10,000 Da",
+      "D": "Homopolymers of amino acids"
+    },
+    "correct_answer": "B",
+    "explanation": "Lipids are not strictly macromolecules despite separating with them."
+  },
+  {
+    "source_sentence": "The acid soluble pool represents roughly the cytoplasmic composition.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The acid-soluble pool roughly represents:",
+    "options": {
+      "A": "Nuclear composition only",
+      "B": "Cytoplasmic composition",
+      "C": "Cell wall only",
+      "D": "Ash composition"
+    },
+    "correct_answer": "B",
+    "explanation": "The acid-soluble pool reflects cytoplasmic composition."
+  },
+  {
+    "source_sentence": "Water 70-90 % of the total cellular mass",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "According to Table 9.4, water constitutes what percentage of total cellular mass?",
+    "options": {
+      "A": "3-5",
+      "B": "10-15",
+      "C": "70-90",
+      "D": "50-60"
+    },
+    "correct_answer": "C",
+    "explanation": "Water is 70-90% of cellular mass."
+  },
+  {
+    "source_sentence": "Proteins 10-15 % of the total cellular mass",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Proteins constitute approximately what percentage of total cellular mass (Table 9.4)?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "10-15",
+      "D": "70-90"
+    },
+    "correct_answer": "C",
+    "explanation": "Proteins are 10-15% of cellular mass."
+  },
+  {
+    "source_sentence": "Nucleic acids 5-7 % of the total cellular mass",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Nucleic acids constitute approximately what percentage of total cellular mass?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "5-7",
+      "D": "10-15"
+    },
+    "correct_answer": "C",
+    "explanation": "Nucleic acids are 5-7% of cellular mass."
+  },
+  {
+    "source_sentence": "Proteins are polypeptides. They are linear chains of amino acids linked by peptide bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Amino acids in proteins are linked by:",
+    "options": {
+      "A": "Hydrogen bonds",
+      "B": "Peptide bonds",
+      "C": "Glycosidic bonds",
+      "D": "Phosphodiester bonds"
+    },
+    "correct_answer": "B",
+    "explanation": "Proteins are polypeptides joined by peptide bonds."
+  },
+  {
+    "source_sentence": "As there are 20 types of amino acids, a protein is a heteropolymer and not a homopolymer.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Proteins are heteropolymers because:",
+    "options": {
+      "A": "They contain only one type of amino acid",
+      "B": "They contain 20 different types of amino acids",
+      "C": "They contain only glucose units",
+      "D": "They lack peptide bonds"
+    },
+    "correct_answer": "B",
+    "explanation": "Proteins contain multiple types of amino acids making them heteropolymers."
+  },
+  {
+    "source_sentence": "Hence, amino acids can be essential or non-essential. The latter are those which our body can make, while we get essential amino acids through our diet/food.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Essential amino acids are those that:",
+    "options": {
+      "A": "The body can synthesise",
+      "B": "Must be obtained through diet",
+      "C": "Are not found in proteins",
+      "D": "Are only in plants"
+    },
+    "correct_answer": "B",
+    "explanation": "Essential amino acids must be supplied through diet."
+  },
+  {
+    "source_sentence": "Collagen: Intercellular ground substance",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Collagen functions primarily as:",
+    "options": {
+      "A": "Enzyme",
+      "B": "Hormone",
+      "C": "Intercellular ground substance",
+      "D": "Genetic material"
+    },
+    "correct_answer": "C",
+    "explanation": "Collagen is structural ground substance (Table 9.5)."
+  },
+  {
+    "source_sentence": "Insulin: Hormone",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Insulin is a protein that functions as a:",
+    "options": {
+      "A": "Enzyme",
+      "B": "Hormone",
+      "C": "Antibody",
+      "D": "Structural protein only"
+    },
+    "correct_answer": "B",
+    "explanation": "Insulin is a hormone (Table 9.5)."
+  },
+  {
+    "source_sentence": "Antibody: Fights infectious agents",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Antibodies are proteins that:",
+    "options": {
+      "A": "Transport glucose",
+      "B": "Fight infectious agents",
+      "C": "Form cell walls",
+      "D": "Store genetic information"
+    },
+    "correct_answer": "B",
+    "explanation": "Antibodies fight infectious agents."
+  },
+  {
+    "source_sentence": "GLUT-4: Enables glucose transport into cells",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "GLUT-4 is a protein that:",
+    "options": {
+      "A": "Catalyses DNA replication",
+      "B": "Enables glucose transport into cells",
+      "C": "Forms collagen fibres",
+      "D": "Digests starch"
+    },
+    "correct_answer": "B",
+    "explanation": "GLUT-4 enables glucose transport into cells."
+  },
+  {
+    "source_sentence": "Collagen is the most abundant protein in animal world and Ribulose bisphosphate Carboxylase-Oxygenase (RuBisCO) is the most abundant protein in the whole of the biosphere.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The most abundant protein in the entire biosphere is:",
+    "options": {
+      "A": "Collagen",
+      "B": "Insulin",
+      "C": "RuBisCO",
+      "D": "Trypsin"
+    },
+    "correct_answer": "C",
+    "explanation": "RuBisCO is the most abundant protein in the biosphere."
+  },
+  {
+    "source_sentence": "Collagen is the most abundant protein in animal world",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The most abundant protein in the animal world is:",
+    "options": {
+      "A": "RuBisCO",
+      "B": "Collagen",
+      "C": "Haemoglobin",
+      "D": "Trypsin"
+    },
+    "correct_answer": "B",
+    "explanation": "Collagen is most abundant in the animal world."
+  },
+  {
+    "source_sentence": "Polysaccharides are long chains of sugars.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Polysaccharides are:",
+    "options": {
+      "A": "Short chains of fatty acids",
+      "B": "Long chains of sugars",
+      "C": "Chains of nucleotides",
+      "D": "Chains of amino acids only"
+    },
+    "correct_answer": "B",
+    "explanation": "Polysaccharides are polymeric sugar chains."
+  },
+  {
+    "source_sentence": "For example, cellulose is a polymeric polysaccharide consisting of only one type of monosaccharide i.e., glucose. Cellulose is a homopolymer.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Cellulose is a homopolymer of:",
+    "options": {
+      "A": "Fructose",
+      "B": "Glucose",
+      "C": "Galactose",
+      "D": "Ribose"
+    },
+    "correct_answer": "B",
+    "explanation": "Cellulose is a glucose homopolymer."
+  },
+  {
+    "source_sentence": "Starch is a variant of this but present as a store house of energy in plant tissues.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Starch serves as:",
+    "options": {
+      "A": "Genetic material in plants",
+      "B": "Energy storage in plant tissues",
+      "C": "Cell membrane component",
+      "D": "Enzyme cofactor"
+    },
+    "correct_answer": "B",
+    "explanation": "Starch stores energy in plants."
+  },
+  {
+    "source_sentence": "Animals have another variant called glycogen.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The polysaccharide that stores energy in animal tissues is:",
+    "options": {
+      "A": "Cellulose",
+      "B": "Starch",
+      "C": "Glycogen",
+      "D": "Chitin"
+    },
+    "correct_answer": "C",
+    "explanation": "Glycogen is the animal storage polysaccharide."
+  },
+  {
+    "source_sentence": "Starch forms helical secondary structures. In fact, starch can hold I2 molecules in the helical portion. The starch-I2 is blue in colour.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Starch turns blue when treated with iodine because:",
+    "options": {
+      "A": "It lacks glucose",
+      "B": "I2 molecules are held in its helical portion",
+      "C": "It contains protein",
+      "D": "It is a reducing sugar only"
+    },
+    "correct_answer": "B",
+    "explanation": "Starch helices trap I2 producing a blue colour."
+  },
+  {
+    "source_sentence": "Cellulose does not contain complex helices and hence cannot hold I2.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Cellulose does not give a blue colour with iodine because:",
+    "options": {
+      "A": "It is a protein",
+      "B": "It lacks complex helices to hold I2",
+      "C": "It is insoluble",
+      "D": "It contains fructose only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cellulose lacks helices that bind iodine."
+  },
+  {
+    "source_sentence": "Plant cell walls are made of cellulose.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The primary component of plant cell walls is:",
+    "options": {
+      "A": "Starch",
+      "B": "Glycogen",
+      "C": "Cellulose",
+      "D": "Chitin"
+    },
+    "correct_answer": "C",
+    "explanation": "Plant cell walls are made of cellulose."
+  },
+  {
+    "source_sentence": "Exoskeletons of arthropods, for example, have a complex polysaccharide called chitin.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The exoskeleton of arthropods contains the polysaccharide:",
+    "options": {
+      "A": "Cellulose",
+      "B": "Starch",
+      "C": "Chitin",
+      "D": "Inulin"
+    },
+    "correct_answer": "C",
+    "explanation": "Arthropod exoskeletons contain chitin."
+  },
+  {
+    "source_sentence": "These are polynucleotides.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Nucleic acids are polymers called:",
+    "options": {
+      "A": "Polypeptides",
+      "B": "Polynucleotides",
+      "C": "Polysaccharides",
+      "D": "Triglycerides"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleic acids are polynucleotides."
+  },
+  {
+    "source_sentence": "A nucleotide has three chemically distinct components. One is a heterocyclic compound, the second is a monosaccharide and the third a phosphoric acid or phosphate.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The three components of a nucleotide are:",
+    "options": {
+      "A": "Amino acid, sugar, lipid",
+      "B": "Nitrogenous base, monosaccharide, phosphate",
+      "C": "Base, fatty acid, glycerol",
+      "D": "Sugar, protein, ion"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleotides have base, sugar and phosphate."
+  },
+  {
+    "source_sentence": "Adenine and Guanine are substituted purines while the rest are substituted pyrimidines.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Adenine and guanine are classified as:",
+    "options": {
+      "A": "Pyrimidines",
+      "B": "Purines",
+      "C": "Pentoses",
+      "D": "Amino acids"
+    },
+    "correct_answer": "B",
+    "explanation": "Adenine and guanine are purines."
+  },
+  {
+    "source_sentence": "The rest are substituted pyrimidines.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Cytosine, uracil and thymine are:",
+    "options": {
+      "A": "Purines",
+      "B": "Pyrimidines",
+      "C": "Pentoses",
+      "D": "Phospholipids"
+    },
+    "correct_answer": "B",
+    "explanation": "Cytosine, uracil and thymine are pyrimidines."
+  },
+  {
+    "source_sentence": "The sugar found in polynucleotides is either ribose (a monosaccharide pentose) or 2' deoxyribose.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The sugar in RNA is:",
+    "options": {
+      "A": "Deoxyribose",
+      "B": "Ribose",
+      "C": "Glucose",
+      "D": "Fructose"
+    },
+    "correct_answer": "B",
+    "explanation": "RNA contains ribose sugar."
+  },
+  {
+    "source_sentence": "A nucleic acid containing deoxyribose is called deoxyribonucleic acid (DNA) while that which contains ribose is called ribonucleic acid (RNA).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "DNA differs from RNA in containing:",
+    "options": {
+      "A": "Uracil instead of thymine",
+      "B": "Ribose instead of deoxyribose",
+      "C": "Deoxyribose instead of ribose",
+      "D": "Fructose as sugar"
+    },
+    "correct_answer": "C",
+    "explanation": "DNA contains deoxyribose; RNA contains ribose."
+  },
+  {
+    "source_sentence": "The sequence of amino acids i.e., the positional information in a protein is called the primary structure of a protein.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The primary structure of a protein refers to:",
+    "options": {
+      "A": "Alpha helix formation",
+      "B": "Sequence of amino acids",
+      "C": "Quaternary subunit arrangement",
+      "D": "Disulphide bonds only"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary structure is the amino acid sequence."
+  },
+  {
+    "source_sentence": "The first amino acid is also called as N-terminal amino acid. The last amino acid is called the C-terminal amino acid.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The first amino acid in a polypeptide chain is called:",
+    "options": {
+      "A": "C-terminal amino acid",
+      "B": "N-terminal amino acid",
+      "C": "R-terminal amino acid",
+      "D": "Reducing amino acid"
+    },
+    "correct_answer": "B",
+    "explanation": "The first amino acid is the N-terminal residue."
+  },
+  {
+    "source_sentence": "In proteins, only right handed helices are observed.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The helices observed in protein secondary structure are:",
+    "options": {
+      "A": "Left-handed only",
+      "B": "Right-handed only",
+      "C": "Both left and right handed equally",
+      "D": "Absent in all proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Only right-handed helices occur in proteins."
+  },
+  {
+    "source_sentence": "Other regions of the protein thread are folded into other forms in what is called the secondary structure.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Secondary structure of a protein includes:",
+    "options": {
+      "A": "Amino acid sequence only",
+      "B": "Local folding such as alpha helices",
+      "C": "Assembly of subunits",
+      "D": "DNA base sequence"
+    },
+    "correct_answer": "B",
+    "explanation": "Secondary structure involves local folding like helices."
+  },
+  {
+    "source_sentence": "The long protein chain is also folded upon itself like a hollow woolen ball, giving rise to the tertiary structure.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Tertiary structure of a protein refers to:",
+    "options": {
+      "A": "Sequence of amino acids",
+      "B": "Overall 3D folding of a single polypeptide",
+      "C": "Arrangement of multiple subunits",
+      "D": "Peptide bond formation only"
+    },
+    "correct_answer": "B",
+    "explanation": "Tertiary structure is the 3D fold of one polypeptide chain."
+  },
+  {
+    "source_sentence": "Tertiary structure is absolutely necessary for the many biological activities of proteins.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Tertiary structure is important because:",
+    "options": {
+      "A": "It determines amino acid sequence",
+      "B": "It is necessary for many biological activities of proteins",
+      "C": "It replaces primary structure",
+      "D": "It exists only in DNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Tertiary structure is essential for protein function."
+  },
+  {
+    "source_sentence": "The manner in which these individual folded polypeptides or subunits are arranged with respect to each other is the architecture of a protein otherwise called the quaternary structure.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Quaternary structure refers to:",
+    "options": {
+      "A": "Amino acid sequence",
+      "B": "Alpha helix formation",
+      "C": "Arrangement of multiple polypeptide subunits",
+      "D": "DNA double helix"
+    },
+    "correct_answer": "C",
+    "explanation": "Quaternary structure is subunit arrangement."
+  },
+  {
+    "source_sentence": "Adult human haemoglobin consists of 4 subunits. Two of these are identical to each other. Hence, two subunits of α type and two subunits of β type together constitute the human haemoglobin (Hb).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Adult human haemoglobin consists of:",
+    "options": {
+      "A": "2 subunits",
+      "B": "3 subunits",
+      "C": "4 subunits (2α and 2β)",
+      "D": "6 subunits"
+    },
+    "correct_answer": "C",
+    "explanation": "Haemoglobin has 4 subunits: 2α and 2β."
+  },
+  {
+    "source_sentence": "Almost all enzymes are proteins. There are some nucleic acids that behave like enzymes. These are called ribozymes.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Nucleic acids with catalytic activity are called:",
+    "options": {
+      "A": "Apoenzymes",
+      "B": "Ribozymes",
+      "C": "Co-enzymes",
+      "D": "Prosthetic groups"
+    },
+    "correct_answer": "B",
+    "explanation": "Catalytic nucleic acids are ribozymes."
+  },
+  {
+    "source_sentence": "One such pocket is the 'active site'. An active site of an enzyme is a crevice or pocket into which the substrate fits.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The active site of an enzyme is:",
+    "options": {
+      "A": "The N-terminal amino acid",
+      "B": "A crevice or pocket where substrate binds",
+      "C": "The quaternary subunit interface only",
+      "D": "The phosphate group of cofactors"
+    },
+    "correct_answer": "B",
+    "explanation": "The active site is where the substrate fits."
+  },
+  {
+    "source_sentence": "Inorganic catalysts work efficiently at high temperatures and high pressures, while enzymes get damaged at high temperatures (say above 40°C).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Unlike many inorganic catalysts, typical enzymes:",
+    "options": {
+      "A": "Work best at very high temperature and pressure",
+      "B": "Are damaged at high temperatures around or above 40°C",
+      "C": "Do not require tertiary structure",
+      "D": "Are not proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Enzymes are denatured at high temperatures."
+  },
+  {
+    "source_sentence": "Enzymes isolated from organisms who normally live under extremely high temperatures, are stable and retain their catalytic power even at high temperatures (up to 80°-90°C).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes from thermophilic organisms can remain active up to:",
+    "options": {
+      "A": "20-30°C",
+      "B": "40°C only",
+      "C": "80-90°C",
+      "D": "200°C"
+    },
+    "correct_answer": "C",
+    "explanation": "Thermophilic enzymes remain active at 80-90°C."
+  },
+  {
+    "source_sentence": "In the absence of any enzyme this reaction is very slow, with about 200 molecules of H2CO3 being formed in an hour. However, by using the enzyme present within the cytoplasm called carbonic anhydrase, the reaction speeds dramatically with about 600,000 molecules being formed every second.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Carbonic anhydrase accelerates CO2 + H2O → H2CO3 by approximately:",
+    "options": {
+      "A": "10 times",
+      "B": "1000 times",
+      "C": "10 million times",
+      "D": "No acceleration"
+    },
+    "correct_answer": "C",
+    "explanation": "The enzyme accelerates the reaction by about 10 million times."
+  },
+  {
+    "source_sentence": "A multistep chemical reaction, when each of the steps is catalysed by the same enzyme complex or different enzymes, is called a metabolic pathway.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A multistep reaction sequence with each step enzyme-catalysed is called a:",
+    "options": {
+      "A": "Physical process",
+      "B": "Metabolic pathway",
+      "C": "Competitive inhibition",
+      "D": "Denaturation event"
+    },
+    "correct_answer": "B",
+    "explanation": "Multistep enzyme-catalysed sequences are metabolic pathways."
+  },
+  {
+    "source_sentence": "Glucose becomes pyruvic acid through ten different enzyme catalysed metabolic reactions.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Conversion of glucose to pyruvic acid involves approximately how many enzyme-catalysed steps?",
+    "options": {
+      "A": "Two",
+      "B": "Five",
+      "C": "Ten",
+      "D": "Twenty"
+    },
+    "correct_answer": "C",
+    "explanation": "Ten enzymatic steps convert glucose to pyruvic acid."
+  },
+  {
+    "source_sentence": "In our skeletal muscle, under anaerobic conditions, lactic acid is formed. Under normal aerobic conditions, pyruvic acid is formed. In yeast, during fermentation, the same pathway leads to the production of ethanol (alcohol).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Under anaerobic conditions in skeletal muscle, the glycolytic pathway produces:",
+    "options": {
+      "A": "Ethanol",
+      "B": "Lactic acid",
+      "C": "Starch",
+      "D": "CO2 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Anaerobic muscle metabolism yields lactic acid."
+  },
+  {
+    "source_sentence": "In yeast, during fermentation, the same pathway leads to the production of ethanol (alcohol).",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In yeast during fermentation, the glycolytic pathway produces:",
+    "options": {
+      "A": "Lactic acid",
+      "B": "Ethanol",
+      "C": "Cellulose",
+      "D": "Glycogen only"
+    },
+    "correct_answer": "B",
+    "explanation": "Yeast fermentation produces ethanol."
+  },
+  {
+    "source_sentence": "The chemical which is converted into a product is called a 'substrate'.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In an enzyme-catalysed reaction, the reactant converted to product is called:",
+    "options": {
+      "A": "Co-factor",
+      "B": "Substrate",
+      "C": "Apoenzyme",
+      "D": "Inhibitor always"
+    },
+    "correct_answer": "B",
+    "explanation": "The converted chemical is the substrate."
+  },
+  {
+    "source_sentence": "There is thus, an obligatory formation of an 'ES' complex.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Catalysis by enzymes requires formation of:",
+    "options": {
+      "A": "EP complex only",
+      "B": "ES (enzyme-substrate) complex",
+      "C": "DNA-RNA hybrid",
+      "D": "Ash residue"
+    },
+    "correct_answer": "B",
+    "explanation": "ES complex formation is obligatory for catalysis."
+  },
+  {
+    "source_sentence": "The difference in average energy content of 'S' from that of this transition state is called 'activation energy'.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Activation energy is defined as the energy difference between:",
+    "options": {
+      "A": "Product and substrate",
+      "B": "Substrate and transition state",
+      "C": "Enzyme and product",
+      "D": "Two products"
+    },
+    "correct_answer": "B",
+    "explanation": "Activation energy is the energy barrier to reach transition state."
+  },
+  {
+    "source_sentence": "Enzymes eventually bring down this energy barrier making the transition of 'S' to 'P' more easy.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes increase reaction rate primarily by:",
+    "options": {
+      "A": "Increasing activation energy",
+      "B": "Lowering activation energy",
+      "C": "Removing all substrate",
+      "D": "Destroying the product"
+    },
+    "correct_answer": "B",
+    "explanation": "Enzymes lower activation energy barrier."
+  },
+  {
+    "source_sentence": "E + S → ES → EP → E + P",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The correct sequence in enzyme catalysis is:",
+    "options": {
+      "A": "E + P → ES → S",
+      "B": "E + S → ES → EP → E + P",
+      "C": "S → P without enzyme",
+      "D": "E + S → E only"
+    },
+    "correct_answer": "B",
+    "explanation": "Enzyme catalysis proceeds through ES and EP complexes."
+  },
+  {
+    "source_sentence": "The formation of the ES complex is essential for catalysis.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Formation of the enzyme-substrate (ES) complex is:",
+    "options": {
+      "A": "Optional",
+      "B": "Essential for catalysis",
+      "C": "Harmful to the enzyme",
+      "D": "Only for ribozymes"
+    },
+    "correct_answer": "B",
+    "explanation": "ES complex formation is essential for catalysis."
+  },
+  {
+    "source_sentence": "First, the substrate binds to the active site of the enzyme, fitting into the active site.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The first step in the enzyme catalytic cycle is:",
+    "options": {
+      "A": "Release of product",
+      "B": "Substrate binding to active site",
+      "C": "Denaturation of enzyme",
+      "D": "Cofactor dissociation"
+    },
+    "correct_answer": "B",
+    "explanation": "Substrate first binds the active site."
+  },
+  {
+    "source_sentence": "Each enzyme shows its highest activity at a particular temperature and pH called the optimum temperature and optimum pH.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The temperature at which an enzyme shows maximum activity is called:",
+    "options": {
+      "A": "Denaturation point only",
+      "B": "Optimum temperature",
+      "C": "Boiling point",
+      "D": "Room temperature always"
+    },
+    "correct_answer": "B",
+    "explanation": "Maximum activity occurs at optimum temperature."
+  },
+  {
+    "source_sentence": "Low temperature preserves the enzyme in a temporarily inactive state whereas high temperature destroys enzymatic activity because proteins are denatured by heat.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "High temperature destroys enzyme activity because:",
+    "options": {
+      "A": "Substrate is consumed",
+      "B": "Proteins are denatured by heat",
+      "C": "pH automatically becomes zero",
+      "D": "Cofactors multiply"
+    },
+    "correct_answer": "B",
+    "explanation": "Heat denatures proteins destroying enzyme activity."
+  },
+  {
+    "source_sentence": "The reaction ultimately reaches a maximum velocity (Vmax) which is not exceeded by any further rise in concentration of the substrate.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "When all enzyme molecules are saturated with substrate, the reaction reaches:",
+    "options": {
+      "A": "Zero velocity",
+      "B": "Vmax",
+      "C": "Negative rate",
+      "D": "Infinite rate"
+    },
+    "correct_answer": "B",
+    "explanation": "Maximum velocity Vmax is reached at enzyme saturation."
+  },
+  {
+    "source_sentence": "When the inhibitor closely resembles the substrate in its molecular structure and inhibits the activity of the enzyme, it is known as competitive inhibitor.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "A competitive inhibitor:",
+    "options": {
+      "A": "Permanently destroys enzyme structure unrelated to substrate",
+      "B": "Resembles substrate and competes for active site",
+      "C": "Always binds away from active site",
+      "D": "Increases Vmax"
+    },
+    "correct_answer": "B",
+    "explanation": "Competitive inhibitors resemble substrate and compete for the active site."
+  },
+  {
+    "source_sentence": "e.g., inhibition of succinic dehydrogenase by malonate which closely resembles the substrate succinate in structure.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Malonate inhibits succinic dehydrogenase by:",
+    "options": {
+      "A": "Denaturing the enzyme irreversibly",
+      "B": "Competing with succinate for the active site",
+      "C": "Hydrolysing succinate",
+      "D": "Acting as a co-enzyme"
+    },
+    "correct_answer": "B",
+    "explanation": "Malonate is a competitive inhibitor resembling succinate."
+  },
+  {
+    "source_sentence": "Enzymes are divided into 6 classes each with 4-13 subclasses and named accordingly by a four-digit number.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes are classified into how many major classes?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "10",
+      "D": "20"
+    },
+    "correct_answer": "B",
+    "explanation": "Enzymes are divided into 6 classes."
+  },
+  {
+    "source_sentence": "Oxidoreductases/dehydrogenases: Enzymes which catalyse oxidoreduction between two substrates S and S'",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes that catalyse oxidoreduction reactions are:",
+    "options": {
+      "A": "Transferases",
+      "B": "Oxidoreductases",
+      "C": "Hydrolases",
+      "D": "Ligases"
+    },
+    "correct_answer": "B",
+    "explanation": "Oxidoreductases catalyse oxidoreduction."
+  },
+  {
+    "source_sentence": "Transferases: Enzymes catalysing a transfer of a group, G (other than hydrogen) between a pair of substrate S and S'",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes that transfer a functional group between substrates are:",
+    "options": {
+      "A": "Transferases",
+      "B": "Lyases",
+      "C": "Isomerases",
+      "D": "Hydrolases"
+    },
+    "correct_answer": "A",
+    "explanation": "Transferases catalyse group transfer."
+  },
+  {
+    "source_sentence": "Hydrolases: Enzymes catalysing hydrolysis of ester, ether, peptide, glycosidic, C-C, C-halide or P-N bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes that catalyse hydrolysis of bonds such as peptide and glycosidic bonds are:",
+    "options": {
+      "A": "Lyases",
+      "B": "Hydrolases",
+      "C": "Ligases",
+      "D": "Oxidoreductases"
+    },
+    "correct_answer": "B",
+    "explanation": "Hydrolases catalyse hydrolysis reactions."
+  },
+  {
+    "source_sentence": "Lyases: Enzymes that catalyse removal of groups from substrates by mechanisms other than hydrolysis leaving double bonds.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Lyases catalyse:",
+    "options": {
+      "A": "Hydrolysis only",
+      "B": "Group removal without hydrolysis forming double bonds",
+      "C": "Oxidoreduction only",
+      "D": "Linking of two compounds only"
+    },
+    "correct_answer": "B",
+    "explanation": "Lyases remove groups non-hydrolytically leaving double bonds."
+  },
+  {
+    "source_sentence": "Isomerases: Includes all enzymes catalysing inter-conversion of optical, geometric or positional isomers.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes that interconvert isomers are:",
+    "options": {
+      "A": "Isomerases",
+      "B": "Transferases",
+      "C": "Hydrolases",
+      "D": "Oxidoreductases"
+    },
+    "correct_answer": "A",
+    "explanation": "Isomerases catalyse isomer interconversion."
+  },
+  {
+    "source_sentence": "Ligases: Enzymes catalysing the linking together of 2 compounds",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Enzymes that join two molecules together are:",
+    "options": {
+      "A": "Lyases",
+      "B": "Ligases",
+      "C": "Hydrolases",
+      "D": "Isomerases"
+    },
+    "correct_answer": "B",
+    "explanation": "Ligases catalyse joining of two compounds."
+  },
+  {
+    "source_sentence": "However, there are a number of cases in which non-protein constituents called cofactors are bound to the enzyme to make the enzyme catalytically active. In these instances, the protein portion of the enzymes is called the apoenzyme.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The protein portion of an enzyme requiring a cofactor is called:",
+    "options": {
+      "A": "Holoenzyme",
+      "B": "Apoenzyme",
+      "C": "Ribozyme",
+      "D": "Substrate"
+    },
+    "correct_answer": "B",
+    "explanation": "The protein part alone is the apoenzyme."
+  },
+  {
+    "source_sentence": "Prosthetic groups are organic compounds and are distinguished from other cofactors in that they are tightly bound to the apoenzyme.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Prosthetic groups differ from co-enzymes in being:",
+    "options": {
+      "A": "Always metal ions",
+      "B": "Tightly bound to the apoenzyme",
+      "C": "Never organic",
+      "D": "Unnecessary for catalysis"
+    },
+    "correct_answer": "B",
+    "explanation": "Prosthetic groups are tightly bound organic cofactors."
+  },
+  {
+    "source_sentence": "For example, in peroxidase and catalase, haem is the prosthetic group and it is a part of the active site of the enzyme.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "In catalase and peroxidase, the prosthetic group is:",
+    "options": {
+      "A": "Zinc",
+      "B": "Haem",
+      "C": "Niacin",
+      "D": "ATP"
+    },
+    "correct_answer": "B",
+    "explanation": "Haem is the prosthetic group in catalase and peroxidase."
+  },
+  {
+    "source_sentence": "The essential chemical components of many coenzymes are vitamins, e.g., coenzyme nicotinamide adenine dinucleotide (NAD) and NADP contain the vitamin niacin.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "NAD and NADP contain which vitamin?",
+    "options": {
+      "A": "Thiamine",
+      "B": "Niacin",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "correct_answer": "B",
+    "explanation": "NAD and NADP contain the vitamin niacin."
+  },
+  {
+    "source_sentence": "e.g., zinc is a cofactor for the proteolytic enzyme carboxypeptidase.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Zinc acts as a cofactor for:",
+    "options": {
+      "A": "Catalase",
+      "B": "Carboxypeptidase",
+      "C": "Carbonic anhydrase only",
+      "D": "RuBisCO"
+    },
+    "correct_answer": "B",
+    "explanation": "Zinc is a cofactor for carboxypeptidase."
+  },
+  {
+    "source_sentence": "Catalytic activity is lost when the co-factor is removed from the enzyme which testifies that they play a crucial role in the catalytic activity of the enzyme.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "When a cofactor is removed from an enzyme:",
+    "options": {
+      "A": "Activity increases",
+      "B": "Catalytic activity is lost",
+      "C": "Substrate specificity disappears only",
+      "D": "Quaternary structure forms"
+    },
+    "correct_answer": "B",
+    "explanation": "Removing cofactors abolishes catalytic activity."
+  },
+  {
+    "source_sentence": "There are 20 types of amino acids and 5 types of nucleotides.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "How many types of nucleotides are mentioned in the chapter summary?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "20"
+    },
+    "correct_answer": "C",
+    "explanation": "The summary states there are 5 types of nucleotides."
+  },
+  {
+    "source_sentence": "Only three types of macromolecules, i.e., proteins, nucleic acids and polysaccharides are found in living systems.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "True macromolecules found in living systems include:",
+    "options": {
+      "A": "Proteins, nucleic acids and polysaccharides",
+      "B": "Only lipids",
+      "C": "Only water and ions",
+      "D": "Only secondary metabolites"
+    },
+    "correct_answer": "A",
+    "explanation": "Three true macromolecule types: proteins, nucleic acids, polysaccharides."
+  },
+  {
+    "source_sentence": "Nucleic acids carry hereditary information and are passed on from parental generation to progeny.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Nucleic acids function to:",
+    "options": {
+      "A": "Store energy only",
+      "B": "Carry hereditary information",
+      "C": "Form cell walls only",
+      "D": "Catalyse all reactions alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleic acids carry and transmit hereditary information."
+  },
+  {
+    "source_sentence": "The most abundant chemical in living organisms is water.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "The most abundant chemical in living organisms is:",
+    "options": {
+      "A": "Protein",
+      "B": "Lipid",
+      "C": "Water",
+      "D": "DNA"
+    },
+    "correct_answer": "C",
+    "explanation": "Water is the most abundant chemical in living organisms."
+  },
+  {
+    "source_sentence": "Fats and oils are glycerides in which fatty acids are esterified to glycerol.",
+    "chapter": "Chapter 9: Biomolecules",
+    "question": "Fats and oils are:",
+    "options": {
+      "A": "Polymers of nucleotides",
+      "B": "Glycerides with fatty acids esterified to glycerol",
+      "C": "Chains of amino acids",
+      "D": "Homopolymers of fructose only"
+    },
+    "correct_answer": "B",
+    "explanation": "Fats and oils are glycerides with esterified fatty acids."
+  }
+]

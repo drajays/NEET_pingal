@@ -1,0 +1,121 @@
+{
+  "book": "NCERT Class 11 Biology",
+  "total_chapters": 19,
+  "total_mcqs": 2124,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Living World",
+      "mcq_file": "chapter_01_the_living_world_mcqs.json",
+      "mcq_count": 113
+    },
+    {
+      "chapter_number": 2,
+      "title": "Biological Classification",
+      "mcq_file": "chapter_02_biological_classification_mcqs.json",
+      "mcq_count": 146
+    },
+    {
+      "chapter_number": 3,
+      "title": "Plant Kingdom",
+      "mcq_file": "chapter_03_plant_kingdom_mcqs.json",
+      "mcq_count": 107
+    },
+    {
+      "chapter_number": 4,
+      "title": "Animal Kingdom",
+      "mcq_file": "chapter_04_animal_kingdom_mcqs.json",
+      "mcq_count": 190
+    },
+    {
+      "chapter_number": 5,
+      "title": "Morphology of Flowering Plants",
+      "mcq_file": "chapter_05_morphology_of_flowering_plants_mcqs.json",
+      "mcq_count": 111
+    },
+    {
+      "chapter_number": 6,
+      "title": "Anatomy of Flowering Plants",
+      "mcq_file": "chapter_06_anatomy_of_flowering_plants_mcqs.json",
+      "mcq_count": 87
+    },
+    {
+      "chapter_number": 7,
+      "title": "Structural Organisation in Animals",
+      "mcq_file": "chapter_07_structural_organisation_in_animals_mcqs.json",
+      "mcq_count": 90
+    },
+    {
+      "chapter_number": 8,
+      "title": "Cell: The Unit of Life",
+      "mcq_file": "chapter_08_cell_the_unit_of_life_mcqs.json",
+      "mcq_count": 115
+    },
+    {
+      "chapter_number": 9,
+      "title": "Biomolecules",
+      "mcq_file": "chapter_09_biomolecules_mcqs.json",
+      "mcq_count": 117
+    },
+    {
+      "chapter_number": 10,
+      "title": "Cell Cycle and Cell Division",
+      "mcq_file": "chapter_10_cell_cycle_and_cell_division_mcqs.json",
+      "mcq_count": 92
+    },
+    {
+      "chapter_number": 11,
+      "title": "Photosynthesis in Higher Plants",
+      "mcq_file": "chapter_11_photosynthesis_in_higher_plants_mcqs.json",
+      "mcq_count": 119
+    },
+    {
+      "chapter_number": 12,
+      "title": "Respiration in Plants",
+      "mcq_file": "chapter_12_respiration_in_plants_mcqs.json",
+      "mcq_count": 100
+    },
+    {
+      "chapter_number": 13,
+      "title": "Plant Growth and Development",
+      "mcq_file": "chapter_13_plant_growth_and_development_mcqs.json",
+      "mcq_count": 99
+    },
+    {
+      "chapter_number": 14,
+      "title": "Breathing and Exchange of Gases",
+      "mcq_file": "chapter_14_breathing_and_exchange_of_gases_mcqs.json",
+      "mcq_count": 100
+    },
+    {
+      "chapter_number": 15,
+      "title": "Body Fluids and Circulation",
+      "mcq_file": "chapter_15_body_fluids_and_circulation_mcqs.json",
+      "mcq_count": 110
+    },
+    {
+      "chapter_number": 16,
+      "title": "Excretory Products and Their Elimination",
+      "mcq_file": "chapter_16_excretory_products_and_their_elimination_mcqs.json",
+      "mcq_count": 101
+    },
+    {
+      "chapter_number": 17,
+      "title": "Locomotion and Movement",
+      "mcq_file": "chapter_17_locomotion_and_movement_mcqs.json",
+      "mcq_count": 110
+    },
+    {
+      "chapter_number": 18,
+      "title": "Neural Control and Coordination",
+      "mcq_file": "chapter_18_neural_control_and_coordination_mcqs.json",
+      "mcq_count": 100
+    },
+    {
+      "chapter_number": 19,
+      "title": "Chemical Coordination and Integration",
+      "mcq_file": "chapter_19_chemical_coordination_and_integration_mcqs.json",
+      "mcq_count": 117
+    }
+  ]
+}

@@ -1,0 +1,1432 @@
+[
+  {
+    "source_sentence": "All flowering plants show sexual reproduction.",
+    "question": "Which mode of reproduction is exhibited by all flowering plants?",
+    "options": {
+      "A": "Asexual reproduction only",
+      "B": "Sexual reproduction",
+      "C": "Vegetative propagation only",
+      "D": "Apomixis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Every flowering plant (angiosperm) reproduces sexually through flowers.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "To a biologist, flowers are morphological and embryological marvels and the sites of sexual reproduction.",
+    "question": "In angiosperms, sexual reproduction takes place in:",
+    "options": {
+      "A": "Roots",
+      "B": "Stems",
+      "C": "Flowers",
+      "D": "Leaves"
+    },
+    "correct_answer": "C",
+    "explanation": "Flowers are the specialised organs where sexual reproduction occurs in flowering plants.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The androecium consists of a whorl of stamens representing the male reproductive organ and the gynoecium represents the female reproductive organ.",
+    "question": "The male and female reproductive organs of a flower are respectively:",
+    "options": {
+      "A": "Gynoecium and androecium",
+      "B": "Androecium and gynoecium",
+      "C": "Calyx and corolla",
+      "D": "Stigma and anther"
+    },
+    "correct_answer": "B",
+    "explanation": "Androecium (stamens) is male; gynoecium (pistil) is female.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Can you name the two parts in a flower in which the two most important units of sexual reproduction develop?",
+    "question": "Male and female gametophytes develop respectively in:",
+    "options": {
+      "A": "Petals and sepals",
+      "B": "Anther and embryo sac within ovule",
+      "C": "Style and filament",
+      "D": "Ovary wall and thalamus"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollen grains (male gametophytes) form in anthers; embryo sac (female gametophyte) forms in ovules.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Several hormonal and structural changes are initiated which lead to the differentiation and further development of the floral primordium.",
+    "question": "Formation of a flower on a plant is preceded by:",
+    "options": {
+      "A": "Only mechanical injury",
+      "B": "Hormonal and structural changes leading to floral primordium differentiation",
+      "C": "Immediate meiosis in roots",
+      "D": "Degeneration of the shoot apex"
+    },
+    "correct_answer": "B",
+    "explanation": "Flowering involves hormonal and structural changes that initiate floral primordium development.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Figure 1.2a shows the two parts of a typical stamen – the long and slender stalk called the filament, and the terminal generally bilobed structure called the anther.",
+    "question": "The two parts of a typical stamen are:",
+    "options": {
+      "A": "Stigma and style",
+      "B": "Filament and anther",
+      "C": "Ovary and ovule",
+      "D": "Petal and sepal"
+    },
+    "correct_answer": "B",
+    "explanation": "A stamen consists of a filament (stalk) and an anther (pollen-bearing part).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "A typical angiosperm anther is bilobed with each lobe having two theca, i.e., they are dithecous.",
+    "question": "A typical angiosperm anther is:",
+    "options": {
+      "A": "Unilobed and monothecous",
+      "B": "Bilobed and dithecous",
+      "C": "Trilobed and trithecous",
+      "D": "Unilocular and tetrathecous"
+    },
+    "correct_answer": "B",
+    "explanation": "Each anther lobe contains two theca, making the anther bilobed and dithecous.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The anther is a four-sided (tetragonal) structure consisting of four microsporangia located at the corners, two in each lobe.",
+    "question": "How many microsporangia are present in a typical angiosperm anther?",
+    "options": {
+      "A": "Two",
+      "B": "Four",
+      "C": "Six",
+      "D": "Eight"
+    },
+    "correct_answer": "B",
+    "explanation": "The tetragonal anther has four microsporangia, two in each lobe.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The microsporangia develop further and become pollen sacs.",
+    "question": "Mature microsporangia are also called:",
+    "options": {
+      "A": "Embryo sacs",
+      "B": "Pollen sacs",
+      "C": "Nucellus",
+      "D": "Tapetum"
+    },
+    "correct_answer": "B",
+    "explanation": "Developing microsporangia differentiate into pollen sacs filled with pollen grains.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "It is generally surrounded by four wall layers—the epidermis, endothecium, middle layers and the tapetum.",
+    "question": "The four wall layers of a microsporangium from outside to inside are:",
+    "options": {
+      "A": "Tapetum, middle layers, endothecium, epidermis",
+      "B": "Epidermis, endothecium, middle layers, tapetum",
+      "C": "Integument, nucellus, endothecium, tapetum",
+      "D": "Exine, intine, endothecium, tapetum"
+    },
+    "correct_answer": "B",
+    "explanation": "The microsporangium wall has epidermis, endothecium, middle layers and innermost tapetum.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The outer three wall layers perform the function of protection and help in dehiscence of anther to release the pollen.",
+    "question": "Dehiscence of the anther to release pollen is aided by:",
+    "options": {
+      "A": "Tapetum only",
+      "B": "Sporogenous tissue",
+      "C": "The outer three wall layers",
+      "D": "Germ pores"
+    },
+    "correct_answer": "C",
+    "explanation": "Epidermis, endothecium and middle layers protect the sporangium and facilitate anther dehiscence.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The innermost wall layer is the tapetum. It nourishes the developing pollen grains.",
+    "question": "The tapetum of the anther:",
+    "options": {
+      "A": "Forms the pollen exine",
+      "B": "Nourishes developing pollen grains",
+      "C": "Becomes the integument",
+      "D": "Produces nectar"
+    },
+    "correct_answer": "B",
+    "explanation": "Tapetal cells provide nutrition to developing microspores/pollen grains.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "When the anther is young, a group of compactly arranged homogenous cells called the sporogenous tissue occupies the centre of each microsporangium.",
+    "question": "The centrally located cells in a young microsporangium are called:",
+    "options": {
+      "A": "Tapetum",
+      "B": "Sporogenous tissue",
+      "C": "Endothecium",
+      "D": "Synergids"
+    },
+    "correct_answer": "B",
+    "explanation": "Sporogenous tissue occupies the centre and gives rise to microspore mother cells.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The process of formation of microspores from a pollen mother cell (PMC) through meiosis is called microsporogenesis.",
+    "question": "Microsporogenesis is:",
+    "options": {
+      "A": "Mitotic division of egg cell",
+      "B": "Formation of microspores from PMC by meiosis",
+      "C": "Fusion of polar nuclei",
+      "D": "Development of embryo sac from nucellus"
+    },
+    "correct_answer": "B",
+    "explanation": "Microsporogenesis is meiotic formation of microspores from the pollen mother cell.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The microspores, as they are formed, are arranged in a cluster of four cells—the microspore tetrad.",
+    "question": "Immediately after meiosis in microsporogenesis, microspores are arranged as:",
+    "options": {
+      "A": "A single cell",
+      "B": "A microspore tetrad of four cells",
+      "C": "Eight nuclei without walls",
+      "D": "Two synergids"
+    },
+    "correct_answer": "B",
+    "explanation": "Each PMC produces four microspores grouped as a tetrad.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "As the anthers mature and dehydrate, the microspores dissociate from each other and develop into pollen grains.",
+    "question": "Microspores develop into pollen grains when anthers:",
+    "options": {
+      "A": "Absorb water and remain closed",
+      "B": "Mature and dehydrate",
+      "C": "Lose all sporogenous tissue before meiosis",
+      "D": "Develop into ovules"
+    },
+    "correct_answer": "B",
+    "explanation": "Maturation and dehydration of anthers allow microspores to separate and become pollen grains.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Inside each microsporangium several thousands of microspores or pollen grains are formed that are released with the dehiscence of anther.",
+    "question": "Pollen grains are released from the anther through:",
+    "options": {
+      "A": "Triple fusion",
+      "B": "Anther dehiscence",
+      "C": "Micropyle opening",
+      "D": "Seed germination"
+    },
+    "correct_answer": "B",
+    "explanation": "Thousands of pollen grains are liberated when the mature anther dehisces.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Pollen grains represent the male gametophytes.",
+    "question": "Pollen grains in angiosperms represent the:",
+    "options": {
+      "A": "Female gametophyte",
+      "B": "Male gametophyte",
+      "C": "Sporophyte",
+      "D": "Endosperm tissue"
+    },
+    "correct_answer": "B",
+    "explanation": "Each pollen grain is the male gametophyte generation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Pollen grains are generally spherical measuring about 25-50 micrometers in diameter.",
+    "question": "The typical diameter of pollen grains is approximately:",
+    "options": {
+      "A": "5–10 μm",
+      "B": "25–50 μm",
+      "C": "100–200 μm",
+      "D": "1–2 mm"
+    },
+    "correct_answer": "B",
+    "explanation": "Most pollen grains are roughly spherical and 25–50 micrometres across.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The hard outer layer called the exine is made up of sporopollenin which is one of the most resistant organic material known.",
+    "question": "The exine of pollen grain is composed of:",
+    "options": {
+      "A": "Cellulose and pectin",
+      "B": "Sporopollenin",
+      "C": "Lignin",
+      "D": "Chitin"
+    },
+    "correct_answer": "B",
+    "explanation": "Exine contains sporopollenin, an extremely resistant organic substance.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Pollen grain exine has prominent apertures called germ pores where sporopollenin is absent.",
+    "question": "Germ pores on the pollen exine are sites where:",
+    "options": {
+      "A": "Sporopollenin is absent and pollen tube emerges",
+      "B": "Intine is absent",
+      "C": "Generative cell divides",
+      "D": "Tapetum attaches"
+    },
+    "correct_answer": "A",
+    "explanation": "Germ pores are thin areas lacking sporopollenin through which pollen tubes germinate.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Pollen grains are well-preserved as fossils because of the presence of sporopollenin.",
+    "question": "Pollen grains are preserved well in fossils due to:",
+    "options": {
+      "A": "High water content",
+      "B": "Presence of sporopollenin in exine",
+      "C": "Sticky intine",
+      "D": "Large germ pores"
+    },
+    "correct_answer": "B",
+    "explanation": "Resistant sporopollenin allows pollen to persist in fossil records.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The inner wall of the pollen grain is called the intine. It is a thin and continuous layer made up of cellulose and pectin.",
+    "question": "The intine of a pollen grain is made of:",
+    "options": {
+      "A": "Sporopollenin",
+      "B": "Cellulose and pectin",
+      "C": "Suberin",
+      "D": "Cutin only"
+    },
+    "correct_answer": "B",
+    "explanation": "Intine is the inner thin wall composed of cellulose and pectin.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "When the pollen grain is mature it contains two cells, the vegetative cell and generative cell.",
+    "question": "A mature pollen grain at the 2-celled stage contains:",
+    "options": {
+      "A": "Two male gametes only",
+      "B": "Vegetative cell and generative cell",
+      "C": "Egg cell and synergid",
+      "D": "Two polar nuclei"
+    },
+    "correct_answer": "B",
+    "explanation": "At 2-celled stage the pollen has a large vegetative cell and a smaller generative cell.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In over 60 per cent of angiosperms, pollen grains are shed at this 2-celled stage.",
+    "question": "In more than 60% of angiosperms, pollen is shed at:",
+    "options": {
+      "A": "1-celled stage",
+      "B": "2-celled stage",
+      "C": "4-celled stage",
+      "D": "8-nucleate stage"
+    },
+    "correct_answer": "B",
+    "explanation": "Majority of species release pollen with vegetative and generative cells only.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In the remaining species, the generative cell divides mitotically to give rise to the two male gametes before pollen grains are shed (3-celled stage).",
+    "question": "In the 3-celled pollen stage, the pollen grain contains:",
+    "options": {
+      "A": "Vegetative cell and two male gametes",
+      "B": "Two synergids and an egg",
+      "C": "Three polar nuclei",
+      "D": "Four microspores"
+    },
+    "correct_answer": "A",
+    "explanation": "Before shedding, generative cell may divide to form two male gametes (3-celled pollen).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In some cereals such as rice and wheat, pollen grains lose viability within 30 minutes of their release.",
+    "question": "Pollen viability in rice and wheat lasts approximately:",
+    "options": {
+      "A": "A few seconds",
+      "B": "About 30 minutes",
+      "C": "Several months",
+      "D": "Indefinitely"
+    },
+    "correct_answer": "B",
+    "explanation": "Cereal pollen loses viability quickly, within about half an hour of release.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "It is possible to store pollen grains of a large number of species for years in liquid nitrogen (-196°C).",
+    "question": "Long-term storage of pollen for breeding programmes uses:",
+    "options": {
+      "A": "Room temperature only",
+      "B": "Liquid nitrogen at −196°C",
+      "C": "Boiling water",
+      "D": "Strong acids"
+    },
+    "correct_answer": "B",
+    "explanation": "Cryopreservation in liquid nitrogen allows pollen banks similar to seed banks.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The gynoecium represents the female reproductive part of the flower.",
+    "question": "The female reproductive part of a flower is:",
+    "options": {
+      "A": "Androecium",
+      "B": "Gynoecium",
+      "C": "Corolla",
+      "D": "Calyx"
+    },
+    "correct_answer": "B",
+    "explanation": "Gynoecium, consisting of pistil(s), is the female reproductive whorl.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The gynoecium may consist of a single pistil (monocarpellary) or may have more than one pistil (multicarpellary).",
+    "question": "A gynoecium with a single pistil is termed:",
+    "options": {
+      "A": "Multicarpellary",
+      "B": "Monocarpellary",
+      "C": "Apocarpous",
+      "D": "Dioecious"
+    },
+    "correct_answer": "B",
+    "explanation": "Monocarpellary gynoecium has one pistil; multicarpellary has more than one.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "When there are more than one, the pistils may be fused together (syncarpous) or may be free (apocarpous).",
+    "question": "Fused pistils in a multicarpellary gynoecium are called:",
+    "options": {
+      "A": "Apocarpous",
+      "B": "Syncarpous",
+      "C": "Monothecous",
+      "D": "Cleistogamous"
+    },
+    "correct_answer": "B",
+    "explanation": "Syncarpous pistils are united; apocarpous pistils remain free.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Each pistil has three parts, the stigma, style and ovary.",
+    "question": "The three parts of a pistil are:",
+    "options": {
+      "A": "Anther, filament, connective",
+      "B": "Stigma, style and ovary",
+      "C": "Integument, nucellus, chalaza",
+      "D": "Epicotyl, hypocotyl, radicle"
+    },
+    "correct_answer": "B",
+    "explanation": "A pistil comprises stigma, style and ovary.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The stigma serves as a landing platform for pollen grains.",
+    "question": "The stigma of a pistil functions as:",
+    "options": {
+      "A": "A protective seed coat",
+      "B": "A landing platform for pollen grains",
+      "C": "A pollen-producing structure",
+      "D": "An endosperm storage tissue"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollen lands on the receptive stigma surface during pollination.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Arising from the placenta are the megasporangia, commonly called ovules.",
+    "question": "Ovules are also called:",
+    "options": {
+      "A": "Microsporangia",
+      "B": "Megasporangia",
+      "C": "Tapetum",
+      "D": "Pericarp"
+    },
+    "correct_answer": "B",
+    "explanation": "Each ovule is a megasporangium containing the embryo sac.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The ovule is a small structure attached to the placenta by means of a stalk called funicle.",
+    "question": "The stalk attaching an ovule to the placenta is:",
+    "options": {
+      "A": "Funicle",
+      "B": "Filiform apparatus",
+      "C": "Style",
+      "D": "Coleorrhiza"
+    },
+    "correct_answer": "A",
+    "explanation": "Funicle connects the ovule body to the placenta.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The body of the ovule fuses with funicle in the region called hilum.",
+    "question": "Hilum of an ovule represents:",
+    "options": {
+      "A": "Opening for pollen tube entry",
+      "B": "Junction between ovule body and funicle",
+      "C": "Basal region opposite micropyle",
+      "D": "Female gametophyte"
+    },
+    "correct_answer": "B",
+    "explanation": "Hilum is where the ovule body joins the funicle.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Integuments encircle the nucellus except at the tip where a small opening called the micropyle is organised.",
+    "question": "The small opening in integuments at the tip of ovule is:",
+    "options": {
+      "A": "Chalaza",
+      "B": "Micropyle",
+      "C": "Hilum",
+      "D": "Germ pore"
+    },
+    "correct_answer": "B",
+    "explanation": "Micropyle is the opening through which pollen tube enters the ovule.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Opposite the micropylar end, is the chalaza, representing the basal part of the ovule.",
+    "question": "The basal part of an ovule opposite the micropyle is:",
+    "options": {
+      "A": "Chalaza",
+      "B": "Funicle",
+      "C": "Synergid",
+      "D": "Scutellum"
+    },
+    "correct_answer": "A",
+    "explanation": "Chalaza lies at the base of the ovule opposite the micropylar end.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Enclosed within the integuments is a mass of cells called the nucellus.",
+    "question": "The mass of cells enclosed within ovule integuments is:",
+    "options": {
+      "A": "Endosperm",
+      "B": "Nucellus",
+      "C": "Tapetum",
+      "D": "Perisperm only"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucellus is the central tissue of the ovule enclosing the embryo sac.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The number of ovules in an ovary may be one (wheat, paddy, mango) to many (papaya, water melon, orchids).",
+    "question": "Which of the following typically has many ovules per ovary?",
+    "options": {
+      "A": "Wheat",
+      "B": "Paddy",
+      "C": "Watermelon",
+      "D": "Mango"
+    },
+    "correct_answer": "C",
+    "explanation": "Watermelon, papaya and orchids have many ovules; wheat, paddy and mango often have one.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The process of formation of megaspores from the megaspore mother cell is called megasporogenesis.",
+    "question": "Megasporogenesis is:",
+    "options": {
+      "A": "Mitotic formation of pollen",
+      "B": "Formation of megaspores from MMC by meiosis",
+      "C": "Fusion of male and female gametes",
+      "D": "Development of fruit from ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Megasporogenesis is meiotic production of megaspores from the megaspore mother cell.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Ovules generally differentiate a single megaspore mother cell (MMC) in the micropylar region of the nucellus.",
+    "question": "The megaspore mother cell (MMC) is typically located in the:",
+    "options": {
+      "A": "Chalazal end of anther",
+      "B": "Micropylar region of nucellus",
+      "C": "Central cell of pollen grain",
+      "D": "Pericarp"
+    },
+    "correct_answer": "B",
+    "explanation": "A single MMC differentiates in the micropylar part of the nucellus.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "This method of embryo sac formation from a single megaspore is termed monosporic development.",
+    "question": "Embryo sac development from a single functional megaspore is called:",
+    "options": {
+      "A": "Diplospory",
+      "B": "Monosporic development",
+      "C": "Polyembryony",
+      "D": "Apomixis only"
+    },
+    "correct_answer": "B",
+    "explanation": "Monosporic development uses one megaspore to form the female gametophyte.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "These mitotic divisions are strictly free nuclear, that is, nuclear divisions are not followed immediately by cell wall formation.",
+    "question": "Early embryo sac development involves:",
+    "options": {
+      "A": "Free nuclear divisions without immediate cell wall formation",
+      "B": "Only meiotic divisions",
+      "C": "Immediate formation of 7 cells after first division",
+      "D": "No nuclear division"
+    },
+    "correct_answer": "A",
+    "explanation": "Mitosis in the embryo sac initially occurs without cytokinesis (free-nuclear stage).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Three cells are grouped together at the micropylar end and constitute the egg apparatus.",
+    "question": "The egg apparatus at the micropylar end consists of:",
+    "options": {
+      "A": "Three antipodal cells",
+      "B": "Two synergids and one egg cell",
+      "C": "Two polar nuclei only",
+      "D": "Four megaspores"
+    },
+    "correct_answer": "B",
+    "explanation": "Egg apparatus comprises two synergids flanking one egg cell.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The synergids have special cellular thickenings at the micropylar tip called filiform apparatus.",
+    "question": "Filiform apparatus is found in:",
+    "options": {
+      "A": "Antipodal cells",
+      "B": "Synergids",
+      "C": "Tapetal cells",
+      "D": "Cotyledons"
+    },
+    "correct_answer": "B",
+    "explanation": "Synergids possess filiform apparatus that guides the pollen tube.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Three cells are at the chalazal end and are called the antipodals.",
+    "question": "Antipodal cells are located at:",
+    "options": {
+      "A": "Micropylar end",
+      "B": "Chalazal end of embryo sac",
+      "C": "Anther wall",
+      "D": "Pericarp"
+    },
+    "correct_answer": "B",
+    "explanation": "Three antipodal cells lie at the chalazal end of the mature embryo sac.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Thus, a typical angiosperm embryo sac, at maturity, though 8-nucleate is 7-celled.",
+    "question": "A mature angiosperm embryo sac is:",
+    "options": {
+      "A": "7-nucleate and 8-celled",
+      "B": "8-nucleate and 7-celled",
+      "C": "4-nucleate and 4-celled",
+      "D": "2-nucleate and 2-celled"
+    },
+    "correct_answer": "B",
+    "explanation": "Two polar nuclei share the central cell, giving 8 nuclei in 7 cells.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Cells of the sporogenous tissue lying in the centre of the microsporangium, undergo meiosis (microsporogenesis) to form tetrads of microspores.",
+    "question": "Which statement correctly distinguishes microsporogenesis from megasporogenesis?",
+    "options": {
+      "A": "Both occur by mitosis in anther",
+      "B": "Microsporogenesis forms microspores in anther; megasporogenesis forms megaspores in ovule",
+      "C": "Both produce pollen grains directly",
+      "D": "Megasporogenesis occurs in tapetum"
+    },
+    "correct_answer": "B",
+    "explanation": "Microsporogenesis is in anther microsporangia; megasporogenesis in ovule nucellus.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Transfer of pollen grains (shed from the anther) to the stigma of a pistil is termed pollination.",
+    "question": "Pollination is defined as:",
+    "options": {
+      "A": "Fusion of gametes in embryo sac",
+      "B": "Transfer of pollen from anther to stigma",
+      "C": "Development of seed into seedling",
+      "D": "Formation of endosperm"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollination is pollen transfer from anther to stigma of a pistil.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Autogamy: In this type, pollination is achieved within the same flower.",
+    "question": "Autogamy refers to pollination:",
+    "options": {
+      "A": "Between flowers of different plants",
+      "B": "Within the same flower",
+      "C": "By wind only",
+      "D": "Without pollen transfer"
+    },
+    "correct_answer": "B",
+    "explanation": "Autogamy is self-pollination within the same flower.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Some plants such as Viola, Oxalis, and Commelina produce two types of flowers — chasmogamous flowers and cleistogamous flowers.",
+    "question": "Plants like Viola and Oxalis produce both:",
+    "options": {
+      "A": "Monoecious and dioecious flowers",
+      "B": "Chasmogamous and cleistogamous flowers",
+      "C": "Wind- and water-pollinated flowers only",
+      "D": "True and false fruits"
+    },
+    "correct_answer": "B",
+    "explanation": "These plants have open chasmogamous and closed cleistogamous flowers.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Geitonogamy – Transfer of pollen grains from the anther to the stigma of another flower of the same plant.",
+    "question": "Geitonogamy involves pollen transfer:",
+    "options": {
+      "A": "From anther to stigma of another flower on the same plant",
+      "B": "From anther to stigma of a different plant only",
+      "C": "Without any pollen movement",
+      "D": "Only within the same flower"
+    },
+    "correct_answer": "A",
+    "explanation": "Geitonogamy is pollen transfer between flowers of the same plant.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Xenogamy – Transfer of pollen grains from anther to the stigma of a different plant.",
+    "question": "Xenogamy is:",
+    "options": {
+      "A": "Transfer of pollen to stigma of a different plant",
+      "B": "Pollination within the same flower",
+      "C": "Pollination between flowers of same plant",
+      "D": "Absence of pollination"
+    },
+    "correct_answer": "A",
+    "explanation": "Xenogamy brings genetically different pollen from another plant to the stigma.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "This is the only type of pollination which during pollination brings genetically different types of pollen grains to the stigma.",
+    "question": "Which pollination type brings genetically different pollen to the stigma?",
+    "options": {
+      "A": "Autogamy",
+      "B": "Geitonogamy",
+      "C": "Xenogamy",
+      "D": "Cleistogamy"
+    },
+    "correct_answer": "C",
+    "explanation": "Only xenogamy introduces genetically distinct pollen from another plant.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Plants use two abiotic (wind and water) and one biotic (animals) agents to achieve pollination.",
+    "question": "Abiotic pollination agents include:",
+    "options": {
+      "A": "Bees and birds only",
+      "B": "Wind and water",
+      "C": "Bats and ants",
+      "D": "Insects only"
+    },
+    "correct_answer": "B",
+    "explanation": "Wind and water are abiotic; animals are biotic pollinators.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Majority of plants use biotic agents for pollination.",
+    "question": "Most flowering plants depend on ______ for pollination.",
+    "options": {
+      "A": "Wind alone",
+      "B": "Water alone",
+      "C": "Biotic agents (animals)",
+      "D": "Gravity only"
+    },
+    "correct_answer": "C",
+    "explanation": "The majority of angiosperms are animal-pollinated.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Wind pollination also requires that the pollen grains are light and non-sticky so that they can be transported in wind currents.",
+    "question": "Wind-pollinated flowers typically have pollen that is:",
+    "options": {
+      "A": "Heavy and sticky",
+      "B": "Light and non-sticky",
+      "C": "Ribbon-like and submerged",
+      "D": "Always sterile"
+    },
+    "correct_answer": "B",
+    "explanation": "Light, non-sticky pollen is easily carried by wind.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Wind-pollination is quite common in grasses.",
+    "question": "Wind pollination is especially common in:",
+    "options": {
+      "A": "Grasses",
+      "B": "Orchids only",
+      "C": "Aquatic monocots exclusively",
+      "D": "Cleistogamous plants only"
+    },
+    "correct_answer": "A",
+    "explanation": "Grasses are predominantly wind-pollinated.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Pollination by water is quite rare in flowering plants and is limited to about 30 genera, mostly monocotyledons.",
+    "question": "Water pollination in flowering plants occurs in approximately:",
+    "options": {
+      "A": "All aquatic angiosperms",
+      "B": "About 30 genera, mostly monocots",
+      "C": "Only dicot trees",
+      "D": "Every grass species"
+    },
+    "correct_answer": "B",
+    "explanation": "Water pollination is rare, known in roughly 30 genera, mainly monocotyledons.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In Vallisneria, the female flower reach the surface of water by the long stalk and the male flowers or pollen grains are released on to the surface of water.",
+    "question": "In Vallisneria pollination, male pollen reaches female flowers by:",
+    "options": {
+      "A": "Insect vectors",
+      "B": "Floating on water surface carried by currents",
+      "C": "Wind only above forest canopy",
+      "D": "Submerged ribbon-like pollen only"
+    },
+    "correct_answer": "B",
+    "explanation": "Vallisneria male pollen floats on water to reach surface-level female flowers.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Both wind and water pollinated flowers are not very colourful and do not produce nectar.",
+    "question": "Wind- and water-pollinated flowers generally lack:",
+    "options": {
+      "A": "Pollen grains",
+      "B": "Bright colour and nectar",
+      "C": "Stigma",
+      "D": "Ovules"
+    },
+    "correct_answer": "B",
+    "explanation": "They do not need to attract animals, so colour and nectar are reduced or absent.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Among the animals, insects, particularly bees are the dominant biotic pollinating agents.",
+    "question": "The dominant biotic pollinators among animals are:",
+    "options": {
+      "A": "Fish",
+      "B": "Insects, especially bees",
+      "C": "Earthworms",
+      "D": "Reptiles only"
+    },
+    "correct_answer": "B",
+    "explanation": "Insects, with bees leading, are the main animal pollinators.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Majority of insect-pollinated flowers are large, colourful, fragrant and rich in nectar.",
+    "question": "Insect-pollinated flowers are typically:",
+    "options": {
+      "A": "Small, dull and nectarless",
+      "B": "Large, colourful, fragrant and nectar-rich",
+      "C": "Always cleistogamous",
+      "D": "Submerged and mucilage-covered"
+    },
+    "correct_answer": "B",
+    "explanation": "Insect flowers attract pollinators with colour, fragrance and nectar rewards.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The pistil has the ability to recognise the pollen, whether it is of the right type (compatible) or of the wrong type (incompatible).",
+    "question": "The pistil can:",
+    "options": {
+      "A": "Only accept all pollen regardless of type",
+      "B": "Recognise and accept or reject compatible/incompatible pollen",
+      "C": "Produce pollen grains",
+      "D": "Prevent all pollen germination always"
+    },
+    "correct_answer": "B",
+    "explanation": "Pistil discriminates compatible pollen (accepted) from incompatible pollen (rejected).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Following compatible pollination, the pollen grain germinates on the stigma to produce a pollen tube through one of the germ pores.",
+    "question": "Pollen tube emerges through:",
+    "options": {
+      "A": "Micropyle of ovule directly from anther",
+      "B": "Germ pore of pollen grain on stigma",
+      "C": "Chalaza of ovule before pollination",
+      "D": "Hilum of seed"
+    },
+    "correct_answer": "B",
+    "explanation": "On compatible stigma, pollen germinates and tube grows out via a germ pore.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Pollen tube, after reaching the ovary, enters the ovule through the micropyle and then enters one of the synergids through the filiform apparatus.",
+    "question": "Pollen tube enters the embryo sac through:",
+    "options": {
+      "A": "Chalaza and antipodals",
+      "B": "Micropyle and filiform apparatus of synergid",
+      "C": "Hilum and funicle",
+      "D": "Exine only"
+    },
+    "correct_answer": "B",
+    "explanation": "Tube enters ovule via micropyle and penetrates a synergid via filiform apparatus.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "All these events—from pollen deposition on the stigma until pollen tubes enter the ovule—are together referred to as pollen-pistil interaction.",
+    "question": "Pollen-pistil interaction includes events from:",
+    "options": {
+      "A": "Seed germination to flowering",
+      "B": "Pollen deposition on stigma until pollen tube enters ovule",
+      "C": "Fruit ripening only",
+      "D": "Microsporogenesis only"
+    },
+    "correct_answer": "B",
+    "explanation": "It encompasses pollen landing on stigma through pollen tube entry into ovule.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "This is a genetic mechanism and prevents self-pollen from fertilising the ovules by inhibiting pollen germination or pollen tube growth in the pistil.",
+    "question": "Self-incompatibility prevents fertilisation by:",
+    "options": {
+      "A": "Inhibiting self-pollen germination or tube growth",
+      "B": "Destroying all ovules",
+      "C": "Preventing flower formation",
+      "D": "Eliminating nectar production"
+    },
+    "correct_answer": "A",
+    "explanation": "Self-incompatibility genetically blocks self-pollen at germination or tube growth stage.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "If both male and female flowers are present on the same plant such as castor and maize (monoecious), it prevents autogamy but not geitonogamy.",
+    "question": "Monoecious plants like maize prevent:",
+    "options": {
+      "A": "Both autogamy and geitonogamy",
+      "B": "Autogamy but not geitonogamy",
+      "C": "Geitonogamy but not autogamy",
+      "D": "All pollination"
+    },
+    "correct_answer": "B",
+    "explanation": "Separate male and female flowers on one plant stop autogamy but allow geitonogamy.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In several species such as papaya, male and female flowers are present on different plants, that is each plant is either male or female (dioecy).",
+    "question": "Dioecious species like papaya have:",
+    "options": {
+      "A": "Male and female flowers on the same plant",
+      "B": "Separate male or female plants",
+      "C": "Only cleistogamous flowers",
+      "D": "No flowers"
+    },
+    "correct_answer": "B",
+    "explanation": "Dioecy means male and female flowers on different individual plants.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "This condition prevents both autogamy and geitonogamy.",
+    "question": "Dioecy prevents:",
+    "options": {
+      "A": "Only xenogamy",
+      "B": "Both autogamy and geitonogamy",
+      "C": "Only wind pollination",
+      "D": "Seed formation entirely"
+    },
+    "correct_answer": "B",
+    "explanation": "With only one sex per plant, both self and geitonogamous pollination are prevented.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "If the female parent bears bisexual flowers, removal of anthers from the flower bud before the anther dehisces using a pair of forceps is necessary. This step is referred to as emasculation.",
+    "question": "Emasculation in plant breeding involves:",
+    "options": {
+      "A": "Removing stigma before pollination",
+      "B": "Removing anthers from bisexual flower buds before dehiscence",
+      "C": "Spraying growth hormones on fruits",
+      "D": "Storing pollen in liquid nitrogen"
+    },
+    "correct_answer": "B",
+    "explanation": "Emasculation removes anthers to prevent unwanted self-pollination.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Emasculated flowers have to be covered with a bag of suitable size, generally made up of butter paper, to prevent contamination of its stigma with unwanted pollen. This process is called bagging.",
+    "question": "Bagging in hybridisation is done to:",
+    "options": {
+      "A": "Increase pollen production",
+      "B": "Protect stigma from unwanted pollen contamination",
+      "C": "Promote cleistogamy",
+      "D": "Induce parthenocarpy"
+    },
+    "correct_answer": "B",
+    "explanation": "Bagging covers emasculated flowers to keep out contaminating pollen.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "If the female parent produces unisexual flowers, there is no need for emasculation.",
+    "question": "Emasculation is NOT required when the female parent has:",
+    "options": {
+      "A": "Bisexual flowers",
+      "B": "Unisexual female flowers",
+      "C": "Cleistogamous flowers only",
+      "D": "Wind-pollinated bisexual flowers"
+    },
+    "correct_answer": "B",
+    "explanation": "Female unisexual flowers lack anthers, so emasculation is unnecessary.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "One of the male gametes moves towards the egg cell and fuses with its nucleus thus completing the syngamy.",
+    "question": "Syngamy in angiosperms is fusion of:",
+    "options": {
+      "A": "Two polar nuclei",
+      "B": "Male gamete with egg cell nucleus",
+      "C": "Two synergids",
+      "D": "Pollen tube with integument"
+    },
+    "correct_answer": "B",
+    "explanation": "Syngamy is fusion of one male gamete nucleus with the egg nucleus forming zygote.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The other male gamete moves towards the two polar nuclei located in the central cell and fuses with them to produce a triploid primary endosperm nucleus (PEN).",
+    "question": "Triple fusion produces:",
+    "options": {
+      "A": "Diploid zygote",
+      "B": "Triploid primary endosperm nucleus (PEN)",
+      "C": "Haploid synergid",
+      "D": "Tetraploid nucellus"
+    },
+    "correct_answer": "B",
+    "explanation": "Male gamete fuses with two polar nuclei to form triploid PEN.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "As this involves the fusion of three haploid nuclei it is termed triple fusion.",
+    "question": "Triple fusion involves fusion of:",
+    "options": {
+      "A": "Two haploid nuclei",
+      "B": "Three haploid nuclei",
+      "C": "Four diploid nuclei",
+      "D": "One diploid and one haploid nucleus"
+    },
+    "correct_answer": "B",
+    "explanation": "One male gamete nucleus plus two polar nuclei (three haploid nuclei) fuse in triple fusion.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Since two types of fusions, syngamy and triple fusion take place in an embryo sac the phenomenon is termed double fertilisation, an event unique to flowering plants.",
+    "question": "Double fertilisation is unique to:",
+    "options": {
+      "A": "Gymnosperms",
+      "B": "Flowering plants (angiosperms)",
+      "C": "Ferns",
+      "D": "Algae"
+    },
+    "correct_answer": "B",
+    "explanation": "Simultaneous syngamy and triple fusion occur only in angiosperms.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The central cell after triple fusion becomes the primary endosperm cell (PEC) and develops into the endosperm while the zygote develops into an embryo.",
+    "question": "After double fertilisation, the zygote develops into ______ and PEN develops into ______.",
+    "options": {
+      "A": "Endosperm; embryo",
+      "B": "Embryo; endosperm",
+      "C": "Pericarp; seed coat",
+      "D": "Pollen; ovule"
+    },
+    "correct_answer": "B",
+    "explanation": "Zygote forms embryo; primary endosperm cell forms endosperm tissue.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Endosperm development precedes embryo development.",
+    "question": "In post-fertilisation development, which forms first?",
+    "options": {
+      "A": "Embryo before endosperm",
+      "B": "Endosperm before embryo",
+      "C": "Fruit before seed",
+      "D": "Pollen before ovule"
+    },
+    "correct_answer": "B",
+    "explanation": "Endosperm development always precedes embryo development.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In the most common type of endosperm development, the PEN undergoes successive nuclear divisions to give rise to free nuclei. This stage of endosperm development is called free-nuclear endosperm.",
+    "question": "Free-nuclear endosperm is characterised by:",
+    "options": {
+      "A": "Immediate cell wall formation after each division",
+      "B": "Nuclear divisions without accompanying cell walls initially",
+      "C": "Absence of any nuclear division",
+      "D": "Triploid zygote divisions only"
+    },
+    "correct_answer": "B",
+    "explanation": "PEN divides repeatedly forming free nuclei before cellularisation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The coconut water from tender coconut that you are familiar with, is nothing but free-nuclear endosperm.",
+    "question": "Tender coconut water represents:",
+    "options": {
+      "A": "Cellular endosperm only",
+      "B": "Free-nuclear endosperm",
+      "C": "Persistent perisperm",
+      "D": "Embryo sac fluid"
+    },
+    "correct_answer": "B",
+    "explanation": "Coconut water is the free-nuclear endosperm with thousands of nuclei.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Endosperm may either be completely consumed by the developing embryo (e.g., pea, groundnut, beans) before seed maturation.",
+    "question": "In pea and groundnut seeds, endosperm is:",
+    "options": {
+      "A": "Completely consumed during embryo development",
+      "B": "Persistent in mature seed",
+      "C": "Absent from fertilisation",
+      "D": "Replaced by perisperm only"
+    },
+    "correct_answer": "A",
+    "explanation": "In these non-albuminous seeds, embryo uses up endosperm before maturation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "It may persist in the mature seed (e.g. castor and coconut) and be used up during seed germination.",
+    "question": "Castor and coconut seeds have:",
+    "options": {
+      "A": "No endosperm ever formed",
+      "B": "Persistent endosperm in mature seed",
+      "C": "Only free-nuclear endosperm in mature seed",
+      "D": "Endosperm replaced by pericarp"
+    },
+    "correct_answer": "B",
+    "explanation": "Albuminous seeds like castor and coconut retain endosperm in mature seeds.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Embryo develops at the micropylar end of the embryo sac where the zygote is situated.",
+    "question": "The embryo develops at the:",
+    "options": {
+      "A": "Chalazal end of embryo sac",
+      "B": "Micropylar end where zygote is located",
+      "C": "Anther wall",
+      "D": "Pericarp outer layer"
+    },
+    "correct_answer": "B",
+    "explanation": "Zygote at micropylar end gives rise to the embryo.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The zygote gives rise to the proembryo and subsequently to the globular, heart-shaped and mature embryo.",
+    "question": "Correct sequence of embryo development stages includes:",
+    "options": {
+      "A": "Mature → globular → proembryo",
+      "B": "Proembryo → globular → heart-shaped → mature",
+      "C": "Heart-shaped → proembryo only",
+      "D": "Pollen grain → proembryo"
+    },
+    "correct_answer": "B",
+    "explanation": "Embryogeny progresses through proembryo, globular, heart-shaped to mature embryo.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "A typical dicotyledonous embryo, consists of an embryonal axis and two cotyledons.",
+    "question": "A typical dicot embryo has:",
+    "options": {
+      "A": "One cotyledon and coleoptile",
+      "B": "Embryonal axis and two cotyledons",
+      "C": "Scutellum only",
+      "D": "No radicle"
+    },
+    "correct_answer": "B",
+    "explanation": "Dicot embryos possess two cotyledons on an embryonal axis.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The portion of embryonal axis above the level of cotyledons is the epicotyl, which terminates with the plumule or stem tip.",
+    "question": "Epicotyl in a dicot embryo is:",
+    "options": {
+      "A": "Below cotyledons ending in radicle",
+      "B": "Above cotyledons terminating in plumule",
+      "C": "Same as scutellum",
+      "D": "The root cap only"
+    },
+    "correct_answer": "B",
+    "explanation": "Epicotyl lies above cotyledons and bears the plumule (shoot tip).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Embryos of monocotyledons possess only one cotyledon.",
+    "question": "Monocot embryos characteristically have:",
+    "options": {
+      "A": "Two cotyledons",
+      "B": "One cotyledon",
+      "C": "No embryonal axis",
+      "D": "Four cotyledons"
+    },
+    "correct_answer": "B",
+    "explanation": "Monocots have a single cotyledon (scutellum in grasses).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In the grass family the cotyledon is called scutellum that is situated towards one side (lateral) of the embryonal axis.",
+    "question": "In grass embryos, the cotyledon is called:",
+    "options": {
+      "A": "Coleoptile",
+      "B": "Scutellum",
+      "C": "Perisperm",
+      "D": "Tapetum"
+    },
+    "correct_answer": "B",
+    "explanation": "Grass family monocots have a lateral cotyledon named scutellum.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The radical and root cap enclosed in an undifferentiated sheath called coleorrhiza.",
+    "question": "Coleorrhiza in grass embryo encloses:",
+    "options": {
+      "A": "Plumule and leaf primordia",
+      "B": "Radicle and root cap",
+      "C": "Polar nuclei",
+      "D": "Synergids"
+    },
+    "correct_answer": "B",
+    "explanation": "Coleorrhiza is a protective sheath around radicle and root cap in monocots.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Epicotyl has a shoot apex and a few leaf primordia enclosed in a hollow foliar structure, the coleoptile.",
+    "question": "Coleoptile encloses:",
+    "options": {
+      "A": "Radicle and root cap",
+      "B": "Shoot apex and leaf primordia of epicotyl",
+      "C": "Endosperm nuclei only",
+      "D": "Antipodal cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Coleoptile is a hollow sheath protecting the emerging shoot of grass embryos.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In angiosperms, the seed is the final product of sexual reproduction. It is often described as a fertilised ovule.",
+    "question": "A seed in angiosperms is best described as:",
+    "options": {
+      "A": "An unfertilised ovule",
+      "B": "A fertilised ovule",
+      "C": "A mature anther",
+      "D": "A pollen grain"
+    },
+    "correct_answer": "B",
+    "explanation": "Seeds develop from fertilised ovules after sexual reproduction.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Non-albuminous seeds have no residual endosperm as it is completely consumed during embryo development (e.g., pea, groundnut).",
+    "question": "Non-albuminous (ex-albuminous) seeds like pea lack:",
+    "options": {
+      "A": "Embryo",
+      "B": "Residual endosperm in mature seed",
+      "C": "Seed coat",
+      "D": "Cotyledons"
+    },
+    "correct_answer": "B",
+    "explanation": "Endosperm is fully used up during embryo development in non-albuminous seeds.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Albuminous seeds retain a part of endosperm as it is not completely used up during embryo development (e.g., wheat, maize, barley, castor).",
+    "question": "Albuminous seeds such as wheat and maize:",
+    "options": {
+      "A": "Retain part of endosperm in mature seed",
+      "B": "Have no endosperm at any stage",
+      "C": "Lack embryo axis",
+      "D": "Develop without fertilisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Albuminous seeds persistently store endosperm not fully consumed by embryo.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Occasionally, in some seeds such as black pepper and beet, remnants of nucellus are also persistent. This residual, persistent nucellus is the perisperm.",
+    "question": "Perisperm is:",
+    "options": {
+      "A": "Persistent nucellus in some seeds",
+      "B": "Wall of fruit",
+      "C": "Pollen tube tissue",
+      "D": "Degenerated synergid"
+    },
+    "correct_answer": "A",
+    "explanation": "Perisperm is residual nucellus as in black pepper and beet seeds.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Integuments of ovules harden as tough protective seed coats.",
+    "question": "Seed coats develop from:",
+    "options": {
+      "A": "Ovule integuments",
+      "B": "Pericarp only",
+      "C": "Tapetum",
+      "D": "Endosperm outer layer only"
+    },
+    "correct_answer": "A",
+    "explanation": "Hardened integuments of the ovule form protective seed coat(s).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The micropyle remains as a small pore in the seed coat. This facilitates entry of oxygen and water into the seed during germination.",
+    "question": "Micropyle in seed coat allows entry of:",
+    "options": {
+      "A": "Pollen grains only",
+      "B": "Oxygen and water during germination",
+      "C": "Endosperm cells",
+      "D": "Tapetal nutrients"
+    },
+    "correct_answer": "B",
+    "explanation": "Micropyle persists as a pore for water and oxygen uptake during germination.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "The wall of the ovary develops into the wall of fruit called pericarp.",
+    "question": "Pericarp develops from:",
+    "options": {
+      "A": "Ovary wall",
+      "B": "Nucellus",
+      "C": "Filament",
+      "D": "Pollen exine"
+    },
+    "correct_answer": "A",
+    "explanation": "Ovary wall transforms into fruit wall (pericarp) after fertilisation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In a few species such as apple, strawberry, cashew, etc., the thalamus also contributes to fruit formation. Such fruits are called false fruits.",
+    "question": "Apple is called a false fruit because:",
+    "options": {
+      "A": "It develops without fertilisation",
+      "B": "Thalamus contributes to fruit formation along with ovary",
+      "C": "It has no seeds",
+      "D": "It is a dry fruit"
+    },
+    "correct_answer": "B",
+    "explanation": "False fruits like apple involve thalamus tissue in addition to ovary in fruit body.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Such fruits are called parthenocarpic fruits. Banana is one such example.",
+    "question": "Parthenocarpic fruits like banana develop:",
+    "options": {
+      "A": "Only after double fertilisation",
+      "B": "Without fertilisation",
+      "C": "From microsporangia",
+      "D": "Only from perisperm"
+    },
+    "correct_answer": "B",
+    "explanation": "Parthenocarpy produces fruits without fertilisation, e.g., banana.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "After fertilisation, ovary develops into fruit and ovules develop into seeds.",
+    "question": "After fertilisation, ovary and ovules respectively become:",
+    "options": {
+      "A": "Seed and fruit",
+      "B": "Fruit and seeds",
+      "C": "Pollen and embryo sac",
+      "D": "Perisperm and tapetum"
+    },
+    "correct_answer": "B",
+    "explanation": "Ovary → fruit; ovules → seeds during post-fertilisation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "A few flowering plants such as some species of Asteraceae and grasses, have evolved a special mechanism, to produce seeds without fertilisation, called apomixis.",
+    "question": "Apomixis is:",
+    "options": {
+      "A": "Seed formation after double fertilisation",
+      "B": "Production of seeds without fertilisation",
+      "C": "Pollination by wind only",
+      "D": "Formation of pollen without meiosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Apomixis produces seeds asexually without fertilisation.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Thus, apomixis is a form of asexual reproduction that mimics sexual reproduction.",
+    "question": "Apomixis is best described as:",
+    "options": {
+      "A": "Sexual reproduction with triple fusion",
+      "B": "Asexual reproduction mimicking sexual reproduction",
+      "C": "Cross-pollination only",
+      "D": "Formation of fruits without ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Apomixis yields seeds without fertilisation, resembling sexual seed set.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "In some species, the diploid egg cell is formed without reduction division and develops into the embryo without fertilisation.",
+    "question": "One apomictic pathway involves:",
+    "options": {
+      "A": "Haploid egg fertilised by pollen",
+      "B": "Diploid egg developing into embryo without fertilisation",
+      "C": "Fusion of two polar nuclei with synergid",
+      "D": "Meiosis in tapetum"
+    },
+    "correct_answer": "B",
+    "explanation": "Some apomicts form diploid eggs without reduction and develop embryos directly.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "More often, as in many Citrus and Mango varieties some of the nucellar cells surrounding the embryo sac start dividing, protrude into the embryo sac and develop into the embryos.",
+    "question": "In Citrus and Mango, additional embryos may arise from:",
+    "options": {
+      "A": "Pollen tube",
+      "B": "Nucellar cells dividing and entering embryo sac",
+      "C": "Antipodal fusion only",
+      "D": "Pericarp layers"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucellar embryony in Citrus/Mango produces multiple embryos from nucellus.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "Occurrence of more than one embryo in a seed is referred to as polyembryony.",
+    "question": "Polyembryony means:",
+    "options": {
+      "A": "One embryo per ovary",
+      "B": "More than one embryo in a seed",
+      "C": "Absence of embryo in seed",
+      "D": "Many ovules in one anther"
+    },
+    "correct_answer": "B",
+    "explanation": "Polyembryony is multiple embryos within a single seed.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "What would be the genetic nature of apomictic embryos? Can they be called clones?",
+    "question": "Apomictic embryos are genetically:",
+    "options": {
+      "A": "Always different from parent",
+      "B": "Clones of the parent plant",
+      "C": "Haploid and random",
+      "D": "Derived from pollen only"
+    },
+    "correct_answer": "B",
+    "explanation": "Apomictic embryos arise without fertilisation and are genetically identical (clones).",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "source_sentence": "If these hybrids are made into apomicts, there is no segregation of characters in the hybrid progeny.",
+    "question": "Making hybrids apomictic would allow farmers to:",
+    "options": {
+      "A": "Buy new hybrid seed every year only",
+      "B": "Reuse hybrid seed without character segregation",
+      "C": "Eliminate all seeds",
+      "D": "Prevent all pollination permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "Apomictic hybrids breed true, avoiding costly annual hybrid seed purchase.",
+    "chapter": "Chapter 1: Sexual Reproduction in Flowering Plants"
+  }
+]

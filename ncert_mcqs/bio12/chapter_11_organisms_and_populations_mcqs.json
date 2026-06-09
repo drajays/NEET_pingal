@@ -1,0 +1,1302 @@
+[
+  {
+    "source_sentence": "Ecology is a subject which studies the interactions among organisms and between the organism and its physical (abiotic) environment.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Ecology primarily studies:",
+    "options": {
+      "A": "Only interactions among organisms",
+      "B": "Only interactions between organisms and abiotic environment",
+      "C": "Interactions among organisms and between organisms and their abiotic environment",
+      "D": "Only the genetic makeup of organisms"
+    },
+    "correct_answer": "C",
+    "explanation": "Ecology examines both biotic interactions among organisms and interactions between organisms and their physical abiotic environment."
+  },
+  {
+    "source_sentence": "Ecology is basically concerned with four levels of biological organisation – organisms, populations, communities and biomes.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which four levels of biological organisation does ecology primarily concern?",
+    "options": {
+      "A": "Cells, tissues, organs and organisms",
+      "B": "Organisms, populations, communities and biomes",
+      "C": "Populations, ecosystems, biomes and biosphere only",
+      "D": "Macromolecules, cells, tissues and organs"
+    },
+    "correct_answer": "B",
+    "explanation": "Ecology is concerned with organisms, populations, communities and biomes as its four organisational levels."
+  },
+  {
+    "source_sentence": "In this chapter we explore ecology at population levels.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The focus of Chapter 11 in NCERT Class 12 Biology is ecology at the level of:",
+    "options": {
+      "A": "Individual organisms",
+      "B": "Populations",
+      "C": "Biomes only",
+      "D": "Macromolecules"
+    },
+    "correct_answer": "B",
+    "explanation": "This chapter specifically explores ecological concepts at the population level."
+  },
+  {
+    "source_sentence": "The 'how-type' questions seek the mechanism behind the process while the 'why-type' questions seek the significance of the process.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In biological investigation, 'how-type' questions seek:",
+    "options": {
+      "A": "The evolutionary significance of a trait",
+      "B": "The mechanism behind a process",
+      "C": "The population density of a species",
+      "D": "The taxonomic classification of organisms"
+    },
+    "correct_answer": "B",
+    "explanation": "How-type questions address mechanisms (e.g., how a bird sings), whereas why-type questions address significance or purpose."
+  },
+  {
+    "source_sentence": "In nature, we rarely find isolated, single individuals of any species; majority of them live in groups in a well defined geographical area, share or compete for similar resources, potentially interbreed and thus constitute a population.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A population is best defined as a group of individuals of a species that:",
+    "options": {
+      "A": "Live in isolation in different geographical areas",
+      "B": "Share a defined geographical area and similar resources, and potentially interbreed",
+      "C": "Belong to different species in the same habitat",
+      "D": "Occupy different trophic levels in a food chain"
+    },
+    "correct_answer": "B",
+    "explanation": "Populations consist of individuals of a species living in a defined area, sharing or competing for resources, and potentially interbreeding."
+  },
+  {
+    "source_sentence": "Although the term interbreeding implies sexual reproduction, a group of individuals resulting from even asexual reproduction is also generally considered a population for the purpose of ecological studies.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "For ecological studies, a group of individuals produced by asexual reproduction:",
+    "options": {
+      "A": "Cannot be considered a population",
+      "B": "Is generally still considered a population",
+      "C": "Is called a community",
+      "D": "Must be counted only as a single organism"
+    },
+    "correct_answer": "B",
+    "explanation": "Even asexually reproducing groups (e.g., bacteria in a culture) are generally treated as populations in ecology."
+  },
+  {
+    "source_sentence": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which of the following is an example of a population as given in the chapter?",
+    "options": {
+      "A": "All animals in a forest together",
+      "B": "All cormorants in a wetland",
+      "C": "All plants and animals in a pond",
+      "D": "All insects on Earth"
+    },
+    "correct_answer": "B",
+    "explanation": "A population comprises individuals of one species in a defined area; all cormorants in a wetland is a classic example."
+  },
+  {
+    "source_sentence": "Although an individual organism is the one that has to cope with a changed environment, it is at the population level that natural selection operates to evolve the desired traits.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Natural selection operates to evolve traits at the level of:",
+    "options": {
+      "A": "Individual organisms only",
+      "B": "Populations",
+      "C": "Macromolecules",
+      "D": "Single cells in culture"
+    },
+    "correct_answer": "B",
+    "explanation": "While individuals cope with environmental change, evolutionary change through natural selection occurs at the population level."
+  },
+  {
+    "source_sentence": "Population ecology is, therefore, an important area because it links ecology to population genetics and evolution.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Population ecology is important because it links ecology to:",
+    "options": {
+      "A": "Anatomy and physiology only",
+      "B": "Population genetics and evolution",
+      "C": "Soil chemistry alone",
+      "D": "Biochemical pathways only"
+    },
+    "correct_answer": "B",
+    "explanation": "Population ecology bridges ecological processes with population genetics and evolutionary biology."
+  },
+  {
+    "source_sentence": "Another attribute characteristic of a population is sex ratio. An individual is either a male or a female but a population has a sex ratio.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Sex ratio is a population attribute because:",
+    "options": {
+      "A": "An individual can have a sex ratio",
+      "B": "Only populations, not individuals, have a proportion of males and females",
+      "C": "It measures birth rate per individual",
+      "D": "It is identical to age distribution"
+    },
+    "correct_answer": "B",
+    "explanation": "An individual is either male or female, but a population has a measurable sex ratio (e.g., 60% females, 40% males)."
+  },
+  {
+    "source_sentence": "An individual may have births and deaths, but a population has birth rates and death rates.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which pair of attributes belongs to a population but not to an individual organism?",
+    "options": {
+      "A": "Birth and death events",
+      "B": "Birth rates and death rates",
+      "C": "Age and sex of the organism",
+      "D": "Feeding and respiration"
+    },
+    "correct_answer": "B",
+    "explanation": "Individuals experience births and deaths, but populations are characterised by per capita birth rates and death rates."
+  },
+  {
+    "source_sentence": "If in a pond there were 20 lotus plants last year and through reproduction 8 new plants are added, taking the current population to 28, we calculate the birth rate as 8/20 = 0.4 offspring per lotus per year.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In a lotus population of 20 plants, if 8 new plants are added by reproduction in a year, the birth rate is:",
+    "options": {
+      "A": "8.0 offspring per lotus per year",
+      "B": "0.4 offspring per lotus per year",
+      "C": "0.2 offspring per lotus per year",
+      "D": "28 offspring per lotus per year"
+    },
+    "correct_answer": "B",
+    "explanation": "Birth rate = new births / initial population = 8/20 = 0.4 offspring per lotus per year."
+  },
+  {
+    "source_sentence": "If 4 individuals in a laboratory population of 40 fruitflies died during a specified time interval, say a week, the death rate in the population during that period is 4/40 = 0.1 individuals per fruitfly per week.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "If 4 out of 40 fruit flies die in one week, the death rate for that period is:",
+    "options": {
+      "A": "0.01 per fruitfly per week",
+      "B": "0.1 per fruitfly per week",
+      "C": "4.0 per fruitfly per week",
+      "D": "0.4 per fruitfly per week"
+    },
+    "correct_answer": "B",
+    "explanation": "Death rate = deaths / population size = 4/40 = 0.1 individuals per fruitfly per week."
+  },
+  {
+    "source_sentence": "If the age distribution (per cent individuals of a given age or age group) is plotted for the population, the resulting structure is called an age pyramid.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A graphical representation of age distribution in a population is called:",
+    "options": {
+      "A": "Ecological pyramid",
+      "B": "Age pyramid",
+      "C": "Food chain",
+      "D": "Climax community"
+    },
+    "correct_answer": "B",
+    "explanation": "Plotting the percentage of individuals in different age groups yields an age pyramid."
+  },
+  {
+    "source_sentence": "The shape of the pyramids reflects the growth status of the population - (a) whether it is growing, (b) stable or (c) declining.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The shape of an age pyramid indicates whether a population is:",
+    "options": {
+      "A": "Growing, stable or declining",
+      "B": "Only herbivorous or carnivorous",
+      "C": "Endemic or exotic",
+      "D": "Autotrophic or heterotrophic"
+    },
+    "correct_answer": "A",
+    "explanation": "Age pyramid shape reveals whether the population is growing, stable, or declining."
+  },
+  {
+    "source_sentence": "Population size, technically called population density (designated as N), need not necessarily be measured in numbers only.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Population density (N) in ecology:",
+    "options": {
+      "A": "Must always be expressed as total number of individuals",
+      "B": "Need not always be measured in numbers only",
+      "C": "Is measured only in grams per litre",
+      "D": "Is unrelated to population size"
+    },
+    "correct_answer": "B",
+    "explanation": "Population density may be expressed as numbers, biomass, percent cover, or other measures depending on the species and context."
+  },
+  {
+    "source_sentence": "In an area, if there are 200 carrot grass (Parthenium hysterophorus) plants but only a single huge banyan tree with a large canopy, stating that the population density of banyan is low relative to that of carrot grass amounts to underestimating the enormous role of the Banyan in that community.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "When comparing one huge banyan tree with 200 Parthenium plants, counting individuals alone:",
+    "options": {
+      "A": "Accurately reflects the banyan's ecological role",
+      "B": "May underestimate the banyan's role in the community",
+      "C": "Is the only valid ecological measure",
+      "D": "Eliminates the need for biomass measurement"
+    },
+    "correct_answer": "B",
+    "explanation": "A single large banyan may have far greater biomass and canopy cover than many small plants, so number alone can be misleading."
+  },
+  {
+    "source_sentence": "In such cases, the per cent cover or biomass is a more meaningful measure of the population size.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "For species where total number is misleading, a more meaningful measure of population size may be:",
+    "options": {
+      "A": "Percent cover or biomass",
+      "B": "Wing span of one individual",
+      "C": "Number of chromosomes",
+      "D": "Soil pH"
+    },
+    "correct_answer": "A",
+    "explanation": "Percent cover or biomass better represents population size when individual sizes vary greatly, as with a large tree versus small herbs."
+  },
+  {
+    "source_sentence": "If you have a dense laboratory culture of bacteria in a petri dish what is the best measure to report its density?",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "For a dense laboratory bacterial culture where counting individuals is impractical, population density is best reported using:",
+    "options": {
+      "A": "Individual head counts only",
+      "B": "Biomass or indirect measures rather than exact numbers",
+      "C": "Wing beat frequency",
+      "D": "Number of petri dishes in the lab"
+    },
+    "correct_answer": "B",
+    "explanation": "When populations are huge and counting is impossible or time-consuming, biomass or other indirect measures are preferred."
+  },
+  {
+    "source_sentence": "Sometimes, for certain ecological investigations, there is no need to know the absolute population densities; relative densities serve the purpose equally well.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In some ecological studies, relative population density:",
+    "options": {
+      "A": "Is never useful",
+      "B": "Can serve the purpose as well as absolute density",
+      "C": "Must always be converted to absolute numbers first",
+      "D": "Applies only to extinct species"
+    },
+    "correct_answer": "B",
+    "explanation": "Relative density measures (e.g., catch per trap) can be sufficient when absolute counts are unnecessary."
+  },
+  {
+    "source_sentence": "For instance, the number of fish caught per trap is good enough measure of its total population density in the lake.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Fish caught per trap in a lake is an example of measuring population density by:",
+    "options": {
+      "A": "Absolute census of every fish",
+      "B": "Relative density estimation",
+      "C": "Biomass of aquatic plants",
+      "D": "Age pyramid analysis"
+    },
+    "correct_answer": "B",
+    "explanation": "Catch per trap is an indirect, relative measure used to estimate total population density."
+  },
+  {
+    "source_sentence": "The tiger census in our national parks and tiger reserves is often based on pug marks and fecal pellets.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Tiger population census in Indian reserves often relies on:",
+    "options": {
+      "A": "Direct capture of every tiger",
+      "B": "Pug marks and fecal pellets",
+      "C": "Pollen analysis",
+      "D": "Measuring tree ring width"
+    },
+    "correct_answer": "B",
+    "explanation": "Tigers are estimated indirectly using signs such as pug marks and fecal pellets rather than direct counting."
+  },
+  {
+    "source_sentence": "The size, in nature, could be as low as <10 (Siberian cranes at Bharatpur wetlands in any year) or go into millions (Chlamydomonas in a pond).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Natural population sizes can range from:",
+    "options": {
+      "A": "Always exactly 1000 individuals",
+      "B": "Fewer than 10 (e.g., Siberian cranes) to millions (e.g., Chlamydomonas)",
+      "C": "Only between 50 and 500",
+      "D": "Zero in all stable populations"
+    },
+    "correct_answer": "B",
+    "explanation": "Population sizes in nature vary enormously, from fewer than 10 Siberian cranes to millions of Chlamydomonas in a pond."
+  },
+  {
+    "source_sentence": "Natality refers to the number of births during a given period in the population that are added to the initial density.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Natality in a population refers to:",
+    "options": {
+      "A": "Number of deaths during a period",
+      "B": "Number of births added to the population during a given period",
+      "C": "Number of individuals leaving the habitat",
+      "D": "Number of immigrants entering the habitat"
+    },
+    "correct_answer": "B",
+    "explanation": "Natality is the number of births in a population during a given time period, increasing population density."
+  },
+  {
+    "source_sentence": "Mortality is the number of deaths in the population during a given period.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Mortality contributes to population change by:",
+    "options": {
+      "A": "Increasing population density through births",
+      "B": "Decreasing population density through deaths",
+      "C": "Adding immigrants to the habitat",
+      "D": "Increasing carrying capacity"
+    },
+    "correct_answer": "B",
+    "explanation": "Mortality is the number of deaths in a population during a given period, reducing population density."
+  },
+  {
+    "source_sentence": "Immigration is the number of individuals of the same species that have come into the habitat from elsewhere during the time period under consideration.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Immigration in population ecology means:",
+    "options": {
+      "A": "Individuals of the same species entering the habitat from elsewhere",
+      "B": "Individuals leaving the habitat",
+      "C": "Death of individuals in the population",
+      "D": "Birth of new individuals within the habitat only"
+    },
+    "correct_answer": "A",
+    "explanation": "Immigration is the influx of individuals of the same species from outside into the habitat."
+  },
+  {
+    "source_sentence": "Emigration is the number of individuals of the population who left the habitat and gone elsewhere during the time period under consideration.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Emigration results in:",
+    "options": {
+      "A": "Increase in population density within the habitat",
+      "B": "Decrease in population density as individuals leave the habitat",
+      "C": "Increase in natality",
+      "D": "Formation of a new species"
+    },
+    "correct_answer": "B",
+    "explanation": "Emigration is the departure of individuals from the habitat to elsewhere, decreasing local population density."
+  },
+  {
+    "source_sentence": "Nt+1 = Nt + [(B + I) - (D + E)]",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "According to the population density equation, population size at time t+1 increases when:",
+    "options": {
+      "A": "(B + I) is greater than (D + E)",
+      "B": "(D + E) is greater than (B + I)",
+      "C": "Emigration equals immigration",
+      "D": "Mortality equals natality only"
+    },
+    "correct_answer": "A",
+    "explanation": "Nt+1 = Nt + [(B+I)-(D+E)]; density increases when births plus immigration exceed deaths plus emigration."
+  },
+  {
+    "source_sentence": "Under normal conditions, births and deaths are the most important factors influencing population density, the other two factors assuming importance only under special conditions.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Under normal conditions, the most important factors influencing population density are:",
+    "options": {
+      "A": "Immigration and emigration",
+      "B": "Births and deaths",
+      "C": "Predation and mutualism only",
+      "D": "Soil minerals and rainfall only"
+    },
+    "correct_answer": "B",
+    "explanation": "Normally births and deaths dominate population change; immigration and emigration matter mainly under special conditions."
+  },
+  {
+    "source_sentence": "If a new habitat is just being colonised, immigration may contribute more significantly to population growth than birth rates.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "When a species is colonising a newly available habitat, population growth may depend more on:",
+    "options": {
+      "A": "Emigration than immigration",
+      "B": "Immigration than birth rates",
+      "C": "Mortality than natality",
+      "D": "Competition than predation"
+    },
+    "correct_answer": "B",
+    "explanation": "During initial colonisation, immigration of individuals into the new habitat can be more significant than local births."
+  },
+  {
+    "source_sentence": "Ideally, when resources in the habitat are unlimited, each species has the ability to realise fully its innate potential to grow in number, as Darwin observed while developing his theory of natural selection. Then the population grows in an exponential or geometric fashion.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Exponential or geometric population growth occurs when:",
+    "options": {
+      "A": "Resources are severely limited",
+      "B": "Resources in the habitat are unlimited",
+      "C": "Carrying capacity has been reached",
+      "D": "Immigration is zero"
+    },
+    "correct_answer": "B",
+    "explanation": "With unlimited food and space, populations can realise their full innate growth potential and grow exponentially."
+  },
+  {
+    "source_sentence": "dN/dt = (b - d) × N; Let (b - d) = r, then dN/dt = rN",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In the exponential growth equation dN/dt = rN, the term r represents:",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Intrinsic rate of natural increase (per capita birth rate minus per capita death rate)",
+      "C": "Total number of immigrants",
+      "D": "Population density at time zero only"
+    },
+    "correct_answer": "B",
+    "explanation": "r = (b - d), the intrinsic rate of natural increase, representing per capita growth rate."
+  },
+  {
+    "source_sentence": "The r in this equation is called the 'intrinsic rate of natural increase' and is a very important parameter chosen for assessing impacts of any biotic or abiotic factor on population growth.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The intrinsic rate of natural increase (r) is used to assess:",
+    "options": {
+      "A": "Only soil pH effects",
+      "B": "Impacts of biotic and abiotic factors on population growth",
+      "C": "Only the colour of organisms",
+      "D": "Taxonomic rank of species"
+    },
+    "correct_answer": "B",
+    "explanation": "r is a key parameter for evaluating how biotic and abiotic factors affect a population's growth potential."
+  },
+  {
+    "source_sentence": "For the Norway rat the r is 0.015, and for the flour beetle it is 0.12. In 1981, the r value for human population in India was 0.0205.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "According to the chapter, which species has the highest intrinsic rate of natural increase (r) among those listed?",
+    "options": {
+      "A": "Norway rat (r = 0.015)",
+      "B": "Flour beetle (r = 0.12)",
+      "C": "Human population in India, 1981 (r = 0.0205)",
+      "D": "All have equal r values"
+    },
+    "correct_answer": "B",
+    "explanation": "Among the values given, the flour beetle has the highest r at 0.12, compared to 0.015 for Norway rat and 0.0205 for humans in India (1981)."
+  },
+  {
+    "source_sentence": "The above equation describes the exponential or geometric growth pattern of a population and results in a J-shaped curve when we plot N in relation to time.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A plot of population size (N) versus time for exponential growth yields a:",
+    "options": {
+      "A": "J-shaped curve",
+      "B": "Sigmoid curve",
+      "C": "Straight horizontal line",
+      "D": "U-shaped curve"
+    },
+    "correct_answer": "A",
+    "explanation": "Exponential growth produces a J-shaped curve when population size is plotted against time."
+  },
+  {
+    "source_sentence": "Nt = No e^(rt)",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In the integral form of exponential growth, Nt represents:",
+    "options": {
+      "A": "Population density at time zero",
+      "B": "Population density after time t",
+      "C": "Carrying capacity of the habitat",
+      "D": "Death rate per capita"
+    },
+    "correct_answer": "B",
+    "explanation": "In Nt = N0 e^(rt), Nt is the population density after time t, N0 is initial density, and r is intrinsic rate of increase."
+  },
+  {
+    "source_sentence": "Any species growing exponentially under unlimited resource conditions can reach enormous population densities in a short time.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Under unlimited resources, exponential growth allows a species to:",
+    "options": {
+      "A": "Remain at constant density indefinitely",
+      "B": "Reach enormous population densities in a short time",
+      "C": "Immediately reach carrying capacity",
+      "D": "Stop reproducing after one generation"
+    },
+    "correct_answer": "B",
+    "explanation": "Exponential growth under unlimited resources can produce very large population sizes rapidly, as illustrated by the chessboard wheat example."
+  },
+  {
+    "source_sentence": "No population of any species in nature has at its disposal unlimited resources to permit exponential growth.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In nature, populations generally cannot sustain exponential growth indefinitely because:",
+    "options": {
+      "A": "Resources are unlimited in all habitats",
+      "B": "No species has unlimited resources available",
+      "C": "Natality always equals mortality",
+      "D": "Immigration always exceeds emigration"
+    },
+    "correct_answer": "B",
+    "explanation": "Natural habitats have finite resources, so unlimited exponential growth is not sustained in nature."
+  },
+  {
+    "source_sentence": "In nature, a given habitat has enough resources to support a maximum possible number, beyond which no further growth is possible. Let us call this limit as nature's carrying capacity (K) for that species in that habitat.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Carrying capacity (K) of a habitat for a species is:",
+    "options": {
+      "A": "The minimum number of individuals that can survive",
+      "B": "The maximum population size the habitat can support",
+      "C": "The rate of immigration into the habitat",
+      "D": "The number of predator species present"
+    },
+    "correct_answer": "B",
+    "explanation": "Carrying capacity K is the maximum population size a habitat can sustain given available resources."
+  },
+  {
+    "source_sentence": "A population growing in a habitat with limited resources show initially a lag phase, followed by phases of acceleration and deceleration and finally an asymptote, when the population density reaches the carrying capacity.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Logistic population growth under limited resources includes all of the following phases EXCEPT:",
+    "options": {
+      "A": "Lag phase",
+      "B": "Acceleration and deceleration phases",
+      "C": "Asymptote at carrying capacity",
+      "D": "Unlimited exponential phase without deceleration"
+    },
+    "correct_answer": "D",
+    "explanation": "Logistic growth shows lag, acceleration, deceleration, and an asymptote at K—not unlimited exponential growth."
+  },
+  {
+    "source_sentence": "A plot of N in relation to time (t) results in a sigmoid curve. This type of population growth is called Verhulst-Pearl Logistic Growth.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Logistic population growth, also called Verhulst-Pearl growth, produces a:",
+    "options": {
+      "A": "Sigmoid (S-shaped) curve",
+      "B": "J-shaped curve",
+      "C": "Linear decreasing curve",
+      "D": "Parabolic U-shaped curve"
+    },
+    "correct_answer": "A",
+    "explanation": "Logistic growth plots as a sigmoid (S-shaped) curve as the population approaches carrying capacity."
+  },
+  {
+    "source_sentence": "dN/dt = rN((K - N)/K)",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In the logistic growth equation dN/dt = rN((K-N)/K), when N approaches K, the growth rate:",
+    "options": {
+      "A": "Approaches zero",
+      "B": "Becomes infinitely large",
+      "C": "Doubles every time period",
+      "D": "Becomes negative regardless of r"
+    },
+    "correct_answer": "A",
+    "explanation": "As N approaches K, the factor (K-N)/K approaches zero, so dN/dt approaches zero and growth slows."
+  },
+  {
+    "source_sentence": "Since resources for growth for most animal populations are finite and become limiting sooner or later, the logistic growth model is considered a more realistic one.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The logistic growth model is considered more realistic than exponential growth because:",
+    "options": {
+      "A": "Resources are always unlimited in nature",
+      "B": "Resources for most populations are finite and become limiting",
+      "C": "It assumes zero mortality",
+      "D": "It ignores carrying capacity"
+    },
+    "correct_answer": "B",
+    "explanation": "Because resources are finite in nature, logistic growth with a carrying capacity better reflects real population dynamics."
+  },
+  {
+    "source_sentence": "Populations evolve to maximise their reproductive fitness, also called Darwinian fitness (high r value), in the habitat in which they live.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Darwinian fitness in population ecology refers to:",
+    "options": {
+      "A": "Physical strength of an individual only",
+      "B": "Reproductive fitness maximised in a given habitat",
+      "C": "Ability to photosynthesise",
+      "D": "Longest lifespan regardless of reproduction"
+    },
+    "correct_answer": "B",
+    "explanation": "Darwinian fitness is reproductive fitness—the ability to maximise successful reproduction (high r) in a given habitat."
+  },
+  {
+    "source_sentence": "Some organisms breed only once in their lifetime (Pacific salmon fish, bamboo) while others breed many times during their lifetime (most birds and mammals).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Pacific salmon and bamboo are examples of organisms that:",
+    "options": {
+      "A": "Breed many times throughout life",
+      "B": "Breed only once in their lifetime",
+      "C": "Never reproduce sexually",
+      "D": "Reproduce only by fragmentation"
+    },
+    "correct_answer": "B",
+    "explanation": "Pacific salmon and bamboo breed only once in their lifetime (semelparity), unlike most birds and mammals."
+  },
+  {
+    "source_sentence": "Some produce a large number of small-sized offspring (Oysters, pelagic fishes) while others produce a small number of large-sized offspring (birds, mammals).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Oysters and pelagic fishes exemplify a reproductive strategy of producing:",
+    "options": {
+      "A": "A few large offspring",
+      "B": "Many small-sized offspring",
+      "C": "No offspring",
+      "D": "Only asexual spores"
+    },
+    "correct_answer": "B",
+    "explanation": "Oysters and pelagic fishes produce many small offspring, contrasting with birds and mammals that produce fewer, larger offspring."
+  },
+  {
+    "source_sentence": "Ecologists suggest that life history traits of organisms have evolved in relation to the constraints imposed by the abiotic and biotic components of the habitat in which they live.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Life history traits of organisms have evolved in response to:",
+    "options": {
+      "A": "Abiotic and biotic constraints of their habitat",
+      "B": "Laboratory conditions only",
+      "C": "Human census data alone",
+      "D": "Absence of any environmental pressure"
+    },
+    "correct_answer": "A",
+    "explanation": "Reproductive strategies and other life history traits evolve under the combined influence of abiotic and biotic habitat constraints."
+  },
+  {
+    "source_sentence": "For any species, the minimal requirement is one more species on which it can feed.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In nature, the minimal requirement for any species' survival in a habitat is:",
+    "options": {
+      "A": "Complete isolation from other species",
+      "B": "At least one other species on which it can feed or interact",
+      "C": "Absence of all competitors",
+      "D": "Unlimited abiotic resources only"
+    },
+    "correct_answer": "B",
+    "explanation": "No species lives alone; even consumers need at least one other species as a food source, and plants need soil microbes and pollinators."
+  },
+  {
+    "source_sentence": "Interspecific interactions arise from the interaction of populations of two different species.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Interspecific interactions occur between:",
+    "options": {
+      "A": "Individuals of the same species only",
+      "B": "Populations of two different species",
+      "C": "Abiotic factors only",
+      "D": "Organelles within a single cell"
+    },
+    "correct_answer": "B",
+    "explanation": "Interspecific interactions involve populations of two different species interacting in a community."
+  },
+  {
+    "source_sentence": "Assigning a '+' sign for beneficial interaction, '-' sign for detrimental and 0 for neutral interaction.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In ecological interaction notation, '+' signifies:",
+    "options": {
+      "A": "Detrimental effect",
+      "B": "Beneficial effect",
+      "C": "Neutral effect",
+      "D": "No interaction at all"
+    },
+    "correct_answer": "B",
+    "explanation": "In Table 11.1 notation, '+' means beneficial, '-' means detrimental, and '0' means neutral."
+  },
+  {
+    "source_sentence": "Both the species benefit in mutualism and both lose in competition in their interactions with each other.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In mutualism and competition respectively, the effects on both interacting species are:",
+    "options": {
+      "A": "Mutualism: both benefit; Competition: both are harmed",
+      "B": "Mutualism: one benefits; Competition: both benefit",
+      "C": "Mutualism: both harmed; Competition: both benefit",
+      "D": "Mutualism: one neutral; Competition: one benefits"
+    },
+    "correct_answer": "A",
+    "explanation": "Mutualism is +/+ (both benefit) and competition is -/- (both are adversely affected)."
+  },
+  {
+    "source_sentence": "In both parasitism and predation only one species benefits (parasite and predator, respectively) and the interaction is detrimental to the other species (host and prey, respectively).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Predation and parasitism are similar in that:",
+    "options": {
+      "A": "Both species benefit equally",
+      "B": "One species benefits and the other is harmed",
+      "C": "Neither species is affected",
+      "D": "Both species are harmed equally"
+    },
+    "correct_answer": "B",
+    "explanation": "In both predation and parasitism, one species benefits (+) while the other suffers (-)."
+  },
+  {
+    "source_sentence": "The interaction where one species is benefitted and the other is neither benefitted nor harmed is called commensalism.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Commensalism is defined as an interaction where:",
+    "options": {
+      "A": "Both species benefit",
+      "B": "One species benefits and the other is neither harmed nor benefited",
+      "C": "Both species are harmed",
+      "D": "One species is harmed and the other is unaffected"
+    },
+    "correct_answer": "B",
+    "explanation": "Commensalism is +/0: one species benefits while the other experiences no apparent benefit or harm."
+  },
+  {
+    "source_sentence": "In amensalism on the other hand one species is harmed whereas the other is unaffected.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Amensalism is characterised by:",
+    "options": {
+      "A": "+/+ interaction",
+      "B": "-/0 interaction",
+      "C": "+/0 interaction",
+      "D": "+/- interaction"
+    },
+    "correct_answer": "B",
+    "explanation": "Amensalism is -/0: one species is harmed while the other remains unaffected."
+  },
+  {
+    "source_sentence": "Predation, parasitism and commensalism share a common characteristic—the interacting species live closely together.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Predation, parasitism and commensalism share which common feature?",
+    "options": {
+      "A": "Both species always benefit",
+      "B": "The interacting species live in close association",
+      "C": "Neither species is ever harmed",
+      "D": "They occur only between plants"
+    },
+    "correct_answer": "B",
+    "explanation": "These three interaction types involve species living closely together, though outcomes differ for each participant."
+  },
+  {
+    "source_sentence": "You can think of predation as nature's way of transferring to higher trophic levels the energy fixed by plants.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Ecologically, predation serves to:",
+    "options": {
+      "A": "Block energy transfer between trophic levels",
+      "B": "Transfer energy fixed by plants to higher trophic levels",
+      "C": "Eliminate all herbivores from ecosystems",
+      "D": "Prevent any species diversity"
+    },
+    "correct_answer": "B",
+    "explanation": "Predation moves energy from lower trophic levels (plants and herbivores) to higher trophic levels (predators)."
+  },
+  {
+    "source_sentence": "A sparrow eating any seed is no less a predator.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "A sparrow eating seeds is considered:",
+    "options": {
+      "A": "Not a predator because seeds are not alive",
+      "B": "A predator in the broad ecological sense",
+      "C": "A parasite of the seed",
+      "D": "A decomposer only"
+    },
+    "correct_answer": "B",
+    "explanation": "Any organism consuming another organism, including a sparrow eating seeds, qualifies as a predator in ecology."
+  },
+  {
+    "source_sentence": "Although animals eating plants are categorised separately as herbivores, they are, in a broad ecological context, not very different from predators.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Herbivores in a broad ecological context are:",
+    "options": {
+      "A": "Fundamentally different from all predators",
+      "B": "Not very different from predators",
+      "C": "Always mutualists with plants",
+      "D": "Never involved in energy transfer"
+    },
+    "correct_answer": "B",
+    "explanation": "Herbivores consume other organisms (plants) and function similarly to predators in transferring energy across trophic levels."
+  },
+  {
+    "source_sentence": "They keep prey populations under control.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "An important ecological role of predators is to:",
+    "options": {
+      "A": "Eliminate all prey species permanently",
+      "B": "Keep prey populations under control",
+      "C": "Prevent all competition among prey",
+      "D": "Increase prey population without limit"
+    },
+    "correct_answer": "B",
+    "explanation": "Predators regulate prey population sizes, preventing unchecked growth that could destabilise ecosystems."
+  },
+  {
+    "source_sentence": "When certain exotic species are introduced into a geographical area, they become invasive and start spreading fast because the invaded land does not have its natural predators.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Exotic species often become invasive because:",
+    "options": {
+      "A": "They always have more predators in the new area",
+      "B": "The invaded area may lack their natural predators",
+      "C": "They cannot reproduce in new habitats",
+      "D": "They immediately form mutualistic bonds with all native species"
+    },
+    "correct_answer": "B",
+    "explanation": "Without natural predators in the new region, introduced species can spread rapidly and become invasive."
+  },
+  {
+    "source_sentence": "The prickly pear cactus introduced into Australia in the early 1920's caused havoc by spreading rapidly into millions of hectares of rangeland. Finally, the invasive cactus was brought under control only after a cactus-feeding predator (a moth) from its natural habitat was introduced into the country.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The prickly pear cactus invasion in Australia was controlled by:",
+    "options": {
+      "A": "Burning all forests",
+      "B": "Introducing a cactus-feeding moth from its natural habitat",
+      "C": "Eliminating all herbivores",
+      "D": "Planting more cactus species"
+    },
+    "correct_answer": "B",
+    "explanation": "Biological control using a cactus-feeding moth from the cactus's native range brought the invasive prickly pear under control."
+  },
+  {
+    "source_sentence": "Biological control methods adopted in agricultural pest control are based on the ability of the predator to regulate prey population.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The ecological principle behind biological pest control is:",
+    "options": {
+      "A": "Competition between pest and crop for light",
+      "B": "Predators regulating prey (pest) populations",
+      "C": "Parasitism benefiting the pest",
+      "D": "Commensalism between pest and predator"
+    },
+    "correct_answer": "B",
+    "explanation": "Biological control uses natural predators (or parasites) to reduce pest populations."
+  },
+  {
+    "source_sentence": "In the rocky intertidal communities of the American Pacific Coast the starfish Pisaster is an important predator. In a field experiment, when all the starfish were removed from an enclosed intertidal area, more than 10 species of invertebrates became extinct within a year, because of interspecific competition.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Removal of the starfish Pisaster from an intertidal community led to extinction of 10+ invertebrate species due to:",
+    "options": {
+      "A": "Increased predation on starfish",
+      "B": "Intensified interspecific competition among prey species",
+      "C": "Complete absence of competition",
+      "D": "Mutualism among all prey species"
+    },
+    "correct_answer": "B",
+    "explanation": "Pisaster reduces competition among prey by predation; its removal allowed competitive exclusion among prey species."
+  },
+  {
+    "source_sentence": "If a predator is too efficient and overexploits its prey, then the prey might become extinct and following it, the predator will also become extinct for lack of food. This is the reason why predators in nature are 'prudent'.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Predators in nature are described as 'prudent' because:",
+    "options": {
+      "A": "They always eliminate all prey immediately",
+      "B": "Overexploitation of prey could lead to extinction of both prey and predator",
+      "C": "They never hunt any prey species",
+      "D": "They reproduce only once in a lifetime"
+    },
+    "correct_answer": "B",
+    "explanation": "If a predator overexploits prey to extinction, it too may die out from lack of food; natural predators tend to avoid this."
+  },
+  {
+    "source_sentence": "Some species of insects and frogs are cryptically-coloured (camouflaged) to avoid being detected easily by the predator.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Cryptic colouration (camouflage) in insects and frogs is an adaptation to:",
+    "options": {
+      "A": "Attract predators more easily",
+      "B": "Avoid easy detection by predators",
+      "C": "Increase body temperature only",
+      "D": "Facilitate pollination"
+    },
+    "correct_answer": "B",
+    "explanation": "Camouflage helps prey blend into their surroundings, reducing the chance of detection by predators."
+  },
+  {
+    "source_sentence": "The Monarch butterfly is highly distasteful to its predator (bird) because of a special chemical present in its body. Interestingly, the butterfly acquires this chemical during its caterpillar stage by feeding on a poisonous weed.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The Monarch butterfly is avoided by birds because:",
+    "options": {
+      "A": "It is cryptically coloured like soil",
+      "B": "It contains a distasteful chemical acquired from a poisonous weed during the caterpillar stage",
+      "C": "It has no chemical defences",
+      "D": "It mimics a harmless moth only"
+    },
+    "correct_answer": "B",
+    "explanation": "Monarch caterpillars feed on poisonous weeds, sequestering chemicals that make adult butterflies distasteful to bird predators."
+  },
+  {
+    "source_sentence": "Nearly 25 per cent of all insects are known to be phytophagous (feeding on plant sap and other parts of plants).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Approximately what fraction of all insects are phytophagous (plant-feeding)?",
+    "options": {
+      "A": "5 per cent",
+      "B": "25 per cent",
+      "C": "75 per cent",
+      "D": "100 per cent"
+    },
+    "correct_answer": "B",
+    "explanation": "About 25% of all insects feed on plant sap and other plant parts, acting as herbivores/predators on plants."
+  },
+  {
+    "source_sentence": "Thorns (Acacia, Cactus) are the most common morphological means of defence.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Thorns in Acacia and Cactus represent which type of plant defence against herbivory?",
+    "options": {
+      "A": "Chemical defence",
+      "B": "Morphological defence",
+      "C": "Behavioural defence",
+      "D": "Symbiotic defence by fungi only"
+    },
+    "correct_answer": "B",
+    "explanation": "Thorns are morphological (structural) defences that physically deter herbivores from feeding on plants."
+  },
+  {
+    "source_sentence": "The plant produces highly poisonous cardiac glycosides and that is why you never see any cattle or goats browsing on this plant.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Calotropis is avoided by cattle and goats because it produces:",
+    "options": {
+      "A": "Sweet nectar attracting herbivores",
+      "B": "Highly poisonous cardiac glycosides",
+      "C": "No chemical substances at all",
+      "D": "Only mechanical thorns without chemicals"
+    },
+    "correct_answer": "B",
+    "explanation": "Calotropis produces cardiac glycosides that make it poisonous, deterring cattle and goats from browsing on it."
+  },
+  {
+    "source_sentence": "A wide variety of chemical substances that we extract from plants on a commercial scale (nicotine, caffeine, quinine, strychnine, opium, etc.,) are produced by them actually as defences against grazers and browsers.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Nicotine, caffeine, quinine and strychnine in plants primarily function as:",
+    "options": {
+      "A": "Defences against grazers and browsers",
+      "B": "Attractants for all herbivores",
+      "C": "Pollination rewards only",
+      "D": "Sources of water storage"
+    },
+    "correct_answer": "A",
+    "explanation": "Many commercially extracted plant chemicals evolved as chemical defences to inhibit feeding or harm herbivores."
+  },
+  {
+    "source_sentence": "It is generally believed that competition occurs when closely related species compete for the same resources that are limiting, but this is not entirely true.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Competition between species:",
+    "options": {
+      "A": "Occurs only between closely related species for limiting resources",
+      "B": "Is not limited only to closely related species competing for the same limiting resources",
+      "C": "Never occurs in nature",
+      "D": "Always benefits both competing species"
+    },
+    "correct_answer": "B",
+    "explanation": "Competition is not restricted to closely related species; unrelated species can also compete for the same resources."
+  },
+  {
+    "source_sentence": "In some shallow South American lakes, visiting flamingoes and resident fishes compete for their common food, the zooplankton in the lake.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Flamingoes and resident fishes in some South American lakes compete for:",
+    "options": {
+      "A": "Nesting sites in trees",
+      "B": "Zooplankton",
+      "C": "Atmospheric oxygen only",
+      "D": "Pollen grains"
+    },
+    "correct_answer": "B",
+    "explanation": "This example shows unrelated species (birds and fish) competing for the same food resource—zooplankton."
+  },
+  {
+    "source_sentence": "In interference competition, the feeding efficiency of one species might be reduced due to the interfering and inhibitory presence of the other species, even if resources (food and space) are abundant.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Interference competition can reduce feeding efficiency:",
+    "options": {
+      "A": "Only when resources are scarce",
+      "B": "Even when food and space are abundant",
+      "C": "Only between identical clones",
+      "D": "Only in aquatic ecosystems"
+    },
+    "correct_answer": "B",
+    "explanation": "In interference competition, one species inhibits another's feeding through its presence, regardless of resource abundance."
+  },
+  {
+    "source_sentence": "Competition is best defined as a process in which the fitness of one species (measured in terms of its 'r' the intrinsic rate of increase) is significantly lower in the presence of another species.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Competition is best defined as a process where:",
+    "options": {
+      "A": "Both species always increase their r values",
+      "B": "The fitness (r) of one species is significantly lower in the presence of another",
+      "C": "Neither species is affected",
+      "D": "Only the predator benefits"
+    },
+    "correct_answer": "B",
+    "explanation": "Competition reduces the intrinsic rate of increase (fitness) of at least one species when another species is present."
+  },
+  {
+    "source_sentence": "Gause's 'Competitive Exclusion Principle' states that two closely related species competing for the same resources cannot co-exist indefinitely and the competitively inferior one will be eliminated eventually.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Gause's Competitive Exclusion Principle states that two closely related species competing for the same resources:",
+    "options": {
+      "A": "Will always coexist indefinitely",
+      "B": "Cannot coexist indefinitely; the inferior competitor is eventually eliminated",
+      "C": "Never compete in nature",
+      "D": "Always form mutualism instead"
+    },
+    "correct_answer": "B",
+    "explanation": "Competitive Exclusion Principle: when two species compete for the same limiting resources, one will eventually exclude the other."
+  },
+  {
+    "source_sentence": "The Abingdon tortoise in Galapagos Islands became extinct within a decade after goats were introduced on the island, apparently due to the greater browsing efficiency of the goats.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The Abingdon tortoise in the Galapagos became extinct after goats were introduced primarily due to:",
+    "options": {
+      "A": "Mutualism between tortoise and goats",
+      "B": "Greater browsing efficiency of goats competing for resources",
+      "C": "Absence of any competition",
+      "D": "Predation of goats by tortoises"
+    },
+    "correct_answer": "B",
+    "explanation": "Goats outcompeted the tortoise through superior browsing efficiency, contributing to the tortoise's rapid extinction."
+  },
+  {
+    "source_sentence": "A species whose distribution is restricted to a small geographical area because of the presence of a competitively superior species, is found to expand its distributional range dramatically when the competing species is experimentally removed.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "When a competitively superior species is experimentally removed, an inferior species may dramatically expand its range. This phenomenon is called:",
+    "options": {
+      "A": "Competitive release",
+      "B": "Brood parasitism",
+      "C": "Amensalism",
+      "D": "Exponential extinction"
+    },
+    "correct_answer": "A",
+    "explanation": "Competitive release occurs when removal of a superior competitor allows a previously restricted species to expand its distribution."
+  },
+  {
+    "source_sentence": "Connell's elegant field experiments showed that on the rocky sea coasts of Scotland, the larger and competitively superior barnacle Balanus dominates the intertidal area, and excludes the smaller barnacle Chathamalus from that zone.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Connell's experiments on Scottish rocky coasts showed that barnacle Balanus:",
+    "options": {
+      "A": "Is excluded by the smaller Chathamalus",
+      "B": "Dominates the intertidal zone and excludes Chathamalus",
+      "C": "Coexists without any competitive interaction",
+      "D": "Is a predator of Chathamalus"
+    },
+    "correct_answer": "B",
+    "explanation": "Balanus is competitively superior and dominates the intertidal area, excluding the smaller barnacle Chathamalus."
+  },
+  {
+    "source_sentence": "In general, herbivores and plants appear to be more adversely affected by competition than carnivores.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "According to the chapter, which group is generally more adversely affected by competition?",
+    "options": {
+      "A": "Carnivores",
+      "B": "Herbivores and plants",
+      "C": "Decomposers only",
+      "D": "Top predators exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Herbivores and plants tend to suffer more from competition than carnivores."
+  },
+  {
+    "source_sentence": "If two species compete for the same resource, they could avoid competition by choosing, for instance, different times for feeding or different foraging patterns. MacArthur showed that five closely related species of warblers living on the same tree were able to avoid competition and co-exist due to behavioural differences in their foraging activities.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "MacArthur's study of warblers on the same tree demonstrated:",
+    "options": {
+      "A": "Competitive exclusion of four warbler species",
+      "B": "Coexistence through resource partitioning via different foraging behaviours",
+      "C": "Complete absence of any feeding activity",
+      "D": "Mutualism with the tree only"
+    },
+    "correct_answer": "B",
+    "explanation": "Five warbler species coexisted on one tree by partitioning resources through behavioural differences in foraging."
+  },
+  {
+    "source_sentence": "Many parasites have evolved to be host-specific (they can parasitise only a single species of host) in such a way that both host and the parasite tend to co-evolve.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Host-specific parasites and their hosts often:",
+    "options": {
+      "A": "Never interact after initial contact",
+      "B": "Co-evolve as host defences and parasite counter-adaptations develop",
+      "C": "Always form mutualistic relationships",
+      "D": "Live in completely separate habitats permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "Host-specific parasites and hosts undergo co-evolution—hosts develop resistance mechanisms and parasites evolve counter-adaptations."
+  },
+  {
+    "source_sentence": "In accordance with their life styles, parasites evolved special adaptations such as the loss of unnecessary sense organs, presence of adhesive organs or suckers to cling on to the host, loss of digestive system and high reproductive capacity.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Which of the following is a parasite adaptation mentioned in the chapter?",
+    "options": {
+      "A": "Enlargement of all sense organs",
+      "B": "Presence of adhesive organs or suckers to cling to the host",
+      "C": "Complete independence from any host",
+      "D": "Low reproductive capacity"
+    },
+    "correct_answer": "B",
+    "explanation": "Parasites show adaptations including adhesive organs/suckers, reduced sense organs, simplified digestion, and high reproductive output."
+  },
+  {
+    "source_sentence": "The human liver fluke (a trematode parasite) depends on two intermediate hosts (a snail and a fish) to complete its life cycle.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The human liver fluke requires which intermediate hosts to complete its life cycle?",
+    "options": {
+      "A": "A mosquito and a bird",
+      "B": "A snail and a fish",
+      "C": "A tick and a dog only",
+      "D": "No intermediate hosts"
+    },
+    "correct_answer": "B",
+    "explanation": "The liver fluke (trematode) has a complex life cycle involving two intermediate hosts: a snail and a fish."
+  },
+  {
+    "source_sentence": "The malarial parasite needs a vector (mosquito) to spread to other hosts.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The malarial parasite spreads to other hosts through:",
+    "options": {
+      "A": "Wind dispersal",
+      "B": "A mosquito vector",
+      "C": "Direct soil contact only",
+      "D": "Pollination by bees"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasmodium (malarial parasite) requires a mosquito vector to transmit between human hosts."
+  },
+  {
+    "source_sentence": "Parasites that feed on the external surface of the host organism are called ectoparasites.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Ectoparasites are parasites that:",
+    "options": {
+      "A": "Live inside the host body",
+      "B": "Feed on the external surface of the host",
+      "C": "Are always mutualistic",
+      "D": "Never harm the host"
+    },
+    "correct_answer": "B",
+    "explanation": "Ectoparasites live on the external surface of the host, such as lice on humans and ticks on dogs."
+  },
+  {
+    "source_sentence": "Cuscuta, a parasitic plant that is commonly found growing on hedge plants, has lost its chlorophyll and leaves in the course of evolution.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Cuscuta (dodder) is a parasitic plant that has evolved by losing:",
+    "options": {
+      "A": "Its ability to parasitise hosts",
+      "B": "Chlorophyll and leaves",
+      "C": "All connection to the host plant",
+      "D": "Its root system entirely in all cases"
+    },
+    "correct_answer": "B",
+    "explanation": "Cuscuta has lost chlorophyll and leaves, deriving nutrition entirely from the host plant it parasitises."
+  },
+  {
+    "source_sentence": "The female mosquito is not considered a parasite, although it needs our blood for reproduction.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The female mosquito is NOT considered a true parasite because:",
+    "options": {
+      "A": "It never contacts humans",
+      "B": "It needs blood for reproduction but does not live parasitically on the host",
+      "C": "It is always a predator of tigers",
+      "D": "It benefits the host nutritionally"
+    },
+    "correct_answer": "B",
+    "explanation": "Female mosquitoes take blood for egg production but do not live on or in the host in a parasitic lifestyle; they are not true parasites."
+  },
+  {
+    "source_sentence": "In contrast, endoparasites are those that live inside the host body at different sites (liver, kidney, lungs, red blood cells, etc.).",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Endoparasites are characterised by:",
+    "options": {
+      "A": "Living on the external surface of the host only",
+      "B": "Living inside the host body at sites such as liver, lungs or red blood cells",
+      "C": "Being always beneficial to the host",
+      "D": "Feeding only on dead organic matter"
+    },
+    "correct_answer": "B",
+    "explanation": "Endoparasites inhabit internal host sites including liver, kidney, lungs, and red blood cells."
+  },
+  {
+    "source_sentence": "Brood parasitism in birds is a fascinating example of parasitism in which the parasitic bird lays its eggs in the nest of its host and lets the host incubate them.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Brood parasitism in birds involves:",
+    "options": {
+      "A": "Both bird species incubating their own eggs separately",
+      "B": "A parasitic bird laying eggs in the host's nest for the host to incubate",
+      "C": "Mutual feeding of chicks by both species",
+      "D": "Destruction of the host nest before laying eggs"
+    },
+    "correct_answer": "B",
+    "explanation": "In brood parasitism, the parasitic bird (e.g., cuckoo/koel) lays eggs in another bird's nest, leaving incubation to the host."
+  },
+  {
+    "source_sentence": "During the course of evolution, the eggs of the parasitic bird have evolved to resemble the host's egg in size and colour to reduce the chances of the host bird detecting the foreign eggs and ejecting them from the nest.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Eggs of brood parasitic birds often resemble host eggs in size and colour to:",
+    "options": {
+      "A": "Attract more predators to the nest",
+      "B": "Reduce the chance of the host detecting and ejecting them",
+      "C": "Prevent all incubation",
+      "D": "Increase water loss from the nest"
+    },
+    "correct_answer": "B",
+    "explanation": "Egg mimicry in brood parasites reduces host recognition and ejection of foreign eggs."
+  },
+  {
+    "source_sentence": "An orchid growing as an epiphyte on a mango branch, and barnacles growing on the back of a whale benefit while neither the mango tree nor the whale derives any apparent benefit.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "An orchid growing as an epiphyte on a mango branch exemplifies:",
+    "options": {
+      "A": "Mutualism",
+      "B": "Parasitism",
+      "C": "Commensalism",
+      "D": "Competition"
+    },
+    "correct_answer": "C",
+    "explanation": "The orchid benefits from the support while the mango tree is neither harmed nor benefited—classic commensalism."
+  },
+  {
+    "source_sentence": "The cattle egret and grazing cattle in close association, a sight you are most likely to catch if you live in farmed rural areas, is a classic example of commensalism.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Cattle egrets foraging near grazing cattle represent commensalism because:",
+    "options": {
+      "A": "Both egret and cattle benefit nutritionally from each other",
+      "B": "Egrets catch insects stirred up by cattle while cattle are unaffected",
+      "C": "Cattle feed on egrets",
+      "D": "Both species are harmed"
+    },
+    "correct_answer": "B",
+    "explanation": "Cattle stir up insects for egrets to catch; the egret benefits while the cattle appear unaffected."
+  },
+  {
+    "source_sentence": "The fish gets protection from predators which stay away from the stinging tentacles. The anemone does not appear to derive any benefit by hosting the clown fish.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The clown fish living among sea anemone tentacles illustrates:",
+    "options": {
+      "A": "Parasitism on the anemone",
+      "B": "Commensalism—the fish gains protection, anemone appears unaffected",
+      "C": "Competition for stinging cells",
+      "D": "Mutualism where anemone always feeds the fish"
+    },
+    "correct_answer": "B",
+    "explanation": "Clown fish gain protection from predators via anemone tentacles; the anemone shows no apparent benefit."
+  },
+  {
+    "source_sentence": "Lichens represent an intimate mutualistic relationship between a fungus and photosynthesising algae or cyanobacteria.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Lichens are a mutualistic association between:",
+    "options": {
+      "A": "A fungus and photosynthetic algae or cyanobacteria",
+      "B": "Two animal species only",
+      "C": "A virus and a bacterium",
+      "D": "A predator and its prey"
+    },
+    "correct_answer": "A",
+    "explanation": "Lichens consist of a fungus partnered with photosynthetic algae or cyanobacteria in mutualism."
+  },
+  {
+    "source_sentence": "Similarly, the mycorrhizae are associations between fungi and the roots of higher plants. The fungi help the plant in the absorption of essential nutrients from the soil while the plant in turn provides the fungi with energy-yielding carbohydrates.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In mycorrhizal associations:",
+    "options": {
+      "A": "Only the fungus benefits",
+      "B": "Fungi aid nutrient absorption and plants supply carbohydrates to fungi",
+      "C": "Plants absorb fungi as parasites",
+      "D": "Neither partner exchanges any nutrients"
+    },
+    "correct_answer": "B",
+    "explanation": "Mycorrhizae are mutualistic: fungi enhance plant nutrient uptake; plants provide carbohydrates to the fungi."
+  },
+  {
+    "source_sentence": "Plants offer rewards or fees in the form of pollen and nectar for pollinators and juicy and nutritious fruits for seed dispersers.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Plants reward animal partners in mutualistic relationships with:",
+    "options": {
+      "A": "Only thorns and toxins",
+      "B": "Pollen and nectar for pollinators; fruits for seed dispersers",
+      "C": "No resources at all",
+      "D": "Soil minerals exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Plants provide pollen/nectar to pollinators and nutritious fruits to seed-dispersing animals as rewards for services."
+  },
+  {
+    "source_sentence": "In many species of fig trees, there is a tight one-to-one relationship with the pollinator species of wasp.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "Fig trees and their pollinator wasps typically show:",
+    "options": {
+      "A": "No relationship at all",
+      "B": "A tight one-to-one species-specific mutualism",
+      "C": "Pure competition only",
+      "D": "Amensalism"
+    },
+    "correct_answer": "B",
+    "explanation": "Each fig species is pollinated only by its partner wasp species—a highly specific one-to-one mutualism."
+  },
+  {
+    "source_sentence": "The female wasp uses the fruit not only as an oviposition (egg-laying) site but uses the developing seeds within the fruit for nourishing its larvae. The wasp pollinates the fig inflorescence while searching for suitable egg-laying sites.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "In the fig-wasp mutualism, the wasp:",
+    "options": {
+      "A": "Only destroys the fig without pollinating",
+      "B": "Pollinates the fig while using the fruit for egg-laying and larval nourishment",
+      "C": "Feeds exclusively on fig leaves without entering the fruit",
+      "D": "Acts as a predator of the fig tree"
+    },
+    "correct_answer": "B",
+    "explanation": "The wasp pollinates fig flowers while laying eggs inside the fruit; developing seeds nourish wasp larvae."
+  },
+  {
+    "source_sentence": "The Mediterranean orchid Ophrys employs 'sexual deceit' to get pollination done by a species of bee.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The Mediterranean orchid Ophrys achieves pollination through:",
+    "options": {
+      "A": "Offering large nutritious fruits",
+      "B": "Sexual deceit—mimicking a female bee to attract males",
+      "C": "Producing cardiac glycosides to kill bees",
+      "D": "Wind pollination only"
+    },
+    "correct_answer": "B",
+    "explanation": "Ophrys uses sexual deceit: a petal resembles a female bee, attracting males that pseudocopulate and transfer pollen."
+  },
+  {
+    "source_sentence": "If the female bee's colour patterns change even slightly for any reason during evolution, pollination success will be reduced unless the orchid flower co-evolves to maintain the resemblance of its petal to the female bee.",
+    "chapter": "Chapter 11: Organisms and Populations",
+    "question": "The Ophrys orchid-bee interaction demonstrates:",
+    "options": {
+      "A": "Absence of co-evolution",
+      "B": "Co-evolution between flower morphology and pollinator appearance",
+      "C": "Pure commensalism without any adaptation",
+      "D": "Competitive exclusion of bees"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollination success depends on tight co-evolution between orchid petal mimicry and female bee colour patterns."
+  }
+]

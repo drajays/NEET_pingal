@@ -1,0 +1,1445 @@
+[
+  {
+    "source_sentence": "Even though the angiosperms show such a large diversity in external structure or morphology, they are all characterised by presence of roots, stems, leaves, flowers and fruits.",
+    "question": "Which structures are characteristic of all angiosperms despite their morphological diversity?",
+    "options": {
+      "A": "Roots, stems, leaves, flowers and fruits",
+      "B": "Roots, leaves and seeds only",
+      "C": "Stems, flowers and cones",
+      "D": "Leaves, spores and fruits"
+    },
+    "correct_answer": "A",
+    "explanation": "All angiosperms possess roots, stems, leaves, flowers and fruits regardless of external morphological variation.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The underground part of the flowering plant is the root system while the portion above the ground forms the shoot system.",
+    "question": "In a flowering plant, the shoot system refers to:",
+    "options": {
+      "A": "The underground root system",
+      "B": "The portion above the ground",
+      "C": "Only the stem and leaves",
+      "D": "Only reproductive organs"
+    },
+    "correct_answer": "B",
+    "explanation": "The root system is underground; the shoot system comprises all aerial parts above the ground.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In majority of the dicotyledonous plants, the direct elongation of the radicle leads to the formation of primary root which grows inside the soil.",
+    "question": "In most dicotyledonous plants, the primary root develops from:",
+    "options": {
+      "A": "Direct elongation of the radicle",
+      "B": "Adventitious buds on the stem",
+      "C": "Lateral branches of fibrous roots",
+      "D": "The plumule of the embryo"
+    },
+    "correct_answer": "A",
+    "explanation": "In dicots, the radicle elongates directly to form the primary root that grows into the soil.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The primary roots and its branches constitute the tap root system, as seen in the mustard plant.",
+    "question": "Mustard plant exhibits which type of root system?",
+    "options": {
+      "A": "Fibrous root system",
+      "B": "Adventitious root system",
+      "C": "Tap root system",
+      "D": "Prop root system"
+    },
+    "correct_answer": "C",
+    "explanation": "Mustard has a tap root system formed by the primary root and its branches.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In monocotyledonous plants, the primary root is short lived and is replaced by a large number of roots. These roots originate from the base of the stem and constitute the fibrous root system, as seen in the wheat plant.",
+    "question": "Wheat plant has which type of root system?",
+    "options": {
+      "A": "Tap root",
+      "B": "Fibrous root",
+      "C": "Adventitious root",
+      "D": "Stilt root"
+    },
+    "correct_answer": "B",
+    "explanation": "In monocots like wheat, short-lived primary root is replaced by many roots from the stem base forming a fibrous root system.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In some plants, like grass, Monstera and the banyan tree, roots arise from parts of the plant other than the radicle and are called adventitious roots.",
+    "question": "Adventitious roots arise from:",
+    "options": {
+      "A": "Only the radicle",
+      "B": "Parts of the plant other than the radicle",
+      "C": "Only the primary root tip",
+      "D": "Only leaf margins"
+    },
+    "correct_answer": "B",
+    "explanation": "Adventitious roots develop from plant parts other than the radicle, as in grass, Monstera and banyan.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The main functions of the root system are absorption of water and minerals from the soil, providing a proper anchorage to the plant parts, storing reserve food material and synthesis of plant growth regulators.",
+    "question": "Which is NOT a main function of the root system?",
+    "options": {
+      "A": "Absorption of water and minerals",
+      "B": "Synthesis of plant growth regulators",
+      "C": "Primary photosynthesis",
+      "D": "Providing anchorage"
+    },
+    "correct_answer": "C",
+    "explanation": "Roots absorb water/minerals, anchor the plant, store food and synthesise PGRs; photosynthesis is primarily a leaf function.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The root is covered at the apex by a thimble-like structure called the root cap.",
+    "question": "The thimble-like structure covering the root apex is called:",
+    "options": {
+      "A": "Root hair",
+      "B": "Root cap",
+      "C": "Meristem",
+      "D": "Coleorhiza"
+    },
+    "correct_answer": "B",
+    "explanation": "The root cap is a thimble-like protective structure at the root apex.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "A few millimetres above the root cap is the region of meristematic activity. The cells of this region are very small, thin-walled and with dense protoplasm. They divide repeatedly.",
+    "question": "Cells in the region of meristematic activity of the root are characterised by:",
+    "options": {
+      "A": "Large vacuoles and thick walls",
+      "B": "Small size, thin walls and dense protoplasm with repeated division",
+      "C": "Presence of root hairs",
+      "D": "Lignified cell walls"
+    },
+    "correct_answer": "B",
+    "explanation": "Meristematic root cells are small, thin-walled, densely protoplasmic and divide repeatedly.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The cells proximal to this region undergo rapid elongation and enlargement and are responsible for the growth of the root in length. This region is called the region of elongation.",
+    "question": "Growth of the root in length occurs mainly in the:",
+    "options": {
+      "A": "Region of maturation",
+      "B": "Root cap",
+      "C": "Region of elongation",
+      "D": "Root hair zone only"
+    },
+    "correct_answer": "C",
+    "explanation": "Cells in the region of elongation undergo rapid enlargement, increasing root length.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The cells of the elongation zone gradually differentiate and mature. Hence, this zone, proximal to region of elongation, is called the region of maturation.",
+    "question": "The region proximal to the zone of elongation where cells differentiate and mature is called:",
+    "options": {
+      "A": "Region of meristematic activity",
+      "B": "Region of maturation",
+      "C": "Root cap",
+      "D": "Cortex"
+    },
+    "correct_answer": "B",
+    "explanation": "The region of maturation lies proximal to elongation where cells differentiate and mature.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "From this region some of the epidermal cells form very fine and delicate, thread-like structures called root hairs. These root hairs absorb water and minerals from the soil.",
+    "question": "Root hairs are formed from epidermal cells in the region of maturation and function in:",
+    "options": {
+      "A": "Photosynthesis",
+      "B": "Absorption of water and minerals",
+      "C": "Protection of root apex",
+      "D": "Formation of lateral roots"
+    },
+    "correct_answer": "B",
+    "explanation": "Thread-like root hairs from epidermal cells absorb water and minerals from soil.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "It develops from the plumule of the embryo of a germinating seed.",
+    "question": "The stem develops from:",
+    "options": {
+      "A": "Radicle of the embryo",
+      "B": "Plumule of the embryo",
+      "C": "Endosperm",
+      "D": "Cotyledon"
+    },
+    "correct_answer": "B",
+    "explanation": "The stem originates from the plumule of the embryo during seed germination.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "It develops at the node and bears a bud in its axil. The axillary bud later develops into a branch.",
+    "question": "The axillary bud, which may develop into a branch, is found:",
+    "options": {
+      "A": "At the leaf tip",
+      "B": "In the axil of the leaf at a node",
+      "C": "On the root cap",
+      "D": "Inside the ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Leaves develop at nodes and bear axillary buds that can grow into branches.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Leaves originate from shoot apical meristems and are arranged in an acropetal order.",
+    "question": "Leaves originate from shoot apical meristems and are arranged in:",
+    "options": {
+      "A": "Basipetal order",
+      "B": "Acropetal order",
+      "C": "Random order",
+      "D": "Whorled order only"
+    },
+    "correct_answer": "B",
+    "explanation": "Leaves arise from shoot apical meristems and show acropetal (youngest at apex) arrangement.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "They are the most important vegetative organs for photosynthesis.",
+    "question": "The most important vegetative organs for photosynthesis are:",
+    "options": {
+      "A": "Roots",
+      "B": "Stems",
+      "C": "Leaves",
+      "D": "Flowers"
+    },
+    "correct_answer": "C",
+    "explanation": "Leaves are the primary vegetative organs for photosynthesis.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "A typical leaf consists of three main parts: leaf base, petiole and lamina.",
+    "question": "The three main parts of a typical leaf are:",
+    "options": {
+      "A": "Stipule, midrib and vein",
+      "B": "Leaf base, petiole and lamina",
+      "C": "Epidermis, mesophyll and vascular bundle",
+      "D": "Calyx, corolla and androecium"
+    },
+    "correct_answer": "B",
+    "explanation": "A typical leaf has leaf base, petiole (stalk) and lamina (blade).",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The leaf is attached to the stem by the leaf base and may bear two lateral small leaf like structures called stipules.",
+    "question": "Stipules are:",
+    "options": {
+      "A": "Thread-like root structures",
+      "B": "Two lateral small leaf-like structures at the leaf base",
+      "C": "Petals of a flower",
+      "D": "Ovules inside the ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Stipules are small leaf-like lateral structures sometimes present at the leaf base.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In monocotyledons, the leaf base expands into a sheath covering the stem partially or wholly.",
+    "question": "In monocotyledons, the leaf base often:",
+    "options": {
+      "A": "Forms a pulvinus",
+      "B": "Expands into a sheath covering the stem",
+      "C": "Bears stipules always",
+      "D": "Is absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Monocot leaf bases expand into sheaths that partially or wholly cover the stem.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In some leguminous plants the leafbase may become swollen, which is called the pulvinus.",
+    "question": "The swollen leaf base in some leguminous plants is called:",
+    "options": {
+      "A": "Stipule",
+      "B": "Pulvinus",
+      "C": "Rachis",
+      "D": "Scutellum"
+    },
+    "correct_answer": "B",
+    "explanation": "Pulvinus is the swollen leaf base found in some leguminous plants.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The petiole help hold the blade to light. Long thin flexible petioles allow leaf blades to flutter in wind, thereby cooling the leaf and bringing fresh air to leaf surface.",
+    "question": "Flexible petioles help leaves by:",
+    "options": {
+      "A": "Storing reserve food",
+      "B": "Allowing blade flutter to cool the leaf and bring fresh air",
+      "C": "Absorbing water from soil",
+      "D": "Protecting buds in bud stage"
+    },
+    "correct_answer": "B",
+    "explanation": "Flexible petioles position the blade and allow fluttering that cools the leaf and refreshes air at the surface.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The lamina or the leaf blade is the green expanded part of the leaf with veins and veinlets. There is, usually, a middle prominent vein, which is known as the midrib.",
+    "question": "The prominent middle vein of the leaf blade is called:",
+    "options": {
+      "A": "Petiole",
+      "B": "Midrib",
+      "C": "Rachis",
+      "D": "Stipule"
+    },
+    "correct_answer": "B",
+    "explanation": "The lamina bears veins; the central prominent vein is the midrib.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The arrangement of veins and the veinlets in the lamina of leaf is termed as venation.",
+    "question": "Venation refers to:",
+    "options": {
+      "A": "Arrangement of leaves on stem",
+      "B": "Arrangement of veins and veinlets in the lamina",
+      "C": "Arrangement of flowers on floral axis",
+      "D": "Arrangement of ovules in ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Venation is the pattern of veins and veinlets in the leaf lamina.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When the veinlets form a network, the venation is termed as reticulate.",
+    "question": "When veinlets form a network in the lamina, the venation is:",
+    "options": {
+      "A": "Parallel",
+      "B": "Reticulate",
+      "C": "Whorled",
+      "D": "Alternate"
+    },
+    "correct_answer": "B",
+    "explanation": "Reticulate venation shows a net-like pattern of veinlets.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When the veins run parallel to each other within a lamina, the venation is termed as parallel.",
+    "question": "Parallel venation is characterised by veins that:",
+    "options": {
+      "A": "Form a network",
+      "B": "Run parallel to each other within the lamina",
+      "C": "Radiate from midrib only in dicots",
+      "D": "Are absent in monocots"
+    },
+    "correct_answer": "B",
+    "explanation": "In parallel venation, veins run side by side without forming a net.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Leaves of dicotyledonous plants generally possess reticulate venation, while parallel venation is the characteristic of most monocotyledons.",
+    "question": "Reticulate venation is generally found in:",
+    "options": {
+      "A": "Most monocotyledons",
+      "B": "Dicotyledonous plants",
+      "C": "Gymnosperms only",
+      "D": "Algae"
+    },
+    "correct_answer": "B",
+    "explanation": "Dicots generally have reticulate venation; parallel venation is typical of most monocots.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When the incisions of the lamina reach up to the midrib breaking it into a number of leaflets, the leaf is called compound.",
+    "question": "A compound leaf is formed when:",
+    "options": {
+      "A": "Lamina incisions reach up to the midrib forming leaflets",
+      "B": "Petiole is absent",
+      "C": "Venation is parallel",
+      "D": "Stipules are present"
+    },
+    "correct_answer": "A",
+    "explanation": "Compound leaves have lamina incisions extending to the midrib, dividing it into leaflets.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "A bud is present in the axil of petiole in both simple and compound leaves, but not in the axil of leaflets of the compound leaf.",
+    "question": "In a compound leaf, axillary bud is present:",
+    "options": {
+      "A": "In the axil of each leaflet",
+      "B": "In the axil of petiole but not in axil of leaflets",
+      "C": "Only at the leaflet tip",
+      "D": "Nowhere on the leaf"
+    },
+    "correct_answer": "B",
+    "explanation": "Axillary buds occur in petiole axils of both simple and compound leaves, never in leaflet axils.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In a pinnately compound leaf a number of leaflets are present on a common axis, the rachis, which represents the midrib of the leaf as in neem.",
+    "question": "Neem has which type of compound leaf?",
+    "options": {
+      "A": "Palmately compound",
+      "B": "Pinnately compound",
+      "C": "Simple leaf",
+      "D": "Scale leaf"
+    },
+    "correct_answer": "B",
+    "explanation": "Neem has pinnately compound leaves with leaflets on a common axis (rachis) representing the midrib.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In palmately compound leaves, the leaflets are attached at a common point, i.e., at the tip of petiole, as in silk cotton.",
+    "question": "Silk cotton has:",
+    "options": {
+      "A": "Pinnately compound leaf",
+      "B": "Palmately compound leaf",
+      "C": "Simple leaf with reticulate venation",
+      "D": "Needle-like leaf"
+    },
+    "correct_answer": "B",
+    "explanation": "Silk cotton has palmately compound leaves with leaflets attached at the petiole tip.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Phyllotaxy is the pattern of arrangement of leaves on the stem or branch.",
+    "question": "Phyllotaxy refers to:",
+    "options": {
+      "A": "Arrangement of veins in lamina",
+      "B": "Pattern of leaf arrangement on stem or branch",
+      "C": "Arrangement of sepals in bud",
+      "D": "Arrangement of ovules in ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Phyllotaxy describes how leaves are arranged on the stem or branch.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In alternate type of phyllotaxy, a single leaf arises at each node in alternate manner, as in china rose, mustard and sun flower plants.",
+    "question": "Alternate phyllotaxy is seen in:",
+    "options": {
+      "A": "Calotropis and guava",
+      "B": "China rose, mustard and sunflower",
+      "C": "Alstonia",
+      "D": "Pea only"
+    },
+    "correct_answer": "B",
+    "explanation": "Alternate phyllotaxy has one leaf per node in alternate positions; e.g., china rose, mustard, sunflower.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In opposite type, a pair of leaves arise at each node and lie opposite to each other as in Calotropis and guava plants.",
+    "question": "Opposite phyllotaxy is found in:",
+    "options": {
+      "A": "Mustard",
+      "B": "Calotropis and guava",
+      "C": "Alstonia",
+      "D": "Neem"
+    },
+    "correct_answer": "B",
+    "explanation": "Opposite phyllotaxy has paired leaves at each node lying opposite; e.g., Calotropis and guava.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "If more than two leaves arise at a node and form a whorl, it is called whorled, as in Alstonia.",
+    "question": "Whorled phyllotaxy is exemplified by:",
+    "options": {
+      "A": "China rose",
+      "B": "Guava",
+      "C": "Alstonia",
+      "D": "Mustard"
+    },
+    "correct_answer": "C",
+    "explanation": "Whorled phyllotaxy has more than two leaves forming a circle at a node, as in Alstonia.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "A flower is a modified shoot wherein the shoot apical meristem changes to floral meristem.",
+    "question": "A flower develops when:",
+    "options": {
+      "A": "Root apical meristem divides",
+      "B": "Shoot apical meristem changes to floral meristem",
+      "C": "Leaf primordia elongate",
+      "D": "Ovule undergoes meiosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Flowers are modified shoots formed when shoot apical meristem becomes floral meristem.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The arrangement of flowers on the floral axis is termed as inflorescence.",
+    "question": "Inflorescence is:",
+    "options": {
+      "A": "Arrangement of leaves on stem",
+      "B": "Arrangement of flowers on the floral axis",
+      "C": "Arrangement of ovules in ovary",
+      "D": "Arrangement of seeds in fruit"
+    },
+    "correct_answer": "B",
+    "explanation": "Inflorescence refers to how flowers are arranged on the floral axis.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In racemose type of inflorescences the main axis continues to grow, the flowers are borne laterally in an acropetal succession.",
+    "question": "In racemose inflorescence:",
+    "options": {
+      "A": "Main axis terminates in a flower",
+      "B": "Main axis continues to grow; flowers borne laterally in acropetal order",
+      "C": "Flowers are borne in basipetal order",
+      "D": "Only one flower is present"
+    },
+    "correct_answer": "B",
+    "explanation": "Racemose inflorescences have a continuously growing main axis with acropetal lateral flowers.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In cymose type of inflorescence the main axis terminates in a flower, hence is limited in growth. The flowers are borne in a basipetal order.",
+    "question": "In cymose inflorescence:",
+    "options": {
+      "A": "Main axis continues indefinite growth",
+      "B": "Main axis terminates in a flower; flowers in basipetal order",
+      "C": "Flowers are always solitary",
+      "D": "Flowers open in acropetal succession"
+    },
+    "correct_answer": "B",
+    "explanation": "Cymose inflorescences have limited growth with terminal flower and basipetal flower arrangement.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In some flowers like lily, the calyx and corolla are not distinct and are termed as perianth.",
+    "question": "When calyx and corolla are not distinct, they together form:",
+    "options": {
+      "A": "Androecium",
+      "B": "Perianth",
+      "C": "Thalamus",
+      "D": "Placenta"
+    },
+    "correct_answer": "B",
+    "explanation": "In flowers like lily, undifferentiated calyx and corolla are called perianth.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When a flower can be divided into two equal radial halves in any radial plane passing through the centre, it is said to be actinomorphic, e.g., mustard, datura, chilli.",
+    "question": "Mustard flower shows which symmetry?",
+    "options": {
+      "A": "Zygomorphic",
+      "B": "Actinomorphic",
+      "C": "Asymmetric",
+      "D": "Bilateral only in vertical plane"
+    },
+    "correct_answer": "B",
+    "explanation": "Actinomorphic flowers like mustard can be divided into equal halves in any radial plane.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When it can be divided into two similar halves only in one particular vertical plane, it is zygomorphic, e.g., pea, gulmohur, bean, Cassia.",
+    "question": "Pea flower is:",
+    "options": {
+      "A": "Actinomorphic",
+      "B": "Zygomorphic",
+      "C": "Asymmetric",
+      "D": "Trimerous"
+    },
+    "correct_answer": "B",
+    "explanation": "Pea has zygomorphic (bilateral) symmetry— divisible into similar halves in one vertical plane only.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "A flower is asymmetric (irregular) if it cannot be divided into two similar halves by any vertical plane passing through the centre, as in canna.",
+    "question": "An asymmetric flower example is:",
+    "options": {
+      "A": "Mustard",
+      "B": "Pea",
+      "C": "Canna",
+      "D": "Datura"
+    },
+    "correct_answer": "C",
+    "explanation": "Canna has asymmetric (irregular) flowers not divisible into similar halves by any vertical plane.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Flowers with bracts-reduced leaf found at the base of the pedicel-are called bracteate and those without bracts, ebracteate.",
+    "question": "A bracteate flower is one that:",
+    "options": {
+      "A": "Lacks sepals",
+      "B": "Has a reduced leaf (bract) at the base of the pedicel",
+      "C": "Has inferior ovary",
+      "D": "Is unisexual"
+    },
+    "correct_answer": "B",
+    "explanation": "Bracteate flowers bear bracts (reduced leaves) at the pedicel base; without bracts they are ebracteate.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In the hypogynous flower the gynoecium occupies the highest position while the other parts are situated below it. The ovary in such flowers is said to be superior, e.g., mustard, china rose and brinjal.",
+    "question": "Mustard has which type of flower and ovary position?",
+    "options": {
+      "A": "Epigynous with inferior ovary",
+      "B": "Hypogynous with superior ovary",
+      "C": "Perigynous with half inferior ovary",
+      "D": "Hypogynous with inferior ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "Mustard has hypogynous flowers with superior ovary (gynoecium at highest position).",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "If gynoecium is situated in the centre and other parts of the flower are located on the rim of the thalamus almost at the same level, it is called perigynous. The ovary here is said to be half inferior, e.g., plum, rose, peach.",
+    "question": "Half inferior ovary is seen in flowers of:",
+    "options": {
+      "A": "Mustard and brinjal",
+      "B": "Plum, rose and peach",
+      "C": "Guava and cucumber",
+      "D": "Lily only"
+    },
+    "correct_answer": "B",
+    "explanation": "Perigynous flowers like plum, rose and peach have half inferior ovary.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In epigynous flowers, the margin of thalamus grows upward enclosing the ovary completely and getting fused with it, the other parts of flower arise above the ovary. Hence, the ovary is said to be inferior as in flowers of guava and cucumber.",
+    "question": "Guava flower has:",
+    "options": {
+      "A": "Superior ovary",
+      "B": "Half inferior ovary",
+      "C": "Inferior ovary (epigynous)",
+      "D": "Apocarpous gynoecium"
+    },
+    "correct_answer": "C",
+    "explanation": "Guava has epigynous flowers with inferior ovary enclosed by thalamus.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The calyx may be gamosepalous (sepals united) or polysepalous (sepals free).",
+    "question": "When sepals are united, the calyx is:",
+    "options": {
+      "A": "Polysepalous",
+      "B": "Gamosepalous",
+      "C": "Polypetalous",
+      "D": "Epipetalous"
+    },
+    "correct_answer": "B",
+    "explanation": "Gamosepalous calyx has united sepals; polysepalous has free sepals.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Like calyx, corolla may also be gamopetalous (petals united) or polypetalous (petals free).",
+    "question": "Gamopetalous corolla has:",
+    "options": {
+      "A": "Free petals",
+      "B": "United petals",
+      "C": "Free sepals",
+      "D": "United stamens only"
+    },
+    "correct_answer": "B",
+    "explanation": "Gamopetalous corolla has fused petals; polypetalous has free petals.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The mode of arrangement of sepals or petals in floral bud with respect to the other members of the same whorl is known as aestivation.",
+    "question": "Aestivation refers to:",
+    "options": {
+      "A": "Arrangement of ovules in ovary",
+      "B": "Mode of arrangement of sepals or petals in floral bud",
+      "C": "Pattern of leaf arrangement on stem",
+      "D": "Type of root system"
+    },
+    "correct_answer": "B",
+    "explanation": "Aestivation describes how sepals or petals overlap in the floral bud.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When sepals or petals in a whorl just touch one another at the margin, without overlapping, as in Calotropis, it is said to be valvate.",
+    "question": "Valvate aestivation is seen in:",
+    "options": {
+      "A": "China rose",
+      "B": "Calotropis",
+      "C": "Pea",
+      "D": "Cassia"
+    },
+    "correct_answer": "B",
+    "explanation": "Valvate aestivation: members just touch at margins without overlapping, as in Calotropis.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "If one margin of the appendage overlaps that of the next one and so on as in china rose, lady's finger and cotton, it is called twisted.",
+    "question": "Twisted aestivation is found in:",
+    "options": {
+      "A": "Calotropis",
+      "B": "China rose, lady's finger and cotton",
+      "C": "Pea",
+      "D": "Mustard only"
+    },
+    "correct_answer": "B",
+    "explanation": "Twisted aestivation shows one margin overlapping the next sequentially; e.g., china rose, lady's finger, cotton.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "If the margins of sepals or petals overlap one another but not in any particular direction as in Cassia and gulmohur, the aestivation is called imbricate.",
+    "question": "Imbricate aestivation occurs in:",
+    "options": {
+      "A": "Pea",
+      "B": "Cassia and gulmohur",
+      "C": "Calotropis",
+      "D": "China rose"
+    },
+    "correct_answer": "B",
+    "explanation": "Imbricate aestivation has overlapping margins without fixed direction, as in Cassia and gulmohur.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In pea and bean flowers, there are five petals, the largest (standard) overlaps the two lateral petals (wings) which in turn overlap the two smallest anterior petals (keel); this type of aestivation is known as vexillary or papilionaceous.",
+    "question": "Vexillary (papilionaceous) aestivation is characteristic of:",
+    "options": {
+      "A": "Mustard",
+      "B": "Pea and bean",
+      "C": "Lily",
+      "D": "Sunflower"
+    },
+    "correct_answer": "B",
+    "explanation": "Pea and bean show vexillary aestivation with standard, wings and keel petals.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Each anther is usually bilobed and each lobe has two chambers, the pollen-sacs. The pollen grains are produced in pollen-sacs.",
+    "question": "Pollen grains are produced in:",
+    "options": {
+      "A": "Ovules",
+      "B": "Pollen-sacs of anther lobes",
+      "C": "Stigma",
+      "D": "Endosperm"
+    },
+    "correct_answer": "B",
+    "explanation": "Each bilobed anther has pollen-sacs in its lobes where pollen grains form.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When stamens are attached to the petals, they are epipetalous as in brinjal, or epiphyllous when attached to the perianth as in the flowers of lily.",
+    "question": "Epipetalous stamens are found in:",
+    "options": {
+      "A": "Lily",
+      "B": "Brinjal",
+      "C": "Pea",
+      "D": "Mustard"
+    },
+    "correct_answer": "B",
+    "explanation": "Epipetalous stamens are adnate to petals, as in brinjal; lily shows epiphyllous on perianth.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The stamens in a flower may either remain free (polyandrous) or may be united in varying degrees.",
+    "question": "When all stamens remain free, the androecium is:",
+    "options": {
+      "A": "Monoadelphous",
+      "B": "Diadelphous",
+      "C": "Polyandrous",
+      "D": "Syncarpous"
+    },
+    "correct_answer": "C",
+    "explanation": "Polyandrous androecium has free (united) stamens.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The stamens may be united into one bunch or one bundle (monoadelphous) as in china rose, or two bundles (diadelphous) as in pea, or into more than two bundles (polyadelphous) as in citrus.",
+    "question": "Diadelphous stamens are found in:",
+    "options": {
+      "A": "China rose",
+      "B": "Pea",
+      "C": "Citrus",
+      "D": "Brinjal"
+    },
+    "correct_answer": "B",
+    "explanation": "Pea has diadelphous stamens united into two bundles; china rose is monoadelphous, citrus polyadelphous.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "There may be a variation in the length of filaments within a flower, as in Salvia and mustard.",
+    "question": "Variation in filament length within a flower is seen in:",
+    "options": {
+      "A": "Pea only",
+      "B": "Salvia and mustard",
+      "C": "Lily",
+      "D": "Guava"
+    },
+    "correct_answer": "B",
+    "explanation": "Salvia and mustard show differing stamen filament lengths within the same flower.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When more than one carpel is present, they may be free (as in lotus and rose) and are called apocarpous.",
+    "question": "Apocarpous gynoecium is seen in:",
+    "options": {
+      "A": "Mustard and tomato",
+      "B": "Lotus and rose",
+      "C": "Pea",
+      "D": "Sunflower"
+    },
+    "correct_answer": "B",
+    "explanation": "Apocarpous gynoecium has free carpels, as in lotus and rose.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "They are termed syncarpous when carpels are fused, as in mustard and tomato.",
+    "question": "Syncarpous gynoecium is found in:",
+    "options": {
+      "A": "Lotus",
+      "B": "Mustard and tomato",
+      "C": "Rose",
+      "D": "Pea only"
+    },
+    "correct_answer": "B",
+    "explanation": "Syncarpous gynoecium has fused carpels, as in mustard and tomato.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The arrangement of ovules within the ovary is known as placentation.",
+    "question": "Placentation refers to:",
+    "options": {
+      "A": "Arrangement of petals in bud",
+      "B": "Arrangement of ovules within the ovary",
+      "C": "Arrangement of leaves on stem",
+      "D": "Arrangement of roots on stem base"
+    },
+    "correct_answer": "B",
+    "explanation": "Placentation is the pattern of ovule attachment inside the ovary.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In marginal placentation the placenta forms a ridge along the ventral suture of the ovary and the ovules are borne on this ridge forming two rows, as in pea.",
+    "question": "Marginal placentation is seen in:",
+    "options": {
+      "A": "Tomato",
+      "B": "Pea",
+      "C": "Dianthus",
+      "D": "Sunflower"
+    },
+    "correct_answer": "B",
+    "explanation": "Pea shows marginal placentation with ovules in two rows on a ventral ridge.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When the placenta is axial and the ovules are attached to it in a multilocular ovary, the placentation is said to be axile, as in china rose, tomato and lemon.",
+    "question": "Axile placentation occurs in:",
+    "options": {
+      "A": "Pea",
+      "B": "China rose, tomato and lemon",
+      "C": "Mustard",
+      "D": "Marigold"
+    },
+    "correct_answer": "B",
+    "explanation": "Axile placentation has ovules on central axis in multilocular ovary; e.g., china rose, tomato, lemon.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In parietal placentation, the ovules develop on the inner wall of the ovary or on peripheral part. Ovary is one-chambered but it becomes two-chambered due to the formation of the false septum, e.g., mustard and Argemone.",
+    "question": "Parietal placentation with false septum is seen in:",
+    "options": {
+      "A": "Pea",
+      "B": "Mustard and Argemone",
+      "C": "Tomato",
+      "D": "Primrose"
+    },
+    "correct_answer": "B",
+    "explanation": "Mustard and Argemone show parietal placentation; false septum makes ovary appear two-chambered.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When the ovules are borne on central axis and septa are absent, as in Dianthus and Primrose the placentation is called free central.",
+    "question": "Free central placentation is found in:",
+    "options": {
+      "A": "Pea",
+      "B": "Dianthus and Primrose",
+      "C": "Lemon",
+      "D": "Argemone"
+    },
+    "correct_answer": "B",
+    "explanation": "Free central placentation has ovules on a central axis without septa, as in Dianthus and Primrose.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In basal placentation, the placenta develops at the base of ovary and a single ovule is attached to it, as in sunflower, marigold.",
+    "question": "Basal placentation with a single ovule is seen in:",
+    "options": {
+      "A": "Tomato",
+      "B": "Sunflower and marigold",
+      "C": "Pea",
+      "D": "China rose"
+    },
+    "correct_answer": "B",
+    "explanation": "Basal placentation has one ovule at the ovary base, as in sunflower and marigold.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The fruit is a characteristic feature of the flowering plants. It is a mature or ripened ovary, developed after fertilisation.",
+    "question": "A fruit is:",
+    "options": {
+      "A": "Modified root after germination",
+      "B": "Mature or ripened ovary developed after fertilisation",
+      "C": "Modified leaf for photosynthesis",
+      "D": "Dry seed coat only"
+    },
+    "correct_answer": "B",
+    "explanation": "Fruit is the characteristic mature/ripened ovary of flowering plants formed after fertilisation.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "If a fruit is formed without fertilisation of the ovary, it is called a parthenocarpic fruit.",
+    "question": "A fruit formed without fertilisation of the ovary is:",
+    "options": {
+      "A": "Drupe",
+      "B": "Parthenocarpic fruit",
+      "C": "Endospermic seed",
+      "D": "Syncarpous fruit"
+    },
+    "correct_answer": "B",
+    "explanation": "Parthenocarpic fruits develop from unfertilised ovaries.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "When pericarp is thick and fleshy, it is differentiated into the outer epicarp, the middle mesocarp and the inner endocarp.",
+    "question": "A thick fleshy pericarp is differentiated into:",
+    "options": {
+      "A": "Testa, tegmen and hilum",
+      "B": "Epicarp, mesocarp and endocarp",
+      "C": "Calyx, corolla and androecium",
+      "D": "Coleoptile and coleorhiza"
+    },
+    "correct_answer": "B",
+    "explanation": "Fleshy pericarp has three layers: epicarp (outer), mesocarp (middle), endocarp (inner).",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In mango and coconut, the fruit is known as a drupe. They develop from monocarpellary superior ovaries and are one seeded.",
+    "question": "Mango and coconut fruits are:",
+    "options": {
+      "A": "Capsules",
+      "B": "Drupes from monocarpellary superior ovaries",
+      "C": "Multiple fruits",
+      "D": "Parthenocarpic berries"
+    },
+    "correct_answer": "B",
+    "explanation": "Mango and coconut are one-seeded drupes from monocarpellary superior ovaries.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In mango the pericarp is well differentiated into an outer thin epicarp, a middle fleshy edible mesocarp and an inner stony hard endocarp.",
+    "question": "In mango, the edible fleshy part is the:",
+    "options": {
+      "A": "Epicarp",
+      "B": "Mesocarp",
+      "C": "Endocarp",
+      "D": "Seed coat"
+    },
+    "correct_answer": "B",
+    "explanation": "Mango mesocarp is fleshy and edible; endocarp is stony hard.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In coconut which is also a drupe, the mesocarp is fibrous.",
+    "question": "In coconut drupe, the mesocarp is:",
+    "options": {
+      "A": "Fleshy and edible like mango",
+      "B": "Fibrous",
+      "C": "Absent",
+      "D": "Stony hard"
+    },
+    "correct_answer": "B",
+    "explanation": "Coconut is a drupe with fibrous mesocarp (coir).",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The embryo is made up of a radicle, an embryonal axis and one (as in wheat, maize) or two cotyledons (as in gram and pea).",
+    "question": "Gram and pea embryos have:",
+    "options": {
+      "A": "One cotyledon",
+      "B": "Two cotyledons",
+      "C": "No radicle",
+      "D": "Scutellum instead of cotyledons"
+    },
+    "correct_answer": "B",
+    "explanation": "Gram and pea are dicots with two cotyledons; wheat and maize have one.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The seed coat has two layers, the outer testa and the inner tegmen.",
+    "question": "The two layers of seed coat are:",
+    "options": {
+      "A": "Epicarp and mesocarp",
+      "B": "Testa (outer) and tegmen (inner)",
+      "C": "Coleoptile and coleorhiza",
+      "D": "Stigma and style"
+    },
+    "correct_answer": "B",
+    "explanation": "Seed coat has outer testa and inner tegmen.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The hilum is a scar on the seed coat through which the developing seeds were attached to the fruit.",
+    "question": "Hilum is:",
+    "options": {
+      "A": "Pore for water entry",
+      "B": "Scar on seed coat where seed was attached to fruit",
+      "C": "Food storing tissue",
+      "D": "Embryo axis"
+    },
+    "correct_answer": "B",
+    "explanation": "Hilum is the scar marking attachment of seed to fruit.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Above the hilum is a small pore called the micropyle.",
+    "question": "Micropyle is located:",
+    "options": {
+      "A": "Below the hilum",
+      "B": "Above the hilum as a small pore",
+      "C": "Inside the endosperm only",
+      "D": "On the radicle tip always"
+    },
+    "correct_answer": "B",
+    "explanation": "Micropyle is a small pore above the hilum on the seed coat.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "At the two ends of the embryonal axis are present the radicle and the plumule.",
+    "question": "Radicle and plumule are located at:",
+    "options": {
+      "A": "Same end of embryonal axis",
+      "B": "Two ends of the embryonal axis",
+      "C": "Inside cotyledons only",
+      "D": "On seed coat surface"
+    },
+    "correct_answer": "B",
+    "explanation": "Radicle and plumule lie at opposite ends of the embryonal axis.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In some seeds such as castor the endosperm formed as a result of double fertilisation, is a food storing tissue and called endospermic seeds.",
+    "question": "Castor seed is an example of:",
+    "options": {
+      "A": "Non-endospermic seed",
+      "B": "Endospermic seed",
+      "C": "Parthenocarpic fruit",
+      "D": "Monocot without endosperm"
+    },
+    "correct_answer": "B",
+    "explanation": "Castor retains endosperm as food storage— an endospermic seed.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In plants such as bean, gram and pea, the endosperm is not present in mature seeds and such seeds are called non-endospermous.",
+    "question": "Bean, gram and pea have:",
+    "options": {
+      "A": "Endospermic seeds",
+      "B": "Non-endospermic seeds",
+      "C": "No embryo",
+      "D": "No seed coat"
+    },
+    "correct_answer": "B",
+    "explanation": "In bean, gram and pea, endosperm is consumed during development— non-endospermic seeds.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In the seeds of cereals such as maize the seed coat is membranous and generally fused with the fruit wall.",
+    "question": "In maize seed, the seed coat is:",
+    "options": {
+      "A": "Thick and stony",
+      "B": "Membranous and generally fused with fruit wall",
+      "C": "Absent",
+      "D": "Identical to mango endocarp"
+    },
+    "correct_answer": "B",
+    "explanation": "Maize (cereal) seeds have membranous seed coat often fused with fruit wall.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The outer covering of endosperm separates the embryo by a proteinous layer called aleurone layer.",
+    "question": "The proteinous layer separating embryo from endosperm in cereals is:",
+    "options": {
+      "A": "Testa",
+      "B": "Aleurone layer",
+      "C": "Mesocarp",
+      "D": "Placenta"
+    },
+    "correct_answer": "B",
+    "explanation": "Aleurone layer is the proteinous covering between endosperm and embryo in cereal seeds.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "It consists of one large and shield shaped cotyledon known as scutellum and a short axis with a plumule and a radicle.",
+    "question": "The shield-shaped cotyledon in monocot seeds is called:",
+    "options": {
+      "A": "Rachis",
+      "B": "Scutellum",
+      "C": "Pulvinus",
+      "D": "Stipule"
+    },
+    "correct_answer": "B",
+    "explanation": "Monocot embryo has one large shield-shaped cotyledon called scutellum.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The plumule and radicle are enclosed in sheaths which are called coleoptile and coleorhiza respectively.",
+    "question": "In monocot seed, the sheath enclosing plumule and radicle are respectively:",
+    "options": {
+      "A": "Testa and tegmen",
+      "B": "Coleoptile and coleorhiza",
+      "C": "Epicarp and endocarp",
+      "D": "Stigma and style"
+    },
+    "correct_answer": "B",
+    "explanation": "Coleoptile encloses plumule; coleorhiza encloses radicle in monocot seeds.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The plant is described beginning with its habit, vegetative characters – roots, stem and leaves and then floral characters inflorescence and flower parts.",
+    "question": "In semi-technical description of a flowering plant, floral characters are described:",
+    "options": {
+      "A": "Before vegetative characters",
+      "B": "After vegetative characters (roots, stem, leaves)",
+      "C": "Only in floral formula, not in text",
+      "D": "Only for monocots"
+    },
+    "correct_answer": "B",
+    "explanation": "Description follows habit → vegetative (roots, stem, leaves) → floral (inflorescence, flower parts).",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In the floral formula, Br stands for bracteate K stands for calyx, C for corolla, P for perianth, A for androecium and G for Gynoecium.",
+    "question": "In floral formula, symbol 'K' stands for:",
+    "options": {
+      "A": "Corolla",
+      "B": "Calyx",
+      "C": "Androecium",
+      "D": "Gynoecium"
+    },
+    "correct_answer": "B",
+    "explanation": "K = calyx, C = corolla, P = perianth, A = androecium, G = gynoecium in floral formula.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "G for superior ovary and G with bar for inferior ovary.",
+    "question": "In floral formula, a bar over G (G̅) indicates:",
+    "options": {
+      "A": "Superior ovary",
+      "B": "Inferior ovary",
+      "C": "Apocarpous gynoecium",
+      "D": "Unisexual flower"
+    },
+    "correct_answer": "B",
+    "explanation": "G̅ denotes inferior ovary; G without bar indicates superior ovary.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The position of the mother axis with respect to the flower is represented by a dot on the top of the floral diagram.",
+    "question": "In a floral diagram, the mother axis is represented by:",
+    "options": {
+      "A": "A circle at the base",
+      "B": "A dot on the top",
+      "C": "A line through gynoecium",
+      "D": "Shading of calyx"
+    },
+    "correct_answer": "B",
+    "explanation": "Mother axis position is marked by a dot at the top of the floral diagram.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Calyx, corolla, androecium and gynoecium are drawn in successive whorls, calyx being the outermost and the gynoecium being in the centre.",
+    "question": "In floral diagram, the innermost whorl drawn is:",
+    "options": {
+      "A": "Calyx",
+      "B": "Corolla",
+      "C": "Androecium",
+      "D": "Gynoecium"
+    },
+    "correct_answer": "D",
+    "explanation": "Floral diagram whorls from outside in: calyx, corolla, androecium, gynoecium (centre).",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The floral diagram and floral formula in Figure 5.16 represents the mustard plant (Family: Brassicaceae).",
+    "question": "The floral diagram and formula in Figure 5.16 represent:",
+    "options": {
+      "A": "Pea (Fabaceae)",
+      "B": "Mustard (Brassicaceae)",
+      "C": "Solanum (Solanaceae)",
+      "D": "Lily (Liliaceae)"
+    },
+    "correct_answer": "B",
+    "explanation": "Figure 5.16 shows mustard belonging to family Brassicaceae.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In the floral formula, Br stands for bracteate K stands for calyx, C for corolla, P for perianth, A for androecium and G for Gynoecium.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants",
+    "question": "In floral formula, symbol 'A' represents:",
+    "options": {
+      "A": "Androecium",
+      "B": "Accessory organs",
+      "C": "Axillary bud",
+      "D": "Alternate phyllotaxy"
+    },
+    "correct_answer": "A",
+    "explanation": "A denotes androecium in floral formula; K=calyx, C=corolla, P=perianth, G=gynoecium."
+  },
+  {
+    "source_sentence": "In the floral formula, Br stands for bracteate K stands for calyx, C for corolla, P for perianth, A for androecium and G for Gynoecium.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants",
+    "question": "In floral formula, symbol 'P' stands for:",
+    "options": {
+      "A": "Petiole",
+      "B": "Perianth",
+      "C": "Placenta",
+      "D": "Pulvinus"
+    },
+    "correct_answer": "B",
+    "explanation": "P represents perianth when calyx and corolla are not differentiated."
+  },
+  {
+    "source_sentence": "In the floral formula, Br stands for bracteate.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants",
+    "question": "In floral formula, 'Br' indicates:",
+    "options": {
+      "A": "Bracteate flower",
+      "B": "Basal placentation",
+      "C": "Bicarpellary gynoecium",
+      "D": "Berry fruit"
+    },
+    "correct_answer": "A",
+    "explanation": "Br in floral formula denotes a bracteate flower (with bracts at pedicel base)."
+  },
+  {
+    "source_sentence": "⊕ for actinomorphic and % for zygomorphic nature of flower.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants",
+    "question": "In floral formula, the symbol ⊕ indicates:",
+    "options": {
+      "A": "Zygomorphic flower",
+      "B": "Actinomorphic flower",
+      "C": "Unisexual flower",
+      "D": "Inferior ovary"
+    },
+    "correct_answer": "B",
+    "explanation": "⊕ denotes actinomorphic (radially symmetric) flowers; % indicates zygomorphic symmetry."
+  },
+  {
+    "source_sentence": "It is a large family, commonly called as the 'potato family'.",
+    "question": "Solanaceae is commonly called:",
+    "options": {
+      "A": "Mustard family",
+      "B": "Potato family",
+      "C": "Pea family",
+      "D": "Lily family"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae is widely known as the potato family.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Plants mostly herbs, shrubs and rarely small trees",
+    "question": "Solanaceae plants are mostly:",
+    "options": {
+      "A": "Large trees only",
+      "B": "Herbs, shrubs and rarely small trees",
+      "C": "Aquatic algae",
+      "D": "Climbing bryophytes"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae members are predominantly herbs and shrubs, rarely small trees.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Stem: herbaceous rarely woody, aerial; erect, cylindrical, branched, solid or hollow, hairy or glabrous, underground stem in potato (Solanum tuberosum)",
+    "question": "Potato (Solanum tuberosum) has:",
+    "options": {
+      "A": "Aerial photosynthetic stem only",
+      "B": "Underground stem modification",
+      "C": "Fibrous tap root storage",
+      "D": "Whorled phyllotaxy only"
+    },
+    "correct_answer": "B",
+    "explanation": "Potato has underground stem (tuber) modification in Solanaceae.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Leaves: alternate, simple, rarely pinnately compound, exstipulate; venation reticulate",
+    "question": "Leaves in Solanaceae are typically:",
+    "options": {
+      "A": "Opposite, compound, stipulate with parallel venation",
+      "B": "Alternate, simple, exstipulate with reticulate venation",
+      "C": "Whorled with parallel venation",
+      "D": "Absent in all members"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae leaves are alternate, simple (rarely pinnately compound), exstipulate, reticulate.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Inflorescence: Solitary, axillary or cymose as in Solanum",
+    "question": "Inflorescence in Solanum is:",
+    "options": {
+      "A": "Always racemose spike",
+      "B": "Solitary, axillary or cymose",
+      "C": "Always capitulum",
+      "D": "Always whorled cyme at stem tip only"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanum shows solitary, axillary or cymose inflorescence.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Flower: bisexual, actinomorphic",
+    "question": "Solanaceae flowers are generally:",
+    "options": {
+      "A": "Unisexual and zygomorphic",
+      "B": "Bisexual and actinomorphic",
+      "C": "Unisexual and actinomorphic",
+      "D": "Bisexual and asymmetric"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae flowers are bisexual with radial (actinomorphic) symmetry.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Calyx: sepals five, united, persistent, valvate aestivation",
+    "question": "Calyx in Solanaceae has:",
+    "options": {
+      "A": "Four free sepals with twisted aestivation",
+      "B": "Five united sepals with valvate aestivation",
+      "C": "Three sepals with imbricate aestivation",
+      "D": "Sepals absent"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae calyx: 5 united, persistent sepals with valvate aestivation.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Corolla: petals five, united; valvate aestivation",
+    "question": "Corolla in Solanaceae is:",
+    "options": {
+      "A": "Five free petals with vexillary aestivation",
+      "B": "Five united petals with valvate aestivation",
+      "C": "Four united petals",
+      "D": "Polypetalous with twisted aestivation"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae corolla has 5 united petals with valvate aestivation.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Androecium: stamens five, epipetalous",
+    "question": "Androecium in Solanaceae is:",
+    "options": {
+      "A": "Ten diadelphous stamens",
+      "B": "Five epipetalous stamens",
+      "C": "Three polyandrous stamens",
+      "D": "Stamens attached to sepals"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae has 5 stamens epipetalous (adnate to petals).",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Gynoecium: bicarpellary obligately placed, syncarpous; ovary superior, bilocular, placenta swollen with many ovules, axile",
+    "question": "Gynoecium in Solanaceae is:",
+    "options": {
+      "A": "Tricarpellary, apocarpous with parietal placentation",
+      "B": "Bicarpellary, syncarpous, superior ovary with axile placentation",
+      "C": "Monocarpellary with inferior ovary",
+      "D": "Absent in bisexual flowers"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae gynoecium: bicarpellary, syncarpous, superior, bilocular, axile placentation.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Fruits: berry or capsule",
+    "question": "Fruits in Solanaceae may be:",
+    "options": {
+      "A": "Drupe or samara",
+      "B": "Berry or capsule",
+      "C": "Cypsela only",
+      "D": "Legume only"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae fruits are berry or capsule type.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Seeds: many, endospermous",
+    "question": "Seeds in Solanaceae are:",
+    "options": {
+      "A": "Single, non-endospermic",
+      "B": "Many, endospermous",
+      "C": "Without seed coat",
+      "D": "Always viviparous"
+    },
+    "correct_answer": "B",
+    "explanation": "Solanaceae produces many endospermous seeds.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Many plants belonging to this family are source of food (tomato, brinjal, potato), spice (chilli); medicine (belladonna, ashwagandha); fumigatory (tobacco); ornamentals (petunia).",
+    "question": "Which of the following is a Solanaceae spice?",
+    "options": {
+      "A": "Mustard",
+      "B": "Chilli",
+      "C": "Cinnamon",
+      "D": "Turmeric"
+    },
+    "correct_answer": "B",
+    "explanation": "Chilli is a Solanaceae spice; tomato, brinjal, potato are food; tobacco is fumigatory.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Generally, dicotyledonous plants have tap roots while monocotyledonous plants have fibrous roots.",
+    "question": "Generally, tap roots are found in:",
+    "options": {
+      "A": "Monocotyledons",
+      "B": "Dicotyledons",
+      "C": "Algae",
+      "D": "Fungi"
+    },
+    "correct_answer": "B",
+    "explanation": "Dicots generally have tap roots; monocots have fibrous roots.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The morphological features of stems like the presence of nodes and internodes, multicellular hair and positively phototropic nature help to differentiate the stems from roots.",
+    "question": "Which feature helps differentiate stem from root?",
+    "options": {
+      "A": "Absence of nodes",
+      "B": "Presence of nodes and internodes",
+      "C": "Negative phototropism",
+      "D": "Always underground location"
+    },
+    "correct_answer": "B",
+    "explanation": "Stems have nodes/internodes, multicellular hairs and positive phototropism— unlike roots.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "Leaf is a lateral outgrowth of stem developed exogeneously at the node.",
+    "question": "Leaves develop:",
+    "options": {
+      "A": "Endogenously from root",
+      "B": "Exogenously at the node of stem",
+      "C": "From floral meristem only",
+      "D": "From endosperm"
+    },
+    "correct_answer": "B",
+    "explanation": "Leaves are lateral exogenous outgrowths of stem at nodes.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "In epigynous flowers, the margin of thalamus grows upward enclosing the ovary completely and getting fused with it, the other parts of flower arise above the ovary. Hence, the ovary is said to be inferior as in flowers of guava and cucumber, and the ray florets of sunflower.",
+    "question": "Inferior ovary in ray florets is seen in:",
+    "options": {
+      "A": "Mustard",
+      "B": "Sunflower",
+      "C": "Pea",
+      "D": "Rose"
+    },
+    "correct_answer": "B",
+    "explanation": "Sunflower ray florets have epigynous flowers with inferior ovary.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  },
+  {
+    "source_sentence": "The stamens may be united into one bunch or one bundle (monoadelphous) as in china rose.",
+    "question": "Monoadelphous androecium is found in:",
+    "options": {
+      "A": "Pea",
+      "B": "China rose",
+      "C": "Citrus",
+      "D": "Mustard"
+    },
+    "correct_answer": "B",
+    "explanation": "China rose has monoadelphous stamens united in one bundle.",
+    "chapter": "Chapter 5: Morphology of Flowering Plants"
+  }
+]

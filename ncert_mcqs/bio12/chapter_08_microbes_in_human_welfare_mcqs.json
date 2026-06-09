@@ -1,0 +1,1172 @@
+[
+  {
+    "source_sentence": "Microbes are present everywhere – in soil, water, air, inside our bodies and that of other animals and plants.",
+    "question": "Where are microbes found?",
+    "options": {
+      "A": "Only in soil",
+      "B": "Only in water bodies",
+      "C": "Everywhere including soil, water, air and inside living organisms",
+      "D": "Only in laboratory cultures"
+    },
+    "correct_answer": "C",
+    "explanation": "Microbes are ubiquitous and occur in soil, water, air, and within the bodies of animals and plants.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "They are present even at sites where no other life-form could possibly exist – sites such as deep inside the geysers (thermal vents) where the temperature may be as high as 100°C.",
+    "question": "Microbes can survive in extreme environments such as:",
+    "options": {
+      "A": "Only temperate forests",
+      "B": "Thermal vents in geysers at about 100°C",
+      "C": "Only sterile laboratory media",
+      "D": "Vacuum of outer space only"
+    },
+    "correct_answer": "B",
+    "explanation": "Microbes exist even in extreme sites like geysers where temperatures may reach 100°C.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Microbes are diverse–protozoa, bacteria, fungi and microscopic animal and plant viruses, viroids and also prions that are proteinacious infectious agents.",
+    "question": "Which of the following is NOT listed among the diverse groups of microbes in NCERT Class 12 Biology?",
+    "options": {
+      "A": "Protozoa and bacteria",
+      "B": "Fungi and viruses",
+      "C": "Viroids and prions",
+      "D": "Macroscopic algae"
+    },
+    "correct_answer": "D",
+    "explanation": "Microbial diversity includes protozoa, bacteria, fungi, viruses, viroids, and prions—not macroscopic algae.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Microbes like bacteria and many fungi can be grown on nutritive media to form colonies that can be seen with the naked eyes.",
+    "question": "Bacterial and fungal colonies grown on nutritive media are:",
+    "options": {
+      "A": "Visible only under electron microscope",
+      "B": "Visible with the naked eye",
+      "C": "Always invisible",
+      "D": "Visible only in liquid media"
+    },
+    "correct_answer": "B",
+    "explanation": "On nutritive media, bacteria and many fungi form colonies large enough to be seen without a microscope.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "But this should not make you think that all microbes are harmful; several microbes are useful to man in diverse ways.",
+    "question": "Regarding microbes and human welfare, which statement is correct?",
+    "options": {
+      "A": "All microbes are harmful",
+      "B": "Only viruses are useful",
+      "C": "Several microbes are useful to humans in diverse ways",
+      "D": "Useful microbes exist only in industry"
+    },
+    "correct_answer": "C",
+    "explanation": "Although many microbes cause disease, numerous others benefit humans in household, industrial, and environmental roles.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Micro-organisms such as Lactobacillus and others commonly called lactic acid bacteria (LAB) grow in milk and convert it to curd.",
+    "question": "Which microorganisms convert milk into curd?",
+    "options": {
+      "A": "Saccharomyces cerevisiae",
+      "B": "Lactobacillus and other lactic acid bacteria (LAB)",
+      "C": "Rhizobium",
+      "D": "Penicillium notatum"
+    },
+    "correct_answer": "B",
+    "explanation": "Lactobacillus and related LAB grow in milk and ferment it into curd.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "During growth, the LAB produce acids that coagulate and partially digest the milk proteins.",
+    "question": "How do LAB transform milk into curd?",
+    "options": {
+      "A": "By producing enzymes that only add colour",
+      "B": "By producing acids that coagulate and partially digest milk proteins",
+      "C": "By removing all proteins from milk",
+      "D": "By converting lactose directly to ethanol"
+    },
+    "correct_answer": "B",
+    "explanation": "Acids produced by LAB coagulate milk and partially digest its proteins during curd formation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "A small amount of curd added to the fresh milk as inoculum or starter contain millions of LAB.",
+    "question": "In curd making, the starter or inoculum is:",
+    "options": {
+      "A": "A small amount of previously prepared curd containing millions of LAB",
+      "B": "Boiled milk without any microbes",
+      "C": "Yeast suspension only",
+      "D": "Commercial vinegar"
+    },
+    "correct_answer": "A",
+    "explanation": "A little curd added to fresh milk serves as inoculum because it contains millions of LAB.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Converting milk to curd, which also improves its nutritional quality by increasing vitamin B12.",
+    "question": "Curd formation improves the nutritional quality of milk by:",
+    "options": {
+      "A": "Decreasing vitamin B12",
+      "B": "Increasing vitamin B12",
+      "C": "Removing all vitamins",
+      "D": "Converting proteins to cellulose"
+    },
+    "correct_answer": "B",
+    "explanation": "LAB fermentation increases vitamin B12 content, enhancing the nutritional value of curd.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "In our stomach too, the LAB play very beneficial role in checking disease-causing microbes.",
+    "question": "What beneficial role do LAB play in the human stomach?",
+    "options": {
+      "A": "They produce alcohol for digestion",
+      "B": "They help check disease-causing microbes",
+      "C": "They destroy all gut bacteria indiscriminately",
+      "D": "They fix atmospheric nitrogen"
+    },
+    "correct_answer": "B",
+    "explanation": "LAB in the stomach suppress harmful microbes, contributing to gut health.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The dough, which is used for making foods such as dosa and idli is also fermented by bacteria.",
+    "question": "Dough used for making dosa and idli is fermented by:",
+    "options": {
+      "A": "Bacteria",
+      "B": "Viruses",
+      "C": "Prions",
+      "D": "Cyanobacteria only"
+    },
+    "correct_answer": "A",
+    "explanation": "Bacterial fermentation is used in preparing dough for traditional foods like dosa and idli.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The puffed-up appearance of dough is due to the production of CO2 gas.",
+    "question": "The puffed-up appearance of fermented dough is due to:",
+    "options": {
+      "A": "Production of oxygen",
+      "B": "Production of CO2 gas",
+      "C": "Absorption of nitrogen from air",
+      "D": "Evaporation of water only"
+    },
+    "correct_answer": "B",
+    "explanation": "CO2 released during microbial fermentation makes dough rise and appear puffed up.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The dough, which is used for making bread, is fermented using baker's yeast (Saccharomyces cerevisiae).",
+    "question": "Bread dough is fermented using:",
+    "options": {
+      "A": "Lactobacillus only",
+      "B": "Baker's yeast (Saccharomyces cerevisiae)",
+      "C": "Methanobacterium",
+      "D": "Bacillus thuringiensis"
+    },
+    "correct_answer": "B",
+    "explanation": "Saccharomyces cerevisiae, called baker's yeast, ferments bread dough.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "'Toddy', a traditional drink of some parts of southern India is made by fermenting sap from palms.",
+    "question": "Toddy, a traditional drink of southern India, is prepared by fermenting:",
+    "options": {
+      "A": "Grape juice",
+      "B": "Sap from palms",
+      "C": "Rice flour only",
+      "D": "Cattle dung slurry"
+    },
+    "correct_answer": "B",
+    "explanation": "Toddy is produced by microbial fermentation of palm sap in parts of southern India.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Microbes are also used to ferment fish, soyabean and bamboo shoots to make foods.",
+    "question": "Besides milk and cereals, microbes are used to ferment:",
+    "options": {
+      "A": "Only sugar cane",
+      "B": "Fish, soyabean and bamboo shoots",
+      "C": "Only mineral salts",
+      "D": "Petroleum products"
+    },
+    "correct_answer": "B",
+    "explanation": "Traditional food processing uses microbes to ferment fish, soyabean, and bamboo shoots.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Cheese, is one of the oldest food items in which microbes were used.",
+    "question": "Cheese is significant in food microbiology because it is:",
+    "options": {
+      "A": "One of the oldest foods produced using microbes",
+      "B": "Made without any microorganisms",
+      "C": "Produced only by chemical synthesis",
+      "D": "A modern industrial invention of the 21st century"
+    },
+    "correct_answer": "A",
+    "explanation": "Cheese ranks among the oldest foods in which microbes have been deliberately used.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The large holes in 'Swiss cheese' are due to production of a large amount of CO2 by a bacterium named Propionibacterium sharmanii.",
+    "question": "Large holes in Swiss cheese are formed due to CO2 produced by:",
+    "options": {
+      "A": "Saccharomyces cerevisiae",
+      "B": "Propionibacterium sharmanii",
+      "C": "Rhizobium",
+      "D": "Aspergillus niger"
+    },
+    "correct_answer": "B",
+    "explanation": "Propionibacterium sharmanii releases large amounts of CO2, creating the characteristic holes in Swiss cheese.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The 'Roquefort cheese' are ripened by growing a specific fungi on them, which gives them a particular flavour.",
+    "question": "Roquefort cheese acquires its characteristic flavour because it is ripened by:",
+    "options": {
+      "A": "Specific fungi grown on the cheese",
+      "B": "Boiling in salt water",
+      "C": "UV irradiation",
+      "D": "Addition of antibiotics"
+    },
+    "correct_answer": "A",
+    "explanation": "Specific fungi ripen Roquefort cheese and impart its distinctive flavour.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Production on an industrial scale, requires growing microbes in very large vessels called fermentors.",
+    "question": "Large vessels used for industrial-scale microbial growth are called:",
+    "options": {
+      "A": "Autoclaves",
+      "B": "Fermentors",
+      "C": "Centrifuges",
+      "D": "Petri dishes"
+    },
+    "correct_answer": "B",
+    "explanation": "Industrial microbial production uses fermentors—very large vessels for growing cultures.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Microbes especially yeasts have been used from time immemorial for the production of beverages like wine, beer, whisky, brandy or rum.",
+    "question": "Which group of microbes has been traditionally used to produce alcoholic beverages?",
+    "options": {
+      "A": "Cyanobacteria",
+      "B": "Yeasts",
+      "C": "Prions",
+      "D": "Viroids"
+    },
+    "correct_answer": "B",
+    "explanation": "Yeasts, especially Saccharomyces cerevisiae, have long been used to ferment beverages.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The same yeast Saccharomyces cerevisiae used for bread-making and commonly called brewer's yeast, is used for fermenting malted cereals and fruit juices, to produce ethanol.",
+    "question": "Saccharomyces cerevisiae is used for:",
+    "options": {
+      "A": "Bread-making and ethanol production from malted cereals and fruit juices",
+      "B": "Nitrogen fixation in legumes only",
+      "C": "Sewage primary treatment only",
+      "D": "Production of penicillin"
+    },
+    "correct_answer": "A",
+    "explanation": "This yeast serves as baker's and brewer's yeast for bread and alcoholic beverage production.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Wine and beer are produced without distillation whereas whisky, brandy and rum are produced by distillation of the fermented broth.",
+    "question": "Which alcoholic drinks are obtained by distillation of fermented broth?",
+    "options": {
+      "A": "Wine and beer",
+      "B": "Whisky, brandy and rum",
+      "C": "Toddy only",
+      "D": "Curd and cheese"
+    },
+    "correct_answer": "B",
+    "explanation": "Wine and beer are undistilled; whisky, brandy, and rum require distillation of the ferment.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Antibiotics produced by microbes are regarded as one of the most significant discoveries of the twentieth century.",
+    "question": "Antibiotics produced by microbes are considered:",
+    "options": {
+      "A": "Insignificant laboratory curiosities",
+      "B": "One of the most significant discoveries of the twentieth century",
+      "C": "Harmful to all life forms without exception",
+      "D": "Useful only in agriculture"
+    },
+    "correct_answer": "B",
+    "explanation": "Microbial antibiotics rank among the greatest medical discoveries of the 20th century.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Antibiotics are chemical substances, which are produced by some microbes and can kill or retard the growth of other (disease-causing) microbes.",
+    "question": "Antibiotics are chemical substances that:",
+    "options": {
+      "A": "Are produced by some microbes and kill or inhibit disease-causing microbes",
+      "B": "Are synthetic detergents",
+      "C": "Always kill the producer organism",
+      "D": "Are produced only by plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Certain microbes secrete antibiotics that suppress or kill other pathogenic microorganisms.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Penicillin was the first antibiotic to be discovered, and it was a chance discovery?",
+    "question": "The first antibiotic discovered was:",
+    "options": {
+      "A": "Streptomycin",
+      "B": "Tetracycline",
+      "C": "Penicillin",
+      "D": "Chloramphenicol"
+    },
+    "correct_answer": "C",
+    "explanation": "Penicillin was the first antibiotic discovered, accidentally by Alexander Fleming.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Alexander Fleming while working on Staphylococci bacteria, once observed a mould growing in one of his unwashed culture plates around which Staphylococci could not grow.",
+    "question": "Alexander Fleming discovered penicillin while working with:",
+    "options": {
+      "A": "E. coli on nutrient broth",
+      "B": "Staphylococci bacteria on culture plates",
+      "C": "Yeast in bread dough",
+      "D": "Rhizobium in root nodules"
+    },
+    "correct_answer": "B",
+    "explanation": "Fleming noticed mould inhibition of Staphylococci on an unwashed culture plate.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "He named it Penicillin after the mould Penicillium notatum.",
+    "question": "Penicillin is named after the mould:",
+    "options": {
+      "A": "Aspergillus niger",
+      "B": "Penicillium notatum",
+      "C": "Trichoderma polysporum",
+      "D": "Monascus purpureus"
+    },
+    "correct_answer": "B",
+    "explanation": "Fleming named penicillin after Penicillium notatum, the mould that produced it.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Its full potential as an effective antibiotic was established much later by Ernest Chain and Howard Florey.",
+    "question": "Who established the full therapeutic potential of penicillin?",
+    "options": {
+      "A": "Ernest Chain and Howard Florey",
+      "B": "Louis Pasteur and Robert Koch",
+      "C": "Watson and Crick",
+      "D": "Boyer and Cohen"
+    },
+    "correct_answer": "A",
+    "explanation": "Chain and Florey developed penicillin into an effective antibiotic after Fleming's discovery.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "This antibiotic was extensively used to treat American soldiers wounded in World War II.",
+    "question": "Penicillin was extensively used during World War II to treat:",
+    "options": {
+      "A": "Plant diseases in crops",
+      "B": "Wounded American soldiers",
+      "C": "Industrial fermentor contamination",
+      "D": "Sewage before discharge"
+    },
+    "correct_answer": "B",
+    "explanation": "Penicillin saw widespread use treating infections in wounded soldiers during WWII.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Fleming, Chain and Florey were awarded the Nobel Prize in 1945, for this discovery.",
+    "question": "The Nobel Prize in 1945 for the discovery of penicillin was awarded to:",
+    "options": {
+      "A": "Fleming, Chain and Florey",
+      "B": "Darwin, Wallace and Mendel",
+      "C": "Pasteur, Koch and Fleming",
+      "D": "Boyer, Cohen and Fleming"
+    },
+    "correct_answer": "A",
+    "explanation": "Fleming, Chain, and Florey shared the 1945 Nobel Prize for penicillin.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Antibiotics have greatly improved our capacity to treat deadly diseases such as plague, whooping cough (kali khansi), diphtheria (gal ghotu) and leprosy (kusht rog).",
+    "question": "Antibiotics have greatly improved treatment of diseases such as:",
+    "options": {
+      "A": "Plague, whooping cough, diphtheria and leprosy",
+      "B": "Only viral common cold",
+      "C": "Genetic disorders only",
+      "D": "Mineral deficiency only"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibiotics revolutionised treatment of bacterial diseases like plague, diphtheria, and leprosy.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Examples of acid producers are Aspergillus niger (a fungus) of citric acid, Acetobacter aceti (a bacterium) of acetic acid.",
+    "question": "Citric acid and acetic acid are commercially produced by:",
+    "options": {
+      "A": "Aspergillus niger and Acetobacter aceti respectively",
+      "B": "Rhizobium and Azotobacter respectively",
+      "C": "Methanobacterium and LAB respectively",
+      "D": "Baculovirus and Bt respectively"
+    },
+    "correct_answer": "A",
+    "explanation": "Aspergillus niger produces citric acid; Acetobacter aceti produces acetic acid.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Clostridium butylicum (a bacterium) of butyric acid and Lactobacillus (a bacterium) of lactic acid.",
+    "question": "Butyric acid and lactic acid are produced industrially by:",
+    "options": {
+      "A": "Clostridium butylicum and Lactobacillus respectively",
+      "B": "Saccharomyces and Penicillium respectively",
+      "C": "Anabaena and Nostoc respectively",
+      "D": "Glomus and Trichoderma respectively"
+    },
+    "correct_answer": "A",
+    "explanation": "Clostridium butylicum yields butyric acid; Lactobacillus yields lactic acid.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Yeast (Saccharomyces cerevisiae) is used for commercial production of ethanol.",
+    "question": "Commercial production of ethanol uses:",
+    "options": {
+      "A": "Saccharomyces cerevisiae",
+      "B": "Methanobacterium only",
+      "C": "Streptococcus only",
+      "D": "Tobacco mosaic virus"
+    },
+    "correct_answer": "A",
+    "explanation": "Saccharomyces cerevisiae ferments sugars to ethanol on an industrial scale.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Lipases are used in detergent formulations and are helpful in removing oily stains from the laundry.",
+    "question": "Lipases in detergent formulations help to:",
+    "options": {
+      "A": "Remove oily stains from laundry",
+      "B": "Fix atmospheric nitrogen",
+      "C": "Produce methane",
+      "D": "Coagulate milk proteins"
+    },
+    "correct_answer": "A",
+    "explanation": "Microbial lipases break down fats and oils, aiding removal of oily stains.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Bottled fruit juices bought from the market are clearer as compared to those made at home. This is because the bottled juices are clarified by the use of pectinases and proteases.",
+    "question": "Commercial fruit juices appear clearer than homemade juices because they are clarified using:",
+    "options": {
+      "A": "Pectinases and proteases",
+      "B": "Antibiotics only",
+      "C": "Methanogens",
+      "D": "Herbicides"
+    },
+    "correct_answer": "A",
+    "explanation": "Pectinases and proteases clarify bottled juices by breaking down pectin and proteins.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Streptokinase produced by the bacterium Streptococcus and modified by genetic engineering is used as a 'clot buster' for removing clots from the blood vessels of patients who have undergone myocardial infarction leading to heart attack.",
+    "question": "Streptokinase used as a clot buster is obtained from:",
+    "options": {
+      "A": "Streptococcus bacterium",
+      "B": "Aspergillus niger",
+      "C": "Methanobacterium",
+      "D": "Rhizobium"
+    },
+    "correct_answer": "A",
+    "explanation": "Streptokinase from Streptococcus (genetically modified) dissolves blood clots after heart attack.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Cyclosporin A, that is used as an immunosuppressive agent in organ-transplant patients, is produced by the fungus Trichoderma polysporum.",
+    "question": "Cyclosporin A, an immunosuppressive drug used in organ transplant patients, is produced by:",
+    "options": {
+      "A": "Trichoderma polysporum",
+      "B": "Penicillium notatum",
+      "C": "Monascus purpureus",
+      "D": "Aspergillus niger"
+    },
+    "correct_answer": "A",
+    "explanation": "The fungus Trichoderma polysporum produces cyclosporin A for suppressing transplant rejection.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Statins produced by the yeast Monascus purpureus have been commercialised as blood-cholesterol lowering agents.",
+    "question": "Statins used to lower blood cholesterol are produced by:",
+    "options": {
+      "A": "Monascus purpureus",
+      "B": "Saccharomyces cerevisiae in bread",
+      "C": "Bacillus thuringiensis",
+      "D": "Azospirillum"
+    },
+    "correct_answer": "A",
+    "explanation": "Monascus purpureus yeast produces statins that lower blood cholesterol.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "It acts by competitively inhibiting the enzyme responsible for synthesis of cholesterol.",
+    "question": "Statins lower blood cholesterol by:",
+    "options": {
+      "A": "Competitively inhibiting the enzyme responsible for cholesterol synthesis",
+      "B": "Directly digesting cholesterol in blood",
+      "C": "Fixing atmospheric nitrogen",
+      "D": "Stimulating bile acid destruction in soil"
+    },
+    "correct_answer": "A",
+    "explanation": "Statins competitively inhibit the cholesterol-synthesising enzyme, reducing cholesterol levels.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "This municipal waste-water is also called sewage. It contains large amounts of organic matter and microbes. Many of which are pathogenic.",
+    "question": "Municipal wastewater (sewage) characteristically contains:",
+    "options": {
+      "A": "Only pure water",
+      "B": "Large amounts of organic matter and many pathogenic microbes",
+      "C": "No microorganisms",
+      "D": "Only inorganic salts"
+    },
+    "correct_answer": "B",
+    "explanation": "Sewage is rich in organic matter and harbours many pathogenic microorganisms.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Before disposal, hence, sewage is treated in sewage treatment plants (STPs) to make it less polluting.",
+    "question": "Sewage is treated in sewage treatment plants (STPs) to:",
+    "options": {
+      "A": "Increase its polluting potential",
+      "B": "Make it less polluting before disposal",
+      "C": "Concentrate pathogens for release",
+      "D": "Remove all water completely"
+    },
+    "correct_answer": "B",
+    "explanation": "STPs treat sewage to reduce pollution before it is discharged.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Treatment of waste water is done by the heterotrophic microbes naturally present in the sewage.",
+    "question": "Wastewater treatment primarily relies on:",
+    "options": {
+      "A": "Heterotrophic microbes naturally present in sewage",
+      "B": "Photosynthetic plants in rivers only",
+      "C": "Synthetic chemical dyes",
+      "D": "Ultraviolet light alone without microbes"
+    },
+    "correct_answer": "A",
+    "explanation": "Naturally occurring heterotrophic microbes in sewage carry out biological treatment.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Primary treatment : These treatment steps basically involve physical removal of particles – large and small – from the sewage through filtration and sedimentation.",
+    "question": "Primary sewage treatment involves:",
+    "options": {
+      "A": "Physical removal of particles by filtration and sedimentation",
+      "B": "Anaerobic digestion in biogas plants only",
+      "C": "Spraying pesticides on effluent",
+      "D": "Direct release into rivers"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary treatment physically removes suspended particles through filtration and sedimentation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "All solids that settle form the primary sludge, and the supernatant forms the effluent.",
+    "question": "In primary settling, the settled solids form _____ and the liquid above is called _____.",
+    "options": {
+      "A": "Primary sludge; effluent",
+      "B": "Activated sludge; biogas",
+      "C": "Biogas; fermentor broth",
+      "D": "Flocs; inoculum"
+    },
+    "correct_answer": "A",
+    "explanation": "Settled solids constitute primary sludge; the supernatant liquid is the effluent.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Secondary treatment or Biological treatment : The primary effluent is passed into large aeration tanks where it is constantly agitated mechanically and air is pumped into it.",
+    "question": "Secondary (biological) sewage treatment takes place in:",
+    "options": {
+      "A": "Large aeration tanks with mechanical agitation and aeration",
+      "B": "Dry compost pits without water",
+      "C": "Refrigerated storage tanks",
+      "D": "Petri dishes on laboratory benches"
+    },
+    "correct_answer": "A",
+    "explanation": "Primary effluent enters aeration tanks where agitation and air support aerobic microbial growth.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "This allows vigorous growth of useful aerobic microbes into flocs (masses of bacteria associated with fungal filaments to form mesh like structures).",
+    "question": "Flocs in aeration tanks are:",
+    "options": {
+      "A": "Masses of bacteria associated with fungal filaments forming mesh-like structures",
+      "B": "Pure cultures of viruses",
+      "C": "Inorganic grit from primary treatment",
+      "D": "Floating plastic debris"
+    },
+    "correct_answer": "A",
+    "explanation": "Aerobic bacteria and fungal filaments aggregate into flocs that consume organic matter.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "While growing, these microbes consume the major part of the organic matter in the effluent. This significantly reduces the BOD (biochemical oxygen demand) of the effluent.",
+    "question": "Growth of aerobic microbes in aeration tanks reduces:",
+    "options": {
+      "A": "BOD of the effluent",
+      "B": "Atmospheric nitrogen only",
+      "C": "Population of all bacteria to zero",
+      "D": "Water volume to zero"
+    },
+    "correct_answer": "A",
+    "explanation": "Microbial consumption of organic matter lowers biochemical oxygen demand (BOD).",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The BOD test measures the rate of uptake of oxygen by micro-organisms in a sample of water and thus, indirectly, BOD is a measure of the organic matter present in the water.",
+    "question": "BOD test indirectly measures:",
+    "options": {
+      "A": "Organic matter present in water",
+      "B": "Atmospheric pressure",
+      "C": "Soil pH only",
+      "D": "Chlorophyll content of leaves"
+    },
+    "correct_answer": "A",
+    "explanation": "By measuring microbial oxygen uptake, BOD reflects the organic pollution load of water.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The greater the BOD of waste water, more is its polluting potential.",
+    "question": "Higher BOD of wastewater indicates:",
+    "options": {
+      "A": "Greater polluting potential",
+      "B": "Cleaner water",
+      "C": "Absence of organic matter",
+      "D": "Lower microbial activity"
+    },
+    "correct_answer": "A",
+    "explanation": "High BOD means more organic matter and greater pollution potential.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The sediment is called activated sludge. A small part of the activated sludge is pumped back into the aeration tank to serve as the inoculum.",
+    "question": "Activated sludge is:",
+    "options": {
+      "A": "Sediment of bacterial flocs from secondary settling, part of which is recycled as inoculum",
+      "B": "Primary grit removed by filtration",
+      "C": "Biogas collected from cattle dung",
+      "D": "Dried spores of Bacillus thuringiensis"
+    },
+    "correct_answer": "A",
+    "explanation": "Activated sludge is settled microbial biomass; a portion is returned to seed the aeration tank.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The remaining major part of the sludge is pumped into large tanks called anaerobic sludge digesters.",
+    "question": "Most of the activated sludge not returned to aeration tanks goes to:",
+    "options": {
+      "A": "Anaerobic sludge digesters",
+      "B": "River channels directly",
+      "C": "Bread factories",
+      "D": "Antibiotic production units"
+    },
+    "correct_answer": "A",
+    "explanation": "Excess activated sludge is treated anaerobically in sludge digesters.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "During this digestion, bacteria produce a mixture of gases such as methane, hydrogen sulphide and carbon dioxide. These gases form biogas and can be used as source of energy as it is inflammable.",
+    "question": "Anaerobic digestion of activated sludge produces biogas containing mainly:",
+    "options": {
+      "A": "Methane, hydrogen sulphide and carbon dioxide",
+      "B": "Pure oxygen only",
+      "C": "Nitrogen gas only",
+      "D": "Chlorine vapour"
+    },
+    "correct_answer": "A",
+    "explanation": "Anaerobic bacteria in digesters release methane, H2S, and CO2 as inflammable biogas.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The Ministry of Environment and Forests has initiated Ganga Action Plan and Yamuna Action Plan to save these major rivers of our country from pollution.",
+    "question": "Ganga Action Plan and Yamuna Action Plan were initiated to:",
+    "options": {
+      "A": "Save major rivers from pollution by building more sewage treatment plants",
+      "B": "Promote use of pesticides in river water",
+      "C": "Stop all microbial activity in rivers",
+      "D": "Divert all sewage into oceans untreated"
+    },
+    "correct_answer": "A",
+    "explanation": "These plans aim to reduce river pollution through expanded sewage treatment infrastructure.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Biogas is a mixture of gases (containing predominantly methane) produced by the microbial activity and which may be used as fuel.",
+    "question": "Biogas is:",
+    "options": {
+      "A": "A microbially produced gas mixture used as fuel, rich in methane",
+      "B": "Pure carbon dioxide from combustion",
+      "C": "Liquid fuel obtained by distillation of wine",
+      "D": "Antibiotic produced by fungi"
+    },
+    "correct_answer": "A",
+    "explanation": "Biogas is chiefly methane produced by microbes and used as a fuel.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Certain bacteria, which grow anaerobically on cellulosic material, produce large amount of methane along with CO2 and H2. These bacteria are collectively called methanogens.",
+    "question": "Methanogens are bacteria that:",
+    "options": {
+      "A": "Grow anaerobically on cellulosic material and produce methane, CO2 and H2",
+      "B": "Require oxygen to produce penicillin",
+      "C": "Photosynthesise in paddy fields only",
+      "D": "Kill insect larvae in plant gut"
+    },
+    "correct_answer": "A",
+    "explanation": "Methanogens anaerobically degrade cellulose-rich substrates, releasing methane and other gases.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "One such common bacterium is Methanobacterium.",
+    "question": "A common methanogenic bacterium mentioned in NCERT is:",
+    "options": {
+      "A": "Methanobacterium",
+      "B": "Acetobacter aceti",
+      "C": "Streptococcus",
+      "D": "Propionibacterium sharmanii"
+    },
+    "correct_answer": "A",
+    "explanation": "Methanobacterium is a representative methanogen described in the chapter.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "These bacteria are commonly found in the anaerobic sludge during sewage treatment.",
+    "question": "Methanogens are commonly found in:",
+    "options": {
+      "A": "Anaerobic sludge during sewage treatment",
+      "B": "Aeration tanks with continuous air pumping",
+      "C": "Sterile nutrient agar only",
+      "D": "Human blood plasma"
+    },
+    "correct_answer": "A",
+    "explanation": "Anaerobic sludge digesters harbour methanogens that produce biogas.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "These bacteria are also present in the rumen (a part of stomach) of cattle.",
+    "question": "Methanogens are also present in cattle in the:",
+    "options": {
+      "A": "Rumen",
+      "B": "Liver",
+      "C": "Lungs",
+      "D": "Hooves"
+    },
+    "correct_answer": "A",
+    "explanation": "The rumen of cattle hosts methanogens that help digest cellulose.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "In rumen, these bacteria help in the breakdown of cellulose and play an important role in the nutrition of cattle.",
+    "question": "In the rumen, methanogens help cattle by:",
+    "options": {
+      "A": "Breaking down cellulose in feed",
+      "B": "Producing penicillin",
+      "C": "Fixing phosphorus from air",
+      "D": "Preventing all gas production"
+    },
+    "correct_answer": "A",
+    "explanation": "Rumen methanogens assist cellulose digestion, supporting cattle nutrition.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Thus, the excreta (dung) of cattle, commonly called gobar, is rich in these bacteria. Dung can be used for generation of biogas, commonly called gobar gas.",
+    "question": "Cattle dung (gobar) is suitable for biogas production because it:",
+    "options": {
+      "A": "Is rich in methanogenic bacteria",
+      "B": "Contains no microbes",
+      "C": "Is pure methane liquid",
+      "D": "Inhibits all fermentation"
+    },
+    "correct_answer": "A",
+    "explanation": "Gobar contains methanogens from the rumen, enabling gobar gas (biogas) generation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The biogas plant consists of a concrete tank (10-15 feet deep) in which bio-wastes are collected and a slurry of dung is fed.",
+    "question": "A typical biogas plant consists of:",
+    "options": {
+      "A": "A concrete tank 10–15 feet deep fed with dung slurry and bio-wastes",
+      "B": "An open river channel",
+      "C": "A glass petri dish",
+      "D": "An aeration tank with continuous air supply"
+    },
+    "correct_answer": "A",
+    "explanation": "Biogas plants use deep concrete tanks where dung slurry undergoes anaerobic fermentation.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "A floating cover is placed over the slurry, which keeps on rising as the gas is produced in the tank due to the microbial activity.",
+    "question": "The floating cover of a biogas plant rises because:",
+    "options": {
+      "A": "Microbial activity produces gas that accumulates under the cover",
+      "B": "Water evaporates completely",
+      "C": "Slurry is removed continuously",
+      "D": "Air is pumped in from outside"
+    },
+    "correct_answer": "A",
+    "explanation": "Biogas accumulation from microbial fermentation lifts the floating cover.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The spent slurry is removed through another outlet and may be used as fertiliser.",
+    "question": "Spent slurry from a biogas plant can be used as:",
+    "options": {
+      "A": "Fertiliser",
+      "B": "Antibiotic",
+      "C": "Insecticide spray",
+      "D": "Distilled alcoholic beverage"
+    },
+    "correct_answer": "A",
+    "explanation": "Digested slurry remaining after biogas production serves as manure.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "So biogas plants are more often built in rural areas.",
+    "question": "Biogas plants are more common in rural areas because:",
+    "options": {
+      "A": "Cattle dung is available in large quantities there",
+      "B": "Urban areas ban all microbes",
+      "C": "Rural soil lacks organic matter",
+      "D": "Only cities have concrete tanks"
+    },
+    "correct_answer": "A",
+    "explanation": "Abundant cattle dung in rural areas makes biogas plants practical there.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The biogas thus produced is used for cooking and lighting.",
+    "question": "Biogas produced in rural biogas plants is commonly used for:",
+    "options": {
+      "A": "Cooking and lighting",
+      "B": "Making antibiotics",
+      "C": "Clarifying fruit juice",
+      "D": "Primary sewage filtration only"
+    },
+    "correct_answer": "A",
+    "explanation": "Rural households use biogas as fuel for cooking and lighting.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The technology of biogas production was developed in India mainly due to the efforts of Indian Agricultural Research Institute (IARI) and Khadi and Village Industries Commission (KVIC).",
+    "question": "Biogas technology in India was developed mainly through efforts of:",
+    "options": {
+      "A": "IARI and KVIC",
+      "B": "WHO and UNESCO",
+      "C": "Fleming and Florey",
+      "D": "Boyer and Cohen"
+    },
+    "correct_answer": "A",
+    "explanation": "IARI and KVIC pioneered biogas technology development in India.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Biocontrol refers to the use of biological methods for controlling plant diseases and pests.",
+    "question": "Biocontrol refers to:",
+    "options": {
+      "A": "Use of biological methods to control plant diseases and pests",
+      "B": "Use of synthetic fertilisers only",
+      "C": "Genetic engineering of humans",
+      "D": "Treatment of human sewage"
+    },
+    "correct_answer": "A",
+    "explanation": "Biocontrol employs living organisms or their products to manage crop pests and diseases.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "These chemicals are toxic and extremely harmful, to human beings and animals alike, and have been polluting our environment (soil, ground water), fruits, vegetables and crop plants.",
+    "question": "Excessive use of chemical insecticides and pesticides leads to:",
+    "options": {
+      "A": "Toxic pollution of soil, groundwater, and food crops",
+      "B": "Complete elimination of all pests permanently",
+      "C": "Increased biodiversity without harm",
+      "D": "Enhanced nitrogen fixation in all plants"
+    },
+    "correct_answer": "A",
+    "explanation": "Pesticides contaminate environment and food, harming humans, animals, and ecosystems.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The use of biocontrol measures will greatly reduce our dependence on toxic chemicals and pesticides.",
+    "question": "Biocontrol measures help by:",
+    "options": {
+      "A": "Reducing dependence on toxic pesticides",
+      "B": "Increasing pesticide spray frequency",
+      "C": "Eliminating all insects including pollinators deliberately",
+      "D": "Replacing all crops with weeds"
+    },
+    "correct_answer": "A",
+    "explanation": "Biological pest control reduces reliance on harmful chemical pesticides.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Baculoviruses are pathogens that attack insects and other arthropods.",
+    "question": "Baculoviruses are:",
+    "options": {
+      "A": "Pathogens that attack insects and other arthropods",
+      "B": "Bacteria that fix nitrogen in soil",
+      "C": "Yeasts used in bread making",
+      "D": "Fungi that produce statins"
+    },
+    "correct_answer": "A",
+    "explanation": "Baculoviruses infect insects and arthropods and serve as biocontrol agents.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The majority of baculoviruses used as biological control agents are in the genus Nucleopolyhedrovirus.",
+    "question": "Most baculoviruses used as biocontrol agents belong to the genus:",
+    "options": {
+      "A": "Nucleopolyhedrovirus",
+      "B": "Rhizobium",
+      "C": "Lactobacillus",
+      "D": "Methanobacterium"
+    },
+    "correct_answer": "A",
+    "explanation": "Nucleopolyhedroviruses are the principal baculoviruses employed in biocontrol.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "They have been shown to have no negative impacts on plants, mammals, birds, fish or even on non-target insects.",
+    "question": "Baculoviruses as biocontrol agents are desirable because they:",
+    "options": {
+      "A": "Do not harm plants, mammals, birds, fish or non-target insects",
+      "B": "Kill all life forms indiscriminately",
+      "C": "Persist as soil pollutants for decades",
+      "D": "Are broad-spectrum chemical toxins"
+    },
+    "correct_answer": "A",
+    "explanation": "Baculoviruses are species-specific and safe for non-target organisms.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The very familiar beetle with red and black markings – the Ladybird, and Dragonflies are useful to get rid of aphids and mosquitoes, respectively.",
+    "question": "Ladybird beetles and dragonflies respectively help control:",
+    "options": {
+      "A": "Aphids and mosquitoes",
+      "B": "Mosquitoes and aphids",
+      "C": "Fungi and bacteria",
+      "D": "Weeds and earthworms"
+    },
+    "correct_answer": "A",
+    "explanation": "Ladybirds prey on aphids; dragonflies help reduce mosquito populations.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "An example of microbial biocontrol agents that can be introduced in order to control butterfly caterpillars is the bacteria Bacillus thuringiensis (often written as Bt).",
+    "question": "Butterfly caterpillars can be controlled using:",
+    "options": {
+      "A": "Bacillus thuringiensis (Bt)",
+      "B": "Saccharomyces cerevisiae",
+      "C": "Penicillium notatum",
+      "D": "Azotobacter only"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt bacteria are microbial biocontrol agents effective against caterpillar pests.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "These are available in sachets as dried spores which are mixed with water and sprayed onto vulnerable plants such as brassicas and fruit trees.",
+    "question": "Bt biocontrol preparation is applied by:",
+    "options": {
+      "A": "Mixing dried spores from sachets with water and spraying on plants",
+      "B": "Injecting into cattle rumen",
+      "C": "Adding to aeration tanks",
+      "D": "Distilling fermented broth"
+    },
+    "correct_answer": "A",
+    "explanation": "Commercial Bt products are dried spores reconstituted in water and sprayed on crops.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "In the gut of the larvae, the toxin is released and the larvae get killed.",
+    "question": "Bt kills insect larvae because:",
+    "options": {
+      "A": "Toxin is released in the larval gut after ingestion",
+      "B": "Spores block sunlight on leaves",
+      "C": "Bacteria consume the entire plant",
+      "D": "Larvae are suffocated by methane gas"
+    },
+    "correct_answer": "A",
+    "explanation": "Larvae ingest Bt spores; toxin activation in the gut kills them.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The scientists have introduced B. thuringiensis toxin genes into plants. Such plants are resistant to attack by insect pests. Bt-cotton is one such example.",
+    "question": "Bt-cotton is an example of:",
+    "options": {
+      "A": "Plants engineered with B. thuringiensis toxin genes for pest resistance",
+      "B": "Cotton fermented by LAB",
+      "C": "Cotton treated with penicillin",
+      "D": "Cotton grown only with chemical fertilisers"
+    },
+    "correct_answer": "A",
+    "explanation": "Bt-cotton carries Bt toxin genes and resists certain insect pests.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "A biological control being developed for use in the treatment of plant disease is the fungus Trichoderma. Trichoderma species are free-living fungi that are very common in the root ecosystems.",
+    "question": "Trichoderma species used in biocontrol are:",
+    "options": {
+      "A": "Free-living fungi common in root ecosystems",
+      "B": "Anaerobic bacteria in biogas tanks",
+      "C": "Viruses infecting mammals",
+      "D": "Cyanobacteria in paddy fields only"
+    },
+    "correct_answer": "A",
+    "explanation": "Trichoderma fungi live freely in root zones and act against plant pathogens.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "They are effective biocontrol agents of several plant pathogens.",
+    "question": "Trichoderma is effective as a biocontrol agent against:",
+    "options": {
+      "A": "Several plant pathogens",
+      "B": "Human blood clots",
+      "C": "Oily laundry stains only",
+      "D": "Atmospheric nitrogen deficiency in animals"
+    },
+    "correct_answer": "A",
+    "explanation": "Trichoderma suppresses various fungal and other plant pathogens.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Biofertilisers are organisms that enrich the nutrient quality of the soil.",
+    "question": "Biofertilisers are:",
+    "options": {
+      "A": "Organisms that enrich soil nutrient quality",
+      "B": "Synthetic chemical herbicides",
+      "C": "Pathogenic viruses of humans",
+      "D": "Distilled alcoholic products"
+    },
+    "correct_answer": "A",
+    "explanation": "Biofertilisers are living organisms that improve soil fertility.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The main sources of biofertilisers are bacteria, fungi and cyanobacteria.",
+    "question": "Main sources of biofertilisers are:",
+    "options": {
+      "A": "Bacteria, fungi and cyanobacteria",
+      "B": "Insecticides and weedicides",
+      "C": "Prions and viroids only",
+      "D": "Petroleum-derived chemicals"
+    },
+    "correct_answer": "A",
+    "explanation": "Biofertilisers come chiefly from beneficial bacteria, fungi, and cyanobacteria.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Nodules on the roots of leguminous plants formed by the symbiotic association of Rhizobium. These bacteria fix atmospheric nitrogen into organic forms.",
+    "question": "Rhizobium in root nodules of legumes:",
+    "options": {
+      "A": "Fix atmospheric nitrogen into organic forms for the plant",
+      "B": "Produce penicillin for the plant",
+      "C": "Digest cellulose in cattle rumen",
+      "D": "Clarify fruit juices"
+    },
+    "correct_answer": "A",
+    "explanation": "Rhizobium symbiotically converts atmospheric N2 into usable organic nitrogen.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Other bacteria can fix atmospheric nitrogen while free-living in the soil (examples of Azospirillum and Azotobacter), thus enriching the nitrogen content of the soil.",
+    "question": "Free-living soil bacteria that fix nitrogen include:",
+    "options": {
+      "A": "Azospirillum and Azotobacter",
+      "B": "Propionibacterium and Acetobacter only",
+      "C": "Baculovirus and adenovirus",
+      "D": "Methanobacterium and Streptococcus only"
+    },
+    "correct_answer": "A",
+    "explanation": "Azospirillum and Azotobacter fix nitrogen without plant symbiosis, enriching soil.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Fungi are also known to form symbiotic associations with plants (mycorrhiza). Many members of the genus Glomus form mycorrhiza.",
+    "question": "Mycorrhiza is a symbiotic association between plants and:",
+    "options": {
+      "A": "Fungi such as Glomus species",
+      "B": "Cyanobacteria only",
+      "C": "Insect larvae",
+      "D": "Methanogens"
+    },
+    "correct_answer": "A",
+    "explanation": "Glomus and related fungi form mycorrhizal partnerships with plant roots.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "The fungal symbiont in these associations absorbs phosphorus from soil and passes it to the plant.",
+    "question": "In mycorrhizal associations, the fungus helps the plant by:",
+    "options": {
+      "A": "Absorbing phosphorus from soil and transferring it to the plant",
+      "B": "Fixing atmospheric nitrogen in nodules",
+      "C": "Producing antibiotics for human use",
+      "D": "Generating biogas in roots"
+    },
+    "correct_answer": "A",
+    "explanation": "Mycorrhizal fungi solubilise and deliver phosphorus to host plants.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Plants having such associations show other benefits also, such as resistance to root-borne pathogens, tolerance to salinity and drought, and an overall increase in plant growth and development.",
+    "question": "Plants with mycorrhizal associations additionally show:",
+    "options": {
+      "A": "Resistance to root pathogens, salinity/drought tolerance and better growth",
+      "B": "Complete inability to absorb water",
+      "C": "Dependence on chemical pesticides",
+      "D": "Loss of all root hairs"
+    },
+    "correct_answer": "A",
+    "explanation": "Mycorrhiza improves nutrient uptake and stress tolerance beyond phosphorus supply.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Cyanobacteria are autotrophic microbes widely distributed in aquatic and terrestrial environments many of which can fix atmospheric nitrogen, e.g. Anabaena, Nostoc, Oscillatoria, etc.",
+    "question": "Nitrogen-fixing cyanobacteria include:",
+    "options": {
+      "A": "Anabaena, Nostoc and Oscillatoria",
+      "B": "Penicillium, Aspergillus and Trichoderma",
+      "C": "Saccharomyces, Monascus and Candida",
+      "D": "Staphylococcus, Streptococcus and Clostridium only"
+    },
+    "correct_answer": "A",
+    "explanation": "Anabaena, Nostoc, and Oscillatoria are autotrophic cyanobacteria that fix nitrogen.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "In paddy fields, cyanobacteria serve as an important biofertiliser.",
+    "question": "In paddy fields, an important biofertiliser role is played by:",
+    "options": {
+      "A": "Cyanobacteria (blue-green algae)",
+      "B": "Baculoviruses",
+      "C": "Prions",
+      "D": "Brewer's yeast only"
+    },
+    "correct_answer": "A",
+    "explanation": "Cyanobacteria fix nitrogen and add organic matter in flooded rice fields.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  },
+  {
+    "source_sentence": "Blue green algae also add organic matter to the soil and increase its fertility.",
+    "question": "Blue-green algae increase soil fertility by:",
+    "options": {
+      "A": "Adding organic matter to the soil",
+      "B": "Removing all nitrogen from soil",
+      "C": "Producing toxic pesticides",
+      "D": "Preventing all microbial growth"
+    },
+    "correct_answer": "A",
+    "explanation": "Cyanobacterial biomass enriches soil with organic matter besides fixing nitrogen.",
+    "chapter": "Chapter 8: Microbes in Human Welfare"
+  }
+]

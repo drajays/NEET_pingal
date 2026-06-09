@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 import sys
 import time
 import uuid
@@ -32,6 +33,7 @@ TOPIC_ALIASES = {
     "Biotechnology: Principles and Processes": "Biotechnology Principles and Processes",
     "Neural Control and Coordination": "Neural Control and Co-ordination",
     "Biotechnology and Its Applications": "Biotechnology and Its Application",
+    "Biotechnology and its Applications": "Biotechnology and Its Application",
     "Excretory Products and Their Elimination": "Products and Their Elimination",
     "The Living World": "Living World",
 }
@@ -77,6 +79,41 @@ def load_csv_questions(path: Path) -> list:
     return questions
 
 
+def load_chapter_dir(directory: Path) -> list:
+    """Load NCERT chapter-wise MCQ files (one JSON array per chapter).
+
+    Each item looks like:
+        {"chapter": "Chapter 1: The Living World", "question": ...,
+         "options": {"A": ..., "B": ..., "C": ..., "D": ...},
+         "correct_answer": "C", "explanation": ...}
+    """
+    questions: list = []
+    for path in sorted(directory.glob("chapter_*_mcqs.json")):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        items = data if isinstance(data, list) else data.get("questions", [])
+        for item in items:
+            opts = item.get("options") or {}
+            chapter = (item.get("chapter") or "").strip()
+            topic = re.sub(r"^\s*Chapter\s+\d+\s*:\s*", "", chapter).strip()
+            questions.append(
+                {
+                    "id": f"ncert_{uuid.uuid4().hex[:10]}",
+                    "question": (item.get("question") or "").strip(),
+                    "option_a": str(opts.get("A") or "").strip(),
+                    "option_b": str(opts.get("B") or "").strip(),
+                    "option_c": str(opts.get("C") or "").strip(),
+                    "option_d": str(opts.get("D") or "").strip(),
+                    "answer": (item.get("correct_answer") or "").strip().upper(),
+                    "explanation": (item.get("explanation") or "").strip(),
+                    "subject": "Biology",
+                    "topic": topic,
+                    "subtopic": "NCERT",
+                    "tags": ["NCERT"],
+                }
+            )
+    return questions
+
+
 def is_gradeable(item: dict) -> bool:
     """A usable MCQ needs a valid answer key and four complete options."""
     if (item.get("answer") or "").strip().upper() not in ("A", "B", "C", "D"):
@@ -111,6 +148,10 @@ def main() -> int:
         root / "recovered_questions.json",
     ]
     extra_csv = root / "neet_biology_questions.csv"
+    chapter_dirs = [
+        root / "ncert_mcqs" / "bio11",
+        root / "ncert_mcqs" / "bio12",
+    ]
     output = root / "bank.json"
 
     missing = [p for p in sources if not p.exists()]
@@ -153,6 +194,25 @@ def main() -> int:
             csv_added += 1
         if csv_added:
             print(f"Added {csv_added} unique questions from {extra_csv.name}")
+
+    for directory in chapter_dirs:
+        if not directory.exists():
+            continue
+        ncert_added = 0
+        for item in load_chapter_dir(directory):
+            key = (item.get("question") or "").strip().lower()
+            if not key or key in seen:
+                duplicates += 1
+                continue
+            cleaned = sanitize_question(item)
+            if not is_gradeable(cleaned):
+                skipped_invalid += 1
+                continue
+            seen.add(key)
+            merged.append(cleaned)
+            ncert_added += 1
+        if ncert_added:
+            print(f"Added {ncert_added} unique questions from {directory.name}")
 
     payload = {
         "app": "NEET MCQ Practice",

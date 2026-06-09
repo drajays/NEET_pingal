@@ -1,0 +1,1445 @@
+[
+  {
+    "source_sentence": "Health, for a long time, was considered as a state of body and mind where there was a balance of certain 'humors'.",
+    "question": "According to early Greek and Ayurvedic medicine, health was considered as:",
+    "options": {
+      "A": "Absence of all pathogens",
+      "B": "A balance of certain 'humors' in body and mind",
+      "C": "High physical fitness only",
+      "D": "Normal blood pressure alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Early Greeks like Hippocrates and Indian Ayurveda asserted health as balance of humors.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "biology stated that mind influences, through neural system and endocrine system, our immune system and that our immune system maintains our health.",
+    "question": "According to modern biology, mind influences health through:",
+    "options": {
+      "A": "Digestive system only",
+      "B": "Neural and endocrine systems affecting the immune system",
+      "C": "Skeletal system alone",
+      "D": "Circulatory system only"
+    },
+    "correct_answer": "B",
+    "explanation": "Mind affects health via neural and endocrine systems, which influence immunity.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Health is affected by genetic disorders, infections and life style.",
+    "question": "Which of the following factors affect health?",
+    "options": {
+      "A": "Genetic disorders, infections and lifestyle only",
+      "B": "Genetic disorders, infections and lifestyle",
+      "C": "Astrological factors",
+      "D": "Blood group alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Health is affected by genetic disorders, infections, and lifestyle factors.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Health could be defined as a state of complete physical, mental and social well-being.",
+    "question": "Health is defined as a state of complete:",
+    "options": {
+      "A": "Physical fitness only",
+      "B": "Physical, mental and social well-being",
+      "C": "Absence of disease only",
+      "D": "Economic prosperity alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Health means complete physical, mental and social well-being, not merely absence of disease.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Balanced diet, personal hygiene and regular exercise are very important to maintain good health.",
+    "question": "Which practices are important to maintain good health?",
+    "options": {
+      "A": "Balanced diet, personal hygiene and regular exercise",
+      "B": "Fasting alone",
+      "C": "Avoiding all physical activity",
+      "D": "Irregular sleep only"
+    },
+    "correct_answer": "A",
+    "explanation": "Balanced diet, hygiene and exercise are essential for maintaining health.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "When the functioning of one or more organs or systems of the body is adversely affected, characterised by appearance of various signs and symptoms, we say that we have a disease.",
+    "question": "A disease is characterised by:",
+    "options": {
+      "A": "Normal functioning of all organs",
+      "B": "Adverse effect on organ/system function with signs and symptoms",
+      "C": "Complete absence of symptoms",
+      "D": "Only mental distress without physical changes"
+    },
+    "correct_answer": "B",
+    "explanation": "Disease involves adverse organ/system function with visible signs and symptoms.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Diseases can be broadly grouped into infectious and non-infectious.",
+    "question": "Diseases are broadly classified into:",
+    "options": {
+      "A": "Acute and chronic only",
+      "B": "Infectious and non-infectious",
+      "C": "Genetic and acquired only",
+      "D": "Viral and bacterial only"
+    },
+    "correct_answer": "B",
+    "explanation": "Diseases are broadly grouped as infectious and non-infectious.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Diseases which are easily transmitted from one person to another, are called infectious diseases.",
+    "question": "Infectious diseases are those that:",
+    "options": {
+      "A": "Are inherited from parents",
+      "B": "Are easily transmitted from one person to another",
+      "C": "Never spread between individuals",
+      "D": "Are caused only by lifestyle"
+    },
+    "correct_answer": "B",
+    "explanation": "Infectious diseases spread easily from person to person.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Among non-infectious diseases, cancer is the major cause of death.",
+    "question": "Among non-infectious diseases, the major cause of death is:",
+    "options": {
+      "A": "Diabetes only",
+      "B": "Cancer",
+      "C": "Hypertension only",
+      "D": "Asthma only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cancer is the major cause of death among non-infectious diseases.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Such disease-causing organisms are called pathogens.",
+    "question": "Disease-causing organisms are called:",
+    "options": {
+      "A": "Commensals",
+      "B": "Pathogens",
+      "C": "Saprophytes",
+      "D": "Mutualists"
+    },
+    "correct_answer": "B",
+    "explanation": "Organisms that cause disease in humans are termed pathogens.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Salmonella typhi is a pathogenic bacterium which causes typhoid fever in human beings.",
+    "question": "Typhoid fever in humans is caused by:",
+    "options": {
+      "A": "Escherichia coli",
+      "B": "Salmonella typhi",
+      "C": "Streptococcus pneumoniae",
+      "D": "Plasmodium vivax"
+    },
+    "correct_answer": "B",
+    "explanation": "Salmonella typhi is the bacterium responsible for typhoid fever.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "These pathogens generally enter the small intestine through food and water contaminated with them and migrate to other organs through blood.",
+    "question": "Salmonella typhi typically enters the human body through:",
+    "options": {
+      "A": "Airborne droplets only",
+      "B": "Contaminated food and water",
+      "C": "Mosquito bites",
+      "D": "Direct skin contact only"
+    },
+    "correct_answer": "B",
+    "explanation": "Typhoid pathogens enter via contaminated food and water into the small intestine.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Sustained high fever (39° to 40°C), weakness, stomach pain, constipation, headache and loss of appetite are some of the common symptoms of this disease.",
+    "question": "Common symptoms of typhoid include:",
+    "options": {
+      "A": "Low-grade fever and diarrhoea only",
+      "B": "Sustained high fever (39-40°C), weakness, stomach pain and constipation",
+      "C": "Skin lesions and itching only",
+      "D": "Nasal congestion only"
+    },
+    "correct_answer": "B",
+    "explanation": "Typhoid presents with sustained high fever, weakness, stomach pain and constipation.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Intestinal perforation and death may occur in severe cases.",
+    "question": "In severe cases of typhoid, which complication may occur?",
+    "options": {
+      "A": "Hair loss",
+      "B": "Intestinal perforation and death",
+      "C": "Ringworm lesions",
+      "D": "Elephantiasis"
+    },
+    "correct_answer": "B",
+    "explanation": "Severe typhoid can lead to intestinal perforation and death.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Typhoid fever could be confirmed by Widal test.",
+    "question": "Typhoid fever can be confirmed by:",
+    "options": {
+      "A": "ELISA test",
+      "B": "Widal test",
+      "C": "Biopsy",
+      "D": "MRI scan"
+    },
+    "correct_answer": "B",
+    "explanation": "The Widal test is used to confirm typhoid fever.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Bacteria like Streptococcus pneumoniae and Haemophilus influenzae are responsible for the disease pneumonia in humans which infects the alveoli (air filled sacs) of the lungs.",
+    "question": "Pneumonia in humans is caused by bacteria such as:",
+    "options": {
+      "A": "Salmonella typhi and E. coli",
+      "B": "Streptococcus pneumoniae and Haemophilus influenzae",
+      "C": "Plasmodium and Entamoeba",
+      "D": "Microsporum and Trichophyton"
+    },
+    "correct_answer": "B",
+    "explanation": "Streptococcus pneumoniae and Haemophilus influenzae cause pneumonia.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The symptoms of pneumonia include fever, chills, cough and headache. In severe cases, the lips and finger nails may turn gray to bluish in colour.",
+    "question": "Symptoms of pneumonia include:",
+    "options": {
+      "A": "Fever, chills, cough and headache",
+      "B": "Constipation and abdominal cramps only",
+      "C": "Dry scaly skin lesions only",
+      "D": "Lymphatic swelling of limbs only"
+    },
+    "correct_answer": "A",
+    "explanation": "Pneumonia symptoms include fever, chills, cough and headache; cyanosis in severe cases.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "A healthy person acquires the infection by inhaling the droplets/aerosols released by an infected person or even by sharing glasses and utensils with an infected person.",
+    "question": "Pneumonia spreads through:",
+    "options": {
+      "A": "Contaminated water only",
+      "B": "Inhalation of droplets/aerosols or sharing utensils with infected person",
+      "C": "Mosquito bites",
+      "D": "Soil contact only"
+    },
+    "correct_answer": "B",
+    "explanation": "Pneumonia is acquired by inhaling respiratory droplets or sharing items with infected persons.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Rhino viruses represent one such group of viruses which cause one of the most infectious human ailments – the common cold.",
+    "question": "Common cold is caused by:",
+    "options": {
+      "A": "Influenza virus only",
+      "B": "Rhino viruses",
+      "C": "HIV",
+      "D": "Retroviruses only"
+    },
+    "correct_answer": "B",
+    "explanation": "Rhino viruses cause the common cold.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Plasmodium, a tiny protozoan is responsible for this disease.",
+    "question": "Malaria is caused by:",
+    "options": {
+      "A": "A bacterium",
+      "B": "Plasmodium, a protozoan",
+      "C": "A fungus",
+      "D": "A helminth"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasmodium, a protozoan parasite, causes malaria.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Of these, malignant malaria caused by Plasmodium falciparum is the most serious one and can even be fatal.",
+    "question": "The most serious and potentially fatal type of malaria is caused by:",
+    "options": {
+      "A": "Plasmodium vivax",
+      "B": "Plasmodium falciparum",
+      "C": "Plasmodium malariae only",
+      "D": "Entamoeba histolytica"
+    },
+    "correct_answer": "B",
+    "explanation": "Malignant malaria caused by P. falciparum is the most serious form.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Plasmodium enters the human body as sporozoites (infectious form) through the bite of infected female Anopheles mosquito.",
+    "question": "Plasmodium enters the human body as:",
+    "options": {
+      "A": "Trophozoites through housefly",
+      "B": "Sporozoites through bite of infected female Anopheles mosquito",
+      "C": "Merozoites through contaminated water",
+      "D": "Cysts through air droplets"
+    },
+    "correct_answer": "B",
+    "explanation": "Infectious sporozoites enter humans via female Anopheles mosquito bites.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The parasites initially multiply within the liver cells and then attack the red blood cells (RBCs) resulting in their rupture.",
+    "question": "In the human host, Plasmodium first multiplies in:",
+    "options": {
+      "A": "Red blood cells",
+      "B": "Liver cells, then attacks RBCs",
+      "C": "Muscle cells only",
+      "D": "Brain cells only"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasmodium multiplies in liver cells first, then invades and ruptures RBCs.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The rupture of RBCs is associated with release of a toxic substance, haemozoin, which is responsible for the chill and high fever recurring every three to four days.",
+    "question": "Chills and recurring high fever in malaria are caused by:",
+    "options": {
+      "A": "Histamine release",
+      "B": "Haemozoin released during RBC rupture",
+      "C": "Interferon secretion",
+      "D": "Antibody production"
+    },
+    "correct_answer": "B",
+    "explanation": "Haemozoin released during RBC rupture causes periodic chills and fever.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The malarial parasite requires two hosts – human and mosquitoes – to complete its life cycle; the female Anopheles mosquito is the vector (transmitting agent) too.",
+    "question": "Plasmodium requires how many hosts to complete its life cycle?",
+    "options": {
+      "A": "One host only",
+      "B": "Two hosts – human and mosquito",
+      "C": "Three hosts",
+      "D": "No intermediate host"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasmodium needs both human and female Anopheles mosquito as hosts.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Entamoeba histolytica is a protozoan parasite in the large intestine of human which causes amoebiasis (amoebic dysentery).",
+    "question": "Amoebiasis is caused by:",
+    "options": {
+      "A": "Plasmodium vivax",
+      "B": "Entamoeba histolytica",
+      "C": "Ascaris lumbricoides",
+      "D": "Salmonella typhi"
+    },
+    "correct_answer": "B",
+    "explanation": "Entamoeba histolytica in the large intestine causes amoebiasis.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Symptoms of this disease include constipation, abdominal pain and cramps, stools with excess mucous and blood clots.",
+    "question": "Symptoms of amoebiasis include:",
+    "options": {
+      "A": "Nasal congestion and cough",
+      "B": "Abdominal pain, cramps and stools with mucus and blood clots",
+      "C": "High fever with chills every 3-4 days",
+      "D": "Dry scaly skin lesions"
+    },
+    "correct_answer": "B",
+    "explanation": "Amoebiasis causes abdominal pain, cramps and bloody mucous stools.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Houseflies act as mechanical carriers and serve to transmit the parasite from faeces of infected person to food.",
+    "question": "In amoebiasis, houseflies act as:",
+    "options": {
+      "A": "Biological vectors",
+      "B": "Mechanical carriers transmitting parasite from faeces to food",
+      "C": "Definitive hosts",
+      "D": "Primary reservoirs in soil"
+    },
+    "correct_answer": "B",
+    "explanation": "Houseflies mechanically carry Entamoeba from faeces to food.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Drinking water and food contaminated by the faecal matter are the main source of infection.",
+    "question": "The main source of amoebiasis infection is:",
+    "options": {
+      "A": "Airborne droplets",
+      "B": "Faecal contamination of water and food",
+      "C": "Mosquito bites",
+      "D": "Direct person-to-person skin contact"
+    },
+    "correct_answer": "B",
+    "explanation": "Faecally contaminated water and food are the main infection sources.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Ascaris, an intestinal parasite causes ascariasis.",
+    "question": "Ascariasis is caused by:",
+    "options": {
+      "A": "Wuchereria bancrofti",
+      "B": "Ascaris (common round worm)",
+      "C": "Entamoeba histolytica",
+      "D": "Plasmodium falciparum"
+    },
+    "correct_answer": "B",
+    "explanation": "Ascaris, the common roundworm, causes ascariasis.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Symptoms of these disease include internal bleeding, muscular pain, fever, anemia and blockage of the intestinal passage.",
+    "question": "Symptoms of ascariasis include:",
+    "options": {
+      "A": "Internal bleeding, muscular pain, fever and intestinal blockage",
+      "B": "Nasal discharge only",
+      "C": "Lymphatic swelling of limbs",
+      "D": "Dry skin lesions with itching"
+    },
+    "correct_answer": "A",
+    "explanation": "Ascariasis causes internal bleeding, pain, fever, anaemia and intestinal blockage.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Wuchereria (W. bancrofti and W. malayi), the filarial worms cause a slowly developing chronic inflammation of the organs in which they live for many years, usually the lymphatic vessels of the lower limbs and the disease is called elephantiasis or filariasis.",
+    "question": "Filariasis (elephantiasis) is caused by:",
+    "options": {
+      "A": "Ascaris",
+      "B": "Wuchereria bancrofti and W. malayi",
+      "C": "Entamoeba histolytica",
+      "D": "Salmonella typhi"
+    },
+    "correct_answer": "B",
+    "explanation": "Wuchereria species cause filariasis affecting lymphatic vessels.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The pathogens are transmitted to a healthy person through the bite by the female mosquito vectors.",
+    "question": "Filariasis is transmitted by:",
+    "options": {
+      "A": "Houseflies",
+      "B": "Female mosquito vectors",
+      "C": "Contaminated food only",
+      "D": "Direct contact with soil"
+    },
+    "correct_answer": "B",
+    "explanation": "Wuchereria is transmitted through bites of female mosquito vectors.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Many fungi belonging to the genera Microsporum, Trichophyton and Epidermophyton are responsible for ringworms.",
+    "question": "Ringworm is caused by fungi of genera:",
+    "options": {
+      "A": "Aspergillus and Penicillium",
+      "B": "Microsporum, Trichophyton and Epidermophyton",
+      "C": "Rhizopus and Mucor",
+      "D": "Saccharomyces only"
+    },
+    "correct_answer": "B",
+    "explanation": "Microsporum, Trichophyton and Epidermophyton cause ringworm.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Appearance of dry, scaly lesions on various parts of the body such as skin, nails and scalp are the main symptoms of the disease.",
+    "question": "Main symptoms of ringworm include:",
+    "options": {
+      "A": "High fever and chills",
+      "B": "Dry, scaly lesions on skin, nails and scalp with intense itching",
+      "C": "Abdominal cramps and bloody stools",
+      "D": "Lymphatic swelling of legs"
+    },
+    "correct_answer": "B",
+    "explanation": "Ringworm presents as dry, scaly, intensely itchy lesions on skin, nails and scalp.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Ringworms are generally acquired from soil or by using towels, clothes or even the comb of infected individuals.",
+    "question": "Ringworm is commonly acquired through:",
+    "options": {
+      "A": "Mosquito bites",
+      "B": "Soil or shared towels, clothes and combs of infected persons",
+      "C": "Contaminated drinking water",
+      "D": "Blood transfusion"
+    },
+    "correct_answer": "B",
+    "explanation": "Ringworm spreads via soil or fomites like towels and combs.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "For diseases such as malaria and filariasis that are transmitted through insect vectors, the most important measure is to control or eliminate the vectors and their breeding places.",
+    "question": "The most important measure against vector-borne diseases like malaria is:",
+    "options": {
+      "A": "Antibiotic therapy",
+      "B": "Control or elimination of vectors and breeding places",
+      "C": "Blood transfusion screening",
+      "D": "Vaccination against bacteria only"
+    },
+    "correct_answer": "B",
+    "explanation": "Vector control is key for malaria and filariasis prevention.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The use of vaccines and immunisation programmes have enabled us to completely eradicate a deadly disease like smallpox.",
+    "question": "Which deadly disease has been completely eradicated through vaccination?",
+    "options": {
+      "A": "Polio",
+      "B": "Smallpox",
+      "C": "Malaria",
+      "D": "AIDS"
+    },
+    "correct_answer": "B",
+    "explanation": "Smallpox has been completely eradicated through immunisation programmes.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "This overall ability of the host to fight the disease-causing organisms, conferred by the immune system is called immunity.",
+    "question": "Immunity is defined as:",
+    "options": {
+      "A": "Ability to digest all foods",
+      "B": "Host's ability to fight disease-causing organisms via the immune system",
+      "C": "Resistance to physical injury only",
+      "D": "Absence of all foreign particles in blood"
+    },
+    "correct_answer": "B",
+    "explanation": "Immunity is the body's ability to combat pathogens through the immune system.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Immunity is of two types: (i) Innate immunity and (ii) Acquired immunity.",
+    "question": "The two types of immunity are:",
+    "options": {
+      "A": "Active and passive only",
+      "B": "Innate and acquired immunity",
+      "C": "Humoral and cellular only",
+      "D": "Primary and secondary only"
+    },
+    "correct_answer": "B",
+    "explanation": "Immunity is classified as innate and acquired.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Innate immunity is non-specific type of defence, that is present at the time of birth.",
+    "question": "Innate immunity is:",
+    "options": {
+      "A": "Pathogen-specific and acquired later",
+      "B": "Non-specific defence present at birth",
+      "C": "Based on antibody memory",
+      "D": "Acquired only through vaccination"
+    },
+    "correct_answer": "B",
+    "explanation": "Innate immunity is non-specific and present from birth.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Physical barriers: Skin on our body is the main barrier which prevents entry of the micro-organisms.",
+    "question": "The main physical barrier preventing microbial entry is:",
+    "options": {
+      "A": "Bone marrow",
+      "B": "Skin",
+      "C": "Spleen",
+      "D": "Thymus"
+    },
+    "correct_answer": "B",
+    "explanation": "Skin is the primary physical barrier against microorganisms.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Physiological barriers: Acid in the stomach, saliva in the mouth, tears from eyes—all prevent microbial growth.",
+    "question": "Which are physiological barriers against microbes?",
+    "options": {
+      "A": "Stomach acid, saliva and tears",
+      "B": "Antibodies and lymph nodes only",
+      "C": "Skin and hair only",
+      "D": "Red blood cells only"
+    },
+    "correct_answer": "A",
+    "explanation": "Stomach acid, saliva and tears are physiological antimicrobial barriers.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Cytokine barriers: Virus-infected cells secrete proteins called interferons which protect non-infected cells from further viral infection.",
+    "question": "Interferons are secreted by:",
+    "options": {
+      "A": "Healthy skin cells only",
+      "B": "Virus-infected cells to protect non-infected cells",
+      "C": "Red blood cells",
+      "D": "Bone cells only"
+    },
+    "correct_answer": "B",
+    "explanation": "Virus-infected cells release interferons that protect neighbouring cells.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Acquired immunity, on the other hand is pathogen specific. It is characterised by memory.",
+    "question": "Acquired immunity is characterised by:",
+    "options": {
+      "A": "Non-specific response without memory",
+      "B": "Pathogen specificity and memory",
+      "C": "Presence only at birth",
+      "D": "Absence of lymphocytes"
+    },
+    "correct_answer": "B",
+    "explanation": "Acquired immunity is pathogen-specific and has immunological memory.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "When our body encounters a pathogen for the first time it produces a response called primary response which is of low intensity.",
+    "question": "The first encounter with a pathogen elicits:",
+    "options": {
+      "A": "Secondary response of high intensity",
+      "B": "Primary response of low intensity",
+      "C": "No immune response",
+      "D": "Only innate immunity without any specific response"
+    },
+    "correct_answer": "B",
+    "explanation": "Primary immune response on first exposure is of low intensity.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The B-lymphocytes produce an army of proteins in response to pathogens into our blood to fight with them. These proteins are called antibodies.",
+    "question": "Antibodies are produced by:",
+    "options": {
+      "A": "T-lymphocytes directly",
+      "B": "B-lymphocytes",
+      "C": "Red blood cells",
+      "D": "Macrophages only"
+    },
+    "correct_answer": "B",
+    "explanation": "B-lymphocytes produce antibodies against pathogens.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Each antibody molecule has four peptide chains, two small called light chains and two longer called heavy chains. Hence, an antibody is represented as H2L2.",
+    "question": "An antibody molecule consists of:",
+    "options": {
+      "A": "Two heavy and two light chains (H2L2)",
+      "B": "Four identical light chains only",
+      "C": "One heavy chain only",
+      "D": "Six peptide chains"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibodies have two heavy and two light chains, represented as H2L2.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Different types of antibodies are produced in our body. IgA, IgM, IgE, IgG are some of them.",
+    "question": "Types of antibodies produced in the human body include:",
+    "options": {
+      "A": "IgA, IgM, IgE and IgG",
+      "B": "Only IgG",
+      "C": "IgX and IgZ",
+      "D": "No immunoglobulins"
+    },
+    "correct_answer": "A",
+    "explanation": "Human body produces IgA, IgM, IgE, IgG and other antibody classes.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The T-lymphocytes mediate CMI.",
+    "question": "Cell-mediated immunity (CMI) is mediated by:",
+    "options": {
+      "A": "B-lymphocytes",
+      "B": "T-lymphocytes",
+      "C": "Red blood cells",
+      "D": "Platelets"
+    },
+    "correct_answer": "B",
+    "explanation": "T-lymphocytes mediate cell-mediated immune response.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The body is able to differentiate 'self' and 'nonself' and the cell-mediated immune response is responsible for the graft rejection.",
+    "question": "Graft rejection is due to:",
+    "options": {
+      "A": "Humoral immunity only",
+      "B": "Cell-mediated immune response distinguishing self from non-self",
+      "C": "Absence of any immune response",
+      "D": "Innate physical barriers only"
+    },
+    "correct_answer": "B",
+    "explanation": "CMI distinguishes self from non-self, causing graft rejection.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "When a host is exposed to antigens, which may be in the form of living or dead microbes or other proteins, antibodies are produced in the host body. This type of immunity is called active immunity.",
+    "question": "Active immunity involves:",
+    "options": {
+      "A": "Direct injection of ready-made antibodies",
+      "B": "Host producing its own antibodies upon antigen exposure",
+      "C": "Transfer of antibodies from mother through placenta only",
+      "D": "No antibody production"
+    },
+    "correct_answer": "B",
+    "explanation": "Active immunity results from the host producing antibodies after antigen exposure.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "When ready-made antibodies are directly given to protect the body against foreign agents, it is called passive immunity.",
+    "question": "Passive immunity involves:",
+    "options": {
+      "A": "Host synthesising its own antibodies",
+      "B": "Direct administration of ready-made antibodies",
+      "C": "Only vaccination with weakened pathogens",
+      "D": "No antibodies at all"
+    },
+    "correct_answer": "B",
+    "explanation": "Passive immunity provides preformed antibodies directly to the recipient.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The yellowish fluid colostrum secreted by mother during the initial days of lactation has abundant antibodies (IgA) to protect the infant.",
+    "question": "Colostrum protects the newborn through:",
+    "options": {
+      "A": "High fat content only",
+      "B": "Abundant IgA antibodies providing passive immunity",
+      "C": "Active immunisation against all diseases",
+      "D": "Hormones that kill all pathogens"
+    },
+    "correct_answer": "B",
+    "explanation": "Colostrum contains IgA antibodies giving passive immunity to infants.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The principle of immunisation or vaccination is based on the property of 'memory' of the immune system.",
+    "question": "Vaccination is based on:",
+    "options": {
+      "A": "Destruction of immune memory",
+      "B": "Memory property of the immune system",
+      "C": "Complete elimination of lymphocytes",
+      "D": "Permanent passive immunity only"
+    },
+    "correct_answer": "B",
+    "explanation": "Vaccination exploits immunological memory for protection.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "If a person is infected with some deadly microbes to which quick immune response is required as in tetanus, we need to directly inject the preformed antibodies, or antitoxin.",
+    "question": "Tetanus requires:",
+    "options": {
+      "A": "Only active vaccination months before exposure",
+      "B": "Direct injection of preformed antibodies (antitoxin) for quick protection",
+      "C": "No treatment",
+      "D": "Surgical removal of pathogen only"
+    },
+    "correct_answer": "B",
+    "explanation": "Tetanus needs immediate passive immunisation with preformed antitoxin.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Recombinant DNA technology has allowed the production of antigenic polypeptides of pathogen in bacteria or yeast. Vaccines produced using this approach allow large scale production, e.g., hepatitis B vaccine produced from yeast.",
+    "question": "Hepatitis B vaccine is produced using:",
+    "options": {
+      "A": "Attenuated whole virus in eggs only",
+      "B": "Recombinant DNA technology in yeast",
+      "C": "Heat-killed bacteria only",
+      "D": "Synthetic opioids"
+    },
+    "correct_answer": "B",
+    "explanation": "Hepatitis B vaccine uses recombinant antigenic polypeptides produced in yeast.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The exaggerated response of the immune system to certain antigens present in the environment is called allergy.",
+    "question": "Allergy is:",
+    "options": {
+      "A": "Normal immune response to pathogens",
+      "B": "Exaggerated immune response to environmental antigens",
+      "C": "Complete absence of immune response",
+      "D": "Attack on self-cells only"
+    },
+    "correct_answer": "B",
+    "explanation": "Allergy is an exaggerated immune response to environmental allergens.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The substances to which such an immune response is produced are called allergens.",
+    "question": "Substances triggering allergic reactions are called:",
+    "options": {
+      "A": "Carcinogens",
+      "B": "Allergens",
+      "C": "Antibodies",
+      "D": "Cytokines only"
+    },
+    "correct_answer": "B",
+    "explanation": "Allergens are environmental substances that trigger allergic immune responses.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Allergy is due to the release of chemicals like histamine and serotonin from the mast cells.",
+    "question": "Allergy symptoms are caused by release of:",
+    "options": {
+      "A": "Insulin and glucagon",
+      "B": "Histamine and serotonin from mast cells",
+      "C": "Haemozoin",
+      "D": "Reverse transcriptase"
+    },
+    "correct_answer": "B",
+    "explanation": "Mast cells release histamine and serotonin causing allergy symptoms.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Sometimes, due to genetic and other unknown reasons, the body attacks self-cells. This results in damage to the body and is called auto-immune disease.",
+    "question": "Auto-immune disease occurs when:",
+    "options": {
+      "A": "Body attacks foreign pathogens only",
+      "B": "Body attacks its own cells",
+      "C": "Immune system is completely absent",
+      "D": "Only passive immunity is active"
+    },
+    "correct_answer": "B",
+    "explanation": "Auto-immune diseases involve the immune system attacking self-cells.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Rheumatoid arthritis which affects many people in our society is an auto-immune disease.",
+    "question": "Rheumatoid arthritis is an example of:",
+    "options": {
+      "A": "Infectious disease",
+      "B": "Auto-immune disease",
+      "C": "Allergic reaction only",
+      "D": "Nutritional deficiency"
+    },
+    "correct_answer": "B",
+    "explanation": "Rheumatoid arthritis is a common auto-immune disease.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The primary lymphoid organs are bone marrow and thymus where immature lymphocytes differentiate into antigen-sensitive lymphocytes.",
+    "question": "Primary lymphoid organs are:",
+    "options": {
+      "A": "Spleen and lymph nodes",
+      "B": "Bone marrow and thymus",
+      "C": "Tonsils and appendix only",
+      "D": "Liver and kidney"
+    },
+    "correct_answer": "B",
+    "explanation": "Bone marrow and thymus are primary lymphoid organs for lymphocyte maturation.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "After maturation the lymphocytes migrate to secondary lymphoid organs like spleen, lymph nodes, tonsils, Peyer's patches of small intestine and appendix.",
+    "question": "Secondary lymphoid organs include:",
+    "options": {
+      "A": "Bone marrow and thymus",
+      "B": "Spleen, lymph nodes, tonsils, Peyer's patches and appendix",
+      "C": "Heart and lungs only",
+      "D": "Skin and mucous membranes only"
+    },
+    "correct_answer": "B",
+    "explanation": "Spleen, lymph nodes, tonsils, Peyer's patches and appendix are secondary lymphoid organs.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The bone marrow is the main lymphoid organ where all blood cells including lymphocytes are produced.",
+    "question": "All blood cells including lymphocytes are produced in:",
+    "options": {
+      "A": "Thymus only",
+      "B": "Bone marrow",
+      "C": "Spleen only",
+      "D": "Lymph nodes only"
+    },
+    "correct_answer": "B",
+    "explanation": "Bone marrow is the main site of blood cell and lymphocyte production.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The spleen is a large bean-shaped organ. It mainly contains lymphocytes and phagocytes. It acts as a filter of the blood by trapping blood-borne microorganisms.",
+    "question": "The spleen functions to:",
+    "options": {
+      "A": "Produce all red blood cells permanently",
+      "B": "Filter blood and trap blood-borne microorganisms",
+      "C": "Secrete digestive enzymes",
+      "D": "Store bile"
+    },
+    "correct_answer": "B",
+    "explanation": "Spleen filters blood and traps blood-borne microbes.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Lymph nodes serve to trap the micro-organisms or other antigens, which happen to get into the lymph and tissue fluid.",
+    "question": "Lymph nodes function to:",
+    "options": {
+      "A": "Pump blood to the heart",
+      "B": "Trap microorganisms and antigens in lymph",
+      "C": "Produce hormones only",
+      "D": "Filter urine"
+    },
+    "correct_answer": "B",
+    "explanation": "Lymph nodes trap antigens and microbes in lymph, activating immune response.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "There is lymphoid tissue also located within the lining of the major tracts called mucosa-associated lymphoid tissue (MALT). It constitutes about 50 per cent of the lymphoid tissue in human body.",
+    "question": "MALT (mucosa-associated lymphoid tissue):",
+    "options": {
+      "A": "Constitutes about 5% of lymphoid tissue",
+      "B": "Constitutes about 50% of lymphoid tissue in the human body",
+      "C": "Is found only in bone marrow",
+      "D": "Has no role in immunity"
+    },
+    "correct_answer": "B",
+    "explanation": "MALT in tract linings constitutes about half of the body's lymphoid tissue.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The word AIDS stands for Acquired Immuno Deficiency Syndrome.",
+    "question": "AIDS stands for:",
+    "options": {
+      "A": "Acute Infectious Disease Syndrome",
+      "B": "Acquired Immuno Deficiency Syndrome",
+      "C": "Auto Immune Deficiency Syndrome",
+      "D": "Active Immunological Defence System"
+    },
+    "correct_answer": "B",
+    "explanation": "AIDS = Acquired Immuno Deficiency Syndrome.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "This means deficiency of immune system, acquired during the lifetime of an individual indicating that it is not a congenital disease.",
+    "question": "AIDS is:",
+    "options": {
+      "A": "A congenital disease present from birth",
+      "B": "An acquired immune deficiency during lifetime, not congenital",
+      "C": "Caused by bacterial infection only",
+      "D": "Curable with antibiotics"
+    },
+    "correct_answer": "B",
+    "explanation": "AIDS is acquired during life, not present congenitally.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "AIDS is caused by the Human Immuno deficiency Virus (HIV), a member of a group of viruses called retrovirus, which have an envelope enclosing the RNA genome.",
+    "question": "HIV is a:",
+    "options": {
+      "A": "DNA virus without envelope",
+      "B": "Retrovirus with envelope enclosing RNA genome",
+      "C": "Bacterium",
+      "D": "Protozoan parasite"
+    },
+    "correct_answer": "B",
+    "explanation": "HIV is an enveloped retrovirus with an RNA genome.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Transmission of HIV-infection generally occurs by (a) sexual contact with infected person, (b) by transfusion of contaminated blood and blood products, (c) by sharing infected needles and (d) from infected mother to her child through placenta.",
+    "question": "HIV transmission occurs through:",
+    "options": {
+      "A": "Casual physical touch and sharing meals",
+      "B": "Sexual contact, contaminated blood, shared needles and mother-to-child via placenta",
+      "C": "Mosquito bites and air droplets",
+      "D": "Drinking clean water"
+    },
+    "correct_answer": "B",
+    "explanation": "HIV spreads via sexual contact, blood, needles and vertical transmission.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "It is important to note that HIV/AIDS is not spread by mere touch or physical contact; it spreads only through body fluids.",
+    "question": "HIV/AIDS is NOT spread by:",
+    "options": {
+      "A": "Sharing infected needles",
+      "B": "Mere touch or casual physical contact",
+      "C": "Contaminated blood transfusion",
+      "D": "Sexual contact with infected person"
+    },
+    "correct_answer": "B",
+    "explanation": "HIV does not spread through casual touch; only through body fluids.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "There is always a time-lag between the infection and appearance of AIDS symptoms. This period may vary from a few months to many years (usually 5-10 years).",
+    "question": "The incubation period between HIV infection and AIDS symptoms is typically:",
+    "options": {
+      "A": "A few hours",
+      "B": "Usually 5-10 years",
+      "C": "Exactly 1 day",
+      "D": "Never occurs"
+    },
+    "correct_answer": "B",
+    "explanation": "HIV to AIDS symptom onset usually takes 5-10 years.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "After getting into the body of the person, the virus enters into macrophages where RNA genome of the virus replicates to form viral DNA with the help of the enzyme reverse transcriptase.",
+    "question": "In HIV replication, viral RNA is converted to DNA by:",
+    "options": {
+      "A": "DNA polymerase only",
+      "B": "Reverse transcriptase",
+      "C": "RNA polymerase in host nucleus only",
+      "D": "Helicase"
+    },
+    "correct_answer": "B",
+    "explanation": "Reverse transcriptase converts HIV RNA to DNA in infected cells.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "HIV enters into helper T-lymphocytes (TH), replicates and produces progeny viruses. This is repeated leading to a progressive decrease in the number of helper T-lymphocytes.",
+    "question": "HIV primarily destroys:",
+    "options": {
+      "A": "Red blood cells",
+      "B": "Helper T-lymphocytes (TH cells)",
+      "C": "Platelets only",
+      "D": "Neurons only"
+    },
+    "correct_answer": "B",
+    "explanation": "HIV infects and depletes helper T-lymphocytes, causing immunodeficiency.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "A widely used diagnostic test for AIDS is enzyme linked immuno-sorbent assay (ELISA).",
+    "question": "A widely used diagnostic test for AIDS is:",
+    "options": {
+      "A": "Widal test",
+      "B": "ELISA",
+      "C": "Biopsy only",
+      "D": "CT scan only"
+    },
+    "correct_answer": "B",
+    "explanation": "ELISA is a standard diagnostic test for HIV/AIDS.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Treatment of AIDS with anti-retroviral drugs is only partially effective. They can only prolong the life of the patient but cannot prevent death, which is inevitable.",
+    "question": "Anti-retroviral drugs for AIDS:",
+    "options": {
+      "A": "Completely cure AIDS permanently",
+      "B": "Only partially prolong life; cannot prevent inevitable death",
+      "C": "Have no effect at all",
+      "D": "Eliminate HIV from all macrophages permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "Anti-retroviral drugs prolong life but do not cure AIDS.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "In our body, cell growth and differentiation is highly controlled and regulated. In cancer cells, there is breakdown of these regulatory mechanisms.",
+    "question": "Cancer cells differ from normal cells because:",
+    "options": {
+      "A": "They have enhanced regulatory control",
+      "B": "Regulatory mechanisms controlling growth and differentiation break down",
+      "C": "They never divide",
+      "D": "They show contact inhibition strongly"
+    },
+    "correct_answer": "B",
+    "explanation": "Cancer involves loss of normal growth and differentiation control.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Normal cells show a property called contact inhibition by virtue of which contact with other cells inhibits their uncontrolled growth.",
+    "question": "Contact inhibition refers to:",
+    "options": {
+      "A": "Uncontrolled cell division upon contact",
+      "B": "Inhibition of uncontrolled growth when cells contact each other",
+      "C": "Cell death upon touching pathogens",
+      "D": "Immune rejection of grafts"
+    },
+    "correct_answer": "B",
+    "explanation": "Normal cells stop dividing when in contact with other cells (contact inhibition).",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Cancer cells appears to have lost this property.",
+    "question": "Cancer cells have lost the property of:",
+    "options": {
+      "A": "DNA replication",
+      "B": "Contact inhibition",
+      "C": "Protein synthesis",
+      "D": "Membrane formation"
+    },
+    "correct_answer": "B",
+    "explanation": "Cancer cells lack contact inhibition and divide uncontrollably.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Tumors are of two types: benign and malignant.",
+    "question": "Tumors are classified as:",
+    "options": {
+      "A": "Acute and chronic",
+      "B": "Benign and malignant",
+      "C": "Viral and bacterial",
+      "D": "Primary and secondary only in immunity context"
+    },
+    "correct_answer": "B",
+    "explanation": "Tumors are either benign (localized) or malignant (invasive).",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The malignant tumors, on the other hand are a mass of proliferating cells called neoplastic or tumor cells. These cells grow very rapidly, invading and damaging the surrounding normal tissues.",
+    "question": "Malignant tumors:",
+    "options": {
+      "A": "Grow slowly without invasion",
+      "B": "Rapidly proliferate, invade and damage surrounding tissues",
+      "C": "Never affect normal cells",
+      "D": "Are always benign in nature"
+    },
+    "correct_answer": "B",
+    "explanation": "Malignant neoplastic cells grow rapidly and invade surrounding tissues.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "This property called metastasis is the most feared property of malignant tumors.",
+    "question": "Metastasis refers to:",
+    "options": {
+      "A": "Localized tumor growth only",
+      "B": "Spread of tumor cells to distant sites forming new tumors",
+      "C": "Benign tumor confinement",
+      "D": "Contact inhibition in cancer cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Metastasis is spread of cancer cells to distant body sites.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Transformation of normal cells into cancerous neoplastic cells may be induced by physical, chemical or biological agents. These agents are called carcinogens.",
+    "question": "Agents that induce cancerous transformation are called:",
+    "options": {
+      "A": "Allergens",
+      "B": "Carcinogens",
+      "C": "Antigens only",
+      "D": "Antibiotics"
+    },
+    "correct_answer": "B",
+    "explanation": "Physical, chemical and biological cancer-causing agents are carcinogens.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Ionising radiations like X-rays and gamma rays and non-ionizing radiations like UV cause DNA damage leading to neoplastic transformation.",
+    "question": "Which radiations can cause DNA damage leading to cancer?",
+    "options": {
+      "A": "X-rays, gamma rays and UV radiation",
+      "B": "Visible light only",
+      "C": "Radio waves only",
+      "D": "No radiation causes cancer"
+    },
+    "correct_answer": "A",
+    "explanation": "Ionising (X-rays, gamma) and UV radiations damage DNA causing cancer.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The chemical carcinogens present in tobacco smoke have been identified as a major cause of lung cancer.",
+    "question": "A major cause of lung cancer is:",
+    "options": {
+      "A": "Vitamin deficiency",
+      "B": "Chemical carcinogens in tobacco smoke",
+      "C": "Drinking clean water",
+      "D": "Regular exercise"
+    },
+    "correct_answer": "B",
+    "explanation": "Tobacco smoke contains chemical carcinogens causing lung cancer.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Cancer causing viruses called oncogenic viruses have genes called viral oncogenes.",
+    "question": "Oncogenic viruses contain:",
+    "options": {
+      "A": "Antibiotic resistance genes only",
+      "B": "Viral oncogenes",
+      "C": "No genetic material",
+      "D": "Only ribosomal RNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Oncogenic viruses carry viral oncogenes that can cause cancer.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Cancer detection is based on biopsy and histopathological studies of the tissue and blood and bone marrow tests for increased cell counts in the case of leukemias.",
+    "question": "Cancer detection commonly involves:",
+    "options": {
+      "A": "Widal test",
+      "B": "Biopsy and histopathological studies",
+      "C": "ELISA for malaria",
+      "D": "Blood group testing only"
+    },
+    "correct_answer": "B",
+    "explanation": "Biopsy and histopathology are key methods for cancer detection.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The common approaches for treatment of cancer are surgery, radiation therapy and immunotherapy.",
+    "question": "Common approaches for cancer treatment include:",
+    "options": {
+      "A": "Surgery, radiation therapy and chemotherapy/immunotherapy",
+      "B": "Antibiotics only",
+      "C": "Vaccination against bacteria only",
+      "D": "Yoga alone"
+    },
+    "correct_answer": "A",
+    "explanation": "Cancer is treated with surgery, radiotherapy, chemotherapy and immunotherapy.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Tumor cells have been shown to avoid detection and destruction by immune system. Therefore, the patients are given substances called biological response modifiers such as α-interferon.",
+    "question": "Biological response modifiers like α-interferon are used in cancer treatment to:",
+    "options": {
+      "A": "Suppress all immunity permanently",
+      "B": "Activate the immune system to help destroy tumor cells",
+      "C": "Promote tumor growth",
+      "D": "Replace chemotherapy entirely always"
+    },
+    "correct_answer": "B",
+    "explanation": "α-interferon activates immunity to help destroy tumor cells.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The drugs, which are commonly abused are opioids, cannabinoids and coca alkaloids.",
+    "question": "Commonly abused drugs include:",
+    "options": {
+      "A": "Opioids, cannabinoids and coca alkaloids",
+      "B": "Vitamins and minerals only",
+      "C": "Antibiotics only",
+      "D": "Vaccines"
+    },
+    "correct_answer": "A",
+    "explanation": "Opioids, cannabinoids and coca alkaloids are commonly abused drug classes.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Opioids are the drugs, which bind to specific opioid receptors present in our central nervous system and gastrointestinal tract.",
+    "question": "Opioids bind to receptors in:",
+    "options": {
+      "A": "Skin only",
+      "B": "Central nervous system and gastrointestinal tract",
+      "C": "Bone marrow only",
+      "D": "Red blood cells only"
+    },
+    "correct_answer": "B",
+    "explanation": "Opioid receptors are present in CNS and GI tract.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Heroin, commonly called smack is chemically diacetylmorphine which is a white, odourless, bitter crystalline compound.",
+    "question": "Heroin (smack) is chemically:",
+    "options": {
+      "A": "Morphine sulphate",
+      "B": "Diacetylmorphine",
+      "C": "Cocaine hydrochloride",
+      "D": "Nicotine"
+    },
+    "correct_answer": "B",
+    "explanation": "Heroin is diacetylmorphine, obtained by acetylation of morphine.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Morphine is extracted from the latex of poppy plant Papaver somniferum.",
+    "question": "Morphine is extracted from:",
+    "options": {
+      "A": "Cannabis sativa",
+      "B": "Papaver somniferum (poppy plant)",
+      "C": "Erythroxylum coca",
+      "D": "Nicotiana tabacum"
+    },
+    "correct_answer": "B",
+    "explanation": "Morphine comes from latex of Papaver somniferum.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Cannabinoids are a group of chemicals, which interact with cannabinoid receptors present principally in the brain.",
+    "question": "Cannabinoids interact with receptors primarily in:",
+    "options": {
+      "A": "Liver only",
+      "B": "Brain (cannabinoid receptors)",
+      "C": "Kidneys only",
+      "D": "Skeletal muscles only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cannabinoid receptors are principally located in the brain.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Natural cannabinoids are obtained from the inflorescences of the plant Cannabis sativa.",
+    "question": "Natural cannabinoids are obtained from:",
+    "options": {
+      "A": "Papaver somniferum",
+      "B": "Cannabis sativa",
+      "C": "Erythroxylum coca",
+      "D": "Atropa belladonna only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cannabis sativa inflorescences are the source of natural cannabinoids.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Coca alkaloid or cocaine is obtained from coca plant Erythroxylum coca, native to South America.",
+    "question": "Cocaine is obtained from:",
+    "options": {
+      "A": "Cannabis sativa",
+      "B": "Erythroxylum coca",
+      "C": "Papaver somniferum",
+      "D": "Datura stramonium only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cocaine is a coca alkaloid from Erythroxylum coca.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "It interferes with the transport of the neuro-transmitter dopamine.",
+    "question": "Cocaine acts by interfering with:",
+    "options": {
+      "A": "Serotonin transport only",
+      "B": "Dopamine transport",
+      "C": "Acetylcholine synthesis only",
+      "D": "Insulin secretion"
+    },
+    "correct_answer": "B",
+    "explanation": "Cocaine blocks dopamine reuptake, affecting CNS stimulation.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Cocaine, commonly called coke or crack is usually snorted. It has a potent stimulating action on central nervous system, producing a sense of euphoria and increased energy.",
+    "question": "Cocaine produces:",
+    "options": {
+      "A": "Depression and slowed body functions",
+      "B": "CNS stimulation, euphoria and increased energy",
+      "C": "Only gastrointestinal effects",
+      "D": "Permanent immunity boost"
+    },
+    "correct_answer": "B",
+    "explanation": "Cocaine is a potent CNS stimulant causing euphoria and increased energy.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Tobacco contains a large number of chemical substances including nicotine, an alkaloid.",
+    "question": "The main alkaloid in tobacco is:",
+    "options": {
+      "A": "Morphine",
+      "B": "Nicotine",
+      "C": "Cocaine",
+      "D": "Caffeine only"
+    },
+    "correct_answer": "B",
+    "explanation": "Nicotine is the primary alkaloid in tobacco.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Nicotine stimulates adrenal gland to release adrenaline and nor-adrenaline into blood circulation, both of which raise blood pressure and increase heart rate.",
+    "question": "Nicotine affects the body by:",
+    "options": {
+      "A": "Lowering blood pressure and heart rate",
+      "B": "Stimulating adrenal release of adrenaline/nor-adrenaline, raising BP and heart rate",
+      "C": "Having no cardiovascular effect",
+      "D": "Increasing oxygen carrying capacity of blood"
+    },
+    "correct_answer": "B",
+    "explanation": "Nicotine triggers adrenaline release, raising blood pressure and heart rate.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Smoking is associated with increased incidence of cancers of lung, urinary bladder and throat, bronchitis, emphysema, coronary heart disease, gastric ulcer, etc.",
+    "question": "Smoking is associated with increased risk of:",
+    "options": {
+      "A": "Only common cold",
+      "B": "Lung, bladder and throat cancer, bronchitis, emphysema and coronary heart disease",
+      "C": "Improved lung function",
+      "D": "Enhanced immunity permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "Smoking increases risk of multiple cancers and respiratory/cardiovascular diseases.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Smoking increases carbon monoxide (CO) content in blood and reduces the concentration of haembound oxygen.",
+    "question": "Smoking causes oxygen deficiency because it:",
+    "options": {
+      "A": "Increases haemoglobin production",
+      "B": "Increases CO in blood, reducing haemoglobin-bound oxygen",
+      "C": "Enhances lung capacity",
+      "D": "Eliminates all carbon dioxide"
+    },
+    "correct_answer": "B",
+    "explanation": "CO from smoke binds haemoglobin, reducing oxygen transport.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The period between 12-18 years of age may be thought of as adolescence period.",
+    "question": "Adolescence period is generally considered as:",
+    "options": {
+      "A": "0-5 years",
+      "B": "12-18 years of age",
+      "C": "25-40 years",
+      "D": "Above 60 years"
+    },
+    "correct_answer": "B",
+    "explanation": "Adolescence spans approximately ages 12-18.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Curiosity, need for adventure and excitement, and experimentation, constitute common causes, which motivate youngsters towards drug and alcohol use.",
+    "question": "Common causes motivating youngsters toward drug/alcohol use include:",
+    "options": {
+      "A": "Medical prescription only",
+      "B": "Curiosity, adventure, excitement and experimentation",
+      "C": "Mandatory school curriculum",
+      "D": "Genetic immunity to drugs"
+    },
+    "correct_answer": "B",
+    "explanation": "Curiosity and desire for adventure commonly lead to initial drug experimentation.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Addiction is a psychological attachment to certain effects – such as euphoria and a temporary feeling of well-being – associated with drugs and alcohol.",
+    "question": "Addiction is:",
+    "options": {
+      "A": "Physical immunity to drugs",
+      "B": "Psychological attachment to euphoria and well-being effects of drugs/alcohol",
+      "C": "One-time use without any repetition",
+      "D": "Complete rejection of all substances"
+    },
+    "correct_answer": "B",
+    "explanation": "Addiction involves psychological attachment to drug-induced effects.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "With repeated use of drugs, the tolerance level of the receptors present in our body increases.",
+    "question": "Drug tolerance develops because:",
+    "options": {
+      "A": "Receptors become less sensitive immediately without repeated use",
+      "B": "Receptor tolerance increases, requiring higher doses for same effect",
+      "C": "Drugs permanently destroy all receptors in one use",
+      "D": "Body produces fewer antibodies"
+    },
+    "correct_answer": "B",
+    "explanation": "Repeated drug use increases receptor tolerance, requiring higher doses.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Dependence is the tendency of the body to manifest a characteristic and unpleasant withdrawal syndrome if regular dose of drugs/alcohol is abruptly discontinued.",
+    "question": "Dependence is characterised by:",
+    "options": {
+      "A": "Improved health upon stopping drugs",
+      "B": "Withdrawal syndrome when regular drug/alcohol use is abruptly stopped",
+      "C": "No physical or psychological effects",
+      "D": "Permanent immunity to substances"
+    },
+    "correct_answer": "B",
+    "explanation": "Dependence causes unpleasant withdrawal symptoms when use stops abruptly.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "Those who take drugs intravenously (direct injection into the vein using a needle and syringe), are much more likely to acquire serious infections like AIDS and Hepatitis B.",
+    "question": "Intravenous drug users are at high risk of:",
+    "options": {
+      "A": "Malaria only",
+      "B": "AIDS and Hepatitis B through shared needles",
+      "C": "Ringworm only",
+      "D": "Common cold only"
+    },
+    "correct_answer": "B",
+    "explanation": "Sharing infected needles transmits HIV and Hepatitis B.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  },
+  {
+    "source_sentence": "The chronic use of drugs and alcohol damages nervous system and liver (cirrhosis).",
+    "question": "Chronic drug and alcohol abuse damages:",
+    "options": {
+      "A": "Only skin",
+      "B": "Nervous system and liver (causing cirrhosis)",
+      "C": "Hair and nails only",
+      "D": "Teeth enamel only without other effects"
+    },
+    "correct_answer": "B",
+    "explanation": "Chronic abuse damages the nervous system and causes liver cirrhosis.",
+    "chapter": "Chapter 7: Human Health and Disease"
+  }
+]

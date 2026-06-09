@@ -1,0 +1,1432 @@
+[
+  {
+    "source_sentence": "Such voluntary movements are called locomotion. Walking, running, climbing, flying and swimming are all some forms of locomotory movements.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which of the following best defines locomotion?",
+    "options": {
+      "A": "Any movement of protoplasm within a cell",
+      "B": "Voluntary movements that result in a change of place or location",
+      "C": "Involuntary movements of visceral organs only",
+      "D": "Movement of cilia in the respiratory tract"
+    },
+    "correct_answer": "B",
+    "explanation": "Locomotion refers to voluntary movements that change body position, such as walking and swimming."
+  },
+  {
+    "source_sentence": "All locomotions are movements but all movements are not locomotions.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which statement correctly relates movement and locomotion?",
+    "options": {
+      "A": "All movements are locomotions",
+      "B": "Locomotion and movement are completely unrelated",
+      "C": "All locomotions are movements but all movements are not locomotions",
+      "D": "Only plant movements qualify as locomotion"
+    },
+    "correct_answer": "C",
+    "explanation": "Every locomotion is a movement, but not every movement changes location."
+  },
+  {
+    "source_sentence": "In Paramoecium, cilia helps in the movement of food through cytopharynx and in locomotion as well.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "In Paramoecium, cilia are used for:",
+    "options": {
+      "A": "Locomotion only",
+      "B": "Food movement through cytopharynx and locomotion",
+      "C": "Reproduction only",
+      "D": "Excretion of waste products"
+    },
+    "correct_answer": "B",
+    "explanation": "Cilia in Paramoecium move food and also propel the organism."
+  },
+  {
+    "source_sentence": "Hydra can use its tentacles for capturing its prey and also use them for locomotion.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Hydra uses its tentacles for:",
+    "options": {
+      "A": "Digestion only",
+      "B": "Capturing prey and locomotion",
+      "C": "Gas exchange only",
+      "D": "Reproduction exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Hydra tentacles capture prey and aid locomotion."
+  },
+  {
+    "source_sentence": "Locomotion is generally for search of food, shelter, mate, suitable breeding grounds, favourable climatic conditions or to escape from enemies/predators.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Animals generally locomote in order to:",
+    "options": {
+      "A": "Increase body temperature only",
+      "B": "Search for food, shelter, mate, breeding grounds, favourable climate or escape predators",
+      "C": "Produce hormones",
+      "D": "Facilitate cell division"
+    },
+    "correct_answer": "B",
+    "explanation": "Locomotion serves feeding, reproduction, shelter and predator avoidance."
+  },
+  {
+    "source_sentence": "Cells of the human body exhibit three main types of movements, namely, amoeboid, ciliary and muscular.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The three main types of cellular movements in the human body are:",
+    "options": {
+      "A": "Flagellar, amoeboid and muscular",
+      "B": "Amoeboid, ciliary and muscular",
+      "C": "Ciliary, flagellar and synovial",
+      "D": "Muscular, skeletal and cardiac"
+    },
+    "correct_answer": "B",
+    "explanation": "Human cells show amoeboid, ciliary and muscular movement."
+  },
+  {
+    "source_sentence": "Some specialised cells in our body like macrophages and leucocytes in blood exhibit amoeboid movement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which cells in the human body exhibit amoeboid movement?",
+    "options": {
+      "A": "Neurons and glial cells",
+      "B": "Macrophages and leucocytes",
+      "C": "Erythrocytes and platelets",
+      "D": "Cardiac muscle cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Macrophages and leucocytes show amoeboid movement."
+  },
+  {
+    "source_sentence": "It is effected by pseudopodia formed by the streaming of protoplasm (as in Amoeba). Cytoskeletal elements like microfilaments are also involved in amoeboid movement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Amoeboid movement is brought about by:",
+    "options": {
+      "A": "Coordinated beating of cilia",
+      "B": "Pseudopodia formed by protoplasmic streaming and microfilaments",
+      "C": "Sliding of actin and myosin filaments",
+      "D": "Rotation of flagella"
+    },
+    "correct_answer": "B",
+    "explanation": "Amoeboid movement uses pseudopodia and microfilaments."
+  },
+  {
+    "source_sentence": "Ciliary movement occurs in most of our internal tubular organs which are lined by ciliated epithelium.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Ciliary movement is typically seen in:",
+    "options": {
+      "A": "Skeletal muscles attached to bones",
+      "B": "Internal tubular organs lined by ciliated epithelium",
+      "C": "Red blood cells in circulation",
+      "D": "Cartilaginous joints of the skull"
+    },
+    "correct_answer": "B",
+    "explanation": "Ciliated epithelium lines internal tubes where ciliary movement occurs."
+  },
+  {
+    "source_sentence": "The coordinated movements of cilia in the trachea help us in removing dust particles and some of the foreign substances inhaled along with the atmospheric air.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Ciliary movement in the trachea helps to:",
+    "options": {
+      "A": "Transport oxygen into alveoli",
+      "B": "Remove dust particles and foreign substances from inhaled air",
+      "C": "Produce mucus in the lungs",
+      "D": "Regulate blood pressure"
+    },
+    "correct_answer": "B",
+    "explanation": "Tracheal cilia clear dust and foreign particles from inhaled air."
+  },
+  {
+    "source_sentence": "Passage of ova through the female reproductive tract is also facilitated by the ciliary movement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Ciliary movement facilitates:",
+    "options": {
+      "A": "Sperm production in testes",
+      "B": "Passage of ova through the female reproductive tract",
+      "C": "Implantation of the embryo",
+      "D": "Hormone secretion from ovaries"
+    },
+    "correct_answer": "B",
+    "explanation": "Cilia help move ova along the female reproductive tract."
+  },
+  {
+    "source_sentence": "Locomotion requires a perfect coordinated activity of muscular, skeletal and neural systems.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Locomotion requires coordinated activity of:",
+    "options": {
+      "A": "Muscular system only",
+      "B": "Skeletal and circulatory systems only",
+      "C": "Muscular, skeletal and neural systems",
+      "D": "Endocrine and excretory systems"
+    },
+    "correct_answer": "C",
+    "explanation": "Locomotion needs integration of muscular, skeletal and neural systems."
+  },
+  {
+    "source_sentence": "Flagellar movement helps in the swimming of spermatozoa, maintenance of water current in the canal system of sponges and in locomotion of Protists like Euglena.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Flagellar movement is involved in:",
+    "options": {
+      "A": "Digestion in the alimentary canal",
+      "B": "Swimming of spermatozoa, water current in sponges and locomotion of Euglena",
+      "C": "Contraction of cardiac muscle",
+      "D": "Movement of food in Paramoecium"
+    },
+    "correct_answer": "B",
+    "explanation": "Flagella propel sperm, maintain sponge water currents and move Euglena."
+  },
+  {
+    "source_sentence": "Muscle is a specialised tissue of mesodermal origin.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Muscle tissue is of which embryonic origin?",
+    "options": {
+      "A": "Ectodermal",
+      "B": "Endodermal",
+      "C": "Mesodermal",
+      "D": "Neural crest"
+    },
+    "correct_answer": "C",
+    "explanation": "Muscle is a specialised mesodermal tissue."
+  },
+  {
+    "source_sentence": "About 40-50 per cent of the body weight of a human adult is contributed by muscles.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Approximately what fraction of an adult human's body weight is contributed by muscles?",
+    "options": {
+      "A": "10-15%",
+      "B": "20-25%",
+      "C": "40-50%",
+      "D": "70-80%"
+    },
+    "correct_answer": "C",
+    "explanation": "Muscles contribute about 40-50% of adult body weight."
+  },
+  {
+    "source_sentence": "They have special properties like excitability, contractility, extensibility and elasticity.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which are special properties of muscles?",
+    "options": {
+      "A": "Conductivity, permeability and osmolarity",
+      "B": "Excitability, contractility, extensibility and elasticity",
+      "C": "Photosynthesis, respiration and excretion",
+      "D": "Secretion, absorption and filtration"
+    },
+    "correct_answer": "B",
+    "explanation": "Muscles exhibit excitability, contractility, extensibility and elasticity."
+  },
+  {
+    "source_sentence": "Based on their location, three types of muscles are identified: (i) Skeletal (ii) Visceral and (iii) Cardiac.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Based on location, muscles are classified into:",
+    "options": {
+      "A": "Red, white and intermediate",
+      "B": "Skeletal, visceral and cardiac",
+      "C": "Striated, smooth and fibrous",
+      "D": "Voluntary, reflex and autonomic"
+    },
+    "correct_answer": "B",
+    "explanation": "Location-based classification: skeletal, visceral and cardiac."
+  },
+  {
+    "source_sentence": "Skeletal muscles are closely associated with the skeletal components of the body. They have a striped appearance under the microscope and hence are called striated muscles.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Skeletal muscles are called striated muscles because:",
+    "options": {
+      "A": "They contain no myofibrils",
+      "B": "They have a striped appearance under the microscope",
+      "C": "They are found only in the heart",
+      "D": "They lack actin and myosin"
+    },
+    "correct_answer": "B",
+    "explanation": "Alternating bands give skeletal muscle a striated appearance."
+  },
+  {
+    "source_sentence": "As their activities are under the voluntary control of the nervous system, they are known as voluntary muscles too.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Skeletal muscles are also called voluntary muscles because:",
+    "options": {
+      "A": "They contract without any neural input",
+      "B": "Their activities are under voluntary control of the nervous system",
+      "C": "They are controlled only by hormones",
+      "D": "They function only during sleep"
+    },
+    "correct_answer": "B",
+    "explanation": "Skeletal muscle is under conscious voluntary control."
+  },
+  {
+    "source_sentence": "They are primarily involved in locomotory actions and changes of body postures.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Skeletal muscles are primarily involved in:",
+    "options": {
+      "A": "Pumping blood through the heart",
+      "B": "Peristalsis of the digestive tract",
+      "C": "Locomotory actions and changes of body posture",
+      "D": "Filtration of blood in kidneys"
+    },
+    "correct_answer": "C",
+    "explanation": "Skeletal muscles drive locomotion and posture changes."
+  },
+  {
+    "source_sentence": "Visceral muscles are located in the inner walls of hollow visceral organs of the body like the alimentary canal, reproductive tract, etc.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Visceral muscles are found in:",
+    "options": {
+      "A": "Bones and cartilages",
+      "B": "Inner walls of hollow visceral organs like alimentary and reproductive tracts",
+      "C": "The outer layer of the skin",
+      "D": "Tendons connecting muscle to bone"
+    },
+    "correct_answer": "B",
+    "explanation": "Visceral muscles line hollow internal organs."
+  },
+  {
+    "source_sentence": "They do not exhibit any striation and are smooth in appearance. Hence, they are called smooth muscles (nonstriated muscle).",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Visceral muscles are also called smooth or non-striated muscles because:",
+    "options": {
+      "A": "They have prominent striations",
+      "B": "They do not exhibit striations and appear smooth",
+      "C": "They are attached to the skeleton",
+      "D": "They contain abundant myoglobin"
+    },
+    "correct_answer": "B",
+    "explanation": "Visceral muscles lack visible striations."
+  },
+  {
+    "source_sentence": "Their activities are not under the voluntary control of the nervous system and are therefore known as involuntary muscles.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Visceral muscles are involuntary because:",
+    "options": {
+      "A": "They cannot contract at all",
+      "B": "Their activities are not under voluntary nervous control",
+      "C": "They are controlled only by skeletal nerves",
+      "D": "They function only during exercise"
+    },
+    "correct_answer": "B",
+    "explanation": "Smooth muscle is not under conscious control."
+  },
+  {
+    "source_sentence": "They assist, for example, in the transportation of food through the digestive tract and gametes through the genital tract.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Visceral muscles assist in:",
+    "options": {
+      "A": "Chewing and swallowing only",
+      "B": "Transport of food through the digestive tract and gametes through the genital tract",
+      "C": "Pumping blood from ventricles",
+      "D": "Movement of limbs during running"
+    },
+    "correct_answer": "B",
+    "explanation": "Smooth muscles propel food and gametes through internal tracts."
+  },
+  {
+    "source_sentence": "As the name suggests, Cardiac muscles are the muscles of heart. Many cardiac muscle cells assemble in a branching pattern to form a cardiac muscle.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cardiac muscle is characterised by:",
+    "options": {
+      "A": "Unbranched fibres found in the alimentary canal",
+      "B": "Muscle cells of the heart assembled in a branching pattern",
+      "C": "Voluntary control by the cerebral cortex",
+      "D": "Absence of striations"
+    },
+    "correct_answer": "B",
+    "explanation": "Cardiac muscle cells branch and interconnect."
+  },
+  {
+    "source_sentence": "Based on appearance, cardiac muscles are striated. They are involuntary in nature as the nervous system does not control their activities directly.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cardiac muscles are:",
+    "options": {
+      "A": "Non-striated and voluntary",
+      "B": "Striated and involuntary",
+      "C": "Non-striated and involuntary",
+      "D": "Striated and voluntary"
+    },
+    "correct_answer": "B",
+    "explanation": "Cardiac muscle is striated but contracts involuntarily."
+  },
+  {
+    "source_sentence": "Each organised skeletal muscle in our body is made of a number of muscle bundles or fascicles held together by a common collagenous connective tissue layer called fascia.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Skeletal muscle bundles (fascicles) are held together by:",
+    "options": {
+      "A": "Sarcolemma",
+      "B": "Fascia, a collagenous connective tissue layer",
+      "C": "Synovial membrane",
+      "D": "Periosteum of adjacent bones"
+    },
+    "correct_answer": "B",
+    "explanation": "Fascia binds muscle fascicles together."
+  },
+  {
+    "source_sentence": "Each muscle fibre is lined by the plasma membrane called sarcolemma enclosing the sarcoplasm.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The plasma membrane of a muscle fibre is called:",
+    "options": {
+      "A": "Sarcoplasm",
+      "B": "Sarcolemma",
+      "C": "Endomysium",
+      "D": "Perimysium"
+    },
+    "correct_answer": "B",
+    "explanation": "Sarcolemma is the muscle fibre plasma membrane."
+  },
+  {
+    "source_sentence": "Muscle fibre is a syncitium as the sarcoplasm contains many nuclei.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "A muscle fibre is described as a syncitium because:",
+    "options": {
+      "A": "It has a single nucleus",
+      "B": "Its sarcoplasm contains many nuclei",
+      "C": "It lacks mitochondria",
+      "D": "It has no sarcoplasmic reticulum"
+    },
+    "correct_answer": "B",
+    "explanation": "Multinucleate sarcoplasm makes the fibre a syncitium."
+  },
+  {
+    "source_sentence": "The endoplasmic reticulum, i.e., sarcoplasmic reticulum of the muscle fibres is the store house of calcium ions.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Calcium ions in muscle fibres are stored in:",
+    "options": {
+      "A": "Mitochondria",
+      "B": "Golgi apparatus",
+      "C": "Sarcoplasmic reticulum",
+      "D": "Nucleus"
+    },
+    "correct_answer": "C",
+    "explanation": "Sarcoplasmic reticulum stores Ca²⁺ for contraction."
+  },
+  {
+    "source_sentence": "A detailed study of the myofibril has established that the striated appearance is due to the distribution pattern of two important proteins – Actin and Myosin.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The striated appearance of myofibrils is due to the distribution of:",
+    "options": {
+      "A": "Collagen and elastin",
+      "B": "Actin and myosin",
+      "C": "Troponin and tropomyosin only",
+      "D": "Keratin and fibrin"
+    },
+    "correct_answer": "B",
+    "explanation": "Actin and myosin arrangement creates striations."
+  },
+  {
+    "source_sentence": "The light bands contain actin and is called I-band or Isotropic band, whereas the dark band called 'A' or Anisotropic band contains myosin.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "In a sarcomere, the I-band and A-band contain respectively:",
+    "options": {
+      "A": "Myosin and actin",
+      "B": "Actin and myosin",
+      "C": "Troponin and tropomyosin",
+      "D": "Collagen and elastin"
+    },
+    "correct_answer": "B",
+    "explanation": "I-band (isotropic) has actin; A-band (anisotropic) has myosin."
+  },
+  {
+    "source_sentence": "Actin filaments are thinner as compared to the myosin filaments, hence are commonly called thin and thick filaments respectively.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Thin and thick filaments of myofibrils are made of:",
+    "options": {
+      "A": "Myosin and actin respectively",
+      "B": "Actin and myosin respectively",
+      "C": "Tropomyosin and troponin",
+      "D": "Collagen and elastin"
+    },
+    "correct_answer": "B",
+    "explanation": "Actin forms thin filaments; myosin forms thick filaments."
+  },
+  {
+    "source_sentence": "In the centre of each 'I' band is an elastic fibre called 'Z' line which bisects it. The thin filaments are firmly attached to the 'Z' line.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Thin filaments in a sarcomere are attached to:",
+    "options": {
+      "A": "M line",
+      "B": "Z line",
+      "C": "H zone",
+      "D": "Sarcolemma only"
+    },
+    "correct_answer": "B",
+    "explanation": "Thin actin filaments anchor to the Z line."
+  },
+  {
+    "source_sentence": "The thick filaments in the 'A' band are also held together in the middle of this band by a thin fibrous membrane called 'M' line.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Thick filaments in the A-band are held together at the:",
+    "options": {
+      "A": "Z line",
+      "B": "M line",
+      "C": "H zone centre only",
+      "D": "Neuromuscular junction"
+    },
+    "correct_answer": "B",
+    "explanation": "The M line holds thick myosin filaments together."
+  },
+  {
+    "source_sentence": "The portion of the myofibril between two successive 'Z' lines is considered as the functional unit of contraction and is called a sarcomere.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The functional unit of muscle contraction is:",
+    "options": {
+      "A": "A fascicle",
+      "B": "A sarcomere (between two successive Z lines)",
+      "C": "An entire myofibril",
+      "D": "The H zone alone"
+    },
+    "correct_answer": "B",
+    "explanation": "A sarcomere lies between two successive Z lines."
+  },
+  {
+    "source_sentence": "This central part of thick filament, not overlapped by thin filaments is called the 'H' zone.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The H zone of a resting sarcomere represents:",
+    "options": {
+      "A": "Region with only thin filaments",
+      "B": "Central thick filament region not overlapped by thin filaments",
+      "C": "The Z line",
+      "D": "The neuromuscular junction"
+    },
+    "correct_answer": "B",
+    "explanation": "H zone is central thick filament not covered by actin at rest."
+  },
+  {
+    "source_sentence": "Each actin (thin) filament is made of two 'F' (filamentous) actins helically wound to each other.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Each thin (actin) filament consists of:",
+    "options": {
+      "A": "A single G-actin chain",
+      "B": "Two F-actins helically wound together",
+      "C": "Myosin polymers only",
+      "D": "Tropomyosin alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Two F-actin strands form the thin filament core."
+  },
+  {
+    "source_sentence": "Each 'F' actin is a polymer of monomeric 'G' (Globular) actins.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "F-actin is formed by polymerisation of:",
+    "options": {
+      "A": "Meromyosin monomers",
+      "B": "G (globular) actin monomers",
+      "C": "Troponin subunits only",
+      "D": "Collagen monomers"
+    },
+    "correct_answer": "B",
+    "explanation": "F-actin is a polymer of G-actin monomers."
+  },
+  {
+    "source_sentence": "A complex protein Troponin is distributed at regular intervals on the tropomyosin.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Troponin in the thin filament is distributed:",
+    "options": {
+      "A": "Only at the M line",
+      "B": "At regular intervals on tropomyosin",
+      "C": "Randomly in the H zone",
+      "D": "Only on thick filaments"
+    },
+    "correct_answer": "B",
+    "explanation": "Troponin sits at regular intervals on tropomyosin."
+  },
+  {
+    "source_sentence": "In the resting state a subunit of troponin masks the active binding sites for myosin on the actin filaments.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "In resting muscle, myosin binding sites on actin are:",
+    "options": {
+      "A": "Always exposed",
+      "B": "Masked by a troponin subunit",
+      "C": "Destroyed permanently",
+      "D": "Located on the M line"
+    },
+    "correct_answer": "B",
+    "explanation": "Troponin masks myosin binding sites on actin at rest."
+  },
+  {
+    "source_sentence": "Each myosin (thick) filament is also a polymerised protein. Many monomeric proteins called Meromyosins constitute one thick filament.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Thick filaments are composed of:",
+    "options": {
+      "A": "G-actin polymers",
+      "B": "Many meromyosin monomers",
+      "C": "Tropomyosin only",
+      "D": "Collagen fibres"
+    },
+    "correct_answer": "B",
+    "explanation": "Polymerised meromyosins form thick filaments."
+  },
+  {
+    "source_sentence": "Each meromyosin has two important parts, a globular head with a short arm and a tail, the former being called the heavy meromyosin (HMM) and the latter, the light meromyosin (LMM).",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The globular head and short arm of meromyosin constitute:",
+    "options": {
+      "A": "Light meromyosin (LMM)",
+      "B": "Heavy meromyosin (HMM)",
+      "C": "Tropomyosin",
+      "D": "Troponin C"
+    },
+    "correct_answer": "B",
+    "explanation": "HMM includes the globular head and short arm."
+  },
+  {
+    "source_sentence": "The HMM component, i.e.; the head and short arm projects outwards at regular distance and angle from each other from the surface of a polymerised myosin filament and is known as cross arm.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Projecting heads of myosin from the thick filament surface are called:",
+    "options": {
+      "A": "Z lines",
+      "B": "Cross arms",
+      "C": "Tropomyosin strands",
+      "D": "Sarcolemma folds"
+    },
+    "correct_answer": "B",
+    "explanation": "HMM heads project as cross arms from the thick filament."
+  },
+  {
+    "source_sentence": "The globular head is an active ATPase enzyme and has binding sites for ATP and active sites for actin.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The globular head of myosin:",
+    "options": {
+      "A": "Stores calcium ions",
+      "B": "Is an active ATPase with ATP and actin binding sites",
+      "C": "Contains only tropomyosin",
+      "D": "Forms the Z line"
+    },
+    "correct_answer": "B",
+    "explanation": "Myosin head hydrolyses ATP and binds actin."
+  },
+  {
+    "source_sentence": "Mechanism of muscle contraction is best explained by the sliding filament theory which states that contraction of a muscle fibre takes place by the sliding of the thin filaments over the thick filaments.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The sliding filament theory states that muscle contraction occurs by:",
+    "options": {
+      "A": "Shortening of thick filaments",
+      "B": "Sliding of thin filaments over thick filaments",
+      "C": "Elongation of the A-band",
+      "D": "Disappearance of Z lines permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "Thin filaments slide over thick filaments during contraction."
+  },
+  {
+    "source_sentence": "Muscle contraction is initiated by a signal sent by the central nervous system (CNS) via a motor neuron.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Muscle contraction is initiated by:",
+    "options": {
+      "A": "Hormones from the pancreas only",
+      "B": "A signal from the CNS via a motor neuron",
+      "C": "Direct stimulation of bone",
+      "D": "Passive stretching without nerves"
+    },
+    "correct_answer": "B",
+    "explanation": "The CNS sends signals through motor neurons to initiate contraction."
+  },
+  {
+    "source_sentence": "A motor neuron along with the muscle fibres connected to it constitute a motor unit.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "A motor unit consists of:",
+    "options": {
+      "A": "Two motor neurons only",
+      "B": "A motor neuron and the muscle fibres connected to it",
+      "C": "A bone and its cartilage",
+      "D": "A tendon and ligament"
+    },
+    "correct_answer": "B",
+    "explanation": "One motor neuron plus its innervated muscle fibres form a motor unit."
+  },
+  {
+    "source_sentence": "The junction between a motor neuron and the sarcolemma of the muscle fibre is called the neuromuscular junction or motor-end plate.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The junction between a motor neuron and muscle fibre sarcolemma is the:",
+    "options": {
+      "A": "Synovial joint",
+      "B": "Neuromuscular junction or motor end plate",
+      "C": "Z line",
+      "D": "M line"
+    },
+    "correct_answer": "B",
+    "explanation": "Neuromuscular junction is where nerve meets muscle fibre."
+  },
+  {
+    "source_sentence": "A neural signal reaching this junction releases a neurotransmitter (Acetylcholine) which generates an action potential in the sarcolemma.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The neurotransmitter released at the neuromuscular junction is:",
+    "options": {
+      "A": "Dopamine",
+      "B": "Acetylcholine",
+      "C": "Adrenaline",
+      "D": "GABA"
+    },
+    "correct_answer": "B",
+    "explanation": "Acetylcholine is released at the neuromuscular junction."
+  },
+  {
+    "source_sentence": "This spreads through the muscle fibre and causes the release of calcium ions into the sarcoplasm.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "An action potential in the muscle fibre leads to:",
+    "options": {
+      "A": "Immediate relaxation",
+      "B": "Release of calcium ions into the sarcoplasm",
+      "C": "Breakdown of myosin",
+      "D": "Fusion of Z lines"
+    },
+    "correct_answer": "B",
+    "explanation": "Action potentials trigger Ca²⁺ release into sarcoplasm."
+  },
+  {
+    "source_sentence": "Increase in Ca++ level leads to the binding of calcium with a subunit of troponin on actin filaments and thereby remove the masking of active sites for myosin.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Increased Ca²⁺ in sarcoplasm causes:",
+    "options": {
+      "A": "Masking of actin sites",
+      "B": "Binding to troponin and exposure of myosin binding sites on actin",
+      "C": "Permanent rigor mortis",
+      "D": "Breakdown of thick filaments"
+    },
+    "correct_answer": "B",
+    "explanation": "Ca²⁺ binds troponin, unmasking myosin sites on actin."
+  },
+  {
+    "source_sentence": "Utilising the energy from ATP hydrolysis, the myosin head now binds to the exposed active sites on actin to form a cross bridge.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cross bridge formation between actin and myosin requires:",
+    "options": {
+      "A": "Only calcium without ATP",
+      "B": "Energy from ATP hydrolysis",
+      "C": "Breakdown of bone matrix",
+      "D": "Absence of acetylcholine"
+    },
+    "correct_answer": "B",
+    "explanation": "ATP hydrolysis powers myosin head binding to actin."
+  },
+  {
+    "source_sentence": "This pulls the attached actin filaments towards the centre of 'A band. The 'Z line attached to these actins are also pulled inwards thereby causing a shortening of the sarcomere, i.e., contraction.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "During contraction, actin filaments are pulled:",
+    "options": {
+      "A": "Away from the A-band centre",
+      "B": "Towards the centre of the A-band, shortening the sarcomere",
+      "C": "Out of the sarcomere entirely",
+      "D": "Only at the M line without Z line movement"
+    },
+    "correct_answer": "B",
+    "explanation": "Actin slides inward, pulling Z lines and shortening the sarcomere."
+  },
+  {
+    "source_sentence": "It is clear from the above steps, that during shortening of the muscle, i.e., contraction, the 'I' bands get reduced, whereas the 'A' bands retain the length.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "During muscle contraction:",
+    "options": {
+      "A": "Both I and A bands shorten equally",
+      "B": "I bands shorten but A bands retain their length",
+      "C": "A bands shorten but I bands remain unchanged",
+      "D": "Both bands disappear"
+    },
+    "correct_answer": "B",
+    "explanation": "I-band width decreases; A-band length stays constant."
+  },
+  {
+    "source_sentence": "The myosin, releasing the ADP and Pi goes back to its relaxed state. A new ATP binds and the cross-bridge is broken.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Breaking of the cross bridge requires:",
+    "options": {
+      "A": "More calcium only",
+      "B": "Binding of a new ATP molecule to myosin",
+      "C": "Permanent attachment to actin",
+      "D": "Absence of any energy source"
+    },
+    "correct_answer": "B",
+    "explanation": "New ATP binding to myosin breaks the cross bridge."
+  },
+  {
+    "source_sentence": "The process continues till the Ca++ ions are pumped back to the sarcoplasmic cisternae resulting in the masking of actin filaments.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Muscle relaxation occurs when:",
+    "options": {
+      "A": "More acetylcholine is released",
+      "B": "Ca²⁺ is pumped back to sarcoplasmic reticulum and actin sites are masked",
+      "C": "ATP is completely depleted",
+      "D": "A-bands elongate"
+    },
+    "correct_answer": "B",
+    "explanation": "Ca²⁺ reuptake masks actin, ending contraction."
+  },
+  {
+    "source_sentence": "Repeated activation of the muscles can lead to the accumulation of lactic acid due to anaerobic breakdown of glycogen in them, causing fatigue.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Muscle fatigue is often caused by:",
+    "options": {
+      "A": "Excess myoglobin",
+      "B": "Accumulation of lactic acid from anaerobic glycogen breakdown",
+      "C": "Too much oxygen",
+      "D": "Increased number of mitochondria"
+    },
+    "correct_answer": "B",
+    "explanation": "Anaerobic glycogen breakdown produces lactic acid, causing fatigue."
+  },
+  {
+    "source_sentence": "Muscle contains a red coloured oxygen storing pigment called myoglobin.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The red oxygen-storing pigment in muscle is:",
+    "options": {
+      "A": "Haemoglobin",
+      "B": "Myoglobin",
+      "C": "Chlorophyll",
+      "D": "Melanin"
+    },
+    "correct_answer": "B",
+    "explanation": "Myoglobin stores oxygen in muscle tissue."
+  },
+  {
+    "source_sentence": "On the other hand, some of the muscles possess very less quantity of myoglobin and therefore, appear pale or whitish. These are the White fibres.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "White muscle fibres appear pale because they:",
+    "options": {
+      "A": "Contain abundant myoglobin",
+      "B": "Possess very little myoglobin",
+      "C": "Have no contractile proteins",
+      "D": "Are found only in cardiac muscle"
+    },
+    "correct_answer": "B",
+    "explanation": "Low myoglobin gives white fibres a pale appearance."
+  },
+  {
+    "source_sentence": "Number of mitochondria are also few in them, but the amount of sarcoplasmic reticulum is high. They depend on anaerobic process for energy.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "White muscle fibres characteristically have:",
+    "options": {
+      "A": "Many mitochondria and depend on aerobic respiration",
+      "B": "Few mitochondria, high sarcoplasmic reticulum and anaerobic energy dependence",
+      "C": "No sarcoplasmic reticulum",
+      "D": "Highest myoglobin content"
+    },
+    "correct_answer": "B",
+    "explanation": "White fibres have few mitochondria, high SR and use anaerobic energy."
+  },
+  {
+    "source_sentence": "Skeletal system consists of a framework of bones and a few cartilages.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The skeletal system consists of:",
+    "options": {
+      "A": "Muscles and tendons only",
+      "B": "A framework of bones and a few cartilages",
+      "C": "Nerves and blood vessels",
+      "D": "Skin and subcutaneous fat"
+    },
+    "correct_answer": "B",
+    "explanation": "Bones and cartilages form the skeletal framework."
+  },
+  {
+    "source_sentence": "The former has a very hard matrix due to calcium salts in it and the latter has slightly pliable matrix due to chondroitin salts.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Bone matrix is hard due to calcium salts, while cartilage matrix is pliable due to:",
+    "options": {
+      "A": "Keratin salts",
+      "B": "Chondroitin salts",
+      "C": "Uric acid crystals",
+      "D": "Myoglobin"
+    },
+    "correct_answer": "B",
+    "explanation": "Chondroitin salts make cartilage matrix slightly pliable."
+  },
+  {
+    "source_sentence": "In human beings, this system is made up of 206 bones and a few cartilages.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The human skeletal system contains:",
+    "options": {
+      "A": "106 bones",
+      "B": "206 bones and a few cartilages",
+      "C": "306 bones",
+      "D": "Only cartilages without bones"
+    },
+    "correct_answer": "B",
+    "explanation": "Adult humans have 206 bones plus some cartilages."
+  },
+  {
+    "source_sentence": "It is grouped into two principal divisions – the axial and the appendicular skeleton.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The human skeleton is divided into:",
+    "options": {
+      "A": "Cranial and visceral skeleton",
+      "B": "Axial and appendicular skeleton",
+      "C": "Dorsal and ventral skeleton only",
+      "D": "Fibrous and synovial skeleton"
+    },
+    "correct_answer": "B",
+    "explanation": "Principal divisions are axial and appendicular skeleton."
+  },
+  {
+    "source_sentence": "Axial skeleton comprises 80 bones distributed along the main axis of the body.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The axial skeleton comprises:",
+    "options": {
+      "A": "30 bones",
+      "B": "80 bones along the main body axis",
+      "C": "126 bones",
+      "D": "Only limb bones"
+    },
+    "correct_answer": "B",
+    "explanation": "Axial skeleton has 80 bones along the body axis."
+  },
+  {
+    "source_sentence": "The skull, vertebral column, sternum and ribs constitute axial skeleton.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which structures constitute the axial skeleton?",
+    "options": {
+      "A": "Limb bones and girdles",
+      "B": "Skull, vertebral column, sternum and ribs",
+      "C": "Only cranial bones",
+      "D": "Patella and phalanges only"
+    },
+    "correct_answer": "B",
+    "explanation": "Skull, vertebral column, sternum and ribs form the axial skeleton."
+  },
+  {
+    "source_sentence": "The skull is composed of two sets of bones – cranial and facial, that totals to 22 bones.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The human skull contains a total of:",
+    "options": {
+      "A": "8 bones",
+      "B": "14 bones",
+      "C": "22 bones",
+      "D": "32 bones"
+    },
+    "correct_answer": "C",
+    "explanation": "Skull has 22 bones: cranial and facial sets combined."
+  },
+  {
+    "source_sentence": "Cranial bones are 8 in number. They form the hard protective outer covering, cranium for the brain.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cranial bones:",
+    "options": {
+      "A": "Are 14 in number and form the face",
+      "B": "Are 8 in number and form the cranium protecting the brain",
+      "C": "Include only the mandible",
+      "D": "Are absent in humans"
+    },
+    "correct_answer": "B",
+    "explanation": "Eight cranial bones form the protective cranium."
+  },
+  {
+    "source_sentence": "The facial region is made up of 14 skeletal elements which form the front part of the skull.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The facial region of the skull has:",
+    "options": {
+      "A": "8 skeletal elements",
+      "B": "14 skeletal elements",
+      "C": "22 skeletal elements",
+      "D": "No bones"
+    },
+    "correct_answer": "B",
+    "explanation": "Fourteen skeletal elements form the facial region."
+  },
+  {
+    "source_sentence": "A single U-shaped bone called hyoid is present at the base of the buccal cavity.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The hyoid bone is:",
+    "options": {
+      "A": "A paired bone in the cranium",
+      "B": "A single U-shaped bone at the base of the buccal cavity",
+      "C": "Part of the vertebral column",
+      "D": "A bone of the middle ear"
+    },
+    "correct_answer": "B",
+    "explanation": "Hyoid is a single U-shaped bone below the buccal cavity."
+  },
+  {
+    "source_sentence": "Each middle ear contains three tiny bones – Malleus, Incus and Stapes, collectively called Ear Ossicles.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The ear ossicles are:",
+    "options": {
+      "A": "Femur, tibia and fibula",
+      "B": "Malleus, incus and stapes",
+      "C": "Atlas, axis and hyoid",
+      "D": "Scapula, clavicle and humerus"
+    },
+    "correct_answer": "B",
+    "explanation": "Malleus, incus and stapes are the three ear ossicles."
+  },
+  {
+    "source_sentence": "The skull region articulates with the superior region of the vertebral column with the help of two occipital condyles (dicondylic skull).",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The human skull articulates with the vertebral column through:",
+    "options": {
+      "A": "A single occipital condyle (monocondylic)",
+      "B": "Two occipital condyles (dicondylic skull)",
+      "C": "Hyoid bone only",
+      "D": "Floating ribs"
+    },
+    "correct_answer": "B",
+    "explanation": "Two occipital condyles make the skull dicondylic."
+  },
+  {
+    "source_sentence": "Our vertebral column is formed by 26 serially arranged units called vertebrae and is dorsally placed.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The human vertebral column has:",
+    "options": {
+      "A": "33 separate unfused vertebrae",
+      "B": "26 serially arranged vertebrae, dorsally placed",
+      "C": "7 vertebrae only",
+      "D": "No neural canal"
+    },
+    "correct_answer": "B",
+    "explanation": "The vertebral column has 26 vertebrae placed dorsally."
+  },
+  {
+    "source_sentence": "Each vertebra has a central hollow portion (neural canal) through which the spinal cord passes.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The neural canal of a vertebra transmits:",
+    "options": {
+      "A": "Blood from the aorta",
+      "B": "The spinal cord",
+      "C": "Cerebrospinal fluid only without cord",
+      "D": "Air to the lungs"
+    },
+    "correct_answer": "B",
+    "explanation": "Spinal cord passes through the vertebral neural canal."
+  },
+  {
+    "source_sentence": "First vertebra is the atlas and it articulates with the occipital condyles.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The first cervical vertebra is called:",
+    "options": {
+      "A": "Axis",
+      "B": "Atlas",
+      "C": "Sacrum",
+      "D": "Coccyx"
+    },
+    "correct_answer": "B",
+    "explanation": "Atlas is the first vertebra articulating with occipital condyles."
+  },
+  {
+    "source_sentence": "The vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused) and coccygeal (1-fused) regions starting from the skull.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The correct regional composition of the human vertebral column is:",
+    "options": {
+      "A": "Cervical 12, thoracic 7, lumbar 5",
+      "B": "Cervical 7, thoracic 12, lumbar 5, sacral 1 (fused), coccygeal 1 (fused)",
+      "C": "Cervical 5, thoracic 12, lumbar 7",
+      "D": "All regions have equal numbers"
+    },
+    "correct_answer": "B",
+    "explanation": "Regions: 7 cervical, 12 thoracic, 5 lumbar, 1 fused sacral, 1 fused coccygeal."
+  },
+  {
+    "source_sentence": "The number of cervical vertebrae are seven in almost all mammals including human beings.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The number of cervical vertebrae in humans is:",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "12",
+      "D": "26"
+    },
+    "correct_answer": "B",
+    "explanation": "Humans, like most mammals, have 7 cervical vertebrae."
+  },
+  {
+    "source_sentence": "The vertebral column protects the spinal cord, supports the head and serves as the point of attachment for the ribs and musculature of the back.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Functions of the vertebral column include:",
+    "options": {
+      "A": "Production of red blood cells only",
+      "B": "Protecting spinal cord, supporting head, and attachment for ribs and back muscles",
+      "C": "Pumping blood to the brain",
+      "D": "Filtering nitrogenous wastes"
+    },
+    "correct_answer": "B",
+    "explanation": "Vertebral column protects cord, supports head and anchors ribs/muscles."
+  },
+  {
+    "source_sentence": "There are 12 pairs of ribs.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "How many pairs of ribs are present in humans?",
+    "options": {
+      "A": "7 pairs",
+      "B": "10 pairs",
+      "C": "12 pairs",
+      "D": "14 pairs"
+    },
+    "correct_answer": "C",
+    "explanation": "Humans have 12 pairs of ribs."
+  },
+  {
+    "source_sentence": "It has two articulation surfaces on its dorsal end and is hence called bicephalic.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Each rib is called bicephalic because:",
+    "options": {
+      "A": "It has no articulation surfaces",
+      "B": "It has two articulation surfaces on its dorsal end",
+      "C": "It connects only to the sternum",
+      "D": "It is fused with the skull"
+    },
+    "correct_answer": "B",
+    "explanation": "Ribs have two dorsal articulation surfaces (bicephalic)."
+  },
+  {
+    "source_sentence": "First seven pairs of ribs are called true ribs. Dorsally, they are attached to the thoracic vertebrae and ventrally connected to the sternum with the help of hyaline cartilage.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "True ribs in humans are:",
+    "options": {
+      "A": "Pairs 8-10",
+      "B": "The first seven pairs attached to thoracic vertebrae and sternum via hyaline cartilage",
+      "C": "Pairs 11 and 12 only",
+      "D": "Ribs not attached to vertebrae"
+    },
+    "correct_answer": "B",
+    "explanation": "First 7 pairs are true ribs connected to sternum by hyaline cartilage."
+  },
+  {
+    "source_sentence": "The 8th, 9th and 10th pairs of ribs do not articulate directly with the sternum but join the seventh rib with the help of hyaline cartilage. These are called vertebrochondral (false) ribs.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Ribs 8, 9 and 10 are called false (vertebrochondral) ribs because they:",
+    "options": {
+      "A": "Are not attached to vertebrae",
+      "B": "Do not articulate directly with sternum but join the 7th rib via hyaline cartilage",
+      "C": "Are completely free ventrally",
+      "D": "Are part of the skull"
+    },
+    "correct_answer": "B",
+    "explanation": "False ribs connect indirectly to sternum through the 7th rib."
+  },
+  {
+    "source_sentence": "Last 2 pairs (11th and 12th) of ribs are not connected ventrally and are therefore, called floating ribs.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Floating ribs in humans are:",
+    "options": {
+      "A": "Ribs 1 and 2",
+      "B": "Ribs 8, 9 and 10",
+      "C": "The 11th and 12th pairs not connected ventrally",
+      "D": "All true ribs"
+    },
+    "correct_answer": "C",
+    "explanation": "11th and 12th rib pairs are floating ribs."
+  },
+  {
+    "source_sentence": "Each limb is made of 30 bones.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Each human limb contains:",
+    "options": {
+      "A": "14 bones",
+      "B": "22 bones",
+      "C": "30 bones",
+      "D": "80 bones"
+    },
+    "correct_answer": "C",
+    "explanation": "Each limb is made of 30 bones."
+  },
+  {
+    "source_sentence": "humerus, radius and ulna, carpals (wrist bones – 8 in number), metacarpals (palm bones – 5 in number) and phalanges (digits – 14 in number)",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Bones of the human forelimb (hand) include:",
+    "options": {
+      "A": "Femur, tibia, fibula and tarsals",
+      "B": "Humerus, radius, ulna, 8 carpals, 5 metacarpals and 14 phalanges",
+      "C": "Scapula and clavicle only",
+      "D": "Patella and coccyx"
+    },
+    "correct_answer": "B",
+    "explanation": "Forelimb: humerus, radius, ulna, carpals, metacarpals and phalanges."
+  },
+  {
+    "source_sentence": "Femur (thigh bone – the longest bone), tibia and fibula, tarsals (ankle bones – 7 in number), metatarsals (5 in number) and phalanges (digits – 14 in number) are the bones of the legs (hind limb).",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The longest bone in the human body is:",
+    "options": {
+      "A": "Humerus",
+      "B": "Femur (thigh bone)",
+      "C": "Tibia",
+      "D": "Clavicle"
+    },
+    "correct_answer": "B",
+    "explanation": "Femur is the thigh bone and the longest human bone."
+  },
+  {
+    "source_sentence": "Femur (thigh bone – the longest bone), tibia and fibula, tarsals (ankle bones – 7 in number), metatarsals (5 in number) and phalanges (digits – 14 in number) are the bones of the legs (hind limb).",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Bones of the human hind limb include:",
+    "options": {
+      "A": "Humerus, radius and ulna",
+      "B": "Femur, tibia, fibula, 7 tarsals, 5 metatarsals and 14 phalanges",
+      "C": "Only pelvic girdle bones",
+      "D": "Sternum and ribs"
+    },
+    "correct_answer": "B",
+    "explanation": "Hind limb: femur, tibia, fibula, tarsals, metatarsals and phalanges."
+  },
+  {
+    "source_sentence": "A cup shaped bone called patella cover the knee ventrally (knee cap).",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The patella is:",
+    "options": {
+      "A": "A bone of the wrist",
+      "B": "A cup-shaped bone covering the knee ventrally (knee cap)",
+      "C": "Part of the skull",
+      "D": "A fused sacral vertebra"
+    },
+    "correct_answer": "B",
+    "explanation": "Patella is the kneecap covering the knee ventrally."
+  },
+  {
+    "source_sentence": "Each half of pectoral girdle consists of a clavicle and a scapula.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Each half of the pectoral girdle consists of:",
+    "options": {
+      "A": "Ilium and ischium",
+      "B": "Clavicle and scapula",
+      "C": "Humerus and radius",
+      "D": "Femur and patella"
+    },
+    "correct_answer": "B",
+    "explanation": "Pectoral girdle half has clavicle and scapula."
+  },
+  {
+    "source_sentence": "Scapula is a large triangular flat bone situated in the dorsal part of the thorax between the second and the seventh ribs.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The scapula is located:",
+    "options": {
+      "A": "In the pelvic region",
+      "B": "Dorsally in the thorax between the 2nd and 7th ribs",
+      "C": "In the cranial cavity",
+      "D": "Ventrally on the sternum"
+    },
+    "correct_answer": "B",
+    "explanation": "Scapula lies dorsally between ribs 2 and 7."
+  },
+  {
+    "source_sentence": "The dorsal, flat, triangular body of scapula has a slightly elevated ridge called the spine which projects as a flat, expanded process called the acromion.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The spine of the scapula projects as:",
+    "options": {
+      "A": "Glenoid cavity",
+      "B": "Acromion",
+      "C": "Acetabulum",
+      "D": "Occipital condyle"
+    },
+    "correct_answer": "B",
+    "explanation": "Scapular spine projects as the acromion process."
+  },
+  {
+    "source_sentence": "Below the acromion is a depression called the glenoid cavity which articulates with the head of the humerus to form the shoulder joint.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The glenoid cavity articulates with:",
+    "options": {
+      "A": "Femur",
+      "B": "Head of the humerus to form the shoulder joint",
+      "C": "Tibia",
+      "D": "Mandible"
+    },
+    "correct_answer": "B",
+    "explanation": "Glenoid cavity articulates with humerus head forming shoulder joint."
+  },
+  {
+    "source_sentence": "Pelvic girdle consists of two coxal bones.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The pelvic girdle consists of:",
+    "options": {
+      "A": "Two scapulae",
+      "B": "Two coxal bones",
+      "C": "Sternum and ribs",
+      "D": "Atlas and axis"
+    },
+    "correct_answer": "B",
+    "explanation": "Pelvic girdle is formed by two coxal bones."
+  },
+  {
+    "source_sentence": "Each coxal bone is formed by the fusion of three bones – ilium, ischium and pubis.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Each coxal bone is formed by fusion of:",
+    "options": {
+      "A": "Clavicle and scapula",
+      "B": "Ilium, ischium and pubis",
+      "C": "Humerus, radius and ulna",
+      "D": "Femur and patella"
+    },
+    "correct_answer": "B",
+    "explanation": "Coxal bone fuses from ilium, ischium and pubis."
+  },
+  {
+    "source_sentence": "At the point of fusion of the above bones is a cavity called acetabulum to which the thigh bone articulates.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The acetabulum articulates with:",
+    "options": {
+      "A": "Humerus",
+      "B": "Thigh bone (femur)",
+      "C": "Tibia only",
+      "D": "Clavicle"
+    },
+    "correct_answer": "B",
+    "explanation": "Acetabulum receives the femur (thigh bone)."
+  },
+  {
+    "source_sentence": "Joints have been classified into three major structural forms, namely, fibrous, cartilaginous and synovial.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The three major structural types of joints are:",
+    "options": {
+      "A": "Hinge, pivot and ball-and-socket",
+      "B": "Fibrous, cartilaginous and synovial",
+      "C": "True, false and floating",
+      "D": "Axial, appendicular and cranial"
+    },
+    "correct_answer": "B",
+    "explanation": "Structural joint types: fibrous, cartilaginous and synovial."
+  },
+  {
+    "source_sentence": "Fibrous joints do not allow any movement. This type of joint is shown by the flat skull bones which fuse end-to-end with the help of dense fibrous connective tissues in the form of sutures, to form the cranium.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Fibrous joints:",
+    "options": {
+      "A": "Allow considerable free movement",
+      "B": "Do not allow movement; skull sutures are an example",
+      "C": "Contain a synovial cavity",
+      "D": "Are found between femur and tibia"
+    },
+    "correct_answer": "B",
+    "explanation": "Fibrous joints are immovable; cranial sutures are examples."
+  },
+  {
+    "source_sentence": "In cartilaginous joints, the bones involved are joined together with the help of cartilages. The joint between the adjacent vertebrae in the vertebral column is of this pattern and it permits limited movements.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Cartilaginous joints:",
+    "options": {
+      "A": "Are immovable like sutures",
+      "B": "Join bones with cartilage and permit limited movement",
+      "C": "Have a large synovial cavity",
+      "D": "Are found only in the skull"
+    },
+    "correct_answer": "B",
+    "explanation": "Cartilaginous joints allow limited movement, e.g. between vertebrae."
+  },
+  {
+    "source_sentence": "Synovial joints are characterised by the presence of a fluid filled synovial cavity between the articulating surfaces of the two bones. Such an arrangement allows considerable movement.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Synovial joints are characterised by:",
+    "options": {
+      "A": "Dense fibrous sutures",
+      "B": "A fluid-filled synovial cavity allowing considerable movement",
+      "C": "Complete absence of movement",
+      "D": "Fusion of bones without any cavity"
+    },
+    "correct_answer": "B",
+    "explanation": "Synovial cavity with fluid permits considerable joint movement."
+  },
+  {
+    "source_sentence": "Ball and socket joint (between humerus and pectoral girdle), hinge joint (knee joint), pivot joint (between atlas and axis), gliding joint (between the carpals) and saddle joint (between carpal and metacarpal of thumb) are some examples.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Which joint type is found between the atlas and axis?",
+    "options": {
+      "A": "Ball and socket",
+      "B": "Hinge",
+      "C": "Pivot",
+      "D": "Saddle"
+    },
+    "correct_answer": "C",
+    "explanation": "Atlas-axis articulation is a pivot joint."
+  },
+  {
+    "source_sentence": "Ball and socket joint (between humerus and pectoral girdle), hinge joint (knee joint), pivot joint (between atlas and axis), gliding joint (between the carpals) and saddle joint (between carpal and metacarpal of thumb) are some examples.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The knee joint is an example of a:",
+    "options": {
+      "A": "Ball and socket joint",
+      "B": "Hinge joint",
+      "C": "Pivot joint",
+      "D": "Fibrous joint"
+    },
+    "correct_answer": "B",
+    "explanation": "Knee is a hinge joint."
+  },
+  {
+    "source_sentence": "Ball and socket joint (between humerus and pectoral girdle), hinge joint (knee joint), pivot joint (between atlas and axis), gliding joint (between the carpals) and saddle joint (between carpal and metacarpal of thumb) are some examples.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The shoulder joint (humerus with pectoral girdle) is a:",
+    "options": {
+      "A": "Ball and socket joint",
+      "B": "Gliding joint",
+      "C": "Fibrous suture",
+      "D": "Cartilaginous joint of pubis"
+    },
+    "correct_answer": "A",
+    "explanation": "Humerus-glenoid articulation is ball and socket."
+  },
+  {
+    "source_sentence": "Ball and socket joint (between humerus and pectoral girdle), hinge joint (knee joint), pivot joint (between atlas and axis), gliding joint (between the carpals) and saddle joint (between carpal and metacarpal of thumb) are some examples.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "The joint between carpal and metacarpal of the thumb is a:",
+    "options": {
+      "A": "Hinge joint",
+      "B": "Saddle joint",
+      "C": "Pivot joint",
+      "D": "Fibrous joint"
+    },
+    "correct_answer": "B",
+    "explanation": "Thumb carpometacarpal joint is a saddle joint."
+  },
+  {
+    "source_sentence": "Ball and socket joint (between humerus and pectoral girdle), hinge joint (knee joint), pivot joint (between atlas and axis), gliding joint (between the carpals) and saddle joint (between carpal and metacarpal of thumb) are some examples.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Gliding joints are found between:",
+    "options": {
+      "A": "Femur and acetabulum",
+      "B": "Carpal bones",
+      "C": "Atlas and axis",
+      "D": "Cranial bones"
+    },
+    "correct_answer": "B",
+    "explanation": "Carpals articulate by gliding joints."
+  },
+  {
+    "source_sentence": "Myasthenia gravis: Auto immune disorder affecting neuromuscular junction leading to fatigue, weakening and paralysis of skeletal muscle.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Myasthenia gravis is:",
+    "options": {
+      "A": "A genetic disorder of bone matrix",
+      "B": "An autoimmune disorder affecting the neuromuscular junction causing muscle weakness",
+      "C": "Caused by excess uric acid in joints",
+      "D": "An age-related decrease in bone mass"
+    },
+    "correct_answer": "B",
+    "explanation": "Myasthenia gravis is autoimmune, affecting neuromuscular junction."
+  },
+  {
+    "source_sentence": "Muscular dystrophy: Progressive degeneration of skeletal muscle mostly due to genetic disorder.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Muscular dystrophy involves:",
+    "options": {
+      "A": "Inflammation of joints",
+      "B": "Progressive degeneration of skeletal muscle, mostly genetic",
+      "C": "Low calcium causing spasms",
+      "D": "Autoimmune attack on neuromuscular junction only"
+    },
+    "correct_answer": "B",
+    "explanation": "Muscular dystrophy is progressive skeletal muscle degeneration, often genetic."
+  },
+  {
+    "source_sentence": "Tetany: Rapid spasms (wild contractions) in muscle due to low Ca++ in body fluid.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Tetany is caused by:",
+    "options": {
+      "A": "Excess myoglobin",
+      "B": "Low Ca²⁺ in body fluids causing rapid muscle spasms",
+      "C": "Uric acid crystal deposition",
+      "D": "Decreased estrogen levels"
+    },
+    "correct_answer": "B",
+    "explanation": "Low blood Ca²⁺ causes tetany—rapid muscle spasms."
+  },
+  {
+    "source_sentence": "Arthritis: Inflammation of joints.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Arthritis is characterised by:",
+    "options": {
+      "A": "Degeneration of skeletal muscle fibres",
+      "B": "Inflammation of joints",
+      "C": "Masking of actin binding sites",
+      "D": "Fusion of cranial sutures"
+    },
+    "correct_answer": "B",
+    "explanation": "Arthritis is inflammation of joints."
+  },
+  {
+    "source_sentence": "Osteoporosis: Age-related disorder characterised by decreased bone mass and increased chances of fractures. Decreased levels of estrogen is a common cause.",
+    "chapter": "Chapter 17: Locomotion and Movement",
+    "question": "Osteoporosis is associated with:",
+    "options": {
+      "A": "Increased bone mass",
+      "B": "Decreased bone mass and increased fracture risk; low estrogen is a common cause",
+      "C": "Uric acid crystals in joints",
+      "D": "Autoimmune neuromuscular blockade"
+    },
+    "correct_answer": "B",
+    "explanation": "Osteoporosis: reduced bone mass, more fractures; often linked to low estrogen."
+  }
+]

@@ -1,0 +1,1393 @@
+[
+  {
+    "source_sentence": "In the previous chapter, we looked at the broad classification of living organisms under the system proposed by Whittaker (1969) wherein he suggested the Five Kingdom classification viz. Monera, Protista, Fungi, Animalia and Plantae.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Who proposed the Five Kingdom classification in 1969?",
+    "options": {
+      "A": "Linnaeus",
+      "B": "Whittaker",
+      "C": "Bentham and Hooker",
+      "D": "Haeckel"
+    },
+    "correct_answer": "B",
+    "explanation": "R.H. Whittaker (1969) proposed the Five Kingdom classification: Monera, Protista, Fungi, Animalia and Plantae."
+  },
+  {
+    "source_sentence": "In this chapter, we will describe Algae, Bryophytes, Pteridophytes, Gymnosperms and Angiosperms under Plantae.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which of the following groups are described under Kingdom Plantae in this chapter?",
+    "options": {
+      "A": "Algae, Fungi, Bryophytes, Pteridophytes, Angiosperms",
+      "B": "Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms",
+      "C": "Monera, Algae, Bryophytes, Gymnosperms, Angiosperms",
+      "D": "Protista, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 3 covers Algae, Bryophytes, Pteridophytes, Gymnosperms and Angiosperms under Plantae."
+  },
+  {
+    "source_sentence": "Fungi, and members of the Monera and Protista having cell walls have now been excluded from Plantae though earlier classifications placed them in the same kingdom.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which groups have been excluded from Kingdom Plantae in modern classification?",
+    "options": {
+      "A": "Algae and Bryophytes",
+      "B": "Fungi, Monera and cell-walled Protista",
+      "C": "Gymnosperms and Angiosperms",
+      "D": "Pteridophytes and Bryophytes"
+    },
+    "correct_answer": "B",
+    "explanation": "Fungi and members of Monera and Protista with cell walls are no longer placed in Plantae."
+  },
+  {
+    "source_sentence": "So, the cyanobacteria that are also referred to as blue green algae are not 'algae' any more.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Why are cyanobacteria (blue-green algae) no longer classified as algae?",
+    "options": {
+      "A": "They lack chlorophyll",
+      "B": "They are excluded from Plantae and placed in Monera",
+      "C": "They are parasitic",
+      "D": "They lack cell walls"
+    },
+    "correct_answer": "B",
+    "explanation": "Cyanobacteria belong to Kingdom Monera and are excluded from Plantae; hence they are not considered true algae."
+  },
+  {
+    "source_sentence": "The earliest systems of classification used only gross superficial morphological characters such as habit, colour, number and shape of leaves, etc. They were based mainly on vegetative characters or on the androecium structure (system given by Linnaeus). Such systems were artificial.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Linnaeus's classification system was based mainly on:",
+    "options": {
+      "A": "Chromosome number",
+      "B": "Evolutionary relationships",
+      "C": "Vegetative characters or androecium structure",
+      "D": "Chemical constituents of plants"
+    },
+    "correct_answer": "C",
+    "explanation": "Linnaeus used vegetative characters or androecium structure; such artificial systems gave equal weight to easily modified vegetative traits."
+  },
+  {
+    "source_sentence": "Such a classification for flowering plants was given by George Bentham and Joseph Dalton Hooker.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Natural classification of flowering plants was given by:",
+    "options": {
+      "A": "Whittaker and Linnaeus",
+      "B": "George Bentham and Joseph Dalton Hooker",
+      "C": "Darwin and Wallace",
+      "D": "Mendel and Morgan"
+    },
+    "correct_answer": "B",
+    "explanation": "Bentham and Hooker developed a natural classification based on affinities, internal features, anatomy, embryology and phytochemistry."
+  },
+  {
+    "source_sentence": "At present phylogenetic classification systems based on evolutionary relationships between the various organisms are acceptable.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Phylogenetic classification assumes that organisms in the same taxa:",
+    "options": {
+      "A": "Have identical morphology",
+      "B": "Share a common ancestor",
+      "C": "Live in the same habitat",
+      "D": "Have the same chromosome number"
+    },
+    "correct_answer": "B",
+    "explanation": "Phylogenetic systems group organisms based on evolutionary relationships, assuming a common ancestor for members of the same taxon."
+  },
+  {
+    "source_sentence": "Numerical Taxonomy which is now easily carried out using computers is based on all observable characteristics.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Numerical Taxonomy is characterised by:",
+    "options": {
+      "A": "Use of only floral characters",
+      "B": "Considering all observable characteristics with equal importance",
+      "C": "Exclusive use of fossil evidence",
+      "D": "Classification based only on habitat"
+    },
+    "correct_answer": "B",
+    "explanation": "Numerical Taxonomy assigns codes to all observable characters and processes them by computer, giving each character equal weight."
+  },
+  {
+    "source_sentence": "Cytotaxonomy, that is based on cytological information like chromosome number, structure, behaviour and chemotaxonomy, that uses the chemical constituents of the plant to resolve confusions, are also used by taxonomists these days.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Cytotaxonomy is based on:",
+    "options": {
+      "A": "Leaf shape and colour only",
+      "B": "Cytological information like chromosome number, structure and behaviour",
+      "C": "Fossil record exclusively",
+      "D": "Root system morphology only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cytotaxonomy uses cytological data; chemotaxonomy uses chemical constituents of plants to resolve classification difficulties."
+  },
+  {
+    "source_sentence": "Algae are chlorophyll-bearing, simple, thalloid, autotrophic and largely aquatic (both fresh water and marine) organisms.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which set of features correctly describes algae?",
+    "options": {
+      "A": "Heterotrophic, vascular, terrestrial",
+      "B": "Chlorophyll-bearing, thalloid, autotrophic, largely aquatic",
+      "C": "Non-photosynthetic, colonial only, terrestrial",
+      "D": "Parasitic, thalloid, saprophytic"
+    },
+    "correct_answer": "B",
+    "explanation": "Algae are chlorophyll-bearing, simple, thalloid, autotrophic organisms found mainly in aquatic habitats."
+  },
+  {
+    "source_sentence": "They occur in a variety of other habitats: moist stones, soils and wood. Some of them also occur in association with fungi (lichen) and animals (e.g., on sloth bear).",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Algae may be found in association with:",
+    "options": {
+      "A": "Only other algae",
+      "B": "Fungi (lichens) and animals such as on sloth bear",
+      "C": "Only gymnosperms",
+      "D": "Only angiosperm roots exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Besides aquatic and moist habitats, algae occur on moist stones, soils, wood, in lichens (with fungi), and on animals like sloth bear."
+  },
+  {
+    "source_sentence": "The form and size of algae is highly variable, ranging from colonial forms like Volvox and the filamentous forms like Ulothrix and Spirogyra.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Volvox represents which type of algal body form?",
+    "options": {
+      "A": "Filamentous",
+      "B": "Colonial",
+      "C": "Massive kelp",
+      "D": "Unicellular only"
+    },
+    "correct_answer": "B",
+    "explanation": "Volvox is a colonial alga; Ulothrix and Spirogyra are filamentous forms."
+  },
+  {
+    "source_sentence": "A few of the marine forms such as kelps, form massive plant bodies.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Kelps are examples of algae that:",
+    "options": {
+      "A": "Are unicellular freshwater forms",
+      "B": "Form massive marine plant bodies",
+      "C": "Are red algae only",
+      "D": "Lack chlorophyll"
+    },
+    "correct_answer": "B",
+    "explanation": "Kelps are marine brown algae that form very large, massive plant bodies."
+  },
+  {
+    "source_sentence": "Vegetative reproduction is by fragmentation. Each fragment develops into a thallus.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Vegetative reproduction in algae typically occurs by:",
+    "options": {
+      "A": "Budding only",
+      "B": "Fragmentation",
+      "C": "Binary fission of roots",
+      "D": "Spore formation only"
+    },
+    "correct_answer": "B",
+    "explanation": "In algae, vegetative reproduction is by fragmentation; each fragment develops into a new thallus."
+  },
+  {
+    "source_sentence": "Asexual reproduction is by the production of different types of spores, the most common being the zoospores. They are flagellated (motile) and on germination gives rise to new plants.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Zoospores in algae are:",
+    "options": {
+      "A": "Non-motile and thick-walled",
+      "B": "Flagellated and motile",
+      "C": "Produced only in red algae",
+      "D": "Always diploid"
+    },
+    "correct_answer": "B",
+    "explanation": "Zoospores are the most common asexual spores in algae; they are flagellated, motile, and germinate into new plants."
+  },
+  {
+    "source_sentence": "Fusion of two gametes dissimilar in size, as in species of Eudorina is termed as anisogamous.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Fusion of gametes dissimilar in size, as in Eudorina, is called:",
+    "options": {
+      "A": "Isogamy",
+      "B": "Anisogamy",
+      "C": "Oogamy",
+      "D": "Parthenogenesis"
+    },
+    "correct_answer": "B",
+    "explanation": "Anisogamy involves fusion of two gametes of unequal size; isogamy involves similar-sized gametes; oogamy involves a large non-motile egg and small motile male gamete."
+  },
+  {
+    "source_sentence": "Fusion between one large, nonmotile (static) female gamete and a smaller, motile male gamete is termed oogamous, e.g., Volvox, Fucus.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Oogamous reproduction is exemplified by:",
+    "options": {
+      "A": "Ulothrix and Spirogyra",
+      "B": "Volvox and Fucus",
+      "C": "Eudorina only",
+      "D": "Chlamydomonas in all cases"
+    },
+    "correct_answer": "B",
+    "explanation": "Oogamy involves a large non-motile female gamete and a smaller motile male gamete; examples include Volvox and Fucus."
+  },
+  {
+    "source_sentence": "At least a half of the total carbon dioxide fixation on earth is carried out by algae through photosynthesis.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Approximately what fraction of total global CO₂ fixation is carried out by algae?",
+    "options": {
+      "A": "One-tenth",
+      "B": "At least half",
+      "C": "One-fourth",
+      "D": "Less than one percent"
+    },
+    "correct_answer": "B",
+    "explanation": "Algae carry out at least half of the total carbon dioxide fixation on Earth through photosynthesis."
+  },
+  {
+    "source_sentence": "Many species of Porphyra, Laminaria and Sargassum are among the 70 species of marine algae used as food.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which marine algae are used as food?",
+    "options": {
+      "A": "Only Chlamydomonas",
+      "B": "Porphyra, Laminaria and Sargassum among others",
+      "C": "Only Spirogyra",
+      "D": "Only Volvox"
+    },
+    "correct_answer": "B",
+    "explanation": "About 70 species of marine algae are used as food, including Porphyra, Laminaria and Sargassum."
+  },
+  {
+    "source_sentence": "Certain marine brown and red algae produce large amounts of hydrocolloids (water holding substances), e.g., algin (brown algae) and carrageen (red algae) which are used commercially.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Algin and carrageen are hydrocolloids obtained respectively from:",
+    "options": {
+      "A": "Green algae and brown algae",
+      "B": "Brown algae and red algae",
+      "C": "Red algae and green algae",
+      "D": "Both from green algae"
+    },
+    "correct_answer": "B",
+    "explanation": "Algin is obtained from brown algae; carrageen is obtained from red algae. Both are commercially important hydrocolloids."
+  },
+  {
+    "source_sentence": "Agar, one of the commercial products obtained from Gelidium and Gracilaria are used to grow microbes and in preparations of ice-creams and jellies.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Agar used for growing microbes is obtained from:",
+    "options": {
+      "A": "Laminaria and Fucus",
+      "B": "Gelidium and Gracilaria",
+      "C": "Volvox and Ulothrix",
+      "D": "Pinus and Cycas"
+    },
+    "correct_answer": "B",
+    "explanation": "Agar is a commercial product from Gelidium and Gracilaria (red algae), used in microbiological media and food preparations."
+  },
+  {
+    "source_sentence": "Chlorella, a unicellular alga rich in proteins, is used as food supplement even by space travellers.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Chlorella is valued as a food supplement because it is:",
+    "options": {
+      "A": "A multicellular brown alga rich in lipids",
+      "B": "A unicellular alga rich in proteins",
+      "C": "A red alga rich in floridean starch",
+      "D": "A bryophyte rich in cellulose"
+    },
+    "correct_answer": "B",
+    "explanation": "Chlorella is a unicellular green alga rich in proteins, used even as food supplement by space travellers."
+  },
+  {
+    "source_sentence": "The algae are divided into three main classes: Chlorophyceae, Phaeophyceae and Rhodophyceae.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The three main classes of algae are:",
+    "options": {
+      "A": "Bryophyceae, Pterophyceae, Spermatophyceae",
+      "B": "Chlorophyceae, Phaeophyceae and Rhodophyceae",
+      "C": "Chlorophyta, Bryophyta, Pteridophyta",
+      "D": "Monocotyledons, Dicotyledons, Gymnosperms"
+    },
+    "correct_answer": "B",
+    "explanation": "Algae are classified into Chlorophyceae (green), Phaeophyceae (brown) and Rhodophyceae (red algae)."
+  },
+  {
+    "source_sentence": "The members of chlorophyceae are commonly called green algae.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Members of Chlorophyceae are commonly called:",
+    "options": {
+      "A": "Brown algae",
+      "B": "Red algae",
+      "C": "Green algae",
+      "D": "Blue-green algae"
+    },
+    "correct_answer": "C",
+    "explanation": "Chlorophyceae are the green algae, grass-green due to chlorophyll a and b."
+  },
+  {
+    "source_sentence": "They are usually grass green due to the dominance of pigments chlorophyll a and b.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The dominant pigments in Chlorophyceae are:",
+    "options": {
+      "A": "Chlorophyll a and d",
+      "B": "Chlorophyll a and b",
+      "C": "Chlorophyll a and c with fucoxanthin",
+      "D": "Phycoerythrin only"
+    },
+    "correct_answer": "B",
+    "explanation": "Green algae appear grass green due to dominance of chlorophyll a and b."
+  },
+  {
+    "source_sentence": "Most of the members have one or more storage bodies called pyrenoids located in the chloroplasts. Pyrenoids contain protein besides starch.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Pyrenoids in green algae contain:",
+    "options": {
+      "A": "Only lipids",
+      "B": "Protein besides starch",
+      "C": "Only floridean starch",
+      "D": "Only mannitol"
+    },
+    "correct_answer": "B",
+    "explanation": "Pyrenoids are storage bodies in chloroplasts of green algae; they contain protein in addition to starch."
+  },
+  {
+    "source_sentence": "Green algae usually have a rigid cell wall made of an inner layer of cellulose and an outer layer of pectose.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The cell wall of green algae consists of:",
+    "options": {
+      "A": "Cellulose and algin",
+      "B": "Cellulose (inner) and pectose (outer)",
+      "C": "Chitin only",
+      "D": "Lignin and suberin"
+    },
+    "correct_answer": "B",
+    "explanation": "Green algae have a rigid cell wall with an inner cellulose layer and outer pectose layer."
+  },
+  {
+    "source_sentence": "Some commonly found green algae are: Chlamydomonas, Volvox, Ulothrix, Spirogyra and Chara.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which of the following is a green alga?",
+    "options": {
+      "A": "Fucus",
+      "B": "Porphyra",
+      "C": "Spirogyra",
+      "D": "Polysiphonia"
+    },
+    "correct_answer": "C",
+    "explanation": "Spirogyra is a green alga (Chlorophyceae); Fucus is brown, Porphyra and Polysiphonia are red algae."
+  },
+  {
+    "source_sentence": "The members of phaeophyceae or brown algae are found primarily in marine habitats.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Brown algae (Phaeophyceae) are found primarily in:",
+    "options": {
+      "A": "Terrestrial habitats",
+      "B": "Marine habitats",
+      "C": "Desert soils only",
+      "D": "Freshwater only"
+    },
+    "correct_answer": "B",
+    "explanation": "Phaeophyceae or brown algae occur primarily in marine habitats."
+  },
+  {
+    "source_sentence": "They range from simple branched, filamentous forms (Ectocarpus) to profusely branched forms as represented by kelps, which may reach a height of 100 metres.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Kelps, brown algae, may reach a height of:",
+    "options": {
+      "A": "10 metres",
+      "B": "50 metres",
+      "C": "100 metres",
+      "D": "1 metre"
+    },
+    "correct_answer": "C",
+    "explanation": "Kelps are profusely branched brown algae that may reach heights of about 100 metres."
+  },
+  {
+    "source_sentence": "They vary in colour from olive green to various shades of brown depending upon the amount of the xanthophyll pigment, fucoxanthin present in them.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The brown colour of Phaeophyceae is mainly due to:",
+    "options": {
+      "A": "Phycoerythrin",
+      "B": "Fucoxanthin",
+      "C": "Chlorophyll b only",
+      "D": "Carotene only"
+    },
+    "correct_answer": "B",
+    "explanation": "Brown algae vary from olive green to brown shades depending on the amount of fucoxanthin, a xanthophyll pigment."
+  },
+  {
+    "source_sentence": "Food is stored as complex carbohydrates, which may be in the form of laminarin or mannitol.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Food reserve in brown algae is stored as:",
+    "options": {
+      "A": "Starch only",
+      "B": "Floridean starch",
+      "C": "Laminarin or mannitol",
+      "D": "Glycogen only"
+    },
+    "correct_answer": "C",
+    "explanation": "Brown algae store food as complex carbohydrates—laminarin or mannitol."
+  },
+  {
+    "source_sentence": "The plant body is usually attached to the substratum by a holdfast, and has a stalk, the stipe and leaf like photosynthetic organ-the frond.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In brown algae, the leaf-like photosynthetic organ is called:",
+    "options": {
+      "A": "Frond",
+      "B": "Protonema",
+      "C": "Prothallus",
+      "D": "Thallus only"
+    },
+    "correct_answer": "A",
+    "explanation": "Brown algal body has holdfast, stipe (stalk), and frond (leaf-like photosynthetic organ)."
+  },
+  {
+    "source_sentence": "Asexual reproduction in most brown algae is by biflagellate zoospores that are pear-shaped and have two unequal laterally attached flagella.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Zoospores of brown algae characteristically have:",
+    "options": {
+      "A": "No flagella",
+      "B": "Two equal apical flagella",
+      "C": "Two unequal laterally attached flagella",
+      "D": "Eight flagella"
+    },
+    "correct_answer": "C",
+    "explanation": "Brown algal zoospores are biflagellate, pear-shaped, with two unequal laterally attached flagella."
+  },
+  {
+    "source_sentence": "The common forms are Ectocarpus, Dictyota, Laminaria, Sargassum and Fucus.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which of the following is a brown alga?",
+    "options": {
+      "A": "Ulothrix",
+      "B": "Laminaria",
+      "C": "Porphyra",
+      "D": "Chara"
+    },
+    "correct_answer": "B",
+    "explanation": "Laminaria is a brown alga; Ulothrix and Chara are green algae; Porphyra is a red alga."
+  },
+  {
+    "source_sentence": "The members of rhodophyceae are commonly called red algae because of the predominance of the red pigment, r-phycoerythrin in their body.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The red colour of Rhodophyceae is due to predominance of:",
+    "options": {
+      "A": "Fucoxanthin",
+      "B": "r-phycoerythrin",
+      "C": "Chlorophyll b",
+      "D": "Carotenoids only"
+    },
+    "correct_answer": "B",
+    "explanation": "Red algae owe their colour to predominance of r-phycoerythrin."
+  },
+  {
+    "source_sentence": "The food is stored as floridean starch which is very similar to amylopectin and glycogen in structure.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Food reserve in red algae is:",
+    "options": {
+      "A": "Starch",
+      "B": "Mannitol",
+      "C": "Floridean starch",
+      "D": "Laminarin"
+    },
+    "correct_answer": "C",
+    "explanation": "Red algae store food as floridean starch, structurally similar to amylopectin and glycogen."
+  },
+  {
+    "source_sentence": "They reproduce asexually by non-motile spores and sexually by non-motile gametes.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Red algae characteristically reproduce asexually and sexually using:",
+    "options": {
+      "A": "Flagellated zoospores and motile gametes",
+      "B": "Non-motile spores and non-motile gametes",
+      "C": "Only vegetative fragmentation",
+      "D": "Pollen grains and ovules"
+    },
+    "correct_answer": "B",
+    "explanation": "Red algae produce non-motile spores asexually and non-motile gametes sexually."
+  },
+  {
+    "source_sentence": "Sexual reproduction is oogamous and accompanied by complex post fertilisation developments.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Sexual reproduction in red algae is:",
+    "options": {
+      "A": "Isogamous only",
+      "B": "Oogamous with complex post-fertilisation development",
+      "C": "Absent",
+      "D": "Always anisogamous only"
+    },
+    "correct_answer": "B",
+    "explanation": "Red algae show oogamous sexual reproduction accompanied by complex post-fertilisation developments."
+  },
+  {
+    "source_sentence": "The common members are: Polysiphonia, Porphyra, Gracilaria and Gelidium.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which of the following is a red alga?",
+    "options": {
+      "A": "Fucus",
+      "B": "Porphyra",
+      "C": "Volvox",
+      "D": "Ectocarpus"
+    },
+    "correct_answer": "B",
+    "explanation": "Porphyra is a red alga; Polysiphonia, Gracilaria and Gelidium are also red algae."
+  },
+  {
+    "source_sentence": "Chlorophyceae | Green algae | Chlorophyll a, b | Starch | Cellulose | 2-8, equal, apical | Fresh water, brackish water, salt water",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "According to Table 3.1, stored food in Chlorophyceae is:",
+    "options": {
+      "A": "Mannitol",
+      "B": "Starch",
+      "C": "Floridean starch",
+      "D": "Laminarin"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 3.1 lists starch as the stored food in Chlorophyceae (green algae)."
+  },
+  {
+    "source_sentence": "Chlorophyceae | Green algae | Chlorophyll a, b | Starch | Cellulose | 2-8, equal, apical | Fresh water, brackish water, salt water",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Flagella in Chlorophyceae are described as:",
+    "options": {
+      "A": "Absent",
+      "B": "2, unequal, lateral",
+      "C": "2-8, equal, apical",
+      "D": "Single, terminal"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 3.1 states Chlorophyceae have 2-8 equal, apically inserted flagella."
+  },
+  {
+    "source_sentence": "Phaeophyceae | Brown algae | Chlorophyll a, c, fucoxanthin | Mannitol, laminarin | Cellulose and algin | 2, unequal, lateral | Fresh water (rare), brackish water, salt water",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "According to Table 3.1, major pigments in Phaeophyceae include:",
+    "options": {
+      "A": "Chlorophyll a, b only",
+      "B": "Chlorophyll a, c and fucoxanthin",
+      "C": "Chlorophyll a, d and phycoerythrin",
+      "D": "Phycocyanin only"
+    },
+    "correct_answer": "B",
+    "explanation": "Table 3.1 lists chlorophyll a, c and fucoxanthin as major pigments of brown algae."
+  },
+  {
+    "source_sentence": "Phaeophyceae | Brown algae | Chlorophyll a, c, fucoxanthin | Mannitol, laminarin | Cellulose and algin | 2, unequal, lateral | Fresh water (rare), brackish water, salt water",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Cell wall composition of Phaeophyceae according to Table 3.1 is:",
+    "options": {
+      "A": "Cellulose only",
+      "B": "Cellulose and algin",
+      "C": "Cellulose, pectin and polysulphate esters",
+      "D": "Chitin"
+    },
+    "correct_answer": "B",
+    "explanation": "Brown algae have cell walls of cellulose and algin as per Table 3.1."
+  },
+  {
+    "source_sentence": "Rhodophyceae | Red algae | Chlorophyll a, d, phycoerythrin | Floridean starch | Cellulose, pectin and poly sulphate esters | Absent | Fresh water (some), brackish water, salt water (most)",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "According to Table 3.1, flagella in Rhodophyceae are:",
+    "options": {
+      "A": "2, unequal, lateral",
+      "B": "2-8, equal, apical",
+      "C": "Absent",
+      "D": "One, apical"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 3.1 indicates flagella are absent in Rhodophyceae (red algae)."
+  },
+  {
+    "source_sentence": "Rhodophyceae | Red algae | Chlorophyll a, d, phycoerythrin | Floridean starch | Cellulose, pectin and poly sulphate esters | Absent | Fresh water (some), brackish water, salt water (most)",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Major pigments of Rhodophyceae listed in Table 3.1 are:",
+    "options": {
+      "A": "Chlorophyll a, b",
+      "B": "Chlorophyll a, c, fucoxanthin",
+      "C": "Chlorophyll a, d, phycoerythrin",
+      "D": "Chlorophyll b and carotene only"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 3.1 lists chlorophyll a, d and phycoerythrin as major pigments of red algae."
+  },
+  {
+    "source_sentence": "Rhodophyceae | Red algae | Chlorophyll a, d, phycoerythrin | Floridean starch | Cellulose, pectin and poly sulphate esters | Absent | Fresh water (some), brackish water, salt water (most)",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Habitat of Rhodophyceae according to Table 3.1 is predominantly:",
+    "options": {
+      "A": "Fresh water only",
+      "B": "Terrestrial only",
+      "C": "Salt water (most), with some in fresh and brackish water",
+      "D": "Desert soils"
+    },
+    "correct_answer": "C",
+    "explanation": "Table 3.1 shows Rhodophyceae occur in fresh water (some), brackish water, and mostly in salt water."
+  },
+  {
+    "source_sentence": "Bryophytes are also called amphibians of the plant kingdom because these plants can live in soil but are dependent on water for sexual reproduction.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Bryophytes are called 'amphibians of the plant kingdom' because they:",
+    "options": {
+      "A": "Live only in water",
+      "B": "Can live in soil but need water for sexual reproduction",
+      "C": "Are aquatic throughout life",
+      "D": "Have vascular tissues like amphibians"
+    },
+    "correct_answer": "B",
+    "explanation": "Bryophytes live on soil but require water for sexual reproduction, hence the amphibian analogy."
+  },
+  {
+    "source_sentence": "They play an important role in plant succession on bare rocks/soil.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Bryophytes are ecologically important in:",
+    "options": {
+      "A": "Formation of deserts",
+      "B": "Plant succession on bare rocks and soil",
+      "C": "Deep ocean ecosystems only",
+      "D": "Seed formation in angiosperms"
+    },
+    "correct_answer": "B",
+    "explanation": "Bryophytes play a key role in plant succession on bare rocks and soil."
+  },
+  {
+    "source_sentence": "They lack true roots, stem or leaves. They may possess root-like, leaf-like or stem-like structures.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Bryophytes lack:",
+    "options": {
+      "A": "Rhizoids",
+      "B": "True roots, stem and leaves",
+      "C": "Chlorophyll",
+      "D": "Cell walls"
+    },
+    "correct_answer": "B",
+    "explanation": "Bryophytes lack true roots, stems and leaves but may have root-like, leaf-like or stem-like structures."
+  },
+  {
+    "source_sentence": "The main plant body of the bryophyte is haploid. It produces gametes, hence is called a gametophyte.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The dominant, gamete-producing body of bryophytes is the:",
+    "options": {
+      "A": "Sporophyte (diploid)",
+      "B": "Gametophyte (haploid)",
+      "C": "Prothallus only in all bryophytes",
+      "D": "Embryo sac"
+    },
+    "correct_answer": "B",
+    "explanation": "The main plant body of bryophytes is haploid and produces gametes; it is called the gametophyte."
+  },
+  {
+    "source_sentence": "The male sex organ is called antheridium. They produce biflagellate antherozoids.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Antherozoids produced in bryophyte antheridia are:",
+    "options": {
+      "A": "Non-motile",
+      "B": "Biflagellate",
+      "C": "Multicellular",
+      "D": "Produced inside archegonia"
+    },
+    "correct_answer": "B",
+    "explanation": "Antheridia produce biflagellate antherozoids (male gametes) in bryophytes."
+  },
+  {
+    "source_sentence": "The female sex organ called archegonium is flask-shaped and produces a single egg.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The archegonium in bryophytes:",
+    "options": {
+      "A": "Produces many eggs",
+      "B": "Is flask-shaped and produces a single egg",
+      "C": "Produces pollen grains",
+      "D": "Is the male sex organ"
+    },
+    "correct_answer": "B",
+    "explanation": "Archegonium is the female sex organ; it is flask-shaped and produces a single egg."
+  },
+  {
+    "source_sentence": "The sporophyte is not free-living but attached to the photosynthetic gametophyte and derives nourishment from it.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The bryophyte sporophyte:",
+    "options": {
+      "A": "Is free-living and photosynthetic",
+      "B": "Is attached to and nourished by the gametophyte",
+      "C": "Is the dominant generation",
+      "D": "Produces gametes directly"
+    },
+    "correct_answer": "B",
+    "explanation": "Bryophyte sporophyte is dependent on the photosynthetic gametophyte for nourishment and is not free-living."
+  },
+  {
+    "source_sentence": "Species of Sphagnum, a moss, provide peat that have long been used as fuel, and as packing material for trans-shipment of living material because of their capacity to hold water.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Sphagnum moss is economically useful because it:",
+    "options": {
+      "A": "Produces edible fruits",
+      "B": "Provides peat used as fuel and water-holding packing material",
+      "C": "Fixes nitrogen in soil",
+      "D": "Produces commercial agar"
+    },
+    "correct_answer": "B",
+    "explanation": "Sphagnum provides peat used as fuel and as packing material due to its high water-holding capacity."
+  },
+  {
+    "source_sentence": "Mosses along with lichens are the first organisms to colonise rocks and hence, are of great ecological importance.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Mosses and lichens are ecologically important as:",
+    "options": {
+      "A": "Top consumers in food chains",
+      "B": "First organisms to colonise rocks",
+      "C": "Sources of petroleum",
+      "D": "Major timber producers"
+    },
+    "correct_answer": "B",
+    "explanation": "Mosses and lichens are pioneer colonisers of rocks, initiating soil formation."
+  },
+  {
+    "source_sentence": "Since mosses form dense mats on the soil, they reduce the impact of falling rain and prevent soil erosion.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Dense moss mats help prevent soil erosion by:",
+    "options": {
+      "A": "Increasing wind speed",
+      "B": "Reducing impact of falling rain on soil",
+      "C": "Removing all soil nutrients",
+      "D": "Producing hard seed coats"
+    },
+    "correct_answer": "B",
+    "explanation": "Moss mats reduce rain impact on soil and help prevent erosion."
+  },
+  {
+    "source_sentence": "The plant body of a liverwort is thalloid, e.g., Marchantia. The thallus is dorsiventral and closely appressed to the substrate.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Marchantia, a liverwort, has a plant body that is:",
+    "options": {
+      "A": "Erect with spirally arranged leaves",
+      "B": "Thalloid and dorsiventral",
+      "C": "Differentiated into true root, stem and leaf",
+      "D": "A vascular sporophyte dominant plant"
+    },
+    "correct_answer": "B",
+    "explanation": "Marchantia has a thalloid, dorsiventral body closely appressed to the substrate."
+  },
+  {
+    "source_sentence": "Gemmae are green, multicellular, asexual buds, which develop in small receptacles called gemma cups located on the thalli.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Gemmae in liverworts are:",
+    "options": {
+      "A": "Diploid spores in capsules",
+      "B": "Green multicellular asexual buds in gemma cups",
+      "C": "Male gametes",
+      "D": "Pollen grains"
+    },
+    "correct_answer": "B",
+    "explanation": "Gemmae are green, multicellular asexual buds formed in gemma cups on liverwort thalli."
+  },
+  {
+    "source_sentence": "The sporophyte is differentiated into a foot, seta and capsule.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Liverwort sporophyte is differentiated into:",
+    "options": {
+      "A": "Holdfast, stipe and frond",
+      "B": "Foot, seta and capsule",
+      "C": "Root, stem and leaf",
+      "D": "Protonema and leafy stage only"
+    },
+    "correct_answer": "B",
+    "explanation": "Liverwort sporophyte has foot, seta and capsule; spores form in the capsule after meiosis."
+  },
+  {
+    "source_sentence": "The predominant stage of the life cycle of a moss is the gametophyte which consists of two stages.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The predominant stage in moss life cycle is:",
+    "options": {
+      "A": "Sporophyte",
+      "B": "Gametophyte with protonema and leafy stages",
+      "C": "Prothallus",
+      "D": "Pollen grain"
+    },
+    "correct_answer": "B",
+    "explanation": "Moss life cycle is gametophyte-dominant, with protonema and leafy gametophyte stages."
+  },
+  {
+    "source_sentence": "The first stage is the protonema stage, which develops directly from a spore. It is a creeping, green, branched and frequently filamentous stage.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Protonema in mosses is:",
+    "options": {
+      "A": "The sporophyte capsule",
+      "B": "A creeping, green, branched filamentous stage from spore",
+      "C": "The female sex organ",
+      "D": "A type of root hair"
+    },
+    "correct_answer": "B",
+    "explanation": "Protonema develops directly from spore; it is creeping, green, branched and often filamentous."
+  },
+  {
+    "source_sentence": "They are attached to the soil through multicellular and branched rhizoids.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Rhizoids in the leafy stage of mosses are:",
+    "options": {
+      "A": "Unicellular and simple",
+      "B": "Multicellular and branched",
+      "C": "Absent",
+      "D": "True roots with xylem"
+    },
+    "correct_answer": "B",
+    "explanation": "The leafy moss gametophyte is attached by multicellular, branched rhizoids."
+  },
+  {
+    "source_sentence": "The sporophyte in mosses is more elaborate than that in liverworts.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Compared to liverworts, moss sporophytes are:",
+    "options": {
+      "A": "Less elaborate",
+      "B": "More elaborate",
+      "C": "Always absent",
+      "D": "Free-living and dominant"
+    },
+    "correct_answer": "B",
+    "explanation": "Moss sporophytes are more elaborate than liverwort sporophytes."
+  },
+  {
+    "source_sentence": "Common examples of mosses are Funaria, Polytrichum and Sphagnum.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Which of the following is a moss?",
+    "options": {
+      "A": "Marchantia",
+      "B": "Funaria",
+      "C": "Selaginella",
+      "D": "Cycas"
+    },
+    "correct_answer": "B",
+    "explanation": "Funaria is a moss; Marchantia is a liverwort; Selaginella is a pteridophyte; Cycas is a gymnosperm."
+  },
+  {
+    "source_sentence": "The Pteridophytes include horsetails and ferns.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Pteridophytes include:",
+    "options": {
+      "A": "Mosses and liverworts",
+      "B": "Horsetails and ferns",
+      "C": "Pines and cycads",
+      "D": "Algae and fungi"
+    },
+    "correct_answer": "B",
+    "explanation": "Pteridophytes include horsetails (e.g., Equisetum) and ferns."
+  },
+  {
+    "source_sentence": "Evolutionarily, they are the first terrestrial plants to possess vascular tissues – xylem and phloem.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Pteridophytes are the first terrestrial plants to possess:",
+    "options": {
+      "A": "Flowers and fruits",
+      "B": "Vascular tissues (xylem and phloem)",
+      "C": "Seeds",
+      "D": "Archegonia only"
+    },
+    "correct_answer": "B",
+    "explanation": "Pteridophytes are the first terrestrial plants with vascular tissues—xylem and phloem."
+  },
+  {
+    "source_sentence": "However, in pteridophytes, the main plant body is a sporophyte which is differentiated into true root, stem and leaves.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In pteridophytes, the dominant plant body is the:",
+    "options": {
+      "A": "Gametophyte",
+      "B": "Sporophyte differentiated into true root, stem and leaves",
+      "C": "Protonema",
+      "D": "Pollen grain"
+    },
+    "correct_answer": "B",
+    "explanation": "Unlike bryophytes, pteridophytes have a dominant sporophyte with true roots, stems and leaves."
+  },
+  {
+    "source_sentence": "The leaves in pteridophyta are small (microphylls) as in Selaginella or large (macrophylls) as in ferns.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Microphylls are found in:",
+    "options": {
+      "A": "Ferns",
+      "B": "Selaginella",
+      "C": "Mosses",
+      "D": "Pinus"
+    },
+    "correct_answer": "B",
+    "explanation": "Selaginella has small leaves called microphylls; ferns have large macrophylls."
+  },
+  {
+    "source_sentence": "The sporophytes bear sporangia that are subtended by leaf-like appendages called sporophylls.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Leaf-like appendages bearing sporangia in pteridophytes are called:",
+    "options": {
+      "A": "Sporophylls",
+      "B": "Trophophylls only",
+      "C": "Megasporophylls only in all pteridophytes",
+      "D": "Fronds of brown algae"
+    },
+    "correct_answer": "A",
+    "explanation": "Sporangia in pteridophytes are borne on sporophylls—leaf-like appendages on the sporophyte."
+  },
+  {
+    "source_sentence": "In some cases sporophylls may form distinct compact structures called strobili or cones (Selaginella, Equisetum).",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Strobili or cones in pteridophytes are formed in:",
+    "options": {
+      "A": "Marchantia and Funaria",
+      "B": "Selaginella and Equisetum",
+      "C": "Volvox and Spirogyra",
+      "D": "Wolffia and Eucalyptus"
+    },
+    "correct_answer": "B",
+    "explanation": "Sporophylls may form compact strobili or cones, as in Selaginella and Equisetum."
+  },
+  {
+    "source_sentence": "free-living, mostly photosynthetic thalloid gametophytes called prothallus.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The gametophyte of pteridophytes is called:",
+    "options": {
+      "A": "Protonema",
+      "B": "Prothallus",
+      "C": "Gemma",
+      "D": "Pollen grain"
+    },
+    "correct_answer": "B",
+    "explanation": "Pteridophyte spores germinate into a free-living, photosynthetic thalloid gametophyte called prothallus."
+  },
+  {
+    "source_sentence": "Water is required for transfer of antherozoids – the male gametes released from the antheridia, to the mouth of archegonium.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In pteridophytes, fertilisation requires:",
+    "options": {
+      "A": "Wind only",
+      "B": "Water for transfer of antherozoids to archegonium",
+      "C": "Insect pollinators",
+      "D": "No external medium"
+    },
+    "correct_answer": "B",
+    "explanation": "Water is needed to carry antherozoids from antheridia to the archegonium in pteridophytes."
+  },
+  {
+    "source_sentence": "In majority of the pteridophytes all the spores are of similar kinds; such plants are called homosporous.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Majority of pteridophytes are:",
+    "options": {
+      "A": "Heterosporous",
+      "B": "Homosporous",
+      "C": "Always dioecious trees",
+      "D": "Seed-bearing"
+    },
+    "correct_answer": "B",
+    "explanation": "Most pteridophytes produce spores of one kind and are homosporous."
+  },
+  {
+    "source_sentence": "Genera like Selaginella and Salvinia which produce two kinds of spores, macro (large) and micro (small) spores, are known as heterosporous.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Heterosporous pteridophytes include:",
+    "options": {
+      "A": "Dryopteris and Pteris",
+      "B": "Selaginella and Salvinia",
+      "C": "Funaria and Marchantia",
+      "D": "Chlamydomonas and Volvox"
+    },
+    "correct_answer": "B",
+    "explanation": "Selaginella and Salvinia produce macro and micro spores and are heterosporous."
+  },
+  {
+    "source_sentence": "This event is a precursor to the seed habit considered an important step in evolution.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Retention of female gametophyte and embryo development on sporophyte in heterosporous pteridophytes is a precursor to:",
+    "options": {
+      "A": "Algal colonial habit",
+      "B": "Seed habit",
+      "C": "Fungal symbiosis only",
+      "D": "Vegetative propagation only"
+    },
+    "correct_answer": "B",
+    "explanation": "Heterospory with retained female gametophyte and embryo on sporophyte foreshadows the seed habit."
+  },
+  {
+    "source_sentence": "The pteridophytes are further classified into four classes: Psilopsida (Psilotum); Lycopsida (Selaginella, Lycopodium), Sphenopsida (Equisetum) and Pteropsida (Dryopteris, Pteris, Adiantum).",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Equisetum belongs to the pteridophyte class:",
+    "options": {
+      "A": "Psilopsida",
+      "B": "Lycopsida",
+      "C": "Sphenopsida",
+      "D": "Pteropsida"
+    },
+    "correct_answer": "C",
+    "explanation": "Equisetum (horsetail) belongs to Sphenopsida; Selaginella is Lycopsida; Dryopteris is Pteropsida."
+  },
+  {
+    "source_sentence": "The gymnosperms (gymnos: naked, sperma: seeds) are plants in which the ovules are not enclosed by any ovary wall and remain exposed, both before and after fertilisation.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Gymnosperms are so named because their:",
+    "options": {
+      "A": "Ovules are enclosed in ovary",
+      "B": "Seeds are naked (not enclosed in fruit)",
+      "C": "Gametophytes are free-living",
+      "D": "Spores are always motile"
+    },
+    "correct_answer": "B",
+    "explanation": "Gymnos means naked; gymnosperm seeds are not covered by ovary wall or fruit."
+  },
+  {
+    "source_sentence": "One of the gymnosperms, the giant redwood tree Sequoia is one of the tallest tree species.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "One of the tallest tree species among gymnosperms is:",
+    "options": {
+      "A": "Wolffia",
+      "B": "Sequoia (giant redwood)",
+      "C": "Marchantia",
+      "D": "Chlamydomonas"
+    },
+    "correct_answer": "B",
+    "explanation": "Sequoia, a giant redwood gymnosperm, is among the tallest tree species."
+  },
+  {
+    "source_sentence": "Roots in some genera have fungal association in the form of mycorrhiza (Pinus), while in some others (Cycas) small specialised roots called coralloid roots are associated with N2-fixing cyanobacteria.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Mycorrhizal association is seen in roots of:",
+    "options": {
+      "A": "Cycas",
+      "B": "Pinus",
+      "C": "Funaria",
+      "D": "Spirogyra"
+    },
+    "correct_answer": "B",
+    "explanation": "Pinus roots have mycorrhizal fungal association; Cycas has coralloid roots with N₂-fixing cyanobacteria."
+  },
+  {
+    "source_sentence": "In Cycas the pinnate leaves persist for a few years.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In Cycas, leaves are:",
+    "options": {
+      "A": "Needle-like and ephemeral",
+      "B": "Pinnate and persist for a few years",
+      "C": "Absent",
+      "D": "Microphyllous only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cycas has pinnate leaves that persist for several years; conifers have needle-like leaves."
+  },
+  {
+    "source_sentence": "In conifers, the needle-like leaves reduce the surface area. Their thick cuticle and sunken stomata also help to reduce water loss.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Needle-like leaves of conifers help reduce water loss by:",
+    "options": {
+      "A": "Increasing surface area",
+      "B": "Reducing surface area along with thick cuticle and sunken stomata",
+      "C": "Producing more stomata on upper surface",
+      "D": "Lacking cuticle"
+    },
+    "correct_answer": "B",
+    "explanation": "Conifer needles reduce surface area; thick cuticle and sunken stomata further reduce transpiration."
+  },
+  {
+    "source_sentence": "The gymnosperms are heterosporous; they produce haploid microspores and megaspores.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Gymnosperms are:",
+    "options": {
+      "A": "Homosporous",
+      "B": "Heterosporous",
+      "C": "Always aquatic",
+      "D": "Non-vascular"
+    },
+    "correct_answer": "B",
+    "explanation": "Gymnosperms produce microspores and megaspores and are heterosporous."
+  },
+  {
+    "source_sentence": "This reduced gametophyte is called a pollen grain.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The reduced male gametophyte of gymnosperms is the:",
+    "options": {
+      "A": "Prothallus",
+      "B": "Pollen grain",
+      "C": "Protonema",
+      "D": "Gemma"
+    },
+    "correct_answer": "B",
+    "explanation": "Microspores develop into a highly reduced male gametophyte called the pollen grain."
+  },
+  {
+    "source_sentence": "The male or female cones or strobili may be borne on the same tree (Pinus). However, in cycas male cones and megasporophylls are borne on different trees.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In which gymnosperm are male and female cones borne on the same tree?",
+    "options": {
+      "A": "Cycas",
+      "B": "Pinus",
+      "C": "Both Cycas and Pinus on separate trees only",
+      "D": "Neither; all gymnosperms are dioecious"
+    },
+    "correct_answer": "B",
+    "explanation": "Pinus bears male and female cones on the same tree; in Cycas, male cones and megasporophylls are on different trees."
+  },
+  {
+    "source_sentence": "The nucellus is protected by envelopes and the composite structure is called an ovule.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In gymnosperms, nucellus protected by envelopes forms the:",
+    "options": {
+      "A": "Fruit",
+      "B": "Ovule",
+      "C": "Prothallus",
+      "D": "Gemma cup"
+    },
+    "correct_answer": "B",
+    "explanation": "Ovule consists of nucellus protected by envelopes; ovules are borne on megasporophylls."
+  },
+  {
+    "source_sentence": "Unlike bryophytes and pteridophytes, in gymnosperms, the male and the female gametophytes do not have an independent free-living existence.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In gymnosperms, gametophytes:",
+    "options": {
+      "A": "Are free-living like bryophyte gametophytes",
+      "B": "Remain within sporangia on sporophyte without free-living existence",
+      "C": "Are absent",
+      "D": "Live only in water"
+    },
+    "correct_answer": "B",
+    "explanation": "Gymnosperm gametophytes are retained within sporangia on the sporophyte and are not free-living."
+  },
+  {
+    "source_sentence": "The pollen tube carrying the male gametes grows towards archegonia in the ovules and discharge their contents near the mouth of the archegonia.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Fertilisation in gymnosperms involves:",
+    "options": {
+      "A": "Swimming antherozoids in rainwater only",
+      "B": "Pollen tube delivering male gametes to archegonia in ovules",
+      "C": "Wind-borne seeds only",
+      "D": "Double fertilisation as in angiosperms"
+    },
+    "correct_answer": "B",
+    "explanation": "Pollen grains form pollen tubes that grow to archegonia in ovules to deliver male gametes."
+  },
+  {
+    "source_sentence": "Unlike the gymnosperms where the ovules are naked, in the angiosperms or flowering plants, the pollen grains and ovules are developed in specialised structures called flowers.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In angiosperms, pollen grains and ovules develop in:",
+    "options": {
+      "A": "Strobili only",
+      "B": "Flowers",
+      "C": "Prothallus",
+      "D": "Gemma cups"
+    },
+    "correct_answer": "B",
+    "explanation": "Angiosperms produce pollen grains and ovules within specialised structures called flowers."
+  },
+  {
+    "source_sentence": "In angiosperms, the seeds are enclosed in fruits.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "A key difference between angiosperms and gymnosperms is that angiosperm seeds are:",
+    "options": {
+      "A": "Naked on megasporophylls",
+      "B": "Enclosed in fruits",
+      "C": "Always winged",
+      "D": "Never formed"
+    },
+    "correct_answer": "B",
+    "explanation": "Angiosperm seeds are enclosed in fruits; gymnosperm seeds remain naked."
+  },
+  {
+    "source_sentence": "They range in size from the smallest Wolffia to tall trees of Eucalyptus (over 100 metres).",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "The smallest angiosperm mentioned in the chapter is:",
+    "options": {
+      "A": "Eucalyptus",
+      "B": "Wolffia",
+      "C": "Sequoia",
+      "D": "Chlamydomonas"
+    },
+    "correct_answer": "B",
+    "explanation": "Wolffia is among the smallest angiosperms; Eucalyptus trees exceed 100 metres in height."
+  },
+  {
+    "source_sentence": "They are divided into two classes: the dicotyledons and the monocotyledons.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Angiosperms are divided into:",
+    "options": {
+      "A": "Bryopsida and Pteropsida",
+      "B": "Dicotyledons and monocotyledons",
+      "C": "Chlorophyceae and Phaeophyceae",
+      "D": "Homosporous and heterosporous"
+    },
+    "correct_answer": "B",
+    "explanation": "Angiosperms comprise two classes: dicotyledons and monocotyledons."
+  },
+  {
+    "source_sentence": "Such reproduction is called isogamous. Fusion of two gametes dissimilar in size, as in species of Eudorina is termed as anisogamous.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Isogamous reproduction is seen in:",
+    "options": {
+      "A": "Volvox and Fucus",
+      "B": "Ulothrix and Spirogyra",
+      "C": "Selaginella only",
+      "D": "Pinus and Cycas"
+    },
+    "correct_answer": "B",
+    "explanation": "Isogamy involves similar-sized gametes, as in Ulothrix (flagellated) and Spirogyra (non-flagellated motile)."
+  },
+  {
+    "source_sentence": "The chloroplasts may be discoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped in different species.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Ribbon-shaped chloroplasts are characteristic of:",
+    "options": {
+      "A": "Pinus",
+      "B": "Spirogyra",
+      "C": "Marchantia",
+      "D": "Cycas"
+    },
+    "correct_answer": "B",
+    "explanation": "Green algae show varied chloroplast shapes; Spirogyra is well known for spiral/ribbon-shaped chloroplasts."
+  },
+  {
+    "source_sentence": "Majority of the red algae are marine with greater concentrations found in the warmer areas.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Red algae are predominantly:",
+    "options": {
+      "A": "Terrestrial in deserts",
+      "B": "Marine, especially in warmer areas",
+      "C": "Parasitic on animals only",
+      "D": "Found only in polar regions"
+    },
+    "correct_answer": "B",
+    "explanation": "Majority of red algae are marine, with greater concentrations in warmer areas."
+  },
+  {
+    "source_sentence": "They occur in both well-lighted regions close to the surface of water and also at great depths in oceans where relatively little light penetrates.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Red algae can grow:",
+    "options": {
+      "A": "Only in bright surface waters",
+      "B": "Both near surface and at great depths with little light",
+      "C": "Only on land",
+      "D": "Only in acidic hot springs"
+    },
+    "correct_answer": "B",
+    "explanation": "Red algae occur in well-lit surface waters and at ocean depths where little light penetrates."
+  },
+  {
+    "source_sentence": "Bryophytes include the various mosses and liverworts that are found commonly growing in moist shaded areas in the hills.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Bryophytes are commonly found in:",
+    "options": {
+      "A": "Dry deserts",
+      "B": "Moist shaded areas in hills",
+      "C": "Deep ocean",
+      "D": "Only cultivated fields"
+    },
+    "correct_answer": "B",
+    "explanation": "Mosses and liverworts commonly grow in moist, shaded habitats, especially in hilly regions."
+  },
+  {
+    "source_sentence": "The bryophytes are divided into liverworts and mosses.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Bryophytes are divided into:",
+    "options": {
+      "A": "Algae and fungi",
+      "B": "Liverworts and mosses",
+      "C": "Monocots and dicots",
+      "D": "Psilopsida and Lycopsida"
+    },
+    "correct_answer": "B",
+    "explanation": "Bryophytes comprise liverworts and mosses."
+  },
+  {
+    "source_sentence": "The pteridophytes are found in cool, damp, shady places though some may flourish well in sandy-soil conditions.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Pteridophytes are typically found in:",
+    "options": {
+      "A": "Hot deserts only",
+      "B": "Cool, damp, shady places",
+      "C": "Open ocean",
+      "D": "Snow-covered peaks only"
+    },
+    "correct_answer": "B",
+    "explanation": "Pteridophytes typically inhabit cool, damp, shady places; some grow in sandy soils."
+  },
+  {
+    "source_sentence": "Pteridophytes are used for medicinal purposes and as soil-binders. They are also frequently grown as ornamentals.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Pteridophytes are useful as:",
+    "options": {
+      "A": "Sources of petroleum only",
+      "B": "Medicines, soil-binders and ornamentals",
+      "C": "Commercial agar production only",
+      "D": "Nitrogen fixation in roots"
+    },
+    "correct_answer": "B",
+    "explanation": "Pteridophytes serve medicinal purposes, act as soil-binders, and are grown as ornamentals."
+  },
+  {
+    "source_sentence": "The strobili bearing microsporophylls and microsporangia are called microsporangiate or male strobili.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Male cones in gymnosperms are also called:",
+    "options": {
+      "A": "Megasporangiate strobili",
+      "B": "Microsporangiate or male strobili",
+      "C": "Prothalli",
+      "D": "Gemma cups"
+    },
+    "correct_answer": "B",
+    "explanation": "Strobili with microsporophylls and microsporangia are microsporangiate (male) strobili."
+  },
+  {
+    "source_sentence": "Following fertilisation, zygote develops into an embryo and the ovules into seeds. These seeds are not covered.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "After fertilisation in gymnosperms, ovules develop into:",
+    "options": {
+      "A": "Fruits",
+      "B": "Naked seeds",
+      "C": "Free-living gametophytes",
+      "D": "Gemmae"
+    },
+    "correct_answer": "B",
+    "explanation": "In gymnosperms, fertilised ovules develop into seeds that remain naked (uncovered)."
+  },
+  {
+    "source_sentence": "Being photosynthetic, they increase the level of dissolved oxygen in their immediate environment.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Photosynthetic algae benefit aquatic environments by:",
+    "options": {
+      "A": "Decreasing dissolved oxygen",
+      "B": "Increasing dissolved oxygen",
+      "C": "Removing all carbon",
+      "D": "Producing methane only"
+    },
+    "correct_answer": "B",
+    "explanation": "Photosynthetic algae increase dissolved oxygen levels in their immediate aquatic environment."
+  },
+  {
+    "source_sentence": "Asexual reproduction is by flagellated zoospores produced in zoosporangia.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "In Chlorophyceae, asexual reproduction occurs through:",
+    "options": {
+      "A": "Non-motile spores only",
+      "B": "Flagellated zoospores in zoosporangia",
+      "C": "Pollen tubes",
+      "D": "Seeds"
+    },
+    "correct_answer": "B",
+    "explanation": "Green algae reproduce asexually by flagellated zoospores produced in zoosporangia."
+  },
+  {
+    "source_sentence": "They possess chlorophyll a, c, carotenoids and xanthophylls.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Brown algae possess which chlorophyll types?",
+    "options": {
+      "A": "a and b",
+      "B": "a and d",
+      "C": "a and c",
+      "D": "b and d only"
+    },
+    "correct_answer": "C",
+    "explanation": "Phaeophyceae have chlorophyll a and c, along with carotenoids and xanthophylls including fucoxanthin."
+  },
+  {
+    "source_sentence": "The megaspore mother cell divides meiotically to form four megaspores. One of the megaspores enclosed within the megasporangium develops into a multicellular female gametophyte that bears two or more archegonia or female sex organs.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Female gametophyte of gymnosperms develops from:",
+    "options": {
+      "A": "All four megaspores equally",
+      "B": "One functional megaspore within megasporangium",
+      "C": "Microspore only",
+      "D": "Protonema"
+    },
+    "correct_answer": "B",
+    "explanation": "One megaspore develops into the multicellular female gametophyte bearing archegonia inside the megasporangium."
+  },
+  {
+    "source_sentence": "Chemotaxonomy, that uses the chemical constituents of the plant to resolve confusions, are also used by taxonomists these days.",
+    "chapter": "Chapter 3: Plant Kingdom",
+    "question": "Chemotaxonomy utilises:",
+    "options": {
+      "A": "Only leaf colour",
+      "B": "Chemical constituents of plants",
+      "C": "Animal behaviour",
+      "D": "Soil pH exclusively"
+    },
+    "correct_answer": "B",
+    "explanation": "Chemotaxonomy uses chemical constituents of plants to resolve taxonomic confusions."
+  }
+]

@@ -1,0 +1,1640 @@
+[
+  {
+    "source_sentence": "Genetics is a branch of biology which deals with principles of inheritance and its practices.",
+    "question": "Genetics is a branch of biology that deals with:",
+    "options": {
+      "A": "Only variation in organisms",
+      "B": "Principles of inheritance and its practices",
+      "C": "Only cell division",
+      "D": "Only evolution"
+    },
+    "correct_answer": "B",
+    "explanation": "Genetics studies both inheritance and variation of characters from parents to offspring.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Inheritance is the process by which characters are passed on from parent to progeny; it is the basis of heredity.",
+    "question": "Inheritance is defined as:",
+    "options": {
+      "A": "The degree by which progeny differ from parents",
+      "B": "The process by which characters are passed from parent to progeny",
+      "C": "The process of mutation in DNA",
+      "D": "The formation of gametes only"
+    },
+    "correct_answer": "B",
+    "explanation": "Inheritance is the transmission of characters from parents to offspring and forms the basis of heredity.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Variation is the degree by which progeny differ from their parents.",
+    "question": "Variation in genetics refers to:",
+    "options": {
+      "A": "Identical traits in all offspring",
+      "B": "The degree by which progeny differ from their parents",
+      "C": "Only chromosomal abnormalities",
+      "D": "Stable trait inheritance over generations"
+    },
+    "correct_answer": "B",
+    "explanation": "Variation measures how much offspring differ from their parents in their characteristics.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Humans knew from as early as 8000-1000 B.C. that one of the causes of variation was hidden in sexual reproduction.",
+    "question": "Since when did humans know that sexual reproduction causes variation?",
+    "options": {
+      "A": "1800-1900 A.D.",
+      "B": "8000-1000 B.C.",
+      "C": "500-600 A.D.",
+      "D": "1500-1600 A.D."
+    },
+    "correct_answer": "B",
+    "explanation": "Early humans recognized variation from sexual reproduction as early as 8000-1000 B.C.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Gregor Mendel, conducted hybridisation experiments on garden peas for seven years (1856-1863) and proposed the laws of inheritance in living organisms.",
+    "question": "Gregor Mendel conducted his hybridisation experiments on garden peas during:",
+    "options": {
+      "A": "1840-1847",
+      "B": "1856-1863",
+      "C": "1865-1872",
+      "D": "1870-1877"
+    },
+    "correct_answer": "B",
+    "explanation": "Mendel worked on pea plants for seven years from 1856 to 1863.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "During Mendel's investigations into inheritance patterns it was for the first time that statistical analysis and mathematical logic were applied to problems in biology.",
+    "question": "Mendel's work was pioneering because he was the first to apply to biology:",
+    "options": {
+      "A": "Microscopy and cell culture",
+      "B": "Statistical analysis and mathematical logic",
+      "C": "DNA sequencing",
+      "D": "Chromosome staining"
+    },
+    "correct_answer": "B",
+    "explanation": "Mendel was the first to use statistics and mathematics to analyse biological inheritance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "A true-breeding line is one that, having undergone continuous self-pollination, shows the stable trait inheritance and expression for several generations.",
+    "question": "A true-breeding line is one that shows:",
+    "options": {
+      "A": "Variable traits after one cross",
+      "B": "Stable trait inheritance after continuous self-pollination for several generations",
+      "C": "Hybrid vigour in every generation",
+      "D": "Blending of traits in F1"
+    },
+    "correct_answer": "B",
+    "explanation": "True-breeding lines maintain stable traits through continuous self-pollination over generations.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Mendel selected 14 true-breeding pea plant varieties, as pairs which were similar except for one character with contrasting traits.",
+    "question": "How many true-breeding pea plant varieties did Mendel select?",
+    "options": {
+      "A": "7",
+      "B": "10",
+      "C": "14",
+      "D": "21"
+    },
+    "correct_answer": "C",
+    "explanation": "Mendel selected 14 true-breeding varieties forming 7 pairs of contrasting traits.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Some of the contrasting traits selected were smooth or wrinkled seeds, yellow or green seeds, inflated (full) or constricted green or yellow pods and tall or dwarf plants.",
+    "question": "Which of the following was NOT a contrasting trait studied by Mendel in pea plants?",
+    "options": {
+      "A": "Tall or dwarf stem height",
+      "B": "Smooth or wrinkled seeds",
+      "C": "Red or white flower colour in pea",
+      "D": "Yellow or green seed colour"
+    },
+    "correct_answer": "C",
+    "explanation": "Mendel studied violet/white flower colour in pea, not red/white.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Mendel observed that all the F1 progeny plants were tall, like one of its parents; none were dwarf.",
+    "question": "In a cross between true-breeding tall and dwarf pea plants, the F1 generation showed:",
+    "options": {
+      "A": "All dwarf plants",
+      "B": "All tall plants",
+      "C": "Intermediate height plants",
+      "D": "3 tall : 1 dwarf ratio"
+    },
+    "correct_answer": "B",
+    "explanation": "All F1 progeny were tall, resembling one parent with no dwarf plants.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "This generation is also called the Filial progeny or the F1.",
+    "question": "The first hybrid generation produced from a cross is called:",
+    "options": {
+      "A": "P generation",
+      "B": "F1 or filial generation",
+      "C": "F3 generation",
+      "D": "Test generation"
+    },
+    "correct_answer": "B",
+    "explanation": "The first filial (F1) generation is the direct offspring of the parental cross.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The proportion of plants that were dwarf were 1/4th of the F2 plants while 3/4th of the F2 plants were tall.",
+    "question": "In a monohybrid cross, the F2 phenotypic ratio of tall to dwarf is:",
+    "options": {
+      "A": "1:1",
+      "B": "2:1",
+      "C": "3:1",
+      "D": "9:3:3:1"
+    },
+    "correct_answer": "C",
+    "explanation": "Mendel found 3/4 tall and 1/4 dwarf in F2, giving a 3:1 phenotypic ratio.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The tall and dwarf traits were identical to their parental type and did not show any blending.",
+    "question": "Mendel observed that contrasting traits in pea plants:",
+    "options": {
+      "A": "Always blended in F1 and F2",
+      "B": "Did not show any blending at F1 or F2",
+      "C": "Blended only in F2",
+      "D": "Disappeared permanently in F1"
+    },
+    "correct_answer": "B",
+    "explanation": "Offspring were either tall or dwarf with no intermediate blending.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "He called these things as 'factors'. Now we call them as genes. Genes, therefore, are the units of inheritance.",
+    "question": "Mendel's 'factors' are now known as:",
+    "options": {
+      "A": "Chromosomes",
+      "B": "Genes",
+      "C": "Enzymes",
+      "D": "Hormones"
+    },
+    "correct_answer": "B",
+    "explanation": "Mendel called them factors; today they are known as genes, the units of inheritance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Genes which code for a pair of contrasting traits are known as alleles, i.e., they are slightly different forms of the same gene.",
+    "question": "Alleles are:",
+    "options": {
+      "A": "Different genes on different chromosomes",
+      "B": "Slightly different forms of the same gene coding for contrasting traits",
+      "C": "Identical copies of a chromosome",
+      "D": "Only recessive genes"
+    },
+    "correct_answer": "B",
+    "explanation": "Alleles are alternative forms of the same gene that code for contrasting traits.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "If we use alphabetical symbols for each gene, then the capital letter is used for the trait expressed at the F1 stage and the small alphabet for the other trait.",
+    "question": "In genetic notation, the capital letter represents:",
+    "options": {
+      "A": "The recessive trait",
+      "B": "The trait expressed in F1 (dominant)",
+      "C": "The homozygous condition only",
+      "D": "The sex chromosome"
+    },
+    "correct_answer": "B",
+    "explanation": "Capital letters denote dominant alleles expressed in the F1 heterozygote.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In a true breeding, tall or dwarf pea variety the allelic pair of genes for height are identical or homozygous, TT and tt, respectively.",
+    "question": "A true-breeding tall pea plant has the genotype:",
+    "options": {
+      "A": "Tt",
+      "B": "tt",
+      "C": "TT",
+      "D": "TY"
+    },
+    "correct_answer": "C",
+    "explanation": "True-breeding tall plants are homozygous dominant (TT).",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "TT and tt are called the genotype of the plant while the descriptive terms tall and dwarf are the phenotype.",
+    "question": "The physical appearance 'tall' or 'dwarf' represents the:",
+    "options": {
+      "A": "Genotype",
+      "B": "Phenotype",
+      "C": "Karyotype",
+      "D": "Haplotype"
+    },
+    "correct_answer": "B",
+    "explanation": "Phenotype is the observable trait; genotype is the genetic constitution (e.g., TT, Tt, tt).",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In a pair of dissimilar factors, one dominates the other (as in the F1) and hence is called the dominant factor while the other factor is recessive.",
+    "question": "In a heterozygous Tt plant, the allele T is:",
+    "options": {
+      "A": "Recessive",
+      "B": "Dominant",
+      "C": "Co-dominant only",
+      "D": "Inactive"
+    },
+    "correct_answer": "B",
+    "explanation": "T (tall) is dominant over t (dwarf), so Tt plants appear tall.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Since the Tt plant is heterozygous for genes controlling one character (height), it is a monohybrid and the cross between TT and tt is a monohybrid cross.",
+    "question": "A cross between TT and tt is called a:",
+    "options": {
+      "A": "Dihybrid cross",
+      "B": "Test cross",
+      "C": "Monohybrid cross",
+      "D": "Back cross"
+    },
+    "correct_answer": "C",
+    "explanation": "A monohybrid cross involves one character; TT × tt is the classic example.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "When the tall and dwarf plant produce gametes, by the process of meiosis, the alleles of the parental pair separate or segregate from each other and only one allele is transmitted to a gamete.",
+    "question": "During gamete formation, alleles of a gene pair:",
+    "options": {
+      "A": "Blend together",
+      "B": "Segregate so only one allele enters each gamete",
+      "C": "Remain paired in every gamete",
+      "D": "Are lost completely"
+    },
+    "correct_answer": "B",
+    "explanation": "The Law of Segregation states alleles separate during meiosis, one per gamete.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "It was developed by a British geneticist, Reginald C. Punnett.",
+    "question": "The Punnett square was developed by:",
+    "options": {
+      "A": "Gregor Mendel",
+      "B": "Thomas Hunt Morgan",
+      "C": "Reginald C. Punnett",
+      "D": "Walter Sutton"
+    },
+    "correct_answer": "C",
+    "explanation": "Reginald C. Punnett developed the Punnett square for predicting offspring genotypes.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "From the Punnett square it is easily seen that 1/4th of the random fertilisations lead to TT, 1/2 lead to Tt and 1/4th to tt.",
+    "question": "The F2 genotypic ratio in a monohybrid cross is:",
+    "options": {
+      "A": "3:1",
+      "B": "1:2:1",
+      "C": "9:3:3:1",
+      "D": "1:1:1:1"
+    },
+    "correct_answer": "B",
+    "explanation": "F2 genotypes are 1/4 TT, 1/2 Tt, and 1/4 tt, giving a 1:2:1 ratio.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "This leads to a phenotypic ratio of 3/4th tall: (1/4 TT + 1/2 Tt) and 1/4th tt, i.e., a 3:1 ratio, but a genotypic ratio of 1:2:1.",
+    "question": "In a monohybrid cross, the F2 phenotypic ratio is 3:1 because:",
+    "options": {
+      "A": "All genotypes look different",
+      "B": "Both TT and Tt express the dominant tall phenotype",
+      "C": "Recessive allele is lost in F1",
+      "D": "Genes assort independently"
+    },
+    "correct_answer": "B",
+    "explanation": "TT and Tt both appear tall, so 3/4 are tall and 1/4 are dwarf (tt).",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In a typical test cross an organism (pea plants here) showing a dominant phenotype (and whose genotype is to be determined) is crossed with the recessive parent instead of self-crossing.",
+    "question": "A test cross involves crossing an organism with dominant phenotype to:",
+    "options": {
+      "A": "Another dominant homozygote",
+      "B": "The recessive parent",
+      "C": "An F1 hybrid",
+      "D": "A dihybrid"
+    },
+    "correct_answer": "B",
+    "explanation": "Test cross: dominant phenotype × recessive parent to determine if genotype is homozygous or heterozygous.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Based on his observations on monohybrid crosses Mendel proposed two general rules... the First Law or Law of Dominance and the Second Law or Law of Segregation.",
+    "question": "Mendel's two laws from monohybrid crosses are:",
+    "options": {
+      "A": "Law of Independent Assortment and Linkage",
+      "B": "Law of Dominance and Law of Segregation",
+      "C": "Law of Segregation and Law of Mutation",
+      "D": "Law of Dominance and Law of Recombination"
+    },
+    "correct_answer": "B",
+    "explanation": "Monohybrid crosses led to the Law of Dominance and Law of Segregation.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Characters are controlled by discrete units called factors. (ii) Factors occur in pairs. (iii) In a dissimilar pair of factors one member of the pair dominates (dominant) the other (recessive).",
+    "question": "According to the Law of Dominance:",
+    "options": {
+      "A": "Factors occur singly",
+      "B": "Characters are controlled by discrete factors occurring in pairs, with one dominating the other",
+      "C": "Alleles always blend",
+      "D": "Only one factor exists per organism"
+    },
+    "correct_answer": "B",
+    "explanation": "Law of Dominance: discrete paired factors; in heterozygotes one allele dominates.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Though the parents contain two alleles during gamete formation, the factors or alleles of a pair segregate from each other such that a gamete receives only one of the two factors.",
+    "question": "The Law of Segregation states that during gamete formation:",
+    "options": {
+      "A": "Both alleles enter every gamete",
+      "B": "Alleles of a pair segregate, each gamete receiving only one allele",
+      "C": "Alleles blend permanently",
+      "D": "Only dominant alleles are transmitted"
+    },
+    "correct_answer": "B",
+    "explanation": "Alleles separate during meiosis so each gamete carries only one allele of each pair.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In a cross between true-breeding red-flowered (RR) and true-breeding white-flowered plants (rr), the F1 (Rr) was pink.",
+    "question": "In snapdragon, a cross between RR (red) and rr (white) produces F1 flowers that are:",
+    "options": {
+      "A": "Red",
+      "B": "White",
+      "C": "Pink",
+      "D": "Red and white spotted"
+    },
+    "correct_answer": "C",
+    "explanation": "Incomplete dominance in snapdragon gives pink F1 (Rr) flowers.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "When the F1 was self-pollinated the F2 resulted in the following ratio 1 (RR) Red: 2 (Rr) Pink: 1 (rr) White.",
+    "question": "The F2 phenotypic ratio in snapdragon incomplete dominance is:",
+    "options": {
+      "A": "3:1",
+      "B": "1:2:1",
+      "C": "9:3:3:1",
+      "D": "1:1"
+    },
+    "correct_answer": "B",
+    "explanation": "F2 shows 1 red : 2 pink : 1 white — a 1:2:1 phenotypic ratio.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "What happened was that R was not completely dominant over r and this made it possible to distinguish Rr as pink from RR (red) and rr (white).",
+    "question": "Incomplete dominance differs from complete dominance because:",
+    "options": {
+      "A": "F1 resembles both parents fully",
+      "B": "The heterozygote has an intermediate phenotype distinguishable from both homozygotes",
+      "C": "No segregation occurs",
+      "D": "Only recessive trait is expressed in F1"
+    },
+    "correct_answer": "B",
+    "explanation": "In incomplete dominance, R is not fully dominant; Rr is phenotypically distinct (pink).",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The unmodified (functioning) allele, which represents the original phenotype is the dominant allele and the modified allele is generally the recessive allele.",
+    "question": "A recessive allele often results from:",
+    "options": {
+      "A": "Production of a normal enzyme",
+      "B": "A non-functional enzyme or no enzyme production",
+      "C": "Increased enzyme activity",
+      "D": "Duplication of the gene"
+    },
+    "correct_answer": "B",
+    "explanation": "Recessive alleles often produce non-functional or no enzyme; the functioning allele is dominant.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In the case of co-dominance the F1 generation resembles both parents.",
+    "question": "In co-dominance, the F1 generation:",
+    "options": {
+      "A": "Shows only the dominant parent trait",
+      "B": "Shows an intermediate phenotype",
+      "C": "Expresses both parental traits simultaneously",
+      "D": "Shows neither parental trait"
+    },
+    "correct_answer": "C",
+    "explanation": "Co-dominance: both alleles express fully in F1, e.g., AB blood type.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "ABO blood groups are controlled by the gene I. The plasma membrane of the red blood cells has sugar polymers that protrude from its surface and the kind of sugar is controlled by the gene.",
+    "question": "ABO blood groups in humans are controlled by:",
+    "options": {
+      "A": "Multiple genes on Y chromosome",
+      "B": "Gene I with alleles determining sugar type on RBC membrane",
+      "C": "Only the i allele",
+      "D": "Mitochondrial DNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Gene I controls ABO groups by determining sugar polymers on red blood cell membranes.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The gene (I) has three alleles IA, IB and i.",
+    "question": "The alleles of the I gene for ABO blood groups are:",
+    "options": {
+      "A": "A, B, and O",
+      "B": "IA, IB, and i",
+      "C": "I1, I2, and I3",
+      "D": "Only IA and IB"
+    },
+    "correct_answer": "B",
+    "explanation": "Three alleles IA, IB, and i govern ABO blood group inheritance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The alleles IA and IB produce a slightly different form of the sugar while allele i does not produce any sugar.",
+    "question": "The i allele in ABO blood grouping:",
+    "options": {
+      "A": "Produces A type sugar",
+      "B": "Produces B type sugar",
+      "C": "Does not produce any sugar",
+      "D": "Produces both A and B sugars"
+    },
+    "correct_answer": "C",
+    "explanation": "Allele i is recessive and produces no sugar on RBC surface.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "But when IA and IB are present together they both express their own types of sugars: this is because of co-dominance.",
+    "question": "Blood group AB (IAIB genotype) results from:",
+    "options": {
+      "A": "Incomplete dominance",
+      "B": "Co-dominance of IA and IB",
+      "C": "Recessive i allele expression",
+      "D": "Sex linkage"
+    },
+    "correct_answer": "B",
+    "explanation": "IA and IB are co-dominant; both sugars are expressed in AB individuals.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Since there are three different alleles, there are six different combinations of these three alleles that are possible, and therefore, a total of six different genotypes of the human ABO blood types.",
+    "question": "How many genotypes are possible for ABO blood groups in humans?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct_answer": "C",
+    "explanation": "Three alleles (IA, IB, i) give six possible genotypes in diploid individuals.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "How many phenotypes are possible?",
+    "question": "How many phenotypes (blood group types) are possible for ABO system?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "explanation": "Four blood group phenotypes: A, B, AB, and O.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Here you can see that there are more than two, i.e., three alleles, governing the same character. Since in an individual only two alleles can be present, multiple alleles can be found only when population studies are made.",
+    "question": "Multiple alleles for a gene mean:",
+    "options": {
+      "A": "An individual carries more than two alleles",
+      "B": "More than two alleles exist in the population, but only two per individual",
+      "C": "Only one allele exists in the population",
+      "D": "Alleles are on different chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "Multiple alleles (>2) exist in a population; each diploid individual has only two.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Starch is synthesised effectively by BB homozygotes and therefore, large starch grains are produced. In contrast, bb homozygotes have lesser efficiency in starch synthesis and produce smaller starch grains.",
+    "question": "In pea seeds, BB homozygotes produce:",
+    "options": {
+      "A": "Small starch grains and wrinkled seeds",
+      "B": "Large starch grains and round seeds",
+      "C": "No starch",
+      "D": "Intermediate starch grains only"
+    },
+    "correct_answer": "B",
+    "explanation": "BB plants synthesise starch efficiently, producing large grains and round seeds.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Heterozygotes produce round seeds, and so B seems to be the dominant allele. But, the starch grains produced are of intermediate size in Bb seeds.",
+    "question": "For pea seed shape B is dominant, but for starch grain size Bb shows:",
+    "options": {
+      "A": "Complete dominance",
+      "B": "Incomplete dominance (intermediate size)",
+      "C": "Co-dominance",
+      "D": "Recessive expression"
+    },
+    "correct_answer": "B",
+    "explanation": "Dominance depends on the trait examined; starch grain size shows incomplete dominance in Bb.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Dominance is not an autonomous feature of a gene or the product that it has information for.",
+    "question": "Dominance of an allele depends on:",
+    "options": {
+      "A": "Only the gene sequence",
+      "B": "The gene product and the particular phenotype being examined",
+      "C": "Only the chromosome number",
+      "D": "Environmental factors alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Dominance is context-dependent on gene product function and which phenotype is studied.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Mendel found that the seeds resulting from the crossing of the parents, had yellow coloured and round shaped seeds.",
+    "question": "In a dihybrid cross (yellow round × green wrinkled), F1 seeds are:",
+    "options": {
+      "A": "Green and wrinkled",
+      "B": "Yellow and round",
+      "C": "Yellow and wrinkled",
+      "D": "Green and round"
+    },
+    "correct_answer": "B",
+    "explanation": "F1 shows dominant traits: yellow colour and round shape.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Thus, yellow colour was dominant over green and round shape dominant over wrinkled.",
+    "question": "In pea seed inheritance, which traits are dominant?",
+    "options": {
+      "A": "Green and wrinkled",
+      "B": "Yellow and round",
+      "C": "Green and round",
+      "D": "Yellow and wrinkled"
+    },
+    "correct_answer": "B",
+    "explanation": "Yellow is dominant over green; round is dominant over wrinkled.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The genotype of the parents can then be written as RRYY and rryy. The cross between the two plants can be written down... The gametes RY and ry unite on fertilisation to produce the F1 hybrid RrYy.",
+    "question": "The F1 genotype in a dihybrid cross between RRYY and rryy is:",
+    "options": {
+      "A": "RRyy",
+      "B": "RrYy",
+      "C": "rrYY",
+      "D": "RRYY"
+    },
+    "correct_answer": "B",
+    "explanation": "Gametes RY and ry produce F1 heterozygote RrYy.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In the dihybrid cross (Figure 4.7), the phenotypes round, yellow; wrinkled, yellow; round, green and wrinkled, green appeared in the ratio 9:3:3:1.",
+    "question": "The F2 phenotypic ratio in a typical dihybrid cross is:",
+    "options": {
+      "A": "3:1",
+      "B": "1:2:1",
+      "C": "9:3:3:1",
+      "D": "1:1:1:1"
+    },
+    "correct_answer": "C",
+    "explanation": "Dihybrid F2 gives 9 round-yellow : 3 wrinkled-yellow : 3 round-green : 1 wrinkled-green.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The law states that 'when two pairs of traits are combined in a hybrid, segregation of one pair of characters is independent of the other pair of characters'.",
+    "question": "Mendel's Law of Independent Assortment states that:",
+    "options": {
+      "A": "All genes on one chromosome assort together",
+      "B": "Segregation of one gene pair is independent of another gene pair",
+      "C": "Dominant alleles always stay together",
+      "D": "Recessive alleles are lost in F1"
+    },
+    "correct_answer": "B",
+    "explanation": "Each gene pair segregates independently during gamete formation in dihybrid crosses.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Thus there are four genotypes of gametes (four types of pollen and four types of eggs). The four types are RY, Ry, rY and ry each with a frequency of 25 per cent or 1/4th of the total gametes produced.",
+    "question": "An F1 RrYy plant produces how many types of gametes?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "correct_answer": "B",
+    "explanation": "Independent assortment yields four gamete types: RY, Ry, rY, ry, each at 25%.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Mendel published his work on inheritance of characters in 1865 but for several reasons, it remained unrecognised till 1900.",
+    "question": "Mendel's work remained unrecognised until:",
+    "options": {
+      "A": "1856",
+      "B": "1865",
+      "C": "1900",
+      "D": "1953"
+    },
+    "correct_answer": "C",
+    "explanation": "Published in 1865, Mendel's laws were rediscovered and recognised in 1900.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In 1900, three Scientists (de Vries, Correns and von Tschermak) independently rediscovered Mendel's results on the inheritance of characters.",
+    "question": "Mendel's work was independently rediscovered in 1900 by:",
+    "options": {
+      "A": "Sutton, Boveri and Morgan",
+      "B": "de Vries, Correns and von Tschermak",
+      "C": "Watson and Crick",
+      "D": "Henking and Sturtevant"
+    },
+    "correct_answer": "B",
+    "explanation": "Three scientists independently confirmed Mendel's findings in 1900.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "These were called chromosomes (colored bodies, as they were visualised by staining).",
+    "question": "Chromosomes were named 'colored bodies' because:",
+    "options": {
+      "A": "They determine skin colour",
+      "B": "They were visualised by staining during cell division",
+      "C": "They contain pigments",
+      "D": "They are visible without staining"
+    },
+    "correct_answer": "B",
+    "explanation": "Chromosomes (colored bodies) were seen by staining nuclei during division.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Walter Sutton and Theodore Boveri noted that the behaviour of chromosomes was parallel to the behaviour of genes and used chromosome movement to explain Mendel's laws.",
+    "question": "The chromosomal theory of inheritance was proposed by:",
+    "options": {
+      "A": "Mendel and Punnett",
+      "B": "Walter Sutton and Theodore Boveri",
+      "C": "Morgan and Sturtevant",
+      "D": "Watson and Crick"
+    },
+    "correct_answer": "B",
+    "explanation": "Sutton and Boveri linked chromosome behaviour to Mendelian inheritance.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The two alleles of a gene pair are located on homologous sites on homologous chromosomes.",
+    "question": "The two alleles of a gene pair are located on:",
+    "options": {
+      "A": "The same chromosome at the same locus",
+      "B": "Homologous sites on homologous chromosomes",
+      "C": "Non-homologous chromosomes",
+      "D": "Mitochondria only"
+    },
+    "correct_answer": "B",
+    "explanation": "Alleles occupy corresponding positions on homologous chromosomes.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "During Anaphase of meiosis I, the two chromosome pairs can align at the metaphase plate independently of each other.",
+    "question": "Independent assortment of genes is explained by independent alignment of chromosome pairs during:",
+    "options": {
+      "A": "Prophase I",
+      "B": "Metaphase I of meiosis",
+      "C": "Anaphase II",
+      "D": "Telophase II"
+    },
+    "correct_answer": "B",
+    "explanation": "Homologous pairs align independently at metaphase I, explaining independent assortment.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Morgan worked with the tiny fruit flies, Drosophila melanogaster, which were found very suitable for such studies.",
+    "question": "Thomas Hunt Morgan used which organism for genetic studies?",
+    "options": {
+      "A": "Garden pea",
+      "B": "Escherichia coli",
+      "C": "Drosophila melanogaster",
+      "D": "Neurospora"
+    },
+    "correct_answer": "C",
+    "explanation": "Morgan used fruit fly Drosophila melanogaster for linkage and sex-linkage studies.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "They complete their life cycle in about two weeks, and a single mating could produce a large number of progeny flies.",
+    "question": "Advantages of Drosophila for genetic studies include:",
+    "options": {
+      "A": "Long generation time and few offspring",
+      "B": "Short life cycle (~2 weeks) and large progeny per mating",
+      "C": "No visible sex differences",
+      "D": "Cannot be cultured in laboratory"
+    },
+    "correct_answer": "B",
+    "explanation": "Drosophila has a ~2-week life cycle and produces many offspring per cross.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "He observed that the two genes did not segregate independently of each other and the F2 ratio deviated very significantly from the 9:3:3:1 ratio.",
+    "question": "When two genes are on the same chromosome in Drosophila, the F2 ratio:",
+    "options": {
+      "A": "Is exactly 9:3:3:1",
+      "B": "Deviates significantly from 9:3:3:1",
+      "C": "Is always 3:1",
+      "D": "Is 1:1:1:1"
+    },
+    "correct_answer": "B",
+    "explanation": "Linked genes on the same chromosome do not assort independently.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Morgan attributed this due to the physical association or linkage of the two genes and coined the term linkage to describe this physical association of genes on a chromosome.",
+    "question": "Linkage refers to:",
+    "options": {
+      "A": "Independent segregation of genes",
+      "B": "Physical association of genes on the same chromosome",
+      "C": "Genes on different chromosomes",
+      "D": "Mutation of linked genes"
+    },
+    "correct_answer": "B",
+    "explanation": "Linkage is the physical association of genes on one chromosome.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The term recombination to describe the generation of non-parental gene combinations.",
+    "question": "Recombination produces:",
+    "options": {
+      "A": "Only parental gene combinations",
+      "B": "Non-parental gene combinations",
+      "C": "Identical gametes",
+      "D": "No genetic variation"
+    },
+    "correct_answer": "B",
+    "explanation": "Recombination generates new combinations of alleles not seen in parents.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "For example he found that the genes white and yellow were very tightly linked and showed only 1.3 per cent recombination while white and miniature wing showed 37.2 per cent recombination.",
+    "question": "In Morgan's Drosophila crosses, white and yellow genes showed recombination of:",
+    "options": {
+      "A": "37.2%",
+      "B": "50%",
+      "C": "1.3%",
+      "D": "25%"
+    },
+    "correct_answer": "C",
+    "explanation": "White and yellow are tightly linked with only 1.3% recombination.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "His student Alfred Sturtevant used the frequency of recombination between gene pairs on the same chromosome as a measure of the distance between genes and 'mapped' their position on the chromosome.",
+    "question": "Alfred Sturtevant used recombination frequency to:",
+    "options": {
+      "A": "Count chromosomes",
+      "B": "Map gene positions on chromosomes",
+      "C": "Identify mutagens",
+      "D": "Determine blood groups"
+    },
+    "correct_answer": "B",
+    "explanation": "Sturtevant created the first genetic maps using recombination frequencies.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Such traits are generally controlled by three or more genes and are thus called as polygenic traits.",
+    "question": "Polygenic traits are controlled by:",
+    "options": {
+      "A": "A single gene only",
+      "B": "Three or more genes",
+      "C": "Only sex chromosomes",
+      "D": "One allele"
+    },
+    "correct_answer": "B",
+    "explanation": "Polygenic traits like human height involve three or more genes.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Besides the involvement of multiple genes polygenic inheritance also takes into account the influence of environment.",
+    "question": "Polygenic inheritance in traits like human skin colour also involves:",
+    "options": {
+      "A": "Only single gene effect",
+      "B": "Environmental influence along with multiple genes",
+      "C": "No genetic component",
+      "D": "Only sex linkage"
+    },
+    "correct_answer": "B",
+    "explanation": "Polygenic traits reflect additive gene effects plus environmental influence.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In a polygenic trait the phenotype reflects the contribution of each allele, i.e., the effect of each allele is additive.",
+    "question": "In polygenic inheritance, the effect of each allele is:",
+    "options": {
+      "A": "Always dominant",
+      "B": "Additive",
+      "C": "Always recessive",
+      "D": "Co-dominant only"
+    },
+    "correct_answer": "B",
+    "explanation": "Each contributing allele adds to the phenotype in polygenic traits.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Such a gene is called a pleiotropic gene. The underlying mechanism of pleiotropy in most cases is the effect of a gene on metabolic pathways which contribute towards different phenotypes.",
+    "question": "A pleiotropic gene:",
+    "options": {
+      "A": "Affects only one trait",
+      "B": "Exhibits multiple phenotypic effects through metabolic pathways",
+      "C": "Is always on the Y chromosome",
+      "D": "Cannot mutate"
+    },
+    "correct_answer": "B",
+    "explanation": "Pleiotropy: one gene influences multiple phenotypes via shared metabolic pathways.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "An example of this is the disease phenylketonuria, which occurs in humans. The disease is caused by mutation in the gene that codes for the enzyme phenyl alanine hydroxylase (single gene mutation). This manifests itself through phenotypic expression characterised by mental retardation and a reduction in hair and skin pigmentation.",
+    "question": "Phenylketonuria (PKU) as an example of pleiotropy shows:",
+    "options": {
+      "A": "Only one symptom from one gene",
+      "B": "Mental retardation and reduced pigmentation from a single gene mutation",
+      "C": "Only blood clotting defects",
+      "D": "Only skeletal abnormalities"
+    },
+    "correct_answer": "B",
+    "explanation": "PKU from one gene mutation causes multiple effects: mental retardation and hypopigmentation.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Henking (1891) could trace a specific nuclear structure all through spermatogenesis in a few insects, and it was also observed by him that 50 per cent of the sperm received this structure after spermatogenesis, whereas the other 50 per cent sperm did not receive it.",
+    "question": "Henking (1891) observed that 50% of sperm received a structure later named:",
+    "options": {
+      "A": "Y chromosome",
+      "B": "X body (X chromosome)",
+      "C": "Autosome",
+      "D": "Nucleolus"
+    },
+    "correct_answer": "B",
+    "explanation": "Henking's X body was later identified as the X chromosome.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Grasshopper is an example of XO type of sex determination in which the males have only one X-chromosome besides the autosomes, whereas females have a pair of X-chromosomes.",
+    "question": "In XO type sex determination (e.g., grasshopper), males have:",
+    "options": {
+      "A": "XX chromosomes",
+      "B": "One X chromosome plus autosomes",
+      "C": "XY chromosomes",
+      "D": "No sex chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "XO males have one X; females have XX with equal autosome numbers.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In human beings and in Drosophila the males have one X and one Y chromosome, whereas females have a pair of X-chromosomes besides autosomes.",
+    "question": "In humans and Drosophila, female sex chromosomes are:",
+    "options": {
+      "A": "XY",
+      "B": "XX",
+      "C": "XO",
+      "D": "ZW"
+    },
+    "correct_answer": "B",
+    "explanation": "Females are XX; males are XY in humans and Drosophila.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Such types of sex determination mechanism is designated to be the example of male heterogamety.",
+    "question": "Male heterogamety means males produce:",
+    "options": {
+      "A": "Only one type of gamete",
+      "B": "Two types of gametes differing in sex chromosomes",
+      "C": "Gametes without chromosomes",
+      "D": "Only X-bearing gametes"
+    },
+    "correct_answer": "B",
+    "explanation": "Male heterogamety: males produce X- and Y-bearing (or X and no-X) gametes.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In these organisms the females have one Z and one W chromosome, whereas males have a pair of Z-chromosomes besides the autosomes.",
+    "question": "In birds, female sex chromosomes are:",
+    "options": {
+      "A": "ZZ",
+      "B": "ZW",
+      "C": "XX",
+      "D": "XY"
+    },
+    "correct_answer": "B",
+    "explanation": "Birds show female heterogamety: females ZW, males ZZ.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Out of 23 pairs of chromosomes present, 22 pairs are exactly same in both males and females; these are the autosomes.",
+    "question": "In humans, autosomes number:",
+    "options": {
+      "A": "23 pairs",
+      "B": "22 pairs",
+      "C": "1 pair",
+      "D": "46 pairs"
+    },
+    "correct_answer": "B",
+    "explanation": "Humans have 22 pairs of autosomes plus 1 pair of sex chromosomes.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "50 per cent of the total sperm produced carry the X-chromosome and the rest 50 per cent has Y-chromosome besides the autosomes.",
+    "question": "In human males, sperm produced contain:",
+    "options": {
+      "A": "100% X chromosome",
+      "B": "50% X-bearing and 50% Y-bearing sperm",
+      "C": "100% Y chromosome",
+      "D": "No sex chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "Spermatogenesis yields equal numbers of X-bearing and Y-bearing sperm.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Thus, it is evident that it is the genetic makeup of the sperm that determines the sex of the child.",
+    "question": "In humans, the sex of the child is determined by:",
+    "options": {
+      "A": "The mother's egg only",
+      "B": "The genetic makeup of the sperm",
+      "C": "Environmental temperature",
+      "D": "Maternal diet"
+    },
+    "correct_answer": "B",
+    "explanation": "Egg always carries X; sperm carries X or Y, determining offspring sex.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "An offspring formed from the union of a sperm and an egg develops as a female (queen or worker), and an unfertilised egg develops as a male (drone) by means of parthenogenesis.",
+    "question": "In honey bees, males (drones) develop from:",
+    "options": {
+      "A": "Fertilised eggs",
+      "B": "Unfertilised eggs by parthenogenesis",
+      "C": "Fusion of two eggs",
+      "D": "Only queen cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Unfertilised eggs develop into haploid male drones.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The females are diploid having 32 chromosomes and males are haploid, i.e., having 16 chromosomes.",
+    "question": "In honey bees, females have how many chromosomes?",
+    "options": {
+      "A": "16 (haploid)",
+      "B": "32 (diploid)",
+      "C": "48",
+      "D": "64"
+    },
+    "correct_answer": "B",
+    "explanation": "Female bees are diploid (32 chromosomes); drones are haploid (16).",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "This is called as haplodiploid sex-determination system and has special characteristic features such as the males produce sperms by mitosis, they do not have father and thus cannot have sons, but have a grandfather and can have grandsons.",
+    "question": "In honey bee haplodiploidy, drones:",
+    "options": {
+      "A": "Have a father and can have sons",
+      "B": "Produce sperm by mitosis, have no father, and cannot have sons",
+      "C": "Are diploid",
+      "D": "Develop from fertilised eggs"
+    },
+    "correct_answer": "B",
+    "explanation": "Haploid drones arise parthenogenetically; they produce sperm by mitosis and lack a father.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Mutation is a phenomenon which results in alteration of DNA sequences and consequently results in changes in the genotype and the phenotype of an organism.",
+    "question": "Mutation is defined as:",
+    "options": {
+      "A": "Normal DNA replication",
+      "B": "Alteration of DNA sequences leading to genotype and phenotype changes",
+      "C": "Only chromosomal pairing",
+      "D": "Crossing over only"
+    },
+    "correct_answer": "B",
+    "explanation": "Mutations change DNA sequence, affecting genotype and phenotype.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In addition to recombination, mutation is another phenomenon that leads to variation in DNA.",
+    "question": "Besides recombination, variation in DNA arises through:",
+    "options": {
+      "A": "Only mitosis",
+      "B": "Mutation",
+      "C": "Only fertilisation",
+      "D": "Binary fission only"
+    },
+    "correct_answer": "B",
+    "explanation": "Mutation and recombination both introduce DNA variation.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "This is known as point mutation. A classical example of such a mutation is sickle cell anemia.",
+    "question": "A change in a single base pair of DNA is called:",
+    "options": {
+      "A": "Polyploidy",
+      "B": "Point mutation",
+      "C": "Deletion of a chromosome",
+      "D": "Aneuploidy"
+    },
+    "correct_answer": "B",
+    "explanation": "Point mutation involves alteration of a single base pair; sickle cell anaemia is an example.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Deletions and insertions of base pairs of DNA, causes frame-shift mutations (see Chapter 5).",
+    "question": "Frame-shift mutations are caused by:",
+    "options": {
+      "A": "Single base substitution only",
+      "B": "Deletions or insertions of base pairs",
+      "C": "Chromosome duplication only",
+      "D": "Crossing over"
+    },
+    "correct_answer": "B",
+    "explanation": "Insertions/deletions shift the reading frame, causing frame-shift mutations.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Chromosomal aberrations are commonly observed in cancer cells.",
+    "question": "Chromosomal aberrations are commonly seen in:",
+    "options": {
+      "A": "Normal somatic cells only",
+      "B": "Cancer cells",
+      "C": "Gametes only",
+      "D": "Prokaryotes only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cancer cells frequently show chromosomal abnormalities.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "These are referred to as mutagens. UV radiations can cause mutations in organisms – it is a mutagen.",
+    "question": "UV radiation is an example of a:",
+    "options": {
+      "A": "Antibiotic",
+      "B": "Mutagen",
+      "C": "Hormone",
+      "D": "Vitamin"
+    },
+    "correct_answer": "B",
+    "explanation": "Mutagens like UV radiation induce mutations in DNA.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Such an analysis of traits in a several of generations of a family is called the pedigree analysis.",
+    "question": "Pedigree analysis is:",
+    "options": {
+      "A": "Crossing two pea plants",
+      "B": "Analysis of trait inheritance over generations in a family tree",
+      "C": "Counting chromosomes only",
+      "D": "Studying only bacterial genetics"
+    },
+    "correct_answer": "B",
+    "explanation": "Pedigree analysis traces inheritance patterns across family generations.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Since it is evident that control crosses that can be performed in pea plant or some other organisms, are not possible in case of human beings, study of the family history about inheritance of a particular trait provides an alternative.",
+    "question": "Pedigree analysis is used in humans because:",
+    "options": {
+      "A": "Humans have no genes",
+      "B": "Controlled crosses are not possible in humans",
+      "C": "Human chromosomes cannot be studied",
+      "D": "Mendel's laws do not apply to humans"
+    },
+    "correct_answer": "B",
+    "explanation": "Family history replaces controlled breeding experiments in human genetics.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Mendelian disorders are mainly determined by alteration or mutation in the single gene.",
+    "question": "Mendelian disorders are caused by:",
+    "options": {
+      "A": "Whole chromosome loss only",
+      "B": "Alteration or mutation in a single gene",
+      "C": "Only environmental factors",
+      "D": "Polyploidy only"
+    },
+    "correct_answer": "B",
+    "explanation": "Mendelian disorders involve single-gene mutations following Mendelian ratios.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Most common and prevalent Mendelian disorders are Haemophilia, Cystic fibrosis, Sickle-cell anaemia, Colour blindness, Phenylketonuria, Thalassemia, etc.",
+    "question": "Which of the following is a Mendelian disorder?",
+    "options": {
+      "A": "Down's syndrome",
+      "B": "Turner's syndrome",
+      "C": "Sickle-cell anaemia",
+      "D": "Klinefelter's syndrome"
+    },
+    "correct_answer": "C",
+    "explanation": "Sickle-cell anaemia is a single-gene Mendelian disorder; others listed are chromosomal.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Colour Blindness: It is a sex-linked recessive disorder due to defect in either red or green cone of eye resulting in failure to discriminate between red and green colour.",
+    "question": "Colour blindness is a:",
+    "options": {
+      "A": "Autosomal dominant disorder",
+      "B": "Sex-linked recessive disorder affecting red-green discrimination",
+      "C": "Chromosomal trisomy",
+      "D": "Polygenic trait only"
+    },
+    "correct_answer": "B",
+    "explanation": "Colour blindness is X-linked recessive, affecting red/green cone function.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "It occurs in about 8 per cent of males and only about 0.4 per cent of females.",
+    "question": "Colour blindness occurs in approximately what percentage of males?",
+    "options": {
+      "A": "0.4%",
+      "B": "8%",
+      "C": "50%",
+      "D": "25%"
+    },
+    "correct_answer": "B",
+    "explanation": "About 8% of males and 0.4% of females have red-green colour blindness.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Haemophilia : This sex linked recessive disease, which shows its transmission from unaffected carrier female to some of the male progeny has been widely studied.",
+    "question": "Haemophilia is transmitted from:",
+    "options": {
+      "A": "Affected father to all daughters",
+      "B": "Carrier female to some male progeny",
+      "C": "Mother to all children equally",
+      "D": "Only through Y chromosome"
+    },
+    "correct_answer": "B",
+    "explanation": "X-linked recessive haemophilia passes from carrier mothers to affected sons.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In this disease, a single protein that is a part of the cascade of proteins involved in the clotting of blood is affected.",
+    "question": "Haemophilia affects:",
+    "options": {
+      "A": "Haemoglobin structure",
+      "B": "A protein in the blood clotting cascade",
+      "C": "RBC shape only",
+      "D": "Skin pigmentation enzyme"
+    },
+    "correct_answer": "B",
+    "explanation": "Defective clotting factor causes prolonged bleeding in haemophilia.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The family pedigree of Queen Victoria shows a number of haemophilic descendents as she was a carrier of the disease.",
+    "question": "Queen Victoria's pedigree is famous for showing transmission of:",
+    "options": {
+      "A": "Sickle-cell anaemia",
+      "B": "Haemophilia",
+      "C": "Down's syndrome",
+      "D": "PKU only"
+    },
+    "correct_answer": "B",
+    "explanation": "Queen Victoria was a haemophilia carrier; the trait appeared in European royalty.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Sickle-cell anaemia : This is an autosome linked recessive trait that can be transmitted from parents to the offspring when both the partners are carrier for the gene (or heterozygous).",
+    "question": "Sickle-cell anaemia is inherited as:",
+    "options": {
+      "A": "X-linked dominant",
+      "B": "Autosomal recessive",
+      "C": "Y-linked",
+      "D": "Chromosomal trisomy"
+    },
+    "correct_answer": "B",
+    "explanation": "Sickle-cell anaemia is an autosomal recessive disorder.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The disease is controlled by a single pair of allele, HbA and HbS. Out of the three possible genotypes only homozygous individuals for HbS (HbS HbS) show the diseased phenotype.",
+    "question": "Individuals with which genotype show sickle-cell disease?",
+    "options": {
+      "A": "HbA HbA",
+      "B": "HbA HbS (carrier)",
+      "C": "HbS HbS",
+      "D": "HbA HbA HbS"
+    },
+    "correct_answer": "C",
+    "explanation": "Only HbS HbS homozygotes show the diseased phenotype.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The defect is caused by the substitution of Glutamic acid (Glu) by Valine (Val) at the sixth position of the beta globin chain of the haemoglobin molecule.",
+    "question": "In sickle-cell anaemia, which amino acid replaces glutamic acid at position 6 of beta globin?",
+    "options": {
+      "A": "Phenylalanine",
+      "B": "Valine",
+      "C": "Tyrosine",
+      "D": "Alanine"
+    },
+    "correct_answer": "B",
+    "explanation": "Glu → Val substitution at position 6 of β-globin causes sickle haemoglobin.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The substitution of amino acid in the globin protein results due to the single base substitution at the sixth codon of the beta globin gene from GAG to GUG.",
+    "question": "The point mutation in sickle-cell anaemia changes the beta globin codon from:",
+    "options": {
+      "A": "GAG to GUG",
+      "B": "GUG to GAG",
+      "C": "AUG to UAG",
+      "D": "CGG to TGG"
+    },
+    "correct_answer": "A",
+    "explanation": "Single base change GAG (Glu) → GUG (Val) at codon 6 causes sickling.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The mutant haemoglobin molecule undergoes polymerisation under low oxygen tension causing the change in the shape of the RBC from biconcave disc to elongated sickle like structure.",
+    "question": "Sickle-shaped RBCs result from haemoglobin polymerisation under:",
+    "options": {
+      "A": "High oxygen tension",
+      "B": "Low oxygen tension",
+      "C": "High CO2 only",
+      "D": "Alkaline pH only"
+    },
+    "correct_answer": "B",
+    "explanation": "HbS polymerises at low O₂, distorting RBCs into sickle shape.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Phenylketonuria: This inborn error of metabolism is also inherited as the autosomal recessive trait. The affected individual lacks an enzyme that converts the amino acid phenylalanine into tyrosine.",
+    "question": "Phenylketonuria (PKU) results from deficiency of enzyme converting:",
+    "options": {
+      "A": "Tyrosine to phenylalanine",
+      "B": "Phenylalanine to tyrosine",
+      "C": "Glucose to glycogen",
+      "D": "Haemoglobin to myoglobin"
+    },
+    "correct_answer": "B",
+    "explanation": "PKU: missing phenylalanine hydroxylase; phenylalanine accumulates.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Accumulation of these in brain results in mental retardation. These are also excreted through urine because of its poor absorption by kidney.",
+    "question": "In PKU, accumulated phenylalanine derivatives cause:",
+    "options": {
+      "A": "Only skin darkening",
+      "B": "Mental retardation and urinary excretion of derivatives",
+      "C": "Blood clotting defects",
+      "D": "Sickle-shaped RBCs"
+    },
+    "correct_answer": "B",
+    "explanation": "Phenylalanine metabolites accumulate in brain (mental retardation) and appear in urine.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Thalassemia: This is also an autosome-linked recessive blood disease transmitted from parents to the offspring when both the partners are unaffected carrier for the gene (or heterozygous).",
+    "question": "Thalassemia is inherited as:",
+    "options": {
+      "A": "X-linked dominant",
+      "B": "Autosomal recessive blood disease",
+      "C": "Y-linked",
+      "D": "Trisomy 21"
+    },
+    "correct_answer": "B",
+    "explanation": "Thalassemia is autosomal recessive, requiring carrier parents.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The defect could be due to either mutation or deletion which ultimately results in reduced rate of synthesis of one of the globin chains (α and β chains) that make up haemoglobin.",
+    "question": "Thalassemia involves:",
+    "options": {
+      "A": "Abnormal amino acid in globin",
+      "B": "Reduced synthesis of alpha or beta globin chains",
+      "C": "Extra chromosome 21",
+      "D": "Clotting factor deficiency"
+    },
+    "correct_answer": "B",
+    "explanation": "Thalassemia is a quantitative defect — too few α or β globin chains.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Thalassemia differs from sickle-cell anaemia in that the former is a quantitative problem of synthesising too few globin molecules while the latter is a qualitative problem of synthesising an incorrectly functioning globin.",
+    "question": "Thalassemia differs from sickle-cell anaemia because thalassemia is:",
+    "options": {
+      "A": "Qualitative globin defect",
+      "B": "Quantitative — too few globin molecules synthesized",
+      "C": "X-linked only",
+      "D": "Caused by trisomy"
+    },
+    "correct_answer": "B",
+    "explanation": "Thalassemia = reduced globin quantity; sickle-cell = abnormal globin quality.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Failure of segregation of chromatids during cell division cycle results in the gain or loss of a chromosome(s), called aneuploidy.",
+    "question": "Gain or loss of chromosome(s) due to failed chromatid segregation is called:",
+    "options": {
+      "A": "Polyploidy",
+      "B": "Aneuploidy",
+      "C": "Crossing over",
+      "D": "Point mutation"
+    },
+    "correct_answer": "B",
+    "explanation": "Aneuploidy is abnormal chromosome number from mis-segregation.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "For example, Down's syndrome results in the gain of extra copy of chromosome 21.",
+    "question": "Down's syndrome is caused by:",
+    "options": {
+      "A": "Loss of chromosome X",
+      "B": "Trisomy of chromosome 21",
+      "C": "XXY karyotype",
+      "D": "Deletion of chromosome 11"
+    },
+    "correct_answer": "B",
+    "explanation": "Down's syndrome = trisomy 21 (extra copy of chromosome 21).",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Similarly, Turner's syndrome results due to loss of an X chromosome in human females.",
+    "question": "Turner's syndrome results from:",
+    "options": {
+      "A": "Extra X chromosome (XXY)",
+      "B": "Loss of an X chromosome (45, X0)",
+      "C": "Trisomy 21",
+      "D": "Polyploidy"
+    },
+    "correct_answer": "B",
+    "explanation": "Turner's syndrome: monosomy X, karyotype 45, X0.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Failure of cytokinesis after telophase stage of cell division results in an increase in a whole set of chromosomes in an organism and, this phenomenon is known as polyploidy.",
+    "question": "Polyploidy results from:",
+    "options": {
+      "A": "Point mutation",
+      "B": "Failure of cytokinesis leading to extra whole chromosome sets",
+      "C": "Single gene deletion",
+      "D": "Crossing over only"
+    },
+    "correct_answer": "B",
+    "explanation": "Polyploidy: entire chromosome sets duplicated; common in plants.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The total number of chromosomes in a normal human cell is 46 (23 pairs). Out of these 22 pairs are autosomes and one pair of chromosomes are sex chromosome.",
+    "question": "A normal human somatic cell contains:",
+    "options": {
+      "A": "23 chromosomes",
+      "B": "46 chromosomes (23 pairs)",
+      "C": "48 chromosomes",
+      "D": "44 chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "Normal human cells have 46 chromosomes: 22 autosomal pairs + 1 sex pair.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Down's Syndrome: The cause of this genetic disorder is the presence of an additional copy of the chromosome number 21 (trisomy of 21). This disorder was first described by Langdon Down (1866).",
+    "question": "Down's syndrome was first described by:",
+    "options": {
+      "A": "Gregor Mendel",
+      "B": "Langdon Down (1866)",
+      "C": "Thomas Hunt Morgan",
+      "D": "Henking"
+    },
+    "correct_answer": "B",
+    "explanation": "Langdon Down described the syndrome in 1866.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The affected individual is short statured with small round head, furrowed tongue and partially open mouth.",
+    "question": "Features of Down's syndrome include:",
+    "options": {
+      "A": "Tall stature and normal cognition",
+      "B": "Short stature, round head, furrowed tongue, and mental retardation",
+      "C": "Gynaecomastia and sterility in females",
+      "D": "Only blood clotting defects"
+    },
+    "correct_answer": "B",
+    "explanation": "Down's syndrome: short stature, characteristic facies, and developmental delay.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Klinefelter's Syndrome: This genetic disorder is also caused due to the presence of an additional copy of X-chromosome resulting into a karyotype of 47, XXY.",
+    "question": "Klinefelter's syndrome karyotype is:",
+    "options": {
+      "A": "45, X0",
+      "B": "47, XXY",
+      "C": "46, XY",
+      "D": "47, XXX only without Y"
+    },
+    "correct_answer": "B",
+    "explanation": "Klinefelter's: extra X chromosome, karyotype 47, XXY.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Such an individual has overall masculine development, however, the feminine development (development of breast, i.e., Gynaecomastia) is also expressed. Such individuals are sterile.",
+    "question": "Klinefelter's syndrome individuals are:",
+    "options": {
+      "A": "Females with rudimentary ovaries",
+      "B": "Sterile males with gynaecomastia",
+      "C": "Fertile females",
+      "D": "Normal fertile males"
+    },
+    "correct_answer": "B",
+    "explanation": "XXY males show masculine features, breast development, and sterility.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Turner's Syndrome: Such a disorder is caused due to the absence of one of the X chromosomes, i.e., 45 with X0. Such females are sterile as ovaries are rudimentary.",
+    "question": "Turner's syndrome females:",
+    "options": {
+      "A": "Have XXY karyotype",
+      "B": "Are sterile with rudimentary ovaries (45, X0)",
+      "C": "Have trisomy 21",
+      "D": "Are fertile with normal secondary sexual characters"
+    },
+    "correct_answer": "B",
+    "explanation": "Turner's (45, X0): sterile females with underdeveloped ovaries.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Occasionally, a single gene product may produce more than one effect.",
+    "question": "When one gene affects multiple traits, it illustrates:",
+    "options": {
+      "A": "Polygenic inheritance",
+      "B": "Pleiotropy",
+      "C": "Co-dominance",
+      "D": "Incomplete dominance"
+    },
+    "correct_answer": "B",
+    "explanation": "Pleiotropy: one gene product influences multiple phenotypic effects.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "IA and IB are completely dominant over i, in other words when IA and i are present only IA expresses.",
+    "question": "Genotype IAi produces blood group:",
+    "options": {
+      "A": "O",
+      "B": "A",
+      "C": "B",
+      "D": "AB"
+    },
+    "correct_answer": "B",
+    "explanation": "IA is dominant over i; IAi individuals have blood group A.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Mendel self-pollinated the F2 plants and found that dwarf F2 plants continued to generate dwarf plants in F3 and F4 generations.",
+    "question": "Self-pollination of dwarf F2 plants produces:",
+    "options": {
+      "A": "All tall plants",
+      "B": "All dwarf plants in subsequent generations",
+      "C": "3:1 tall:dwarf ratio",
+      "D": "No seeds"
+    },
+    "correct_answer": "B",
+    "explanation": "Dwarf F2 plants are homozygous tt and breed true for dwarfness.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Sutton united the knowledge of chromosomal segregation with Mendelian principles and called it the chromosomal theory of inheritance.",
+    "question": "Who united chromosomal segregation with Mendelian principles?",
+    "options": {
+      "A": "Boveri alone",
+      "B": "Sutton",
+      "C": "Mendel",
+      "D": "Morgan alone"
+    },
+    "correct_answer": "B",
+    "explanation": "Sutton integrated chromosome behaviour with Mendel's laws.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Experimental verification of the chromosomal theory of inheritance by Thomas Hunt Morgan and his colleagues, led to discovering the basis for the variation that sexual reproduction produced.",
+    "question": "Experimental verification of the chromosomal theory was done by:",
+    "options": {
+      "A": "Sutton and Boveri only",
+      "B": "Thomas Hunt Morgan and colleagues",
+      "C": "Mendel",
+      "D": "Henking"
+    },
+    "correct_answer": "B",
+    "explanation": "Morgan's Drosophila work experimentally confirmed the chromosomal theory.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Morgan and his group knew that the genes were located on the X chromosome.",
+    "question": "In Morgan's sex-linked Drosophila crosses, the genes studied were on:",
+    "options": {
+      "A": "Y chromosome only",
+      "B": "X chromosome",
+      "C": "Mitochondria",
+      "D": "Autosome 1 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Morgan's dihybrid crosses involved X-linked genes in fruit flies.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In α Thalassemia, production of α globin chain is affected while in β Thalassemia, production of β globin chain is affected.",
+    "question": "Beta thalassemia affects synthesis of:",
+    "options": {
+      "A": "Alpha globin chain",
+      "B": "Beta globin chain",
+      "C": "Both chains equally always",
+      "D": "Clotting factors"
+    },
+    "correct_answer": "B",
+    "explanation": "β thalassemia reduces β globin chain production.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Broadly, genetic disorders may be grouped into two categories – Mendelian disorders and Chromosomal disorders.",
+    "question": "Genetic disorders are broadly classified into:",
+    "options": {
+      "A": "Dominant and recessive only",
+      "B": "Mendelian disorders and chromosomal disorders",
+      "C": "Infectious and non-infectious",
+      "D": "Somatic and germinal only"
+    },
+    "correct_answer": "B",
+    "explanation": "Disorders arise from single-gene (Mendelian) or whole/partial chromosome (chromosomal) changes.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Heterozygous (HbA HbS) individuals appear apparently unaffected but they are carrier of the disease as there is 50 per cent probability of transmission of the mutant gene to the progeny, thus exhibiting sickle-cell trait.",
+    "question": "Heterozygous HbA HbS individuals exhibit:",
+    "options": {
+      "A": "Full sickle-cell disease",
+      "B": "Sickle-cell trait (carriers, apparently unaffected)",
+      "C": "No HbS allele",
+      "D": "Haemophilia"
+    },
+    "correct_answer": "B",
+    "explanation": "HbA HbS carriers show sickle-cell trait without full disease.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "The ratio of 9:3:3:1 can be derived as a combination series of 3 yellow:1 green, with 3 round :1 wrinkled.",
+    "question": "The 9:3:3:1 dihybrid ratio equals:",
+    "options": {
+      "A": "(3:1) × (3:1)",
+      "B": "(1:1) × (1:1)",
+      "C": "(2:1) × (2:1)",
+      "D": "(9:1) only"
+    },
+    "correct_answer": "A",
+    "explanation": "9:3:3:1 = product of two independent 3:1 monohybrid ratios.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "Do not use T for tall and d for dwarf because you will find it difficult to remember whether T and d are alleles of the same gene/character or not.",
+    "question": "Alleles of the same gene should be denoted by:",
+    "options": {
+      "A": "Different letters like T and d",
+      "B": "Same letter in capital and lowercase (e.g., T and t)",
+      "C": "Numbers only",
+      "D": "Greek letters only"
+    },
+    "correct_answer": "B",
+    "explanation": "Capital and lowercase of the same letter indicate alleles of one gene.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "DNA is the carrier of genetic information. It is hence transmitted from one generation to the other without any change or alteration.",
+    "question": "The carrier of genetic information transmitted across generations is:",
+    "options": {
+      "A": "RNA only",
+      "B": "DNA",
+      "C": "Protein",
+      "D": "Lipid"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA carries genetic information from generation to generation.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  },
+  {
+    "source_sentence": "In each pregnancy there is always 50 per cent probability of either a male or a female child.",
+    "question": "The probability of a male child in each human pregnancy is:",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "75%",
+      "D": "100%"
+    },
+    "correct_answer": "B",
+    "explanation": "Equal numbers of X- and Y-bearing sperm give 50% chance of male or female.",
+    "chapter": "Chapter 4: Principles of Inheritance and Variation"
+  }
+]

@@ -1,0 +1,1432 @@
+[
+  {
+    "source_sentence": "Blood is a special connective tissue consisting of a fluid matrix, plasma, and formed elements.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood is classified as a special connective tissue because it consists of:",
+    "options": {
+      "A": "Only water and minerals",
+      "B": "A fluid matrix (plasma) and formed elements",
+      "C": "Solid bone matrix only",
+      "D": "Nerve fibres and myelin"
+    },
+    "correct_answer": "B",
+    "explanation": "Blood has plasma as matrix and formed elements."
+  },
+  {
+    "source_sentence": "Plasma is a straw coloured, viscous fluid constituting nearly 55 per cent of the blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Plasma constitutes approximately what percentage of total blood volume?",
+    "options": {
+      "A": "45%",
+      "B": "55%",
+      "C": "65%",
+      "D": "75%"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasma makes up nearly 55% of blood."
+  },
+  {
+    "source_sentence": "90-92 per cent of plasma is water and proteins contribute 6-8 per cent of it.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The approximate composition of plasma is:",
+    "options": {
+      "A": "50% water and 50% proteins",
+      "B": "90-92% water and 6-8% proteins",
+      "C": "70% water and 30% lipids",
+      "D": "80% minerals and 20% water"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasma is mostly water with 6-8% proteins."
+  },
+  {
+    "source_sentence": "Fibrinogen, globulins and albumin are the major proteins.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which are the major proteins present in blood plasma?",
+    "options": {
+      "A": "Keratin, collagen and elastin",
+      "B": "Fibrinogen, globulins and albumin",
+      "C": "Actin, myosin and troponin",
+      "D": "Insulin, glucagon and thyroxine"
+    },
+    "correct_answer": "B",
+    "explanation": "Fibrinogen, globulins and albumin are major plasma proteins."
+  },
+  {
+    "source_sentence": "Fibrinogens are needed for clotting or coagulation of blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The plasma protein primarily involved in blood clotting is:",
+    "options": {
+      "A": "Albumin",
+      "B": "Globulin",
+      "C": "Fibrinogen",
+      "D": "Haemoglobin"
+    },
+    "correct_answer": "C",
+    "explanation": "Fibrinogen is essential for coagulation."
+  },
+  {
+    "source_sentence": "Globulins primarily are involved in defense mechanisms of the body",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Globulins in plasma are primarily involved in:",
+    "options": {
+      "A": "Osmotic balance",
+      "B": "Blood clotting",
+      "C": "Defense mechanisms of the body",
+      "D": "Gas transport"
+    },
+    "correct_answer": "C",
+    "explanation": "Globulins participate in body defense."
+  },
+  {
+    "source_sentence": "the albumin help in osmotic balance.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Albumin in plasma helps maintain:",
+    "options": {
+      "A": "Osmotic balance",
+      "B": "Blood clotting",
+      "C": "Immune responses",
+      "D": "pH of stomach"
+    },
+    "correct_answer": "A",
+    "explanation": "Albumin maintains osmotic balance."
+  },
+  {
+    "source_sentence": "Plasma also contains small amounts of minerals like Na⁺, Ca⁺, Mg²⁺, HCO₃⁻, Cl⁻, etc.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which of the following minerals is present in blood plasma?",
+    "options": {
+      "A": "Na⁺",
+      "B": "Fe³⁺ only",
+      "C": "K⁺ only",
+      "D": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "Plasma contains Na⁺, Ca²⁺, Mg²⁺, HCO₃⁻, Cl⁻, etc."
+  },
+  {
+    "source_sentence": "Plasma without the clotting factors is called serum.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Plasma from which clotting factors have been removed is called:",
+    "options": {
+      "A": "Lymph",
+      "B": "Serum",
+      "C": "Interstitial fluid",
+      "D": "Haemolysate"
+    },
+    "correct_answer": "B",
+    "explanation": "Serum is plasma without clotting factors."
+  },
+  {
+    "source_sentence": "Erythrocytes, leucocytes and platelets are collectively called formed elements",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The formed elements of blood include:",
+    "options": {
+      "A": "Erythrocytes, leucocytes and platelets",
+      "B": "Plasma proteins only",
+      "C": "Fibrinogen and thrombin",
+      "D": "Lymphocytes alone"
+    },
+    "correct_answer": "A",
+    "explanation": "Formed elements are RBCs, WBCs and platelets."
+  },
+  {
+    "source_sentence": "they constitute nearly 45 per cent of the blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Formed elements constitute approximately what percentage of blood?",
+    "options": {
+      "A": "25%",
+      "B": "35%",
+      "C": "45%",
+      "D": "55%"
+    },
+    "correct_answer": "C",
+    "explanation": "Formed elements make up nearly 45% of blood."
+  },
+  {
+    "source_sentence": "Erythrocytes or red blood cells (RBC) are the most abundant of all the cells in blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which formed element is most abundant in blood?",
+    "options": {
+      "A": "Leucocytes",
+      "B": "Platelets",
+      "C": "Erythrocytes",
+      "D": "Monocytes"
+    },
+    "correct_answer": "C",
+    "explanation": "RBCs are the most abundant blood cells."
+  },
+  {
+    "source_sentence": "A healthy adult man has, on an average, 5 millions to 5.5 millions of RBCs mm⁻³ of blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The average RBC count in a healthy adult man is approximately:",
+    "options": {
+      "A": "5,000–5,500 per mm³",
+      "B": "50,000–55,000 per mm³",
+      "C": "5–5.5 million per mm³",
+      "D": "500–550 per mm³"
+    },
+    "correct_answer": "C",
+    "explanation": "Healthy adult men have 5–5.5 million RBCs/mm³."
+  },
+  {
+    "source_sentence": "RBCs are formed in the red bone marrow in the adults.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "In adults, erythrocytes are formed in the:",
+    "options": {
+      "A": "Yellow bone marrow",
+      "B": "Red bone marrow",
+      "C": "Spleen",
+      "D": "Liver only"
+    },
+    "correct_answer": "B",
+    "explanation": "Adult RBCs are produced in red bone marrow."
+  },
+  {
+    "source_sentence": "RBCs are devoid of nucleus in most of the mammals and are biconcave in shape.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Mature mammalian RBCs are characteristically:",
+    "options": {
+      "A": "Nucleated and spherical",
+      "B": "Enucleated and biconcave",
+      "C": "Multinucleated and oval",
+      "D": "Nucleated and biconcave"
+    },
+    "correct_answer": "B",
+    "explanation": "Mammalian RBCs lack nucleus and are biconcave."
+  },
+  {
+    "source_sentence": "They have a red coloured, iron containing complex protein called haemoglobin",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The iron-containing pigment that gives RBCs their red colour is:",
+    "options": {
+      "A": "Myoglobin",
+      "B": "Haemoglobin",
+      "C": "Cytochrome",
+      "D": "Chlorophyll"
+    },
+    "correct_answer": "B",
+    "explanation": "Haemoglobin is the iron-containing protein in RBCs."
+  },
+  {
+    "source_sentence": "A healthy individual has 12-16 gms of haemoglobin in every 100 ml of blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Normal haemoglobin content in 100 mL of blood is:",
+    "options": {
+      "A": "6–8 g",
+      "B": "12–16 g",
+      "C": "20–25 g",
+      "D": "2–4 g"
+    },
+    "correct_answer": "B",
+    "explanation": "Healthy individuals have 12–16 g Hb/100 mL blood."
+  },
+  {
+    "source_sentence": "These molecules play a significant role in transport of respiratory gases.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Haemoglobin primarily functions in:",
+    "options": {
+      "A": "Blood clotting",
+      "B": "Transport of respiratory gases",
+      "C": "Phagocytosis",
+      "D": "Antibody production"
+    },
+    "correct_answer": "B",
+    "explanation": "Haemoglobin transports O₂ and CO₂."
+  },
+  {
+    "source_sentence": "RBCs have an average life span of 120 days after which they are destroyed in the spleen",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The average lifespan of RBCs and their site of destruction are:",
+    "options": {
+      "A": "30 days; liver",
+      "B": "60 days; kidney",
+      "C": "120 days; spleen",
+      "D": "200 days; bone marrow"
+    },
+    "correct_answer": "C",
+    "explanation": "RBCs live ~120 days and are destroyed in the spleen."
+  },
+  {
+    "source_sentence": "the spleen (graveyard of RBCs).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The spleen is called the 'graveyard of RBCs' because:",
+    "options": {
+      "A": "RBCs are formed there",
+      "B": "Old and damaged RBCs are destroyed there",
+      "C": "It stores oxygen",
+      "D": "It produces antibodies only"
+    },
+    "correct_answer": "B",
+    "explanation": "The spleen destroys aged RBCs."
+  },
+  {
+    "source_sentence": "Leucocytes are also known as white blood cells (WBC) as they are colourless due to the lack of haemoglobin.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Leucocytes appear colourless because they:",
+    "options": {
+      "A": "Lack haemoglobin",
+      "B": "Contain excess haemoglobin",
+      "C": "Are filled with melanin",
+      "D": "Have thick cell walls"
+    },
+    "correct_answer": "A",
+    "explanation": "WBCs lack haemoglobin and are colourless."
+  },
+  {
+    "source_sentence": "They are nucleated and are relatively lesser in number which averages 6000-8000 mm⁻³ of blood.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The average WBC count in blood is approximately:",
+    "options": {
+      "A": "600–800 per mm³",
+      "B": "6,000–8,000 per mm³",
+      "C": "60,000–80,000 per mm³",
+      "D": "600,000–800,000 per mm³"
+    },
+    "correct_answer": "B",
+    "explanation": "WBC count averages 6,000–8,000/mm³."
+  },
+  {
+    "source_sentence": "We have two main categories of WBCs – granulocytes and agranulocytes.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The two main categories of leucocytes are:",
+    "options": {
+      "A": "Erythrocytes and thrombocytes",
+      "B": "Granulocytes and agranulocytes",
+      "C": "Monocytes and erythrocytes",
+      "D": "Basophils and RBCs"
+    },
+    "correct_answer": "B",
+    "explanation": "WBCs are granulocytes or agranulocytes."
+  },
+  {
+    "source_sentence": "Neutrophils, eosinophils and basophils are different types of granulocytes",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which of the following are granulocytes?",
+    "options": {
+      "A": "Neutrophils, eosinophils and basophils",
+      "B": "Lymphocytes and monocytes",
+      "C": "Platelets and RBCs",
+      "D": "T cells only"
+    },
+    "correct_answer": "A",
+    "explanation": "Neutrophils, eosinophils and basophils are granulocytes."
+  },
+  {
+    "source_sentence": "lymphocytes and monocytes are the agranulocytes.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Agranulocytes include:",
+    "options": {
+      "A": "Neutrophils and basophils",
+      "B": "Eosinophils and neutrophils",
+      "C": "Lymphocytes and monocytes",
+      "D": "Platelets and megakaryocytes"
+    },
+    "correct_answer": "C",
+    "explanation": "Lymphocytes and monocytes are agranulocytes."
+  },
+  {
+    "source_sentence": "Neutrophils are the most abundant cells (60-65 per cent) of the total WBCs",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The most abundant type of WBC is:",
+    "options": {
+      "A": "Basophils",
+      "B": "Eosinophils",
+      "C": "Neutrophils",
+      "D": "Lymphocytes"
+    },
+    "correct_answer": "C",
+    "explanation": "Neutrophils constitute 60–65% of WBCs."
+  },
+  {
+    "source_sentence": "basophils are the least (0.5-1 per cent) among them.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The least abundant granulocyte among WBCs is:",
+    "options": {
+      "A": "Neutrophil",
+      "B": "Eosinophil",
+      "C": "Basophil",
+      "D": "Monocyte"
+    },
+    "correct_answer": "C",
+    "explanation": "Basophils are only 0.5–1% of WBCs."
+  },
+  {
+    "source_sentence": "Neutrophils and monocytes (6-8 per cent) are phagocytic cells which destroy foreign organisms entering the body.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which WBCs are primarily phagocytic?",
+    "options": {
+      "A": "Basophils and eosinophils",
+      "B": "Neutrophils and monocytes",
+      "C": "Lymphocytes only",
+      "D": "Platelets"
+    },
+    "correct_answer": "B",
+    "explanation": "Neutrophils and monocytes are phagocytic."
+  },
+  {
+    "source_sentence": "Basophils secrete histamine, serotonin, heparin, etc., and are involved in inflammatory reactions.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Basophils are involved in inflammatory reactions by secreting:",
+    "options": {
+      "A": "Insulin and glucagon",
+      "B": "Histamine, serotonin and heparin",
+      "C": "Thrombin and fibrinogen",
+      "D": "Haemoglobin and myoglobin"
+    },
+    "correct_answer": "B",
+    "explanation": "Basophils release histamine, serotonin and heparin."
+  },
+  {
+    "source_sentence": "Eosinophils (2-3 per cent) resist infections and are also associated with allergic reactions.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Eosinophils are associated with:",
+    "options": {
+      "A": "Blood clotting only",
+      "B": "Resisting infections and allergic reactions",
+      "C": "Gas transport",
+      "D": "Bone formation"
+    },
+    "correct_answer": "B",
+    "explanation": "Eosinophils resist infections and participate in allergies."
+  },
+  {
+    "source_sentence": "Lymphocytes (20-25 per cent) are of two major types – 'B' and 'T' forms.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Lymphocytes constitute about 20–25% of WBCs and include:",
+    "options": {
+      "A": "B and T forms",
+      "B": "Only B forms",
+      "C": "Only T forms",
+      "D": "M and N forms"
+    },
+    "correct_answer": "A",
+    "explanation": "Lymphocytes are mainly B and T types."
+  },
+  {
+    "source_sentence": "Both B and T lymphocytes are responsible for immune responses of the body.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "B and T lymphocytes are responsible for:",
+    "options": {
+      "A": "Blood clotting",
+      "B": "Immune responses",
+      "C": "Gas transport",
+      "D": "Fat digestion only"
+    },
+    "correct_answer": "B",
+    "explanation": "B and T lymphocytes mediate immune responses."
+  },
+  {
+    "source_sentence": "Platelets also called thrombocytes, are cell fragments produced from megakaryocytes",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Platelets (thrombocytes) are derived from:",
+    "options": {
+      "A": "Erythrocytes",
+      "B": "Megakaryocytes in bone marrow",
+      "C": "Lymphocytes",
+      "D": "Hepatocytes"
+    },
+    "correct_answer": "B",
+    "explanation": "Platelets are fragments from megakaryocytes."
+  },
+  {
+    "source_sentence": "Blood normally contains 1,500,00-3,500,00 platelets mm⁻³",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Normal platelet count in blood ranges approximately from:",
+    "options": {
+      "A": "15,000–35,000 per mm³",
+      "B": "150,000–350,000 per mm³",
+      "C": "1.5–3.5 million per mm³",
+      "D": "1,500–3,500 per mm³"
+    },
+    "correct_answer": "B",
+    "explanation": "Normal platelet count is 1.5–3.5 lakh/mm³."
+  },
+  {
+    "source_sentence": "A reduction in their number can lead to clotting disorders which will lead to excessive loss of blood from the body.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A decrease in platelet count may cause:",
+    "options": {
+      "A": "Increased blood clotting",
+      "B": "Clotting disorders and excessive blood loss",
+      "C": "Increased RBC production",
+      "D": "Hypertension only"
+    },
+    "correct_answer": "B",
+    "explanation": "Low platelets impair clotting and cause blood loss."
+  },
+  {
+    "source_sentence": "ABO grouping is based on the presence or absence of two surface antigens (chemicals that can induce immune response) on the RBCs namely A and B.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "ABO blood grouping is based on the presence or absence of which antigens on RBCs?",
+    "options": {
+      "A": "Rh antigens only",
+      "B": "A and B antigens",
+      "C": "M and N antigens",
+      "D": "HLA antigens only"
+    },
+    "correct_answer": "B",
+    "explanation": "ABO system uses A and B surface antigens."
+  },
+  {
+    "source_sentence": "group 'O' blood can be donated to persons with any other blood group and hence 'O' group individuals are called 'universal donors'.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Individuals with blood group O are called universal donors because:",
+    "options": {
+      "A": "They have both A and B antigens",
+      "B": "They lack A and B antigens on RBCs",
+      "C": "They have no antibodies",
+      "D": "They have Rh antigen only"
+    },
+    "correct_answer": "B",
+    "explanation": "Group O lacks A and B antigens and can donate to all groups."
+  },
+  {
+    "source_sentence": "Persons with 'AB' group can accept blood from persons with AB as well as the other groups of blood. Therefore, such persons are called 'universal recipients'.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood group AB individuals are universal recipients because they:",
+    "options": {
+      "A": "Have no antigens on RBCs",
+      "B": "Have both A and B antigens and no anti-A or anti-B antibodies",
+      "C": "Have only anti-A antibody",
+      "D": "Cannot receive any blood"
+    },
+    "correct_answer": "B",
+    "explanation": "AB individuals have A and B antigens and no corresponding antibodies."
+  },
+  {
+    "source_sentence": "Blood Group A: Antigens on RBCs A, Antibodies in Plasma anti-B, Donor's Group A, O",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A person with blood group A can receive blood from donors of group:",
+    "options": {
+      "A": "A and O only",
+      "B": "B and AB only",
+      "C": "B only",
+      "D": "AB only"
+    },
+    "correct_answer": "A",
+    "explanation": "Group A has anti-B antibody; can receive from A and O."
+  },
+  {
+    "source_sentence": "Blood Group B: Antigens on RBCs B, Antibodies in Plasma anti-A",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A person with blood group B has which antibody in plasma?",
+    "options": {
+      "A": "Anti-A",
+      "B": "Anti-B",
+      "C": "Both anti-A and anti-B",
+      "D": "No antibodies"
+    },
+    "correct_answer": "A",
+    "explanation": "Group B individuals have anti-A antibody."
+  },
+  {
+    "source_sentence": "during blood transfusion, any blood cannot be used; the blood of a donor has to be carefully matched",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood transfusion requires careful matching to prevent:",
+    "options": {
+      "A": "Increased heart rate",
+      "B": "Clumping and destruction of recipient RBCs",
+      "C": "Increased platelet count",
+      "D": "Lymph formation"
+    },
+    "correct_answer": "B",
+    "explanation": "Mismatched blood causes RBC clumping and destruction."
+  },
+  {
+    "source_sentence": "the Rh antigen similar to one present in Rhesus monkeys (hence Rh), is also observed on the surface of RBCs of majority (nearly 80 per cent) of humans.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The Rh antigen on human RBCs is named after its similarity to antigens in:",
+    "options": {
+      "A": "Rhesus monkeys",
+      "B": "Rats",
+      "C": "Rabbits",
+      "D": "Reptiles"
+    },
+    "correct_answer": "A",
+    "explanation": "Rh antigen is similar to that in Rhesus monkeys."
+  },
+  {
+    "source_sentence": "Such individuals are called Rh positive (Rh+ve) and those in whom this antigen is absent are called Rh negative (Rh-ve).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Individuals lacking the Rh antigen on RBCs are termed:",
+    "options": {
+      "A": "Rh positive",
+      "B": "Rh negative",
+      "C": "Universal donors",
+      "D": "Universal recipients"
+    },
+    "correct_answer": "B",
+    "explanation": "Absence of Rh antigen defines Rh-negative individuals."
+  },
+  {
+    "source_sentence": "An Rh-ve person, if exposed to Rh+ve blood, will form specific antibodies against the Rh antigens.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "When an Rh-negative person is exposed to Rh-positive blood, they:",
+    "options": {
+      "A": "Develop antibodies against Rh antigen",
+      "B": "Become Rh positive permanently",
+      "C": "Lose all WBCs",
+      "D": "Cannot form any antibodies"
+    },
+    "correct_answer": "A",
+    "explanation": "Rh-ve individuals form anti-Rh antibodies upon exposure."
+  },
+  {
+    "source_sentence": "This condition is called erythroblastosis foetalis.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Destruction of foetal RBCs due to Rh incompatibility in pregnancy is called:",
+    "options": {
+      "A": "Angina pectoris",
+      "B": "Erythroblastosis foetalis",
+      "C": "Atherosclerosis",
+      "D": "Cardiac arrest"
+    },
+    "correct_answer": "B",
+    "explanation": "Rh incompatibility causing foetal RBC destruction is erythroblastosis foetalis."
+  },
+  {
+    "source_sentence": "This can be avoided by administering anti-Rh antibodies to the mother immediately after the delivery of the first child.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Erythroblastosis foetalis in subsequent pregnancies can be prevented by giving the mother:",
+    "options": {
+      "A": "Rh-positive blood",
+      "B": "Anti-Rh antibodies after first delivery",
+      "C": "High doses of calcium",
+      "D": "Platelet transfusion only"
+    },
+    "correct_answer": "B",
+    "explanation": "Anti-Rh antibodies given after first delivery prevent sensitisation."
+  },
+  {
+    "source_sentence": "Blood exhibits coagulation or clotting in response to an injury or trauma.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood coagulation is triggered in response to:",
+    "options": {
+      "A": "Injury or trauma",
+      "B": "Normal breathing",
+      "C": "Digestion of food",
+      "D": "Sleep only"
+    },
+    "correct_answer": "A",
+    "explanation": "Coagulation occurs after injury or trauma."
+  },
+  {
+    "source_sentence": "It is a clot or coagulam formed mainly of a network of threads called fibrins",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A blood clot (coagulum) consists mainly of a network of:",
+    "options": {
+      "A": "Collagen fibres",
+      "B": "Fibrins trapping blood elements",
+      "C": "Nerve fibres",
+      "D": "Lymph vessels"
+    },
+    "correct_answer": "B",
+    "explanation": "Clots are fibrin networks trapping blood elements."
+  },
+  {
+    "source_sentence": "Fibrins are formed by the conversion of inactive fibrinogens in the plasma by the enzyme thrombin.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Fibrin is formed when thrombin converts:",
+    "options": {
+      "A": "Prothrombin to thrombin",
+      "B": "Inactive fibrinogen to fibrin",
+      "C": "Albumin to globulin",
+      "D": "Haemoglobin to myoglobin"
+    },
+    "correct_answer": "B",
+    "explanation": "Thrombin converts fibrinogen to fibrin."
+  },
+  {
+    "source_sentence": "Thrombins, in turn are formed from another inactive substance present in the plasma called prothrombin.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Thrombin is formed from:",
+    "options": {
+      "A": "Fibrinogen",
+      "B": "Prothrombin",
+      "C": "Serum albumin",
+      "D": "Haemoglobin"
+    },
+    "correct_answer": "B",
+    "explanation": "Prothrombin is converted to thrombin."
+  },
+  {
+    "source_sentence": "An enzyme complex, thrombokinase, is required for the above reaction.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The enzyme complex required for conversion of prothrombin to thrombin is:",
+    "options": {
+      "A": "Amylase",
+      "B": "Thrombokinase",
+      "C": "Pepsin",
+      "D": "Lipase"
+    },
+    "correct_answer": "B",
+    "explanation": "Thrombokinase activates prothrombin conversion."
+  },
+  {
+    "source_sentence": "Calcium ions play a very important role in clotting.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which ion plays a very important role in blood clotting?",
+    "options": {
+      "A": "Sodium (Na⁺)",
+      "B": "Potassium (K⁺)",
+      "C": "Calcium (Ca²⁺)",
+      "D": "Chloride (Cl⁻)"
+    },
+    "correct_answer": "C",
+    "explanation": "Calcium ions are essential for clotting."
+  },
+  {
+    "source_sentence": "This fluid released out is called the interstitial fluid or tissue fluid.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Fluid that moves out of capillaries into spaces between tissue cells is called:",
+    "options": {
+      "A": "Plasma",
+      "B": "Serum",
+      "C": "Interstitial or tissue fluid",
+      "D": "Cerebrospinal fluid"
+    },
+    "correct_answer": "C",
+    "explanation": "Capillary filtrate in tissue spaces is interstitial fluid."
+  },
+  {
+    "source_sentence": "It has the same mineral distribution as that in plasma.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Interstitial fluid differs from plasma mainly in lacking:",
+    "options": {
+      "A": "Minerals",
+      "B": "Larger proteins and most formed elements",
+      "C": "Water",
+      "D": "Oxygen"
+    },
+    "correct_answer": "B",
+    "explanation": "Tissue fluid has plasma-like minerals but lacks large proteins and formed elements."
+  },
+  {
+    "source_sentence": "The fluid present in the lymphatic system is called the lymph.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The fluid collected by the lymphatic system is called:",
+    "options": {
+      "A": "Plasma",
+      "B": "Lymph",
+      "C": "Bile",
+      "D": "Urine"
+    },
+    "correct_answer": "B",
+    "explanation": "Lymphatic vessels carry lymph."
+  },
+  {
+    "source_sentence": "Lymph is a colourless fluid containing specialised lymphocytes which are responsible for the immune responses of the body.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Lymph is colourless and contains specialised cells responsible for:",
+    "options": {
+      "A": "Gas transport",
+      "B": "Immune responses",
+      "C": "Blood clotting",
+      "D": "Muscle contraction"
+    },
+    "correct_answer": "B",
+    "explanation": "Lymph contains lymphocytes for immune function."
+  },
+  {
+    "source_sentence": "Fats are absorbed through lymph in the lacteals present in the intestinal villi.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Dietary fats are absorbed into the lymph through:",
+    "options": {
+      "A": "Hepatic portal vein",
+      "B": "Lacteals in intestinal villi",
+      "C": "Pulmonary artery",
+      "D": "Renal tubules"
+    },
+    "correct_answer": "B",
+    "explanation": "Lacteals in villi absorb fats into lymph."
+  },
+  {
+    "source_sentence": "Open circulatory system is present in arthropods and molluscs",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "An open circulatory system is found in:",
+    "options": {
+      "A": "Annelids and chordates",
+      "B": "Arthropods and molluscs",
+      "C": "Birds and mammals only",
+      "D": "All vertebrates"
+    },
+    "correct_answer": "B",
+    "explanation": "Arthropods and molluscs have open circulation."
+  },
+  {
+    "source_sentence": "Annelids and chordates have a closed circulatory system",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A closed circulatory system is present in:",
+    "options": {
+      "A": "Arthropods",
+      "B": "Molluscs",
+      "C": "Annelids and chordates",
+      "D": "Sponges only"
+    },
+    "correct_answer": "C",
+    "explanation": "Annelids and chordates have closed circulation."
+  },
+  {
+    "source_sentence": "Fishes have a 2-chambered heart with an atrium and a ventricle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The heart of fishes has how many chambers?",
+    "options": {
+      "A": "Two (one atrium, one ventricle)",
+      "B": "Three",
+      "C": "Four",
+      "D": "One"
+    },
+    "correct_answer": "A",
+    "explanation": "Fish heart has one atrium and one ventricle."
+  },
+  {
+    "source_sentence": "Amphibians and the reptiles (except crocodiles) have a 3-chambered heart with two atria and a single ventricle",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A 3-chambered heart (two atria, one ventricle) is found in:",
+    "options": {
+      "A": "Fishes",
+      "B": "Amphibians and reptiles except crocodiles",
+      "C": "Birds only",
+      "D": "Mammals only"
+    },
+    "correct_answer": "B",
+    "explanation": "Amphibians and most reptiles have 3-chambered hearts."
+  },
+  {
+    "source_sentence": "crocodiles, birds and mammals possess a 4-chambered heart with two atria and two ventricles.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "A completely 4-chambered heart is found in:",
+    "options": {
+      "A": "Fishes and amphibians",
+      "B": "Crocodiles, birds and mammals",
+      "C": "All reptiles",
+      "D": "Arthropods"
+    },
+    "correct_answer": "B",
+    "explanation": "Crocodiles, birds and mammals have 4-chambered hearts."
+  },
+  {
+    "source_sentence": "In fishes the heart pumps out deoxygenated blood which is oxygenated by the gills",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "In fishes, blood is oxygenated in the:",
+    "options": {
+      "A": "Lungs",
+      "B": "Gills",
+      "C": "Skin only",
+      "D": "Heart chambers"
+    },
+    "correct_answer": "B",
+    "explanation": "Fish gills oxygenate blood in single circulation."
+  },
+  {
+    "source_sentence": "In birds and mammals, oxygenated and deoxygenated blood received by the left and right atria respectively passes on to the ventricles of the same sides.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "In birds and mammals, blood from each atrium passes to the ventricle on the:",
+    "options": {
+      "A": "Opposite side",
+      "B": "Same side without mixing",
+      "C": "Single common ventricle",
+      "D": "Pulmonary vein only"
+    },
+    "correct_answer": "B",
+    "explanation": "Each atrium drains to the ventricle on the same side."
+  },
+  {
+    "source_sentence": "Heart, the mesodermally derived organ, is situated in the thoracic cavity, in between the two lungs, slightly tilted to the left.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The human heart is located:",
+    "options": {
+      "A": "In the abdominal cavity",
+      "B": "In the thoracic cavity between the lungs, tilted left",
+      "C": "In the cranial cavity",
+      "D": "Below the diaphragm on the right"
+    },
+    "correct_answer": "B",
+    "explanation": "Heart lies in thorax between lungs, tilted left."
+  },
+  {
+    "source_sentence": "It is protected by a double walled membranous bag, pericardium, enclosing the pericardial fluid.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The heart is enclosed by a double-walled membrane called:",
+    "options": {
+      "A": "Pleura",
+      "B": "Pericardium",
+      "C": "Peritoneum",
+      "D": "Meninges"
+    },
+    "correct_answer": "B",
+    "explanation": "Pericardium encloses the heart with pericardial fluid."
+  },
+  {
+    "source_sentence": "A thin, muscular wall called the inter-atrial septum separates the right and the left atria",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The inter-atrial septum separates:",
+    "options": {
+      "A": "Right and left ventricles",
+      "B": "Right and left atria",
+      "C": "Atrium and ventricle",
+      "D": "Heart and pericardium"
+    },
+    "correct_answer": "B",
+    "explanation": "Inter-atrial septum divides the two atria."
+  },
+  {
+    "source_sentence": "a thick-walled, the inter-ventricular septum, separates the left and the right ventricles",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The inter-ventricular septum is:",
+    "options": {
+      "A": "Thin and separates atria",
+      "B": "Thick-walled and separates ventricles",
+      "C": "Absent in humans",
+      "D": "Between atrium and ventricle"
+    },
+    "correct_answer": "B",
+    "explanation": "Thick inter-ventricular septum separates ventricles."
+  },
+  {
+    "source_sentence": "The opening between the right atrium and the right ventricle is guarded by a valve formed of three muscular flaps or cusps, the tricuspid valve",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The valve between the right atrium and right ventricle is the:",
+    "options": {
+      "A": "Bicuspid (mitral) valve",
+      "B": "Tricuspid valve",
+      "C": "Semilunar valve",
+      "D": "Aortic valve only"
+    },
+    "correct_answer": "B",
+    "explanation": "Tricuspid valve guards right AV opening."
+  },
+  {
+    "source_sentence": "a bicuspid or mitral valve guards the opening between the left atrium and the left ventricle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The mitral (bicuspid) valve is located between:",
+    "options": {
+      "A": "Right atrium and right ventricle",
+      "B": "Left atrium and left ventricle",
+      "C": "Left ventricle and aorta",
+      "D": "Right ventricle and pulmonary artery"
+    },
+    "correct_answer": "B",
+    "explanation": "Mitral valve guards left AV opening."
+  },
+  {
+    "source_sentence": "The openings of the right and the left ventricles into the pulmonary artery and the aorta respectively are provided with the semilunar valves.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Semilunar valves guard the openings of ventricles into:",
+    "options": {
+      "A": "Atria",
+      "B": "Pulmonary artery and aorta",
+      "C": "Vena cava only",
+      "D": "Coronary sinus only"
+    },
+    "correct_answer": "B",
+    "explanation": "Semilunar valves are at pulmonary artery and aorta."
+  },
+  {
+    "source_sentence": "The valves in the heart allow the flow of blood only in one direction",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Heart valves ensure that blood flows:",
+    "options": {
+      "A": "In both directions",
+      "B": "Only in one direction",
+      "C": "Only from ventricles to atria",
+      "D": "Directly to veins without arteries"
+    },
+    "correct_answer": "B",
+    "explanation": "Valves prevent backward flow."
+  },
+  {
+    "source_sentence": "The walls of ventricles are much thicker than that of the atria.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Ventricular walls are thicker than atrial walls because ventricles:",
+    "options": {
+      "A": "Receive blood only",
+      "B": "Pump blood to lungs and body",
+      "C": "Do not contract",
+      "D": "Store lymph"
+    },
+    "correct_answer": "B",
+    "explanation": "Ventricles pump blood and need thicker walls."
+  },
+  {
+    "source_sentence": "A patch of this tissue is present in the right upper corner of the right atrium called the sino-atrial node (SAN).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The sino-atrial node (SAN) is located in the:",
+    "options": {
+      "A": "Left ventricle",
+      "B": "Right upper corner of the right atrium",
+      "C": "Inter-ventricular septum only",
+      "D": "Aorta"
+    },
+    "correct_answer": "B",
+    "explanation": "SAN is in the right upper corner of right atrium."
+  },
+  {
+    "source_sentence": "Another mass of this tissue is seen in the lower left corner of the right atrium close to the atrio-ventricular septum called the atrio-ventricular node (AVN).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The atrio-ventricular node (AVN) is located:",
+    "options": {
+      "A": "In the left atrium upper corner",
+      "B": "Lower left corner of right atrium near AV septum",
+      "C": "In the aorta",
+      "D": "In the pulmonary vein"
+    },
+    "correct_answer": "B",
+    "explanation": "AVN lies in lower left of right atrium."
+  },
+  {
+    "source_sentence": "These branches give rise to minute fibres throughout the ventricular musculature of the respective sides and are called purkinje fibres.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Purkinje fibres distribute through the:",
+    "options": {
+      "A": "Atrial musculature only",
+      "B": "Ventricular musculature",
+      "C": "Pericardium",
+      "D": "Aortic wall only"
+    },
+    "correct_answer": "B",
+    "explanation": "Purkinje fibres spread through ventricular muscle."
+  },
+  {
+    "source_sentence": "The SAN can generate the maximum number of action potentials, i.e., 70-75 min⁻¹, and is responsible for initiating and maintaining the rhythmic contractile activity of the heart. Therefore, it is called the pacemaker.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The SAN is called the pacemaker of the heart because it:",
+    "options": {
+      "A": "Prevents all heart beats",
+      "B": "Generates 70–75 action potentials per minute initiating heart rhythm",
+      "C": "Blocks AV conduction",
+      "D": "Produces blood cells"
+    },
+    "correct_answer": "B",
+    "explanation": "SAN sets heart rate at 70–75 beats/min."
+  },
+  {
+    "source_sentence": "This increases the flow of blood into the ventricles by about 30 per cent.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Atrial systole increases blood flow into ventricles by approximately:",
+    "options": {
+      "A": "5%",
+      "B": "30%",
+      "C": "60%",
+      "D": "90%"
+    },
+    "correct_answer": "B",
+    "explanation": "Atrial contraction adds ~30% more blood to ventricles."
+  },
+  {
+    "source_sentence": "This sequential event in the heart which is cyclically repeated is called the cardiac cycle",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The cyclically repeated sequence of contraction and relaxation of heart chambers is called:",
+    "options": {
+      "A": "Respiratory cycle",
+      "B": "Cardiac cycle",
+      "C": "Krebs cycle",
+      "D": "Menstrual cycle"
+    },
+    "correct_answer": "B",
+    "explanation": "Cardiac cycle is the repeating heart event sequence."
+  },
+  {
+    "source_sentence": "the duration of a cardiac cycle is 0.8 seconds.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "At 72 beats per minute, the duration of one cardiac cycle is approximately:",
+    "options": {
+      "A": "0.4 seconds",
+      "B": "0.8 seconds",
+      "C": "1.6 seconds",
+      "D": "2.0 seconds"
+    },
+    "correct_answer": "B",
+    "explanation": "72 beats/min gives ~0.8 s per cardiac cycle."
+  },
+  {
+    "source_sentence": "each ventricle pumps out approximately 70 mL of blood which is called the stroke volume.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The volume of blood pumped out by each ventricle per beat is called:",
+    "options": {
+      "A": "Cardiac output",
+      "B": "Stroke volume",
+      "C": "Tidal volume",
+      "D": "Residual volume"
+    },
+    "correct_answer": "B",
+    "explanation": "Stroke volume is ~70 mL per ventricle per beat."
+  },
+  {
+    "source_sentence": "the cardiac output can be defined as the volume of blood pumped out by each ventricle per minute and averages 5000 mL or 5 litres",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Cardiac output is defined as:",
+    "options": {
+      "A": "Blood volume per beat only",
+      "B": "Volume pumped by each ventricle per minute",
+      "C": "Total blood in body",
+      "D": "Plasma volume only"
+    },
+    "correct_answer": "B",
+    "explanation": "Cardiac output = stroke volume × heart rate (~5 L/min)."
+  },
+  {
+    "source_sentence": "The first heart sound (lub) is associated with the closure of the tricuspid and bicuspid valves",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The first heart sound 'lub' is produced by closure of:",
+    "options": {
+      "A": "Semilunar valves",
+      "B": "Tricuspid and bicuspid (AV) valves",
+      "C": "Aortic valve only",
+      "D": "Venous valves"
+    },
+    "correct_answer": "B",
+    "explanation": "Lub sound accompanies AV valve closure."
+  },
+  {
+    "source_sentence": "the second heart sound (dub) is associated with the closure of the semilunar valves.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The second heart sound 'dub' is produced by closure of:",
+    "options": {
+      "A": "Tricuspid and bicuspid valves",
+      "B": "Semilunar valves",
+      "C": "Venous valves",
+      "D": "Lymphatic valves"
+    },
+    "correct_answer": "B",
+    "explanation": "Dub sound accompanies semilunar valve closure."
+  },
+  {
+    "source_sentence": "ECG is a graphical representation of the electrical activity of the heart during a cardiac cycle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "An electrocardiogram (ECG) represents:",
+    "options": {
+      "A": "Mechanical force of bones",
+      "B": "Electrical activity of the heart during a cardiac cycle",
+      "C": "Blood pressure only",
+      "D": "Lung ventilation rate"
+    },
+    "correct_answer": "B",
+    "explanation": "ECG graphs electrical activity of the heart."
+  },
+  {
+    "source_sentence": "The P-wave represents the electrical excitation (or depolarisation) of the atria",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The P-wave on an ECG corresponds to:",
+    "options": {
+      "A": "Ventricular repolarisation",
+      "B": "Atrial depolarisation",
+      "C": "Ventricular depolarisation",
+      "D": "Atrial repolarisation only"
+    },
+    "correct_answer": "B",
+    "explanation": "P-wave marks atrial depolarisation."
+  },
+  {
+    "source_sentence": "The QRS complex represents the depolarisation of the ventricles, which initiates the ventricular contraction.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The QRS complex on an ECG indicates:",
+    "options": {
+      "A": "Atrial depolarisation",
+      "B": "Ventricular depolarisation and start of ventricular contraction",
+      "C": "Ventricular repolarisation",
+      "D": "Atrial repolarisation"
+    },
+    "correct_answer": "B",
+    "explanation": "QRS complex marks ventricular depolarisation."
+  },
+  {
+    "source_sentence": "The T-wave represents the return of the ventricles from excited to normal state (repolarisation).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The T-wave on an ECG represents:",
+    "options": {
+      "A": "Atrial depolarisation",
+      "B": "Ventricular repolarisation",
+      "C": "Ventricular depolarisation",
+      "D": "Atrial systole only"
+    },
+    "correct_answer": "B",
+    "explanation": "T-wave marks ventricular repolarisation."
+  },
+  {
+    "source_sentence": "each artery and vein consists of three layers: an inner lining of squamous endothelium, the tunica intima, a middle layer of smooth muscle and elastic fibres, the tunica media, and an external layer of fibrous connective tissue with collagen fibres, the tunica externa.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The three layers of arteries and veins are:",
+    "options": {
+      "A": "Tunica intima, tunica media and tunica externa",
+      "B": "Epidermis, dermis and hypodermis",
+      "C": "Endocardium, myocardium and epicardium only",
+      "D": "Cortex, medulla and pelvis"
+    },
+    "correct_answer": "A",
+    "explanation": "Blood vessels have tunica intima, media and externa."
+  },
+  {
+    "source_sentence": "The tunica media is comparatively thin in the veins",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Compared to arteries, veins typically have:",
+    "options": {
+      "A": "Thicker tunica media",
+      "B": "Thinner tunica media",
+      "C": "No tunica intima",
+      "D": "No endothelium"
+    },
+    "correct_answer": "B",
+    "explanation": "Veins have a thinner tunica media than arteries."
+  },
+  {
+    "source_sentence": "The deoxygenated blood pumped into the pulmonary artery is passed on to the lungs from where the oxygenated blood is carried by the pulmonary veins into the left atrium. This pathway constitutes the pulmonary circulation.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Pulmonary circulation involves:",
+    "options": {
+      "A": "Oxygenated blood from aorta to body",
+      "B": "Deoxygenated blood from right ventricle to lungs and return to left atrium",
+      "C": "Blood from intestine to liver only",
+      "D": "Lymph from tissues to heart"
+    },
+    "correct_answer": "B",
+    "explanation": "Pulmonary circuit: RV → lungs → LA."
+  },
+  {
+    "source_sentence": "The oxygenated blood entering the aorta is carried by a network of arteries, arterioles and capillaries to the tissues from where the deoxygenated blood is collected by a system of venules, veins and vena cava and emptied into the right atrium. This is the systemic circulation",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Systemic circulation ends with deoxygenated blood returning to the:",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right atrium via vena cava",
+      "C": "Pulmonary artery",
+      "D": "Left ventricle directly"
+    },
+    "correct_answer": "B",
+    "explanation": "Systemic veins drain deoxygenated blood to right atrium."
+  },
+  {
+    "source_sentence": "A unique vascular connection exists between the digestive tract and liver called hepatic portal system.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The vascular connection between the digestive tract and liver is the:",
+    "options": {
+      "A": "Coronary circulation",
+      "B": "Hepatic portal system",
+      "C": "Pulmonary circulation",
+      "D": "Lymphatic system only"
+    },
+    "correct_answer": "B",
+    "explanation": "Hepatic portal system connects gut and liver."
+  },
+  {
+    "source_sentence": "The hepatic portal vein carries blood from intestine to the liver before it is delivered to the systemic circulation.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Hepatic portal vein carries blood from the:",
+    "options": {
+      "A": "Lungs to heart",
+      "B": "Intestine to liver",
+      "C": "Heart to kidneys",
+      "D": "Liver to intestine"
+    },
+    "correct_answer": "B",
+    "explanation": "Portal vein carries intestinal blood to liver."
+  },
+  {
+    "source_sentence": "A special coronary system of blood vessels is present in our body exclusively for the circulation of blood to and from the cardiac musculature.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Coronary circulation supplies blood to the:",
+    "options": {
+      "A": "Brain only",
+      "B": "Cardiac musculature",
+      "C": "Intestinal villi",
+      "D": "Skeletal muscles only"
+    },
+    "correct_answer": "B",
+    "explanation": "Coronary vessels supply the heart muscle."
+  },
+  {
+    "source_sentence": "Normal activities of the heart are regulated intrinsically, i.e., auto regulated by specialised muscles (nodal tissue), hence the heart is called myogenic.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The heart is called myogenic because its activity is regulated:",
+    "options": {
+      "A": "Only by skeletal muscles",
+      "B": "Intrinsically by nodal (specialised cardiac) tissue",
+      "C": "Only by the liver",
+      "D": "By external pacemakers only"
+    },
+    "correct_answer": "B",
+    "explanation": "Nodal tissue provides intrinsic (myogenic) regulation."
+  },
+  {
+    "source_sentence": "Neural signals through the sympathetic nerves (part of ANS) can increase the rate of heart beat, the strength of ventricular contraction and thereby the cardiac output.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Sympathetic stimulation of the heart generally:",
+    "options": {
+      "A": "Decreases heart rate and cardiac output",
+      "B": "Increases heart rate, contractility and cardiac output",
+      "C": "Stops the heart permanently",
+      "D": "Has no effect on heart"
+    },
+    "correct_answer": "B",
+    "explanation": "Sympathetic nerves increase rate and force of heartbeat."
+  },
+  {
+    "source_sentence": "parasympathetic neural signals (another component of ANS) decrease the rate of heart beat, speed of conduction of action potential and thereby the cardiac output.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Parasympathetic stimulation of the heart generally:",
+    "options": {
+      "A": "Increases heart rate sharply",
+      "B": "Decreases heart rate and cardiac output",
+      "C": "Increases ventricular contractility",
+      "D": "Causes blood clotting"
+    },
+    "correct_answer": "B",
+    "explanation": "Parasympathetic signals slow the heart."
+  },
+  {
+    "source_sentence": "Adrenal medullary hormones can also increase the cardiac output.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Hormones from the adrenal medulla can:",
+    "options": {
+      "A": "Decrease cardiac output only",
+      "B": "Increase cardiac output",
+      "C": "Stop lymph flow",
+      "D": "Reduce blood volume"
+    },
+    "correct_answer": "B",
+    "explanation": "Adrenal medullary hormones raise cardiac output."
+  },
+  {
+    "source_sentence": "Hypertension is the term for blood pressure that is higher than normal (120/80).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Normal blood pressure is considered approximately:",
+    "options": {
+      "A": "90/60 mm Hg",
+      "B": "120/80 mm Hg",
+      "C": "160/100 mm Hg",
+      "D": "200/120 mm Hg"
+    },
+    "correct_answer": "B",
+    "explanation": "120/80 mm Hg is the reference normal BP."
+  },
+  {
+    "source_sentence": "If repeated checks of blood pressure of an individual is 140/90 (140 over 90) or higher, it shows hypertension.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Blood pressure of 140/90 mm Hg or higher on repeated measurement indicates:",
+    "options": {
+      "A": "Hypotension",
+      "B": "Hypertension",
+      "C": "Normal pressure",
+      "D": "Anaemia"
+    },
+    "correct_answer": "B",
+    "explanation": "≥140/90 mm Hg defines hypertension."
+  },
+  {
+    "source_sentence": "Coronary Artery Disease (CAD), often referred to as atherosclerosis, affects the vessels that supply blood to the heart muscle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Coronary artery disease (atherosclerosis) primarily affects arteries supplying:",
+    "options": {
+      "A": "Kidneys only",
+      "B": "Heart muscle",
+      "C": "Lungs only",
+      "D": "Brain only"
+    },
+    "correct_answer": "B",
+    "explanation": "CAD affects coronary arteries to heart muscle."
+  },
+  {
+    "source_sentence": "It is caused by deposits of calcium, fat, cholesterol and fibrous tissues, which makes the lumen of arteries narrower.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Atherosclerosis narrows arterial lumen due to deposits of:",
+    "options": {
+      "A": "Water and glucose only",
+      "B": "Calcium, fat, cholesterol and fibrous tissue",
+      "C": "Lymphocytes only",
+      "D": "Urea and uric acid"
+    },
+    "correct_answer": "B",
+    "explanation": "Plaque deposits narrow coronary arteries."
+  },
+  {
+    "source_sentence": "Angina: It is also called 'angina pectoris'. A symptom of acute chest pain appears when no enough oxygen is reaching the heart muscle.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Angina pectoris is characterised by:",
+    "options": {
+      "A": "Chest pain due to insufficient oxygen supply to heart muscle",
+      "B": "Excessive platelet production",
+      "C": "High lymphocyte count",
+      "D": "Enlarged spleen only"
+    },
+    "correct_answer": "A",
+    "explanation": "Angina is chest pain from inadequate myocardial O₂."
+  },
+  {
+    "source_sentence": "Heart failure means the state of heart when it is not pumping blood effectively enough to meet the needs of the body.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Heart failure is defined as:",
+    "options": {
+      "A": "Complete stoppage of heart (cardiac arrest)",
+      "B": "Ineffective pumping failing to meet body's needs",
+      "C": "Sudden damage from blocked blood supply (heart attack)",
+      "D": "Normal resting heart function"
+    },
+    "correct_answer": "B",
+    "explanation": "Heart failure is inadequate pumping, not cardiac arrest."
+  },
+  {
+    "source_sentence": "Heart failure is not the same as cardiac arrest (when the heart stops beating) or a heart attack (when the heart muscle is suddenly damaged by an inadequate blood supply).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Which statement correctly distinguishes heart conditions?",
+    "options": {
+      "A": "Heart failure, cardiac arrest and heart attack are identical",
+      "B": "Heart failure is ineffective pumping; cardiac arrest is stopped beating; heart attack is sudden muscle damage from poor blood supply",
+      "C": "Heart attack means the heart stops beating",
+      "D": "Cardiac arrest means ineffective pumping only"
+    },
+    "correct_answer": "B",
+    "explanation": "These three conditions are distinct."
+  },
+  {
+    "source_sentence": "all the four chambers of heart are in a relaxed state, i.e., they are in joint diastole.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "When all four heart chambers are simultaneously relaxed, the heart is in:",
+    "options": {
+      "A": "Atrial systole",
+      "B": "Ventricular systole",
+      "C": "Joint diastole",
+      "D": "Cardiac arrest"
+    },
+    "correct_answer": "C",
+    "explanation": "All chambers relaxed = joint diastole."
+  },
+  {
+    "source_sentence": "Our heart normally beats 70-75 times in a minute (average 72 beats min⁻¹).",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "The average normal heart rate in humans is approximately:",
+    "options": {
+      "A": "30 beats/min",
+      "B": "72 beats/min",
+      "C": "120 beats/min",
+      "D": "200 beats/min"
+    },
+    "correct_answer": "B",
+    "explanation": "Normal heart rate averages 72 beats/min."
+  },
+  {
+    "source_sentence": "by counting the number of QRS complexes that occur in a given time period, one can determine the heart beat rate",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Heart rate can be determined from an ECG by counting:",
+    "options": {
+      "A": "P-waves only",
+      "B": "QRS complexes per unit time",
+      "C": "T-waves only",
+      "D": "Baseline fluctuations"
+    },
+    "correct_answer": "B",
+    "explanation": "Each QRS complex corresponds to one heartbeat."
+  },
+  {
+    "source_sentence": "High blood pressure leads to heart diseases and also affects vital organs like brain and kidney.",
+    "chapter": "Chapter 15: Body Fluids and Circulation",
+    "question": "Untreated hypertension can damage:",
+    "options": {
+      "A": "Only the skin",
+      "B": "Heart, brain and kidneys among other organs",
+      "C": "Hair follicles only",
+      "D": "Nails only"
+    },
+    "correct_answer": "B",
+    "explanation": "Hypertension harms heart, brain, kidneys and more."
+  }
+]

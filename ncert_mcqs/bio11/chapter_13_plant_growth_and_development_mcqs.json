@@ -1,0 +1,1289 @@
+[
+  {
+    "source_sentence": "Development is the sum of two processes: growth and differentiation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Development in plants is broadly considered as the sum of:",
+    "options": {
+      "A": "Photosynthesis and respiration",
+      "B": "Growth and differentiation",
+      "C": "Transpiration and absorption",
+      "D": "Reproduction and senescence only"
+    },
+    "correct_answer": "B",
+    "explanation": "Development encompasses both growth and differentiation."
+  },
+  {
+    "source_sentence": "The first step in the process of plant growth is seed germination.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The first step in the process of plant growth is:",
+    "options": {
+      "A": "Flowering",
+      "B": "Seed germination",
+      "C": "Fruit ripening",
+      "D": "Leaf abscission"
+    },
+    "correct_answer": "B",
+    "explanation": "Plant growth begins with seed germination under favourable conditions."
+  },
+  {
+    "source_sentence": "In absence of such favourable conditions the seeds do not germinate and goes into a period of suspended growth or rest.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "When favourable conditions for growth are absent, seeds typically:",
+    "options": {
+      "A": "Germinate immediately",
+      "B": "Enter a period of suspended growth or rest",
+      "C": "Lose all viability instantly",
+      "D": "Develop into seedlings without water"
+    },
+    "correct_answer": "B",
+    "explanation": "Unfavourable conditions cause seeds to remain dormant in suspended growth."
+  },
+  {
+    "source_sentence": "These factors are both intrinsic (internal) and extrinsic (external) to the plant.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Factors governing plant developmental processes may be:",
+    "options": {
+      "A": "Only extrinsic",
+      "B": "Only intrinsic",
+      "C": "Both intrinsic and extrinsic",
+      "D": "Neither intrinsic nor extrinsic"
+    },
+    "correct_answer": "C",
+    "explanation": "Development is controlled by internal and external factors."
+  },
+  {
+    "source_sentence": "Growth can be defined as an irreversible permanent increase in size of an organ or its parts or even of an individual cell.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Growth is defined as an irreversible permanent increase in:",
+    "options": {
+      "A": "Metabolic rate only",
+      "B": "Size of an organ, its parts or an individual cell",
+      "C": "Number of chromosomes",
+      "D": "Water content without size change"
+    },
+    "correct_answer": "B",
+    "explanation": "Growth involves permanent increase in size at organ, tissue or cellular level."
+  },
+  {
+    "source_sentence": "Plant growth is unique because plants retain the capacity for unlimited growth throughout their life.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Plant growth is unique because plants retain the capacity for:",
+    "options": {
+      "A": "Limited growth only in seedlings",
+      "B": "Unlimited growth throughout life",
+      "C": "Growth only during germination",
+      "D": "No growth after flowering"
+    },
+    "correct_answer": "B",
+    "explanation": "Plants can grow indefinitely due to persistent meristematic activity."
+  },
+  {
+    "source_sentence": "This ability of the plants is due to the presence of meristems at certain locations in their body.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The capacity for unlimited plant growth is due to the presence of:",
+    "options": {
+      "A": "Permanent tissues",
+      "B": "Meristems at certain locations",
+      "C": "Sclerenchyma fibres",
+      "D": "Cuticle on leaves"
+    },
+    "correct_answer": "B",
+    "explanation": "Meristems provide continuously dividing cells for growth."
+  },
+  {
+    "source_sentence": "This form of growth wherein new cells are always being added to the plant body by the activity of the meristem is called the open form of growth.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Growth in which new cells are continuously added by meristem activity is called:",
+    "options": {
+      "A": "Closed form of growth",
+      "B": "Open form of growth",
+      "C": "Determinate growth only",
+      "D": "Arithmetic growth only"
+    },
+    "correct_answer": "B",
+    "explanation": "Open growth involves continual addition of new cells from meristems."
+  },
+  {
+    "source_sentence": "In dicotyledonous plants and gymnosperms, the lateral meristems, vascular cambium and cork-cambium appear later in life.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In dicots and gymnosperms, lateral meristems such as vascular cambium and cork cambium:",
+    "options": {
+      "A": "Are absent throughout life",
+      "B": "Appear later in life",
+      "C": "Are present only in roots",
+      "D": "Function only in monocots"
+    },
+    "correct_answer": "B",
+    "explanation": "Lateral meristems develop later and contribute to secondary growth."
+  },
+  {
+    "source_sentence": "These are the meristems that cause the increase in the girth of the organs in which they are active. This is known as secondary growth of the plant.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Increase in girth of plant organs due to vascular cambium and cork cambium is called:",
+    "options": {
+      "A": "Primary growth",
+      "B": "Secondary growth",
+      "C": "Apical growth only",
+      "D": "Intercalary growth"
+    },
+    "correct_answer": "B",
+    "explanation": "Lateral meristems cause secondary growth increasing organ girth."
+  },
+  {
+    "source_sentence": "Root and shoot apical meristems sometimes along with intercalary meristem, contribute to the elongation growth of plant axes.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Elongation growth of plant axes is contributed by:",
+    "options": {
+      "A": "Only cork cambium",
+      "B": "Root and shoot apical meristems and sometimes intercalary meristem",
+      "C": "Only epidermal cells",
+      "D": "Only xylem vessels"
+    },
+    "correct_answer": "B",
+    "explanation": "Apical and intercalary meristems drive axial elongation."
+  },
+  {
+    "source_sentence": "Growth, at a cellular level, is principally a consequence of increase in the amount of protoplasm.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "At the cellular level, growth is principally a consequence of increase in:",
+    "options": {
+      "A": "Cell wall lignin only",
+      "B": "Amount of protoplasm",
+      "C": "Vacuole number only",
+      "D": "Cuticular wax"
+    },
+    "correct_answer": "B",
+    "explanation": "Cellular growth reflects increased protoplasmic content."
+  },
+  {
+    "source_sentence": "Growth is, therefore, measured by a variety of parameters some of which are: increase in fresh weight, dry weight, length, area, volume and cell number.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which of the following is NOT a parameter used to measure plant growth?",
+    "options": {
+      "A": "Increase in dry weight",
+      "B": "Increase in cell number",
+      "C": "Increase in area or volume",
+      "D": "Decrease in chromosome number"
+    },
+    "correct_answer": "D",
+    "explanation": "Growth is measured by weight, length, area, volume and cell number."
+  },
+  {
+    "source_sentence": "one single maize root apical mersitem can give rise to more than 17,500 new cells per hour",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In maize root apical meristem, growth is primarily expressed as:",
+    "options": {
+      "A": "Increase in cell number",
+      "B": "Increase in cell size only",
+      "C": "Decrease in cell division",
+      "D": "Loss of protoplasm"
+    },
+    "correct_answer": "A",
+    "explanation": "Rapid meristematic activity in maize root produces many new cells per hour."
+  },
+  {
+    "source_sentence": "cells in a watermelon may increase in size by up to 3,50,000 times.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In watermelon, growth is expressed mainly as:",
+    "options": {
+      "A": "Increase in cell number only",
+      "B": "Massive increase in size of cells",
+      "C": "Decrease in vacuole size",
+      "D": "Loss of nucleus"
+    },
+    "correct_answer": "B",
+    "explanation": "Watermelon cells show enormous enlargement rather than division."
+  },
+  {
+    "source_sentence": "The period of growth is generally divided into three phases, namely, meristematic, elongation and maturation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The three phases of growth are:",
+    "options": {
+      "A": "Lag, log and stationary",
+      "B": "Meristematic, elongation and maturation",
+      "C": "Germination, flowering and senescence",
+      "D": "Primary, secondary and tertiary"
+    },
+    "correct_answer": "B",
+    "explanation": "Growth phases at root/shoot tips are meristematic, elongation and maturation."
+  },
+  {
+    "source_sentence": "The constantly dividing cells, both at the root apex and the shoot apex, represent the meristematic phase of growth.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The meristematic phase of growth is characterised by cells that:",
+    "options": {
+      "A": "Have thickened secondary walls",
+      "B": "Are constantly dividing at root and shoot apex",
+      "C": "Are fully mature and non-dividing",
+      "D": "Have lost their nuclei"
+    },
+    "correct_answer": "B",
+    "explanation": "Meristematic zone contains actively dividing cells at apices."
+  },
+  {
+    "source_sentence": "The cells in this region are rich in protoplasm, possess large conspicuous nuclei.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Cells in the meristematic zone are rich in protoplasm and possess:",
+    "options": {
+      "A": "Small inconspicuous nuclei",
+      "B": "Large conspicuous nuclei",
+      "C": "No nuclei",
+      "D": "Lignified thick walls only"
+    },
+    "correct_answer": "B",
+    "explanation": "Meristematic cells have dense protoplasm and prominent nuclei."
+  },
+  {
+    "source_sentence": "Increased vacuolation, cell enlargement and new cell wall deposition are the characteristics of the cells in this phase.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The elongation phase of growth is characterised by:",
+    "options": {
+      "A": "Loss of vacuoles",
+      "B": "Increased vacuolation, cell enlargement and new cell wall deposition",
+      "C": "Complete loss of protoplasm",
+      "D": "Only cell division without enlargement"
+    },
+    "correct_answer": "B",
+    "explanation": "Elongation involves vacuolation, enlargement and wall deposition."
+  },
+  {
+    "source_sentence": "The cells of this zone, attain their maximal size in terms of wall thickening and protoplasmic modifications.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Cells in the maturation zone attain maximal size with:",
+    "options": {
+      "A": "Only thin primary walls",
+      "B": "Wall thickening and protoplasmic modifications",
+      "C": "Continuous rapid division",
+      "D": "Complete absence of differentiation"
+    },
+    "correct_answer": "B",
+    "explanation": "Maturation involves wall thickening and specialised protoplasmic changes."
+  },
+  {
+    "source_sentence": "The increased growth per unit time is termed as growth rate.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Growth rate is defined as:",
+    "options": {
+      "A": "Total size of the plant",
+      "B": "Increased growth per unit time",
+      "C": "Number of leaves only",
+      "D": "Age of the plant in years"
+    },
+    "correct_answer": "B",
+    "explanation": "Growth rate measures increase in growth per unit time."
+  },
+  {
+    "source_sentence": "In arithmetic growth, following mitotic cell division, only one daughter cell continues to divide while the other differentiates and matures.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In arithmetic growth, after mitosis:",
+    "options": {
+      "A": "Both daughter cells continue dividing",
+      "B": "Only one daughter cell continues to divide while the other differentiates",
+      "C": "Neither daughter cell divides",
+      "D": "Both cells immediately die"
+    },
+    "correct_answer": "B",
+    "explanation": "Arithmetic growth leaves one dividing and one differentiating daughter cell."
+  },
+  {
+    "source_sentence": "The simplest expression of arithmetic growth is exemplified by a root elongating at a constant rate.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Arithmetic growth at a constant rate produces a plot of length against time that is:",
+    "options": {
+      "A": "Sigmoid",
+      "B": "Linear",
+      "C": "Exponential",
+      "D": "Circular"
+    },
+    "correct_answer": "B",
+    "explanation": "Constant elongation rate gives a straight-line (linear) curve."
+  },
+  {
+    "source_sentence": "Mathematically, it is expressed as Lt = L0 + rt",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In the equation Lt = L0 + rt, the symbol 'r' represents:",
+    "options": {
+      "A": "Initial length",
+      "B": "Length at time t",
+      "C": "Growth rate or elongation per unit time",
+      "D": "Base of natural logarithms"
+    },
+    "correct_answer": "C",
+    "explanation": "In arithmetic growth, r is the growth rate per unit time."
+  },
+  {
+    "source_sentence": "In most systems, the initial growth is slow (lag phase), and it increases rapidly thereafter – at an exponential rate (log or exponential phase).",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In geometric growth, the phase of rapid exponential increase is called:",
+    "options": {
+      "A": "Lag phase",
+      "B": "Log or exponential phase",
+      "C": "Senescent phase only",
+      "D": "Dormancy phase"
+    },
+    "correct_answer": "B",
+    "explanation": "After lag phase, geometric growth enters the log/exponential phase."
+  },
+  {
+    "source_sentence": "However, with limited nutrient supply, the growth slows down leading to a stationary phase.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In geometric growth, limited nutrient supply leads to:",
+    "options": {
+      "A": "Perpetual exponential growth",
+      "B": "A stationary phase",
+      "C": "Immediate cell death of all cells",
+      "D": "Only arithmetic growth forever"
+    },
+    "correct_answer": "B",
+    "explanation": "Nutrient limitation slows growth to a stationary phase."
+  },
+  {
+    "source_sentence": "If we plot the parameter of growth against time, we get a typical sigmoid or S-curve.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A plot of growth parameter against time in natural environments typically yields:",
+    "options": {
+      "A": "A straight horizontal line",
+      "B": "A sigmoid or S-curve",
+      "C": "A U-shaped curve only",
+      "D": "No measurable pattern"
+    },
+    "correct_answer": "B",
+    "explanation": "Geometric growth with lag, log and stationary phases forms an S-curve."
+  },
+  {
+    "source_sentence": "The exponential growth can be expressed as W1 = W0 e^rt",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In exponential growth W1 = W0 e^rt, 'e' represents:",
+    "options": {
+      "A": "Efficiency index",
+      "B": "Base of natural logarithms",
+      "C": "Elongation rate only",
+      "D": "Energy of activation"
+    },
+    "correct_answer": "B",
+    "explanation": "In the exponential growth equation, e is the base of natural logarithms."
+  },
+  {
+    "source_sentence": "Here, r is the relative growth rate and is also the measure of the ability of the plant to produce new plant material, referred to as efficiency index.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In exponential growth, r as relative growth rate is also called:",
+    "options": {
+      "A": "Stress index",
+      "B": "Efficiency index",
+      "C": "Dormancy index",
+      "D": "Abscission index"
+    },
+    "correct_answer": "B",
+    "explanation": "Relative growth rate r measures efficiency of producing new plant material."
+  },
+  {
+    "source_sentence": "measurement and the comparison of total growth per unit time is called the absolute growth rate.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Total growth per unit time is termed:",
+    "options": {
+      "A": "Relative growth rate",
+      "B": "Absolute growth rate",
+      "C": "Efficiency index only",
+      "D": "Arithmetic mean only"
+    },
+    "correct_answer": "B",
+    "explanation": "Absolute growth rate compares total growth per unit time."
+  },
+  {
+    "source_sentence": "The growth of the given system per unit time expressed on a common basis, e.g., per unit initial parameter is called the relative growth rate.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Growth per unit time expressed per unit initial parameter is:",
+    "options": {
+      "A": "Absolute growth rate",
+      "B": "Relative growth rate",
+      "C": "Net primary productivity",
+      "D": "Transpiration rate"
+    },
+    "correct_answer": "B",
+    "explanation": "Relative growth rate normalises growth to initial size."
+  },
+  {
+    "source_sentence": "The plant cells grow in size by cell enlargement which in turn requires water.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Cell enlargement during plant growth requires:",
+    "options": {
+      "A": "Water",
+      "B": "Only carbon dioxide",
+      "C": "Absence of oxygen",
+      "D": "Complete darkness only"
+    },
+    "correct_answer": "A",
+    "explanation": "Water is essential for turgor-driven cell enlargement."
+  },
+  {
+    "source_sentence": "Turgidity of cells helps in extension growth.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Extension growth in plants is helped by:",
+    "options": {
+      "A": "Cell turgidity",
+      "B": "Plasmolysis",
+      "C": "Complete dehydration",
+      "D": "Loss of vacuoles"
+    },
+    "correct_answer": "A",
+    "explanation": "Turgid cells expand and support extension growth."
+  },
+  {
+    "source_sentence": "Oxygen helps in releasing metabolic energy essential for growth activities.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Oxygen is essential for plant growth because it:",
+    "options": {
+      "A": "Directly synthesises chlorophyll",
+      "B": "Helps release metabolic energy for growth activities",
+      "C": "Prevents all respiration",
+      "D": "Is not used by growing cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Aerobic respiration releases energy needed for growth."
+  },
+  {
+    "source_sentence": "Environmental signals such as light and gravity also affect certain phases/stages of growth.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Environmental signals that affect plant growth include:",
+    "options": {
+      "A": "Only soil pH",
+      "B": "Light and gravity",
+      "C": "Only wind speed",
+      "D": "Only atmospheric pressure"
+    },
+    "correct_answer": "B",
+    "explanation": "Light and gravity are important extrinsic signals modulating growth."
+  },
+  {
+    "source_sentence": "This act leading to maturation is termed as differentiation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The process by which cells mature to perform specific functions is called:",
+    "options": {
+      "A": "Dedifferentiation",
+      "B": "Differentiation",
+      "C": "Photoperiodism",
+      "D": "Vernalisation"
+    },
+    "correct_answer": "B",
+    "explanation": "Differentiation leads to structurally and functionally specialised cells."
+  },
+  {
+    "source_sentence": "The living differentiated cells, that by now have lost the capacity to divide can regain the capacity of division under certain conditions. This phenomenon is termed as dedifferentiation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Dedifferentiation is the phenomenon by which:",
+    "options": {
+      "A": "Meristematic cells become permanent",
+      "B": "Differentiated cells regain the capacity to divide",
+      "C": "Seeds enter dormancy",
+      "D": "Plants respond to photoperiod"
+    },
+    "correct_answer": "B",
+    "explanation": "Dedifferentiation allows previously differentiated cells to divide again."
+  },
+  {
+    "source_sentence": "formation of meristems – interfascicular cambium and cork cambium from fully differentiated parenchyma cells.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "An example of dedifferentiation is formation of interfascicular cambium from:",
+    "options": {
+      "A": "Meristematic cells only",
+      "B": "Fully differentiated parenchyma cells",
+      "C": "Pollen tubes",
+      "D": "Root cap cells only"
+    },
+    "correct_answer": "B",
+    "explanation": "Parenchyma cells dedifferentiate to form interfascicular cambium."
+  },
+  {
+    "source_sentence": "such meristems/tissues are able to divide and produce cells that once again lose the capacity to divide but mature to perform specific functions, i.e., get redifferentiated.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Redifferentiation refers to cells that:",
+    "options": {
+      "A": "Never mature",
+      "B": "Divide indefinitely without specialisation",
+      "C": "Lose division capacity again and mature to perform specific functions",
+      "D": "Always remain in meristem"
+    },
+    "correct_answer": "C",
+    "explanation": "After dedifferentiation and division, cells redifferentiate into specialised types."
+  },
+  {
+    "source_sentence": "even differentiation in plants is open, because cells/tissues arising out of the same meristem have different structures at maturity.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Differentiation in plants is described as 'open' because:",
+    "options": {
+      "A": "All cells from a meristem become identical",
+      "B": "Cells from the same meristem can have different mature structures",
+      "C": "No cell ever differentiates",
+      "D": "Differentiation occurs only in animals"
+    },
+    "correct_answer": "B",
+    "explanation": "Open differentiation allows diverse cell types from one meristem."
+  },
+  {
+    "source_sentence": "Both growth and differentiation in higher plants are open",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In higher plants, both growth and differentiation are:",
+    "options": {
+      "A": "Closed and fixed",
+      "B": "Open",
+      "C": "Absent after germination",
+      "D": "Found only in seeds"
+    },
+    "correct_answer": "B",
+    "explanation": "Plants show open growth and open differentiation throughout life."
+  },
+  {
+    "source_sentence": "Development is a term that includes all changes that an organism goes through during its life cycle from germination of the seed to senescence.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Development includes all changes from:",
+    "options": {
+      "A": "Pollination to fertilisation only",
+      "B": "Germination of seed to senescence",
+      "C": "Root formation to leaf fall only",
+      "D": "Photosynthesis to respiration"
+    },
+    "correct_answer": "B",
+    "explanation": "Development spans the entire life cycle from germination to senescence."
+  },
+  {
+    "source_sentence": "Plants follow different pathways in response to environment or phases of life to form different kinds of structures. This ability is called plasticity",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The ability of plants to follow different developmental pathways in response to environment is called:",
+    "options": {
+      "A": "Apical dominance",
+      "B": "Plasticity",
+      "C": "Vernalisation",
+      "D": "Respiratory climacteric"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasticity allows alternate structures under different environmental conditions."
+  },
+  {
+    "source_sentence": "heterophyly in cotton, coriander and larkspur.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Heterophylly showing different leaf shapes in juvenile and mature plants is seen in:",
+    "options": {
+      "A": "Only wheat",
+      "B": "Cotton, coriander and larkspur",
+      "C": "Only pine trees",
+      "D": "Only fungi"
+    },
+    "correct_answer": "B",
+    "explanation": "Cotton, coriander and larkspur show heterophylly between juvenile and adult phases."
+  },
+  {
+    "source_sentence": "difference in shapes of leaves produced in air and those produced in water in buttercup also represent the heterophyllous development due to environment",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Buttercup shows heterophyllous development with different leaf shapes in:",
+    "options": {
+      "A": "Air and water habitats",
+      "B": "Only underground roots",
+      "C": "Only seeds",
+      "D": "Only flowers"
+    },
+    "correct_answer": "A",
+    "explanation": "Buttercup leaves differ in air versus aquatic environments."
+  },
+  {
+    "source_sentence": "development is considered as the sum of growth and differentiation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Broadly, plant development is considered as:",
+    "options": {
+      "A": "Growth minus differentiation",
+      "B": "Sum of growth and differentiation",
+      "C": "Only cell division",
+      "D": "Only senescence"
+    },
+    "correct_answer": "B",
+    "explanation": "Development integrates growth and differentiation processes."
+  },
+  {
+    "source_sentence": "The plant growth regulators (PGRs) are small, simple molecules of diverse chemical composition.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Plant growth regulators (PGRs) are:",
+    "options": {
+      "A": "Large protein hormones only",
+      "B": "Small, simple molecules of diverse chemical composition",
+      "C": "Only inorganic ions",
+      "D": "Only carbohydrates"
+    },
+    "correct_answer": "B",
+    "explanation": "PGRs are small molecules belonging to several chemical classes."
+  },
+  {
+    "source_sentence": "They could be indole compounds (indole-3-acetic acid, IAA); adenine derivatives (N6-furfurylamino purine, kinetin), derivatives of carotenoids (abscisic acid, ABA); terpenes (gibberellic acid, GA3) or gases (ethylene, C2H4).",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which PGR is a gaseous plant growth regulator?",
+    "options": {
+      "A": "IAA",
+      "B": "Gibberellic acid",
+      "C": "Ethylene (C2H4)",
+      "D": "Kinetin"
+    },
+    "correct_answer": "C",
+    "explanation": "Ethylene is the gaseous PGR among the major five groups."
+  },
+  {
+    "source_sentence": "One group of PGRs are involved in growth promoting activities, such as cell division, cell enlargement, pattern formation, tropic growth, flowering, fruiting and seed formation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Growth-promoting PGRs are involved in:",
+    "options": {
+      "A": "Only dormancy induction",
+      "B": "Cell division, enlargement, flowering and fruiting",
+      "C": "Only stomatal opening inhibition",
+      "D": "Only seed dormancy"
+    },
+    "correct_answer": "B",
+    "explanation": "Promoters like auxins, GAs and cytokinins stimulate growth and reproductive development."
+  },
+  {
+    "source_sentence": "These are also called plant growth promoters, e.g., auxins, gibberellins and cytokinesis.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which group represents plant growth promoters?",
+    "options": {
+      "A": "Auxins, gibberellins and cytokinins",
+      "B": "Only abscisic acid",
+      "C": "Only ethylene",
+      "D": "Only ABA and ethylene"
+    },
+    "correct_answer": "A",
+    "explanation": "Auxins, gibberellins and cytokinins are classical growth promoters."
+  },
+  {
+    "source_sentence": "The gaseous PGR, ethylene, could fit either of the groups, but it is largely an inhibitor of growth activities.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethylene is largely considered:",
+    "options": {
+      "A": "Only a growth promoter",
+      "B": "An inhibitor of growth activities",
+      "C": "Absent in plants",
+      "D": "A mineral nutrient"
+    },
+    "correct_answer": "B",
+    "explanation": "Though versatile, ethylene predominantly inhibits many growth activities."
+  },
+  {
+    "source_sentence": "Charles Darwin and his son Francis Darwin observed that the coleoptiles of canary grass responded to unilateral illumination by growing towards the light source (phototropism).",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Phototropism in coleoptiles was studied by:",
+    "options": {
+      "A": "Charles and Francis Darwin",
+      "B": "Lysenko only",
+      "C": "Garner and Allard only",
+      "D": "Mendel"
+    },
+    "correct_answer": "A",
+    "explanation": "Darwin and his son demonstrated phototropic bending of coleoptiles."
+  },
+  {
+    "source_sentence": "Auxin was isolated by F.W. Went from tips of coleoptiles of oat seedlings.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Auxin was first isolated by F.W. Went from:",
+    "options": {
+      "A": "Ripe oranges",
+      "B": "Tips of oat coleoptiles",
+      "C": "Herring sperm DNA",
+      "D": "Rice seedlings with bakanae disease"
+    },
+    "correct_answer": "B",
+    "explanation": "Went isolated auxin from oat coleoptile tips."
+  },
+  {
+    "source_sentence": "The 'bakanae' (foolish seedling) disease of rice seedlings, was caused by a fungal pathogen Gibberella fujikuroi.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Bakanae disease of rice is caused by:",
+    "options": {
+      "A": "A bacterium",
+      "B": "Gibberella fujikuroi fungus",
+      "C": "A virus only",
+      "D": "Insect pests"
+    },
+    "correct_answer": "B",
+    "explanation": "Gibberella fujikuroi causes elongated 'foolish seedling' symptoms."
+  },
+  {
+    "source_sentence": "Miller et al. (1955), later identified and crystallised the cytokinesis promoting active substance that they termed kinetin.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Kinetin, a cytokinin, was identified and crystallised by:",
+    "options": {
+      "A": "Miller et al. (1955)",
+      "B": "Charles Darwin",
+      "C": "Cousins (1910)",
+      "D": "Garner and Allard"
+    },
+    "correct_answer": "A",
+    "explanation": "Miller and colleagues isolated kinetin as a cytokinin."
+  },
+  {
+    "source_sentence": "The term 'auxin' is applied to the indole-3-acetic acid (IAA), and to other natural and synthetic compounds having certain growth regulating properties.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The principal natural auxin referred to in the term 'auxin' is:",
+    "options": {
+      "A": "Gibberellic acid",
+      "B": "Indole-3-acetic acid (IAA)",
+      "C": "Abscisic acid",
+      "D": "Zeatin"
+    },
+    "correct_answer": "B",
+    "explanation": "IAA is the classic natural auxin."
+  },
+  {
+    "source_sentence": "They are generally produced by the growing apices of the stems and roots, from where they migrate to the regions of their action.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Auxins are generally produced by:",
+    "options": {
+      "A": "Mature xylem vessels only",
+      "B": "Growing apices of stems and roots",
+      "C": "Root hairs only",
+      "D": "Epidermal cork cells"
+    },
+    "correct_answer": "B",
+    "explanation": "Auxin synthesis occurs in growing apical regions."
+  },
+  {
+    "source_sentence": "NAA (naphthalene acetic acid) and 2, 4-D (2, 4-dichlorophenoxyacetic) are synthetic auxins.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which of the following is a synthetic auxin used as herbicide?",
+    "options": {
+      "A": "IAA",
+      "B": "2,4-D",
+      "C": "Zeatin",
+      "D": "ABA"
+    },
+    "correct_answer": "B",
+    "explanation": "2,4-D is a widely used synthetic auxin and herbicide."
+  },
+  {
+    "source_sentence": "They help to initiate rooting in stem cuttings, an application widely used for plant propagation.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Auxins are widely used to:",
+    "options": {
+      "A": "Prevent all root formation",
+      "B": "Initiate rooting in stem cuttings",
+      "C": "Induce immediate stomatal opening only",
+      "D": "Block fruit ripening permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "Auxin treatment promotes adventitious root formation in cuttings."
+  },
+  {
+    "source_sentence": "In most higher plants, the growing apical bud inhibits the growth of the lateral (axillary) buds, a phenomenon called apical dominance.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Inhibition of lateral bud growth by the apical bud is called:",
+    "options": {
+      "A": "Photoperiodism",
+      "B": "Apical dominance",
+      "C": "Vernalisation",
+      "D": "Plasticity"
+    },
+    "correct_answer": "B",
+    "explanation": "Apical dominance suppresses axillary bud outgrowth."
+  },
+  {
+    "source_sentence": "Removal of shoot tips (decapitation) usually results in the growth of lateral buds",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Decapitation (removal of shoot tips) usually results in:",
+    "options": {
+      "A": "Complete cessation of all growth",
+      "B": "Growth of lateral buds",
+      "C": "Immediate flowering in all plants",
+      "D": "Seed dormancy"
+    },
+    "correct_answer": "B",
+    "explanation": "Removing the apical bud releases lateral buds from inhibition."
+  },
+  {
+    "source_sentence": "Auxins also induce parthenocarpy, e.g., in tomatoes.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Parthenocarpy in tomatoes can be induced by:",
+    "options": {
+      "A": "Auxins",
+      "B": "Only ABA",
+      "C": "Only ethylene at all stages",
+      "D": "Absence of all PGRs"
+    },
+    "correct_answer": "A",
+    "explanation": "Auxin treatment can produce seedless fruits (parthenocarpy)."
+  },
+  {
+    "source_sentence": "2, 4-D, widely used to kill dicotyledonous weeds, does not affect mature monocotyledonous plants.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "2,4-D as herbicide kills:",
+    "options": {
+      "A": "Mature monocot weeds selectively",
+      "B": "Dicotyledonous weeds without affecting mature monocots",
+      "C": "All plants equally including mature monocots",
+      "D": "Only fungi"
+    },
+    "correct_answer": "B",
+    "explanation": "2,4-D selectively kills dicot weeds; mature monocots are unaffected."
+  },
+  {
+    "source_sentence": "There are more than 100 gibberellins reported from widely different organisms such as fungi and higher plants.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Gibberellins have been reported from:",
+    "options": {
+      "A": "Only animals",
+      "B": "Fungi and higher plants",
+      "C": "Only bacteria",
+      "D": "Only viruses"
+    },
+    "correct_answer": "B",
+    "explanation": "Over 100 GAs occur in fungi and higher plants."
+  },
+  {
+    "source_sentence": "All GAs are acidic.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A chemical property common to all gibberellins is that they are:",
+    "options": {
+      "A": "Basic",
+      "B": "Acidic",
+      "C": "Neutral gases",
+      "D": "Only proteins"
+    },
+    "correct_answer": "B",
+    "explanation": "Gibberellins are acidic terpenoid compounds."
+  },
+  {
+    "source_sentence": "Their ability to cause an increase in length of axis is used to increase the length of grapes stalks.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Gibberellins are used commercially to increase:",
+    "options": {
+      "A": "Root hair density only",
+      "B": "Length of grape stalks",
+      "C": "Seed dormancy",
+      "D": "Stomatal closure only"
+    },
+    "correct_answer": "B",
+    "explanation": "GA application elongates grape peduncles/stalks."
+  },
+  {
+    "source_sentence": "GA3 is used to speed up the malting process in brewing industry.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "GA3 is used in brewing to:",
+    "options": {
+      "A": "Speed up the malting process",
+      "B": "Prevent germination of barley",
+      "C": "Remove all enzymes",
+      "D": "Induce dormancy"
+    },
+    "correct_answer": "A",
+    "explanation": "GA3 accelerates malting in brewing."
+  },
+  {
+    "source_sentence": "Spraying sugarcane crop with gibberellins increases the length of the stem, thus increasing the yield by as much as 20 tonnes per acre.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Gibberellin spray on sugarcane increases yield by:",
+    "options": {
+      "A": "Decreasing stem length",
+      "B": "Increasing stem length and sugar storage",
+      "C": "Preventing all growth",
+      "D": "Converting sugar to starch in roots"
+    },
+    "correct_answer": "B",
+    "explanation": "GA-induced stem elongation increases sugarcane yield significantly."
+  },
+  {
+    "source_sentence": "Gibberellins also promotes bolting (internode elongation just prior to flowering) in beet, cabbages and many plants with rosette habit.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Bolting in rosette plants like beet and cabbage is promoted by:",
+    "options": {
+      "A": "Abscisic acid",
+      "B": "Gibberellins",
+      "C": "Only ethylene at all times",
+      "D": "Absence of all hormones"
+    },
+    "correct_answer": "B",
+    "explanation": "Gibberellins induce rapid internode elongation (bolting) before flowering."
+  },
+  {
+    "source_sentence": "Cytokinins have specific effects on cytokinesis, and were discovered as kinetin from the autoclaved herring sperm DNA.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Cytokinins were first discovered as kinetin from:",
+    "options": {
+      "A": "Oat coleoptile tips",
+      "B": "Autoclaved herring sperm DNA",
+      "C": "Ripened oranges",
+      "D": "Rice with bakanae disease"
+    },
+    "correct_answer": "B",
+    "explanation": "Kinetin was isolated from autoclaved herring sperm DNA."
+  },
+  {
+    "source_sentence": "Cytokinins help overcome the apical dominance.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Cytokinins help to:",
+    "options": {
+      "A": "Strengthen apical dominance",
+      "B": "Overcome apical dominance",
+      "C": "Induce seed dormancy",
+      "D": "Close stomata permanently"
+    },
+    "correct_answer": "B",
+    "explanation": "Cytokinins promote lateral bud growth countering apical dominance."
+  },
+  {
+    "source_sentence": "They promote nutrient mobilisation which helps in the delay of leaf senescence.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Cytokinins delay leaf senescence by promoting:",
+    "options": {
+      "A": "Nutrient mobilisation",
+      "B": "Complete chlorophyll destruction",
+      "C": "Stomatal closure only",
+      "D": "Ethylene overproduction only"
+    },
+    "correct_answer": "A",
+    "explanation": "Cytokinin-driven nutrient mobilisation retards senescence."
+  },
+  {
+    "source_sentence": "Ethylene is a simple gaseous PGR. It is synthesised in large amounts by tissues undergoing senescence and ripening fruits.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethylene is synthesised in large amounts by:",
+    "options": {
+      "A": "Only root caps",
+      "B": "Senescing tissues and ripening fruits",
+      "C": "Only meristematic cells in division",
+      "D": "Mature xylem only"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethylene production peaks during senescence and fruit ripening."
+  },
+  {
+    "source_sentence": "Ethylene promotes senescence and abscission of plant organs especially of leaves and flowers.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethylene promotes:",
+    "options": {
+      "A": "Only permanent dormancy",
+      "B": "Senescence and abscission of leaves and flowers",
+      "C": "Only root inhibition",
+      "D": "Only xylem differentiation"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethylene accelerates ageing and shedding of plant organs."
+  },
+  {
+    "source_sentence": "This rise in rate of respiration is called respiratory climactic.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The rise in respiration rate during fruit ripening due to ethylene is called:",
+    "options": {
+      "A": "Photoperiodism",
+      "B": "Respiratory climacteric",
+      "C": "Vernalisation",
+      "D": "Arithmetic growth"
+    },
+    "correct_answer": "B",
+    "explanation": "Ripening fruits show a climacteric rise in respiration."
+  },
+  {
+    "source_sentence": "Ethylene breaks seed and bud dormancy, initiates germination in peanut seeds, sprouting of potato tubers.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethylene can break dormancy and initiate:",
+    "options": {
+      "A": "Germination in peanut seeds and sprouting of potato tubers",
+      "B": "Permanent dormancy in all seeds",
+      "C": "Only stomatal closure",
+      "D": "Only xylem lignification"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethylene releases seeds and buds from dormancy."
+  },
+  {
+    "source_sentence": "The most widely used compound as source of ethylene is ethephon.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethephon is used agriculturally as:",
+    "options": {
+      "A": "A source of ethylene",
+      "B": "A synthetic auxin only",
+      "C": "An inhibitor of all PGRs",
+      "D": "A nitrogen fertiliser"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethephon releases ethylene slowly inside the plant."
+  },
+  {
+    "source_sentence": "Ethephon hastens fruit ripening in tomatoes and apples",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethephon application hastens ripening in:",
+    "options": {
+      "A": "Tomatoes and apples",
+      "B": "Only wheat grains",
+      "C": "Only sugarcane stems",
+      "D": "Only pine cones"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethephon is used to ripen tomatoes and apples commercially."
+  },
+  {
+    "source_sentence": "It promotes female flowers in cucumbers thereby increasing the yield.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethephon promotes female flowers in:",
+    "options": {
+      "A": "Cucumbers",
+      "B": "Only maize",
+      "C": "Only wheat",
+      "D": "Only roses"
+    },
+    "correct_answer": "A",
+    "explanation": "Ethylene from ethephon increases female flowers and yield in cucumber."
+  },
+  {
+    "source_sentence": "abscisic acid (ABA) was discovered for its role in regulating abscission and dormancy.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Abscisic acid was originally discovered for its role in:",
+    "options": {
+      "A": "Only cell division",
+      "B": "Regulating abscission and dormancy",
+      "C": "Only phototropism",
+      "D": "Only fruit sweetness"
+    },
+    "correct_answer": "B",
+    "explanation": "ABA was first linked to abscission and dormancy control."
+  },
+  {
+    "source_sentence": "ABA inhibits seed germination.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Abscisic acid has which effect on seed germination?",
+    "options": {
+      "A": "Promotes immediate germination always",
+      "B": "Inhibits seed germination",
+      "C": "Has no effect on seeds",
+      "D": "Converts seeds to fruits"
+    },
+    "correct_answer": "B",
+    "explanation": "ABA maintains seed dormancy by inhibiting germination."
+  },
+  {
+    "source_sentence": "ABA stimulates the closure of stomata and increases the tolerance of plants to various kinds of stresses. Therefore, it is also called the stress hormone.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Abscisic acid is called the stress hormone because it:",
+    "options": {
+      "A": "Opens stomata during drought",
+      "B": "Stimulates stomatal closure and increases stress tolerance",
+      "C": "Promotes rapid growth during stress",
+      "D": "Has no role in water stress"
+    },
+    "correct_answer": "B",
+    "explanation": "ABA closes stomata and helps plants tolerate abiotic stress."
+  },
+  {
+    "source_sentence": "By inducing dormancy, ABA helps seeds to withstand desiccation and other factors unfavourable for growth.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "ABA-induced seed dormancy helps seeds withstand:",
+    "options": {
+      "A": "Only excessive watering",
+      "B": "Desiccation and unfavourable growth conditions",
+      "C": "Immediate germination in all seasons",
+      "D": "Only insect attack"
+    },
+    "correct_answer": "B",
+    "explanation": "Dormancy protects seeds during dry or adverse conditions."
+  },
+  {
+    "source_sentence": "In most situations, ABA acts as an antagonist to GAs.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "In most situations, ABA acts as an antagonist to:",
+    "options": {
+      "A": "Gibberellins",
+      "B": "Only ethylene",
+      "C": "Only mineral nutrients",
+      "D": "Gravity"
+    },
+    "correct_answer": "A",
+    "explanation": "ABA and gibberellins often have opposing effects on growth and germination."
+  },
+  {
+    "source_sentence": "dormancy in seeds/buds, abscission, senescence, apical dominance, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Events in which more than one PGR interact include:",
+    "options": {
+      "A": "Only photosynthesis",
+      "B": "Dormancy, abscission, senescence and apical dominance",
+      "C": "Only mineral absorption",
+      "D": "Only transpiration"
+    },
+    "correct_answer": "B",
+    "explanation": "Multiple PGRs jointly regulate dormancy, abscission and related processes."
+  },
+  {
+    "source_sentence": "Many of the extrinsic factors such as temperature and light, control plant growth and development via PGR.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Extrinsic factors like temperature and light often control development:",
+    "options": {
+      "A": "Directly without any PGR involvement",
+      "B": "Via plant growth regulators",
+      "C": "Only by changing chromosome number",
+      "D": "Only in animals"
+    },
+    "correct_answer": "B",
+    "explanation": "Light and temperature modulate development largely through PGR action."
+  },
+  {
+    "source_sentence": "Some of such events could be: vernalisation, flowering, dormancy, seed germination, plant movements, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Events influenced by extrinsic factors via PGRs include:",
+    "options": {
+      "A": "Only root hair formation",
+      "B": "Vernalisation, flowering, dormancy and seed germination",
+      "C": "Only DNA replication in animals",
+      "D": "Only blood circulation"
+    },
+    "correct_answer": "B",
+    "explanation": "Vernalisation, flowering and dormancy are PGR-mediated responses to environment."
+  },
+  {
+    "source_sentence": "ABA plays an important role in seed development, maturation and dormancy.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "ABA plays an important role in:",
+    "options": {
+      "A": "Only leaf expansion in darkness",
+      "B": "Seed development, maturation and dormancy",
+      "C": "Only root cap formation",
+      "D": "Only xylem aspiration"
+    },
+    "correct_answer": "B",
+    "explanation": "ABA is central to seed maturation and dormancy establishment."
+  },
+  {
+    "source_sentence": "Ethylene breaks seed and bud dormancy",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Which PGR breaks seed and bud dormancy?",
+    "options": {
+      "A": "Abscisic acid",
+      "B": "Ethylene",
+      "C": "Only cytokinin in all cases",
+      "D": "Only auxin always"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethylene promotes breaking of dormancy in seeds and buds."
+  },
+  {
+    "source_sentence": "Many of the extrinsic factors such as temperature and light, control plant growth and development via PGR. Some of such events could be: vernalisation, flowering, dormancy, seed germination, plant movements, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Photoperiodism refers to the response of plants to:",
+    "options": {
+      "A": "Soil mineral concentration only",
+      "B": "Periods of day/night (photoperiod)",
+      "C": "Wind speed only",
+      "D": "Atmospheric pressure changes only"
+    },
+    "correct_answer": "B",
+    "explanation": "Photoperiodism is the plant's response to day-length or photoperiod, often controlling flowering via PGRs."
+  },
+  {
+    "source_sentence": "7. Both a short day plant and a long day plant can produce can flower simultaneously in a given place'. Explain.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A short day plant and a long day plant can flower simultaneously when:",
+    "options": {
+      "A": "Day length is shorter than critical period for both",
+      "B": "Day length lies between the critical day lengths of the two plants",
+      "C": "Plants receive no light at all",
+      "D": "Only temperature is below 0°C"
+    },
+    "correct_answer": "B",
+    "explanation": "At an intermediate photoperiod, SDPs and LDPs with different critical day lengths may both flower."
+  },
+  {
+    "source_sentence": "9. Would a defoliated plant respond to photoperiodic cycle? Why?",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "A defoliated plant generally does NOT respond to photoperiodic cycle because:",
+    "options": {
+      "A": "Leaves are the site of perception of photoperiod",
+      "B": "Roots perceive photoperiod exclusively",
+      "C": "Flowers perceive photoperiod, not leaves",
+      "D": "Photoperiod has no role in flowering"
+    },
+    "correct_answer": "A",
+    "explanation": "Leaves perceive photoperiod; without leaves the flowering stimulus cannot be generated."
+  },
+  {
+    "source_sentence": "Some of such events could be: vernalisation, flowering, dormancy, seed germination, plant movements, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Vernalisation refers to:",
+    "options": {
+      "A": "Flowering response to low temperature treatment",
+      "B": "Growth response to continuous darkness only",
+      "C": "Seed dispersal by wind",
+      "D": "Photosynthesis in winter only"
+    },
+    "correct_answer": "A",
+    "explanation": "Vernalisation is promotion of flowering by prior exposure to low temperature."
+  },
+  {
+    "source_sentence": "Some of such events could be: vernalisation, flowering, dormancy, seed germination, plant movements, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Winter varieties of wheat and barley require vernalisation because they:",
+    "options": {
+      "A": "Flower without any cold treatment",
+      "B": "Need low temperature exposure before flowering",
+      "C": "Are day-neutral only for leaf shape",
+      "D": "Cannot germinate at any temperature"
+    },
+    "correct_answer": "B",
+    "explanation": "Winter annuals require cold vernalisation to flower."
+  },
+  {
+    "source_sentence": "Some of such events could be: vernalisation, flowering, dormancy, seed germination, plant movements, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The site of perception of vernalisation stimulus in plants is the:",
+    "options": {
+      "A": "Shoot apical meristem or meristematic cells",
+      "B": "Mature xylem vessels only",
+      "C": "Root hairs only",
+      "D": "Epidermal cork layer only"
+    },
+    "correct_answer": "A",
+    "explanation": "Meristematic shoot apex perceives the vernalisation stimulus (NCERT Ch 13)."
+  },
+  {
+    "source_sentence": "Some of such events could be: vernalisation, flowering, dormancy, seed germination, plant movements, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Vernalisation effect can be reversed by:",
+    "options": {
+      "A": "High temperature treatment (devernalisation)",
+      "B": "Complete darkness for one hour",
+      "C": "Addition of 2,4-D only",
+      "D": "Removal of all leaves only"
+    },
+    "correct_answer": "A",
+    "explanation": "High temperature after vernalisation can reverse (devernalise) the cold effect."
+  },
+  {
+    "source_sentence": "Some of such events could be: vernalisation, flowering, dormancy, seed germination, plant movements, etc.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "The term vernalisation was coined by:",
+    "options": {
+      "A": "Lysenko",
+      "B": "Charles Darwin",
+      "C": "F.W. Went",
+      "D": "Miller et al."
+    },
+    "correct_answer": "A",
+    "explanation": "Lysenko introduced the term vernalisation for cold-promoted flowering."
+  },
+  {
+    "source_sentence": "Growth is indeterminate in higher plants.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Growth in higher plants is generally:",
+    "options": {
+      "A": "Determinate and fixed in size",
+      "B": "Indeterminate",
+      "C": "Absent after seed formation",
+      "D": "Limited to flowers only"
+    },
+    "correct_answer": "B",
+    "explanation": "Higher plants retain meristems allowing indeterminate growth."
+  },
+  {
+    "source_sentence": "Ethylene is used to initiate flowering and for synchronising fruit-set in pineapples.",
+    "chapter": "Chapter 13: Plant Growth and Development",
+    "question": "Ethylene is used in pineapple cultivation to:",
+    "options": {
+      "A": "Prevent all flowering",
+      "B": "Initiate flowering and synchronise fruit-set",
+      "C": "Induce only root dormancy",
+      "D": "Block all PGR activity"
+    },
+    "correct_answer": "B",
+    "explanation": "Ethylene treatment uniformises flowering and fruit-set in pineapple."
+  }
+]

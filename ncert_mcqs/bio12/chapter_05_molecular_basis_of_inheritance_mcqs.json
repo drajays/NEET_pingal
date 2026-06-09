@@ -1,0 +1,1705 @@
+[
+  {
+    "source_sentence": "DNA is a long polymer of deoxyribonucleotides.",
+    "question": "DNA is a long polymer of:",
+    "options": {
+      "A": "Ribonucleotides",
+      "B": "Deoxyribonucleotides",
+      "C": "Amino acids",
+      "D": "Monosaccharides"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA consists of deoxyribonucleotide monomers.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "The length of DNA is usually defined as number of nucleotides (or base pairs) present in it.",
+    "question": "DNA length is usually expressed as:",
+    "options": {
+      "A": "Number of amino acids",
+      "B": "Number of nucleotides or base pairs",
+      "C": "Molecular weight only",
+      "D": "Number of chromosomes"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA length is measured in nucleotides or base pairs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Bacteriophage lambda has 48502 base pairs; Escherichia coli has 4.6×10⁶ bp; haploid human DNA is 3.3×10⁹ bp.",
+    "question": "Haploid human DNA content is approximately:",
+    "options": {
+      "A": "4.6×10⁶ bp",
+      "B": "6.6×10⁹ bp",
+      "C": "3.3×10⁹ bp",
+      "D": "48502 bp"
+    },
+    "correct_answer": "C",
+    "explanation": "Human haploid DNA is about 3.3 billion base pairs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Escherichia coli has 4.6×10⁶ bp",
+    "question": "E. coli DNA contains approximately:",
+    "options": {
+      "A": "5386 bp",
+      "B": "48502 bp",
+      "C": "4.6×10⁶ bp",
+      "D": "3.3×10⁹ bp"
+    },
+    "correct_answer": "C",
+    "explanation": "E. coli genome has about 4.6 million base pairs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "A nucleotide has three components – a nitrogenous base, a pentose sugar, and a phosphate group.",
+    "question": "A nucleotide consists of:",
+    "options": {
+      "A": "Base, sugar, and phosphate",
+      "B": "Base and sugar only",
+      "C": "Sugar and phosphate only",
+      "D": "Two bases and one sugar"
+    },
+    "correct_answer": "A",
+    "explanation": "Nucleotides have nitrogenous base, pentose sugar, and phosphate.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Purines (Adenine and Guanine), and Pyrimidines (Cytosine, Uracil and Thymine).",
+    "question": "Which is a purine?",
+    "options": {
+      "A": "Cytosine",
+      "B": "Thymine",
+      "C": "Adenine",
+      "D": "Uracil"
+    },
+    "correct_answer": "C",
+    "explanation": "Purines are Adenine and Guanine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Uracil is present in RNA at the place of Thymine.",
+    "question": "In RNA, thymine is replaced by:",
+    "options": {
+      "A": "Adenine",
+      "B": "Guanine",
+      "C": "Uracil",
+      "D": "Cytosine"
+    },
+    "correct_answer": "C",
+    "explanation": "RNA contains uracil instead of thymine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "A nitrogenous base is linked to the OH of 1'C pentose sugar through a N-glycosidic linkage to form a nucleoside",
+    "question": "A nucleoside forms via:",
+    "options": {
+      "A": "Phosphodiester bond",
+      "B": "N-glycosidic linkage",
+      "C": "Peptide bond",
+      "D": "Hydrogen bond only"
+    },
+    "correct_answer": "B",
+    "explanation": "N-glycosidic linkage connects base to 1' carbon of sugar.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Two nucleotides are linked through 3'-5' phosphodiester linkage.",
+    "question": "Adjacent nucleotides join via:",
+    "options": {
+      "A": "5'-3' phosphodiester",
+      "B": "3'-5' phosphodiester",
+      "C": "Peptide bonds",
+      "D": "Ionic bonds"
+    },
+    "correct_answer": "B",
+    "explanation": "Polynucleotide backbone uses 3'-5' phosphodiester bonds.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "free phosphate moiety at 5'-end; free OH of 3'C at 3'-end",
+    "question": "The 3'-end of a polynucleotide has:",
+    "options": {
+      "A": "Free phosphate",
+      "B": "Free OH at 3'C",
+      "C": "Methyl group",
+      "D": "Amino group"
+    },
+    "correct_answer": "B",
+    "explanation": "3' end has free hydroxyl on 3' carbon.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "The backbone of a polynucleotide chain is formed due to sugar and phosphates.",
+    "question": "Polynucleotide backbone is made of:",
+    "options": {
+      "A": "Bases only",
+      "B": "Sugar and phosphate",
+      "C": "Amino acids",
+      "D": "Lipids"
+    },
+    "correct_answer": "B",
+    "explanation": "Sugar-phosphate forms backbone; bases project outward.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "In RNA, every nucleotide residue has an additional –OH group present at 2'-position in the ribose.",
+    "question": "RNA differs from DNA by having -OH at:",
+    "options": {
+      "A": "1'",
+      "B": "2'",
+      "C": "3'",
+      "D": "5'"
+    },
+    "correct_answer": "B",
+    "explanation": "Ribose has 2'-OH absent in deoxyribose.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA was first identified by Friedrich Meischer in 1869. He named it as 'Nuclein'.",
+    "question": "DNA was first identified as 'Nuclein' by:",
+    "options": {
+      "A": "Watson",
+      "B": "Meischer",
+      "C": "Griffith",
+      "D": "Chargaff"
+    },
+    "correct_answer": "B",
+    "explanation": "Friedrich Meischer isolated nuclein in 1869.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "James Watson and Francis Crick proposed Double Helix model in 1953",
+    "question": "DNA double helix was proposed in 1953 by:",
+    "options": {
+      "A": "Hershey-Chase",
+      "B": "Watson and Crick",
+      "C": "Meselson-Stahl",
+      "D": "Avery"
+    },
+    "correct_answer": "B",
+    "explanation": "Watson and Crick proposed double helix using X-ray data.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "ratios between Adenine and Thymine and Guanine and Cytosine are constant and equals one.",
+    "question": "Chargaff's rule states:",
+    "options": {
+      "A": "A=T and G=C",
+      "B": "A=C",
+      "C": "A+G=T+C only",
+      "D": "A=G"
+    },
+    "correct_answer": "A",
+    "explanation": "In dsDNA, A equals T and G equals C.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "The two chains have anti-parallel polarity.",
+    "question": "DNA strands are:",
+    "options": {
+      "A": "Parallel same polarity",
+      "B": "Antiparallel",
+      "C": "Unlinked",
+      "D": "Identical sequence"
+    },
+    "correct_answer": "B",
+    "explanation": "One strand 5'→3', other 3'→5'.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Adenine forms two hydrogen bonds with Thymine. Guanine is bonded with Cytosine with three H-bonds.",
+    "question": "G-C base pairs have how many hydrogen bonds?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correct_answer": "C",
+    "explanation": "G-C: three H-bonds; A-T: two H-bonds.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "always a purine comes opposite to a pyrimidine.",
+    "question": "Base pairing ensures:",
+    "options": {
+      "A": "Purine opposite pyrimidine",
+      "B": "Purine opposite purine",
+      "C": "Random pairing",
+      "D": "No hydrogen bonds"
+    },
+    "correct_answer": "A",
+    "explanation": "A-T and G-C pairing maintains uniform helix width.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "coiled in a right-handed fashion. Pitch 3.4 nm; roughly 10 bp per turn; 0.34 nm per bp.",
+    "question": "DNA helix has pitch of 3.4 nm with approximately:",
+    "options": {
+      "A": "10 bp per turn",
+      "B": "100 bp per turn",
+      "C": "1 bp per turn",
+      "D": "0.1 bp per turn"
+    },
+    "correct_answer": "A",
+    "explanation": "Pitch 3.4 nm, ~10 bp/turn, 0.34 nm between bp.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "base pair stacks confer stability of helical structure",
+    "question": "Base pair stacking contributes to:",
+    "options": {
+      "A": "Helix stability",
+      "B": "RNA splicing",
+      "C": "Translation",
+      "D": "Mutation only"
+    },
+    "correct_answer": "A",
+    "explanation": "Stacking plus H-bonds stabilizes double helix.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Central dogma: genetic information flows from DNA→RNA→Protein.",
+    "question": "Central dogma describes:",
+    "options": {
+      "A": "Protein→RNA→DNA",
+      "B": "DNA→RNA→Protein",
+      "C": "RNA→DNA→Protein",
+      "D": "DNA→Protein→RNA"
+    },
+    "correct_answer": "B",
+    "explanation": "Information flows DNA to RNA to protein.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "In some viruses the flow of information is from RNA to DNA.",
+    "question": "RNA to DNA information flow is:",
+    "options": {
+      "A": "Transcription",
+      "B": "Reverse transcription",
+      "C": "Translation",
+      "D": "Replication only"
+    },
+    "correct_answer": "B",
+    "explanation": "Some viruses reverse transcribe RNA into DNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "length of DNA in mammalian cell... approximately 2.2 metres.",
+    "question": "DNA length per mammalian cell is about:",
+    "options": {
+      "A": "2.2 mm",
+      "B": "2.2 metres",
+      "C": "10⁻⁶ m",
+      "D": "1.36 mm"
+    },
+    "correct_answer": "B",
+    "explanation": "6.6×10⁹ bp × 0.34 nm ≈ 2.2 m.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "In prokaryotes DNA is held in a region termed as 'nucleoid'.",
+    "question": "Prokaryotic DNA is organized in:",
+    "options": {
+      "A": "Nucleus",
+      "B": "Nucleoid",
+      "C": "Nucleosome",
+      "D": "Nucleolus"
+    },
+    "correct_answer": "B",
+    "explanation": "E. coli DNA compacts in nucleoid region.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "positively charged, basic proteins called histones rich in lysine and arginine",
+    "question": "Histones are:",
+    "options": {
+      "A": "Acidic proteins",
+      "B": "Basic positively charged proteins",
+      "C": "Lipids",
+      "D": "Carbohydrates"
+    },
+    "correct_answer": "B",
+    "explanation": "Histones are basic proteins rich in lysine and arginine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Histones organised as histone octamer of eight molecules.",
+    "question": "Histone octamer has:",
+    "options": {
+      "A": "4 molecules",
+      "B": "8 molecules",
+      "C": "2 molecules",
+      "D": "16 molecules"
+    },
+    "correct_answer": "B",
+    "explanation": "Eight histones form the octamer core.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA wrapped around histone octamer forms nucleosome containing 200 bp.",
+    "question": "Each nucleosome contains about:",
+    "options": {
+      "A": "50 bp",
+      "B": "200 bp",
+      "C": "1000 bp",
+      "D": "5000 bp"
+    },
+    "correct_answer": "B",
+    "explanation": "~200 bp DNA wraps around histone octamer.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Nucleosomes constitute repeating unit of chromatin; beads-on-string under EM.",
+    "question": "Repeating unit of chromatin is:",
+    "options": {
+      "A": "Chromosome",
+      "B": "Nucleosome",
+      "C": "Centromere",
+      "D": "Telomere"
+    },
+    "correct_answer": "B",
+    "explanation": "Nucleosomes repeat along chromatin fiber.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Non-histone Chromosomal (NHC) proteins for higher packaging.",
+    "question": "Higher chromatin packaging uses:",
+    "options": {
+      "A": "NHC proteins",
+      "B": "Only histones",
+      "C": "Ribosomal proteins",
+      "D": "tRNA"
+    },
+    "correct_answer": "A",
+    "explanation": "Non-histone chromosomal proteins aid further coiling.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "loosely packed Euchromatin - transcriptionally active.",
+    "question": "Euchromatin is:",
+    "options": {
+      "A": "Loosely packed, transcriptionally active",
+      "B": "Dense, inactive",
+      "C": "Only in bacteria",
+      "D": "Absent in nucleus"
+    },
+    "correct_answer": "A",
+    "explanation": "Euchromatin stains light and is transcriptionally active.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "densely packed Heterochromatin - transcriptionally inactive.",
+    "question": "Heterochromatin is:",
+    "options": {
+      "A": "Loosely packed",
+      "B": "Densely packed, transcriptionally inactive",
+      "C": "Only exons",
+      "D": "Cytoplasmic"
+    },
+    "correct_answer": "B",
+    "explanation": "Heterochromatin is dense, dark-staining, generally inactive.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "chromatin fibers coiled to form chromosomes at metaphase.",
+    "question": "At metaphase, chromatin is condensed into:",
+    "options": {
+      "A": "Chromosomes",
+      "B": "Nucleotides",
+      "C": "Ribosomes",
+      "D": "Okazaki fragments"
+    },
+    "correct_answer": "A",
+    "explanation": "Further coiling produces visible metaphase chromosomes.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Frederick Griffith experiments with Streptococcus pneumoniae in 1928",
+    "question": "Griffith's experiments used:",
+    "options": {
+      "A": "E. coli",
+      "B": "Streptococcus pneumoniae",
+      "C": "TMV",
+      "D": "Yeast"
+    },
+    "correct_answer": "B",
+    "explanation": "Griffith worked with pneumococcus bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "S strain has polysaccharide coat; R strain does not. S kills mice; R does not.",
+    "question": "Live S strain in mice:",
+    "options": {
+      "A": "Kills mice",
+      "B": "Is harmless",
+      "C": "Cures infection",
+      "D": "Produces R only"
+    },
+    "correct_answer": "A",
+    "explanation": "Virulent S strain causes fatal pneumonia.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "mixture of heat-killed S and live R bacteria killed mice; living S bacteria recovered",
+    "question": "Heat-killed S + live R bacteria:",
+    "options": {
+      "A": "No effect",
+      "B": "Killed mice; live S recovered",
+      "C": "Only R survived",
+      "D": "Destroyed DNA"
+    },
+    "correct_answer": "B",
+    "explanation": "R bacteria transformed to virulent S type.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "genetic material was thought to be protein before Avery, MacLeod and McCarty.",
+    "question": "Before Avery et al., genetic material was believed to be:",
+    "options": {
+      "A": "Protein",
+      "B": "DNA",
+      "C": "Lipid",
+      "D": "Starch"
+    },
+    "correct_answer": "A",
+    "explanation": "Protein was initially suspected as genetic material.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA alone from S bacteria caused R bacteria to become transformed.",
+    "question": "Avery, MacLeod and McCarty identified transforming agent as:",
+    "options": {
+      "A": "Protein",
+      "B": "RNA",
+      "C": "DNA",
+      "D": "Lipid"
+    },
+    "correct_answer": "C",
+    "explanation": "Purified DNA transformed R to S bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Proteases and RNases did not affect transformation; DNase inhibited it.",
+    "question": "DNase treatment:",
+    "options": {
+      "A": "Inhibited transformation",
+      "B": "Enhanced transformation",
+      "C": "Had no effect",
+      "D": "Created protein"
+    },
+    "correct_answer": "A",
+    "explanation": "DNase destroys DNA and blocks transformation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Hershey and Martha Chase (1952) proved DNA is genetic material using bacteriophages.",
+    "question": "Hershey-Chase proved genetic material is:",
+    "options": {
+      "A": "Protein",
+      "B": "DNA",
+      "C": "Carbohydrate",
+      "D": "Lipid"
+    },
+    "correct_answer": "B",
+    "explanation": "Radioactive DNA, not protein, entered bacteria.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "radioactive phosphorus labelled DNA; radioactive sulfur labelled protein.",
+    "question": "³²P in Hershey-Chase labels:",
+    "options": {
+      "A": "Protein",
+      "B": "DNA",
+      "C": "Both equally",
+      "D": "Lipid"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA has phosphorus; protein does not.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "in some viruses, RNA is the genetic material (TMV, QB bacteriophage)",
+    "question": "RNA is genetic material in:",
+    "options": {
+      "A": "All humans",
+      "B": "Some viruses like TMV",
+      "C": "All bacteria",
+      "D": "Histones"
+    },
+    "correct_answer": "B",
+    "explanation": "Certain viruses use RNA as genetic material.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Genetic material must replicate, be stable, mutate, and express Mendelian characters.",
+    "question": "Genetic material must be able to:",
+    "options": {
+      "A": "Replicate itself",
+      "B": "Dissolve fats only",
+      "C": "Conduct electricity",
+      "D": "Form cell wall"
+    },
+    "correct_answer": "A",
+    "explanation": "Ability to direct its own replication is essential.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "2'-OH in RNA makes it labile; thymine confers stability to DNA.",
+    "question": "RNA is less stable than DNA due to:",
+    "options": {
+      "A": "2'-OH group",
+      "B": "Thymine",
+      "C": "Double helix always",
+      "D": "No phosphate"
+    },
+    "correct_answer": "A",
+    "explanation": "Reactive 2'-OH makes RNA chemically labile.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA preferred for storage of genetic information; RNA for transmission.",
+    "question": "For genetic information storage, organisms prefer:",
+    "options": {
+      "A": "RNA",
+      "B": "DNA",
+      "C": "Protein",
+      "D": "Carbohydrate"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA's stability makes it preferred genetic storage molecule.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "RNA was the first genetic material.",
+    "question": "First genetic material was likely:",
+    "options": {
+      "A": "DNA",
+      "B": "RNA",
+      "C": "Protein",
+      "D": "Lipid"
+    },
+    "correct_answer": "B",
+    "explanation": "RNA world hypothesis: RNA preceded DNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "RNA acted as genetic material and catalyst (ribozyme).",
+    "question": "Early RNA functioned as:",
+    "options": {
+      "A": "Genetic material and catalyst",
+      "B": "Only membrane",
+      "C": "Only lipid store",
+      "D": "Only hormone"
+    },
+    "correct_answer": "A",
+    "explanation": "RNA served dual genetic and catalytic roles.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA evolved from RNA with modifications for stability.",
+    "question": "DNA evolved from RNA to become:",
+    "options": {
+      "A": "More stable",
+      "B": "More reactive",
+      "C": "Single-stranded only",
+      "D": "Non-replicative"
+    },
+    "correct_answer": "A",
+    "explanation": "Chemical modifications increased DNA stability.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "double stranded DNA with complementarity enables repair.",
+    "question": "DNA resists changes partly through:",
+    "options": {
+      "A": "Complementary strand and repair",
+      "B": "No base pairing",
+      "C": "Absence of thymine",
+      "D": "2'-OH groups"
+    },
+    "correct_answer": "A",
+    "explanation": "Complementarity allows error correction mechanisms.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "semiconservative DNA replication: one parental and one new strand per daughter DNA.",
+    "question": "Semiconservative replication yields daughter DNA with:",
+    "options": {
+      "A": "Both new strands",
+      "B": "One parental, one new strand",
+      "C": "Both parental",
+      "D": "Random strands"
+    },
+    "correct_answer": "B",
+    "explanation": "Each daughter duplex retains one original strand.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Meselson and Franklin Stahl experiment in 1958 in E. coli using ¹⁵N.",
+    "question": "Semiconservative replication proved by:",
+    "options": {
+      "A": "Meselson and Stahl",
+      "B": "Watson-Crick",
+      "C": "Griffith",
+      "D": "Jacob-Monod"
+    },
+    "correct_answer": "A",
+    "explanation": "1958 density gradient experiment in E. coli.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "after II generation in ¹⁴N medium: equal hybrid and light DNA.",
+    "question": "After two generations in ¹⁴N medium:",
+    "options": {
+      "A": "Only heavy",
+      "B": "Equal hybrid and light DNA",
+      "C": "Only light",
+      "D": "No DNA"
+    },
+    "correct_answer": "B",
+    "explanation": "50% hybrid, 50% light DNA bands observed.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Taylor et al. on Vicia faba proved chromosomal DNA replicates semiconservatively.",
+    "question": "Plant chromosome semiconservative replication shown in:",
+    "options": {
+      "A": "Vicia faba",
+      "B": "E. coli only",
+      "C": "TMV",
+      "D": "Lambda phage only"
+    },
+    "correct_answer": "A",
+    "explanation": "Taylor demonstrated semiconservative replication in faba beans.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "main enzyme: DNA-dependent DNA polymerase.",
+    "question": "Primary replication enzyme:",
+    "options": {
+      "A": "RNA polymerase",
+      "B": "DNA-dependent DNA polymerase",
+      "C": "Ligase only",
+      "D": "Helicase only"
+    },
+    "correct_answer": "B",
+    "explanation": "DNA polymerase uses DNA template to add dNTPs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "E. coli replicates in 18 minutes at ~2000 bp per second.",
+    "question": "E. coli replication rate is approximately:",
+    "options": {
+      "A": "200 bp/s",
+      "B": "2000 bp/s",
+      "C": "20 bp/s",
+      "D": "20000 bp/s"
+    },
+    "correct_answer": "B",
+    "explanation": "~4.6 Mb replicated in ~18 min ≈ 2000 bp/s.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "dNTPs act as substrates and provide energy for polymerisation.",
+    "question": "dNTPs during replication:",
+    "options": {
+      "A": "Are substrates and energy source",
+      "B": "Are templates",
+      "C": "Only inhibitors",
+      "D": "Form histones"
+    },
+    "correct_answer": "A",
+    "explanation": "Terminal phosphates of dNTPs provide polymerization energy.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "replication occurs at replication fork.",
+    "question": "DNA replication proceeds at:",
+    "options": {
+      "A": "Replication fork",
+      "B": "Telomere only",
+      "C": "Nucleolus only",
+      "D": "Ribosome"
+    },
+    "correct_answer": "A",
+    "explanation": "Fork is Y-shaped region of active synthesis.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "polymerisation only in 5'→3' direction; one strand continuous, other discontinuous.",
+    "question": "Lagging strand synthesis is:",
+    "options": {
+      "A": "Continuous",
+      "B": "Discontinuous",
+      "C": "Absent",
+      "D": "RNA only"
+    },
+    "correct_answer": "B",
+    "explanation": "5'→3' template strand replicated as Okazaki fragments.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "discontinuous fragments joined by DNA ligase.",
+    "question": "Okazaki fragments joined by:",
+    "options": {
+      "A": "DNA ligase",
+      "B": "RNA polymerase",
+      "C": "Helicase only",
+      "D": "Reverse transcriptase"
+    },
+    "correct_answer": "A",
+    "explanation": "Ligase seals nicks between fragments.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA polymerase cannot initiate replication on its own.",
+    "question": "DNA polymerase cannot:",
+    "options": {
+      "A": "Initiate de novo synthesis",
+      "B": "Extend chains",
+      "C": "Use dNTPs",
+      "D": "Work at fork"
+    },
+    "correct_answer": "A",
+    "explanation": "Primer with free 3'-OH is required to start.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "definite region termed origin of replication; vectors provide ori.",
+    "question": "Replication begins at:",
+    "options": {
+      "A": "Origin of replication",
+      "B": "Terminator only",
+      "C": "Intron",
+      "D": "Anticodon"
+    },
+    "correct_answer": "A",
+    "explanation": "Defined ori sequences initiate replication.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "In eukaryotes replication at S-phase of cell cycle.",
+    "question": "Eukaryotic DNA replication occurs in:",
+    "options": {
+      "A": "S phase",
+      "B": "G1 only",
+      "C": "M phase only",
+      "D": "G0 only"
+    },
+    "correct_answer": "A",
+    "explanation": "S phase of cell cycle is DNA synthesis phase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "copying genetic information from DNA into RNA is transcription.",
+    "question": "Transcription is:",
+    "options": {
+      "A": "DNA to RNA copying",
+      "B": "Protein synthesis",
+      "C": "DNA replication",
+      "D": "DNA packaging"
+    },
+    "correct_answer": "A",
+    "explanation": "One DNA strand copied into complementary RNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "only a segment of DNA and only one strand copied into RNA.",
+    "question": "Transcription copies:",
+    "options": {
+      "A": "One strand of a DNA segment",
+      "B": "Both strands of entire genome",
+      "C": "Proteins",
+      "D": "Lipids"
+    },
+    "correct_answer": "A",
+    "explanation": "Only one strand of specific region is transcribed.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "adenosine pairs with uracil instead of thymine during transcription.",
+    "question": "In transcription, DNA adenine pairs with RNA:",
+    "options": {
+      "A": "Thymine",
+      "B": "Uracil",
+      "C": "Guanine",
+      "D": "Cytosine"
+    },
+    "correct_answer": "B",
+    "explanation": "A on template pairs with U in RNA transcript.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "transcription unit: Promoter, Structural gene, Terminator.",
+    "question": "Transcription unit contains:",
+    "options": {
+      "A": "Promoter, gene, terminator",
+      "B": "Only introns",
+      "C": "Only ribosome",
+      "D": "Origin only"
+    },
+    "correct_answer": "A",
+    "explanation": "Three regions define a transcription unit.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "3'-5' strand is template; coding strand matches RNA (T for U).",
+    "question": "Template strand polarity is:",
+    "options": {
+      "A": "3'→5'",
+      "B": "5'→3'",
+      "C": "No polarity",
+      "D": "Circular only"
+    },
+    "correct_answer": "A",
+    "explanation": "3'→5' strand serves as transcription template.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "gene is functional unit of inheritance; monocistronic in eukaryotes, polycistronic in prokaryotes.",
+    "question": "Polycistronic mRNA is typical in:",
+    "options": {
+      "A": "Prokaryotes",
+      "B": "Eukaryotes",
+      "C": "Only plants",
+      "D": "Only viruses never"
+    },
+    "correct_answer": "A",
+    "explanation": "Bacterial operons produce polycistronic transcripts.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "exons in mature RNA; introns removed during splicing.",
+    "question": "Introns are:",
+    "options": {
+      "A": "Removed during splicing",
+      "B": "In mature mRNA",
+      "C": "Translated directly",
+      "D": "Only in bacteria"
+    },
+    "correct_answer": "A",
+    "explanation": "Introns intervening sequences excised from pre-mRNA.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "three major RNAs in bacteria: mRNA, tRNA, rRNA.",
+    "question": "Three major bacterial RNAs:",
+    "options": {
+      "A": "mRNA, tRNA, rRNA",
+      "B": "DNA, mRNA, protein",
+      "C": "hnRNA only",
+      "D": "siRNA, miRNA, piRNA"
+    },
+    "correct_answer": "A",
+    "explanation": "All three needed for protein synthesis.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "single DNA-dependent RNA polymerase in bacteria; σ initiation, ρ termination.",
+    "question": "Bacterial σ factor assists:",
+    "options": {
+      "A": "Initiation",
+      "B": "Termination",
+      "C": "Translation",
+      "D": "Replication"
+    },
+    "correct_answer": "A",
+    "explanation": "Sigma factor enables promoter recognition.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "ρ (rho) factor involved in termination of transcription.",
+    "question": "Bacterial ρ factor assists:",
+    "options": {
+      "A": "Initiation",
+      "B": "Termination",
+      "C": "DNA replication",
+      "D": "Splicing"
+    },
+    "correct_answer": "B",
+    "explanation": "Rho factor helps terminate bacterial transcription.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "transcription and translation coupled in bacteria.",
+    "question": "In bacteria transcription and translation are:",
+    "options": {
+      "A": "Coupled",
+      "B": "Fully separated by nucleus",
+      "C": "Impossible together",
+      "D": "Only in mitochondria"
+    },
+    "correct_answer": "A",
+    "explanation": "No nuclear membrane allows simultaneous transcription-translation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "RNA pol I: rRNA; pol II: hnRNA; pol III: tRNA, 5S rRNA, snRNA.",
+    "question": "Eukaryotic RNA polymerase II transcribes:",
+    "options": {
+      "A": "hnRNA/pre-mRNA",
+      "B": "28S rRNA",
+      "C": "tRNA only",
+      "D": "5S rRNA only"
+    },
+    "correct_answer": "A",
+    "explanation": "Pol II makes heterogeneous nuclear RNA precursor.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "RNA pol I transcribes rRNAs 28S, 18S, 5.8S.",
+    "question": "Eukaryotic RNA polymerase I transcribes:",
+    "options": {
+      "A": "rRNA (28S, 18S, 5.8S)",
+      "B": "mRNA",
+      "C": "tRNA",
+      "D": "snRNA only"
+    },
+    "correct_answer": "A",
+    "explanation": "Pol I synthesizes most ribosomal RNAs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "splicing, capping (methyl guanosine at 5'), tailing (200-300 adenylates at 3').",
+    "question": "Eukaryotic mRNA processing includes:",
+    "options": {
+      "A": "Splicing, capping, tailing",
+      "B": "Only replication",
+      "C": "Only translation",
+      "D": "Histone binding"
+    },
+    "correct_answer": "A",
+    "explanation": "hnRNA processed by splicing, 5' cap, and poly-A tail.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "both strands not copied: would code for different proteins and form dsRNA.",
+    "question": "Both DNA strands are not transcribed because:",
+    "options": {
+      "A": "Would produce conflicting proteins and dsRNA",
+      "B": "DNA lacks bases",
+      "C": "RNA polymerase cannot work",
+      "D": "No promoters exist"
+    },
+    "correct_answer": "A",
+    "explanation": "Dual transcription would complicate information transfer.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Gamow proposed triplet code: 4³ = 64 codons for 20 amino acids.",
+    "question": "Genetic code is a:",
+    "options": {
+      "A": "Triplet code",
+      "B": "Singlet code",
+      "C": "Doublet only",
+      "D": "Quintuplet code"
+    },
+    "correct_answer": "A",
+    "explanation": "Three bases per codon; 64 possible combinations.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Khorana synthesized defined RNA; Nirenberg used cell-free system; Ochoa polynucleotide phosphorylase.",
+    "question": "Marshall Nirenberg deciphered code using:",
+    "options": {
+      "A": "Cell-free protein synthesis",
+      "B": "X-ray diffraction",
+      "C": "Griffith experiment",
+      "D": "Southern blot"
+    },
+    "correct_answer": "A",
+    "explanation": "Cell-free system translated synthetic mRNAs.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "61 codons code for amino acids; 3 are stop codons.",
+    "question": "Sense codons numbering:",
+    "options": {
+      "A": "61",
+      "B": "64",
+      "C": "20",
+      "D": "3"
+    },
+    "correct_answer": "A",
+    "explanation": "61 encode amino acids; 3 are stop codons.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "code is degenerate: multiple codons per amino acid.",
+    "question": "Degenerate code means:",
+    "options": {
+      "A": "Multiple codons per amino acid",
+      "B": "One codon many amino acids",
+      "C": "No stop codons",
+      "D": "Overlapping triplets"
+    },
+    "correct_answer": "A",
+    "explanation": "Several codons can specify same amino acid.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "codon read contiguously without punctuation; nearly universal.",
+    "question": "Genetic code is:",
+    "options": {
+      "A": "Nearly universal",
+      "B": "Unique per cell",
+      "C": "Only in plants",
+      "D": "Absent in bacteria"
+    },
+    "correct_answer": "A",
+    "explanation": "Same codons specify same amino acids in almost all organisms.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "AUG codes Met and acts as initiator codon.",
+    "question": "AUG functions as:",
+    "options": {
+      "A": "Met codon and initiator",
+      "B": "Stop codon only",
+      "C": "Phe codon",
+      "D": "tRNA"
+    },
+    "correct_answer": "A",
+    "explanation": "AUG starts translation and codes methionine.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "UAA, UAG, UGA are stop codons.",
+    "question": "Which is a stop codon?",
+    "options": {
+      "A": "UAA",
+      "B": "AUG",
+      "C": "UUU",
+      "D": "GGC"
+    },
+    "correct_answer": "A",
+    "explanation": "UAA, UAG, UGA terminate translation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "sickle cell: glutamate to valine in beta globin from point mutation.",
+    "question": "Sickle cell anemia involves mutation changing:",
+    "options": {
+      "A": "Glu to Val in β-globin",
+      "B": "Val to Glu",
+      "C": "Three base deletion only",
+      "D": "Intron expansion only"
+    },
+    "correct_answer": "A",
+    "explanation": "Single base change alters codon 6 from Glu to Val.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "insertion/deletion of 1-2 bases: frameshift mutation.",
+    "question": "Frameshift results from insertion/deletion of:",
+    "options": {
+      "A": "1 or 2 bases",
+      "B": "Exactly 3 bases always",
+      "C": "Whole chromosome only",
+      "D": "No bases"
+    },
+    "correct_answer": "A",
+    "explanation": "Non-triplet indels shift reading frame.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "insertion of 3 or multiple of 3: reading frame unaltered.",
+    "question": "Inserting 3 nucleotides:",
+    "options": {
+      "A": "Adds one amino acid without frameshift",
+      "B": "Always frameshifts",
+      "C": "Stops all genes",
+      "D": "Deletes gene"
+    },
+    "correct_answer": "A",
+    "explanation": "Triplet indels add/remove codons without frame shift.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Crick postulated tRNA as adapter; anticodon complementary to codon.",
+    "question": "tRNA acts as:",
+    "options": {
+      "A": "Adapter between codon and amino acid",
+      "B": "DNA polymerase",
+      "C": "Promoter",
+      "D": "Origin of replication"
+    },
+    "correct_answer": "A",
+    "explanation": "tRNA reads codon and carries specific amino acid.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "no tRNA for stop codons; actual tRNA structure is inverted L.",
+    "question": "Stop codons recognized by:",
+    "options": {
+      "A": "Release factors",
+      "B": "tRNA",
+      "C": "Sigma factor",
+      "D": "Lac repressor"
+    },
+    "correct_answer": "A",
+    "explanation": "No tRNA for stops; release factors terminate translation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Translation: polymerisation of amino acids into polypeptide directed by mRNA.",
+    "question": "Translation is:",
+    "options": {
+      "A": "Amino acid polymerization into polypeptide",
+      "B": "DNA replication",
+      "C": "RNA synthesis",
+      "D": "Splicing"
+    },
+    "correct_answer": "A",
+    "explanation": "mRNA-directed assembly of polypeptide chains.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "charging of tRNA: ATP activates amino acid linked to cognate tRNA.",
+    "question": "tRNA charging requires:",
+    "options": {
+      "A": "ATP and correct amino acid",
+      "B": "GTP only",
+      "C": "DNA template",
+      "D": "Histones"
+    },
+    "correct_answer": "A",
+    "explanation": "Aminoacyl-tRNA synthetase uses ATP for attachment.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Ribosome synthesises proteins; large and small subunits.",
+    "question": "Protein synthesis occurs on:",
+    "options": {
+      "A": "Ribosomes",
+      "B": "Lysosomes",
+      "C": "Golgi",
+      "D": "Nucleoid only"
+    },
+    "correct_answer": "A",
+    "explanation": "Ribosomes are translation factories.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "23S rRNA in bacteria catalyses peptide bond (ribozyme).",
+    "question": "Peptide bond formation in bacteria catalyzed by:",
+    "options": {
+      "A": "23S rRNA",
+      "B": "mRNA",
+      "C": "DNA polymerase",
+      "D": "Helicase"
+    },
+    "correct_answer": "A",
+    "explanation": "23S rRNA is ribozyme forming peptide bonds.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "translational unit between start codon AUG and stop codon.",
+    "question": "Translational unit spans:",
+    "options": {
+      "A": "Start to stop codon",
+      "B": "Promoter to terminator",
+      "C": "Two origins",
+      "D": "Intron only"
+    },
+    "correct_answer": "A",
+    "explanation": "Coding region from AUG to stop codon.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "UTRs at 5' and 3' ends required for efficient translation.",
+    "question": "Untranslated regions (UTRs) are at:",
+    "options": {
+      "A": "5' and 3' ends of mRNA",
+      "B": "Only inside coding sequence",
+      "C": "tRNA only",
+      "D": "DNA promoter only"
+    },
+    "correct_answer": "A",
+    "explanation": "UTRs flank coding sequence aiding translation efficiency.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "initiator tRNA recognizes start codon AUG.",
+    "question": "Translation initiates when ribosome binds:",
+    "options": {
+      "A": "Start codon AUG",
+      "B": "Stop codon",
+      "C": "Promoter",
+      "D": "Operator"
+    },
+    "correct_answer": "A",
+    "explanation": "Initiator tRNA recognizes AUG start codon.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "release factor binds stop codon terminating translation.",
+    "question": "Translation ends when:",
+    "options": {
+      "A": "Release factor binds stop codon",
+      "B": "Sigma binds",
+      "C": "DNA ligase acts",
+      "D": "Repressor binds"
+    },
+    "correct_answer": "A",
+    "explanation": "Release factors end translation at stop codons.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Gene expression regulated at multiple levels in eukaryotes; transcription initiation predominant in prokaryotes.",
+    "question": "Prokaryotic gene expression mainly controlled at:",
+    "options": {
+      "A": "Transcription initiation",
+      "B": "Splicing",
+      "C": "Nuclear transport",
+      "D": "Histone modification only"
+    },
+    "correct_answer": "A",
+    "explanation": "Transcriptional initiation is primary prokaryotic control point.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Regulatory proteins: activators (positive) and repressors (negative).",
+    "question": "Repressors:",
+    "options": {
+      "A": "Decrease transcription",
+      "B": "Always increase transcription",
+      "C": "Replicate DNA",
+      "D": "Form peptide bonds"
+    },
+    "correct_answer": "A",
+    "explanation": "Repressors negatively regulate gene expression.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "lac operon elucidated by Jacob and Monod; polycistronic under common promoter.",
+    "question": "Lac operon discovered by:",
+    "options": {
+      "A": "Jacob and Monod",
+      "B": "Watson-Crick",
+      "C": "Hershey-Chase",
+      "D": "Meselson-Stahl"
+    },
+    "correct_answer": "A",
+    "explanation": "Jacob and Monod described lac operon regulation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "lac operon: i gene (repressor) and structural genes z, y, a.",
+    "question": "Lac structural genes are:",
+    "options": {
+      "A": "z, y, a",
+      "B": "i only",
+      "C": "p, o, t only",
+      "D": "a, b, c"
+    },
+    "correct_answer": "A",
+    "explanation": "z, y, a structural; i regulatory repressor gene.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "z codes β-galactosidase; y permease; a transacetylase.",
+    "question": "z gene encodes:",
+    "options": {
+      "A": "β-galactosidase",
+      "B": "Permease",
+      "C": "Transacetylase",
+      "D": "Repressor"
+    },
+    "correct_answer": "A",
+    "explanation": "β-gal hydrolyses lactose to glucose and galactose.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "y gene codes permease increasing β-galactoside uptake.",
+    "question": "y gene encodes:",
+    "options": {
+      "A": "Permease",
+      "B": "β-galactosidase",
+      "C": "Repressor",
+      "D": "RNA pol"
+    },
+    "correct_answer": "A",
+    "explanation": "Permease transports lactose into cell.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "lactose is inducer; glucose cannot act as inducer.",
+    "question": "Lactose in lac operon is:",
+    "options": {
+      "A": "Inducer",
+      "B": "Repressor protein",
+      "C": "Promoter",
+      "D": "Terminator"
+    },
+    "correct_answer": "A",
+    "explanation": "Lactose/allolactose induces operon by inactivating repressor.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "repressor synthesized constitutively from i gene binds operator.",
+    "question": "Lac repressor is made:",
+    "options": {
+      "A": "Constitutively",
+      "B": "Only with glucose",
+      "C": "Never",
+      "D": "Only during mitosis"
+    },
+    "correct_answer": "A",
+    "explanation": "i gene continuously produces repressor protein.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "repressor binds operator blocking RNA polymerase.",
+    "question": "Repressor bound to operator:",
+    "options": {
+      "A": "Blocks transcription",
+      "B": "Enhances transcription",
+      "C": "Replicates DNA",
+      "D": "Splices mRNA"
+    },
+    "correct_answer": "A",
+    "explanation": "Operator-bound repressor prevents operon transcription.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "inducer inactivates repressor allowing transcription.",
+    "question": "Inducer binding to repressor:",
+    "options": {
+      "A": "Allows transcription",
+      "B": "Tightens operator binding",
+      "C": "Destroys DNA",
+      "D": "Stops all genes"
+    },
+    "correct_answer": "A",
+    "explanation": "Inducer frees operator for RNA polymerase.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "repressor regulation is negative regulation of lac operon.",
+    "question": "Lac repressor regulation is:",
+    "options": {
+      "A": "Negative regulation",
+      "B": "Positive only",
+      "C": "No regulation",
+      "D": "Post-translational only"
+    },
+    "correct_answer": "A",
+    "explanation": "Repressor prevents transcription = negative control.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Human genome sequencing launched in 1990; completed 2003; 13-year mega project.",
+    "question": "HGP completed in:",
+    "options": {
+      "A": "2003",
+      "B": "1993",
+      "C": "2013",
+      "D": "1983"
+    },
+    "correct_answer": "A",
+    "explanation": "Project finished in 2003 after 13 years.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Human genome ~3×10⁹ bp; HGP spurred Bioinformatics.",
+    "question": "HGP contributed to development of:",
+    "options": {
+      "A": "Bioinformatics",
+      "B": "Photosynthesis theory",
+      "C": "Cell theory",
+      "D": "Germ theory only"
+    },
+    "correct_answer": "A",
+    "explanation": "Massive sequence data required computational biology.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Goals: 20,000-25,000 genes; 3 billion bp; ELSI ethical/legal/social issues.",
+    "question": "ELSI stands for:",
+    "options": {
+      "A": "Ethical, Legal, Social Issues",
+      "B": "Enzyme Linked Sequence",
+      "C": "Electronic Legal System",
+      "D": "Evolution Lineage Study"
+    },
+    "correct_answer": "A",
+    "explanation": "HGP addressed ethical, legal, social implications.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "EST approach and whole genome sequencing with sequence annotation.",
+    "question": "Two HGP approaches were ESTs and:",
+    "options": {
+      "A": "Whole genome sequencing with annotation",
+      "B": "Protein only sequencing",
+      "C": "Light microscopy",
+      "D": "Karyotyping only"
+    },
+    "correct_answer": "A",
+    "explanation": "EST tags plus blind sequencing with later annotation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "BAC and YAC vectors; Sanger sequencing method.",
+    "question": "HGP used sequencing method of:",
+    "options": {
+      "A": "Frederick Sanger",
+      "B": "Griffith",
+      "C": "Mendel",
+      "D": "Darwin"
+    },
+    "correct_answer": "A",
+    "explanation": "Automated Sanger dideoxy sequencing was used.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "human genome 3164.7 million bp; ~30,000 genes; 99.9% identical among humans.",
+    "question": "Human genome gene estimate from HGP:",
+    "options": {
+      "A": "~30,000",
+      "B": "300,000",
+      "C": "3 million",
+      "D": "300"
+    },
+    "correct_answer": "A",
+    "explanation": "About 30,000 genes, fewer than earlier estimates.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Less than 2% codes for proteins; repeated sequences large portion.",
+    "question": "Protein-coding fraction of human genome:",
+    "options": {
+      "A": "Less than 2%",
+      "B": "50%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "correct_answer": "A",
+    "explanation": "Coding sequences are under 2% of genome.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Chromosome 1 most genes (2968); Y fewest (231).",
+    "question": "Fewest genes on chromosome:",
+    "options": {
+      "A": "Y",
+      "B": "1",
+      "C": "X",
+      "D": "21"
+    },
+    "correct_answer": "A",
+    "explanation": "Y chromosome has fewest genes (231).",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "~1.4 million SNP locations identified.",
+    "question": "HGP identified approximately:",
+    "options": {
+      "A": "1.4 million SNPs",
+      "B": "14 SNPs",
+      "C": "14 billion SNPs",
+      "D": "No polymorphisms"
+    },
+    "correct_answer": "A",
+    "explanation": "1.4 million single nucleotide polymorphism sites found.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Functions unknown for over 50% of discovered genes.",
+    "question": "Over 50% of human genes have:",
+    "options": {
+      "A": "Unknown functions",
+      "B": "Identical bacterial function",
+      "C": "No sequence",
+      "D": "Only introns"
+    },
+    "correct_answer": "A",
+    "explanation": "Function remains unknown for majority of genes.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "99.9% bases same; 0.1% differences make individuals unique.",
+    "question": "Individual DNA differences exploited in fingerprinting are about:",
+    "options": {
+      "A": "0.1%",
+      "B": "50%",
+      "C": "99.9%",
+      "D": "100%"
+    },
+    "correct_answer": "A",
+    "explanation": "~0.1% sequence variation distinguishes individuals.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA fingerprinting uses repetitive DNA; satellite DNA minor peaks in density gradient.",
+    "question": "DNA fingerprinting targets:",
+    "options": {
+      "A": "Polymorphic repetitive DNA",
+      "B": "Only histones",
+      "C": "Only mRNA cap",
+      "D": "Cellulose"
+    },
+    "correct_answer": "A",
+    "explanation": "VNTRs/mini-satellites show high polymorphism.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Developed by Alec Jeffreys using VNTR Southern blot hybridisation.",
+    "question": "DNA fingerprinting pioneered by:",
+    "options": {
+      "A": "Alec Jeffreys",
+      "B": "Watson",
+      "C": "Sanger",
+      "D": "Monod"
+    },
+    "correct_answer": "A",
+    "explanation": "Jeffreys used VNTR Southern blot hybridization.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Steps: isolate DNA, restrict, electrophorese, blot, hybridize VNTR, autoradiograph.",
+    "question": "DNA fingerprinting includes:",
+    "options": {
+      "A": "Restriction digestion and electrophoresis",
+      "B": "Only translation",
+      "C": "Only transcription",
+      "D": "Only replication"
+    },
+    "correct_answer": "A",
+    "explanation": "RE digestion, gel separation, Southern hybridization.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "VNTR is mini-satellite; size 0.1-20 kb; high copy number polymorphism.",
+    "question": "VNTR size range:",
+    "options": {
+      "A": "0.1 to 20 kb",
+      "B": "1-2 bp",
+      "C": "100 Mb",
+      "D": "0.001 nm"
+    },
+    "correct_answer": "A",
+    "explanation": "Copy number variation yields 0.1-20 kb VNTR alleles.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Pattern identical only in monozygotic twins.",
+    "question": "Identical DNA fingerprints occur in:",
+    "options": {
+      "A": "Monozygotic twins",
+      "B": "All humans",
+      "C": "All siblings",
+      "D": "Unrelated individuals"
+    },
+    "correct_answer": "A",
+    "explanation": "Only identical twins share same fingerprint pattern.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "PCR allows fingerprinting from single cell DNA.",
+    "question": "PCR improved fingerprinting sensitivity to:",
+    "options": {
+      "A": "Single cell DNA",
+      "B": "Litres of blood required",
+      "C": "No DNA needed",
+      "D": "Protein only"
+    },
+    "correct_answer": "A",
+    "explanation": "PCR amplifies minute DNA samples.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Applications: forensics, paternity, population and genetic diversity.",
+    "question": "DNA fingerprinting is used in:",
+    "options": {
+      "A": "Forensics and paternity testing",
+      "B": "Photosynthesis",
+      "C": "Protein folding only",
+      "D": "Osmosis studies"
+    },
+    "correct_answer": "A",
+    "explanation": "Forensic ID, paternity disputes, population genetics.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "Polymorphism arises from mutations; allele frequency >0.01 in population.",
+    "question": "DNA polymorphism requires population allele frequency >:",
+    "options": {
+      "A": "0.01",
+      "B": "0.001",
+      "C": "0.5",
+      "D": "1.0"
+    },
+    "correct_answer": "A",
+    "explanation": "Variant frequency above 1% defines polymorphism.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA from every tissue of an individual shows same polymorphism pattern.",
+    "question": "DNA fingerprint from any tissue of an individual:",
+    "options": {
+      "A": "Shows same pattern",
+      "B": "Always differs",
+      "C": "Is absent",
+      "D": "Changes daily"
+    },
+    "correct_answer": "A",
+    "explanation": "All somatic tissues share same genomic DNA polymorphisms.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "DNA acts as genetic material in most organisms; RNA messenger, adapter, structural, catalytic roles.",
+    "question": "In most organisms genetic material is:",
+    "options": {
+      "A": "DNA",
+      "B": "RNA",
+      "C": "Protein",
+      "D": "Lipid"
+    },
+    "correct_answer": "A",
+    "explanation": "DNA stores genetic info in most life forms.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "RNA viruses mutate faster due to RNA instability.",
+    "question": "RNA viruses evolve faster because:",
+    "options": {
+      "A": "Higher mutation rate",
+      "B": "More stable genome",
+      "C": "No replication",
+      "D": "Larger genome"
+    },
+    "correct_answer": "A",
+    "explanation": "RNA instability increases mutation frequency.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "vectors provide origin of replication for recombinant DNA procedures.",
+    "question": "Cloning vectors provide:",
+    "options": {
+      "A": "Origin of replication",
+      "B": "Ribosomes",
+      "C": "Histone octamer",
+      "D": "Peptide bonds"
+    },
+    "correct_answer": "A",
+    "explanation": "ori allows foreign DNA replication in host.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  },
+  {
+    "source_sentence": "¹⁵N distinguished by density not radioactivity in Meselson-Stahl CsCl gradient.",
+    "question": "¹⁵N in Meselson-Stahl separated by:",
+    "options": {
+      "A": "Density in CsCl gradient",
+      "B": "Radioactivity",
+      "C": "Color",
+      "D": "Magnetism"
+    },
+    "correct_answer": "A",
+    "explanation": "Heavy and light DNA separated by equilibrium density centrifugation.",
+    "chapter": "Chapter 5: Molecular Basis of Inheritance"
+  }
+]
