@@ -19,6 +19,23 @@ COPYRIGHT_FIELDS = (
     "explanation_image_url",
 )
 
+# Normalize chapter names from supplementary sources to the canonical
+# Pearson chapter titles so every question merges into the 38-chapter tree.
+TOPIC_ALIASES = {
+    "Animal Kingdom": "Animal Classification",
+    "Sexual Reproduction in Flowering Plants": "Reproduction in Flowering Plant",
+    "Cell-The Unit of Life": "Cell: The Unit of Life",
+    "Morphology of Flowering Plants": "Plant Morphology",
+    "Human Health and Diseases": "Human Health and Disease",
+    "Chemical Coordination and Integration": "Co-ordination and Integration",
+    "Structural Organisation in Animals": "Structural Organization in Animals",
+    "Biotechnology: Principles and Processes": "Biotechnology Principles and Processes",
+    "Neural Control and Coordination": "Neural Control and Co-ordination",
+    "Biotechnology and Its Applications": "Biotechnology and Its Application",
+    "Excretory Products and Their Elimination": "Products and Their Elimination",
+    "The Living World": "Living World",
+}
+
 
 def load_questions(path: Path) -> list:
     data = json.loads(path.read_text(encoding="utf-8"))
@@ -60,10 +77,20 @@ def load_csv_questions(path: Path) -> list:
     return questions
 
 
+def is_gradeable(item: dict) -> bool:
+    """A usable MCQ needs a valid answer key and four complete options."""
+    if (item.get("answer") or "").strip().upper() not in ("A", "B", "C", "D"):
+        return False
+    return all((item.get(f"option_{o}") or "").strip() for o in ("a", "b", "c", "d"))
+
+
 def sanitize_question(item: dict) -> dict:
     cleaned = dict(item)
     for field in COPYRIGHT_FIELDS:
         cleaned.pop(field, None)
+
+    topic = (cleaned.get("topic") or "").strip()
+    cleaned["topic"] = TOPIC_ALIASES.get(topic, topic)
 
     tags = cleaned.get("tags") or []
     if isinstance(tags, str):
@@ -82,7 +109,7 @@ def main() -> int:
         root / "pearson_biology_vol1.json",
         root / "pearson_biology_vol2.json",
     ]
-    extra_csv = root / "biology_the_living_world.csv"
+    extra_csv = root / "neet_biology_questions.csv"
     output = root / "bank.json"
 
     missing = [p for p in sources if not p.exists()]
@@ -94,6 +121,7 @@ def main() -> int:
     merged: list = []
     seen: set[str] = set()
     duplicates = 0
+    skipped_invalid = 0
 
     for path in sources:
         for item in load_questions(path):
@@ -101,8 +129,12 @@ def main() -> int:
             if not key or key in seen:
                 duplicates += 1
                 continue
+            cleaned = sanitize_question(item)
+            if not is_gradeable(cleaned):
+                skipped_invalid += 1
+                continue
             seen.add(key)
-            merged.append(sanitize_question(item))
+            merged.append(cleaned)
 
     if extra_csv.exists():
         csv_added = 0
@@ -111,8 +143,12 @@ def main() -> int:
             if not key or key in seen:
                 duplicates += 1
                 continue
+            cleaned = sanitize_question(item)
+            if not is_gradeable(cleaned):
+                skipped_invalid += 1
+                continue
             seen.add(key)
-            merged.append(sanitize_question(item))
+            merged.append(cleaned)
             csv_added += 1
         if csv_added:
             print(f"Added {csv_added} unique questions from {extra_csv.name}")
@@ -129,6 +165,7 @@ def main() -> int:
     print(f"Built {output}")
     print(f"Questions: {len(merged)}")
     print(f"Duplicates skipped: {duplicates}")
+    print(f"Invalid (no answer / incomplete options) skipped: {skipped_invalid}")
     return 0
 
 
