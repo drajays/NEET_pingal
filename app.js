@@ -14,7 +14,7 @@ const DEFAULT_APP_CONFIG = {
   remoteFlagsUrl: '',
   adminPin: '1234',
   autoSyncOnLoad: true,
-  appName: 'NEET Chemistry MCQ Mastery',
+  appName: 'NEET Biology MCQ Mastery',
   students: ['Student 1', 'Student 2', 'Student 3', 'Student 4']
 };
 
@@ -1144,7 +1144,7 @@ async function syncFlagsFromRemote({ silent = false } = {}) {
 function publishFlagsForDevices() {
   if (!requireAdmin('publish flags')) return;
   const payload = {
-    app: getAppConfig().appName || 'NEET Chemistry MCQ Mastery',
+    app: getAppConfig().appName || 'NEET Biology MCQ Mastery',
     version: 1,
     updatedAt: Date.now(),
     items: state.flags.items
@@ -1480,7 +1480,7 @@ function setGhStatus(msg) {
 
 async function getGithubFileSha(token) {
   const cfg = getAppConfig();
-  const repo = cfg.githubRepo || 'drajays/NEET_chem';
+  const repo = cfg.githubRepo || 'drajays/NEET_pingal';
   const path = cfg.githubBankPath || 'bank.json';
   const branch = cfg.githubBranch || 'main';
   const res = await fetch(
@@ -1498,7 +1498,7 @@ async function pushBankToGitHub({ silent = false } = {}) {
     return;
   }
   const cfg = getAppConfig();
-  const repo = cfg.githubRepo || 'drajays/NEET_chem';
+  const repo = cfg.githubRepo || 'drajays/NEET_pingal';
   const path = cfg.githubBankPath || 'bank.json';
   const branch = cfg.githubBranch || 'main';
 
@@ -2129,7 +2129,7 @@ function exportFilename(extension) {
 
 
 function migrateKnownWhyWrongNotes() {
-  // no patches needed for chemistry bank
+  // no patches needed for biology bank
 }
 
 async function persistQuestions() {

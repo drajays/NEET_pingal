@@ -1,5 +1,5 @@
 /**
- * NEET Chemistry curriculum — Class XI / XII chapter architecture.
+ * NEET Biology curriculum — Class XI / XII chapter architecture.
  * Maps bank `topic` values to a stable syllabus tree; subtopics = question sections.
  */
 (function (global) {
@@ -15,40 +15,58 @@
     {
       id: 'xi',
       label: 'Class XI',
-      subtitle: 'Physical & Inorganic Chemistry — Part 1',
+      subtitle: 'Botany & Zoology — Part 1',
       units: [
         {
-          id: 'xi-physical',
-          label: 'Physical Chemistry',
+          id: 'xi-diversity',
+          label: 'Diversity in the Living World',
           chapters: [
-            '1. Some Basic Concepts of Chemistry',
-            '2. Structure of Atom',
-            '3. States of Matter',
-            '4. Thermodynamics',
-            '5. Chemical Equilibrium',
-            '6. Ionic Equilibrium',
-            '7. Redox Reactions'
+            'Living World',
+            'Biological Classification',
+            'Plant Kingdom',
+            'Animal Classification'
           ]
         },
         {
-          id: 'xi-inorganic',
-          label: 'Inorganic Chemistry',
+          id: 'xi-structural',
+          label: 'Structural Organisation in Plants & Animals',
           chapters: [
-            '13. Classification of Elements and Periodicity in Properties',
-            '14. Chemical Bonding and Molecular Structure',
-            '15. Hydrogen',
-            '16. The s-Block Elements',
-            '17. The p-Block Elements'
+            'Plant Morphology',
+            'Anatomy of Flowering Plants',
+            'Structural Organization in Animals'
           ]
         },
         {
-          id: 'xi-organic',
-          label: 'Organic Chemistry',
+          id: 'xi-cell',
+          label: 'Cell Structure & Function',
           chapters: [
-            '22. Organic Chemistry – Some Basic Principles and Techniques',
-            '23. Aliphatic Hydrocarbons',
-            '24. Aromatic Hydrocarbons',
-            '21. Environmental Chemistry'
+            'Cell: The Unit of Life',
+            'Biomolecules',
+            'Cell Cycle and Cell Division'
+          ]
+        },
+        {
+          id: 'xi-plant-physiology',
+          label: 'Plant Physiology',
+          chapters: [
+            'Transport in Plants',
+            'Mineral Nutrition',
+            'Photosynthesis in Higher Plants',
+            'Respiration in Plants',
+            'Plant Growth and Development'
+          ]
+        },
+        {
+          id: 'xi-human-physiology',
+          label: 'Human Physiology',
+          chapters: [
+            'Digestion and Absorption',
+            'Breathing and Exchange of Gases',
+            'Body Fluids and Circulation',
+            'Products and Their Elimination',
+            'Locomotion and Movement',
+            'Neural Control and Co-ordination',
+            'Co-ordination and Integration'
           ]
         }
       ]
@@ -56,40 +74,52 @@
     {
       id: 'xii',
       label: 'Class XII',
-      subtitle: 'Physical, Inorganic & Organic Chemistry — Part 2',
+      subtitle: 'Botany & Zoology — Part 2',
       units: [
         {
-          id: 'xii-physical',
-          label: 'Physical Chemistry',
+          id: 'xii-reproduction',
+          label: 'Reproduction',
           chapters: [
-            '8. Solid State',
-            '9. Solutions',
-            '10. Electrochemistry',
-            '11. Chemical Kinetics',
-            '12. Surface Chemistry'
+            'Reproduction in Organisms',
+            'Reproduction in Flowering Plant',
+            'Human Reproduction',
+            'Reproductive Health'
           ]
         },
         {
-          id: 'xii-inorganic',
-          label: 'Inorganic Chemistry',
+          id: 'xii-genetics',
+          label: 'Genetics & Evolution',
           chapters: [
-            '18. General Principles and Processes of Isolation of Elements',
-            '19. The d- and f-Block Elements',
-            '20. Coordination Compounds'
+            'Principles of Inheritance and Variation',
+            'Molecular Basis of Inheritance',
+            'Evolution'
           ]
         },
         {
-          id: 'xii-organic',
-          label: 'Organic Chemistry',
+          id: 'xii-welfare',
+          label: 'Biology in Human Welfare',
           chapters: [
-            '25. Organic Compounds Containing Halogens',
-            '26. Alcohols, Phenols and Ethers',
-            '27. Aldehydes and Ketones',
-            '28. Carboxylic Acids and its Derivatives',
-            '29. Organic Compounds Containing Nitrogen',
-            '30. Polymers',
-            '31. Biomolecules',
-            '32. Chemistry in Everyday Life'
+            'Human Health and Disease',
+            'Strategies for Enhancement in Food Production',
+            'Microbes in Human Welfare'
+          ]
+        },
+        {
+          id: 'xii-biotech',
+          label: 'Biotechnology',
+          chapters: [
+            'Biotechnology Principles and Processes',
+            'Biotechnology and Its Application'
+          ]
+        },
+        {
+          id: 'xii-ecology',
+          label: 'Ecology',
+          chapters: [
+            'Organisms and Populations',
+            'Ecosystem',
+            'Biodiversity and Conservation',
+            'Environmental Issues'
           ]
         }
       ]
@@ -166,7 +196,7 @@
             sections.push({
               key: 'other',
               label: 'Mixed',
-              icon: '⚗️',
+              icon: '🧬',
               count: otherCount,
               questions: bucket.questions.filter(q => normalizeSection(q.subtopic) === 'other')
             });

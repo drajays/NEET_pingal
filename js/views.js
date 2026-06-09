@@ -248,7 +248,7 @@
       <div class="view-hero compact">
         <div>
           <p class="eyebrow-dark">Syllabus architecture</p>
-          <h2>Class XI & XII · NEET Chemistry</h2>
+          <h2>Class XI & XII · NEET Biology</h2>
           <p class="lead">Chapters → sections (Level I, Level II, Previous Years NEET). Green = strong, amber = tried, red = weak, grey = new.</p>
         </div>
       </div>
