@@ -1463,6 +1463,36 @@ textarea:focus {
 
 .notes-foot { margin-top: 1.6rem; padding-top: 1rem; border-top: 1px solid var(--border); }
 
+.notes-section-head {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 0.8rem;
+}
+.notes-section-head > h2, .notes-section-head > h3 { flex: 1; }
+.notes-mcq-badge {
+  flex: none; cursor: pointer; white-space: nowrap;
+  background: var(--surface-2); color: var(--primary-dark);
+  border: 1px solid var(--border); border-radius: 999px;
+  padding: 0.2rem 0.65rem; font: inherit; font-size: 0.74rem; font-weight: 700;
+}
+.notes-mcq-badge:hover { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+.notes-section-flash {
+  animation: notesFlash 1.6s ease;
+  border-radius: var(--radius-sm);
+}
+@keyframes notesFlash {
+  0% { background: var(--primary-glow); }
+  100% { background: transparent; }
+}
+
+.note-link-btn {
+  display: inline-block; margin: 0.6rem 0 0.2rem; cursor: pointer;
+  background: var(--surface-2); color: var(--primary-dark);
+  border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 0.45rem 0.7rem; font: inherit; font-size: 0.85rem; font-weight: 600;
+  text-align: left;
+}
+.note-link-btn:hover { background: var(--primary); color: #fff; border-color: var(--primary); }
+
 @media (max-width: 860px) {
   .notes-layout { grid-template-columns: 1fr; }
   .notes-outline { position: static; flex-flow: row wrap; }

@@ -33,6 +33,7 @@ function getAdminPin() {
 const state = {
   questions: [],
   notes: [],
+  noteLinks: {},
   selectedNoteChapterId: '',
   activeTab: 'dashboard',
   selectedChapter: '',
@@ -898,6 +899,36 @@ function startPracticeWithQuestions(questions) {
   renderPracticeQuestion();
 }
 
+// Practice every MCQ linked to one notes section.
+function startPracticeForNoteSection(sectionId) {
+  const pool = state.questions.filter(q => noteSectionIdForQuestion(q) === sectionId);
+  if (!pool.length) {
+    showToastWarning('No MCQs are linked to this section yet.');
+    return;
+  }
+  startPracticeWithQuestions(pool);
+}
+
+// Open the Chapter Notes tab scrolled to a specific section.
+function gotoNoteSection(sectionId) {
+  const found = findNoteSection(sectionId);
+  if (!found) {
+    showToastWarning('Notes for this question are not available yet.');
+    return;
+  }
+  state.selectedNoteChapterId = found.chapter.id;
+  switchTab('notes');
+  if (window.NeetViews) NeetViews.renderNotes();
+  requestAnimationFrame(() => {
+    const target = document.getElementById(`note-${sectionId}`);
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      target.classList.add('notes-section-flash');
+      setTimeout(() => target.classList.remove('notes-section-flash'), 1600);
+    }
+  });
+}
+
 function bindSearchPalette() {
   if (!el.searchDialog) return;
 
@@ -982,6 +1013,8 @@ function handleViewAction(event) {
   else if (action === 'practice-section') {
     applyChapterPractice(target.dataset.chapter, { sectionKey: target.dataset.section });
   }
+  else if (action === 'practice-note-section') startPracticeForNoteSection(target.dataset.section);
+  else if (action === 'goto-note') gotoNoteSection(target.dataset.section);
   else if (action === 'sync-progress') syncProgressFromRemote({ silent: false });
 }
 
@@ -1407,6 +1440,66 @@ async function loadNotesAsync() {
       // try next candidate
     }
   }
+}
+
+// note_links.json maps each MCQ (by question text) to the notes section it
+// tests. Keyed the same way build_bank.py de-dups, so links survive rebuilds
+// even though MCQ ids are regenerated each build.
+async function loadNoteLinksAsync() {
+  const config = getAppConfig();
+  const candidates = ['note_links.json'];
+  const bankUrl = clean(config.remoteBankUrl);
+  if (bankUrl && bankUrl.includes('bank.json')) {
+    candidates.push(bankUrl.replace('bank.json', 'note_links.json'));
+  }
+  for (const url of candidates) {
+    try {
+      const response = await fetch(`${url}${url.includes('?') ? '&' : '?'}t=${Date.now()}`, {
+        cache: 'no-store'
+      });
+      if (!response.ok) continue;
+      const data = await response.json();
+      const chapters = Array.isArray(data) ? data : (data.chapters || []);
+      const map = {};
+      chapters.forEach(ch => Object.assign(map, ch.links || {}));
+      if (Object.keys(map).length) {
+        state.noteLinks = map;
+        return;
+      }
+    } catch {
+      // try next candidate
+    }
+  }
+}
+
+// Stable key for matching an MCQ to its notes link. Whitespace is collapsed to
+// single spaces (the app stores question text with newlines flattened), then
+// trimmed and lowercased — note_links.json is keyed the same way.
+function questionLinkKey(question) {
+  return (question || '').replace(/\s+/g, ' ').trim().toLowerCase();
+}
+
+function noteSectionIdForQuestion(q) {
+  if (!q) return '';
+  return state.noteLinks[questionLinkKey(q.question)] || '';
+}
+
+// Find a notes section { heading, chapter } by its stable id, across chapters.
+function findNoteSection(sectionId) {
+  if (!sectionId) return null;
+  for (const chapter of state.notes || []) {
+    const section = (chapter.sections || []).find(s => s.id === sectionId);
+    if (section) return { section, chapter };
+  }
+  return null;
+}
+
+// "Read this in the notes" link shown under a practice answer.
+function noteLinkHtml(question) {
+  const sectionId = noteSectionIdForQuestion(question);
+  const found = findNoteSection(sectionId);
+  if (!found) return '';
+  return `<button type="button" class="note-link-btn" data-action="goto-note" data-section="${escapeHtml(sectionId)}">📖 Read this in notes: ${escapeHtml(found.section.heading)}</button>`;
 }
 
 async function fetchRemoteBank() {
@@ -2822,6 +2915,7 @@ function renderPracticeQuestion() {
         <strong>Correct answer:</strong> ${renderMath(current.options[correctIndex])}
         ${current.explanation ? `<div class="answer-explanation"><strong>Explanation:</strong>${renderExplanation(current.explanation)}</div>` : ''}
         ${renderImageHtml(current.explanationImage, 'Explanation image')}
+        ${noteLinkHtml(current)}
         ${renderWhyWrongHtml(current, displayLetterByCanonical)}
         <button type="button" class="flag-report-btn" data-action="open-flag" ${hasPendingFlagForQuestion(current.id, state.activeStudentId) ? 'disabled' : ''}>
           ${hasPendingFlagForQuestion(current.id, state.activeStudentId) ? '✓ Report submitted — pending review' : '⚑ Flag wrong answer / suggest correction'}
@@ -3262,6 +3356,11 @@ function bindEvents() {
       if (current) openFlagDialog(current);
       return;
     }
+    const noteBtn = event.target.closest('[data-action="goto-note"]');
+    if (noteBtn) {
+      gotoNoteSection(noteBtn.dataset.section);
+      return;
+    }
     const btn = event.target.closest('.option-btn');
     if (!btn || btn.disabled) return;
     selectPracticeOption(btn.dataset.option);
@@ -3544,11 +3643,13 @@ async function init() {
     getQuestionStatus,
     getAuditLog: getAuditLogForStudent,
     getCoachInsights: getCoachInsightsForStudent,
-    populateStudentSelect
+    populateStudentSelect,
+    noteSectionIdForQuestion
   });
 
   state.questions = await loadQuestionsAsync();
   await loadNotesAsync();
+  await loadNoteLinksAsync();
   await loadProgressAsync();
   await loadFlagsAsync();
 

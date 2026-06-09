@@ -493,9 +493,19 @@
       || (deps.state.selectedNoteChapterId = chapters[0].id);
     const chapter = chapters.find(c => c.id === selectedId) || chapters[0];
 
-    const mcqCount = (deps.state.questions || []).filter(
+    const chapterQuestions = (deps.state.questions || []).filter(
       q => q.topic === chapter.topic
-    ).length;
+    );
+    const mcqCount = chapterQuestions.length;
+
+    // Count how many MCQs are linked to each notes section.
+    const countBySection = {};
+    if (deps.noteSectionIdForQuestion) {
+      chapterQuestions.forEach(q => {
+        const sid = deps.noteSectionIdForQuestion(q);
+        if (sid) countBySection[sid] = (countBySection[sid] || 0) + 1;
+      });
+    }
 
     const options = chapters.map(c =>
       `<option value="${esc(c.id)}"${c.id === chapter.id ? ' selected' : ''}>Class ${c.class} · Ch ${c.chapterNo} — ${esc(c.title)}</option>`
@@ -509,10 +519,17 @@
     const body = chapter.sections.map(section => {
       const tag = section.level === 2 ? 'h2' : section.level === 3 ? 'h3' : 'h4';
       const cls = section.level === 2 ? 'notes-h2' : 'notes-h3';
+      const n = countBySection[section.id] || 0;
+      const badge = n
+        ? `<button type="button" class="notes-mcq-badge" data-action="practice-note-section" data-section="${esc(section.id)}" title="Practice the ${n} MCQs linked to this section">${n} MCQ${n === 1 ? '' : 's'} ▸</button>`
+        : '';
       // section.html is trusted author content from notes.json (not user input).
       return `
         <section class="notes-section" id="note-${esc(section.id)}" data-section-id="${esc(section.id)}">
-          <${tag} class="${cls}">${esc(section.heading)}</${tag}>
+          <div class="notes-section-head">
+            <${tag} class="${cls}">${esc(section.heading)}</${tag}>
+            ${badge}
+          </div>
           <div class="notes-prose">${section.html || ''}</div>
         </section>`;
     }).join('');
