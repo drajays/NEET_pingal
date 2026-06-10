@@ -1,5 +1,5 @@
 {
-  "app": "NEET MCQ Practice",
+  "app": "NEET Biology MCQ Mastery",
   "version": 1,
   "chapters": [
     {
@@ -1144,7 +1144,7 @@
           "id": "ex-excretory-structures",
           "level": 2,
           "heading": "2. Excretory structures in animals",
-          "html": "<p><strong>Protonephridia/flame cells</strong> — Platyhelminthes, rotifers, Amphioxus (osmoregulation). <strong>Nephridia</strong> — annelids (earthworm). <strong>Malpighian tubules</strong> — insects. <strong>Antennal/green glands</strong> — crustaceans. <strong>Kidneys</strong> — vertebrate excretory organs.</p>"
+          "html": "<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; font-family: sans-serif;\">\n  <thead>\n    <tr style=\"background-color: #f2f2f2; text-align: left;\">\n      <th style=\"padding: 10px;\">Excretory Organ</th>\n      <th style=\"padding: 10px;\">Organisms / Examples</th>\n      <th style=\"padding: 10px;\">Primary Function / Notes</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td style=\"font-weight: bold; padding: 10px;\">Protonephridia (Flame cells)</td>\n      <td style=\"padding: 10px;\">Platyhelminthes, Rotifers, <i>Amphioxus</i></td>\n      <td style=\"padding: 10px;\">Primarily involved in osmoregulation</td>\n    </tr>\n    <tr>\n      <td style=\"font-weight: bold; padding: 10px;\">Nephridia</td>\n      <td style=\"padding: 10px;\">Annelids (e.g., Earthworms)</td>\n      <td style=\"padding: 10px;\">Excretion and osmoregulation</td>\n    </tr>\n    <tr>\n      <td style=\"font-weight: bold; padding: 10px;\">Malpighian tubules</td>\n      <td style=\"padding: 10px;\">Insects</td>\n      <td style=\"padding: 10px;\">Removal of nitrogenous wastes</td>\n    </tr>\n    <tr>\n      <td style=\"font-weight: bold; padding: 10px;\">Antennal glands (Green glands)</td>\n      <td style=\"padding: 10px;\">Crustaceans (e.g., Prawns)</td>\n      <td style=\"padding: 10px;\">Excretory function</td>\n    </tr>\n    <tr>\n      <td style=\"font-weight: bold; padding: 10px;\">Kidneys</td>\n      <td style=\"padding: 10px;\">Vertebrates</td>\n      <td style=\"padding: 10px;\">Complex chordate excretory organs</td>\n    </tr>\n  </tbody>\n</table>"
         },
         {
           "id": "ex-human-system",
