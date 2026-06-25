@@ -1,7 +1,7 @@
 {
   "app": "NEET Biology MCQ Mastery",
   "version": 1,
-  "updatedAt": 1782411253799,
+  "updatedAt": 1782411573777,
   "questionCount": 16929,
   "questions": [
     {
@@ -607173,10 +607173,10 @@
         "2026",
         "PYQ"
       ],
-      "reviewed": false,
-      "reviewedAt": null,
+      "reviewed": true,
+      "reviewedAt": 1782411260441,
       "createdAt": 1782409167738,
-      "updatedAt": 1782409167738
+      "updatedAt": 1782411260441
     },
     {
       "id": "reneet2026_bio_92",
@@ -607233,14 +607233,14 @@
       "explanation": "Cell theory was formulated by Schleiden and Schwann.",
       "whyWrong": {
         "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "B": "nucleus",
+        "C": "fluid mosaic model",
+        "D": "live cell"
       },
       "why_wrong_a": "",
-      "why_wrong_b": "",
-      "why_wrong_c": "",
-      "why_wrong_d": "",
+      "why_wrong_b": "nucleus",
+      "why_wrong_c": "fluid mosaic model",
+      "why_wrong_d": "live cell",
       "subject": "Biology",
       "topic": "NEET 2026 Re-Exam",
       "subtopic": "reNEET 2026",
@@ -607252,7 +607252,7 @@
       "reviewed": false,
       "reviewedAt": null,
       "createdAt": 1782409167738,
-      "updatedAt": 1782409167738
+      "updatedAt": 1782411573146
     },
     {
       "id": "reneet2026_bio_94",
