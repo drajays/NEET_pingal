@@ -148,6 +148,7 @@ def main() -> int:
         root / "recovered_questions.json",
     ]
     extra_csv = root / "neet_biology_questions.csv"
+    reneet_json = root / "reneet2026_biology.json"
     chapter_dirs = [
         root / "ncert_mcqs" / "bio11",
         root / "ncert_mcqs" / "bio12",
@@ -194,6 +195,30 @@ def main() -> int:
             csv_added += 1
         if csv_added:
             print(f"Added {csv_added} unique questions from {extra_csv.name}")
+
+    if reneet_json.exists():
+        # reNEET 2026 is a fixed official paper (Q91-180). Keep the full set even
+        # when generic stems (e.g. "Which of the following is incorrect?") collide
+        # with the text-based dedup used for the rest of the bank. Dedup by id only.
+        reneet_added = 0
+        seen_ids = {q.get("id") for q in merged}
+        for item in load_questions(reneet_json):
+            qid = item.get("id")
+            if qid in seen_ids:
+                duplicates += 1
+                continue
+            cleaned = sanitize_question(item)
+            if not is_gradeable(cleaned):
+                skipped_invalid += 1
+                continue
+            key = (item.get("question") or "").strip().lower()
+            if key:
+                seen.add(key)
+            seen_ids.add(qid)
+            merged.append(cleaned)
+            reneet_added += 1
+        if reneet_added:
+            print(f"Added {reneet_added} unique questions from {reneet_json.name}")
 
     for directory in chapter_dirs:
         if not directory.exists():

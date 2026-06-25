@@ -88,6 +88,7 @@ const el = {
   notesView: document.getElementById('notesView'),
   chapterDetail: document.getElementById('chapterDetail'),
   revisionView: document.getElementById('revisionView'),
+  reneet2026View: document.getElementById('reneet2026View'),
   auditView: document.getElementById('auditView'),
   filterSubjects: document.getElementById('filterSubjects'),
   filterTopics: document.getElementById('filterTopics'),
@@ -682,6 +683,79 @@ function getRevisionPlanForStudent(studentId) {
   });
 }
 
+const RENEET_SUBTOPIC = 'reNEET 2026';
+const RENEET_TAG = 'reNEET2026';
+
+function isReneetQuestion(question) {
+  if (!question) return false;
+  if (question.subtopic === RENEET_SUBTOPIC) return true;
+  if ((question.tags || []).includes(RENEET_TAG)) return true;
+  return String(question.id || '').startsWith('reneet2026_');
+}
+
+function reneetQuestionNumber(question) {
+  const match = String(question?.id || '').match(/reneet2026_bio_(\d+)/i);
+  return match ? Number(match[1]) : 0;
+}
+
+function getReneetQuestions() {
+  return state.questions
+    .filter(isReneetQuestion)
+    .sort((a, b) => reneetQuestionNumber(a) - reneetQuestionNumber(b));
+}
+
+function summarizeReneetPaper(studentId) {
+  const id = studentId || state.activeStudentId;
+  const questions = getReneetQuestions();
+  let mastered = 0;
+  let wrong = 0;
+  let unsolved = 0;
+  let attempted = 0;
+
+  questions.forEach(question => {
+    const status = getQuestionStatus(id, question.id);
+    if (status === 'unsolved') unsolved += 1;
+    else attempted += 1;
+    if (status === 'mastered') mastered += 1;
+    if (status === 'wrong') wrong += 1;
+  });
+
+  const total = questions.length;
+  const accuracy = attempted
+    ? Math.round((mastered / attempted) * 100)
+    : 0;
+  const progress = total ? Math.round((attempted / total) * 100) : 0;
+
+  return { total, mastered, wrong, unsolved, attempted, accuracy, progress, questions };
+}
+
+function startReneetPractice(mode = 'all') {
+  const studentId = state.activeStudentId;
+  if (!studentId) {
+    showToastWarning('Select a student profile first.');
+    return;
+  }
+
+  let pool = getReneetQuestions();
+  if (!pool.length) {
+    showToastWarning('No reNEET 2026 questions in the bank yet. Sync the question bank.');
+    return;
+  }
+
+  if (mode === 'unsolved') {
+    pool = pool.filter(q => isQuestionUnsolved(studentId, q.id));
+  } else if (mode === 'wrong') {
+    pool = pool.filter(q => getQuestionStatus(studentId, q.id) === 'wrong');
+  }
+
+  if (!pool.length) {
+    showToastWarning(mode === 'wrong' ? 'No weak reNEET items to revise.' : 'All reNEET 2026 questions are already attempted.');
+    return;
+  }
+
+  startPracticeWithQuestions(pool);
+}
+
 function summarizeStudentForViews(studentId) {
   return NeetAnalytics.summarizeStudent(studentId, state.questions, {
     buildStudentStats,
@@ -995,6 +1069,7 @@ function handleViewAction(event) {
   const action = target.dataset.action;
 
   if (action === 'goto-chapters') switchTab('chapters');
+  else if (action === 'goto-reneet') switchTab('reneet2026');
   else if (action === 'start-revision') startRevisionPractice();
   else if (action === 'practice-mistakes') startFocusedRevision('wrong');
   else if (action === 'practice-pyq') startFocusedRevision('pyq');
@@ -1017,6 +1092,9 @@ function handleViewAction(event) {
   else if (action === 'practice-section') {
     applyChapterPractice(target.dataset.chapter, { sectionKey: target.dataset.section });
   }
+  else if (action === 'start-reneet-all') startReneetPractice('all');
+  else if (action === 'start-reneet-unsolved') startReneetPractice('unsolved');
+  else if (action === 'start-reneet-wrong') startReneetPractice('wrong');
   else if (action === 'practice-note-section') startPracticeForNoteSection(target.dataset.section);
   else if (action === 'goto-note') gotoNoteSection(target.dataset.section);
   else if (action === 'sync-progress') syncProgressFromRemote({ silent: false });
@@ -3058,13 +3136,28 @@ function renderPracticeQuestion() {
       ${session.lastFeedback ? `<div class="coach-feedback ${session.lastFeedback.tone}">${escapeHtml(session.lastFeedback.text)}</div>` : ''}
       <div class="answer show">
         <strong>Correct answer:</strong> ${renderMath(current.options[correctIndex])}
-        ${current.explanation ? `<div class="answer-explanation"><strong>Explanation:</strong>${renderExplanation(current.explanation)}</div>` : ''}
-        ${renderImageHtml(current.explanationImage, 'Explanation image')}
-        ${noteLinkHtml(current)}
-        ${renderWhyWrongHtml(current, displayLetterByCanonical)}
-        <button type="button" class="flag-report-btn" data-action="open-flag" ${hasPendingFlagForQuestion(current.id, state.activeStudentId) ? 'disabled' : ''}>
-          ${hasPendingFlagForQuestion(current.id, state.activeStudentId) ? '✓ Report submitted — pending review' : '⚑ Flag wrong answer / suggest correction'}
-        </button>
+        ${session.editingExplanation ? `
+          <div class="explanation-editor">
+            <label class="explanation-editor-label">Edit explanation ${isAdmin() ? '' : '(enter admin PIN to save)'}
+              <textarea class="explanation-edit-input" rows="5" placeholder="Write the explanation students will see…">${escapeHtml(current.explanation || '')}</textarea>
+            </label>
+            <div class="explanation-edit-actions">
+              <button type="button" class="primary-btn small" data-action="save-explanation">Save explanation</button>
+              <button type="button" class="secondary-btn small" data-action="cancel-explanation">Cancel</button>
+            </div>
+          </div>
+        ` : `
+          ${current.explanation ? `<div class="answer-explanation"><strong>Explanation:</strong>${renderExplanation(current.explanation)}</div>` : ''}
+          ${renderImageHtml(current.explanationImage, 'Explanation image')}
+          ${noteLinkHtml(current)}
+          ${renderWhyWrongHtml(current, displayLetterByCanonical)}
+          <div class="answer-actions">
+            <button type="button" class="edit-explanation-btn" data-action="edit-explanation" title="Admin only — enter PIN to edit">✏️ ${current.explanation ? 'Edit' : 'Add'} explanation</button>
+            <button type="button" class="flag-report-btn" data-action="open-flag" ${hasPendingFlagForQuestion(current.id, state.activeStudentId) ? 'disabled' : ''}>
+              ${hasPendingFlagForQuestion(current.id, state.activeStudentId) ? '✓ Report submitted — pending review' : '⚑ Flag wrong answer / suggest correction'}
+            </button>
+          </div>
+        `}
       </div>` : ''}
   `;
 
@@ -3072,6 +3165,43 @@ function renderPracticeQuestion() {
   el.nextQuestionBtn.textContent = session.index === total - 1 ? 'View results' : 'Next question';
 
   if (!session.answered) session.questionStartAt = Date.now();
+}
+
+// Admin-gated inline explanation edit from the practice (student) panel.
+// Reuses upsertQuestion() so the change persists to IndexedDB and syncs to
+// the shared bank exactly like the bank editor and flag-approval flows.
+function saveExplanationEdit() {
+  const session = state.practice;
+  const current = session.questions[session.index];
+  if (!current) return;
+  const textarea = el.practiceCard.querySelector('.explanation-edit-input');
+  if (!textarea) return;
+  const ok = upsertQuestion({
+    id: current.id,
+    question: current.question,
+    option_a: current.options[0],
+    option_b: current.options[1],
+    option_c: current.options[2],
+    option_d: current.options[3],
+    answer: current.answer,
+    explanation: textarea.value,
+    subject: current.subject,
+    topic: current.topic,
+    subtopic: current.subtopic,
+    tags: current.tags,
+    whyWrong: current.whyWrong,
+    questionImage: current.questionImage,
+    explanationImage: current.explanationImage,
+    createdAt: current.createdAt
+  });
+  if (!ok) return; // requireAdmin / validation failed — keep the editor open
+  // upsertQuestion replaces the bank object; re-point the session at the fresh one.
+  const updated = state.questions.find(q => q.id === current.id);
+  if (updated) session.questions[session.index] = updated;
+  session.editingExplanation = false;
+  state.pendingExplanationEdit = false;
+  renderPracticeQuestion();
+  showToastSuccess('Explanation updated.');
 }
 
 function selectPracticeOption(optionLetter) {
@@ -3082,6 +3212,7 @@ function selectPracticeOption(optionLetter) {
   const isCorrect = optionLetter === current.answer;
   session.selectedOption = optionLetter;
   session.answered = true;
+  session.editingExplanation = false;
   if (isCorrect) session.score += 1;
 
   // Capture state BEFORE recording so the coach can react to the prior history.
@@ -3115,6 +3246,7 @@ function nextPracticeQuestion() {
   session.answered = false;
   session.selectedOption = null;
   session.lastFeedback = null;
+  session.editingExplanation = false;
   renderPracticeQuestion();
 }
 
@@ -3435,7 +3567,7 @@ function bindEvents() {
     el.menuToggle.addEventListener('click', () => el.sidebar.classList.toggle('open'));
   }
 
-  [el.dashboardView, el.chaptersView, el.notesView, el.revisionView, el.auditView, el.practiceResults].forEach(view => {
+  [el.dashboardView, el.chaptersView, el.notesView, el.reneet2026View, el.revisionView, el.auditView, el.practiceResults].forEach(view => {
     if (view) view.addEventListener('click', handleViewAction);
   });
 
@@ -3524,6 +3656,26 @@ function bindEvents() {
     const noteBtn = event.target.closest('[data-action="goto-note"]');
     if (noteBtn) {
       gotoNoteSection(noteBtn.dataset.section);
+      return;
+    }
+    const editExpBtn = event.target.closest('[data-action="edit-explanation"]');
+    if (editExpBtn) {
+      // Gate on the admin PIN (1234). For non-admins requireAdmin opens the PIN
+      // dialog; we remember the intent so the editor opens on successful unlock.
+      if (!requireAdmin('edit explanations')) { state.pendingExplanationEdit = true; return; }
+      state.practice.editingExplanation = true;
+      renderPracticeQuestion();
+      return;
+    }
+    const cancelExpBtn = event.target.closest('[data-action="cancel-explanation"]');
+    if (cancelExpBtn) {
+      state.practice.editingExplanation = false;
+      renderPracticeQuestion();
+      return;
+    }
+    const saveExpBtn = event.target.closest('[data-action="save-explanation"]');
+    if (saveExpBtn) {
+      saveExplanationEdit();
       return;
     }
     const btn = event.target.closest('.option-btn');
@@ -3720,6 +3872,12 @@ function bindEvents() {
         return;
       }
       el.adminDialog?.close();
+      // Resume an explanation edit the student started before entering the PIN.
+      if (state.pendingExplanationEdit && state.practice?.answered) {
+        state.pendingExplanationEdit = false;
+        state.practice.editingExplanation = true;
+        renderPracticeQuestion();
+      }
     });
   }
 
@@ -3808,6 +3966,9 @@ async function init() {
     getQuestionStatus,
     getAuditLog: getAuditLogForStudent,
     getCoachInsights: getCoachInsightsForStudent,
+    summarizeReneetPaper,
+    getReneetQuestions,
+    reneetQuestionNumber,
     populateStudentSelect,
     noteSectionIdForQuestion,
     getEditedNotes,

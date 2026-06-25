@@ -1,8 +1,8 @@
 {
   "app": "NEET Biology MCQ Mastery",
   "version": 1,
-  "updatedAt": 1781061234152,
-  "questionCount": 16839,
+  "updatedAt": "2026-06-25T17:37:39Z",
+  "questionCount": 16929,
   "questions": [
     {
       "id": "pearson_living_world_practice_1_daad35e7",
@@ -607139,6 +607139,2713 @@
       "reviewedAt": null,
       "createdAt": 1781034412800,
       "updatedAt": 1781034412800
+    },
+    {
+      "id": "reneet2026_bio_91",
+      "question": "The number of vertebrae in a human is ___.",
+      "option_a": "7",
+      "option_b": "12",
+      "option_c": "26",
+      "option_d": "206",
+      "options": [
+        "7",
+        "12",
+        "26",
+        "206"
+      ],
+      "answer": "C",
+      "explanation": "The number of vertebrae in adult human is 26.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_92",
+      "question": "Symbiotic association between fungi and algae are called ___.",
+      "option_a": "lichens",
+      "option_b": "sponges",
+      "option_c": "mycorrhiza",
+      "option_d": "chrysophytes",
+      "options": [
+        "lichens",
+        "sponges",
+        "mycorrhiza",
+        "chrysophytes"
+      ],
+      "answer": "A",
+      "explanation": "Lichens are symbiotic associations i.e. mutually useful associations, between algae and fungi. Mycorrhiza are associations between fungi and roots of higher plants.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_93",
+      "question": "Cell theory was formulated by ___.",
+      "option_a": "Schleiden and Schwann",
+      "option_b": "Robert Brown",
+      "option_c": "Singer and Nicolson",
+      "option_d": "Antonie Von Leeuwenhoek",
+      "options": [
+        "Schleiden and Schwann",
+        "Robert Brown",
+        "Singer and Nicolson",
+        "Antonie Von Leeuwenhoek"
+      ],
+      "answer": "A",
+      "explanation": "Cell theory was formulated by Schleiden and Schwann.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_94",
+      "question": "Which of the following are characteristics of prokaryotic cells? (a) Ribosomes are made of 50S and 30S subunits (b) They can have plasmids (c) They contain mesosome (d) They have peroxisomes",
+      "option_a": "(b) and (c) only",
+      "option_b": "(a) and (c) only",
+      "option_c": "(a), (c) and (d) only",
+      "option_d": "(a), (b) and (c) only",
+      "options": [
+        "(b) and (c) only",
+        "(a) and (c) only",
+        "(a), (c) and (d) only",
+        "(a), (b) and (c) only"
+      ],
+      "answer": "D",
+      "explanation": "The following are characteristics of prokaryotic cells. Ribosomes are made of 50S and 30S subunits (70S Ribosomes) • They can have plasmids (Extra chromosomal DNA) • They contain mesosome (Infoldings of plasma membrane) - They do not possess membrane bound organelles such as peroxisomes.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_95",
+      "question": "Which of the following is not a part of human central neural system?",
+      "option_a": "Arachnoid",
+      "option_b": "Dura mater",
+      "option_c": "Pia mater",
+      "option_d": "Pericardium",
+      "options": [
+        "Arachnoid",
+        "Dura mater",
+        "Pia mater",
+        "Pericardium"
+      ],
+      "answer": "D",
+      "explanation": "Pericardium is a double walled membranous bag that protects the heart. Arachnoid, dura mater and pia mater are meninges, which cover the brain inside the skull.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_96",
+      "question": "Mitochondrial inner membrane encloses ___.",
+      "option_a": "matrix",
+      "option_b": "cytosol",
+      "option_c": "mucus",
+      "option_d": "aqueous humor",
+      "options": [
+        "matrix",
+        "cytosol",
+        "mucus",
+        "aqueous humor"
+      ],
+      "answer": "A",
+      "explanation": "Mitochondrial inner membrane encloses matrix.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_97",
+      "question": "Match List-I with List-II. A. | Cristae | I. | Flat membrane sacs in stroma of chloroplast B. | Cisternae | II. | Infoldings in mitochondria C. | Thylakoids | III. | Cell membrane D. | Phospholipid | IV. | Disc shaped sacs in the Golgi apparatus",
+      "option_a": "A-III, B-IV, C-I, D-II",
+      "option_b": "A-II, B-IV, C-I, D-III",
+      "option_c": "A-II, B-IV, C-III, D-I",
+      "option_d": "A-IV, B-III, C-I, D-II",
+      "options": [
+        "A-III, B-IV, C-I, D-II",
+        "A-II, B-IV, C-I, D-III",
+        "A-II, B-IV, C-III, D-I",
+        "A-IV, B-III, C-I, D-II"
+      ],
+      "answer": "B",
+      "explanation": "Following are the correct matches: A. | Cristae | II. | Infoldings in mitochondria B. | Cisternae | IV. | Disc shaped sacs in the Golgi apparatus C. | Thylakoids | I. | Flat membrane sacs in stroma of chloroplast D. | Phospholipid | III. | Cell membrane",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_98",
+      "question": "The plastid that stores xanthophyll is known as ___.",
+      "option_a": "chloroplast",
+      "option_b": "chromoplast",
+      "option_c": "aleuroplast",
+      "option_d": "amyloplast",
+      "options": [
+        "chloroplast",
+        "chromoplast",
+        "aleuroplast",
+        "amyloplast"
+      ],
+      "answer": "B",
+      "explanation": "The plastid that stores xanthophyll is known as chromoplast.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_99",
+      "question": "Which of the following statements related to pituitary gland are correct? (a) It is divided anatomically into adenohypophysis and neurohypophysis (b) It secretes follicle stimulating hormone (c) It secretes melanocyte stimulating hormone (d) It does not secrete prolactin",
+      "option_a": "(a) and (b) only",
+      "option_b": "(a), (b) and (c) only",
+      "option_c": "(c) and (d) only",
+      "option_d": "(b) and (c) only",
+      "options": [
+        "(a) and (b) only",
+        "(a), (b) and (c) only",
+        "(c) and (d) only",
+        "(b) and (c) only"
+      ],
+      "answer": "B",
+      "explanation": "Adenohypophysis of pituitary gland also secrets prolactin.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_100",
+      "question": "Photorespiration reaction catalyzed by RuBisCo is shown below: RuBP + O₂ → 3-Phosphoglycerate + X. Identify \"X\" from the given options:",
+      "option_a": "Phosphoenolpyruvate",
+      "option_b": "2-Phosphoglycolate",
+      "option_c": "Oxaloacetate",
+      "option_d": "Malate",
+      "options": [
+        "Phosphoenolpyruvate",
+        "2-Phosphoglycolate",
+        "Oxaloacetate",
+        "Malate"
+      ],
+      "answer": "B",
+      "explanation": "During the process of photorespiration, RuBP binds with O $ _{2} $ and RuBP instead of being converted to 2 molecules of PGA, forms one molecule each of phosphoglycerate and phosphoglycolate. Hence, in the given reaction, the \"X\" is 2-phosphoglycolate.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_101",
+      "question": "Mad cow disease is caused by _____.",
+      "option_a": "prions",
+      "option_b": "viroids",
+      "option_c": "Aspergillus sp.",
+      "option_d": "Mycoplasma sp.",
+      "options": [
+        "prions",
+        "viroids",
+        "Aspergillus sp.",
+        "Mycoplasma sp."
+      ],
+      "answer": "A",
+      "explanation": "Mad cow disease is caused by prions.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_102",
+      "question": "Which pigment has absorption peak at 700 nm in the photosynthetic reaction centre PSI (P700)?",
+      "option_a": "Chlorophyll b",
+      "option_b": "Chlorophyll a",
+      "option_c": "Xanthophylls",
+      "option_d": "Carotenoids",
+      "options": [
+        "Chlorophyll b",
+        "Chlorophyll a",
+        "Xanthophylls",
+        "Carotenoids"
+      ],
+      "answer": "B",
+      "explanation": "In PSI, the reaction centre chlorophyll a has an absorption peak at 700 nm and hence, is called $ P_{700} $.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_103",
+      "question": "In water, frogs respire using _____.",
+      "option_a": "skin",
+      "option_b": "buccal cavity",
+      "option_c": "lungs",
+      "option_d": "trachea",
+      "options": [
+        "skin",
+        "buccal cavity",
+        "lungs",
+        "trachea"
+      ],
+      "answer": "A",
+      "explanation": "Frogs respire on land and in water by different methods. In water, skin acts as aquatic respiratory organ (cutaneous respiration). Dissolved oxygen in the water is exchanged through the skin by diffusion. On land, the buccal cavity, skin and lungs act as the respiratory organs.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_104",
+      "question": "Which of the following represents the correct sequence of arrangement of bones in the lower limb of humans?",
+      "option_a": "Femur-tibia-patella-tarsal",
+      "option_b": "Patella-femur-tibia-tarsal",
+      "option_c": "Femur-patella-tibia-tarsal",
+      "option_d": "Femur-tarsal-patella-tibia",
+      "options": [
+        "Femur-tibia-patella-tarsal",
+        "Patella-femur-tibia-tarsal",
+        "Femur-patella-tibia-tarsal",
+        "Femur-tarsal-patella-tibia"
+      ],
+      "answer": "C",
+      "explanation": "Each hindlimb consists of 30 bones. The bones of the lower limb is femur (thigh bone). A cup shaped bone called patella cover the knee ventrally (knee cap). tibia and fibula, tarsals (ankle bones), metatarsals and phalanges. - So, the correct sequence of arrangement of bones in the lower limb of humans will be Femur - patella - tibia - tarsal.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_105",
+      "question": "Phyllotaxy is the pattern of arrangement of ___.",
+      "option_a": "leaves",
+      "option_b": "flowers",
+      "option_c": "fruits",
+      "option_d": "sepals",
+      "options": [
+        "leaves",
+        "flowers",
+        "fruits",
+        "sepals"
+      ],
+      "answer": "A",
+      "explanation": "Phyllotaxy is the pattern of arrangement of leaves on the stem.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_106",
+      "question": "Match List-I with List-II. A. | Starch | I. | Fights infection B. | Antibody | II. | Energy storage C. | Concanavalin A | III. | Glucose transport D. | Glut-4 | IV. | Lectin",
+      "option_a": "A-I, B-II, C-IV, D-III",
+      "option_b": "A-II, B-I, C-IV, D-III",
+      "option_c": "A-II, B-I, C-III, D-IV",
+      "option_d": "A-I, B-II, C-III, D-IV",
+      "options": [
+        "A-I, B-II, C-IV, D-III",
+        "A-II, B-I, C-IV, D-III",
+        "A-II, B-I, C-III, D-IV",
+        "A-I, B-II, C-III, D-IV"
+      ],
+      "answer": "B",
+      "explanation": "Starch $ \\rightarrow $ Energy storage Antibody $ \\rightarrow $ Fights infection Concanavalin A $ \\rightarrow $ Lectin Glut-4 $ \\rightarrow $ Glucose transport",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_107",
+      "question": "Given below are two statements : Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. itemment II : In phylum Echinodermata, both adults and larvae are radially symmetrical. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "option_a": "Both Statement I and Statement II are correct",
+      "option_b": "Both Statement I and Statement II are incorrect",
+      "option_c": "Statement I is correct but Statement II is incorrect",
+      "option_d": "Statement I is incorrect but Statement II is correct",
+      "options": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "answer": "C",
+      "explanation": "When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. The members of the phylum Echinodermata exhibit radial or bilateral symmetry depending on the stage. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_108",
+      "question": "Endomembrane system includes ___.",
+      "option_a": "endoplasmic reticulum, Golgi complex, lysosomes and vacuole",
+      "option_b": "endoplasmic reticulum, chloroplast, peroxisomes and vacuole",
+      "option_c": "mitochondria, chloroplast, peroxisomes and vacuole",
+      "option_d": "Golgi complex, chloroplast, peroxisomes and vacuole",
+      "options": [
+        "endoplasmic reticulum, Golgi complex, lysosomes and vacuole",
+        "endoplasmic reticulum, chloroplast, peroxisomes and vacuole",
+        "mitochondria, chloroplast, peroxisomes and vacuole",
+        "Golgi complex, chloroplast, peroxisomes and vacuole"
+      ],
+      "answer": "A",
+      "explanation": "Endomembrane system includes organelles whose functions are coordinated. It includes total four organelles, namely Endoplasmic reticulum, Golgi body, vacuole and lysosomes.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_109",
+      "question": "How many molecules of pyruvic acid are produced at the end of glycolysis from 206 molecules of glucose?",
+      "option_a": "206",
+      "option_b": "309",
+      "option_c": "103",
+      "option_d": "412",
+      "options": [
+        "206",
+        "309",
+        "103",
+        "412"
+      ],
+      "answer": "D",
+      "explanation": "Two molecules of pyruvic acid are formed at the end of glycolysis from one molecule of glucose. From 206 molecules of glucose, 412 molecules of pyruvic acid are formed.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_110",
+      "question": "Which of the following plant growth regulators is used as herbicide?",
+      "option_a": "2,4-D",
+      "option_b": "Kinetin",
+      "option_c": "Abscisic acid",
+      "option_d": "Gibberellin",
+      "options": [
+        "2,4-D",
+        "Kinetin",
+        "Abscisic acid",
+        "Gibberellin"
+      ],
+      "answer": "A",
+      "explanation": "2, 4-D is an artificial auxin, which is widely used as herbicide.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_111",
+      "question": "Given below are two statements: Statement I: In gymnosperms, the male and female gametophytes remain within the sporangia. Statement II: In gymnosperms, seeds are not covered. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "option_a": "Both Statement I and Statement II are correct",
+      "option_b": "Both Statement I and Statement II are incorrect",
+      "option_c": "Statement I is correct but Statement II is incorrect",
+      "option_d": "Statement I is incorrect but Statement II is correct",
+      "options": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "answer": "A",
+      "explanation": "In gymnosperm, the male and female gametophytes do not have an independent free-living existence. They remain within sporangia, retained on the sporophyte. In gymnosperms the ovules are not enclosed by any ovary wall and remain exposed, both before and after fertilisation. The seeds that develop post fertilisation, are not covered, i.e., naked.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_112",
+      "question": "Match List-I with List-II. A. | Spherical | I. | Vibrio B. | Rod | II. | Cocci C. | Comma | III. | Spirilla D. | Spirillum | IV. | Bacilli",
+      "option_a": "A-I, B-III, C-II, D-IV",
+      "option_b": "A-III, B-II, C-I, D-IV",
+      "option_c": "A-II, B-I, C-IV, D-III",
+      "option_d": "A-II, B-IV, C-I, D-III",
+      "options": [
+        "A-I, B-III, C-II, D-IV",
+        "A-III, B-II, C-I, D-IV",
+        "A-II, B-I, C-IV, D-III",
+        "A-II, B-IV, C-I, D-III"
+      ],
+      "answer": "D",
+      "explanation": "Bacteria are grouped under four categories based on their shape : Spherical $ \\rightarrow $ Coccus Rod-shaped $ \\rightarrow $ Bacillus Comma-shaped $ \\rightarrow $ Vibrium Spiral $ \\rightarrow $ Spirillum",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_113",
+      "question": "Which of the following are characteristic features of Solanaceae family? (a) Flowers are bisexual and actinomorphic (b) Calyx have five sepals and are united (c) Androecium have five stamens and are epipetalous (d) Ovary is inferior",
+      "option_a": "(a) and (b) only",
+      "option_b": "(b), (c) and (d) only",
+      "option_c": "(a), (b) and (c) only",
+      "option_d": "(d) only",
+      "options": [
+        "(a) and (b) only",
+        "(b), (c) and (d) only",
+        "(a), (b) and (c) only",
+        "(d) only"
+      ],
+      "answer": "C",
+      "explanation": "In Solanaceae family, flowers are bisexual and actinomorphic. Calyx include five sepals that are united. Androecium include five stamens and it is epipetalous. Ovary is superior.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_114",
+      "question": "Select the correct sequence of experiments that led to a gradual understanding of photosynthesis in green plants.",
+      "option_a": "Absorption spectra of chlorophyll a and b → production of glucose → release of oxygen → role of air",
+      "option_b": "Role of air $ \\rightarrow $ release of oxygen $ \\rightarrow $ production of glucose $ \\rightarrow $ absorption spectra of chlorophyll a and b",
+      "option_c": "Release of oxygen $ \\rightarrow $ production of glucose $ \\rightarrow $ absorption spectra of chlorophyll a and b $ \\rightarrow $ role of air",
+      "option_d": "Production of glucose $ \\rightarrow $ role of air $ \\rightarrow $ release of oxygen $ \\rightarrow $ absorption spectra of chlorophyll a and b",
+      "options": [
+        "Absorption spectra of chlorophyll a and b → production of glucose → release of oxygen → role of air",
+        "Role of air $ \\rightarrow $ release of oxygen $ \\rightarrow $ production of glucose $ \\rightarrow $ absorption spectra of chlorophyll a and b",
+        "Release of oxygen $ \\rightarrow $ production of glucose $ \\rightarrow $ absorption spectra of chlorophyll a and b $ \\rightarrow $ role of air",
+        "Production of glucose $ \\rightarrow $ role of air $ \\rightarrow $ release of oxygen $ \\rightarrow $ absorption spectra of chlorophyll a and b"
+      ],
+      "answer": "B",
+      "explanation": "Following is the appropriate sequence of experiments that led to a gradual understanding of photosynthesis in green plants. Role of air in Glucose (Joseph Priestley's bell jar experiment) 1770 ↓ Release of oxygen (Jan Ingenhousz's experiment using aquatic plant) ↓ Production of Glucose (Julius Von Sach's experiment) 1854 ↓ Absorption spectra of chlorophyll a and b (T.W. Engelmann's experiment)",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_115",
+      "question": "The number of action potentials generated by sino-atrial node (SAN) in a healthy human is ___ per minute.",
+      "option_a": "28 - 30",
+      "option_b": "70 - 75",
+      "option_c": "100 - 110",
+      "option_d": "120 - 140",
+      "options": [
+        "28 - 30",
+        "70 - 75",
+        "100 - 110",
+        "120 - 140"
+      ],
+      "answer": "B",
+      "explanation": "The number of action potentials generated by sino-atrial node (SAN) in a healthy human is 70 - 75 per minute.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_116",
+      "question": "How many turns of Calvin cycle are required for the formation of three molecules of glucose?",
+      "option_a": "6",
+      "option_b": "3",
+      "option_c": "1",
+      "option_d": "18",
+      "options": [
+        "6",
+        "3",
+        "1",
+        "18"
+      ],
+      "answer": "D",
+      "explanation": "To make one molecule of glucose 6 turns of the cycle are required. Therefore, for the formation of three molecules of glucose, $ 6 \\times 3 = 18 $, turns of Calvin cycle are required.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_117",
+      "question": "Which of the following statements is incorrect?",
+      "option_a": "Blood coagulates in response to an injury",
+      "option_b": "Blood clot consists of fibrins",
+      "option_c": "Fibrin is produced from fibrinogen",
+      "option_d": "Fibrinogen is produced from fibrin",
+      "options": [
+        "Blood coagulates in response to an injury",
+        "Blood clot consists of fibrins",
+        "Fibrin is produced from fibrinogen",
+        "Fibrinogen is produced from fibrin"
+      ],
+      "answer": "D",
+      "explanation": "Fibrins are formed by the conversion of inactive fibrinogen in the plasma by the enzyme thrombin.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_118",
+      "question": "Match List-I with List-II. A. | Family | I. | Sapindales B. | Genus | II. | Dicotyledonae C. | Class | III. | Anacardiaceae D. | Phylum | IV. | Angiospermae E. | Order | V. | Mangifera",
+      "option_a": "A-II, B-III, C-V, D-I, E-IV",
+      "option_b": "A-III, B-V, C-II, D-IV, E-I",
+      "option_c": "A-I, B-V, C-II, D-IV, E-III",
+      "option_d": "A-II, B-I, C-III, D-IV, E-V",
+      "options": [
+        "A-II, B-III, C-V, D-I, E-IV",
+        "A-III, B-V, C-II, D-IV, E-I",
+        "A-I, B-V, C-II, D-IV, E-III",
+        "A-II, B-I, C-III, D-IV, E-V"
+      ],
+      "answer": "B",
+      "explanation": "(Conceptual errata) Mangifera represents Genus, Anacardiaceae represents family, Sapindales represents order, Dicotyledonae represents class, Phylum Angiospermae [correct should be division]",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ",
+        "bonus",
+        "bonus_or_multiple"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_119",
+      "question": "Arrange the following taxonomic categories in ascending order. (a) Genus (b) Class (c) Order (d) Phylum (e) Family (f) Kingdom (g) Species",
+      "option_a": "(g), (a), (e), (c), (b), (d), (f)",
+      "option_b": "(a), (c), (d), (g), (f), (b), (e)",
+      "option_c": "(g), (c), (d), (b), (e), (a), (f)",
+      "option_d": "(f), (c), (b), (g), (d), (e), (a)",
+      "options": [
+        "(g), (a), (e), (c), (b), (d), (f)",
+        "(a), (c), (d), (g), (f), (b), (e)",
+        "(g), (c), (d), (b), (e), (a), (f)",
+        "(f), (c), (b), (g), (d), (e), (a)"
+      ],
+      "answer": "A",
+      "explanation": "The following is the arrangement of taxonomic categories in ascending order. Species (g), Genus (a), Family (e), Order (c), Class (b), Phylum (d), Kingdom (f).",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_120",
+      "question": "Match List-I with List-II. A. | Marginal placentation | I. | Argemone B. | Axile placentation | II. | Tomato C. | Parietal placentation | III. | Primrose D. | Free central placentation | IV. | Pea",
+      "option_a": "A-II, B-IV, C-I, D-III",
+      "option_b": "A-IV, B-II, C-III, D-I",
+      "option_c": "A-IV, B-III, C-I, D-II",
+      "option_d": "A-IV, B-II, C-I, D-III",
+      "options": [
+        "A-II, B-IV, C-I, D-III",
+        "A-IV, B-II, C-III, D-I",
+        "A-IV, B-III, C-I, D-II",
+        "A-IV, B-II, C-I, D-III"
+      ],
+      "answer": "D",
+      "explanation": "Marginal placentation - Pea Axile placentation - Tomato Parietal placentation - Argemone Free central placentation - Primrose",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_121",
+      "question": "Sphenopsida class belongs to _____.",
+      "option_a": "bryophytes",
+      "option_b": "angiosperms",
+      "option_c": "gymnosperms",
+      "option_d": "pteridophytes",
+      "options": [
+        "bryophytes",
+        "angiosperms",
+        "gymnosperms",
+        "pteridophytes"
+      ],
+      "answer": "D",
+      "explanation": "Sphenopsida class belongs to pteridophytes.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_122",
+      "question": "Which of the following statements regarding photorespiration are correct? (a) Do not occur in C3 plants (b) $ CO_{2} $ is consumed and $ O_{2} $ is generated (c) Phosphoglycolate is formed (d) No synthesis of ATP and NADPH",
+      "option_a": "(a) and (d) only",
+      "option_b": "(c) and (d) only",
+      "option_c": "(b) and (d) only",
+      "option_d": "(a) and (b) only",
+      "options": [
+        "(a) and (d) only",
+        "(c) and (d) only",
+        "(b) and (d) only",
+        "(a) and (b) only"
+      ],
+      "answer": "B",
+      "explanation": "• Photorespiration can occur in C3 plants. - In photorespiration, $ O_{2} $ is consumed and $ CO_{2} $ is released. - Phosphoglycolate is formed as the initial product. There is no synthesis of ATP and NADPH in photorespiration.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_123",
+      "question": "Smooth endoplasmic reticulum ___.",
+      "option_a": "has ribosomes attached to its surface",
+      "option_b": "is the major site for the synthesis of lipids",
+      "option_c": "is actively involved in protein synthesis",
+      "option_d": "is a site for the synthesis of carbohydrates",
+      "options": [
+        "has ribosomes attached to its surface",
+        "is the major site for the synthesis of lipids",
+        "is actively involved in protein synthesis",
+        "is a site for the synthesis of carbohydrates"
+      ],
+      "answer": "B",
+      "explanation": "The Smooth Endoplasmic Reticulum (SER) is responsible for synthesis of lipids as well as steroidal hormones. It is not associated with ribosomes and hence appears smooth. Rough endoplasmic reticulum is actively involved in protein synthesis. Carbohydrate synthesis occurs in chloroplasts.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_124",
+      "question": "Which one of the following statements is incorrect?",
+      "option_a": "$ \\alpha $-cells of pancreas secrete glucagon",
+      "option_b": "$ \\alpha $-cells of pancreas secrete insulin",
+      "option_c": "Glucagon stimulates glycogenolysis",
+      "option_d": "$ \\beta $-cells of pancreas secrete insulin",
+      "options": [
+        "$ \\alpha $-cells of pancreas secrete glucagon",
+        "$ \\alpha $-cells of pancreas secrete insulin",
+        "Glucagon stimulates glycogenolysis",
+        "$ \\beta $-cells of pancreas secrete insulin"
+      ],
+      "answer": "B",
+      "explanation": "The two main types of cells in the Islet of Langerhans are called $ \\alpha $-cells and $ \\beta $-cells. The $ \\alpha $-cells secrete a hormone called glucagon, while the $ \\beta $-cells secrete insulin. Glucagon stimulates glycogenolysis while insulin stimulates glycogenesis.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_125",
+      "question": "Genus represents _____.",
+      "option_a": "an individual plant or animal",
+      "option_b": "a population of plants and animals",
+      "option_c": "a group of closely related species",
+      "option_d": "a group of closely related families",
+      "options": [
+        "an individual plant or animal",
+        "a population of plants and animals",
+        "a group of closely related species",
+        "a group of closely related families"
+      ],
+      "answer": "C",
+      "explanation": "Genus comprises a group of related species which has more characters in common in comparison to species of other genera.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_126",
+      "question": "Which of the following is not a prokaryote?",
+      "option_a": "Bacteria",
+      "option_b": "Blue green algae",
+      "option_c": "Mycoplasma",
+      "option_d": "Fungi",
+      "options": [
+        "Bacteria",
+        "Blue green algae",
+        "Mycoplasma",
+        "Fungi"
+      ],
+      "answer": "D",
+      "explanation": "The prokaryotic cells are represented by bacteria, blue-green algae, Mycoplasma and PPLO. Fungi are eukaryotic organisms.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_127",
+      "question": "Which of the following plant growth regulators promotes internode elongation prior to flowering in cabbage?",
+      "option_a": "Abscisic acid",
+      "option_b": "Gibberellin",
+      "option_c": "Indole butyric acid",
+      "option_d": "Ethephon",
+      "options": [
+        "Abscisic acid",
+        "Gibberellin",
+        "Indole butyric acid",
+        "Ethephon"
+      ],
+      "answer": "B",
+      "explanation": "Gibberellin promotes internode elongation prior to flowering in cabbage.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_128",
+      "question": "The correct sequence of adult cell cycle phases is ___.",
+      "option_a": "G1-G2-S-M",
+      "option_b": "G1-M-G2-S",
+      "option_c": "G1-S-G2-M",
+      "option_d": "S-M-G2-G1",
+      "options": [
+        "G1-G2-S-M",
+        "G1-M-G2-S",
+        "G1-S-G2-M",
+        "S-M-G2-G1"
+      ],
+      "answer": "C",
+      "explanation": "Gap1 phase is the first phase of interphase. After Gap1 phase, synthesis phase starts in which DNA replicates, then Gap2 phase occurs and finally cell cycle ends with M phase (mitosis).",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "reneet2026_bio_129",
+      "question": "Match List-I with List-II. A. | Fusion of protoplasms between gametes | I. | Meiosis B. | Fusion of two nuclei | II. | Plasmogamy C. | Generation of haploid spores | III. | Karyogamy",
+      "option_a": "A-II, B-III, C-I",
+      "option_b": "A-II, B-I, C-III",
+      "option_c": "A-III, B-II, C-I",
+      "option_d": "A-I, B-III, C-II",
+      "options": [
+        "A-II, B-III, C-I",
+        "A-II, B-I, C-III",
+        "A-III, B-II, C-I",
+        "A-I, B-III, C-II"
+      ],
+      "answer": "A",
+      "explanation": "Karyogamy involve fusion of two nuclei. Plasmogamy is fusion of protoplasm. Meiosis leads to the production of haploid spores.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_130",
+      "question": "Given below are two statements: Statement I: The class name Reptilia refers to creeping or crawling mode of locomotion. Statement II: All organisms belonging to Reptilia have three chambered heart. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "option_a": "Both Statement I and Statement II are correct",
+      "option_b": "Both Statement I and Statement II are incorrect",
+      "option_c": "Statement I is correct but Statement II is incorrect",
+      "option_d": "Statement I is incorrect but Statement II is correct",
+      "options": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "answer": "C",
+      "explanation": "The class Reptilia refers to their creeping or crawling mode of locomotion. Heart is usually three-chambered, but four-chambered in crocodiles. So, All organisms belonging to class Reptilia does not possess three chambered heart.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_131",
+      "question": "Given below are two statements : Statement I: Chromosomes are fully condensed at the end of prophase I. Statement II : Meiosis I resembles mitosis. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "option_a": "Both Statement I and Statement II are true",
+      "option_b": "Both Statement I and Statement II are false",
+      "option_c": "Statement I is correct, but Statement II is false",
+      "option_d": "Statement I is incorrect, but Statement II is true",
+      "options": [
+        "Both Statement I and Statement II are true",
+        "Both Statement I and Statement II are false",
+        "Statement I is correct, but Statement II is false",
+        "Statement I is incorrect, but Statement II is true"
+      ],
+      "answer": "C",
+      "explanation": "The final stage of meiotic prophase-I is diakinesis. So, at the end of prophase-I the chromosomes are fully condensed and the meiotic spindle is assembled to prepare the homologous chromosomes for separation. So, Statement I is correct. Meiosis II resembles mitosis as it is an equational division.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_132",
+      "question": "Which of the following is not a characteristic of chordates?",
+      "option_a": "Presence of notochord",
+      "option_b": "Central nervous system is dorsal",
+      "option_c": "Absence of gills",
+      "option_d": "Presence of post anal part (tail)",
+      "options": [
+        "Presence of notochord",
+        "Central nervous system is dorsal",
+        "Absence of gills",
+        "Presence of post anal part (tail)"
+      ],
+      "answer": "C",
+      "explanation": "The members of phylum Chordata shows following features at any stage of life. (1) Presence of notochord (2) Pharynx perforated by gill slits (3) Dorsal, hollow and single central nervous system (4) Ventral heart (5) A post-anal tail Gill slits are absent in non-chordates.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_133",
+      "question": "Length of the stem at time 0 is 20 cm. The arithmetic growth rate is 30 cm per day. What is the length of the stem at the end of the $ 7^{th} $ day?",
+      "option_a": "50 cm",
+      "option_b": "170 cm",
+      "option_c": "230 cm",
+      "option_d": "460 cm",
+      "options": [
+        "50 cm",
+        "170 cm",
+        "230 cm",
+        "460 cm"
+      ],
+      "answer": "C",
+      "explanation": "Arithmetic growth can be expressed as : $ L_{t}=L_{0}+rt $ [where, $ L_{t}=length\\ at\\ time't', L_{0}=Length\\ at\\ time'zero', r=growth\\ rate] $ L_{7th\\ day} \\Rightarrow 20 + 30 \\times 7 $ $ \\Rightarrow $ 20 + 210 $ \\Rightarrow $ 230 cm The length of the stem at the end of $ 7^{th} $ day is 230 cm.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_134",
+      "question": "Arrange the following elements in descending order of their contribution to percentage weight of the human body. (a) Oxygen (b) Carbon (c) Hydrogen (d) Nitrogen",
+      "option_a": "(a),(b),(c),(d)",
+      "option_b": "(c),(a),(b),(d)",
+      "option_c": "(b)，(c)，(d)，(a)",
+      "option_d": "(b),(a),(c),(d)",
+      "options": [
+        "(a),(b),(c),(d)",
+        "(c),(a),(b),(d)",
+        "(b)，(c)，(d)，(a)",
+        "(b),(a),(c),(d)"
+      ],
+      "answer": "A",
+      "explanation": "The arrangement of elements in descending order of their contribution to percentage weight of the human body is Oxygen (65%) → Carbon (18.5%) → Hydrogen (9.5%) → Nitrogen (3.3%)",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_135",
+      "question": "In frogs, the number of pairs of cranial nerves arising from the brain are ___.",
+      "option_a": "6",
+      "option_b": "9",
+      "option_c": "10",
+      "option_d": "12",
+      "options": [
+        "6",
+        "9",
+        "10",
+        "12"
+      ],
+      "answer": "C",
+      "explanation": "In frogs, there are ten pairs of cranial nerves arising from the brain.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_136",
+      "question": "Which of the following is used as a clot buster?",
+      "option_a": "Cyclosporin A",
+      "option_b": "Statins",
+      "option_c": "Streptokinase",
+      "option_d": "Penicillin",
+      "options": [
+        "Cyclosporin A",
+        "Statins",
+        "Streptokinase",
+        "Penicillin"
+      ],
+      "answer": "C",
+      "explanation": "Streptokinase produced by the bacterium Streptococcus and modified by genetic engineering is used as a 'clot-buster' for removing clots from the blood vessels of patients who have undergone myocardial infarction leading to heart attack.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_137",
+      "question": "The inactive form of Bt toxin is converted to the active form in the insect gut ___",
+      "option_a": "due to alkaline pH",
+      "option_b": "due to acidic pH",
+      "option_c": "by proteases",
+      "option_d": "by nucleases",
+      "options": [
+        "due to alkaline pH",
+        "due to acidic pH",
+        "by proteases",
+        "by nucleases"
+      ],
+      "answer": "A",
+      "explanation": "Bt toxin protein exists as inactive protoxins, but once an insect ingests the inactive toxin, it is converted into an active form of toxin due to the alkaline pH of the gut which solubilises the crystals.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_138",
+      "question": "Given below are two statements : Statement I: Down's syndrome is caused by the absence of one of the X-chromosomes. Statement II : Turner's syndrome is caused by the presence of an additional copy of the chromosomes. In the light of the above statements,",
+      "option_a": "Statement I is incorrect but Statement II is correct",
+      "option_b": "Both Statement I and Statement II are correct",
+      "option_c": "Both Statement I and Statement II are incorrect",
+      "option_d": "Statement I is correct but Statement II is incorrect",
+      "options": [
+        "Statement I is incorrect but Statement II is correct",
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect"
+      ],
+      "answer": "C",
+      "explanation": "The cause of genetic disorder-Down's syndrome is the presence of an additional copy of the chromosome number 21 (Trisomy 21). The cause of genetic disorder-Turner's syndrome is the absence of one of the X-chromosomes; i.e. 45 with X0.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_139",
+      "question": "Which of the following disease is not sexually transmitted?",
+      "option_a": "Syphilis",
+      "option_b": "Tuberculosis",
+      "option_c": "Gonorrhoea",
+      "option_d": "Genital warts",
+      "options": [
+        "Syphilis",
+        "Tuberculosis",
+        "Gonorrhoea",
+        "Genital warts"
+      ],
+      "answer": "B",
+      "explanation": "Genital warts, syphilis and gonorrhoea are sexually transmitted diseases. Genital warts is caused by Human papilloma virus. Syphilis is caused by Treponema pallidum. Gonorrhoea is caused by Neisseria gonorrhoeae. Tuberculosis is caused by Mycobacterium tuberculosis. This disease spreads through air.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_140",
+      "question": "Sperm motility is due to ___.",
+      "option_a": "flagellar movement",
+      "option_b": "ciliary movement",
+      "option_c": "amoeboid movement",
+      "option_d": "muscular movement",
+      "options": [
+        "flagellar movement",
+        "ciliary movement",
+        "amoeboid movement",
+        "muscular movement"
+      ],
+      "answer": "A",
+      "explanation": "Sperm travels across the fallopian tube via flagellar movement.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_141",
+      "question": "Natural selection can lead to ___. (a) stabilisation (b) genetic drift (c) directional change (d) disruption",
+      "option_a": "(a) only",
+      "option_b": "(a), (c) and (d) only",
+      "option_c": "(a), (b), (c) and (d)",
+      "option_d": "(a) and (c) only",
+      "options": [
+        "(a) only",
+        "(a), (c) and (d) only",
+        "(a), (b), (c) and (d)",
+        "(a) and (c) only"
+      ],
+      "answer": "B",
+      "explanation": "Natural selection can lead to stabilization, directional change or disruption. Natural selection is a process in which heritable variations enabling better survival enabled to reproduce and leave greater number of progeny. A critical analysis makes us believe that variation due to mutation or recombination during gametogenesis or due to gene flow or genetic drift results in changed frequency of genes and alleles in future generation.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_142",
+      "question": "The method of directly or injecting a sperm into ovum in assisted reproductive technology is called:",
+      "option_a": "Gamete intra fallopian transfer (GIFT)",
+      "option_b": "Zygote intra fallopian transfer (ZIFT)",
+      "option_c": "Intra cytoplasmic sperm injection (ICSI)",
+      "option_d": "Embryo transfer (ET)",
+      "options": [
+        "Gamete intra fallopian transfer (GIFT)",
+        "Zygote intra fallopian transfer (ZIFT)",
+        "Intra cytoplasmic sperm injection (ICSI)",
+        "Embryo transfer (ET)"
+      ],
+      "answer": "C",
+      "explanation": "Intra cytoplasmic sperm injection (ICSI) is a procedure to form an embryo in the laboratory in which a sperm is directly injected into the ovum. ZIFT (Zygote intra fallopian transfer) involves transfer of the zygote or early embryos with upto 8 blastomeres into the fallopian tube. GIFT (Gamete intra fallopian transfer) involves transfer of an ovum collected from a donor into the fallopian tube of another female who cannot produce one, but can provide suitable environment for fertilisation and further development.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_143",
+      "question": "Which of the following structure is not a part of the male reproductive system?",
+      "option_a": "Rete testis",
+      "option_b": "Epididymis",
+      "option_c": "Vasa efferentia",
+      "option_d": "Infundibulum",
+      "options": [
+        "Rete testis",
+        "Epididymis",
+        "Vasa efferentia",
+        "Infundibulum"
+      ],
+      "answer": "D",
+      "explanation": "The male sex accessory ducts include rete testis, vasa efferentia, epididymis and vas deferens. The oviducts, uterus and vagina constitute the female accessory ducts. Infundibulum is the part of oviduct.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_144",
+      "question": "Arrange the following in descending order of number of species in the Amazonian rain forest. (a) Plants (b) Birds (c) Fishes (d) Invertebrates (e) Mammals",
+      "option_a": "(c)>(b)>(d)>(e)>(a)",
+      "option_b": "(d) > (a) > (c) > (b) > (e)",
+      "option_c": "(e) > (b) > (a) > (c) > (d)",
+      "option_d": "(b) > (a) > (d) > (c) > (e)",
+      "options": [
+        "(c)>(b)>(d)>(e)>(a)",
+        "(d) > (a) > (c) > (b) > (e)",
+        "(e) > (b) > (a) > (c) > (d)",
+        "(b) > (a) > (d) > (c) > (e)"
+      ],
+      "answer": "B",
+      "explanation": "The Amazonian rain forest is home to more than 40,000 species of plants, 3,000 of fishes, 1300 of birds, 427 of mammals, 378 of reptiles and of more than 1,25,000 invertebrates. Hence the correct decreasing order would be (d)>(a)>(c)>(b)>(e)",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_145",
+      "question": "Given below are two statements: Statement I: Ovulation is caused by LH surge leading to rupture of Graafian follicles. Statement II: Graafian follicle remaining after ovulation transform into corpus luteum and secretes large amount of estrogen. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "option_a": "Both Statement I and Statement II are correct",
+      "option_b": "Both Statement I and Statement II are incorrect",
+      "option_c": "Statement I is correct but Statement II is incorrect",
+      "option_d": "Statement I is incorrect but Statement II is correct",
+      "options": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "answer": "C",
+      "explanation": "Rapid secretion of LH leading to its maximum level during the mid-cycle called LH surge induces rupture of Graafian follicle and thereby the release of ovum (ovulation). The remaining parts of the Graafian follicle transform as the corpus luteum, which secretes large amounts of progesterone.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_146",
+      "question": "Which of the following are primary consumers in a food chain?",
+      "option_a": "Parasites",
+      "option_b": "Predators",
+      "option_c": "Herbivores",
+      "option_d": "Carnivores",
+      "options": [
+        "Parasites",
+        "Predators",
+        "Herbivores",
+        "Carnivores"
+      ],
+      "answer": "C",
+      "explanation": "Primary consumers in a food chain are the herbivores.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_147",
+      "question": "A population of diploid organisms is at Hardy-Weinberg equilibrium. If the frequency of allele A is 0.1, the frequency of AA is ___.",
+      "option_a": "0.01",
+      "option_b": "0.02",
+      "option_c": "0.10",
+      "option_d": "0.99",
+      "options": [
+        "0.01",
+        "0.02",
+        "0.10",
+        "0.99"
+      ],
+      "answer": "A",
+      "explanation": "The frequency of allele A(p) = 0.1 As per the Hardy-Weinberg equilibrium, Frequency of AA = p^{2} = (0.1)^{2} = 0.01",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_148",
+      "question": "Match List-I with List-II. (A) Excess growth hormone (B) Luteinizing hormone (C) Vasopressin (D) Oxytocin List-I List-II (I) Reabsorption of water and electrolytes in kidney (II) Contraction of uterus during child birth (III) Acromegaly (IV) Ovulation",
+      "option_a": "A-III, B-IV, C-I, D-II",
+      "option_b": "A-II, B-IV, C-I, D-III",
+      "option_c": "A-IV, B-III, C-I, D-II",
+      "option_d": "A-III, B-IV, C-II, D-I",
+      "options": [
+        "A-III, B-IV, C-I, D-II",
+        "A-II, B-IV, C-I, D-III",
+        "A-IV, B-III, C-I, D-II",
+        "A-III, B-IV, C-II, D-I"
+      ],
+      "answer": "B",
+      "explanation": "Excess ground. egaly es in kidneys",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_149",
+      "question": "The opening between the right atrium and the right ventricle is guarded by _____.",
+      "option_a": "bicuspid valve",
+      "option_b": "tricuspid valve",
+      "option_c": "semilunar valve",
+      "option_d": "sino-atrial node",
+      "options": [
+        "bicuspid valve",
+        "tricuspid valve",
+        "semilunar valve",
+        "sino-atrial node"
+      ],
+      "answer": "B",
+      "explanation": "The opening between the right atrium and the right ventricle is guarded by a valve formed of three muscular flaps or cusps, called the tricuspid valve. A bicuspid/mitral valve guards the opening between the left atrium and the left ventricle. The openings of the right and the left ventricles into the pulmonary artery and the aorta, respectively, are provided with the semilunar valves.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_150",
+      "question": "Sponges exchange $ O_{2} $ with $ CO_{2} $ by ___.",
+      "option_a": "simple diffusion over their entire body surfaces",
+      "option_b": "moist cuticle",
+      "option_c": "tracheal tubes",
+      "option_d": "gills",
+      "options": [
+        "simple diffusion over their entire body surfaces",
+        "moist cuticle",
+        "tracheal tubes",
+        "gills"
+      ],
+      "answer": "A",
+      "explanation": "Mechanisms of breathing vary among different groups of animals depending mainly on their habitats and levels of organisation. Lower invertebrates like sponges, coelenterates, flatworms, etc., exchange $ O_{2} $ with $ CO_{2} $ by simple diffusion over their entire body surfaces. Earthworms use their moist cuticle and insects have a network of tubes (tracheal tubes) to transport atmospheric air within the body. Gills are used by most of the aquatic arthropods and molluscs.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_151",
+      "question": "How many theca are present in each lobe of a typical bilobed angiosperm anther?",
+      "option_a": "2",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "12",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "A",
+      "explanation": "A typical anther is bilobed with each lobe having two theca i.e. they are dithecous.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_152",
+      "question": "Muscle contraction is initiated by a signal sent by the central nervous system by the release of ___.",
+      "option_a": "acetyl choline",
+      "option_b": "acetyl coenzyme A",
+      "option_c": "cyclic guanine monophosphate",
+      "option_d": "cyclic adenine monophosphate",
+      "options": [
+        "acetyl choline",
+        "acetyl coenzyme A",
+        "cyclic guanine monophosphate",
+        "cyclic adenine monophosphate"
+      ],
+      "answer": "A",
+      "explanation": "Muscle concraction is initiated by a signal sent by the central nervous system (CNS) via a motor neuron. The junction between a motor neuron and the sarcolemma of the muscle fibre is called the neuromuscular junction or motor-end plate. A neural signal reaching this junction releases a neurotransmitter (Acetylcholine) which generates an action potential in the sarcolemma.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_153",
+      "question": "Which of the following statements about lac-operon is correct?",
+      "option_a": "Gene i is constitutively expressed",
+      "option_b": "Lactose activates repressor to bind to the operator",
+      "option_c": "Genes i, z, y and a share single common promoter",
+      "option_d": "Galactose can act as an inducer of lac operon",
+      "options": [
+        "Gene i is constitutively expressed",
+        "Lactose activates repressor to bind to the operator",
+        "Genes i, z, y and a share single common promoter",
+        "Galactose can act as an inducer of lac operon"
+      ],
+      "answer": "A",
+      "explanation": "Galactose cannot act as an inducer of lac operon. Gene i is constitutively expressed in lac operon. Repressor binds to the operator when the lactose is not available. Genes z, y and a are structural genes and have a different promoter than that of the i gene.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_154",
+      "question": "Which of the following in female gametophyte of an angiosperm helps in guiding the pollen tube for fertilizing the eggs?",
+      "option_a": "Antipodals",
+      "option_b": "Synergids",
+      "option_c": "Central cells",
+      "option_d": "Polar nucleus",
+      "options": [
+        "Antipodals",
+        "Synergids",
+        "Central cells",
+        "Polar nucleus"
+      ],
+      "answer": "B",
+      "explanation": "Synergids guide the entry of pollen tube for fertilizing the eggs, in a typical angiospermic embryo sac.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_155",
+      "question": "Which of the following plant produces non-albuminous seeds?",
+      "option_a": "Wheat",
+      "option_b": "Maize",
+      "option_c": "Barley",
+      "option_d": "Pea",
+      "options": [
+        "Wheat",
+        "Maize",
+        "Barley",
+        "Pea"
+      ],
+      "answer": "D",
+      "explanation": "S01. Non-albuminous seeds have no residual endosperm as it is completely consumed during embryo development. E.g. Pea. Wheat, maize and barley are the examples of albuminous seeds.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_156",
+      "question": "If the diploid chromosome number of typical angiosperm is 36, what would be the chromosome number in its endosperm?",
+      "option_a": "18",
+      "option_b": "36",
+      "option_c": "54",
+      "option_d": "72",
+      "options": [
+        "18",
+        "36",
+        "54",
+        "72"
+      ],
+      "answer": "C",
+      "explanation": "The endosperm is triploid, if the diploid chromosome number of typical angiosperm is 36 i.e. 2n = 36 then n = 18 So, $ 3n = n + n + n $ = 18 + 18 + 18 = 54",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_157",
+      "question": "Which of the following statements about the reabsorption process in Henle's loop are correct? (a) The descending limb of Henle's loop is permeable to water but almost impermeable to electrolytes. (b) Urine gets concentrated in Henle's loop. (c) Reabsorption of Na⁺ and water takes place in Henle's loop. (d) Active or passive transport of electrolytes occurs in the ascending limb of Henle's loop.",
+      "option_a": "(a) and (b) only",
+      "option_b": "(b), (c) and (d) only",
+      "option_c": "(a), (b) and (c) only",
+      "option_d": "(a), (b) and (d) only",
+      "options": [
+        "(a) and (b) only",
+        "(b), (c) and (d) only",
+        "(a), (b) and (c) only",
+        "(a), (b) and (d) only"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ",
+        "bonus",
+        "bonus_or_multiple"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_158",
+      "question": "Which of the following is the correct order of arrangement of vertebrate column from the head to toe?",
+      "option_a": "Cervical vertebra, thoracic vertebra, sacrum, lumbar vertebra",
+      "option_b": "Sacrum, lumbar vertebra, thoracic vertebra, cervical vertebra",
+      "option_c": "Cervical vertebra, lumbar vertebra, thoracic vertebra, sacrum",
+      "option_d": "Cervical vertebra, thoracic vertebra, lumbar vertebra, sacrum",
+      "options": [
+        "Cervical vertebra, thoracic vertebra, sacrum, lumbar vertebra",
+        "Sacrum, lumbar vertebra, thoracic vertebra, cervical vertebra",
+        "Cervical vertebra, lumbar vertebra, thoracic vertebra, sacrum",
+        "Cervical vertebra, thoracic vertebra, lumbar vertebra, sacrum"
+      ],
+      "answer": "D",
+      "explanation": "The vertebral column is formed by 26 serially arranged units called vertebrae and is dorsally placed. The vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused) and coccygeal (1-fused) regions starting from the skull. So, the correct sequence will be: Cervical, thoracic, lumbar, sacrum and coccyx.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_159",
+      "question": "Which of the following is not evidence for evolution?",
+      "option_a": "Convergent evolution of traits like wings of birds and butterflies",
+      "option_b": "Paleontological evidence from fossil records",
+      "option_c": "Embryological support for evolution as proposed by Ernst Heckel",
+      "option_d": "Divergent evolution of anatomical structures such as forelimbs",
+      "options": [
+        "Convergent evolution of traits like wings of birds and butterflies",
+        "Paleontological evidence from fossil records",
+        "Embryological support for evolution as proposed by Ernst Heckel",
+        "Divergent evolution of anatomical structures such as forelimbs"
+      ],
+      "answer": "A",
+      "explanation": "Divergent evolution of anatomical structures, such as forelimbs, indicate homology. Homology indicates common ancestry and acts as the evidence of evolution. When same structure develops along different directions due to adaptation to different needs, they are called homologous structures. Convergent evolution does not act as the evidence for evolution, because species can develop similar features without a common ancestor. Fossils are remains of hard parts of life-forms found in rocks. A study of fossils in different sedimentary layers indicates the geological period in which they existed. Embryological support for evolution was proposed by Ernst Heckel based upon the observation of certain features during embryonic stage common to all vertebrates that are absent in adult. But later, this proposal was disapproved on careful study performed by Karl Ernst von Baer.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ",
+        "bonus",
+        "multiple-answers",
+        "bonus_or_multiple"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_160",
+      "question": "Given below are two statements: Statement I: Modern Homo sapiens arose in Australia and moved across continents. Statement II : Homo sapiens arose around 75000 to 10000 years ago. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "option_a": "Both Statement I and Statement II are correct",
+      "option_b": "Both Statement I and Statement II are incorrect",
+      "option_c": "Statement I is correct but Statement II is incorrect",
+      "option_d": "Statement I is incorrect but Statement II is correct",
+      "options": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "answer": "D",
+      "explanation": "Homo sapiens arose in Africa and moved across continents and developed into distinct races. During ice age, between 75,000 - 10,000 years ago, modern Homo sapiens arose.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_161",
+      "question": "Consider a population of 10 million cells. Given the per-capita birth rate of 0.002 (per unit time) and the per-capita death rate of 0.002 (per unit time), the expected number of cells after 10 generations is ___.",
+      "option_a": "1 million",
+      "option_b": "5 million",
+      "option_c": "10 million",
+      "option_d": "100 million",
+      "options": [
+        "1 million",
+        "5 million",
+        "10 million",
+        "100 million"
+      ],
+      "answer": "C",
+      "explanation": "The per-capita birth rate of bacteria is 0.002. The per-capita death rate of bacteria is 0.002. The population dynamic equation is $ \\frac{dN}{dt}=(b-d)N $ Since $ r=(b-d)=0.002-0.002=0 $ $ \\frac{dN}{dt}=0 $ So, the population remains constant at all times. Thus, even after 10 generations, the expected number of cells will be 10 million.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_162",
+      "question": "During PCR, primers bind to the DNA strands in the ___step.",
+      "option_a": "denaturation",
+      "option_b": "extension",
+      "option_c": "annealing",
+      "option_d": "ligation",
+      "options": [
+        "denaturation",
+        "extension",
+        "annealing",
+        "ligation"
+      ],
+      "answer": "C",
+      "explanation": "PCR involves three steps, i.e. denaturation, annealing and extension. During PCR, primers bind to the DNA strands in the annealing step.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_163",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: The logistic growth model of populations is considered more realistic than the exponential growth model. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "option_a": "Both A and R are correct and R is the correct explanation of A",
+      "option_b": "Both A and R are correct but R is not the correct explanation of A",
+      "option_c": "A is correct but R is not correct",
+      "option_d": "A is not correct but R is correct",
+      "options": [
+        "Both A and R are correct and R is the correct explanation of A",
+        "Both A and R are correct but R is not the correct explanation of A",
+        "A is correct but R is not correct",
+        "A is not correct but R is correct"
+      ],
+      "answer": "A",
+      "explanation": "The logistic growth model of populations is considered more realistic than the exponential growth model because resources are limited/finite in nature.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_164",
+      "question": "Adaptive radiation in placental mammals and Australian Marsupials leading to similarity between distant species is an example of ___.",
+      "option_a": "genetic drift",
+      "option_b": "divergent evolution",
+      "option_c": "convergent evolution",
+      "option_d": "founder effect",
+      "options": [
+        "genetic drift",
+        "divergent evolution",
+        "convergent evolution",
+        "founder effect"
+      ],
+      "answer": "C",
+      "explanation": "When more than one adaptive radiation appeared to have occurred in an isolated geographical area (representing different habitats), one can call this convergent evolution. Placental mammals in Australia also exhibit adaptive radiation in evolving into varieties of such placental mammals each of which appears to be 'similar' to a corresponding marsupial.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_165",
+      "question": "Which of the following are secondary lymphoid organs? (a) Bone marrow (b) Tonsils (c) Spleen (d) Thymus",
+      "option_a": "(a) and (b) only",
+      "option_b": "(b) and (c) only",
+      "option_c": "(b) and (d) only",
+      "option_d": "(a) and (d) only",
+      "options": [
+        "(a) and (b) only",
+        "(b) and (c) only",
+        "(b) and (d) only",
+        "(a) and (d) only"
+      ],
+      "answer": "B",
+      "explanation": "Bone marrow and thymus are primary lymphoid organs while tonsils, spleen are secondary lymphoid organs.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_166",
+      "question": "Which of the following hormone is not secreted by human placenta?",
+      "option_a": "hCG",
+      "option_b": "Estrogen",
+      "option_c": "Progesterone",
+      "option_d": "LH",
+      "options": [
+        "hCG",
+        "Estrogen",
+        "Progesterone",
+        "LH"
+      ],
+      "answer": "D",
+      "explanation": "The placenta acts as a temporary endocrine gland during pregnancy, secreting several vital hormones essential for fetal development and maintenance of pregnancy. Several hormones produced by placenta are human chorionic gonadotropin (hCG), human placental lactogen (hPL), estrogen, progestogens, etc. Luteinizing hormone (LH) is secreted by anterior pituitary.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_167",
+      "question": "Which of the following enzymes synthesizes precursor mRNA?",
+      "option_a": "RNA polymerase II",
+      "option_b": "RNA polymerase III",
+      "option_c": "DNA polymerase",
+      "option_d": "RNA polymerase I",
+      "options": [
+        "RNA polymerase II",
+        "RNA polymerase III",
+        "DNA polymerase",
+        "RNA polymerase I"
+      ],
+      "answer": "A",
+      "explanation": "The RNA polymerase II transcribes precursor of mRNA, the heterogeneous nuclear RNA (hnRNA)",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "reneet2026_bio_168",
+      "question": "Given below are two statements : Statement I: Plasmids are autonomously replicating DNA. Statement II: Plasmids are extrachromosomal DNA. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "option_a": "Both Statement I and Statement II are correct",
+      "option_b": "Both Statement I and Statement II are incorrect",
+      "option_c": "Statement I is correct but Statement II is incorrect",
+      "option_d": "Statement I is incorrect but Statement II is correct",
+      "options": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "answer": "A",
+      "explanation": "Plasmids are used as cloning vectors in genetic engineering. • Plasmids are autonomously replicating circular extra chromosomal DNA. They have ability to replicate within bacterial cells independent of the control of its chromosomal DNA",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_169",
+      "question": "For a person with blood group 'O', which of the following is not a possible combination of parents' blood group genotypes?",
+      "option_a": "Father : $ I^{A}i $ and Mother : $ I^{B}i $",
+      "option_b": "Father : $ I^{A}i $ and Mother : $ I^{A}i $",
+      "option_c": "Father : $ I^{B}i $ and Mother : $ I^{B}i $",
+      "option_d": "Father : $ I^{A}I^{B} $ and Mother : $ I^{A}i $",
+      "options": [
+        "Father : $ I^{A}i $ and Mother : $ I^{B}i $",
+        "Father : $ I^{A}i $ and Mother : $ I^{A}i $",
+        "Father : $ I^{B}i $ and Mother : $ I^{B}i $",
+        "Father : $ I^{A}I^{B} $ and Mother : $ I^{A}i $"
+      ],
+      "answer": "D",
+      "explanation": "When $ I^{A} $ and $ I^{B} $ are present together they both express their own type of sugars. This combination of parent blood group are not possible for a person with blood group 'O'. For a child to have type 'O' blood, both biological parents must carry the recessive 'O' allele and pass it down.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "reneet2026_bio_170",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Forelimbs of human and bats are homologous. Reason R : Forelimbs of humans and bats have similar anatomical structure. In the light of the above statements, choose the most appropriate answer from the options given below.",
+      "option_a": "Both A and R are correct and R is the correct explanation of A",
+      "option_b": "Both A and R are true, but R is not the correct explanation of A",
+      "option_c": "A is true but R is false",
+      "option_d": "A is false but R is true",
+      "options": [
+        "Both A and R are correct and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": "A",
+      "explanation": "Forelimbs of bats and humans share similarities in the pattern of bone arrangement. Though their forelimbs perform different functions, they have similar anatomical structure, as all of them have humerus, radius, ulna, carpals, metacarpals and phalanges in their forelimbs. Hence, in these animals, the same structure developed along different directions due to adaptation to different needs. This is divergent evolution, and these structures are homologous.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_171",
+      "question": "Colostrum, secreted by mother during initial days of lactation, is abundant in ___.",
+      "option_a": "IgG",
+      "option_b": "IgM",
+      "option_c": "IgA",
+      "option_d": "IgD",
+      "options": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgD"
+      ],
+      "answer": "C",
+      "explanation": "Colostrum, secreted by the mother during the initial days of lactation, is abundant in IgA antibody. IgG antibody passes through the placenta and provides natural passive immunity.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_172",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Abingdon tortoise in Galapagos islands became extinct within a decade after goats were introduced. Reason R: Goals were more efficient at browsing than Abingdon tortoise. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "option_a": "Both A and R are correct and R is the correct explanation of A",
+      "option_b": "Both A and R are correct but R is not the correct explanation of A",
+      "option_c": "A is correct but R is not correct",
+      "option_d": "A is not correct but R is correct",
+      "options": [
+        "Both A and R are correct and R is the correct explanation of A",
+        "Both A and R are correct but R is not the correct explanation of A",
+        "A is correct but R is not correct",
+        "A is not correct but R is correct"
+      ],
+      "answer": "A",
+      "explanation": "Abingdon tortoise in Galapagos islands became extinct within a decade after goats were introduced on the island, apparently due to the greater browsing efficiency of the goats.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_173",
+      "question": "The covering of ovum at ovulation is ___.",
+      "option_a": "endometrium",
+      "option_b": "zona radiata",
+      "option_c": "zona pellucida",
+      "option_d": "chorion",
+      "options": [
+        "endometrium",
+        "zona radiata",
+        "zona pellucida",
+        "chorion"
+      ],
+      "answer": "C",
+      "explanation": "The Graafian follicle ruptures to release the secondary oocyte (ovum) from the ovary by the process called ovulation. The secondary oocyte forms a membrane called zona pellucida surrounding it. Endometrium is the innermost layer of uterine wall. Chorion is the outermost extraembryonic membrane that surrounds the embryo.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_174",
+      "question": "Match List-I with List-II. A. | Both species are harmed | I. | Predation B. | One species is harmed and the other is benefited | II. | Mutualism C. | Both species are benefited | III. | Competition D. | One is benefited while the other has no effect | IV. | Commensalism",
+      "option_a": "A-III, B-IV, C-II, D-I",
+      "option_b": "A-I, B-II, C-III, D-IV",
+      "option_c": "A-II, B-I, C-IV, D-III",
+      "option_d": "A-III, B-I, C-II, D-IV",
+      "options": [
+        "A-III, B-IV, C-II, D-I",
+        "A-I, B-II, C-III, D-IV",
+        "A-II, B-I, C-IV, D-III",
+        "A-III, B-I, C-II, D-IV"
+      ],
+      "answer": "D",
+      "explanation": "Both species are harmed in competition. One species is harmed and the other is benefited in predation. Both species are benefited in mutualism. One species is benefited while the other has no effect in common",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_175",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : In an experiment, Mendel observed that the F1 progeny plants are all tall and none are dwarf. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "option_a": "Both A and R are correct and R is the correct explanation of A",
+      "option_b": "Both A and R are correct but R is not the correct explanation of A",
+      "option_c": "A is correct but R is not correct",
+      "option_d": "A is not correct but R is correct",
+      "options": [
+        "Both A and R are correct and R is the correct explanation of A",
+        "Both A and R are correct but R is not the correct explanation of A",
+        "A is correct but R is not correct",
+        "A is not correct but R is correct"
+      ],
+      "answer": "A",
+      "explanation": "Mendel crossed tall and dwarf plants and observed that all the $ F_{1} $ progeny plants are tall. The trait 'T' or tall is said to be dominant over the other allele 't' or 'dwarf' trait. It is thus due to this dominance of one trait over the other that all the $ F_{1} $ are tall.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_176",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: In recombinant DNA technology, lysozyme is used for disrupting bacterial cells while cellulase is for plant cells. Reason R: Isolation of genetic material needs disruption of cells. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "option_a": "Both A and R are correct and R is the correct explanation of A",
+      "option_b": "Both A and R are correct but R is not the correct explanation of A",
+      "option_c": "A is correct but R is not correct",
+      "option_d": "A is not correct but R is correct",
+      "options": [
+        "Both A and R are correct and R is the correct explanation of A",
+        "Both A and R are correct but R is not the correct explanation of A",
+        "A is correct but R is not correct",
+        "A is not correct but R is correct"
+      ],
+      "answer": "A",
+      "explanation": "Since, the DNA is enclosed within the membranes, we have to break the cell open to release DNA along with other macromolecules such as RNA, proteins, polysaccharides and also lipids. This can be achieved by treating the bacterial cells/plant or animal tissue with enzymes such as lysozyme (bacteria), cellulase (plant cells), chitinase (fungus).",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_177",
+      "question": "Which of the following is used as an effective sedative and painkiller for treating post-surgery patients?",
+      "option_a": "Interferon",
+      "option_b": "Antibiotics",
+      "option_c": "Morphine",
+      "option_d": "Anti-retroviral drugs",
+      "options": [
+        "Interferon",
+        "Antibiotics",
+        "Morphine",
+        "Anti-retroviral drugs"
+      ],
+      "answer": "C",
+      "explanation": "Morphine is a very effective sedative and painkiller and is very useful in patients who have undergone surgery. Interferon belongs to cytokine barrier of innate immunity. Antibiotics are used for restricting the growth of bacteria.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_178",
+      "question": "Which of the following statements are Correct? (a) Energy flow from producers to consumers is unidirectional (b) Energy pyramid can never be inverted (c) Transfer of energy follows the 1% law",
+      "option_a": "(a), (b) and (c)",
+      "option_b": "(a) and (b) only",
+      "option_c": "(a) and (c) only",
+      "option_d": "(b) and (c) only",
+      "options": [
+        "(a), (b) and (c)",
+        "(a) and (b) only",
+        "(a) and (c) only",
+        "(b) and (c) only"
+      ],
+      "answer": "B",
+      "explanation": "Energy flow is unidirectional. First plants capture solar energy and then, food is transferred from the producers to decomposers. Pyramid of energy is always upright. It can never be inverted, because when energy flows from a particular trophic level to the next trophic level, some energy is always lost as heat at each step. The transfer of energy follows 10 per cent law - only 10 per cent of the energy is transferred to each trophic level from the lower trophic level.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_179",
+      "question": "Which of the following statements is correct about Plasmodium?",
+      "option_a": "Reproduces sexually in liver cells",
+      "option_b": "Reproduces sexually in RBCs",
+      "option_c": "Gametocytes develop in mosquito gut",
+      "option_d": "Fertilization takes place in mosquito gut",
+      "options": [
+        "Reproduces sexually in liver cells",
+        "Reproduces sexually in RBCs",
+        "Gametocytes develop in mosquito gut",
+        "Fertilization takes place in mosquito gut"
+      ],
+      "answer": "D",
+      "explanation": "Plasmodium reproduces asexually in liver cells. Plasmodium parasite reproduce asexually in red blood cells, bursting the RBCs and causing cycles of fever and other symptoms. Released parasites infect new red blood cell. Female anopheles mosquito takes up gametocytes with blood meal. Fertilization and development take place in the mosquito's gut. Sexual stages of plasmodium (gametocytes) develop in RBC.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
+    },
+    {
+      "id": "reneet2026_bio_180",
+      "question": "Match List-I with List-II. A. | Transformation | I. | Restriction enzyme B. | Cloning site | II. | Transfer DNA to host bacteria C. | Selection | III. | Replication D. | Ori | IV. | Antibiotic",
+      "option_a": "A-II, B-I, C-IV, D-III",
+      "option_b": "A-I, B-II, C-IV, D-III",
+      "option_c": "A-III, B-IV, C-II, D-I",
+      "option_d": "A-IV, B-I, C-III, D-II",
+      "options": [
+        "A-II, B-I, C-IV, D-III",
+        "A-I, B-II, C-IV, D-III",
+        "A-III, B-IV, C-II, D-I",
+        "A-IV, B-I, C-III, D-II"
+      ],
+      "answer": "A",
+      "explanation": "• Transformation - Transfer of DNA to the host bacteria - Cloning site - It is a segment of DNA within a plasmid vector that contains multiple unique recognition sequences for restriction enzymes. • Selection - Antibiotics help in the selection of recombinants. Ori - Specific DNA sequence where the host cell's replication machinery begins duplicating the plasmid.",
+      "why_wrong_a": "",
+      "why_wrong_b": "",
+      "why_wrong_c": "",
+      "why_wrong_d": "",
+      "subject": "Biology",
+      "topic": "NEET 2026 Re-Exam",
+      "subtopic": "reNEET 2026",
+      "tags": [
+        "reNEET2026",
+        "2026",
+        "PYQ"
+      ],
+      "questionImage": "",
+      "explanationImage": ""
     }
   ]
 }

@@ -151,8 +151,37 @@
     const student = deps.state.progress.students[studentId];
     const recent = deps.getAuditLog(student, 5);
     const insights = deps.getCoachInsights ? deps.getCoachInsights(studentId) : null;
+    const reneet = deps.summarizeReneetPaper ? deps.summarizeReneetPaper(studentId) : { total: 0 };
 
     el.dashboardView.innerHTML = `
+      <section class="dashboard-feature reneet-feature">
+        <div class="reneet-feature-main">
+          <p class="eyebrow-light">NEET (UG) 2026 Re-Examination</p>
+          <h2><span class="reneet-feature-icon">🎓</span> reNEET 2026 · Biology</h2>
+          <p class="reneet-feature-lead">${reneet.total
+            ? `Full biology section — ${reneet.total} MCQs (Q91–180). ${reneet.unsolved} not tried yet.`
+            : 'Dedicated paper for the NEET 2026 re-exam biology section. Sync the bank to load questions.'}</p>
+          <div class="button-row">
+            <button type="button" class="primary-btn" data-action="goto-reneet">Open reNEET tab</button>
+            ${reneet.total ? `
+              <button type="button" class="secondary-btn light" data-action="start-reneet-all">Practice full paper</button>
+              <button type="button" class="secondary-btn light" data-action="start-reneet-unsolved">Unseen (${reneet.unsolved})</button>
+            ` : ''}
+          </div>
+        </div>
+        ${reneet.total ? `
+          <div class="reneet-feature-stats">
+            ${ring(reneet.progress, 64)}
+            <div class="reneet-feature-metrics">
+              <div><strong>${reneet.attempted}/${reneet.total}</strong><span>Attempted</span></div>
+              <div><strong>${reneet.mastered}</strong><span>Strong</span></div>
+              <div><strong>${reneet.wrong}</strong><span>Weak</span></div>
+              <div><strong>${reneet.accuracy}%</strong><span>Accuracy</span></div>
+            </div>
+          </div>
+        ` : ''}
+      </section>
+
       ${coachCardHtml(insights)}
 
       <div class="stat-grid">
@@ -335,6 +364,98 @@
         }).join('')}
       </div>
       <button type="button" class="primary-btn" data-action="practice-chapter" data-chapter="${esc(ch.name)}">Practice full chapter</button>
+    `;
+  }
+
+  function renderReneet2026() {
+    const el = deps.el;
+    if (!el.reneet2026View) return;
+
+    const studentId = deps.state.activeStudentId;
+    if (!studentId) {
+      el.reneet2026View.innerHTML = '<div class="empty-card"><h3>Select a student</h3><p class="muted">Choose your profile from the top bar to track reNEET 2026 progress.</p></div>';
+      return;
+    }
+
+    const paper = deps.summarizeReneetPaper(studentId);
+    if (!paper.total) {
+      el.reneet2026View.innerHTML = `
+        <div class="view-hero compact">
+          <div>
+            <p class="eyebrow-dark">NEET (UG) 2026 Re-Examination</p>
+            <h2>Biology paper · Q91–180</h2>
+            <p class="lead">The integrated reNEET 2026 biology set is not in your local bank yet.</p>
+          </div>
+        </div>
+        <div class="empty-card">
+          <h3>Sync question bank</h3>
+          <p class="muted">Tap <strong>Sync bank</strong> in the top bar (admin) or reload after the latest <code>bank.json</code> is published.</p>
+        </div>
+      `;
+      return;
+    }
+
+    el.reneet2026View.innerHTML = `
+      <div class="view-hero compact">
+        <div>
+          <p class="eyebrow-dark">NEET (UG) 2026 Re-Examination</p>
+          <h2>Biology · reNEET 2026</h2>
+          <p class="lead">Full biology section (${paper.total} MCQs, canonical code-50 numbering). Practice the complete paper or focus on unseen / weak items.</p>
+        </div>
+        <div class="button-row">
+          <button type="button" class="primary-btn" data-action="start-reneet-all">Practice full paper (${paper.total})</button>
+          <button type="button" class="secondary-btn" data-action="start-reneet-unsolved">Unseen only (${paper.unsolved})</button>
+          <button type="button" class="secondary-btn" data-action="start-reneet-wrong">Weak only (${paper.wrong})</button>
+        </div>
+      </div>
+
+      <div class="stat-grid compact">
+        <article class="stat-card accent">
+          ${ring(paper.progress, 52)}
+          <div>
+            <strong>${paper.attempted}/${paper.total}</strong>
+            <span>Attempted</span>
+          </div>
+        </article>
+        <article class="stat-card">
+          <strong>${paper.mastered}</strong>
+          <span>Strong</span>
+        </article>
+        <article class="stat-card warn">
+          <strong>${paper.wrong}</strong>
+          <span>Weak</span>
+        </article>
+        <article class="stat-card">
+          <strong>${paper.unsolved}</strong>
+          <span>Not tried</span>
+        </article>
+        <article class="stat-card">
+          <strong>${paper.accuracy}%</strong>
+          <span>Accuracy</span>
+        </article>
+      </div>
+
+      <section class="panel-card">
+        <div class="panel-head">
+          <h3>Paper outline</h3>
+          <span class="muted">${paper.total} questions · Biology Q91–180</span>
+        </div>
+        <div class="queue-list reneet-outline">
+          ${paper.questions.map((question, index) => {
+            const qnum = deps.reneetQuestionNumber(question);
+            const status = deps.getQuestionStatus(studentId, question.id);
+            return `
+              <article class="queue-item">
+                <span class="queue-rank">Q${qnum || index + 1}</span>
+                <div>
+                  <p>${esc(question.question.slice(0, 120))}${question.question.length > 120 ? '…' : ''}</p>
+                </div>
+                ${statusBadge(status)}
+              </article>
+            `;
+          }).join('')}
+        </div>
+      </section>
     `;
   }
 
@@ -623,6 +744,7 @@
     if (tab === 'dashboard') renderDashboard();
     else if (tab === 'chapters') renderChapters();
     else if (tab === 'notes') renderNotes();
+    else if (tab === 'reneet2026') renderReneet2026();
     else if (tab === 'revision') renderRevision();
     else if (tab === 'audit') renderAudit();
   }
@@ -633,6 +755,7 @@
     renderChapters,
     renderChapterDetail,
     renderNotes,
+    renderReneet2026,
     renderRevision,
     renderAudit,
     refreshActiveView
