@@ -1069,6 +1069,7 @@ function handleViewAction(event) {
   const action = target.dataset.action;
 
   if (action === 'goto-chapters') switchTab('chapters');
+  else if (action === 'goto-reneet') switchTab('reneet2026');
   else if (action === 'start-revision') startRevisionPractice();
   else if (action === 'practice-mistakes') startFocusedRevision('wrong');
   else if (action === 'practice-pyq') startFocusedRevision('pyq');

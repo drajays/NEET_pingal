@@ -151,8 +151,37 @@
     const student = deps.state.progress.students[studentId];
     const recent = deps.getAuditLog(student, 5);
     const insights = deps.getCoachInsights ? deps.getCoachInsights(studentId) : null;
+    const reneet = deps.summarizeReneetPaper ? deps.summarizeReneetPaper(studentId) : { total: 0 };
 
     el.dashboardView.innerHTML = `
+      <section class="dashboard-feature reneet-feature">
+        <div class="reneet-feature-main">
+          <p class="eyebrow-light">NEET (UG) 2026 Re-Examination</p>
+          <h2><span class="reneet-feature-icon">🎓</span> reNEET 2026 · Biology</h2>
+          <p class="reneet-feature-lead">${reneet.total
+            ? `Full biology section — ${reneet.total} MCQs (Q91–180). ${reneet.unsolved} not tried yet.`
+            : 'Dedicated paper for the NEET 2026 re-exam biology section. Sync the bank to load questions.'}</p>
+          <div class="button-row">
+            <button type="button" class="primary-btn" data-action="goto-reneet">Open reNEET tab</button>
+            ${reneet.total ? `
+              <button type="button" class="secondary-btn light" data-action="start-reneet-all">Practice full paper</button>
+              <button type="button" class="secondary-btn light" data-action="start-reneet-unsolved">Unseen (${reneet.unsolved})</button>
+            ` : ''}
+          </div>
+        </div>
+        ${reneet.total ? `
+          <div class="reneet-feature-stats">
+            ${ring(reneet.progress, 64)}
+            <div class="reneet-feature-metrics">
+              <div><strong>${reneet.attempted}/${reneet.total}</strong><span>Attempted</span></div>
+              <div><strong>${reneet.mastered}</strong><span>Strong</span></div>
+              <div><strong>${reneet.wrong}</strong><span>Weak</span></div>
+              <div><strong>${reneet.accuracy}%</strong><span>Accuracy</span></div>
+            </div>
+          </div>
+        ` : ''}
+      </section>
+
       ${coachCardHtml(insights)}
 
       <div class="stat-grid">
