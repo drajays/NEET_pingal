@@ -375,6 +375,7 @@ button, input, select, textarea { font: inherit; }
 
 /* Queue & audit */
 .queue-list, .audit-log, .audit-mini, .coverage-table { display: grid; gap: 10px; }
+.reneet-outline { max-height: min(58vh, 560px); overflow-y: auto; }
 .queue-item, .audit-row, .audit-entry, .coverage-row {
   display: flex; gap: 12px; align-items: flex-start;
   padding: 12px; border: 1px solid var(--border); border-radius: 12px; background: #fafcfa;

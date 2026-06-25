@@ -88,6 +88,7 @@ const el = {
   notesView: document.getElementById('notesView'),
   chapterDetail: document.getElementById('chapterDetail'),
   revisionView: document.getElementById('revisionView'),
+  reneet2026View: document.getElementById('reneet2026View'),
   auditView: document.getElementById('auditView'),
   filterSubjects: document.getElementById('filterSubjects'),
   filterTopics: document.getElementById('filterTopics'),
@@ -682,6 +683,79 @@ function getRevisionPlanForStudent(studentId) {
   });
 }
 
+const RENEET_SUBTOPIC = 'reNEET 2026';
+const RENEET_TAG = 'reNEET2026';
+
+function isReneetQuestion(question) {
+  if (!question) return false;
+  if (question.subtopic === RENEET_SUBTOPIC) return true;
+  if ((question.tags || []).includes(RENEET_TAG)) return true;
+  return String(question.id || '').startsWith('reneet2026_');
+}
+
+function reneetQuestionNumber(question) {
+  const match = String(question?.id || '').match(/reneet2026_bio_(\d+)/i);
+  return match ? Number(match[1]) : 0;
+}
+
+function getReneetQuestions() {
+  return state.questions
+    .filter(isReneetQuestion)
+    .sort((a, b) => reneetQuestionNumber(a) - reneetQuestionNumber(b));
+}
+
+function summarizeReneetPaper(studentId) {
+  const id = studentId || state.activeStudentId;
+  const questions = getReneetQuestions();
+  let mastered = 0;
+  let wrong = 0;
+  let unsolved = 0;
+  let attempted = 0;
+
+  questions.forEach(question => {
+    const status = getQuestionStatus(id, question.id);
+    if (status === 'unsolved') unsolved += 1;
+    else attempted += 1;
+    if (status === 'mastered') mastered += 1;
+    if (status === 'wrong') wrong += 1;
+  });
+
+  const total = questions.length;
+  const accuracy = attempted
+    ? Math.round((mastered / attempted) * 100)
+    : 0;
+  const progress = total ? Math.round((attempted / total) * 100) : 0;
+
+  return { total, mastered, wrong, unsolved, attempted, accuracy, progress, questions };
+}
+
+function startReneetPractice(mode = 'all') {
+  const studentId = state.activeStudentId;
+  if (!studentId) {
+    showToastWarning('Select a student profile first.');
+    return;
+  }
+
+  let pool = getReneetQuestions();
+  if (!pool.length) {
+    showToastWarning('No reNEET 2026 questions in the bank yet. Sync the question bank.');
+    return;
+  }
+
+  if (mode === 'unsolved') {
+    pool = pool.filter(q => isQuestionUnsolved(studentId, q.id));
+  } else if (mode === 'wrong') {
+    pool = pool.filter(q => getQuestionStatus(studentId, q.id) === 'wrong');
+  }
+
+  if (!pool.length) {
+    showToastWarning(mode === 'wrong' ? 'No weak reNEET items to revise.' : 'All reNEET 2026 questions are already attempted.');
+    return;
+  }
+
+  startPracticeWithQuestions(pool);
+}
+
 function summarizeStudentForViews(studentId) {
   return NeetAnalytics.summarizeStudent(studentId, state.questions, {
     buildStudentStats,
@@ -1017,6 +1091,9 @@ function handleViewAction(event) {
   else if (action === 'practice-section') {
     applyChapterPractice(target.dataset.chapter, { sectionKey: target.dataset.section });
   }
+  else if (action === 'start-reneet-all') startReneetPractice('all');
+  else if (action === 'start-reneet-unsolved') startReneetPractice('unsolved');
+  else if (action === 'start-reneet-wrong') startReneetPractice('wrong');
   else if (action === 'practice-note-section') startPracticeForNoteSection(target.dataset.section);
   else if (action === 'goto-note') gotoNoteSection(target.dataset.section);
   else if (action === 'sync-progress') syncProgressFromRemote({ silent: false });
@@ -3489,7 +3566,7 @@ function bindEvents() {
     el.menuToggle.addEventListener('click', () => el.sidebar.classList.toggle('open'));
   }
 
-  [el.dashboardView, el.chaptersView, el.notesView, el.revisionView, el.auditView, el.practiceResults].forEach(view => {
+  [el.dashboardView, el.chaptersView, el.notesView, el.reneet2026View, el.revisionView, el.auditView, el.practiceResults].forEach(view => {
     if (view) view.addEventListener('click', handleViewAction);
   });
 
@@ -3888,6 +3965,9 @@ async function init() {
     getQuestionStatus,
     getAuditLog: getAuditLogForStudent,
     getCoachInsights: getCoachInsightsForStudent,
+    summarizeReneetPaper,
+    getReneetQuestions,
+    reneetQuestionNumber,
     populateStudentSelect,
     noteSectionIdForQuestion,
     getEditedNotes,

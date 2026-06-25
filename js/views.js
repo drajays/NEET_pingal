@@ -338,6 +338,98 @@
     `;
   }
 
+  function renderReneet2026() {
+    const el = deps.el;
+    if (!el.reneet2026View) return;
+
+    const studentId = deps.state.activeStudentId;
+    if (!studentId) {
+      el.reneet2026View.innerHTML = '<div class="empty-card"><h3>Select a student</h3><p class="muted">Choose your profile from the top bar to track reNEET 2026 progress.</p></div>';
+      return;
+    }
+
+    const paper = deps.summarizeReneetPaper(studentId);
+    if (!paper.total) {
+      el.reneet2026View.innerHTML = `
+        <div class="view-hero compact">
+          <div>
+            <p class="eyebrow-dark">NEET (UG) 2026 Re-Examination</p>
+            <h2>Biology paper · Q91–180</h2>
+            <p class="lead">The integrated reNEET 2026 biology set is not in your local bank yet.</p>
+          </div>
+        </div>
+        <div class="empty-card">
+          <h3>Sync question bank</h3>
+          <p class="muted">Tap <strong>Sync bank</strong> in the top bar (admin) or reload after the latest <code>bank.json</code> is published.</p>
+        </div>
+      `;
+      return;
+    }
+
+    el.reneet2026View.innerHTML = `
+      <div class="view-hero compact">
+        <div>
+          <p class="eyebrow-dark">NEET (UG) 2026 Re-Examination</p>
+          <h2>Biology · reNEET 2026</h2>
+          <p class="lead">Full biology section (${paper.total} MCQs, canonical code-50 numbering). Practice the complete paper or focus on unseen / weak items.</p>
+        </div>
+        <div class="button-row">
+          <button type="button" class="primary-btn" data-action="start-reneet-all">Practice full paper (${paper.total})</button>
+          <button type="button" class="secondary-btn" data-action="start-reneet-unsolved">Unseen only (${paper.unsolved})</button>
+          <button type="button" class="secondary-btn" data-action="start-reneet-wrong">Weak only (${paper.wrong})</button>
+        </div>
+      </div>
+
+      <div class="stat-grid compact">
+        <article class="stat-card accent">
+          ${ring(paper.progress, 52)}
+          <div>
+            <strong>${paper.attempted}/${paper.total}</strong>
+            <span>Attempted</span>
+          </div>
+        </article>
+        <article class="stat-card">
+          <strong>${paper.mastered}</strong>
+          <span>Strong</span>
+        </article>
+        <article class="stat-card warn">
+          <strong>${paper.wrong}</strong>
+          <span>Weak</span>
+        </article>
+        <article class="stat-card">
+          <strong>${paper.unsolved}</strong>
+          <span>Not tried</span>
+        </article>
+        <article class="stat-card">
+          <strong>${paper.accuracy}%</strong>
+          <span>Accuracy</span>
+        </article>
+      </div>
+
+      <section class="panel-card">
+        <div class="panel-head">
+          <h3>Paper outline</h3>
+          <span class="muted">${paper.total} questions · Biology Q91–180</span>
+        </div>
+        <div class="queue-list reneet-outline">
+          ${paper.questions.map((question, index) => {
+            const qnum = deps.reneetQuestionNumber(question);
+            const status = deps.getQuestionStatus(studentId, question.id);
+            return `
+              <article class="queue-item">
+                <span class="queue-rank">Q${qnum || index + 1}</span>
+                <div>
+                  <p>${esc(question.question.slice(0, 120))}${question.question.length > 120 ? '…' : ''}</p>
+                </div>
+                ${statusBadge(status)}
+              </article>
+            `;
+          }).join('')}
+        </div>
+      </section>
+    `;
+  }
+
   function renderRevision() {
     const el = deps.el;
     if (!el.revisionView) return;
@@ -623,6 +715,7 @@
     if (tab === 'dashboard') renderDashboard();
     else if (tab === 'chapters') renderChapters();
     else if (tab === 'notes') renderNotes();
+    else if (tab === 'reneet2026') renderReneet2026();
     else if (tab === 'revision') renderRevision();
     else if (tab === 'audit') renderAudit();
   }
@@ -633,6 +726,7 @@
     renderChapters,
     renderChapterDetail,
     renderNotes,
+    renderReneet2026,
     renderRevision,
     renderAudit,
     refreshActiveView
