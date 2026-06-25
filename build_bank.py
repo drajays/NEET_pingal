@@ -148,6 +148,7 @@ def main() -> int:
         root / "recovered_questions.json",
     ]
     extra_csv = root / "neet_biology_questions.csv"
+    reneet_json = root / "reneet2026_biology.json"
     chapter_dirs = [
         root / "ncert_mcqs" / "bio11",
         root / "ncert_mcqs" / "bio12",
@@ -194,6 +195,23 @@ def main() -> int:
             csv_added += 1
         if csv_added:
             print(f"Added {csv_added} unique questions from {extra_csv.name}")
+
+    if reneet_json.exists():
+        reneet_added = 0
+        for item in load_questions(reneet_json):
+            key = (item.get("question") or "").strip().lower()
+            if not key or key in seen:
+                duplicates += 1
+                continue
+            cleaned = sanitize_question(item)
+            if not is_gradeable(cleaned):
+                skipped_invalid += 1
+                continue
+            seen.add(key)
+            merged.append(cleaned)
+            reneet_added += 1
+        if reneet_added:
+            print(f"Added {reneet_added} unique questions from {reneet_json.name}")
 
     for directory in chapter_dirs:
         if not directory.exists():

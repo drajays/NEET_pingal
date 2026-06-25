@@ -32,6 +32,7 @@ jobs:
           [ -f progress.json ] && cp progress.json _site/ || true
           [ -f flags.json ]    && cp flags.json    _site/ || true
           [ -f bio_classsif.png ] && cp bio_classsif.png _site/ || true
+          if [ -d images/reneet2026 ]; then mkdir -p _site/images && cp -r images/reneet2026 _site/images/; fi
 
       - uses: actions/configure-pages@v5
 

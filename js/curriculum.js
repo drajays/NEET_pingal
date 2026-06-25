@@ -8,7 +8,8 @@
   const SECTION_TYPES = [
     { key: 'level1', label: 'Level I', icon: '📝' },
     { key: 'level2', label: 'Level II', icon: '🔬' },
-    { key: 'pyq', label: 'Previous Years NEET', icon: '🎯' }
+    { key: 'pyq', label: 'Previous Years NEET', icon: '🎯' },
+    { key: 'reneet2026', label: 'reNEET 2026', icon: '🎓' }
   ];
 
   const CURRICULUM = [
@@ -121,6 +122,13 @@
             'Biodiversity and Conservation',
             'Environmental Issues'
           ]
+        },
+        {
+          id: 'xii-reneet',
+          label: 'NEET 2026 Re-Examination',
+          chapters: [
+            'NEET 2026 Re-Exam'
+          ]
         }
       ]
     }
@@ -136,6 +144,7 @@
     if (raw === 'level i' || raw === 'level 1') return 'level1';
     if (raw === 'level ii' || raw === 'level 2') return 'level2';
     if (raw.includes('previous') || raw === 'pyq') return 'pyq';
+    if (raw.includes('reneet') || raw.includes('re-neet') || raw.includes('re neet')) return 'reneet2026';
     return 'other';
   }
 
